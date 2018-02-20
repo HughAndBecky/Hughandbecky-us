@@ -2,41 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent &amp; Upcoming Talks on Hugh&#39;s Resume</title>
-    <link>https://hughandbecky.github.io/Hugh-CV/talk/</link>
+    <link>https://hughandbecky.us/Hugh-CV/talk/</link>
     <description>Recent content in Recent &amp; Upcoming Talks on Hugh&#39;s Resume</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Hugh Paterson III &amp;copy; 2018</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://hughandbecky.github.io/Hugh-CV/talk/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://hughandbecky.us/Hugh-CV/talk/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Example Talk</title>
-      <link>https://hughandbecky.github.io/Hugh-CV/talk/talk1/</link>
+      <link>https://hughandbecky.us/Hugh-CV/talk/talk1/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 -0800</pubDate>
       
-      <guid>https://hughandbecky.github.io/Hugh-CV/talk/talk1/</guid>
+      <guid>https://hughandbecky.us/Hugh-CV/talk/talk1/</guid>
       <description>Embed your slides or video here using shortcodes. Further details can easily be added using Markdown and $\rm \LaTeX$ math code.</description>
     </item>
     
     <item>
       <title>Lasting Linguistics: Making a Meaningful Mark</title>
-      <link>https://hughandbecky.github.io/Hugh-CV/talk/2009-linguistics-leaving-mark/</link>
+      <link>https://hughandbecky.us/Hugh-CV/talk/2009-linguistics-leaving-mark/</link>
       <pubDate>Thu, 30 Jul 2009 20:51:12 -0700</pubDate>
       
-      <guid>https://hughandbecky.github.io/Hugh-CV/talk/2009-linguistics-leaving-mark/</guid>
+      <guid>https://hughandbecky.us/Hugh-CV/talk/2009-linguistics-leaving-mark/</guid>
       <description>Citable as:
 Hugh J. Paterson III, John Clifton &amp;amp; Steve A. Marlett (2009) Lasting Linguistics: Making a Meaningful Mark. University of North Dakota 2009 linguistics colloquium series, 30 July.</description>
     </item>
     
     <item>
       <title>Repair strategies used with the interdental approximant in some Philippine languages</title>
-      <link>https://hughandbecky.github.io/Hugh-CV/talk/2009-repair-strategies-interdental-gial/</link>
+      <link>https://hughandbecky.us/Hugh-CV/talk/2009-repair-strategies-interdental-gial/</link>
       <pubDate>Mon, 18 May 2009 00:00:00 +0000</pubDate>
       
-      <guid>https://hughandbecky.github.io/Hugh-CV/talk/2009-repair-strategies-interdental-gial/</guid>
+      <guid>https://hughandbecky.us/Hugh-CV/talk/2009-repair-strategies-interdental-gial/</guid>
       <description>Citable as:
 Hugh J. Paterson III (2009) Repair strategies used with the interdental approximant in some Philippine languages. Presentation at the Graduate Institute of Applied Linguistics, Academic Forum, 18 May.</description>
     </item>
