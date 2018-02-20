@@ -1,0 +1,102 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0px;
+  overflow: hidden;
+}
+.wrapper {
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  overflow: hidden;
+}
+
+.hugh-vert, .becky-vert {
+  position: absolute;
+  z-index: 2;
+  font-size: 3em;
+  text-transform: uppercase;
+  font-family: 'Helvetica', sans-serif;
+  color: white;
+  writing-mode: vertical-rl;
+  text-orientation: upright;
+  top: 0px;
+  padding-top: 10px;
+  height: 100vh;
+  display: none;
+}
+
+.hugh-vert {
+  right: 0px;
+}
+.becky-vert {
+  left: 0px;
+}
+
+.hugh, .becky {
+  display: flex;
+  padding-top: 1em;
+  flex-grow: 1;
+  justify-content: center;
+  font-size: 3em;
+  text-transform: uppercase;
+  font-family: 'Helvetica', sans-serif;
+  color: white;
+  background-size: cover;
+}
+
+.hugh {
+  background-image: url('https://github.com/HughAndBecky/Hughandbecky-us/blob/master/Hugh_Work.jpg?raw=true');
+  background-position: top right;
+  filter: grayscale(100%);
+}
+
+.becky {
+  background-image: url('https://github.com/HughAndBecky/Hughandbecky-us/blob/master/Becky_Work.jpg?raw=true');
+  background-position: top left;
+  filter: grayscale(100%);
+}
+
+.becky:hover, .hugh:hover {
+  position: absolute;
+  z-index: 1;
+  top: 0;
+  bottom: 0;
+  filter: grayscale(0%);
+}
+
+
+.hugh:hover {
+  right: 0;
+  left: 55px;
+}
+
+.becky:hover {
+  right: 55px;
+  left: 0;
+}
+
+
+.becky:hover > span, .hugh:hover > span {
+  writing-mode: vertical-rl;
+  text-orientation: upright;
+  position: absolute;
+}
+
+.becky:hover > span {
+  left: 16px;
+  top: 16px;
+}
+
+.hugh:hover > span {
+  right: 16px;
+  top: 16px;
+}
+
+
+.hugh:hover ~ .becky-vert, .becky:hover ~ .hugh-vert {
+
+  background: rgba(0,0,0,0.5);
+  display: block;
+}
