@@ -41,16 +41,6 @@
     </item>
     
     <item>
-      <title>Example Talk</title>
-      <link>http://www.hughandbecky.us/Hugh-CV/talk/talk1/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0800</pubDate>
-      
-      <guid>http://www.hughandbecky.us/Hugh-CV/talk/talk1/</guid>
-      <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://sourcethemes.com/academic/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Open Source Code Serving Endangered Languages</title>
       <link>http://www.hughandbecky.us/Hugh-CV/publication/2016-open-source-code/</link>
       <pubDate>Mon, 23 May 2016 00:00:00 +0000</pubDate>
@@ -262,6 +252,16 @@ The application providing the best fit solution needs to be able to suggest a be
 &lt;p&gt;Upon hearing of my new found skills, language users from the Sochiapam Chinantec community asked me to make an OS X keyboard for their language. In both cases existing keyboard layouts were matched to synchronize the user experience across the OSes.&lt;/p&gt;
 
 &lt;p&gt;Some of the design choices in the original layouts did not make sense to me. Hence the birth of the &lt;a href=&#34;http://www.hughandbecky.us/Hugh-CV/project/2014-typing-expereince/&#34;&gt;The minority language typing experience&lt;/a&gt; project.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Audio Digitization</title>
+      <link>http://www.hughandbecky.us/Hugh-CV/project/2010-americas-area-audio-digitization/</link>
+      <pubDate>Fri, 24 Feb 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.hughandbecky.us/Hugh-CV/project/2010-americas-area-audio-digitization/</guid>
+      <description>&lt;p&gt;This project involved the accession, cataloging and digitization of several collections. It also involved cataloging of multiple collections already accessioned but not yet cataloged. I was responsible for identifying and collecting metadata relevant for audio collections. I communicated with the SIL Language and Culture Archive staff when metadata schemas in place were insufficient for audio collections. I identified and recommended changes to metadata profiles used at the time by the Language and Culture Archives. I consulted industry best practices and established quality control procedures related to the digitization of cassette tapes and reel to reel tapes. I served as project manager, with a volunteer workforce.&lt;/p&gt;
 </description>
     </item>
     
