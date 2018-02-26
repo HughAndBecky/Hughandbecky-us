@@ -29,9 +29,11 @@ body {
 
 .hugh-vert {
   right: 0px;
+  z-index: 2;
 }
 .becky-vert {
   left: 0px;
+  z-index: 2;
 }
 
 .hugh, .becky {
@@ -44,6 +46,7 @@ body {
   font-family: 'Helvetica', sans-serif;
   color: white;
   background-size: cover;
+  z-index: 1;
 }
 
 .hugh {
