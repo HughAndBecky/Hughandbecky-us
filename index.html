@@ -1,39 +1,108 @@
 <!DOCTYPE html>
-<html lang="en-US">
-<head>
-<meta charset="UTF-8">
-<meta name="description" content="An interactive and explorative introduction to the academic work of Hugh and Becky Paterson.">
-  <meta name="keywords" content="Hugh Paterson III, Becky Paterson, Linguistics, Nigeria, Mexico, West-Kanji, Me'phaa, Text input, Resume, Curriculum Vitae, publications">
-<meta name="author" content="Nate Nichols">
-<meta name="author" content="Rebecca Paterson">
-<meta name="author" content="Hugh Paterson III">
-  <meta name="geo.placename" content="Mexico">
-  <meta name="geo.placename" content="Nigeria">
-  <meta name="geo.placename" content="United States of America">
-  <meta name="geo.placename" content="Oregon">
-  <meta name="dcterms.rightsHolder" content="Hugh Paterson III and Becky Paterson">
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Hugh & Becky</title>
 
-<title>Hugh &amp; Becky Paterson Curriculum Vitae</title>
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-31042070-2"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+    <style>
 
-  gtag('config', 'UA-31042070-2');
-</script>
+      * {
+        box-sizing: border-box;
+      }
+      body {
+        margin: 0px;
+      }
 
-<link rel="stylesheet" href="styles.css">
-</head>
-<body>
-<div class="wrapper">
-  <div class="hugh-vert">Hugh</div>
-  <div class="becky-vert">Becky</div>
-  <a href="javascript: void 0" class="becky"><span>Becky</span></a>
+      .wrap {
+        display: flex;
+        justify-content: space-between;
 
-  <a href="/Hugh-CV/" class="hugh"><span>Hugh</span></a>
+      }
 
-</div>
-</body>
+      .block {
+        height: 100vh;
+        padding-top: 30px;
+        display: flex;
+        flex-direction: column;
+        transition: width 400ms ease-in-out;
+        will-change: width;
+        text-decoration: none;
+        filter: grayscale(100%);
+        overflow: hidden;
+      }
+      .block.b {
+        background: url('becky.jpg');
+        background-size: cover;
+        align-items: flex-start;
+        width: 60%;
+      }
+
+      .block.h {
+        align-items: flex-end;
+        background: url('hugh.jpg');
+        background-size: cover;
+        background-position: top right;
+        width: 40%;
+      }
+
+      .block.b > h1 {
+        margin-left: 20px;
+
+      }
+
+      .block.b > h1 {
+        margin-right: 20px;
+      }
+
+      h1 {
+        writing-mode: vertical-lr;
+        text-orientation: upright;
+        margin: 0px;
+        font-size: 90px;
+        font-family: sans-serif;
+        font-weight: bold;
+        text-transform: uppercase;
+        color: white;
+        letter-spacing: 20px;
+        text-decoration: none;
+        text-shadow: #000 1px 0 20px;
+        width: 100px;
+      }
+
+    </style>
+  </head>
+  <body>
+
+    <div class="wrap">
+      <a class="block b" href="/">
+        <h1>Becky</h1>
+      </a>
+      <a class="block h" href="/">
+        <h1>Hugh</h1>
+      </a>
+    </div>
+
+    <script>
+      var hugh = document.querySelector('.h');
+      var becky = document.querySelector('.b');
+      var h_text = document.querySelector('.h > h1');
+      var b_text = document.querySelector('.b > h1');
+
+      hugh.addEventListener('mouseover', function (e){
+        becky.style.width = "20%";
+        hugh.style.width = "80%";
+        hugh.style.filter = "grayscale(0%)"
+        becky.style.filter = "grayscale(100%)"
+      });
+
+      becky.addEventListener('mouseover', function (e){
+        becky.style.width = "80%";
+        hugh.style.width = "20%";
+        becky.style.filter = "grayscale(0%)"
+        hugh.style.filter = "grayscale(100%)"
+      });
+
+
+    </script>
+  </body>
 </html>
