@@ -12,5 +12,16 @@
 	<atom:link href="https://hughandbecky.us/Hugh-CV/post/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>TEI Lexicon Bibliography</title>
+      <link>https://hughandbecky.us/Hugh-CV/post/tei-lexicon-bibliography/</link>
+      <pubDate>Wed, 08 Aug 2018 14:35:45 -0700</pubDate>
+      
+      <guid>https://hughandbecky.us/Hugh-CV/post/tei-lexicon-bibliography/</guid>
+      <description>&lt;p&gt;This is a short non-exhaustive bibliography of lexicon projects which have tested or opted to use the XML TEI format for their data.
+
+Citations are kept in a GitHub gist. Comments are welcome via GitHub.&lt;/p&gt;</description>
+    </item>
+    
   </channel>
 </rss>
