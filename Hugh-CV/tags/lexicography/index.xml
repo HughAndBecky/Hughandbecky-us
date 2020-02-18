@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lexicography on Hugh&#39;s Curriculum Vitae</title>
+    <link>https://hughandbecky.us/Hugh-CV/tags/lexicography/</link>
+    <description>Recent content in Lexicography on Hugh&#39;s Curriculum Vitae</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Hugh Paterson III &amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 03 Mar 2019 00:00:00 -0800</lastBuildDate>
+    
+	<atom:link href="https://hughandbecky.us/Hugh-CV/tags/lexicography/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Copyright and the distributed lexicon</title>
+      <link>https://hughandbecky.us/Hugh-CV/talk/2019-copyright-and-the-distributed-lexicon/</link>
+      <pubDate>Sun, 03 Mar 2019 00:00:00 -0800</pubDate>
+      
+      <guid>https://hughandbecky.us/Hugh-CV/talk/2019-copyright-and-the-distributed-lexicon/</guid>
+      <description>Citeable as
+Hugh Paterson III. 2019. Copyright and the Distributed Lexicon. Presentation at the 6th International Conference on Language Documentation &amp;amp; Conservation (ICLDC), Connecting Communities, Languages &amp;amp; Technology, February 28-March 3, 2019, at the Hawaiʻi Imin International Conference Center on the campus of the University of Hawaiʻi at Mānoa. ​</description>
+    </item>
+    
+    <item>
+      <title>TEI Lexicon Bibliography</title>
+      <link>https://hughandbecky.us/Hugh-CV/post/tei-lexicon-bibliography/</link>
+      <pubDate>Wed, 08 Aug 2018 14:35:45 -0700</pubDate>
+      
+      <guid>https://hughandbecky.us/Hugh-CV/post/tei-lexicon-bibliography/</guid>
+      <description>&lt;p&gt;This is a short non-exhaustive bibliography of lexicon projects which have tested or opted to use the XML TEI format for their data.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>U̠t-Ma&#39;in Lexicography</title>
+      <link>https://hughandbecky.us/Hugh-CV/project/2017-utmatin-lexicography/</link>
+      <pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://hughandbecky.us/Hugh-CV/project/2017-utmatin-lexicography/</guid>
+      <description>A collaboration with Becky Paterson to organize the various layers of U̠t-Ma&amp;rsquo;in linguistic data into a shareable resource.</description>
+    </item>
+    
+    <item>
+      <title>Lexical dataset archiving: an assessment of practice</title>
+      <link>https://hughandbecky.us/Hugh-CV/publication/2015-lexical-database-archiving/</link>
+      <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://hughandbecky.us/Hugh-CV/publication/2015-lexical-database-archiving/</guid>
+      <description>Citeable as:
+Hugh J. Paterson III (2015) Lexical dataset archiving: an assessment of practice. Poster presented at the 4th International Conference on Language Documentation and Conservation, at the Ala Moana Hotel in Honolulu, HI. February 26th – March 1st Version 1.0
+Bibliography for Poster:  Bird, Steven &amp;amp; Gary F. Simons. 2003. Seven dimension of portability for language documentation and description. Language 79(3). 557–582. doi:10.1353/lan.2003.0149. Himmelmann, Nikolaus P. 1998. Documentary and Descriptive Linguistics.</description>
+    </item>
+    
+    <item>
+      <title>Getting things out of FLEx: Dictionaries in multiple modes</title>
+      <link>https://hughandbecky.us/Hugh-CV/talk/2011-getting-things-out-of-flex/</link>
+      <pubDate>Sun, 09 Oct 2011 20:58:01 -0700</pubDate>
+      
+      <guid>https://hughandbecky.us/Hugh-CV/talk/2011-getting-things-out-of-flex/</guid>
+      <description>Citable as:
+Hugh J. Paterson III (2011) Getting things out of FLEx: Dictionaries in multiple modes. International Workshop on Fieldworks Software. Universiti Malaysia Sabah, 17-21 October 2011.</description>
+    </item>
+    
+  </channel>
+</rss>

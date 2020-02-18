@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Graph on Hugh&#39;s Curriculum Vitae</title>
+    <link>https://hughandbecky.us/Hugh-CV/tags/graph/</link>
+    <description>Recent content in Graph on Hugh&#39;s Curriculum Vitae</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Hugh Paterson III &amp;copy; 2018</copyright>
+    <lastBuildDate>Tue, 30 Apr 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://hughandbecky.us/Hugh-CV/tags/graph/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A schema for describing international agreements, cooperating nations and sovereign states as a sub-component in a graph database</title>
+      <link>https://hughandbecky.us/Hugh-CV/manuscripts/2019-sates-and-treaties/</link>
+      <pubDate>Tue, 30 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://hughandbecky.us/Hugh-CV/manuscripts/2019-sates-and-treaties/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

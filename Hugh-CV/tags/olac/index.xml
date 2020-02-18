@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>OLAC on Hugh&#39;s Curriculum Vitae</title>
+    <link>https://hughandbecky.us/Hugh-CV/tags/olac/</link>
+    <description>Recent content in OLAC on Hugh&#39;s Curriculum Vitae</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Hugh Paterson III &amp;copy; 2018</copyright>
+    <lastBuildDate>Fri, 31 May 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://hughandbecky.us/Hugh-CV/tags/olac/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Language Educational Resources Grant Proposal</title>
+      <link>https://hughandbecky.us/Hugh-CV/manuscripts/2019-grant-proposal-language-educational-resources/</link>
+      <pubDate>Fri, 31 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://hughandbecky.us/Hugh-CV/manuscripts/2019-grant-proposal-language-educational-resources/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OSS, Commercial &amp; Closed source</title>
+      <link>https://hughandbecky.us/Hugh-CV/manuscripts/2018-oss-commercial-closed-source/</link>
+      <pubDate>Sun, 15 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://hughandbecky.us/Hugh-CV/manuscripts/2018-oss-commercial-closed-source/</guid>
+      <description>This draft came about because we realized that our previous work had some limitations. We want to better serve software seekers with a fuller array of actionable and useful data.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Linux on Hugh&#39;s Curriculum Vitae</title>
+    <link>https://hughandbecky.us/Hugh-CV/tags/linux/</link>
+    <description>Recent content in Linux on Hugh&#39;s Curriculum Vitae</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Hugh Paterson III &amp;copy; 2018</copyright>
+    <lastBuildDate>Mon, 09 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://hughandbecky.us/Hugh-CV/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Wasta Linux additions for the language scientist.</title>
+      <link>https://hughandbecky.us/Hugh-CV/project/2017-wasta-language-scientist/</link>
+      <pubDate>Mon, 09 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://hughandbecky.us/Hugh-CV/project/2017-wasta-language-scientist/</guid>
+      <description>Some changes and additions to &lt;a href=&#34;https://sites.google.com/site/wastalinux/&#34; target=&#34;_blank&#34;&gt;Wasta Linux &lt;/a&gt; for the language and linguistic Scientist. It is basically a long bash script, and some additional settings.</description>
+    </item>
+    
+  </channel>
+</rss>

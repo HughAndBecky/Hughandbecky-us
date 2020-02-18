@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GIS on Hugh&#39;s Curriculum Vitae</title>
+    <link>https://hughandbecky.us/Hugh-CV/tags/gis/</link>
+    <description>Recent content in GIS on Hugh&#39;s Curriculum Vitae</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Hugh Paterson III &amp;copy; 2018</copyright>
+    <lastBuildDate>Sat, 12 Mar 2011 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://hughandbecky.us/Hugh-CV/tags/gis/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Geo-Linguistics</title>
+      <link>https://hughandbecky.us/Hugh-CV/project/2011-geo-linguistics/</link>
+      <pubDate>Sat, 12 Mar 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://hughandbecky.us/Hugh-CV/project/2011-geo-linguistics/</guid>
+      <description>This project seeks to visually display patterns about languages as those visualizations relate to cartography.</description>
+    </item>
+    
+  </channel>
+</rss>

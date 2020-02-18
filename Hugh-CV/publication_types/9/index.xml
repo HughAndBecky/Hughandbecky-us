@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>9 on Hugh&#39;s Curriculum Vitae</title>
+    <link>https://hughandbecky.us/Hugh-CV/publication_types/9/</link>
+    <description>Recent content in 9 on Hugh&#39;s Curriculum Vitae</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Hugh Paterson III &amp;copy; 2018</copyright>
+    <lastBuildDate>Sat, 31 Mar 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://hughandbecky.us/Hugh-CV/publication_types/9/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Keyboard layouts across languages: A Text input analysis</title>
+      <link>https://hughandbecky.us/Hugh-CV/publication/2018-thesis-proposal/</link>
+      <pubDate>Sat, 31 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://hughandbecky.us/Hugh-CV/publication/2018-thesis-proposal/</guid>
+      <description>Proposal Digital language death is a real issue for many small and under-resourced languages. To use Kornai’s (2013) terms, the digital moribund state of languages is accelerated by the lack of intuitive and useful text input methods for many minority and under-resourced languages. Even if text input methods currently exist for a language, it is often the case that they are disruptive (rather than smooth) to the digital text production process, due to inadequately optimized keyboards.</description>
+    </item>
+    
+  </channel>
+</rss>

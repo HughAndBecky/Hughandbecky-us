@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Audio on Hugh&#39;s Curriculum Vitae</title>
+    <link>https://hughandbecky.us/Hugh-CV/tags/audio/</link>
+    <description>Recent content in Audio on Hugh&#39;s Curriculum Vitae</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Hugh Paterson III &amp;copy; 2018</copyright>
+    <lastBuildDate>Mon, 20 May 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://hughandbecky.us/Hugh-CV/tags/audio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>General introduction to the Materiality of Audio objects in the study of linguistics</title>
+      <link>https://hughandbecky.us/Hugh-CV/manuscripts/2019-general-introduction-to-the-materiality-of-audio-related-to-linguistics/</link>
+      <pubDate>Mon, 20 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://hughandbecky.us/Hugh-CV/manuscripts/2019-general-introduction-to-the-materiality-of-audio-related-to-linguistics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Archives not Participating in OLAC</title>
+      <link>https://hughandbecky.us/Hugh-CV/manuscripts/2014-non-olac-language-archives/</link>
+      <pubDate>Wed, 14 May 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://hughandbecky.us/Hugh-CV/manuscripts/2014-non-olac-language-archives/</guid>
+      <description>Background of the paper OLAC is the Open Language Archive Community. This is a community of digital data collections which aggregate their holdings data to a common place so that linguists can view the data by a variety of parameters which are relevant to linguists. The two major parts of OLAC are the aggregator and a metadata standard. The metadata standard is OAI compliant and pairs well with Dublin Core.</description>
+    </item>
+    
+    <item>
+      <title>Audio File Formats - A follow up to the SIL internal conversation on the Linguistics Discussion List</title>
+      <link>https://hughandbecky.us/Hugh-CV/manuscripts/2014-audio-file-formats/</link>
+      <pubDate>Mon, 17 Mar 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://hughandbecky.us/Hugh-CV/manuscripts/2014-audio-file-formats/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Audio Digitization</title>
+      <link>https://hughandbecky.us/Hugh-CV/project/2010-americas-area-audio-digitization/</link>
+      <pubDate>Fri, 24 Feb 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://hughandbecky.us/Hugh-CV/project/2010-americas-area-audio-digitization/</guid>
+      <description>SIL Americas Area project to digitize analogue audio mediums.</description>
+    </item>
+    
+  </channel>
+</rss>

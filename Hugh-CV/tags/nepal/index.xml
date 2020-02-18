@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nepal on Hugh&#39;s Curriculum Vitae</title>
+    <link>https://hughandbecky.us/Hugh-CV/tags/nepal/</link>
+    <description>Recent content in Nepal on Hugh&#39;s Curriculum Vitae</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Hugh Paterson III &amp;copy; 2018</copyright>
+    <lastBuildDate>Fri, 15 Mar 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://hughandbecky.us/Hugh-CV/tags/nepal/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Chepang (Nepal) ASR</title>
+      <link>https://hughandbecky.us/Hugh-CV/manuscripts/2019-chepang-asr/</link>
+      <pubDate>Fri, 15 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://hughandbecky.us/Hugh-CV/manuscripts/2019-chepang-asr/</guid>
+      <description>This work has no written results yet. It is purely experimental at this stage.</description>
+    </item>
+    
+  </channel>
+</rss>
