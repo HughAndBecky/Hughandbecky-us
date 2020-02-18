@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hugh&#39;s Curriculum Vitae on Hugh&#39;s Curriculum Vitae</title>
@@ -6,9 +5,22 @@
     <description>Recent content in Hugh&#39;s Curriculum Vitae on Hugh&#39;s Curriculum Vitae</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Hugh Paterson III &amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <copyright>Hugh Paterson III &amp;copy; 2018-2020</copyright>
+    <lastBuildDate>Sat, 08 Feb 2020 14:35:45 +0100</lastBuildDate>
     <atom:link href="/Hugh-CV/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Bibliography of select papers on &#39;ethics&#39; and &#39;informed consent&#39; in Linguistic research</title>
+      <link>https://hughandbecky.us/Hugh-CV/post/informed-consent-irb-biblography/</link>
+      <pubDate>Sat, 08 Feb 2020 14:35:45 +0100</pubDate>
+      
+      <guid>https://hughandbecky.us/Hugh-CV/post/informed-consent-irb-biblography/</guid>
+      <description>&lt;p&gt;This is a short non-exhaustive bibliography of papers which discuss &lt;em&gt;Informed consent&lt;/em&gt; in the context of one of the following: minority language communities, low literacy levels, language research, the legal aspect of the US IRB, and &amp;lsquo;how informed is informed consent&amp;rsquo; . I have several nagging questions, which I wonder how discussed they are: &amp;ldquo;Is Intellectual property rights of minority language people covered in the typical informed consent protocols of language researchers?&amp;rdquo; and &amp;ldquo;How ethical is it to create voice-to-speech tools for a small language community when only one or two people provide voice samples?&amp;rdquo; When working independently, outside the confines of an organization these factors are not mitigated by institutional barriers to creativity or participant considerations.&lt;/p&gt;
+
+&lt;p&gt;Citations are kept in a GitHub gist. Comments are welcome via GitHub.&lt;/p&gt;
+
+&lt;script type=&#34;application/javascript&#34; src=&#34;//gist.github.com/HughP/b34e56efd7199bde727493f438a79f01.js&#34;&gt;&lt;/script&gt;</description>
+    </item>
     
     <item>
       <title>Language Educational Resources Grant Proposal</title>
@@ -49,7 +61,7 @@
     <item>
       <title>Archives: Features without a buisness plan</title>
       <link>https://hughandbecky.us/Hugh-CV/talk/2019-archives-business-plan/</link>
-      <pubDate>Fri, 26 Apr 2019 00:00:00 -0700</pubDate>
+      <pubDate>Fri, 26 Apr 2019 00:00:00 +0200</pubDate>
       
       <guid>https://hughandbecky.us/Hugh-CV/talk/2019-archives-business-plan/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Citeable as&lt;/strong&gt;&lt;/p&gt;
@@ -126,7 +138,7 @@
     <item>
       <title>Copyright and the distributed lexicon</title>
       <link>https://hughandbecky.us/Hugh-CV/talk/2019-copyright-and-the-distributed-lexicon/</link>
-      <pubDate>Sun, 03 Mar 2019 00:00:00 -0800</pubDate>
+      <pubDate>Sun, 03 Mar 2019 00:00:00 +0100</pubDate>
       
       <guid>https://hughandbecky.us/Hugh-CV/talk/2019-copyright-and-the-distributed-lexicon/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Citeable as&lt;/strong&gt;&lt;/p&gt;
@@ -157,19 +169,6 @@
       <guid>https://hughandbecky.us/Hugh-CV/publication/2019-the-death-of-victor-hugos/</guid>
       <description>&lt;p&gt;This version is only viewable by invite only until formally published.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Tone in Whispered Speech Bibliography</title>
-      <link>https://hughandbecky.us/Hugh-CV/post/tone-in-whispered-speech-bibliography/</link>
-      <pubDate>Sun, 16 Dec 2018 14:35:45 -0700</pubDate>
-      
-      <guid>https://hughandbecky.us/Hugh-CV/post/tone-in-whispered-speech-bibliography/</guid>
-      <description>&lt;p&gt;This is a short non-exhaustive bibliography of instigations and their reports when looking at tone in whispered speech.
-
-Citations are kept in a GitHub gist. Comments are welcome via GitHub.&lt;/p&gt;
-
-&lt;script src=&#34;//gist.github.com/HughP/2be26c1ad99a09de4a0247204aeb1d64.js&#34;&gt;&lt;/script&gt;</description>
     </item>
     
   </channel>

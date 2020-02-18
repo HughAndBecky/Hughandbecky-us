@@ -6,11 +6,20 @@
     <description>Recent content in Posts on Hugh&#39;s Curriculum Vitae</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Hugh Paterson III &amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0800</lastBuildDate>
+    <copyright>Hugh Paterson III &amp;copy; 2018-2020</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://hughandbecky.us/Hugh-CV/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Bibliography of select papers on &#39;ethics&#39; and &#39;informed consent&#39; in Linguistic research</title>
+      <link>https://hughandbecky.us/Hugh-CV/post/informed-consent-irb-biblography/</link>
+      <pubDate>Sat, 08 Feb 2020 14:35:45 +0100</pubDate>
+      
+      <guid>https://hughandbecky.us/Hugh-CV/post/informed-consent-irb-biblography/</guid>
+      <description>&lt;p&gt;This is a short non-exhaustive bibliography of papers which discuss &lt;em&gt;Informed consent&lt;/em&gt; in the context of one of the following: minority language communities, low literacy levels, language research, the legal aspect of the US IRB, and &amp;lsquo;how informed is informed consent&amp;rsquo; . I have several nagging questions, which I wonder how discussed they are: &amp;ldquo;Is Intellectual property rights of minority language people covered in the typical informed consent protocols of language researchers?&amp;rdquo; and &amp;ldquo;How ethical is it to create voice-to-speech tools for a small language community when only one or two people provide voice samples?&amp;rdquo; When working independently, outside the confines of an organization these factors are not mitigated by institutional barriers to creativity or participant considerations.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Tone in Whispered Speech Bibliography</title>
@@ -18,9 +27,7 @@
       <pubDate>Sun, 16 Dec 2018 14:35:45 -0700</pubDate>
       
       <guid>https://hughandbecky.us/Hugh-CV/post/tone-in-whispered-speech-bibliography/</guid>
-      <description>&lt;p&gt;This is a short non-exhaustive bibliography of instigations and their reports when looking at tone in whispered speech.
-
-Citations are kept in a GitHub gist. Comments are welcome via GitHub.&lt;/p&gt;</description>
+      <description>&lt;p&gt;This is a short non-exhaustive bibliography of instigations and their reports when looking at tone in whispered speech.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -29,9 +36,7 @@ Citations are kept in a GitHub gist. Comments are welcome via GitHub.&lt;/p&gt;<
       <pubDate>Wed, 08 Aug 2018 14:35:45 -0700</pubDate>
       
       <guid>https://hughandbecky.us/Hugh-CV/post/phillipine-languages-bibliography/</guid>
-      <description>&lt;p&gt;This is a short non-exhaustive bibliography of phonological descriptions of Philippine languages.
-
-Citations are kept in a GitHub gist. Comments are welcome via GitHub.&lt;/p&gt;</description>
+      <description>&lt;p&gt;This is a short non-exhaustive bibliography of phonological descriptions of Philippine languages.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -40,9 +45,7 @@ Citations are kept in a GitHub gist. Comments are welcome via GitHub.&lt;/p&gt;<
       <pubDate>Wed, 08 Aug 2018 14:35:45 -0700</pubDate>
       
       <guid>https://hughandbecky.us/Hugh-CV/post/tei-lexicon-bibliography/</guid>
-      <description>&lt;p&gt;This is a short non-exhaustive bibliography of lexicon projects which have tested or opted to use the XML TEI format for their data.
-
-Citations are kept in a GitHub gist. Comments are welcome via GitHub.&lt;/p&gt;</description>
+      <description>&lt;p&gt;This is a short non-exhaustive bibliography of lexicon projects which have tested or opted to use the XML TEI format for their data.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -51,7 +54,7 @@ Citations are kept in a GitHub gist. Comments are welcome via GitHub.&lt;/p&gt;<
       <pubDate>Wed, 03 Dec 2014 01:41:38 -0700</pubDate>
       
       <guid>https://hughandbecky.us/Hugh-CV/post/ethnoarts-research-in-nigeria/</guid>
-      <description>This post is a quick review of the literature before a general language documentation project in Northern Nigeria. Notable Authors  Dr Amanda Villepastour Vicki Brennan  2013. &amp;ldquo;Up Above the River Jordan&amp;rdquo;: Hymns and Historical Consciousness in the Cherubim and Seraphim Churches of Nigeria. Studies in World Christianity 19 (1): 31-49 2012. Take Control: The Labor of Immediacy in Yoruba Christian Music. Journal of Popular Music Studies 24 (4): 411-429.</description>
+      <description>This post is a quick review of the ethno-arts literature before a general language documentation project in Northern Nigeria.</description>
     </item>
     
     <item>

@@ -6,7 +6,7 @@
     <description>Recent content in Projects on Hugh&#39;s Curriculum Vitae</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Hugh Paterson III &amp;copy; 2018</copyright>
+    <copyright>Hugh Paterson III &amp;copy; 2018-2020</copyright>
     <lastBuildDate>Tue, 12 Mar 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://hughandbecky.us/Hugh-CV/project/index.xml" rel="self" type="application/rss+xml" />
@@ -18,9 +18,7 @@
       <pubDate>Tue, 12 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>https://hughandbecky.us/Hugh-CV/project/2019-automatic-speech-recognition/</guid>
-      <description>Currently I am working with easy to get speech data. This includes a Language of Nepal, a language of Nigeria and a language of Tanzania.
-Tools I use or have found interesting are:
- Epitran - A tool for transcribing orthographic text as IPA (International Phonetic Alphabet)   </description>
+      <description>Working with several collaborators on Automatic Speech Recognition for low-resource tone languages.</description>
     </item>
     
     <item>
@@ -29,8 +27,7 @@ Tools I use or have found interesting are:
       <pubDate>Mon, 18 Feb 2019 00:00:00 +0000</pubDate>
       
       <guid>https://hughandbecky.us/Hugh-CV/project/2019-business-maturity-canvas/</guid>
-      <description>This project was a colaboration with Steve Moitiozo. He generally has the conversations, and therefore provided the content fodder. I facilitated graphical design of these ideas. I provided the cavas layout and graphic design.
-The project resulted in two tools. A canvas which helps a business &amp;ldquo;owner&amp;rdquo; or and entrepreneur discover where their bussiness is currently and what sorts of actions they should be looking at to determin how their business fits into the market.</description>
+      <description>Discussing the business maturity of an ongoing business idea and a business in operation is a frequent task of IDX. This canvas was designed to facilitate that conversation.</description>
     </item>
     
     <item>
@@ -39,7 +36,7 @@ The project resulted in two tools. A canvas which helps a business &amp;ldquo;ow
       <pubDate>Mon, 12 Mar 2018 00:00:00 +0000</pubDate>
       
       <guid>https://hughandbecky.us/Hugh-CV/project/2018-sil-idx-r-90/</guid>
-      <description></description>
+      <description>Working within SIL&amp;rsquo;s Ideation and Experimentation Lab to produce a product which gives real time language use and valuation metrics.</description>
     </item>
     
     <item>
@@ -48,8 +45,7 @@ The project resulted in two tools. A canvas which helps a business &amp;ldquo;ow
       <pubDate>Sat, 10 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>https://hughandbecky.us/Hugh-CV/project/2018-rights-issues-in-language-data/</guid>
-      <description>In the process of doing research for the paper &amp;ldquo;Copyright and the distributed Lexicon. I started to realize that one very useful tool would be to have a refernece for copyright terms and scope related to a national framework where an indegious community might be located.
-Additionally there are other legal issues to consider when doing language research work. These also need to be researchable and associated with languages for those looking to do language research work.</description>
+      <description>What legal framworks need to be considered when working with language data from a given community?</description>
     </item>
     
     <item>
@@ -58,7 +54,7 @@ Additionally there are other legal issues to consider when doing language resear
       <pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
       
       <guid>https://hughandbecky.us/Hugh-CV/project/2017-utmatin-lexicography/</guid>
-      <description>This project includes combining and collating several U̠t-Ma&amp;rsquo;in databases that Becky Paterson has created over the 12 years she has worked with the U̠t-Ma&amp;rsquo;in language community. We are also importing as many Hausa terms as possible for specific elicitation (such as regional plants and animals). The final database includes grammatical features of individual lexemes. We are including various external analyses from phonology tools. None of this data is currently public. But when it is, a link from here will be posted.</description>
+      <description>A collaboration with Becky Paterson to organize the various layers of U̠t-Ma&amp;rsquo;in linguistic data into a shareable resource.</description>
     </item>
     
     <item>
@@ -67,7 +63,7 @@ Additionally there are other legal issues to consider when doing language resear
       <pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
       
       <guid>https://hughandbecky.us/Hugh-CV/project/2017-utmatin-oral-history/</guid>
-      <description>Becky received a grant to facilitate the collection of oral story data. The terms of the grant require her to record and archive oral histories of U̠t-Ma&amp;rsquo;in speakers. My role in this project was to work with U̠t-Ma&amp;rsquo;in speakers (who actually did the recordings themselves) and present these to the Becky in way that she could arrange the files for archiving. In my role I got to visit around 40 different places in 7 different dialects.</description>
+      <description>U̠t-Ma&amp;rsquo;in Language Documentation with Becky Paterson.</description>
     </item>
     
     <item>
@@ -76,7 +72,7 @@ Additionally there are other legal issues to consider when doing language resear
       <pubDate>Sat, 18 Feb 2017 00:00:00 +0000</pubDate>
       
       <guid>https://hughandbecky.us/Hugh-CV/project/2017-legal-issues-in-linguistics/</guid>
-      <description>This project started out with a personal interest in the variation of copyright laws from a global perspective. But some simple investagation has shown that there is a lot more related to law and legal policy and the vitality of language, and the availability of linguistic or language based resources. Several collaborations and discussions have bennefitted from this research. Ultimatly the results of this research should be in a browsable database, not in some sort of publication.</description>
+      <description>Clarifying what &amp;lsquo;rights holders&amp;rsquo; have.</description>
     </item>
     
     <item>
@@ -85,7 +81,7 @@ Additionally there are other legal issues to consider when doing language resear
       <pubDate>Mon, 09 Jan 2017 00:00:00 +0000</pubDate>
       
       <guid>https://hughandbecky.us/Hugh-CV/project/2017-wasta-language-scientist/</guid>
-      <description>#I should make this image the wasta logo plus all the other logos I am using.</description>
+      <description>Some changes and additions to &lt;a href=&#34;https://sites.google.com/site/wastalinux/&#34; target=&#34;_blank&#34;&gt;Wasta Linux &lt;/a&gt; for the language and linguistic Scientist. It is basically a long bash script, and some additional settings.</description>
     </item>
     
     <item>
@@ -94,7 +90,7 @@ Additionally there are other legal issues to consider when doing language resear
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://hughandbecky.us/Hugh-CV/project/2016-awesome-list/</guid>
-      <description>Head over to Github everything is over there.</description>
+      <description>A Github collaboration to index open source software for minority or low resource languages.</description>
     </item>
     
     <item>
@@ -103,7 +99,7 @@ Additionally there are other legal issues to consider when doing language resear
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://hughandbecky.us/Hugh-CV/project/2015-linguistic-services-planning/</guid>
-      <description>This work was housed under SIL International&amp;rsquo;s Language Program Training (ILPT) department. I was able to help facilitate service design conversations both inside and outside the department. We used the business model canvas to capture business activities. We were then able to use the Value Proposition Canvas to talk about how we might add value to our customers by addressing their pain points. We wanted to know what a more valued service might look like to our customers.</description>
+      <description>We use the Business Model Canvas to develop the business case for SIL service offerings.</description>
     </item>
     
     <item>
@@ -112,7 +108,7 @@ Additionally there are other legal issues to consider when doing language resear
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://hughandbecky.us/Hugh-CV/project/2017-sil-ils-communications/</guid>
-      <description>This project is about creating a work environment where people are informed about the services and products that the organization is able to offer. It is about breaking down communication silos and working across corporate structures to create a unified workforce. I have the ongoing privilege of consulting with department heads and team leaders on interdepartmental communication and audience engagement strategies. Often this involves creative uses of technology and creating data management plans and publishing work flows.</description>
+      <description>An ongoing consultation with SIL staff to develop interdepartmental communications strategy.</description>
     </item>
     
     <item>
@@ -121,10 +117,7 @@ Additionally there are other legal issues to consider when doing language resear
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://hughandbecky.us/Hugh-CV/project/2014-typing-experience/</guid>
-      <description>Previous work:
-This project follows and builds upon the project where keyboard layouts for Meꞌphaa and Sochiapam Chinantec were produced. This project uses data from Meꞌphaa and Sochiapam Chinantec but purposely extends the scope of the analysis to include Latin and Cyrillic script languages, particularly focusing on those with diacritics which express tone.
-Goals:
-The goal of this project is to bring &amp;lsquo;natural&amp;rsquo;, intuitive, and easy to use typing experiences in the form of keyboard layout designs to minority language users.</description>
+      <description>How much work is it to type languages with tonal markers in their orthographies?</description>
     </item>
     
     <item>
@@ -133,8 +126,7 @@ The goal of this project is to bring &amp;lsquo;natural&amp;rsquo;, intuitive, a
       <pubDate>Thu, 23 Oct 2014 00:00:00 +0000</pubDate>
       
       <guid>https://hughandbecky.us/Hugh-CV/project/2013-sil-org/</guid>
-      <description>Lots of people have lots to say about User Experience. Most of it is fancy talk for &amp;ldquo;How much can you pay me to work on your website&amp;hellip;&amp;rdquo;. When we get beyond that level of discussion, there are some real issues and methods to building websites that people are proud to own, and proud to use.
-Google&amp;rsquo;s search page makes them lots of money and people use it all the time.</description>
+      <description>Worked with a team to bring modern features via Drupal 7 to the flagship website of SIL International.</description>
     </item>
     
     <item>
@@ -143,8 +135,7 @@ Google&amp;rsquo;s search page makes them lots of money and people use it all th
       <pubDate>Mon, 12 Mar 2012 00:00:00 +0000</pubDate>
       
       <guid>https://hughandbecky.us/Hugh-CV/project/2012-mexico-keyboards/</guid>
-      <description>This project formalized my interest in the text input problem. While doing text input for the Meꞌphaa language documentation project it was imperative to get Unicode encoded texts. I worked with Kevin Cline to create OS X and native Windows OS keyboards for Meꞌphaa writers. We used Ukelele to create the OS X keyboards and Microsoft Keyboard Layout Creator (MSKLC) to create the Windows keyboards.
-Upon hearing of my new found skills, language users from the Sochiapam Chinantec community asked me to make an OS X keyboard for their language.</description>
+      <description>Revolutionizing text input. We moved text input from being on a single OS via a non-unicode input method, to working on multiple OSes in Unicode.</description>
     </item>
     
     <item>
@@ -153,7 +144,7 @@ Upon hearing of my new found skills, language users from the Sochiapam Chinantec
       <pubDate>Fri, 24 Feb 2012 00:00:00 +0000</pubDate>
       
       <guid>https://hughandbecky.us/Hugh-CV/project/2010-americas-area-audio-digitization/</guid>
-      <description>This project involved the accession, cataloging and digitization of several collections. It also involved cataloging of multiple collections already accessioned but not yet cataloged. I was responsible for identifying and collecting metadata relevant for audio collections. I communicated with the SIL Language and Culture Archive staff when metadata schemas in place were insufficient for audio collections. I identified and recommended changes to metadata profiles used at the time by the Language and Culture Archives.</description>
+      <description>SIL Americas Area project to digitize analogue audio mediums.</description>
     </item>
     
     <item>
@@ -162,8 +153,7 @@ Upon hearing of my new found skills, language users from the Sochiapam Chinantec
       <pubDate>Fri, 24 Feb 2012 00:00:00 +0000</pubDate>
       
       <guid>https://hughandbecky.us/Hugh-CV/project/2010-americas-area-photo-digitization/</guid>
-      <description>I served as project manager, recruiting and supervising a volunteer workforce. Together we cataloged and scanned over 1000 photos.
-We also repatriated some photos. We took old photo albums to reunions where former SIL staff identified persons and places in the images.</description>
+      <description>SIL Americas Area project to digitize photos documenting the people and the work of SIL in the Americas.</description>
     </item>
     
     <item>
@@ -172,7 +162,7 @@ We also repatriated some photos. We took old photo albums to reunions where form
       <pubDate>Fri, 24 Feb 2012 00:00:00 +0000</pubDate>
       
       <guid>https://hughandbecky.us/Hugh-CV/project/2010-americas-area-text-digitization/</guid>
-      <description>I worked with the SIL Americas Area Access Coordinator to make language materials available to translators, researchers, and language development workers. There is a wealth of information that is simply inaccessible to those who could use it. I helped in the implementation of a system to make these materials available digitally, via the internet. Access to these materials affects the mechanics of language development and translation projects throughout the Americas Area and around the world.</description>
+      <description>SIL Americas Area project to digitize for electronic distribution many of its indigenous language resources in print mediums.</description>
     </item>
     
     <item>
@@ -181,7 +171,7 @@ We also repatriated some photos. We took old photo albums to reunions where form
       <pubDate>Sat, 18 Feb 2012 00:00:00 +0000</pubDate>
       
       <guid>https://hughandbecky.us/Hugh-CV/project/2012-archive-usability/</guid>
-      <description>This project seeks to make known issues in Language Resource Accessibility. It is primarily concerned with two facets of accessibility: 1. the User Experience related to interacting with archived content; and 2. the aggregation of item level metadata about language resources in collections.</description>
+      <description>This project seeks to make known issues in &lt;em&gt;Language Resource Accessibility&lt;/em&gt;. It is primarily concerned with two facets of accessibility 1) the &lt;em&gt;User Experience&lt;/em&gt; related to interacting with archived content; and 2) the aggregation of item level metadata about language resources in collections.</description>
     </item>
     
     <item>
@@ -190,8 +180,7 @@ We also repatriated some photos. We took old photo albums to reunions where form
       <pubDate>Sat, 12 Mar 2011 00:00:00 +0000</pubDate>
       
       <guid>https://hughandbecky.us/Hugh-CV/project/2011-geo-linguistics/</guid>
-      <description>There are seven major sub-areas of this project:
- Explaining cartographic concepts. Explaining and reviewing tools for generating and processing the necessay data. Creating population density visualizations. Collecting place names and generating a map in Nigeria. Creating a map of the language documentation files in the Meꞌphaa language documentation project. Creating a map of the language documentation files in the U̠t-Ma&amp;rsquo;in language documentation project. Creating several maps for Dan related to my M.</description>
+      <description>This project seeks to visually display patterns about languages as those visualizations relate to cartography.</description>
     </item>
     
     <item>
@@ -200,8 +189,7 @@ We also repatriated some photos. We took old photo albums to reunions where form
       <pubDate>Sat, 12 Mar 2011 00:00:00 +0000</pubDate>
       
       <guid>https://hughandbecky.us/Hugh-CV/project/2011-mexico-documentation/</guid>
-      <description>Grammarian of digital file names is the loneliest job of them all.
-Corpus of descriptive work.</description>
+      <description>A collaboration with an experienced linguist. I contributed extensive metadata and technical audio-visual expertise a team of people from the USA and Meꞌphaa speakers.</description>
     </item>
     
     <item>
@@ -210,9 +198,7 @@ Corpus of descriptive work.</description>
       <pubDate>Wed, 18 Jun 2008 08:18:27 -0700</pubDate>
       
       <guid>https://hughandbecky.us/Hugh-CV/project/2010-interdental-approximant/</guid>
-      <description>This research project was spearheaded by Ken Olson. As a collaborator with him I focused on the Historical linguistics status of the interdental approximant in Philippine languages. I also did a lot of library resources discovery and acquisition.
-In this project description I have listed more than my contribution because I am not sure there is anywhere else that has pulled together the combined research on this topic.
-Results &amp;amp; Significance:</description>
+      <description>An investigation and description of a rare and socially stigmatized speech sound where the tongue protrudes out of the mouth.</description>
     </item>
     
   </channel>
