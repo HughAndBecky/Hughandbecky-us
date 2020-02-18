@@ -11,6 +11,42 @@
     <atom:link href="/Hugh-CV/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Language Educational Resources Grant Proposal</title>
+      <link>https://hughandbecky.us/Hugh-CV/manuscripts/2019-grant-proposal-language-educational-resources/</link>
+      <pubDate>Fri, 31 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://hughandbecky.us/Hugh-CV/manuscripts/2019-grant-proposal-language-educational-resources/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>General introduction to the Materiality of Audio objects in the study of linguistics</title>
+      <link>https://hughandbecky.us/Hugh-CV/manuscripts/2019-general-introduction-to-the-materiality-of-audio-related-to-linguistics/</link>
+      <pubDate>Mon, 20 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://hughandbecky.us/Hugh-CV/manuscripts/2019-general-introduction-to-the-materiality-of-audio-related-to-linguistics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Languages &amp; Dialects: a comparison of differentiations</title>
+      <link>https://hughandbecky.us/Hugh-CV/manuscripts/2019-languages-and-dialects-a-comparison-of-differentiations/</link>
+      <pubDate>Fri, 17 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://hughandbecky.us/Hugh-CV/manuscripts/2019-languages-and-dialects-a-comparison-of-differentiations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A schema for describing international agreements, cooperating nations and sovereign states as a sub-component in a graph database</title>
+      <link>https://hughandbecky.us/Hugh-CV/manuscripts/2019-sates-and-treaties/</link>
+      <pubDate>Tue, 30 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://hughandbecky.us/Hugh-CV/manuscripts/2019-sates-and-treaties/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Archives: Features without a buisness plan</title>
       <link>https://hughandbecky.us/Hugh-CV/talk/2019-archives-business-plan/</link>
       <pubDate>Fri, 26 Apr 2019 00:00:00 -0700</pubDate>
@@ -19,6 +55,71 @@
       <description>&lt;p&gt;&lt;strong&gt;Citeable as&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;Hugh J. Paterson III &amp;amp; Richard Griscom (2019) Archives: Features without a buisness plan. Paper presented at the Language Description &amp;amp; Revitalization Workgroup at the University of Oregon. Eugene, Oregon.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Text input issues for under-resourced languages: with special notes on Eastern Dan</title>
+      <link>https://hughandbecky.us/Hugh-CV/publication/2019-thesis/</link>
+      <pubDate>Sun, 31 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://hughandbecky.us/Hugh-CV/publication/2019-thesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Asimjeeg Datooga (Southern Nilotic, Tanzania) ASR</title>
+      <link>https://hughandbecky.us/Hugh-CV/manuscripts/2019-richard-asr/</link>
+      <pubDate>Fri, 15 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://hughandbecky.us/Hugh-CV/manuscripts/2019-richard-asr/</guid>
+      <description>&lt;p&gt;This work has no written results yet. It is purely experimental at this stage.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Chepang (Nepal) ASR</title>
+      <link>https://hughandbecky.us/Hugh-CV/manuscripts/2019-chepang-asr/</link>
+      <pubDate>Fri, 15 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://hughandbecky.us/Hugh-CV/manuscripts/2019-chepang-asr/</guid>
+      <description>&lt;p&gt;This work has no written results yet. It is purely experimental at this stage.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tentative: [Phonetic Description of Khroskyabs]</title>
+      <link>https://hughandbecky.us/Hugh-CV/manuscripts/2019-khroskyabs-phonetics/</link>
+      <pubDate>Fri, 15 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://hughandbecky.us/Hugh-CV/manuscripts/2019-khroskyabs-phonetics/</guid>
+      <description>&lt;p&gt;This is an early sketch of an Yu Lha&amp;rsquo;s home variety. Our goal is to model an Illustration of the IPA.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>U̠t-Ma&#39;in (Nigeria) ASR</title>
+      <link>https://hughandbecky.us/Hugh-CV/manuscripts/2019-utmatin-asr/</link>
+      <pubDate>Fri, 15 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://hughandbecky.us/Hugh-CV/manuscripts/2019-utmatin-asr/</guid>
+      <description>&lt;p&gt;This work has no written results yet. It is purely experimental at this stage.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Automatic Speech Recognition</title>
+      <link>https://hughandbecky.us/Hugh-CV/project/2019-automatic-speech-recognition/</link>
+      <pubDate>Tue, 12 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://hughandbecky.us/Hugh-CV/project/2019-automatic-speech-recognition/</guid>
+      <description>&lt;p&gt;Currently I am working with easy to get speech data. This includes a Language of Nepal, a language of Nigeria and a language of Tanzania.&lt;/p&gt;
+
+&lt;p&gt;Tools I use or have found interesting are:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/dmort27/epitran&#34; target=&#34;_blank&#34;&gt;Epitran&lt;/a&gt; - A tool for transcribing orthographic text as IPA (International Phonetic Alphabet) &lt;!-- the team building it is working out of this doc: https://docs.google.com/spreadsheets/d/1Z0pz22DXYw5CIp2Eo6ODbrTojqfq3e4jGjguZjbGqWE/edit#gid=1782468899 --&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
@@ -40,12 +141,21 @@
       <pubDate>Mon, 18 Feb 2019 00:00:00 +0000</pubDate>
       
       <guid>https://hughandbecky.us/Hugh-CV/project/2019-business-maturity-canvas/</guid>
-      <description>&lt;p&gt;This project was a colaboration with &lt;a href=&#34;https://twitter.com/stevemoitozo2?lang=en&#34; target=&#34;_blank&#34;&gt;Steve Moitiozo&lt;/a&gt;. He generally has the conversations. I facilitated the Cavas layout and graphic design.&lt;/p&gt;
+      <description>&lt;p&gt;This project was a colaboration with &lt;a href=&#34;https://twitter.com/stevemoitozo2?lang=en&#34; target=&#34;_blank&#34;&gt;Steve Moitiozo&lt;/a&gt;. He generally has the conversations, and therefore provided the content fodder. I facilitated graphical design of these ideas. I provided the cavas layout and graphic design.&lt;/p&gt;
 
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://hughandbecky.us/Hugh-CV/PDFs/2019-Buisness-Maturity-Canvas/Business-Model-Fit-canvas-v1.pdf&#34; target=&#34;_blank&#34;&gt;Canvas&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://hughandbecky.us/Hugh-CV/PDFs/2019-Buisness-Maturity-Canvas/Business-Model-Fit-Worksheet.pdf&#34; target=&#34;_blank&#34;&gt;Worksheet&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;The project resulted in two tools. A canvas which helps a business &amp;ldquo;owner&amp;rdquo; or and entrepreneur discover where their bussiness is currently and what sorts of actions they should be looking at to determin how their business fits into the market.
+* &lt;a href=&#34;https://hughandbecky.us/Hugh-CV/PDFs/2019-Buisness-Maturity-Canvas/Business-Model-Fit-canvas-v1.pdf&#34; target=&#34;_blank&#34;&gt;Canvas&lt;/a&gt;
+* &lt;a href=&#34;https://hughandbecky.us/Hugh-CV/PDFs/2019-Buisness-Maturity-Canvas/Business-Model-Fit-Worksheet.pdf&#34; target=&#34;_blank&#34;&gt;Worksheet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Death of Victor Hugos</title>
+      <link>https://hughandbecky.us/Hugh-CV/publication/2019-the-death-of-victor-hugos/</link>
+      <pubDate>Thu, 17 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://hughandbecky.us/Hugh-CV/publication/2019-the-death-of-victor-hugos/</guid>
+      <description>&lt;p&gt;This version is only viewable by invite only until formally published.&lt;/p&gt;
 </description>
     </item>
     
@@ -60,186 +170,6 @@
 Citations are kept in a GitHub gist. Comments are welcome via GitHub.&lt;/p&gt;
 
 &lt;script src=&#34;//gist.github.com/HughP/2be26c1ad99a09de4a0247204aeb1d64.js&#34;&gt;&lt;/script&gt;</description>
-    </item>
-    
-    <item>
-      <title>Bibliography of select Philippine language descriptions</title>
-      <link>https://hughandbecky.us/Hugh-CV/post/phillipine-lanuages-bibliography/</link>
-      <pubDate>Wed, 08 Aug 2018 14:35:45 -0700</pubDate>
-      
-      <guid>https://hughandbecky.us/Hugh-CV/post/phillipine-lanuages-bibliography/</guid>
-      <description>&lt;p&gt;This is a short non-exhaustive bibliography of phonological descriptions of Philippine languages.
-
-Citations are kept in a GitHub gist. Comments are welcome via GitHub.&lt;/p&gt;
-
-&lt;script src=&#34;//gist.github.com/HughP/b6a8018897d83ee3a8760efa3d1361da.js&#34;&gt;&lt;/script&gt;</description>
-    </item>
-    
-    <item>
-      <title>TEI Lexicon Bibliography</title>
-      <link>https://hughandbecky.us/Hugh-CV/post/tei-lexicon-bibliography/</link>
-      <pubDate>Wed, 08 Aug 2018 14:35:45 -0700</pubDate>
-      
-      <guid>https://hughandbecky.us/Hugh-CV/post/tei-lexicon-bibliography/</guid>
-      <description>&lt;p&gt;This is a short non-exhaustive bibliography of lexicon projects which have tested or opted to use the XML TEI format for their data.
-
-Citations are kept in a GitHub gist. Comments are welcome via GitHub.&lt;/p&gt;
-
-&lt;script src=&#34;//gist.github.com/HughP/3b3faf1f2a8a579b91a46a2f1d6ceaa1.js&#34;&gt;&lt;/script&gt;</description>
-    </item>
-    
-    <item>
-      <title>U̠t-Ma&#39;in Lexicography</title>
-      <link>https://hughandbecky.us/Hugh-CV/project/2017-utmatin-lexicography/</link>
-      <pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://hughandbecky.us/Hugh-CV/project/2017-utmatin-lexicography/</guid>
-      <description>&lt;p&gt;This project includes combining and collating several U̠t-Ma&amp;rsquo;in databases that Becky Paterson has created over the 12 years she has worked with the U̠t-Ma&amp;rsquo;in language community. We are also importing as many Hausa terms as possible for specific elicitation (such as regional plants and animals). The final database includes grammatical features of individual lexemes. We are including various external analyses from phonology tools. None of this data is currently public. But when it is, a link from here will be posted.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>U̠t-Ma&#39;in oral history</title>
-      <link>https://hughandbecky.us/Hugh-CV/project/2017-utmatin-oral-history/</link>
-      <pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://hughandbecky.us/Hugh-CV/project/2017-utmatin-oral-history/</guid>
-      <description>&lt;p&gt;Becky received a grant to facilitate the collection of oral story data. The terms of the grant require her to record and archive oral histories of U̠t-Ma&amp;rsquo;in speakers. My role in this project was to work with U̠t-Ma&amp;rsquo;in speakers (who actually did the recordings themselves) and present these to the Becky in way that she could arrange the files for archiving. In my role I got to visit around 40 different places in 7 different dialects. All from the back of a motorbike.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Wasta Linux additions for the language scientist.</title>
-      <link>https://hughandbecky.us/Hugh-CV/project/2017-wasta-language-scientist/</link>
-      <pubDate>Mon, 09 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://hughandbecky.us/Hugh-CV/project/2017-wasta-language-scientist/</guid>
-      <description>&lt;p&gt;#I should make this image the wasta logo plus all the other logos I am using.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Open Source Code Serving Endangered Languages</title>
-      <link>https://hughandbecky.us/Hugh-CV/publication/2016-open-source-code/</link>
-      <pubDate>Mon, 23 May 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://hughandbecky.us/Hugh-CV/publication/2016-open-source-code/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Citable as&lt;/strong&gt;:&lt;/p&gt;
-
-&lt;p&gt;Richard Littauer, Hugh Paterson III (2016) &lt;em&gt;Open Source Code Serving Endangered Languages&lt;/em&gt;. In: C. Soria, L. Pretorius, T. Declerck, J. Mariani, K. Scannell, Eveline Wandl-Vogt, eds., In Proceedings of LREC 2016 Collaboration and Computing for Under-Resourced Languages: Towards an Alliance for Digital Language Diversity (CCURL) Workshop. Portorož, Slovenia, 23 May, 2016. pp. 86-88.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>An Awesome list of Software for Endangered Languages</title>
-      <link>https://hughandbecky.us/Hugh-CV/project/2016-awesome-list/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://hughandbecky.us/Hugh-CV/project/2016-awesome-list/</guid>
-      <description>&lt;p&gt;Head over to Github everything is over there.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Linguistic Services Planning</title>
-      <link>https://hughandbecky.us/Hugh-CV/project/2015-linguistic-services-planning/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://hughandbecky.us/Hugh-CV/project/2015-linguistic-services-planning/</guid>
-      <description>&lt;p&gt;This work was housed under SIL International&amp;rsquo;s Language Program Training (ILPT) department. I was able to help facilitate service design conversations both inside and outside the department. We used the business model canvas to capture business activities. We were then able to use the &lt;a href=&#34;https://www.expressiveproductdesign.com/value-proposition-canvas/&#34; target=&#34;_blank&#34;&gt;Value Proposition Canvas&lt;/a&gt; to talk about how we might add value to our customers by addressing their pain points. We wanted to know what a more valued service might look like to our customers.&lt;/p&gt;
-
-&lt;p&gt;We also introduced a service maturity model to help business plan owners look at the maturity of their business model and service and pursue growth opportunities.&lt;/p&gt;
-
-&lt;p&gt;Often in business modeling final solutions &lt;em&gt;pencil out&lt;/em&gt; in financial numbers. With NGO work we have multiple non-traditional applications of the Business Model Canvas. For instance:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;We have customers who are not the payees.&lt;/li&gt;
-&lt;li&gt;We have social impact goals compete with financial goals.&lt;/li&gt;
-&lt;li&gt;We have income streams which are not directly tied to output services rendered or products produced.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>SIL Communications Strategy Consulting</title>
-      <link>https://hughandbecky.us/Hugh-CV/project/2017-sil-ils-communications/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://hughandbecky.us/Hugh-CV/project/2017-sil-ils-communications/</guid>
-      <description>&lt;p&gt;This project is about creating a work environment where people are informed about the services and products that the organization is able to offer. It is about breaking down communication silos and working across corporate structures to create a unified workforce.
- I have the ongoing privilege of consulting with department heads and team leaders on interdepartmental communication and audience engagement strategies. Often this involves creative uses of technology and creating data management plans and publishing work flows. At SIL International we use &lt;a href=&#34;https://mailchimp.com&#34; target=&#34;_blank&#34;&gt;MailChimp&lt;/a&gt;, and &lt;a href=&#34;https://www.atlassian.com/software/confluence&#34; target=&#34;_blank&#34;&gt;Confluence&lt;/a&gt; to meet these communication needs.&lt;/p&gt;
-
-&lt;p&gt;SIL International is over 80 years old. A majority of its staff are &lt;a href=&#34;https://en.wikipedia.org/wiki/Baby_boomers&#34; target=&#34;_blank&#34;&gt;Baby-boomers&lt;/a&gt;. Currently work flows, even digital ones, usually mirror processes set up in paper based work enviroments.  SIL International as an organization has organizational units of various sizes in various locations of the world. Many of these units are also distributed teams. In the broader business world the battle for effective team communications is generally characterized as a battle between &lt;em&gt;looking in the inbox&lt;/em&gt; and &lt;em&gt;using the browser&lt;/em&gt; for information, collaboration, and connectivity. Tools like &lt;a href=&#34;https://www.theverge.com/2014/8/12/5991005/slack-is-killing-email-yes-really&#34; target=&#34;_blank&#34;&gt;#slack&lt;/a&gt;, and &lt;a href=&#34;https://www.fastcompany.com/3035927/inside-the-company-that-got-rid-of-email&#34; target=&#34;_blank&#34;&gt;management decisions to look for more effective team communications platforms&lt;/a&gt; have tried to push email our of use. In SIL International the very diverse nature of the workforce presents challenges to those with low-bandwidth connectivity.&lt;/p&gt;
-
-&lt;p&gt;We use a two prong communications approach. Email and corporate blog use. For Email we use Mailchimp. For the corporate blog we use Confluence Wiki.&lt;/p&gt;
-
-&lt;p&gt;SIL International deployed Confluence company wide in 2008 as a white board for people in the organization to use within their organizational unit. By 2011 the wiki had evolved into a platform for departmental websites and had supplanted official information repositories for official documentation. This has made the platform invaluable for interdepartmental communications.&lt;/p&gt;
-
-&lt;p&gt;In 2015 various organizational units within SIL International started to independently use Mailchimp.&lt;/p&gt;
-
-&lt;p&gt;Due to the highly transitional nature of SIL International staff, it is often the case that SIL staff not have the knowledge base needed to leverage the capacities of these two systems. My role is often to demonstrate features relevant to business goals.&lt;/p&gt;
-
-&lt;p&gt;I have engaged with:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;SIL International Language and Culture Archive&lt;/li&gt;
-&lt;li&gt;SIL International Language Program Training&lt;/li&gt;
-&lt;li&gt;SIL International Language Program Services&lt;/li&gt;
-&lt;li&gt;SIL International External Communications&lt;/li&gt;
-&lt;li&gt;SIL Intellectual Property Team
-&lt;!--  
-Two other links are: https://www.forbes.com/sites/tykiisel/2011/11/30/ceo-bans-email/
-and
-https://hbr.org/2016/06/some-companies-are-banning-email-and-getting-more-done
---&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>The minority language typing experience</title>
-      <link>https://hughandbecky.us/Hugh-CV/project/2014-typing-experience/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://hughandbecky.us/Hugh-CV/project/2014-typing-experience/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Previous work&lt;/strong&gt;:&lt;/p&gt;
-
-&lt;p&gt;This project follows and builds upon the project where &lt;a href=&#34;https://hughandbecky.us/Hugh-CV/project/2012-mexico-keyboards/&#34;&gt;keyboard layouts for Meꞌphaa and Sochiapam Chinantec&lt;/a&gt; were produced. This project uses data from Meꞌphaa and Sochiapam Chinantec but purposely extends the scope of the analysis to include Latin and Cyrillic script languages, particularly focusing on those with diacritics which express tone.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Goals&lt;/strong&gt;:&lt;/p&gt;
-
-&lt;p&gt;The goal of this project is to bring &amp;lsquo;natural&amp;rsquo;, intuitive, and easy to use typing experiences in the form of keyboard layout designs to minority language users. These language users often do not type in their own languages, but rather experience technology through languages other than their first language. This is in part because of the perception that their language is complex or not easy to type, which is often not an invalid observation. However, with these languages which have different and sometimes more characters than English, what does a good layout look like?
-The objectives of this project are threefold:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;To establish a consistent method to evaluate the appropriateness of a keyboard layout for a specific language situation given a specific text sample. This needs to include &lt;code&gt;deadkeys&lt;/code&gt; and &lt;code&gt;alt&lt;/code&gt; states.
-
-&lt;ul&gt;
-&lt;li&gt;This needs to account for monolingual situations&lt;/li&gt;
-&lt;li&gt;This needs to account for multi-lingual situations where each language has its own keyboard&lt;/li&gt;
-&lt;li&gt;This needs to account for multi-lingual situations where only a single keyboard is used&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Provide a best fit solution recommendation when provided the following:
-
-&lt;ul&gt;
-&lt;li&gt;A corpus of text encoded in UTF-16 or UTF-8 in any language&lt;/li&gt;
-&lt;li&gt;A user selected choice between a physical keyboard layout of ANSI, ISO, or JIS
-The application providing the best fit solution needs to be able to suggest a better layout, inclusive of &lt;code&gt;alt&lt;/code&gt; states and &lt;code&gt;deadkey&lt;/code&gt; options.&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Assess and analyze real user feedback. That is, measure the impacts of keyboards on users. Speed of typing, speed of keyboard acquisition, error rate, and results such as language choice when typing.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;&lt;span class=&#34;fa fa-github fa-2x&#34;&gt;&lt;/span&gt; Project resources are split into three repos: &lt;a href=&#34;https://github.com/HughP/MLKA&#34; target=&#34;_blank&#34;&gt;MLKA&lt;/a&gt;, &lt;a href=&#34;https://github.com/HughP/MLKA-Bash-data&#34; target=&#34;_blank&#34;&gt;MLKA-Bash-data&lt;/a&gt;, and &lt;a href=&#34;https://github.com/HughP/MLKA-Test-Data&#34; target=&#34;_blank&#34;&gt;MLKA-Test-Data&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>User Experience Consulting on SIL.org</title>
-      <link>https://hughandbecky.us/Hugh-CV/project/2013-sil-org/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://hughandbecky.us/Hugh-CV/project/2013-sil-org/</guid>
-      <description></description>
     </item>
     
   </channel>
