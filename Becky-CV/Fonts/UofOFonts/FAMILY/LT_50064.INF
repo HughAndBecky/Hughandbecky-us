@@ -1,0 +1,22 @@
+FontName (Melior-Bold)
+FullName (Melior Bold)
+ApplName (Melior-Bold)
+FamilyName (Melior)
+Version (002.000)
+isFixedPitch false
+CharacterSet (custom)
+Encoding (SpecificEncoding)
+Pi true
+ItalicAngle 0
+CapHeight 692
+UnderlinePosition -125
+UnderlineThickness 50
+StemWidth 134
+Serif true
+MSMenuName (Melior)
+VPMenuName (Melior)
+WORDMenuName (Melior)
+VPStyle (B)
+WindowsCharSet 200
+WindowsFirstChar 32
+WindowsLastChar 255
