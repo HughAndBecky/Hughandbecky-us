@@ -1,0 +1,76 @@
+html { height: 100%; }
+
+*,
+*:after,
+*:before {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	padding: 0;
+	margin: 0;
+}
+
+/* Clearfix hack by Nicolas Gallagher: http://nicolasgallagher.com/micro-clearfix-hack/ */
+.clearfix:before,
+.clearfix:after {
+    content: " ";
+    display: table;
+}
+
+.clearfix:after {
+    clear: both;
+}
+
+.clearfix {
+    *zoom: 1;
+}
+
+body {
+    font-family: 'Lato', Arial, Calibri, sans-serif;
+    font-weight: 300;
+    font-size: 15px;
+    overflow: scroll;
+    overflow-x: hidden;
+}
+
+a {
+	text-decoration: none;
+}
+
+.container {
+	width: 100%;
+	position: relative;
+}
+
+.container > header {
+	width: 90%;
+	max-width: 1240px;
+	margin: 0 auto;
+	position: relative;
+	padding: 20px 30px;
+	text-align: center;
+	font-size: 20px;
+}
+
+.container > header h1 {
+	font-size: 34px;
+	margin: 0 auto;
+	font-weight: 700;
+}
+
+.container > header span {
+	display: block;
+	font-weight: 300;
+	text-align: left;
+	padding-bottom: 0.5em;
+}
+
+.main > p {
+	text-align: center;
+	padding: 50px 20px;
+}
+
+img.lazy{
+	display: block;
+	height: 250px;
+}
