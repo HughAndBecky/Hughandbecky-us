@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Locations | Becky&#39;s Curriculum Vitae</title>
+    <link>https://hughandbecky.us/bcv-test/locations/</link>
+      <atom:link href="https://hughandbecky.us/bcv-test/locations/index.xml" rel="self" type="application/rss+xml" />
+    <description>Locations</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Rebecca Paterson © 2020</copyright><lastBuildDate>Tue, 10 Aug 2010 09:30:22 -0700</lastBuildDate>
+    <image>
+      <url>https://hughandbecky.us/bcv-test/images/logo.svg</url>
+      <title>Locations</title>
+      <link>https://hughandbecky.us/bcv-test/locations/</link>
+    </image>
+    
+  </channel>
+</rss>

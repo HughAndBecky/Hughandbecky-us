@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent &amp; Upcoming Talks | Becky&#39;s Curriculum Vitae</title>
+    <link>https://hughandbecky.us/bcv-test/talk/</link>
+      <atom:link href="https://hughandbecky.us/bcv-test/talk/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent &amp; Upcoming Talks</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Rebecca Paterson © 2020</copyright><lastBuildDate>Tue, 01 Sep 2020 17:21:01 +0200</lastBuildDate>
+    <image>
+      <url>https://hughandbecky.us/bcv-test/images/logo.svg</url>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://hughandbecky.us/bcv-test/talk/</link>
+    </image>
+    
+    <item>
+      <title>Great Talk</title>
+      <link>https://hughandbecky.us/bcv-test/talk/great-talk/</link>
+      <pubDate>Tue, 01 Sep 2020 17:21:01 +0200</pubDate>
+      <guid>https://hughandbecky.us/bcv-test/talk/great-talk/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
