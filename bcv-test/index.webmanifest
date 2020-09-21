@@ -5,14 +5,14 @@
   "theme_color": "#456587",
   "background_color": "#456587",
   "icons": [{
-    "src": "/Becky-CV/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_192x192_fill_lanczos_center_2.png",
+    "src": "/bcv-test/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_192x192_fill_lanczos_center_2.png",
     "sizes": "192x192",
     "type": "image/png"
     }, {
-    "src": "/Becky-CV/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png",
+    "src": "/bcv-test/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png",
     "sizes": "512x512",
     "type": "image/png"
      }],
   "display": "standalone",
-  "start_url": "/Becky-CV/?utm_source=web_app_manifest"
+  "start_url": "/bcv-test/?utm_source=web_app_manifest"
 }

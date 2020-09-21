@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Coleen Starwalt | Becky&#39;s Curriculum Vitae</title>
-    <link>https://hughandbecky.us/Becky-CV/author/coleen-starwalt/</link>
-      <atom:link href="https://hughandbecky.us/Becky-CV/author/coleen-starwalt/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://hughandbecky.us/bcv-test/author/coleen-starwalt/</link>
+      <atom:link href="https://hughandbecky.us/bcv-test/author/coleen-starwalt/index.xml" rel="self" type="application/rss+xml" />
     <description>Coleen Starwalt</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Rebecca Paterson © 2020</copyright>
     <image>
-      <url>https://hughandbecky.us/Becky-CV/images/logo.svg</url>
+      <url>https://hughandbecky.us/bcv-test/images/logo.svg</url>
       <title>Coleen Starwalt</title>
-      <link>https://hughandbecky.us/Becky-CV/author/coleen-starwalt/</link>
+      <link>https://hughandbecky.us/bcv-test/author/coleen-starwalt/</link>
     </image>
     
   </channel>

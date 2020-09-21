@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mentioned_language | Becky&#39;s Curriculum Vitae</title>
-    <link>https://hughandbecky.us/Becky-CV/mentioned_language/</link>
-      <atom:link href="https://hughandbecky.us/Becky-CV/mentioned_language/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://hughandbecky.us/bcv-test/mentioned_language/</link>
+      <atom:link href="https://hughandbecky.us/bcv-test/mentioned_language/index.xml" rel="self" type="application/rss+xml" />
     <description>Mentioned_language</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Rebecca Paterson © 2020</copyright><lastBuildDate>Mon, 10 Aug 2020 09:30:22 -0700</lastBuildDate>
     <image>
-      <url>https://hughandbecky.us/Becky-CV/images/logo.svg</url>
+      <url>https://hughandbecky.us/bcv-test/images/logo.svg</url>
       <title>Mentioned_language</title>
-      <link>https://hughandbecky.us/Becky-CV/mentioned_language/</link>
+      <link>https://hughandbecky.us/bcv-test/mentioned_language/</link>
     </image>
     
   </channel>

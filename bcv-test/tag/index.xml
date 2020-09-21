@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags | Becky&#39;s Curriculum Vitae</title>
-    <link>https://hughandbecky.us/Becky-CV/tag/</link>
-      <atom:link href="https://hughandbecky.us/Becky-CV/tag/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://hughandbecky.us/bcv-test/tag/</link>
+      <atom:link href="https://hughandbecky.us/bcv-test/tag/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Rebecca Paterson © 2020</copyright>
     <image>
-      <url>https://hughandbecky.us/Becky-CV/images/logo.svg</url>
+      <url>https://hughandbecky.us/bcv-test/images/logo.svg</url>
       <title>Tags</title>
-      <link>https://hughandbecky.us/Becky-CV/tag/</link>
+      <link>https://hughandbecky.us/bcv-test/tag/</link>
     </image>
     
   </channel>

@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Defense | Becky&#39;s Curriculum Vitae</title>
-    <link>https://hughandbecky.us/Becky-CV/category/defense/</link>
-      <atom:link href="https://hughandbecky.us/Becky-CV/category/defense/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://hughandbecky.us/bcv-test/category/defense/</link>
+      <atom:link href="https://hughandbecky.us/bcv-test/category/defense/index.xml" rel="self" type="application/rss+xml" />
     <description>Defense</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Rebecca Paterson © 2020</copyright><lastBuildDate>Wed, 07 Aug 2019 09:00:33 +0000</lastBuildDate>
     <image>
-      <url>https://hughandbecky.us/Becky-CV/images/logo.svg</url>
+      <url>https://hughandbecky.us/bcv-test/images/logo.svg</url>
       <title>Defense</title>
-      <link>https://hughandbecky.us/Becky-CV/category/defense/</link>
+      <link>https://hughandbecky.us/bcv-test/category/defense/</link>
     </image>
     
     <item>
       <title>University of Oregon Ph.D Defense</title>
-      <link>https://hughandbecky.us/Becky-CV/talk/2019-becky-ph-d-defense/</link>
+      <link>https://hughandbecky.us/bcv-test/talk/2019-becky-ph-d-defense/</link>
       <pubDate>Wed, 07 Aug 2019 09:00:33 +0000</pubDate>
-      <guid>https://hughandbecky.us/Becky-CV/talk/2019-becky-ph-d-defense/</guid>
+      <guid>https://hughandbecky.us/bcv-test/talk/2019-becky-ph-d-defense/</guid>
       <description></description>
     </item>
     
     <item>
       <title>University of North Dakota MA Defense</title>
-      <link>https://hughandbecky.us/Becky-CV/talk/2007-becky-ma-defense/</link>
+      <link>https://hughandbecky.us/bcv-test/talk/2007-becky-ma-defense/</link>
       <pubDate>Tue, 31 Jul 2007 13:00:33 +0000</pubDate>
-      <guid>https://hughandbecky.us/Becky-CV/talk/2007-becky-ma-defense/</guid>
+      <guid>https://hughandbecky.us/bcv-test/talk/2007-becky-ma-defense/</guid>
       <description></description>
     </item>
     

@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Languages | Becky&#39;s Curriculum Vitae</title>
-    <link>https://hughandbecky.us/Becky-CV/languages/</link>
-      <atom:link href="https://hughandbecky.us/Becky-CV/languages/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://hughandbecky.us/bcv-test/languages/</link>
+      <atom:link href="https://hughandbecky.us/bcv-test/languages/index.xml" rel="self" type="application/rss+xml" />
     <description>Languages</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Rebecca Paterson © 2020</copyright>
     <image>
-      <url>https://hughandbecky.us/Becky-CV/images/logo.svg</url>
+      <url>https://hughandbecky.us/bcv-test/images/logo.svg</url>
       <title>Languages</title>
-      <link>https://hughandbecky.us/Becky-CV/languages/</link>
+      <link>https://hughandbecky.us/bcv-test/languages/</link>
     </image>
     
   </channel>
