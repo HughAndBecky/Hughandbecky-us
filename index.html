@@ -48,131 +48,397 @@
 
     <script type="application/ld+json">
         {
-          "@context": "http://www.schema.org",
-          "@graph":
-          [
-           {
-           "@type": "WebSite",
-           "name": "Hugh and Becky",
-           "url": "https://hughandbecky.us",
-           "copyrightHolder": "Hugh and Becky Paterson",
-           "copyrightYear": "2020",
-           "inLanguage": "en-US",
-           "keywords": "Hugh Paterson III, Becky Paterson, Linguistics, Nigeria, Mexico, West-Kanji, Me'phaa, Text input, Resume, Curriculum Vitae, publications",
-           "description": "An interactive and explorative introduction to the academic work of Hugh and Becky Paterson.",
-           "sameAs": [
-           "https://www.facebook.com/HughAndBecky/",
-           "https://twitter.com/HughAndBecky/",
-           "http://hughandbecky.org"
-         ]
-           },
-           {
-           "@type": "BreadcrumbList",
-           "itemListElement": [
-            {
-            "@type": "ListItem",
-            "position": 1,
-            "name": "Hugh's CV",
-            "item": "https://hughandbecky.us/Hugh-CV/"
-            },
-            {
-            "@type": "ListItem",
-            "position": 2,
-            "name": "Becky's CV",
-            "item": "https://hughandbecky.us/Becky-CV/"
-            }
-            ]},
+          "@context":  {
+          "@vocab": "http://www.schema.org/",
+          "@language": "en-US"},
+          "@graph": [
           {
-          "@type": "person",
-          "name": "Hugh Paterson III",
-          "sameAs": [
-          "https://hugh4.us",
-          "https://twitter.com/thejourneyler",
-          "http://hugh.thejourneyler.org",
-          "https://hp3.me"
-        ],
-          "familyName": "Paterson",
-          "givenName": "Hugh",
-          "honorificSuffix": "B.A.",
-          "hasCredential": "Bachalor of Arts",
-          "spouse": "Rebecca Dow Smith Paterson",
-          "knowsLanguage": ["de-DE","en-US"],
-          "jobTitle": "Unaffiliated Collaborator",
-          "gender": "https://schema.org/Male",
-          "url": "https://hughandbecky.us/Hugh-CV/",
-          "image": "https://hughandbecky.us/Hugh-CV/img/hugh.jpg",
-          "address": {
-             "@type": "PostalAddress",
-             "addressCountry": "France"
-          },
-          "alumniOf": [{
-            "@type": "CollegeOrUniversity",
-            "@id": "https://www.siue.edu/#organization",
-             "name": "Southern Illinois University Edwardsville",
-             "sameAs": [
-               "https://twitter.com/siue",
-               "https://www.facebook.com/siuedwardsville",
-               "https://www.pinterest.com/siuedwardsville",
-               "https://www.wikidata.org/entity/Q519349",
-               "https://en.wikipedia.org/wiki/Southern_Illinois_University_Edwardsville"
-             ],
-             "url": "https://siue.edu/"
-          }]
-          },
+          "@type": "scholarlyArticle",
+          "@id": "https://doi.org/10.1515/flih-2019-0020",
+           "schemaVersion": "https://schema.org/version/7.0/",
+           "sdDatePublished": "2020-04-12T17:21:36+02:00",
+           "sdPublisher":
                 {
-          "@type": "person",
-          "name": "Rebecca Dow Smith Paterson",
-          "additionalName": "Becky",
-          "familyName": "Paterson",
-          "givenName": "Rebecca",
-          "honorificSuffix": "PhD",
-          "hasCredential": ["Doctor of Philosophy","Masters of Arts"],
-          "spouse": "Hugh Paterson III",
-          "knowsLanguage": ["ha","en-US"],
-          "jobTitle": "Postdoctoral researcher",
-          "gender": "https://schema.org/Female",
-          "url": "https://hughandbecky.us/Becky-CV/",
-          "image": "https://hughandbecky.us/Becky-CV/img/portrait.jpg",
-          "affiliation": [
-            {
-              "@type": "Organization",
-              "name": "Centre national de la recherche scientifique le laboratoire Langage, Langues et Cultures d’Afrique",
-              "url": "http://llacan.vjf.cnrs.fr"
-            }
-          ],
-          "address": {
-             "@type": "PostalAddress",
-             "addressCountry": "France"
+                  "@type": "Person",
+                  "name": "Hugh Paterson III",
+                  "familyName": "Paterson",
+                  "givenName": "Hugh",
+                  "sameAs": [
+              "https://hugh4.us",
+              "https://twitter.com/thejourneyler",
+              "http://hugh.thejourneyler.org",
+              "https://hp3.me",
+              "https://codepen.io/HughP"
+              ]
+             },
+          "author": {
+              "@type": "person",
+              "name": "Rebecca Dow Smith Paterson",
+              "additionalName": "Becky",
+              "familyName": "Paterson",
+              "givenName": "Rebecca",
+              "honorificSuffix": "PhD",
+              "hasCredential": [
+                "Doctor of Philosophy",
+                "Masters of Arts"
+              ],
+              "email": "beckydpaterson@gmail.com",
+              "spouse": "Hugh Paterson III",
+              "knowsLanguage": [
+                "ha",
+                "en-US"
+              ],
+              "jobTitle": "Postdoctoral researcher",
+              "gender": "https://schema.org/Female",
+              "url": "https://hughandbecky.us/Becky-CV/",
+              "image": "https://hughandbecky.us/Becky-CV/img/portrait.jpg",
+              "affiliation": [
+                {
+                  "@type": "Organization",
+                  "@id": "http://llacan.vjf.cnrs.fr/#organization",
+                  "name": "Centre national de la recherche scientifique le laboratoire Langage, Langues et Cultures d’Afrique",
+                  "url": "http://llacan.vjf.cnrs.fr",
+                  "parentOrganization":
+                  {
+                    "@type": "Organization",
+                    "@id": "http://www.cnrs.fr/#organization",
+                    "name": "Centre national de la recherche scientifique",
+                    "sameAs": "https://www.wikidata.org/wiki/Q280413",
+                    "url": "http://www.cnrs.fr"
+                  }
+                },
+                { "@type": "Organization",
+                "@id": "https://nigeria.sil.org/#organization",
+                  "name": "SIL Nigeria",
+                  "areaServed": "Nigeria",
+                  "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Nigeria"
+              },
+                  "parentOrganization": {
+                  "@type": "Organization",
+                  "@id": "https://sil.org/#organizaion",
+                  "name": "SIL International",
+                  "url": "https://sil.org",
+                  "address": {
+                "@type": "PostalAddress",
+                "addressRegion": "Texas",
+                "addressCountry": "US"
+              },
+                  "sameAs": ["https://www.wikidata.org/entity/Q14793", "https://www.facebook.com/SIL.International", "https://twitter.com/silintl"]
+                  },
+                  "url": "https://nigeria.sil.org"
+                }
+              ],
+              "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "France"
+              },
+              "alumniOf": [
+                {
+                  "@type": "CollegeOrUniversity",
+                  "@id": "https://www.uoregon.edu/#organization",
+                  "name": "University of Oregon",
+                  "sameAs": [
+                    "https://twitter.com/uoregon",
+                    "https://www.facebook.com/universityoforegon",
+                    "https://www.instagram.com/uoregon",
+                    "https://www.wikidata.org/entity/Q766145",
+                    "https://en.wikipedia.org/wiki/University_of_Oregon"
+                  ],
+                  "url": "https://uoregon.edu"
+                },
+                {
+                  "@type": "CollegeOrUniversity",
+                  "@id": "http://www.und.edu/#organization",
+                  "name": "University of North Dakota",
+                  "sameAs": [
+                    "https://twitter.com/UofNorthDakota",
+                    "https://www.facebook.com/UofNorthDakota",
+                    "https://www.instagram.com/uofnorthdakota",
+                    "https://www.wikidata.org/entity/Q968559",
+                    "https://en.wikipedia.org/wiki/University_of_North_Dakota"
+                  ],
+                  "url": "https://und.edu"
+                }
+              ]
           },
-          "alumniOf": [{
+          "datePublished": "2019-11",
+          "name": "On the development of two progressive constructions in U̱t-Ma'in",
+          "headline": "On the development of two progressive constructions in U̱t-Ma'in",
+          "publisher": {
+          "@type": "Organization",
+          "name": "De Gruyter Mouton",
+          "sameAs": ["https://www.wikidata.org/entity/Q12360739", "https://twitter.com/dg_mouton"],
+          "url": "https://www.degruyter.com",
+          "logo": "https://twitter.com/dg_mouton/photo"
+          },
+          "image": "",
+          "abstract": "U̠t-Ma’in (Kainji, Benue-Congo), spoken in northwestern Nigeria, has two morphosyntactically distinct progressive constructions – the Intransitive Progressive Construction and the Transitive Progressive Construction. This paper presents the synchronic structure of each construction, proposed historical sources of the distinct morphological pieces, and a comparison of the U̠t-Ma’in Progressive Constructions with cognate elements from four Kainji language clusters. No single source component has grammaticalized to mark progressive aspect in U̠t-Ma’in. Rather, the combination of several elements created the progressive. Formal changes in several morphosyntactic elements within each of the constructions provide evidence that originally nominalized verb forms are gradually becoming less noun-like and more verb-like. These developments are examples of constructionalization, as the Progressive Constructions exist as new form-meaning pairs distinct from the source. These formal changes also show signs of adjustment, whereby a construction moves toward isomorphism, that is, a one-to-one correspondence between form and meaning. Specifically, various stages of morphological loss are evident in particular lexemes when used in U̠t-Ma’in Progressive Constructions, gradually spreading throughout the lexicon.",
+          "about":
+            {
+            "@type": "Language",
+            "name": "U̠t-Ma'in",
+            "alternateName": "gel",
+            "sameAs": ["https://www.wikidata.org/entity/Q36627","https://glottolog.org/resource/languoid/id/kagf1238"]
+            },
+          "pageEnd": "554",
+          "pageStart": "509",
+          "pagination": "509-554",
+          "identifier":"https://doi.org/10.1515/flih-2019-0020",
+          "url": "https://doi.org/10.1515/flih-2019-0020",
+          "sameAs": ["https://hughandbecky.us/Becky-CV/publication/2019-on-the-development-of-two-progressives/"]
+          },
+            {"@type": "Thesis",
+              "schemaVersion": "https://schema.org/version/7.0/",
+              "sdDatePublished": "2020-04-12T17:21:36+02:00",
+              "sdPublisher":
+                {
+                  "@type": "Person",
+                  "name": "Hugh Paterson III",
+                  "familyName": "Paterson",
+                  "givenName": "Hugh",
+                  "sameAs": [
+              "https://hugh4.us",
+              "https://twitter.com/thejourneyler",
+              "http://hugh.thejourneyler.org",
+              "https://hp3.me",
+              "https://codepen.io/HughP"
+              ]
+             },
+            "@id": "https://hdl.handle.net/1794/25259",
+            "name": "Nominalization and predication in U̱t-Ma'in",
+            "abstract": "U̠t-Ma'in is a Kainji, East Benue-Congo language, spoken in northwestern Nigeria (ISO 639-3 code [gel]). This study contributes to our understanding of Benue-Congo languages by offering the first indepth look at nominalization phenomena in any Kainji language. Kainji is an undesrdescribed 50+ language subgroup of Benue-Congo; current descriptions are limited to articles and dissertations on a few languages, unpublished wordlists, and unpublished grammar sketches. This study looks at the morphosyntax of predication in U̠t Ma'in, especially the extensive use of nominalization and NP agreement phenomena within a wide range of predicative functions. Five of fourteen noun class prefixes are involved in nominalization of the verb; a nominalized verb, along with a goal complement or an object, can be incorporated into the nominalized phrase in the same way that a noun modifier is marked within a NP. These nominalized verb phrases are extensively used in auxiliary constructions that cover a diverse range of tense, aspect, and mode designations; the syntactic transitivity of the clause determines the morphosyntax used. Intransitive auxiliary constructions use the full range of nominalizing noun class marking; in contrast, transitive auxiliary constructions show a shift in their use of the noun class agreement morphology required. The progressive auxiliary construction specifically has shown the most adjustment in the system. The U̠t-Ma'in associative morpheme is in widespread use across different syntactic constructions. The associative can create a modifying phrase from a descriptive noun with a wide range of semantic relationship between the two nouns. The associative also serves as the relative pronoun introducing a descriptive relative clause. The associative can mark a goal or an object that is contained within the nominalized verb phrase. When a nominalized verb phrase is the complement to an auxiliary construction, the associative marks only the object complement of the verb. Finally, the associative marks the nominative form of nouns in certain morphosyntactic environments; this results in a so called marked-nominative word form and clause alignment pattern. These diverse uses of the associative and the accompanying agreement marking are pervasive in U̠t Ma'in and are a major focus of this study.",
+            "author": "Rebecca Dow Smith Paterson",
+            "inSupportOf": "Doctor of Philosophy",
+            "copyrightHolder": "Rebecca Dow Smith Paterson",
+            "copyrightYear": "2019",
+            "datePublished": "2019",
+            "license": "https://creativecommons.org/licenses/by-nd/4.0/",
+            "inLanguage": "en-US",
+            "keywords": ["Linguistics","Nominalization","U̠t-Ma'in", "Kainji language", "morphosyntax", "Nigeria", "predication"],
+            "description": "PhD Dissertation in Linguistics from the University of Oregon.",
+            "about":
+            {
+            "@type": "Language",
+            "name": "U̠t-Ma'in",
+            "alternateName": "gel",
+            "sameAs": ["https://www.wikidata.org/entity/Q36627","https://glottolog.org/resource/languoid/id/kagf1238"]
+            },
+            "identifier":
+            {
+          "@type": "PropertyValue",
+          "name": "Handle System",
+          "value": "1794/25259"
+        },
+            "url": "https://scholarsbank.uoregon.edu/xmlui/handle/1794/25259",
+            "sameAs": ["https://hughandbecky.us/Becky-CV/publication/2019-dissertation", "https://hdl.handle.net/1794/25259"],
+            "publisher":
+            {
             "@type": "CollegeOrUniversity",
             "@id": "https://www.uoregon.edu/#organization",
-             "name": "University of Oregon",
+            "name": "University of Oregon",
+            "url": "https://uoregon.edu",
+            "sameAs": [
+                    "https://twitter.com/uoregon",
+                    "https://www.facebook.com/universityoforegon",
+                    "https://www.instagram.com/uoregon",
+                    "https://www.wikidata.org/entity/Q766145",
+                    "https://en.wikipedia.org/wiki/University_of_Oregon"
+                  ],
+             "department":
+             {"@type": "Organization",
+             "name": "Department of Linguistics",
+             "url": "https://linguistics.uoregon.edu",
              "sameAs": [
-               "https://twitter.com/uoregon",
-               "https://www.facebook.com/universityoforegon/",
-               "https://www.instagram.com/uoregon",
-               "https://www.wikidata.org/entity/Q766145",
-               "https://en.wikipedia.org/wiki/University_of_Oregon"
-             ],
-             "url": "https://uoregon.edu/"
-          },{
-            "@type": "CollegeOrUniversity",
-            "@id": "http://www.und.edu/#organization",
-             "name": "University of North Dakota",
-             "sameAs": [
-               "https://twitter.com/UofNorthDakota",
-               "https://www.facebook.com/UofNorthDakota",
-               "https://www.instagram.com/uofnorthdakota",
-               "https://www.wikidata.org/entity/Q968559",
-               "https://en.wikipedia.org/wiki/University_of_North_Dakota"
-             ],
-             "url": "https://und.edu/"
-          }]
-          }
+             "https://www.facebook.com/uolinguistics",
+             "https://twitter.com/UOLinguistics",
+             "https://www.instagram.com/uolinguistics"
+                  ],
+             "contactPoint":
+             {"@type": "ContactPoint",
+             "email": "linginfo@uoregon.edu"},
+             "address":
+              {"@type": "PostalAddress",
+              "streetAddress":"1290 University of Oregon",
+              "postalCode": "97405-1290",
+              "addressRegion": "Oregon",
+              "addressLocality": "Eugene",
+              "addressCountry": "US"
+            }
+             }
+             }
+            },
+            {
+              "@type": "WebSite",
+              "schemaVersion": "https://schema.org/version/7.0/",
+              "sdDatePublished": "2020-04-12T17:21:36+02:00",
+              "sdPublisher":
+                {
+                  "@type": "Person",
+                  "name": "Hugh Paterson III",
+                  "familyName": "Paterson",
+                  "givenName": "Hugh",
+                  "sameAs": [
+              "https://hugh4.us",
+              "https://twitter.com/thejourneyler",
+              "http://hugh.thejourneyler.org",
+              "https://hp3.me",
+              "https://codepen.io/HughP"
+              ]
+             },
+              "name": "Hugh and Becky",
+              "url": "https://hughandbecky.us",
+              "copyrightHolder": "Hugh and Becky Paterson",
+              "copyrightYear": "2020",
+              "inLanguage": "en-US",
+              "keywords": "Hugh Paterson III, Becky Paterson, Linguistics, Nigeria, Mexico, West-Kanji, Me'phaa, Text input, Resume, Curriculum Vitae, publications",
+              "description": "An interactive and explorative introduction to the academic work of Hugh and Becky Paterson.",
+              "sameAs": [
+                "https://www.facebook.com/HughAndBecky/",
+                "https://twitter.com/HughAndBecky/",
+                "http://hughandbecky.org"
+              ]
+            },
+            {
+              "@type": "BreadcrumbList",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Hugh's CV",
+                  "item": "https://hughandbecky.us/Hugh-CV/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Becky's CV",
+                  "item": "https://hughandbecky.us/Becky-CV/"
+                }
+              ]
+            },
+            {
+              "@type": "person",
+              "name": "Hugh Paterson III",
+              "sameAs": [
+                "https://hugh4.us",
+                "https://twitter.com/thejourneyler",
+                "http://hugh.thejourneyler.org",
+                "https://hp3.me",
+                "https://codepen.io/HughP",
+                "https://dblp.org/pid/203/5038",
+                "https://scholar.google.com/citations?user=b3KeFqkAAAAJ",
+                "https://github.com/HughP"
+                ],
+              "familyName": "Paterson",
+              "givenName": "Hugh",
+              "honorificSuffix": "B.A.",
+              "hasCredential": {
+                "@type": "EducationalOccupationalCredential",
+                "@id": "https://purl.org/ctdl/terms/BachelorDegree",
+                "credentialCategory": ["Bachelor Degree", "https://www.wikidata.org/entity/Q1765120", "https://purl.org/ctdl/terms/BachelorDegree"]
+                "name": "Bachelor of Arts in German Literature",
+                "keywords": "German, Literature, Language, Lingusitics",
+                "sameAs": {"https://www.wikidata.org/entity/Q1765120", "https://purl.org/ctdl/terms/BachelorDegree"},
+                "recognizedBy": {
+                "@type": "Organization",
+                "name": "Higher Learning Commission",
+                "alternateName": "Higher Learning Commission of the North Central Association of Colleges and Schools",
+                "url":"https://www.hlcommission.org",
+                "sameAs": "https://www.wikidata.org/entity/Q7739633"}
+  },
+              "spouse": "Rebecca Dow Smith Paterson",
+              "knowsLanguage": [
+                "de-DE",
+                "en-US"
+              ],
+              "jobTitle": "Unaffiliated Collaborator",
+              "gender": "https://schema.org/Male",
+              "url": "https://hughandbecky.us/Hugh-CV/",
+              "image": "https://hughandbecky.us/Hugh-CV/img/hugh.jpg",
+              "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "France"
+              },
+              "alumniOf": [
+                {
+                  "@type": "CollegeOrUniversity",
+                  "@id": "https://www.siue.edu/#organization",
+                  "name": "Southern Illinois University Edwardsville",
+                  "sameAs": [
+                    "https://twitter.com/siue",
+                    "https://www.facebook.com/siuedwardsville",
+                    "https://www.pinterest.com/siuedwardsville",
+                    "https://www.wikidata.org/entity/Q519349",
+                    "https://en.wikipedia.org/wiki/Southern_Illinois_University_Edwardsville"
+                  ],
+                  "url": "https://siue.edu/"
+                }
+              ]
+            },
+            {
+              "@type": "person",
+              "name": "Rebecca Dow Smith Paterson",
+              "additionalName": "Becky",
+              "familyName": "Paterson",
+              "givenName": "Rebecca",
+              "honorificSuffix": "PhD",
+              "hasCredential": [
+                "Doctor of Philosophy",
+                "Masters of Arts"
+              ],
+              "spouse": "Hugh Paterson III",
+              "knowsLanguage": [
+                "ha",
+                "en-US"
+              ],
+              "jobTitle": "Postdoctoral researcher",
+              "gender": "https://schema.org/Female",
+              "url": "https://hughandbecky.us/Becky-CV/",
+              "image": "https://hughandbecky.us/Becky-CV/img/portrait.jpg",
+              "affiliation": [
+                {
+                  "@type": "Organization",
+                  "name": "Centre national de la recherche scientifique le laboratoire Langage, Langues et Cultures d’Afrique",
+                  "url": "http://llacan.vjf.cnrs.fr"
+                }
+              ],
+              "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "France"
+              },
+              "alumniOf": [
+                {
+                  "@type": "CollegeOrUniversity",
+                  "@id": "https://www.uoregon.edu/#organization",
+                  "name": "University of Oregon",
+                  "sameAs": [
+                    "https://twitter.com/uoregon",
+                    "https://www.facebook.com/universityoforegon",
+                    "https://www.instagram.com/uoregon",
+                    "https://www.wikidata.org/entity/Q766145",
+                    "https://en.wikipedia.org/wiki/University_of_Oregon"
+                  ],
+                  "url": "https://uoregon.edu"
+                },
+                {
+                  "@type": "CollegeOrUniversity",
+                  "@id": "http://www.und.edu/#organization",
+                  "name": "University of North Dakota",
+                  "sameAs": [
+                    "https://twitter.com/UofNorthDakota",
+                    "https://www.facebook.com/UofNorthDakota",
+                    "https://www.instagram.com/uofnorthdakota",
+                    "https://www.wikidata.org/entity/Q968559",
+                    "https://en.wikipedia.org/wiki/University_of_North_Dakota"
+                  ],
+                  "url": "https://und.edu"
+                }
+              ]
+            }
           ]
         }
-</script>
+    </script>
 
 
     <style>
