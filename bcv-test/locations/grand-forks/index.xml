@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Grand Forks | Becky&#39;s Curriculum Vitae</title>
+    <link>https://hughandbecky.us/Becky-CV/locations/grand-forks/</link>
+      <atom:link href="https://hughandbecky.us/Becky-CV/locations/grand-forks/index.xml" rel="self" type="application/rss+xml" />
+    <description>Grand Forks</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Rebecca Paterson © 2020</copyright><lastBuildDate>Tue, 31 Jul 2007 13:00:33 +0000</lastBuildDate>
+    <image>
+      <url>https://hughandbecky.us/Becky-CV/images/logo.svg</url>
+      <title>Grand Forks</title>
+      <link>https://hughandbecky.us/Becky-CV/locations/grand-forks/</link>
+    </image>
+    
+    <item>
+      <title>University of North Dakota MA Defense</title>
+      <link>https://hughandbecky.us/Becky-CV/talk/2007-becky-ma-defense/</link>
+      <pubDate>Tue, 31 Jul 2007 13:00:33 +0000</pubDate>
+      <guid>https://hughandbecky.us/Becky-CV/talk/2007-becky-ma-defense/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

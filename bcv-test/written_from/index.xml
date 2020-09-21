@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Written_from | Becky&#39;s Curriculum Vitae</title>
-    <link>https://hughandbecky.us/bcv-test/written_from/</link>
-      <atom:link href="https://hughandbecky.us/bcv-test/written_from/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://hughandbecky.us/Becky-CV/written_from/</link>
+      <atom:link href="https://hughandbecky.us/Becky-CV/written_from/index.xml" rel="self" type="application/rss+xml" />
     <description>Written_from</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Rebecca Paterson © 2020</copyright><lastBuildDate>Tue, 12 Nov 2019 00:09:24 -0800</lastBuildDate>
     <image>
-      <url>https://hughandbecky.us/bcv-test/images/logo.svg</url>
+      <url>https://hughandbecky.us/Becky-CV/images/logo.svg</url>
       <title>Written_from</title>
-      <link>https://hughandbecky.us/bcv-test/written_from/</link>
+      <link>https://hughandbecky.us/Becky-CV/written_from/</link>
     </image>
     
   </channel>

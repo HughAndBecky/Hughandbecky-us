@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Conference | Becky&#39;s Curriculum Vitae</title>
+    <link>https://hughandbecky.us/Becky-CV/category/conference/</link>
+      <atom:link href="https://hughandbecky.us/Becky-CV/category/conference/index.xml" rel="self" type="application/rss+xml" />
+    <description>Conference</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Rebecca Paterson © 2020</copyright><lastBuildDate>Fri, 27 Feb 2015 00:31:00 +0000</lastBuildDate>
+    <image>
+      <url>https://hughandbecky.us/Becky-CV/images/logo.svg</url>
+      <title>Conference</title>
+      <link>https://hughandbecky.us/Becky-CV/category/conference/</link>
+    </image>
+    
+    <item>
+      <title>Gameification of rapid word collection</title>
+      <link>https://hughandbecky.us/Becky-CV/talk/2015-gamification-of-rapid-word-collection/</link>
+      <pubDate>Fri, 27 Feb 2015 00:31:00 +0000</pubDate>
+      <guid>https://hughandbecky.us/Becky-CV/talk/2015-gamification-of-rapid-word-collection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Research on u̱t-Ma&#39;in noun classes</title>
+      <link>https://hughandbecky.us/Becky-CV/talk/2007-research-on-umain-noun-classes/</link>
+      <pubDate>Wed, 28 Mar 2007 00:00:00 +0000</pubDate>
+      <guid>https://hughandbecky.us/Becky-CV/talk/2007-research-on-umain-noun-classes/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
