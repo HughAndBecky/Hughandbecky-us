@@ -1,0 +1,69 @@
+[
+	{
+		"id": "snider_sil_2006",
+		"type": "article-journal",
+		"abstract": "Collectively, linguistic research in Africa has produced a wealth of lexical data, and while these data often serve useful purposes in their individual projects, their use to comparative linguistics is minimal, given their lack of a standard format. The SIL Comparative African Wordlist (1700 words) is therefore an attempt to offer a format for these data that is more amenable to comparative analysis.\n\nThere are two main reasons for the development of this wordlist. First, many of the existing African wordlists simply do not contain enough lexical items to allow one to do serious comparative analysis. Second, many existing African wordlists are specific to a particular language family, and thus, a pan-African list offers the potential of serious comparative research. The items in this wordlist appear with both English and French glosses and are arranged semantically under twelve main headings, generally moving from human domains to non-human domains, and from concrete to more abstract items.",
+		"container-title": "SIL Electronic Working Papers",
+		"issue": "005",
+		"language": "en, fr",
+		"page": "n.p.",
+		"title": "SIL comparative African wordlist (SILCAWL)",
+		"URL": "https://www.sil.org/resources/publications/entry/7882",
+		"volume": "2006",
+		"author": [
+			{
+				"family": "Snider",
+				"given": "Keith L"
+			},
+			{
+				"family": "Roberts",
+				"given": "James S"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					6,
+					25
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2006"
+				]
+			]
+		}
+	},
+	{
+		"id": "snider_sil_2004",
+		"type": "article-journal",
+		"container-title": "Journal of West African Languages",
+		"issue": "2",
+		"language": "en",
+		"page": "73-122",
+		"source": "Zotero",
+		"title": "SIL Comparative African Word List (SILCAWL)",
+		"URL": "https://main.journalofwestafricanlanguages.org/index.php/downloads/send/88-volume3102/436-sil-comparative-african-word-list-silcawl",
+		"volume": "31",
+		"author": [
+			{
+				"family": "Snider",
+				"given": "Keith"
+			},
+			{
+				"family": "Roberts",
+				"given": "James"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2004"
+				]
+			]
+		}
+	}
+]

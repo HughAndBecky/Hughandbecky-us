@@ -1,0 +1,107 @@
+[
+	{
+		"id": "bybee_evolution_1994",
+		"type": "book",
+		"call-number": "P299.G73 B93 1994",
+		"event-place": "Chicago",
+		"ISBN": "978-0-226-08663-7",
+		"number-of-pages": "420",
+		"publisher": "University of Chicago Press",
+		"publisher-place": "Chicago",
+		"source": "Library of Congress ISBN",
+		"title": "The evolution of grammar: tense, aspect, and modality in the languages of the world",
+		"title-short": "The evolution of grammar",
+		"URL": "https://press.uchicago.edu/ucp/books/book/chicago/E/bo3683926.html",
+		"author": [
+			{
+				"family": "Bybee",
+				"given": "Joan L."
+			},
+			{
+				"family": "Perkins",
+				"given": "Revere D."
+			},
+			{
+				"family": "Pagliuca",
+				"given": "William"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1994"
+				]
+			]
+		}
+	},
+	{
+		"id": "levinsohn_thematic_1994",
+		"type": "chapter",
+		"collection-number": "119",
+		"collection-title": "Summer Institute of Linguistics and the University of Texas at Arlington publications in linguistics",
+		"container-title": "Discourse features of ten languages of West-Central Africa",
+		"event-place": "Dallas",
+		"ISBN": "978-0-88312-619-6",
+		"language": "eng",
+		"note": "OCLC: 32481911",
+		"page": "151-190",
+		"publisher": "Summer Institute of Linguistics and University of Texas at Arlington",
+		"publisher-place": "Dallas",
+		"source": "Gemeinsamer Bibliotheksverbund ISBN",
+		"title": "Thematic development and prominence in Tyap discourse",
+		"editor": [
+			{
+				"family": "Levinsohn",
+				"given": "Stephen H."
+			}
+		],
+		"author": [
+			{
+				"family": "Follingstad",
+				"given": "Carl M"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1994"
+				]
+			]
+		}
+	},
+	{
+		"id": "levinsohn_discontinuities_1994",
+		"type": "chapter",
+		"collection-number": "119",
+		"collection-title": "Summer Institute of Linguistics and the University of Texas at Arlington publications in linguistics",
+		"container-title": "Discourse features of ten languages of West-Central Africa",
+		"event-place": "Dallas",
+		"ISBN": "978-0-88312-619-6",
+		"language": "eng",
+		"note": "OCLC: 32481911",
+		"page": "3-14",
+		"publisher": "Summer Institute of Linguistics and University of Texas at Arlington",
+		"publisher-place": "Dallas",
+		"source": "Gemeinsamer Bibliotheksverbund ISBN",
+		"title": "Discontinuities in coherent texts",
+		"editor": [
+			{
+				"family": "Levinsohn",
+				"given": "Stephen H."
+			}
+		],
+		"author": [
+			{
+				"family": "Levinsohn",
+				"given": "Stephen H"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1994"
+				]
+			]
+		}
+	}
+]

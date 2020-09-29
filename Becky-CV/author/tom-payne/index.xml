@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tom Payne | Becky&#39;s Curriculum Vitae</title>
+    <link>https://hughandbecky.us/Becky-CV/author/tom-payne/</link>
+      <atom:link href="https://hughandbecky.us/Becky-CV/author/tom-payne/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tom Payne</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Rebecca Paterson © 2020</copyright>
+    <image>
+      <url>https://hughandbecky.us/Becky-CV/media/BeckyPaterson.jpg</url>
+      <title>Tom Payne</title>
+      <link>https://hughandbecky.us/Becky-CV/author/tom-payne/</link>
+    </image>
+    
+  </channel>
+</rss>

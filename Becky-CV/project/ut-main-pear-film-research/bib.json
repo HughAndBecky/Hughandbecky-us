@@ -1,0 +1,31 @@
+[
+	{
+		"id": "chafe_pear_1980",
+		"type": "book",
+		"call-number": "P302 .P39",
+		"collection-number": "3",
+		"collection-title": "Advances in discourse processes",
+		"event-place": "Norwood, New Jersey",
+		"ISBN": "978-0-89391-032-7",
+		"language": "en",
+		"number-of-pages": "327",
+		"publisher": "Ablex Publication Corp",
+		"publisher-place": "Norwood, New Jersey",
+		"source": "Library of Congress ISBN",
+		"title": "The Pear stories: cognitive, cultural, and linguistic aspects of narrative production",
+		"title-short": "The Pear stories",
+		"editor": [
+			{
+				"family": "Chafe",
+				"given": "Wallace L."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1980"
+				]
+			]
+		}
+	}
+]

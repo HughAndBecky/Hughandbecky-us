@@ -1,0 +1,119 @@
+[
+	{
+		"id": "van_den_berg_new_2006",
+		"type": "paper-conference",
+		"abstract": "In a normal field work situation, lexical elicitation is typically a slow and time-consuming process, generating only a limited section of the total vocabulary of a language. The Dictionary Development Program (DDP), a new elicitation tool developed by Ron Moe (SIL) in East Africa, addresses this issue by employing the technique of rapid mass elicitation based on lists of questions arranged by semantic domain. These lists (the domain templates) are exhaustive and universal, and when used in an efficiently organized workshop can result in the collection of 10,000 words in two weeks. The paper explains the background and techniques of the DDP (as well as its limitations), and its application to Austronesian (and maybe Papuan) languages, based on feedback from several SIL field workers.",
+		"container-title": "Proceedings of the Tenth International Conference on Austronesian Linguistics (10-ICAL)",
+		"event": "Tenth International Conference on Austronesian Linguistics (10-ICAL)",
+		"event-place": "Puerta Princesa City, Palawan, Philippines",
+		"language": "en",
+		"publisher": "SIL International",
+		"publisher-place": "Puerta Princesa City, Palawan, Philippines",
+		"title": "A New Mass Elicitation Technique:  The Dictionary Development Program",
+		"URL": "https://sil-philippines-languages.org/ical/papers.html",
+		"author": [
+			{
+				"family": "Van den Berg",
+				"given": "René"
+			},
+			{
+				"family": "Shore",
+				"given": "Susan"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2006",
+					1,
+					17
+				]
+			]
+		}
+	},
+	{
+		"id": "moe_compiling_2011",
+		"type": "article-journal",
+		"abstract": "The task of providing dictionaries for all the world's languages is prodigious, re-quiring efficient techniques. The text corpus method cannot be used for minority languages lacking texts. To meet the need, the author has constructed a list of 1 600 semantic domains, which he has successfully used to collect words. In a workshop setting, a group of speakers can collect as many as 17 000 words in ten days. This method results in a classified word list that can be efficiently expanded into a full dictionary. The method works because the mental lexicon is a giant web or-ganized around key concepts. A semantic domain can be defined as an important concept together with the words directly related to it by lexical relations. A person can utilize the mental web to quickly jump from word to word within a domain. The author is developing a template for each domain to aid in collecting words and in de-scribing their semantics. Investigating semantics within the context of a domain yields many in-sights. The method permits the production of both alphabetically and semantically organized dic-tionaries. The list of domains is intended to be universal in scope and applicability. Perhaps due to universals of human experience and universals of linguistic competence, there are striking simi-larities in various lists of semantic domains developed for languages around the world. Using a standardized list of domains to classify multiple dictionaries opens up possibilities for cross-lin-guistic research into semantic and lexical universals.",
+		"container-title": "Lexikos",
+		"DOI": "10.5788/13-0-731",
+		"ISSN": "2224-0039",
+		"journalAbbreviation": "Lex",
+		"language": "en",
+		"source": "DOI.org (Crossref)",
+		"title": "Compiling Dictionaries Using Semantic Domains",
+		"URL": "http://lexikos.journals.ac.za/pub/article/view/731",
+		"volume": "13",
+		"author": [
+			{
+				"family": "Moe",
+				"given": "Ronald"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					9,
+					23
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2011",
+					10,
+					20
+				]
+			]
+		}
+	},
+	{
+		"id": "hamari_does_2014",
+		"type": "paper-conference",
+		"container-title": "2014 47th Hawaii International Conference on System Sciences",
+		"DOI": "10.1109/HICSS.2014.377",
+		"event": "2014 47th Hawaii International Conference on System Sciences (HICSS)",
+		"event-place": "Waikoloa, HI",
+		"ISBN": "978-1-4799-2504-9",
+		"page": "3025-3034",
+		"publisher": "IEEE",
+		"publisher-place": "Waikoloa, HI",
+		"source": "DOI.org (Crossref)",
+		"title": "Does Gamification Work? -- A Literature Review of Empirical Studies on Gamification",
+		"title-short": "Does Gamification Work?",
+		"URL": "http://ieeexplore.ieee.org/document/6758978/",
+		"author": [
+			{
+				"family": "Hamari",
+				"given": "Juho"
+			},
+			{
+				"family": "Koivisto",
+				"given": "Jonna"
+			},
+			{
+				"family": "Sarsa",
+				"given": "Harri"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					9,
+					23
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2014",
+					1
+				]
+			]
+		}
+	}
+]

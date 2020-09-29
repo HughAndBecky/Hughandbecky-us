@@ -1,0 +1,78 @@
+[
+	{
+		"id": "culy_aspects_1994",
+		"type": "article-journal",
+		"container-title": "Linguistics",
+		"DOI": "10.1515/ling.1994.32.6.1055",
+		"ISSN": "0024-3949, 1613-396X",
+		"issue": "6",
+		"journalAbbreviation": "ling",
+		"page": "1055-1094",
+		"source": "DOI.org (Crossref)",
+		"title": "Aspects of logophoric marking",
+		"URL": "https://www.degruyter.com/view/j/ling.1994.32.issue-6/ling.1994.32.6.1055/ling.1994.32.6.1055.xml",
+		"volume": "32",
+		"author": [
+			{
+				"family": "Culy",
+				"given": "Christopher"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					9,
+					22
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1994"
+				]
+			]
+		}
+	},
+	{
+		"id": "nikitina_personal_2012",
+		"type": "article-journal",
+		"abstract": "Article Personal deixis and reported discourse:  Towards a typology of person alignment was published on 06 Aug 2012 in the journal Linguistic Typology (Volume 16, Issue 2).",
+		"container-title": "Linguistic Typology",
+		"DOI": "10.1515/lity-2012-0008",
+		"ISSN": "1613-415X, 1430-0532",
+		"issue": "2",
+		"language": "en",
+		"page": "233-263",
+		"source": "www.degruyter.com",
+		"title": "Personal deixis and reported discourse: Towards a typology of person alignment",
+		"title-short": "Personal deixis and reported discourse",
+		"URL": "https://www.degruyter.com/view/journals/lity/16/2/article-p233.xml",
+		"volume": "16",
+		"author": [
+			{
+				"family": "Nikitina",
+				"given": "Tatiana"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					9,
+					24
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2012",
+					8,
+					6
+				]
+			]
+		}
+	}
+]

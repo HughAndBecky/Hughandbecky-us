@@ -1,0 +1,40 @@
+[
+	{
+		"id": "welmers_associative_1963",
+		"type": "article-journal",
+		"container-title": "Language",
+		"DOI": "10.2307/411125",
+		"ISSN": "00978507",
+		"issue": "3",
+		"journalAbbreviation": "Language",
+		"language": "en",
+		"page": "432-447",
+		"source": "DOI.org (Crossref)",
+		"title": "Associative a and ka in Niger-Congo",
+		"URL": "https://www.jstor.org/stable/411125?origin=crossref",
+		"volume": "39",
+		"author": [
+			{
+				"family": "Welmers",
+				"given": "William E."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					6,
+					29
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1963",
+					7
+				]
+			]
+		}
+	}
+]
