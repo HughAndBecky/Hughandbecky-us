@@ -1,4 +1,4 @@
-@font-face {
+/*@font-face {
     font-family: 'CharisSIL';
     src: url('../static/Fonts/CharisSIL-5.000-web/web/CharisSIL-R.woff');
     src: url('fonts/on-air-inline-webfont.eot?#iefix') format('embedded-opentype'),
@@ -6,7 +6,16 @@
          url('../static/Fonts/CharisSIL-5.000-web/CharisSIL-R.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
-}
+}*/
+
+@font-face {
+    font-family: 'CharisSIL';
+    src: url('../Fonts/CharisSIL-5.000-web/web/CharisSIL-R.woff');
+    src: url('fonts/on-air-inline-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../Fonts/CharisSIL-5.000-web/web/CharisSIL-R.woff') format('woff'),
+         url('../Fonts/CharisSIL-5.000-web/CharisSIL-R.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
 
 html {
   font-family: 'CharisSIL', Merriweather, serif ;
