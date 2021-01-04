@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Business | Hugh&#39;s Curriculum Vitae</title>
+    <link>https://hughandbecky.us/Hugh-CV/tag/business/</link>
+      <atom:link href="https://hughandbecky.us/Hugh-CV/tag/business/index.xml" rel="self" type="application/rss+xml" />
+    <description>Business</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2021</copyright><lastBuildDate>Mon, 27 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://hughandbecky.us/Hugh-CV/media/HughPaterson.jpg</url>
+      <title>Business</title>
+      <link>https://hughandbecky.us/Hugh-CV/tag/business/</link>
+    </image>
+    
+    <item>
+      <title>RefLex User Interaction Design</title>
+      <link>https://hughandbecky.us/Hugh-CV/project/2020-reflex/</link>
+      <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/project/2020-reflex/</guid>
+      <description>&lt;p&gt;This was a grant funded project which was tasked to look at the user interaction around RefLex, a web platform which allows linguists to interact with comparative language data for the languages of Africa. The acomplished task was to make recomendations for improved user interaction, lowering barriers to use, and then to create visualizations for what those recomendations might look like. All work was conducted under the admintrative supervision of 
+&lt;a href=&#34;http://llacan.vjf.cnrs.fr/p_segerer.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Guillaume Segerer&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Some of the final recomendations included updating web security practices to increase user trust. Creating visible changes to guide users through common workflows. Creating a visual design language so that visual layout would present less cognitive disidence.&lt;/p&gt;
+&lt;p&gt;Visual design for applications dealing with linguistic concepts and scores of languages remains an under-researched area of design and user experience analysis.&lt;/p&gt;
+&lt;hr&gt;
+
+
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-the-starting-design-of-reflex&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/project/2020-reflex/featured_huc794e2ed33b3f2280094ec8507fab6c2_559968_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;The starting design of RefLex&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/project/2020-reflex/featured_huc794e2ed33b3f2280094ec8507fab6c2_559968_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;The starting design&#34; width=&#34;1912&#34; height=&#34;1294&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;p&gt;The starting design of RefLex
+      
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;https://hughandbecky.us/Hugh-CV&#34;&gt; 
+Hugh Paterson III
+&lt;/a&gt; &lt;/span&gt;
+&lt;/p&gt;
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;Several Visual alternatives were part of the final product.
+
+
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-a-dark-theme-design&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/project/2020-reflex/GS4-Dark-Landing-Page_hu52d7857c42a49063307d1cc00ce85e0a_513604_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;A &amp;amp;lsquo;dark theme&amp;amp;rsquo; design&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/project/2020-reflex/GS4-Dark-Landing-Page_hu52d7857c42a49063307d1cc00ce85e0a_513604_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;A &amp;#39;dark theme&amp;#39; design&#34; width=&#34;2520&#34; height=&#34;1692&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;p&gt;A &amp;lsquo;dark theme&amp;rsquo; design
+      
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;https://hughandbecky.us/Hugh-CV&#34;&gt; 
+Hugh Paterson III
+&lt;/a&gt; &lt;/span&gt;
+&lt;/p&gt;
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+&lt;/p&gt;
+
+
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-a-playful-theme-design&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/project/2020-reflex/GS3-Landing-Page-playful_huc2ab14b2c524f3e24885ebf1fe72da83_245393_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;A playful theme design&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/project/2020-reflex/GS3-Landing-Page-playful_huc2ab14b2c524f3e24885ebf1fe72da83_245393_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;A playful theme design&#34; width=&#34;2520&#34; height=&#34;1692&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;p&gt;A playful theme design
+      
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;https://hughandbecky.us/Hugh-CV&#34;&gt; 
+Hugh Paterson III
+&lt;/a&gt; &lt;/span&gt;
+&lt;/p&gt;
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-resource-search-screen&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/project/2020-reflex/GS2-Resource-Search-1_hu760f6b20cd804991a68fb942b9d10491_162063_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Resource Search Screen&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/project/2020-reflex/GS2-Resource-Search-1_hu760f6b20cd804991a68fb942b9d10491_162063_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;Resource Search Screen&#34; width=&#34;1260&#34; height=&#34;846&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;p&gt;Resource Search Screen
+      
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;https://hughandbecky.us/Hugh-CV&#34;&gt; 
+Hugh Paterson III
+&lt;/a&gt; &lt;/span&gt;
+&lt;/p&gt;
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;!--
+one of the things is creating a language selector, iconizing it.
+
+https://usersnap.com/blog/design-language-switch
+https://phrase.com/blog/posts/how-to-select-fonts-when-localizing-apps-and-websites --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Business Maturity Canvas</title>
+      <link>https://hughandbecky.us/Hugh-CV/project/2019-business-maturity-canvas/</link>
+      <pubDate>Mon, 18 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/project/2019-business-maturity-canvas/</guid>
+      <description>&lt;p&gt;This project was a collaboration with 
+&lt;a href=&#34;https://twitter.com/stevemoitozo2?lang=en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Steve Moitiozo&lt;/a&gt;. He generally has the conversations, and therefore provided the content fodder. I facilitated graphical design of these ideas. I provided the canvas layout and graphic design.&lt;/p&gt;
+&lt;p&gt;The project resulted in two tools. A canvas which helps a business &amp;ldquo;owner&amp;rdquo; or and entrepreneur discover where their business is currently and what sorts of actions they should be looking at to determine how their business fits into the market.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://hughandbecky.us/Hugh-CV/project/2019-business-maturity-canvas/Business-Model-Fit-canvas-v1.pdf&#34;&gt;Canvas&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://hughandbecky.us/Hugh-CV/project/2019-business-maturity-canvas/Business-Model-Fit-Worksheet.pdf&#34;&gt;Worksheet&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Linguistic Services Planning</title>
+      <link>https://hughandbecky.us/Hugh-CV/project/2015-linguistic-services-planning/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/project/2015-linguistic-services-planning/</guid>
+      <description>&lt;p&gt;This work was housed under SIL International&amp;rsquo;s Language Program Training (ILPT) department. I was able to help facilitate service design conversations both inside and outside the department. We used the business model canvas to capture business activities. We were then able to use the 
+&lt;a href=&#34;https://www.expressiveproductdesign.com/value-proposition-canvas/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Value Proposition Canvas&lt;/a&gt; to talk about how we might add value to our customers by addressing their pain points. We wanted to know what a more valued service might look like to our customers.&lt;/p&gt;
+&lt;p&gt;We also introduced a service maturity model to help business plan owners look at the maturity of their business model and service and pursue growth opportunities.&lt;/p&gt;
+&lt;p&gt;Often in business modeling final solutions &lt;em&gt;pencil out&lt;/em&gt; in financial numbers. With NGO work we have multiple non-traditional applications of the Business Model Canvas. For instance:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;We have customers who are not the payees.&lt;/li&gt;
+&lt;li&gt;We have social impact goals compete with financial goals.&lt;/li&gt;
+&lt;li&gt;We have income streams which are not directly tied to output services rendered or products produced.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- ILPT sprint on SIL.org: https://docs.google.com/document/d/11YaN1OIquiXMHahKFBjc-ws6opY6bJCZMMlkh2AEmQI/edit --&gt;
+&lt;!-- Additional work was done to template inter-agency contracts for services https://docs.google.com/document/d/1QP0vycT5fYyKNc_90Jn4UuUugzgJXvDGJzvdzxig1cM/edit?usp=sharing --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SIL Communication Strategy Consulting</title>
+      <link>https://hughandbecky.us/Hugh-CV/project/2017-sil-ils-communications/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/project/2017-sil-ils-communications/</guid>
+      <description>&lt;p&gt;This project is about creating a work environment where people are informed about the services and products that the organization is able to offer. It is about breaking down communication silos and working across corporate structures to create a unified workforce.
+I have the ongoing privilege of consulting with department heads and team leaders on interdepartmental communication and audience engagement strategies. Often this involves creative uses of technology and creating data management plans and publishing work flows. At SIL International we use 
+&lt;a href=&#34;https://mailchimp.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MailChimp&lt;/a&gt;, and 
+&lt;a href=&#34;https://www.atlassian.com/software/confluence&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Confluence&lt;/a&gt; to meet these communication needs.&lt;/p&gt;
+&lt;p&gt;SIL International is over 80 years old. A majority of its staff are 
+&lt;a href=&#34;https://en.wikipedia.org/wiki/Baby_boomers&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Baby-boomers&lt;/a&gt;. Currently work flows, even digital ones, usually mirror processes set up in paper based work enviroments.  SIL International as an organization has organizational units of various sizes in various locations of the world. Many of these units are also distributed teams. In the broader business world the battle for effective team communications is generally characterized as a battle between &lt;em&gt;looking in the inbox&lt;/em&gt; and &lt;em&gt;using the browser&lt;/em&gt; for information, collaboration, and connectivity. Tools like 
+&lt;a href=&#34;https://www.theverge.com/2014/8/12/5991005/slack-is-killing-email-yes-really&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;#slack&lt;/a&gt;, and 
+&lt;a href=&#34;https://www.fastcompany.com/3035927/inside-the-company-that-got-rid-of-email&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;management decisions to look for more effective team communications platforms&lt;/a&gt; have tried to push email our of use. In SIL International the very diverse nature of the workforce presents challenges to those with low-bandwidth connectivity.&lt;/p&gt;
+&lt;p&gt;We use a two prong communications approach. Email and corporate blog use. For Email we use Mailchimp. For the corporate blog we use Confluence Wiki.&lt;/p&gt;
+&lt;p&gt;SIL International deployed Confluence company wide in 2008 as a white board for people in the organization to use within their organizational unit. By 2011 the wiki had evolved into a platform for departmental websites and had supplanted official information repositories for official documentation. This has made the platform invaluable for interdepartmental communications.&lt;/p&gt;
+&lt;p&gt;In 2015 various organizational units within SIL International started to independently use Mailchimp.&lt;/p&gt;
+&lt;p&gt;Due to the highly transitional nature of SIL International staff, it is often the case that SIL staff do not have the knowledge base needed to leverage the capacities of these two systems. My role is often to demonstrate features relevant to business goals.&lt;/p&gt;
+&lt;p&gt;I have engaged with:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;SIL International Language and Culture Archive&lt;/li&gt;
+&lt;li&gt;SIL International Language Program Training&lt;/li&gt;
+&lt;li&gt;SIL International Language Program Services&lt;/li&gt;
+&lt;li&gt;SIL International External Communications&lt;/li&gt;
+&lt;li&gt;SIL Intellectual Property Team&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!--  
+Two other links are: https://www.forbes.com/sites/tykiisel/2011/11/30/ceo-bans-email/
+and
+https://hbr.org/2016/06/some-companies-are-banning-email-and-getting-more-done
+--&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>User Experience Consulting on SIL.org</title>
+      <link>https://hughandbecky.us/Hugh-CV/project/2013-sil-org/</link>
+      <pubDate>Thu, 23 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/project/2013-sil-org/</guid>
+      <description>&lt;p&gt;Lots of people have lots to say about User Experience. Most of it is fancy talk for &amp;ldquo;How much can you pay me to work on your website&amp;hellip;&amp;rdquo;. When we get beyond that level of discussion, there are some real issues and methods to building websites that people are &lt;em&gt;proud to own&lt;/em&gt;, and &lt;em&gt;proud to use&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Google&amp;rsquo;s search page makes them lots of money and people use it all the time. It even won the popular search war against &lt;em&gt;Yahoo!&lt;/em&gt; Facebook has a website that millions of people use every day. At some point a well designed website stops being a website in the minds of users and becomes a place where they work, hangout, arrange meetings, etc. When users stop realizing they are on a website, that is when I feel we have moved into a place in design where we are close to perfect for that situation.&lt;/p&gt;
+&lt;p&gt;Between 2010 and 2016 I worked with a team to bring modern features via Drupal 7 to the flagship website of SIL International. But I have also worked on WordPress sites (not for SIL) since 2005. And I consulted on a variety of other SIL web projects (some of them on WordPress).&lt;/p&gt;
+&lt;p&gt;My work with SIL started with a report that they were not using a &lt;code&gt;print.css&lt;/code&gt; file on the SIL Bibliography in 2006 and were wasting a lot of ink when people were printing pages. I think this was corrected by 2009. This was typical for the pace of technical innovative change. SIL is a very corporate feature focused development environment.&lt;/p&gt;
+&lt;p&gt;Within User Experience studies, there is at least two ways to apply the term (UX): &lt;em&gt;The design of experiences that a corporation wants their customers to engage in&lt;/em&gt;, and &lt;em&gt;the  way that people take an object (product) and decide to use it&lt;/em&gt;. Both are important, but how a company approaches either of these facets and how they relate that approach back to their other business goals scopes the relevance of User Experience Design within the organization.&lt;/p&gt;
+&lt;p&gt;Successful interactions depend on both points of view and the metrics of success.&lt;/p&gt;
+&lt;p&gt;SIL.org is an interesting use case in UX design for at least 5 reasons:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;SIL has several major areas of very public interactions which it engages with to various degrees in various parts of the world — but the Internet is flat.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Advocacy with public policy making bodies regarding the needs of minority language speakers.&lt;/li&gt;
+&lt;li&gt;Publishing and sales of professional resources and materials.&lt;/li&gt;
+&lt;li&gt;Bible translation.&lt;/li&gt;
+&lt;li&gt;Educational programs (both formal and workshop style) in linguistics and language development.&lt;/li&gt;
+&lt;li&gt;Mother tongue Multi-lingual educational programs.&lt;/li&gt;
+&lt;li&gt;Minority language literacy (both integrated with national educational programs, and community sponsored programs, for children and adults).&lt;/li&gt;
+&lt;li&gt;NGOs and development agencies.&lt;/li&gt;
+&lt;li&gt;Innovative computer technology development related to non-English typesetting and computing.&lt;/li&gt;
+&lt;li&gt;Innovative creative access power solutions (like solar).&lt;/li&gt;
+&lt;li&gt;Sustainable logistical support for difficult to access project locations (usually via air).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;SIL has historically had a very fractured internal identity, and a very decentralized governance, which has not required a high degree of uniformity throughout the organization. Digital infrastructure projects stress these social norms.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Within the organization web-presence has come to be regarded as the officiating act recognition of an internal group&amp;rsquo;s merit.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Different people within the organization have strong opinions about how the world should view the organization — which are reflected in what they think the organization should say about itself — including the interactions that the organization provides to the people who interact on its website.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Globally, the Internet is going mobile, and SIL struggles between generating the informatic thrill need to entice donors, visual storytelling needed to facilitate product distribution and training needs of its product users, and high level information needs of politicians, and staffs of other NGOs to seed future partnerships.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Quantitatively, most people come to SIL.org to learn about linguistics, or the plethora of digital tools that SIL distributes via sil.org, or the vast number of resources .&lt;/p&gt;
+&lt;!--
+Rebranding SIL Journals
+
+Journal of phonological description
+Journal of grammatical description
+Journal of descriptive and comparative dialectology
+Journal of orthographic description and history
+Journal of sociolinguistic description
+--&gt;
+&lt;!--  8 May 2013-  I sometimes wonder if Vision2025 applied to sil.org is to shut the website down and turn it off. If every language which needs a Bible Translation will have a project started by 2025. Then there really is no place left for SIL after that and why would SIL need a website then?
+
+
+
+:: because we all believe that Bible Translation is more important than Language Development and there will be no way to share what Christ did for us in humanity after 2025 through language development.
+
+:: because we all know that there will be no need for Bible Translation Revisions, after 2025... We got it right the first time...
+
+:: because SIL will have spent all its time and effort preaching to partners &#34;sustainability&#34; it will have none in the end...
+
+--&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>typing | Hugh&#39;s Curriculum Vitae</title>
+    <link>https://hughandbecky.us/Hugh-CV/tag/typing/</link>
+      <atom:link href="https://hughandbecky.us/Hugh-CV/tag/typing/index.xml" rel="self" type="application/rss+xml" />
+    <description>typing</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2021</copyright><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://hughandbecky.us/Hugh-CV/media/HughPaterson.jpg</url>
+      <title>typing</title>
+      <link>https://hughandbecky.us/Hugh-CV/tag/typing/</link>
+    </image>
+    
+    <item>
+      <title>The minority language typing experience</title>
+      <link>https://hughandbecky.us/Hugh-CV/project/2014-typing-experience/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/project/2014-typing-experience/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Previous work&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;This project follows and builds upon the project where 
+&lt;a href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/project/2012-mexico-keyboards/&#34;&gt;keyboard layouts for Meꞌphaa and Sochiapam Chinantec&lt;/a&gt; were produced. This project uses data from Meꞌphaa and Sochiapam Chinantec but purposely extends the scope of the analysis to include Latin and Cyrillic script languages, particularly focusing on those with diacritics which express tone.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Goals&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;The goal of this project is to bring &amp;lsquo;natural&amp;rsquo;, intuitive, and easy to use typing experiences in the form of keyboard layout designs to minority language users. These language users often do not type in their own languages, but rather experience technology through languages other than their first language. This is in part because of the perception that their language is complex or not easy to type, which is often not an invalid observation. However, with these languages which have different and sometimes more characters than English, what does a good layout look like?
+The objectives of this project are threefold:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;To establish a consistent method to evaluate the appropriateness of a keyboard layout for a specific language situation given a specific text sample. This needs to include &lt;code&gt;deadkeys&lt;/code&gt; and &lt;code&gt;alt&lt;/code&gt; states.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;This needs to account for monolingual situations&lt;/li&gt;
+&lt;li&gt;This needs to account for multi-lingual situations where each language has its own keyboard&lt;/li&gt;
+&lt;li&gt;This needs to account for multi-lingual situations where only a single keyboard is used&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;Provide a best fit solution recommendation when provided the following:&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;A corpus of text encoded in UTF-16 or UTF-8 in any language&lt;/li&gt;
+&lt;li&gt;A user selected choice between a physical keyboard layout of ANSI, ISO, or JIS
+The application providing the best fit solution needs to be able to suggest a better layout, inclusive of &lt;code&gt;alt&lt;/code&gt; states and &lt;code&gt;deadkey&lt;/code&gt; options.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;Assess and analyze real user feedback. That is, measure the impacts of keyboards on users. Speed of typing, speed of keyboard acquisition, error rate, and results such as language choice when typing.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;span class=&#34;fa fa-github fa-2x&#34;&gt;&lt;/span&gt; Project resources are split into three repos: 
+&lt;a href=&#34;https://github.com/HughP/MLKA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MLKA&lt;/a&gt;, 
+&lt;a href=&#34;https://github.com/HughP/MLKA-Bash-data&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MLKA-Bash-data&lt;/a&gt;, and 
+&lt;a href=&#34;https://github.com/HughP/MLKA-Test-Data&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MLKA-Test-Data&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Meꞌphaa and Sochiapam Chinantec Keyboards</title>
+      <link>https://hughandbecky.us/Hugh-CV/project/2011-mexico-keyboards/</link>
+      <pubDate>Mon, 12 Mar 2012 00:00:00 +0000</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/project/2011-mexico-keyboards/</guid>
+      <description>&lt;p&gt;This project formalized my interest in the text input problem. While doing text input for the Meꞌphaa language documentation project it was imperative to get Unicode encoded texts. I worked with Kevin Cline to create OS X and native Windows OS keyboards for Meꞌphaa writers.  We used 
+&lt;a href=&#34;http://scripts.sil.org/ukelele&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ukelele&lt;/a&gt; to create the OS X keyboards and  
+&lt;a href=&#34;https://web.archive.org/web/20170202084913/https://msdn.microsoft.com/en-us/globalization/keyboardlayouts.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Microsoft Keyboard Layout Creator (MSKLC)&lt;/a&gt; to create the Windows keyboards.&lt;/p&gt;
+&lt;p&gt;Upon hearing of my new found skills, language users from the Sochiapam Chinantec community asked me to make an OS X keyboard for their language. In both cases existing keyboard layouts were matched to synchronize the user experience across the OSes.&lt;/p&gt;
+&lt;p&gt;Some of the design choices in the original layouts did not make sense to me. Hence the birth of the 
+&lt;a href=&#34;https://hughandbecky.us/Hugh-CV/project/2014-typing-expereince/&#34;&gt;The minority language typing experience&lt;/a&gt; project.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

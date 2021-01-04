@@ -1,0 +1,1605 @@
+<!DOCTYPE html><html lang="en-us" >
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Source Themes Academic 4.8.0"><meta name="author" content="Hugh Paterson III">
+
+  
+    
+  <meta name="description" content="I demonstrate how a researcher can use their personal website to advertise their publications and presentations in OLAC. I use open source technologies to take markdown files and convert them into a compliant XML feed. The result is greater exposure of one’s academic experience to those looking for language resources.">
+
+  <link rel="alternate" hreflang="en-us" href="https://hughandbecky.us/Hugh-CV/talk/2021-from-cv-to-olac/">
+
+  
+
+
+
+
+
+
+
+  
+
+
+
+
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <meta name="theme-color" content="#456587">
+  
+
+  
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.9.0/css/academicons.min.css" integrity="sha512-W4yqoT1+8NLkinBLBZko+dFB2ZbHsYLDdr50VElllRcNt2Q4/GSs6u71UHKxB7S6JEMCp5Ve4xjh3eGQl/HRvg==" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css" integrity="sha256-FMvZuGapsJLjouA6k7Eo2lusoAX9i0ShlWFG6qt7SLc=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous">
+
+    
+    
+    
+      
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/leaflet.min.css" integrity="sha512-1xoFisiGdy9nvho8EgXuXvnpR5GAMSjFwp40gSRE3NwdUdIMIKuPa7bqoUhLD0O/5tPNhteAsE5XyyMi5reQVA==" crossorigin="anonymous">
+    
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/lazysizes/5.2.2/lazysizes.min.js" integrity="sha512-TmDwFLhg3UA4ZG0Eb4MIyT1O1Mb+Oww5kFG0uHqXsdbyZz9DcvYQhKpGgNkamAI6h2lGGZq2X8ftOJvF/XjTUg==" crossorigin="anonymous" async></script>
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+        
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+  
+  
+    
+      
+      
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:400,700%7CRoboto+Mono%7CCharis+SIL&display=swap">
+    
+  
+
+  
+  
+  
+  
+  <link rel="stylesheet" href="/Hugh-CV/css/academic.css">
+
+  
+
+
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-31042070-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-31042070-2', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
+  
+
+
+  
+  
+
+  
+
+  <link rel="manifest" href="/Hugh-CV/index.webmanifest">
+  <link rel="icon" type="image/png" href="/Hugh-CV/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_32x32_fill_lanczos_center_2.png">
+  <link rel="apple-touch-icon" type="image/png" href="/Hugh-CV/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_192x192_fill_lanczos_center_2.png">
+
+  <link rel="canonical" href="https://hughandbecky.us/Hugh-CV/talk/2021-from-cv-to-olac/">
+
+  
+  
+  
+  
+  
+  
+  
+    
+  
+  
+  <meta property="twitter:card" content="summary_large_image">
+  
+  <meta property="og:site_name" content="Hugh&#39;s Curriculum Vitae">
+  <meta property="og:url" content="https://hughandbecky.us/Hugh-CV/talk/2021-from-cv-to-olac/">
+  <meta property="og:title" content="From CV to OLAC | Hugh&#39;s Curriculum Vitae">
+  <meta property="og:description" content="I demonstrate how a researcher can use their personal website to advertise their publications and presentations in OLAC. I use open source technologies to take markdown files and convert them into a compliant XML feed. The result is greater exposure of one’s academic experience to those looking for language resources.">
+  
+  <meta property="og:image" content="https://hughandbecky.us/Hugh-CV/media/HughPaterson.jpg">
+  <meta property="twitter:image" content="https://hughandbecky.us/Hugh-CV/media/HughPaterson.jpg">
+  
+  <meta property="og:locale" content="en-us">
+  <meta property="article:published_time" content="2020-12-19T17:00:12-07:00"><meta property="article:modified_time" content="2021-03-04T17:00:12-07:00">
+
+
+
+  
+    
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Event",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://hughandbecky.us/Hugh-CV/talk/2021-from-cv-to-olac/"
+  },
+  "name": "From CV to OLAC",
+  
+  "location": {
+    "@type": "Place",
+    "name": "University of Hawai‘i at Mānoa"
+  },
+  
+  
+  "startDate": "2021-03-04T17:00:12-07:00",
+  
+  
+  "performer": {
+    "@type": "Person",
+    "name": "Hugh Paterson III"
+  },
+  
+  "description": "I demonstrate how a researcher can use their personal website to advertise their publications and presentations in OLAC. I use open source technologies to take markdown files and convert them into a compliant XML feed. The result is greater exposure of one’s academic experience to those looking for language resources."
+}
+</script>
+
+  
+
+
+
+
+
+
+<link rel="stylesheet" type="text/css" href="/Hugh-CV/css/custom.css" />
+
+<link rel="stylesheet" type="text/css" href="/Hugh-CV/css/hugo-cite.css" />
+
+
+<meta name="pinterest" content="nopin">
+
+
+<meta name="keywords" content="OLAC, metadata, distribution">
+
+
+
+
+<link rel="schema.dc" href="http://purl.org/dc/elements/1.1/">
+
+<link rel="schema.DCTERMS" href="http://purl.org/dc/terms/">
+
+
+
+
+<meta name="DC.Title" content="From CV to OLAC">
+<meta name="citation_title" content="From CV to OLAC">
+<meta name="eprints.title" content="From CV to OLAC">
+<meta name="dcterms.title" content="From CV to OLAC">
+<meta name="DC.Creator" content="admin">
+<meta name="citation_author" content="admin">
+<meta name="DC.Subject" content="OLAC">
+<meta name="DC.Subject" content="metadata">
+<meta name="DC.Subject" content="distribution">
+<meta name="DC.Subject" content="language_documentation">
+<meta name="DC.Subject" content="olac_ls_language-documentation">
+<meta name="DC.Subject" content="">
+<meta name="DC.Subject" content="olac_dt_">
+<meta name="DC.Description" content="The Open Language Archive Community (OLAC, Simons &amp;amp; Bird 2003) metadata standards are foundational in sharing the existence of language materials. OLAC was designed to promote resource discoverability across institutional archives. However, anyone can tell OLAC where to look for language materials by publishing a feed (a string of XML data) and pointing OLAC to the feed. In 2012 at the Satellite Workshop for Sociolinguistic Archive Preparation (LSA, Portland) it was expressed that many people, who might have data, do not have the desire to formally archive their data based on institutional policies. They do not want to openly share the data itself, but they do want people to know it exists. Even if scholars do archive in their institutional repositories, broad-scope search engines (e.g. GoogleScholar) may choose to ignore these resources (Arlitsch &amp;amp; O’Brien 2012). Academically-oriented social networks (academia.edu and researchgate.net) attempt to meet this market demand for discoverability (Ovadia 2014; Niyazov et al. 2016). These solutions fail to aggregate resources based on field-specific formal ontologies. As a result, the work of many retired and late-career linguists is being “lost” to convenient platforms. Convenience also drives some early-career linguists to use costless-deposit archives (Zenodo and OSF) without considering discoverability.OLAC lists 390,035 items across participating archives (as of July 2020); Glottolog lists 338,158 items as of version 4.2.1. However these numbers do not necessarily reflect the actual language resources archived. Several archives have not recently updated their metadata feed. For instance, the SIL Language and Culture Archive reports that it has 46,000 items (August 2020) but only reports 30,177 to OLAC (last updated in 2013). Even if language materials are deposited in an OLAC participating archive, they may not be discoverable through OLAC. By my calculations, the number of linguistic descriptions grows by approximately 15,000 items per year. Many of these items never find their way into OLAC or Glottolog. I hold that the best way for researchers to optimize their social profile — advertising their experience and academic output — is to archive their content within institutional repositories but self-host a CV-oriented website, pushing metadata to aggregators. Using open source technologies following strategies outlined by Utomo and Falahah (2020) I use Hugo and the WowChemy theme. With a modified RSS feed that compiles custom metadata and produces an OLAC compliant data feed, the researcher can then advertise language descriptions through OLAC.">
+<meta name="dcterms.abstract" content="The Open Language Archive Community (OLAC, Simons &amp;amp; Bird 2003) metadata standards are foundational in sharing the existence of language materials. OLAC was designed to promote resource discoverability across institutional archives. However, anyone can tell OLAC where to look for language materials by publishing a feed (a string of XML data) and pointing OLAC to the feed. In 2012 at the Satellite Workshop for Sociolinguistic Archive Preparation (LSA, Portland) it was expressed that many people, who might have data, do not have the desire to formally archive their data based on institutional policies. They do not want to openly share the data itself, but they do want people to know it exists. Even if scholars do archive in their institutional repositories, broad-scope search engines (e.g. GoogleScholar) may choose to ignore these resources (Arlitsch &amp;amp; O’Brien 2012). Academically-oriented social networks (academia.edu and researchgate.net) attempt to meet this market demand for discoverability (Ovadia 2014; Niyazov et al. 2016). These solutions fail to aggregate resources based on field-specific formal ontologies. As a result, the work of many retired and late-career linguists is being “lost” to convenient platforms. Convenience also drives some early-career linguists to use costless-deposit archives (Zenodo and OSF) without considering discoverability.OLAC lists 390,035 items across participating archives (as of July 2020); Glottolog lists 338,158 items as of version 4.2.1. However these numbers do not necessarily reflect the actual language resources archived. Several archives have not recently updated their metadata feed. For instance, the SIL Language and Culture Archive reports that it has 46,000 items (August 2020) but only reports 30,177 to OLAC (last updated in 2013). Even if language materials are deposited in an OLAC participating archive, they may not be discoverable through OLAC. By my calculations, the number of linguistic descriptions grows by approximately 15,000 items per year. Many of these items never find their way into OLAC or Glottolog. I hold that the best way for researchers to optimize their social profile — advertising their experience and academic output — is to archive their content within institutional repositories but self-host a CV-oriented website, pushing metadata to aggregators. Using open source technologies following strategies outlined by Utomo and Falahah (2020) I use Hugo and the WowChemy theme. With a modified RSS feed that compiles custom metadata and produces an OLAC compliant data feed, the researcher can then advertise language descriptions through OLAC.">
+<meta name="eprints.abstract" content="The Open Language Archive Community (OLAC, Simons &amp;amp; Bird 2003) metadata standards are foundational in sharing the existence of language materials. OLAC was designed to promote resource discoverability across institutional archives. However, anyone can tell OLAC where to look for language materials by publishing a feed (a string of XML data) and pointing OLAC to the feed. In 2012 at the Satellite Workshop for Sociolinguistic Archive Preparation (LSA, Portland) it was expressed that many people, who might have data, do not have the desire to formally archive their data based on institutional policies. They do not want to openly share the data itself, but they do want people to know it exists. Even if scholars do archive in their institutional repositories, broad-scope search engines (e.g. GoogleScholar) may choose to ignore these resources (Arlitsch &amp;amp; O’Brien 2012). Academically-oriented social networks (academia.edu and researchgate.net) attempt to meet this market demand for discoverability (Ovadia 2014; Niyazov et al. 2016). These solutions fail to aggregate resources based on field-specific formal ontologies. As a result, the work of many retired and late-career linguists is being “lost” to convenient platforms. Convenience also drives some early-career linguists to use costless-deposit archives (Zenodo and OSF) without considering discoverability.OLAC lists 390,035 items across participating archives (as of July 2020); Glottolog lists 338,158 items as of version 4.2.1. However these numbers do not necessarily reflect the actual language resources archived. Several archives have not recently updated their metadata feed. For instance, the SIL Language and Culture Archive reports that it has 46,000 items (August 2020) but only reports 30,177 to OLAC (last updated in 2013). Even if language materials are deposited in an OLAC participating archive, they may not be discoverable through OLAC. By my calculations, the number of linguistic descriptions grows by approximately 15,000 items per year. Many of these items never find their way into OLAC or Glottolog. I hold that the best way for researchers to optimize their social profile — advertising their experience and academic output — is to archive their content within institutional repositories but self-host a CV-oriented website, pushing metadata to aggregators. Using open source technologies following strategies outlined by Utomo and Falahah (2020) I use Hugo and the WowChemy theme. With a modified RSS feed that compiles custom metadata and produces an OLAC compliant data feed, the researcher can then advertise language descriptions through OLAC.">
+
+
+
+<meta name="dcterms.bibliographicCitation" content="Hugh J. Paterson III (2021) From CV to OLAC. Paper Presented at the 7th International Conference on Language Documentation and Conservation: Recognizing Relationships. University of Hawai‘i at Mānoa. March 4th">
+<meta name="eprints.citation" content="Hugh J. Paterson III (2021) From CV to OLAC. Paper Presented at the 7th International Conference on Language Documentation and Conservation: Recognizing Relationships. University of Hawai‘i at Mānoa. March 4th">
+<meta name="dcterms.language" content="ISO639-3:eng">
+
+<meta name="eprints.languages_3char" content="eng">
+<meta name="dcterms.issued" content="2021-03-04">
+<meta name="DC.Date" content="2021-03-04">
+<meta name="citation_publication_date" content="2021">
+
+
+<meta name="DC.Rights" content="Copyright 2021">
+<meta name="citation_online_date" content="2020/12/19">
+
+<meta name="citation_keywords" content="OLAC, metadata, distribution">
+
+
+
+
+
+
+  
+
+
+<title>From CV to OLAC | Hugh&#39;s Curriculum Vitae</title>
+
+</head>
+
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class=" ">
+
+  
+  
+  
+  
+    <script>const isSiteThemeDark = false;</script>
+  
+  
+  <script src="/Hugh-CV/js/load-theme.js"></script>
+
+  <aside class="search-results" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control">
+        
+      </div>
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+  <div class="container">
+
+    
+    <div class="d-none d-lg-inline-flex">
+      <a class="navbar-brand" href="/Hugh-CV/"><img src="/Hugh-CV/images/logo.svg" alt="Hugh&#39;s Curriculum Vitae"></a>
+    </div>
+    
+
+    
+    <button type="button" class="navbar-toggler" data-toggle="collapse"
+            data-target="#navbar-content" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+    <span><i class="fas fa-bars"></i></span>
+    </button>
+    
+
+    
+    <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+      <a class="navbar-brand" href="/Hugh-CV/"><img src="/Hugh-CV/images/logo.svg" alt="Hugh&#39;s Curriculum Vitae"></a>
+    </div>
+    
+
+    
+    
+    <div class="navbar-collapse main-menu-item collapse justify-content-end" id="navbar-content">
+
+      
+      <ul class="navbar-nav d-md-inline-flex">
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/Hugh-CV/#about"><span>Home</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/Hugh-CV/#featured"><span>Publications</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/Hugh-CV/#talks"><span>Talks</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/Hugh-CV/#projects"><span>Projects</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/Hugh-CV/#teaching"><span>Teaching</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/Hugh-CV/#experience"><span>Employment</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/Hugh-CV/#contact"><span>Contact</span></a>
+        </li>
+
+        
+        
+
+      
+
+        
+      </ul>
+    </div>
+
+    <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+      
+      <li class="nav-item">
+        <a class="nav-link js-search" href="#" aria-label="Search"><i class="fas fa-search" aria-hidden="true"></i></a>
+      </li>
+      
+
+      
+      
+
+      
+
+    </ul>
+
+  </div>
+</nav>
+
+
+
+  <div class="pub">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+  
+  
+<div class="article-container pt-3">
+  <h1>From CV to OLAC</h1>
+
+  
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+  
+  <span ><a href="/Hugh-CV/author/hugh-paterson-iii/">Hugh Paterson III</a></span>
+  </div>
+  
+  
+
+  
+
+  
+
+  
+
+  
+  
+  
+
+  
+  
+  <span class="middot-divider"></span>
+  <span class="article-categories">
+    <i class="fas fa-folder mr-1"></i><a href="/Hugh-CV/category/peer-reviewed/">Peer Reviewed</a>, <a href="/Hugh-CV/category/conference/">Conference</a></span>
+  
+
+</div>
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+    
+      
+    
+  
+  <a class="btn btn-outline-primary my-1 mr-1" href="/Hugh-CV/talk/2021-from-cv-to-olac/From-CV-to-OLAC-Abstract.pdf" >
+    
+    Conference Abstract
+  </a>
+
+
+</div>
+
+
+  
+</div>
+
+
+
+  <div class="article-container">
+
+    
+      <h3>Abstract</h3>
+      <p class="pub-abstract">The Open Language Archive Community (OLAC, Simons &amp; Bird 2003) metadata standards are foundational in sharing the existence of language materials. OLAC was designed to promote resource discoverability across institutional archives. However, anyone can tell OLAC where to look for language materials by publishing a feed (a string of XML data) and pointing OLAC to the feed.<br/> <br/>In 2012 at the Satellite Workshop for Sociolinguistic Archive Preparation (LSA, Portland) it was expressed that many people, who might have data, do not have the desire to formally archive their data based on institutional policies. They do not want to openly share the data itself, but they do want people to know it exists. Even if scholars do archive in their institutional repositories, broad-scope search engines (e.g. GoogleScholar) may choose to ignore these resources (Arlitsch &amp; O’Brien 2012). Academically-oriented social networks (academia.edu and researchgate.net) attempt to meet this market demand for discoverability (Ovadia 2014; Niyazov et al. 2016). These solutions fail to aggregate resources based on field-specific formal ontologies. As a result, the work of many retired and late-career linguists is being “lost” to convenient platforms. Convenience also drives some early-career linguists to use costless-deposit archives (Zenodo and OSF) without considering discoverability.<br/><br/>OLAC lists 390,035 items across participating archives (as of July 2020); Glottolog lists 338,158 items as of version 4.2.1. However these numbers do not necessarily reflect the actual language resources archived. Several archives have not recently updated their metadata feed. For instance, the SIL Language and Culture Archive reports that it has 46,000 items (<a href="https://web.archive.org/web/20200816131036/https://www.sil.org/resources/language-culture-archives">August 2020</a>) but only reports 30,177 to OLAC (last updated in 2013). Even if language materials are deposited in an OLAC participating archive, they may not be discoverable through OLAC. By my calculations, the number of linguistic descriptions grows by approximately 15,000 items per year. Many of these items never find their way into OLAC or Glottolog. <br/><br/>I hold that the best way for researchers to optimize their social profile — advertising their experience and academic output — is to archive their content within institutional repositories but self-host a CV-oriented website, pushing metadata to aggregators. Using open source technologies following strategies outlined by Utomo and Falahah (2020) I use <a href="https://gohugo.io">Hugo</a> and the <a href="https://wowchemy.com">WowChemy</a> theme. With a modified RSS feed that compiles custom metadata and produces an OLAC compliant data feed, the researcher can then advertise language descriptions through OLAC.</p>
+    
+
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Date</div>
+          <div class="col-12 col-md-9">
+            4 Mar, 2021 17:00
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Event</div>
+          <div class="col-12 col-md-9">
+            <a href="http://ling.lll.hawaii.edu/sites/icldc/" target="_blank" rel="noopener">
+            7th International Conference on Language Documentation and Conservation: Recognizing Relationships
+            </a>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Location</div>
+          <div class="col-12 col-md-9">University of Hawai‘i at Mānoa</div>
+          
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    <div class="space-below"></div>
+
+    <div class="article-style">
+      
+
+
+
+
+
+
+
+
+
+
+<section class="hugo-cite-bibliography">
+  <dl>
+    
+
+      <div id="arlitsch_invisible_2012">
+        <dt>
+          Arlitsch&#32;&amp;&#32;O&#39;Brien
+
+          
+          (2012)</dt>
+
+        <dd>
+          
+
+
+
+
+
+
+
+
+
+
+
+
+<span itemscope
+      itemtype="https://schema.org/Article"
+      data-type="article"><span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Arlitsch</span>,&#32;
+    <meta itemprop="givenName" content="Kenning" />
+    K.</span>&#32;&amp;&#32;<span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">O&#39;Brien</span>,&#32;
+    <meta itemprop="givenName" content="Patrick S." />
+    P.</span>
+  &#32;
+    (<span itemprop="datePublished">2012</span>).
+  &#32;<span itemprop="name">Invisible institutional repositories: Addressing the low indexing ratios of IRs in Google Scholar</span>.<i>
+    <span itemprop="about">Library Hi Tech</span>,&#32;30(1)</i>.&#32;<span itemprop="pagination">60–81</span>.
+  <a href="https://doi.org/10.1108/07378831211213210"
+     itemprop="identifier"
+     itemtype="https://schema.org/URL">https://doi.org/10.1108/07378831211213210</a></span>
+
+
+
+
+</dd>
+
+      </div>
+
+      <div id="niyazov_open_2016">
+        <dt>
+          Niyazov,&#32;
+          Vogel,&#32;
+          Price,&#32;
+          Lund,&#32;
+          Judd,&#32;
+          Akil,&#32;
+          Mortonson,&#32;
+          Schwartzman&#32;&amp;&#32;Shron
+
+          
+          (2016)</dt>
+
+        <dd>
+          
+
+
+
+
+
+
+
+
+
+
+
+
+<span itemscope
+      itemtype="https://schema.org/Article"
+      data-type="article"><span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Niyazov</span>,&#32;
+    <meta itemprop="givenName" content="Yuri" />
+    Y.</span>,&#32;
+  <span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Vogel</span>,&#32;
+    <meta itemprop="givenName" content="Carl" />
+    C.</span>,&#32;
+  <span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Price</span>,&#32;
+    <meta itemprop="givenName" content="Richard" />
+    R.</span>,&#32;
+  <span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Lund</span>,&#32;
+    <meta itemprop="givenName" content="Ben" />
+    B.</span>,&#32;
+  <span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Judd</span>,&#32;
+    <meta itemprop="givenName" content="David" />
+    D.</span>,&#32;
+  <span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Akil</span>,&#32;
+    <meta itemprop="givenName" content="Adnan" />
+    A.</span>,&#32;
+  <span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Mortonson</span>,&#32;
+    <meta itemprop="givenName" content="Michael" />
+    M.</span>,&#32;
+  <span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Schwartzman</span>,&#32;
+    <meta itemprop="givenName" content="Josh" />
+    J.</span>&#32;&amp;&#32;<span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Shron</span>,&#32;
+    <meta itemprop="givenName" content="Max" />
+    M.</span>
+  &#32;
+    (<span itemprop="datePublished">2016</span>).
+  &#32;<span itemprop="name">Open Access Meets Discoverability: Citations to Articles Posted to Academia.edu</span>.
+  &#32;In&#32;<span itemprop="editor" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Dorta-González</span>,&#32;
+    <meta itemprop="givenName" content="Pablo" />
+    P.</span> (Eds.),&#32;<i>
+    <span itemprop="about">PLOS ONE</span>,&#32;11(2)</i>.&#32;<span itemprop="pagination">e0148257</span>.
+  <a href="https://doi.org/10.1371/journal.pone.0148257"
+     itemprop="identifier"
+     itemtype="https://schema.org/URL">https://doi.org/10.1371/journal.pone.0148257</a></span>
+
+
+
+
+</dd>
+
+      </div>
+
+      <div id="ovadia_researchgate_2014">
+        <dt>
+          Ovadia
+
+          
+          (2014)</dt>
+
+        <dd>
+          
+
+
+
+
+
+
+
+
+
+
+
+
+<span itemscope
+      itemtype="https://schema.org/Article"
+      data-type="article"><span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Ovadia</span>,&#32;
+    <meta itemprop="givenName" content="Steven" />
+    S.</span>
+  &#32;
+    (<span itemprop="datePublished">2014</span>).
+  &#32;<span itemprop="name">ResearchGate and Academia.edu: Academic Social Networks</span>.<i>
+    <span itemprop="about">Behavioral &amp; Social Sciences Librarian</span>,&#32;33(3)</i>.&#32;<span itemprop="pagination">165–169</span>.
+  <a href="https://doi.org/10.1080/01639269.2014.934093"
+     itemprop="identifier"
+     itemtype="https://schema.org/URL">https://doi.org/10.1080/01639269.2014.934093</a></span>
+
+
+
+
+</dd>
+
+      </div>
+
+      <div id="simons_open_2003">
+        <dt>
+          Simons&#32;&amp;&#32;Bird
+
+          
+          (2003)</dt>
+
+        <dd>
+          
+
+
+
+
+
+
+
+
+
+
+
+
+<span itemscope
+      itemtype="https://schema.org/Article"
+      data-type="article"><span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Simons</span>,&#32;
+    <meta itemprop="givenName" content="Gary F." />
+    G.</span>&#32;&amp;&#32;<span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Bird</span>,&#32;
+    <meta itemprop="givenName" content="Steven" />
+    S.</span>
+  &#32;
+    (<span itemprop="datePublished">2003</span>).
+  &#32;<span itemprop="name">The Open Language Archives Community: An Infrastructure for Distributed Archiving of Language Resources</span>.<i>
+    <span itemprop="about">Literary and Linguistic Computing</span>,&#32;18(2)</i>.&#32;<span itemprop="pagination">117–128</span>.
+  <a href="https://doi.org/10.1093/llc/18.2.117"
+     itemprop="identifier"
+     itemtype="https://schema.org/URL">https://doi.org/10.1093/llc/18.2.117</a></span>
+
+
+
+
+</dd>
+
+      </div>
+
+      <div id="utomo_building_2020">
+        <dt>
+          Utomo&#32;&amp;&#32;
+
+          
+          (2020)</dt>
+
+        <dd>
+          
+
+
+
+
+
+
+
+
+
+
+
+
+<span itemscope
+      itemtype="https://schema.org/Article"
+      data-type="article"><span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Utomo</span>,&#32;
+    <meta itemprop="givenName" content="Prayudi" />
+    P.</span>&#32;&amp;&#32;<span itemprop="author" itemscope itemtype="https://schema.org/Person"></span>
+  &#32;
+    (<span itemprop="datePublished">2020</span>).
+  &#32;<span itemprop="name">Building Serverless Website on GitHub Pages</span>.<i>
+    <span itemprop="about">IOP Conference Series: Materials Science and Engineering</span>,&#32;879</i>.&#32;<span itemprop="pagination">012077</span>.
+  <a href="https://doi.org/10.1088/1757-899X/879/1/012077"
+     itemprop="identifier"
+     itemtype="https://schema.org/URL">https://doi.org/10.1088/1757-899X/879/1/012077</a></span>
+
+
+
+
+</dd>
+
+      </div>
+  </dl>
+</section>
+
+
+
+
+    </div>
+
+    
+
+
+
+
+
+  
+    <span><em>Tags</em>:</span>    
+
+<span class="article-tags">
+  
+  <a class="badge badge-light" href="/Hugh-CV/tag/olac/">OLAC</a>
+  
+  <a class="badge badge-light" href="/Hugh-CV/tag/metadata/">metadata</a>
+  
+  <a class="badge badge-light" href="/Hugh-CV/tag/distribution/">distribution</a>
+  
+</span>
+
+
+  
+
+
+
+  
+    <br><span><em>Categories</em>:</span>   
+
+<span class="article-tags">
+  
+  <a class="badge badge-light" href="/Hugh-CV/category/peer-reviewed/">Peer Reviewed</a>
+  
+  <a class="badge badge-light" href="/Hugh-CV/category/conference/">Conference</a>
+  
+</span>
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    <br><span><em>Content Mediums</em>:</span>   
+
+<span class="article-tags">
+  
+  <a class="badge badge-light" href="/Hugh-CV/content_types/video/">Video</a>
+  
+  <a class="badge badge-light" href="/Hugh-CV/content_types/print/">Print</a>
+  
+  <a class="badge badge-light" href="/Hugh-CV/content_types/event/">Event</a>
+  
+</span>
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    
+
+
+
+
+
+  
+    
+    
+    
+      
+    
+    
+    
+    <div class="media author-card content-widget-hr">
+      
+        
+        <img class="avatar mr-3 avatar-circle" src="/Hugh-CV/author/hugh-paterson-iii/avatar_huf06207d43952fcec4f010d643d581cb5_33859_270x270_fill_q90_lanczos_center.jpg" alt="Hugh Paterson III">
+      
+
+      <div class="media-body">
+        <h5 class="card-title"><a href="https://hughandbecky.us/Hugh-CV/">Hugh Paterson III</a></h5>
+        <h6 class="card-subtitle">Creative</h6>
+        <p class="card-text">My research interests typological patterns in articulatory phonetics; User Expereince design in language tools; and graph theory applied to language and linguistics.</p>
+        <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="//twitter.com/thejourneyler" >
+        <i class="fab fa-twitter"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="//scholar.google.com/citations?user=b3KeFqkAAAAJ" >
+        <i class="ai ai-google-scholar"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="//github.com/HughP" >
+        <i class="fab fa-github"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="//publons.com/author/1264484/hugh-paterson-iii#profile" >
+        <i class="ai ai-publons"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="//und.academia.edu/HughPaterson" >
+        <i class="ai ai-academia"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="/Hugh-CV/cv/2020_12_USletter_Hugh_Paterson_CV.pdf" >
+        <i class="ai ai-cv"></i>
+      </a>
+    </li>
+  
+</ul>
+
+      </div>
+    </div>
+  
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  <div class="article-widget content-widget-hr">
+    <h3>Related</h3>
+    <ul>
+      
+      <li><a href="/Hugh-CV/talk/2021-from-archive-to-citation/">From Archive to Citation</a>&nbsp;&nbsp;<span class="badge badge-light" style="font-size: 0.6em; vertical-align: middle;">talk</span></li>
+      
+      <li><a href="/Hugh-CV/manuscripts/2019-grant-proposal-language-educational-resources/">Language Educational Resources Grant Proposal</a>&nbsp;&nbsp;<span class="badge badge-light" style="font-size: 0.6em; vertical-align: middle;">manuscripts</span></li>
+      
+      <li><a href="/Hugh-CV/talk/2015-icphs-tone-presentation/">Phonetic transcription of tone in the IPA</a>&nbsp;&nbsp;<span class="badge badge-light" style="font-size: 0.6em; vertical-align: middle;">talk</span></li>
+      
+      <li><a href="/Hugh-CV/talk/2019-copyright-and-the-distributed-lexicon/">Copyright and the distributed lexicon</a>&nbsp;&nbsp;<span class="badge badge-light" style="font-size: 0.6em; vertical-align: middle;">talk</span></li>
+      
+      <li><a href="/Hugh-CV/talk/2012-keyboard-layout-presentation/">Keyboard layout as part of language documentation: the case of the Me&#39;phaa and Chinantec keyboards</a>&nbsp;&nbsp;<span class="badge badge-light" style="font-size: 0.6em; vertical-align: middle;">talk</span></li>
+      
+    </ul>
+  </div>
+  
+
+
+
+
+
+  </div>
+</div>
+
+      
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js" integrity="sha256-yt2kYMy0w8AbtF89WXb2P1rfjcP/HTHLT7097U8Y5b8=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/instant.page/5.1.0/instantpage.min.js" integrity="sha512-1+qUtKoh9XZW7j+6LhRMAyOrgSQKenQ4mluTR+cvxXjP1Z54RxZuzstR/H9kgPXQsVB8IW7DMDFUJpzLjvhGSQ==" crossorigin="anonymous"></script>
+
+      
+
+      
+
+    
+
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/leaflet.min.js" integrity="sha512-SeiQaaDh73yrb56sTW/RgVdi/mMqNeM2oBwubFHagc5BkixSpP1fvqF47mKzPGWYSSy4RwbBunrJBQ4Co8fRWA==" crossorigin="anonymous"></script>
+    
+
+    
+    
+    <script>const code_highlighting = false;</script>
+    
+
+    
+    
+    
+    
+    
+    
+    <script>
+      const search_config = {"indexURI":"/Hugh-CV/index.json","minLength":1,"threshold":0.3};
+      const i18n = {"no_results":"No results found","placeholder":"Search...","results":"results found"};
+      const content_type = {
+        'post': "Posts",
+        'project': "Projects",
+        'publication' : "Publications",
+        'talk' : "Talks",
+        'slides' : "Slides"
+        };
+    </script>
+    
+
+    
+    
+
+    
+    
+    <script id="search-hit-fuse-template" type="text/x-template">
+      <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{ snippet }}</p>
+        </div>
+      </div>
+      </div>
+    </script>
+    
+
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+    
+
+    
+    
+
+    
+    
+
+    
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+    
+    
+    <script src="/Hugh-CV/js/academic.min.3b2b658c61ebd725bd5fc606c89fe44c.js"></script>
+
+    
+
+
+
+
+
+
+  
+  
+  <div class="container">
+    <footer class="site-footer">
+  
+
+  <p class="powered-by">
+    Hugh Paterson III © 2021
+  </p>
+
+  
+  
+
+
+
+
+
+
+  <p class="powered-by">
+    
+
+    
+    <span class="float-right" aria-hidden="true">
+      <a href="#" class="back-to-top">
+        <span class="button_icon">
+          <i class="fas fa-chevron-up fa-2x"></i>
+        </span>
+      </a>
+    </span>
+    
+  </p>
+</footer>
+
+  </div>
+  
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>

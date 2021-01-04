@@ -1,0 +1,3284 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugh&#39;s Curriculum Vitae</title>
+    <link>https://hughandbecky.us/Hugh-CV/</link>
+      <atom:link href="https://hughandbecky.us/Hugh-CV/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hugh&#39;s Curriculum Vitae</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2021</copyright><lastBuildDate>Thu, 04 Mar 2021 17:00:12 -0700</lastBuildDate>
+    <image>
+      <url>https://hughandbecky.us/Hugh-CV/media/HughPaterson.jpg</url>
+      <title>Hugh&#39;s Curriculum Vitae</title>
+      <link>https://hughandbecky.us/Hugh-CV/</link>
+    </image>
+    
+    <item>
+      <title>From CV to OLAC</title>
+      <link>https://hughandbecky.us/Hugh-CV/talk/2021-from-cv-to-olac/</link>
+      <pubDate>Thu, 04 Mar 2021 17:00:12 -0700</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/talk/2021-from-cv-to-olac/</guid>
+      <description>
+
+
+
+
+
+
+
+
+
+
+&lt;section class=&#34;hugo-cite-bibliography&#34;&gt;
+  &lt;dl&gt;
+    
+
+      &lt;div id=&#34;arlitsch_invisible_2012&#34;&gt;
+        &lt;dt&gt;
+          Arlitsch&amp;#32;&amp;amp;&amp;#32;O&amp;#39;Brien
+
+          
+          (2012)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Arlitsch&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Kenning&#34; /&gt;
+    K.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;O&amp;#39;Brien&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Patrick S.&#34; /&gt;
+    P.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2012&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;Invisible institutional repositories: Addressing the low indexing ratios of IRs in Google Scholar&lt;/span&gt;.&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;Library Hi Tech&lt;/span&gt;,&amp;#32;30(1)&lt;/i&gt;.&amp;#32;&lt;span itemprop=&#34;pagination&#34;&gt;60–81&lt;/span&gt;.
+  &lt;a href=&#34;https://doi.org/10.1108/07378831211213210&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://doi.org/10.1108/07378831211213210&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;niyazov_open_2016&#34;&gt;
+        &lt;dt&gt;
+          Niyazov,&amp;#32;
+          Vogel,&amp;#32;
+          Price,&amp;#32;
+          Lund,&amp;#32;
+          Judd,&amp;#32;
+          Akil,&amp;#32;
+          Mortonson,&amp;#32;
+          Schwartzman&amp;#32;&amp;amp;&amp;#32;Shron
+
+          
+          (2016)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Niyazov&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Yuri&#34; /&gt;
+    Y.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Vogel&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Carl&#34; /&gt;
+    C.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Price&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Richard&#34; /&gt;
+    R.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Lund&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Ben&#34; /&gt;
+    B.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Judd&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;David&#34; /&gt;
+    D.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Akil&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Adnan&#34; /&gt;
+    A.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Mortonson&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Michael&#34; /&gt;
+    M.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Schwartzman&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Josh&#34; /&gt;
+    J.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Shron&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Max&#34; /&gt;
+    M.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2016&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;Open Access Meets Discoverability: Citations to Articles Posted to Academia.edu&lt;/span&gt;.
+  &amp;#32;In&amp;#32;&lt;span itemprop=&#34;editor&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Dorta-González&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Pablo&#34; /&gt;
+    P.&lt;/span&gt; (Eds.),&amp;#32;&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;PLOS ONE&lt;/span&gt;,&amp;#32;11(2)&lt;/i&gt;.&amp;#32;&lt;span itemprop=&#34;pagination&#34;&gt;e0148257&lt;/span&gt;.
+  &lt;a href=&#34;https://doi.org/10.1371/journal.pone.0148257&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://doi.org/10.1371/journal.pone.0148257&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;ovadia_researchgate_2014&#34;&gt;
+        &lt;dt&gt;
+          Ovadia
+
+          
+          (2014)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Ovadia&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Steven&#34; /&gt;
+    S.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2014&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;ResearchGate and Academia.edu: Academic Social Networks&lt;/span&gt;.&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;Behavioral &amp;amp; Social Sciences Librarian&lt;/span&gt;,&amp;#32;33(3)&lt;/i&gt;.&amp;#32;&lt;span itemprop=&#34;pagination&#34;&gt;165–169&lt;/span&gt;.
+  &lt;a href=&#34;https://doi.org/10.1080/01639269.2014.934093&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://doi.org/10.1080/01639269.2014.934093&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;simons_open_2003&#34;&gt;
+        &lt;dt&gt;
+          Simons&amp;#32;&amp;amp;&amp;#32;Bird
+
+          
+          (2003)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Simons&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Gary F.&#34; /&gt;
+    G.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Bird&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Steven&#34; /&gt;
+    S.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2003&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;The Open Language Archives Community: An Infrastructure for Distributed Archiving of Language Resources&lt;/span&gt;.&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;Literary and Linguistic Computing&lt;/span&gt;,&amp;#32;18(2)&lt;/i&gt;.&amp;#32;&lt;span itemprop=&#34;pagination&#34;&gt;117–128&lt;/span&gt;.
+  &lt;a href=&#34;https://doi.org/10.1093/llc/18.2.117&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://doi.org/10.1093/llc/18.2.117&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;utomo_building_2020&#34;&gt;
+        &lt;dt&gt;
+          Utomo&amp;#32;&amp;amp;&amp;#32;
+
+          
+          (2020)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Utomo&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Prayudi&#34; /&gt;
+    P.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2020&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;Building Serverless Website on GitHub Pages&lt;/span&gt;.&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;IOP Conference Series: Materials Science and Engineering&lt;/span&gt;,&amp;#32;879&lt;/i&gt;.&amp;#32;&lt;span itemprop=&#34;pagination&#34;&gt;012077&lt;/span&gt;.
+  &lt;a href=&#34;https://doi.org/10.1088/1757-899X/879/1/012077&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://doi.org/10.1088/1757-899X/879/1/012077&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+  &lt;/dl&gt;
+&lt;/section&gt;
+
+
+
+</description>
+    </item>
+    
+    <item>
+      <title>From Archive to Citation</title>
+      <link>https://hughandbecky.us/Hugh-CV/talk/2021-from-archive-to-citation/</link>
+      <pubDate>Wed, 17 Feb 2021 17:00:12 -0700</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/talk/2021-from-archive-to-citation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kainji Bibliography</title>
+      <link>https://hughandbecky.us/Hugh-CV/project/2020-kainji-bibliography/</link>
+      <pubDate>Mon, 10 Aug 2020 09:30:22 -0700</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/project/2020-kainji-bibliography/</guid>
+      <description>&lt;h2 id=&#34;about-authors-in-the-biblography&#34;&gt;About authors in the Biblography&lt;/h2&gt;
+&lt;p&gt;Rebecca Paterson&lt;/p&gt;
+&lt;p&gt;Stuart John McGill&lt;/p&gt;
+&lt;p&gt;Clark D. Regnier&lt;/p&gt;
+&lt;p&gt;Clement Tuko&lt;/p&gt;
+&lt;p&gt;John Bendor-Samuel&lt;/p&gt;
+&lt;p&gt;Roger M. Blench&lt;/p&gt;
+&lt;p&gt;Stephen Dettweiler&lt;/p&gt;
+&lt;p&gt;Sonia Dettweiler&lt;/p&gt;
+&lt;p&gt;P. G. Harris&lt;/p&gt;
+&lt;p&gt;David Heath&lt;/p&gt;
+&lt;p&gt;Carleen Heath&lt;/p&gt;
+&lt;p&gt;Hugh Paterson III&lt;/p&gt;
+&lt;h3 id=&#34;major-sources-of-resources-include&#34;&gt;Major sources of resources include&lt;/h3&gt;
+&lt;p&gt;McGill&amp;rsquo;s SOAS deposit
+Blench&amp;rsquo;s manuscripts
+Paterson&amp;rsquo;s Data Trove
+Detweiler&amp;rsquo;s content
+Undigitized content at the Paterson house.&lt;/p&gt;
+&lt;h3 id=&#34;resources-about-how-the-biblography-is-managed&#34;&gt;Resources about how the Biblography is managed&lt;/h3&gt;
+&lt;p&gt;A spreadsheet looking at major aggregation platforms:
+&lt;a href=&#34;https://docs.google.com/spreadsheets/d/1rDTthGvUkmC5UrRyNoVrE1QIEeA0BZjJ7n3F49I3I4U/edit?usp=sharing&#34;&gt;https://docs.google.com/spreadsheets/d/1rDTthGvUkmC5UrRyNoVrE1QIEeA0BZjJ7n3F49I3I4U/edit?usp=sharing&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;A document describing how we are approaching the annotated Bibliography.
+&lt;a href=&#34;https://docs.google.com/document/d/1whZPFPZ4lAg7GigHdfGo2e-Qnz47wDPYZUYuMrxfyLI/edit?usp=sharing&#34;&gt;https://docs.google.com/document/d/1whZPFPZ4lAg7GigHdfGo2e-Qnz47wDPYZUYuMrxfyLI/edit?usp=sharing&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>u̱t‑Maꞌin oral histories and narratives</title>
+      <link>https://hughandbecky.us/Hugh-CV/project/2017-utmatin-oral-history/</link>
+      <pubDate>Mon, 10 Aug 2020 09:30:22 -0700</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/project/2017-utmatin-oral-history/</guid>
+      <description>&lt;p&gt;Becky received a grant to facilitate the collection of oral story data. The terms of the grant require her to record and archive oral histories of U̠t-Ma&amp;rsquo;in speakers. My role in this project was to work with U̠t-Ma&amp;rsquo;in speakers (who actually did the recordings themselves) and present these to the Becky in way that she could arrange the files for archiving. In my role I got to visit around 40 different places in 7 different dialects. All from the back of a motorbike.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Credits</title>
+      <link>https://hughandbecky.us/Hugh-CV/credits/</link>
+      <pubDate>Sun, 28 Jun 2020 00:00:00 +0100</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/credits/</guid>
+      <description>&lt;h3 id=&#34;artists&#34;&gt;Artists&lt;/h3&gt;
+&lt;p&gt;Produced, under the creative vision of 
+&lt;a href=&#34;https://hughandbecky.us/Hugh-CV&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugh Paterson III&lt;/a&gt; with the technical mentoring of 
+&lt;a href=&#34;https://nqthqn.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nate Nichols&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Photos of Nigerian language speakers by Hugh Paterson III.&lt;br&gt;
+Photo of Becky Paterson by 
+&lt;a href=&#34;http://kimjonesphotography.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kim Jones&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Photos of collaborators provided by the collaborators. Used with permission.&lt;/p&gt;
+&lt;h3 id=&#34;technologies&#34;&gt;Technologies&lt;/h3&gt;
+&lt;p&gt;This site is made with open source technologies.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Built on 
+&lt;a href=&#34;https://www.wastalinux.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wasta Linux&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Using 
+&lt;a href=&#34;https://atom.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Atom&lt;/a&gt;, 
+&lt;a href=&#34;https://wiki.gnome.org/Apps/Gedit&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;gedit&lt;/a&gt;, and workflows dependent on 
+&lt;a href=&#34;https://www.zotero.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zotero&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Compiled with 
+&lt;a href=&#34;https://golang.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;golang 1.15&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Expressed via 
+&lt;a href=&#34;https://gohugo.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Templated via 
+&lt;a href=&#34;https://wowchemy.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; (formerly Academic),  
+&lt;a href=&#34;https://github.com/loup-brun/hugo-cite&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo-cite&lt;/a&gt;, and 
+&lt;a href=&#34;https://bdchauvette.net/leipzig.js&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;leipzig.js&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Deploying 
+&lt;a href=&#34;https://fontawesome.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Font Awesome&lt;/a&gt;, 
+&lt;a href=&#34;https://software.sil.org/charis&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CharisSIL&lt;/a&gt;, and 
+&lt;a href=&#34;https://jpswalsh.github.io/academicons&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Academicons&lt;/a&gt; in addition to selections from other font libraries available via 
+&lt;a href=&#34;https://glyphter.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;glyphter.com&lt;/a&gt;, and other open source icon providers like 
+&lt;a href=&#34;https://www.svgrepo.com/svg/104744/csv-file-format-extension&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SGVRepo&lt;/a&gt; (from which file type icons were obtained); and 
+&lt;a href=&#34;https://www.flaticon.com/free-icon/manuscript_695786&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;flaticon.com&lt;/a&gt; (from which the manuscript icon was obtained); and the 
+&lt;a href=&#34;https://thenounproject.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Noun Project&lt;/a&gt;, from which the Grant icon: created by &lt;em&gt;Eucalyp&lt;/em&gt; was obtainted.  &lt;!-- noun_grant_3156208. --&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>chepang annotated bibliography</title>
+      <link>https://hughandbecky.us/Hugh-CV/project/2020-chepang-bibliography/</link>
+      <pubDate>Fri, 12 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/project/2020-chepang-bibliography/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RefLex User Interaction Design</title>
+      <link>https://hughandbecky.us/Hugh-CV/project/2020-reflex/</link>
+      <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/project/2020-reflex/</guid>
+      <description>&lt;p&gt;This was a grant funded project which was tasked to look at the user interaction around RefLex, a web platform which allows linguists to interact with comparative language data for the languages of Africa. The acomplished task was to make recomendations for improved user interaction, lowering barriers to use, and then to create visualizations for what those recomendations might look like. All work was conducted under the admintrative supervision of 
+&lt;a href=&#34;http://llacan.vjf.cnrs.fr/p_segerer.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Guillaume Segerer&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Some of the final recomendations included updating web security practices to increase user trust. Creating visible changes to guide users through common workflows. Creating a visual design language so that visual layout would present less cognitive disidence.&lt;/p&gt;
+&lt;p&gt;Visual design for applications dealing with linguistic concepts and scores of languages remains an under-researched area of design and user experience analysis.&lt;/p&gt;
+&lt;hr&gt;
+
+
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-the-starting-design-of-reflex&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/project/2020-reflex/featured_huc794e2ed33b3f2280094ec8507fab6c2_559968_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;The starting design of RefLex&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/project/2020-reflex/featured_huc794e2ed33b3f2280094ec8507fab6c2_559968_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;The starting design&#34; width=&#34;1912&#34; height=&#34;1294&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;p&gt;The starting design of RefLex
+      
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;https://hughandbecky.us/Hugh-CV&#34;&gt; 
+Hugh Paterson III
+&lt;/a&gt; &lt;/span&gt;
+&lt;/p&gt;
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;Several Visual alternatives were part of the final product.
+
+
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-a-dark-theme-design&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/project/2020-reflex/GS4-Dark-Landing-Page_hu52d7857c42a49063307d1cc00ce85e0a_513604_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;A &amp;amp;lsquo;dark theme&amp;amp;rsquo; design&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/project/2020-reflex/GS4-Dark-Landing-Page_hu52d7857c42a49063307d1cc00ce85e0a_513604_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;A &amp;#39;dark theme&amp;#39; design&#34; width=&#34;2520&#34; height=&#34;1692&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;p&gt;A &amp;lsquo;dark theme&amp;rsquo; design
+      
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;https://hughandbecky.us/Hugh-CV&#34;&gt; 
+Hugh Paterson III
+&lt;/a&gt; &lt;/span&gt;
+&lt;/p&gt;
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+&lt;/p&gt;
+
+
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-a-playful-theme-design&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/project/2020-reflex/GS3-Landing-Page-playful_huc2ab14b2c524f3e24885ebf1fe72da83_245393_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;A playful theme design&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/project/2020-reflex/GS3-Landing-Page-playful_huc2ab14b2c524f3e24885ebf1fe72da83_245393_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;A playful theme design&#34; width=&#34;2520&#34; height=&#34;1692&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;p&gt;A playful theme design
+      
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;https://hughandbecky.us/Hugh-CV&#34;&gt; 
+Hugh Paterson III
+&lt;/a&gt; &lt;/span&gt;
+&lt;/p&gt;
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-resource-search-screen&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/project/2020-reflex/GS2-Resource-Search-1_hu760f6b20cd804991a68fb942b9d10491_162063_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Resource Search Screen&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/project/2020-reflex/GS2-Resource-Search-1_hu760f6b20cd804991a68fb942b9d10491_162063_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;Resource Search Screen&#34; width=&#34;1260&#34; height=&#34;846&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;p&gt;Resource Search Screen
+      
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;https://hughandbecky.us/Hugh-CV&#34;&gt; 
+Hugh Paterson III
+&lt;/a&gt; &lt;/span&gt;
+&lt;/p&gt;
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;!--
+one of the things is creating a language selector, iconizing it.
+
+https://usersnap.com/blog/design-language-switch
+https://phrase.com/blog/posts/how-to-select-fonts-when-localizing-apps-and-websites --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Bibliography of select papers on &#39;ethics&#39; and &#39;informed consent&#39; in Linguistic research</title>
+      <link>https://hughandbecky.us/Hugh-CV/post/informed-consent-irb-biblography/</link>
+      <pubDate>Sat, 08 Feb 2020 14:35:45 +0100</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/post/informed-consent-irb-biblography/</guid>
+      <description>&lt;p&gt;This is a short non-exhaustive bibliography of papers which discuss &lt;em&gt;Informed consent&lt;/em&gt; in the context of one or more of the following:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;minority language communities,&lt;/li&gt;
+&lt;li&gt;low literacy levels,&lt;/li&gt;
+&lt;li&gt;language research,&lt;/li&gt;
+&lt;li&gt;the legal aspect of the US IRB, and&lt;/li&gt;
+&lt;li&gt;&amp;lsquo;how informed is informed consent&amp;rsquo; .&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I have several nagging questions, which I wonder how discussed they are including: &amp;ldquo;Is Intellectual property rights of minority language people covered in the typical informed consent protocols of language researchers?&amp;rdquo; and &amp;ldquo;How ethical is it to create voice-to-speech tools for a small language community when only one or two people provide voice samples?&amp;rdquo; When working independently, outside the confines of an organization these factors are not mitigated by institutional barriers to creativity or participant considerations.&lt;/p&gt;
+&lt;p&gt;Citations are kept in a GitHub gist. Comments are welcome via GitHub.&lt;/p&gt;
+&lt;script type=&#34;application/javascript&#34; src=&#34;https://gist.github.com/HughP/b34e56efd7199bde727493f438a79f01.js&#34;&gt;&lt;/script&gt;</description>
+    </item>
+    
+    <item>
+      <title>Canvas Art</title>
+      <link>https://hughandbecky.us/Hugh-CV/art/crayon/</link>
+      <pubDate>Thu, 17 Oct 2019 20:18:54 +0000</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/art/crayon/</guid>
+      <description>
+
+
+
+
+
+
+
+  
+  
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+
+  
+  
+  
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-Canvas&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/crayon/Canvas/IMG_6708.jpg&#34; &gt;
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/crayon/Canvas/IMG_6708_hudddf1bd25e2d6e10b7496d9e30abe8fe_1900913_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-Canvas&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/crayon/Canvas/IMG_6710.jpg&#34; &gt;
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/crayon/Canvas/IMG_6710_hudaa4345dba6ea6bf4c9bd1bd055aae07_2317125_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-Canvas&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/crayon/Canvas/IMG_6712.jpg&#34; &gt;
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/crayon/Canvas/IMG_6712_hu50810b9e4e2af98987a78dd1de9bcc4a_2152242_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+
+  
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Woodworking</title>
+      <link>https://hughandbecky.us/Hugh-CV/art/woodworking/</link>
+      <pubDate>Thu, 17 Oct 2019 20:18:54 +0000</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/art/woodworking/</guid>
+      <description>&lt;p&gt;The scale and utility of my projects have a great range. Pragmatic need generally drives my wood working projects. Designers, talk about intentionality and how an object expresses some essence, but in wood working, I find the design and engineering needs converge. &lt;!-- That is, I like to think about the design, but I don&#39;t think about it independent of the needed engineering and the utility is as important as the essence which is embodied. --&gt; While I am working on a project in the building phase, I am motivate by I how I think people are going to love to touch and look at the finished product. That is why I love wood as a medium and defines my target level of performance when crafting. For my more pragmatic projects, like designers, I want the utility of the object to excel to the point where people don&amp;rsquo;t think about the object any more, it just exists and looks like it belongs in its space.&lt;/p&gt;
+&lt;h2 id=&#34;shelves&#34;&gt;Shelves&lt;/h2&gt;
+&lt;h3 id=&#34;custom-built-ins&#34;&gt;Custom built-ins&lt;/h3&gt;
+
+
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-bathroom-built-in-shelf-shelves-are-douglas-fir-finished-with-spar-urethane-while-backing-and-siding-are-birch-plywood-finished-with-polyurethane&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Shelves/IMG-0316_hud32fe8f0f982999e516f0a6b9704bd85_3428364_2000x2000_fit_q90_lanczos.JPG&#34; data-caption=&#34;Bathroom built in shelf. Shelves are Douglas Fir finished with Spar-urethane while backing and siding are Birch plywood finished with Polyurethane.&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Shelves/IMG-0316_hud32fe8f0f982999e516f0a6b9704bd85_3428364_2000x2000_fit_q90_lanczos.JPG&#34; class=&#34;lazyload&#34; alt=&#34;Bathroom Built in.&#34; width=&#34;30%&#34; height=&#34;4032&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;p&gt;Bathroom built in shelf. Shelves are Douglas Fir finished with Spar-urethane while backing and siding are Birch plywood finished with Polyurethane.
+      
+&lt;/p&gt;
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;h3 id=&#34;book-wedges&#34;&gt;Book wedges&lt;/h3&gt;
+
+
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-a-wedge-like-shelf-for-books-this-one-has-art-work-with-done-with-a-scroll-saw-on-the-end&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Shelves/IMG-0324_hu7978d68a2d5e3663db85b0496397f7bb_1956744_2000x2000_fit_q90_lanczos.JPG&#34; data-caption=&#34;A wedge like shelf for books. This one has art work with done with a scroll saw on the end.&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Shelves/IMG-0324_hu7978d68a2d5e3663db85b0496397f7bb_1956744_2000x2000_fit_q90_lanczos.JPG&#34; class=&#34;lazyload&#34; alt=&#34;Book Wedge&#34; width=&#34;30%&#34; height=&#34;3024&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;p&gt;A wedge like shelf for books. This one has art work with done with a scroll saw on the end.
+      
+&lt;/p&gt;
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;h3 id=&#34;extensions-to-existing-furniture&#34;&gt;Extensions to existing furniture&lt;/h3&gt;
+
+
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-bathroom-shelf---polyurethane-over-34-inch-birch-plywood-leading-edge-finished-with-a-45-degree-miter&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Shelves/IMG-0327_huab5202244056c250785e228578eb20d6_766616_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Bathroom shelf —  Polyurethane over 3/4 inch Birch plywood. Leading edge finished with a 45 degree miter.&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Shelves/IMG-0327_huab5202244056c250785e228578eb20d6_766616_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;Counter-top extension&#34; width=&#34;30%&#34; height=&#34;2100&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;p&gt;Bathroom shelf —  Polyurethane over 3/4 inch Birch plywood. Leading edge finished with a 45 degree miter.
+      
+&lt;/p&gt;
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;h3 id=&#34;tuck-up-drawers&#34;&gt;Tuck-up drawers&lt;/h3&gt;
+
+
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-mounted-between-joists&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Shelves/IMG-0326_hu8ae2c4b4dff5ddc5b69663ebb53c2a55_1954266_2000x2000_fit_q90_lanczos.JPG&#34; data-caption=&#34;Mounted between joists.&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Shelves/IMG-0326_hu8ae2c4b4dff5ddc5b69663ebb53c2a55_1954266_2000x2000_fit_q90_lanczos.JPG&#34; class=&#34;lazyload&#34; alt=&#34;Tuck-up drawers.&#34; width=&#34;30%&#34; height=&#34;2688&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;p&gt;Mounted between joists.
+      
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;https://hugh4.us&#34;&gt; 
+Hugh Paterson III
+&lt;/a&gt; &lt;/span&gt;
+&lt;/p&gt;
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;h3 id=&#34;towel-rack&#34;&gt;Towel rack&lt;/h3&gt;
+
+
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-bathroom-towel-rack-in-pine&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Shelves/IMG-0314_hu9293ac58576c1b9ffc3caba35d808089_2361417_2000x2000_fit_q90_lanczos.JPG&#34; data-caption=&#34;Bathroom towel rack in pine.&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Shelves/IMG-0314_hu9293ac58576c1b9ffc3caba35d808089_2361417_2000x2000_fit_q90_lanczos.JPG&#34; class=&#34;lazyload&#34; alt=&#34;Towel rack.&#34; width=&#34;30%&#34; height=&#34;3024&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;p&gt;Bathroom towel rack in pine.
+      
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;https://hugh4.us&#34;&gt; 
+Hugh Paterson III
+&lt;/a&gt; &lt;/span&gt;
+&lt;/p&gt;
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;h3 id=&#34;mounted-shelves&#34;&gt;Mounted shelves&lt;/h3&gt;
+&lt;!-- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-sidewalk-at-the-wycliffeusa-headquarters&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;Shelves/IMG-0310.JPG&#34; data-caption=&#34;Sidewalk at the WycliffeUSA headquarters.&#34;&gt;
+
+
+  &lt;img src=&#34;Shelves/IMG-0310.JPG&#34; alt=&#34;various shelves.&#34; width=&#34;30%&#34; &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;p&gt;Sidewalk at the WycliffeUSA headquarters.
+      
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;https://hugh4.us&#34;&gt; 
+Hugh Paterson III
+&lt;/a&gt; &lt;/span&gt;
+&lt;/p&gt;
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+ --&gt;
+
+
+
+
+
+
+
+
+  
+  
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+
+  
+  
+  
+  
+    
+    
+    
+    
+    
+      
+    
+  &lt;a data-fancybox=&#34;gallery-Shelves/Mounted-Shelves&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Shelves/Mounted-Shelves/IMG-0310.JPG&#34; &gt;
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Shelves/Mounted-Shelves/IMG-0310_hue7fd400d4a4f2b23dd3a32debdd392d1_1882825_0x190_resize_q90_lanczos.JPG&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+    
+  &lt;a data-fancybox=&#34;gallery-Shelves/Mounted-Shelves&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Shelves/Mounted-Shelves/IMG-0312.JPG&#34; &gt;
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Shelves/Mounted-Shelves/IMG-0312_hu24500bd9dae544e9dd20198043b4981e_4961130_0x190_resize_q90_lanczos.JPG&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;131&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+    
+  &lt;a data-fancybox=&#34;gallery-Shelves/Mounted-Shelves&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Shelves/Mounted-Shelves/IMG-0573.JPG&#34; &gt;
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Shelves/Mounted-Shelves/IMG-0573_huc373f8623c83b0cf5204faecba483962_2038393_0x190_resize_q90_lanczos.JPG&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+    
+  &lt;a data-fancybox=&#34;gallery-Shelves/Mounted-Shelves&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Shelves/Mounted-Shelves/IMG_1918.jpg&#34; &gt;
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Shelves/Mounted-Shelves/IMG_1918_hude5782dd08c67d3d5288dc9d17fccb39_2122773_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;143&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+
+  
+&lt;/div&gt;
+&lt;h3 id=&#34;fireplace-mantel&#34;&gt;Fireplace mantel&lt;/h3&gt;
+&lt;!--
+
+
+
+
+
+
+
+  
+  
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+
+  
+  
+  
+  
+    
+    
+    
+    
+    
+      
+    
+  &lt;a data-fancybox=&#34;gallery-Shelves&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Shelves/IMG-0314.JPG&#34; &gt;
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Shelves/IMG-0314_hu9293ac58576c1b9ffc3caba35d808089_2361417_0x190_resize_q90_lanczos.JPG&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+    
+  &lt;a data-fancybox=&#34;gallery-Shelves&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Shelves/IMG-0316.JPG&#34; &gt;
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Shelves/IMG-0316_hud32fe8f0f982999e516f0a6b9704bd85_3428364_0x190_resize_q90_lanczos.JPG&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;95&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+    
+  &lt;a data-fancybox=&#34;gallery-Shelves&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Shelves/IMG-0324.JPG&#34; &gt;
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Shelves/IMG-0324_hu7978d68a2d5e3663db85b0496397f7bb_1956744_0x190_resize_q90_lanczos.JPG&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+    
+  &lt;a data-fancybox=&#34;gallery-Shelves&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Shelves/IMG-0326.JPG&#34; &gt;
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Shelves/IMG-0326_hu8ae2c4b4dff5ddc5b69663ebb53c2a55_1954266_0x190_resize_q90_lanczos.JPG&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;143&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+  &lt;a data-fancybox=&#34;gallery-Shelves&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Shelves/IMG-0327.jpg&#34; data-caption=&#34;Bathroom shelf —  Polyurethane over 3/4 inch Birch plywood. Leading edge finished with a 45 degree miter.&#34;&gt;
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Shelves/IMG-0327_huab5202244056c250785e228578eb20d6_766616_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;143&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+    
+  &lt;a data-fancybox=&#34;gallery-Shelves&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Shelves/IMG-0571.JPG&#34; &gt;
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Shelves/IMG-0571_hub02f6c961c03c17cac37011f7a6fcc3f_1079458_0x190_resize_q90_lanczos.JPG&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+    
+  &lt;a data-fancybox=&#34;gallery-Shelves&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Shelves/IMG-0572.JPG&#34; &gt;
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Shelves/IMG-0572_huc0ef6e9051a402c1405524ee2e3ad773_2203651_0x190_resize_q90_lanczos.JPG&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+  &lt;a data-fancybox=&#34;gallery-Shelves&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Shelves/IMG_9706.jpg&#34; data-caption=&#34;Fireplace Mantel — 100 year old (in 2013) dairy barn post purposed. Faux life edge added with grinder. Douglas Fir finished with Boiled Linseed oil.&#34;&gt;
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Shelves/IMG_9706_hu83c5e91238eba68762c7fe49914f39cf_2265786_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;143&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+
+  
+&lt;/div&gt;--&gt;
+
+
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-fireplace-mantel-and-i-did-the-stone-work-too&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Shelves/IMG_9706_hu83c5e91238eba68762c7fe49914f39cf_2265786_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Fireplace mantel. (and I did the stone work too!)&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Shelves/IMG_9706_hu83c5e91238eba68762c7fe49914f39cf_2265786_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;Fireplace mantel.&#34; width=&#34;2448&#34; height=&#34;3264&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;p&gt;Fireplace mantel. (and I did the stone work too!)
+      
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;https://hugh4.us&#34;&gt; 
+Hugh Paterson III
+&lt;/a&gt; &lt;/span&gt;
+&lt;/p&gt;
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+
+  
+  
+  
+  
+    
+    
+    
+    
+    
+      
+    
+  &lt;a data-fancybox=&#34;gallery-Fireplace-Stone&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Fireplace-Stone/3264x2448_IMG_3293.jpg&#34; &gt;
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Fireplace-Stone/3264x2448_IMG_3293_hufcc9e4d1b29dd33015ed519a9975c005_2337499_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+    
+  &lt;a data-fancybox=&#34;gallery-Fireplace-Stone&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Fireplace-Stone/IMG_1085.jpg&#34; &gt;
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Fireplace-Stone/IMG_1085_hu56cdee7295620052acdf86c2e5560f2c_2493195_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+    
+  &lt;a data-fancybox=&#34;gallery-Fireplace-Stone&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Fireplace-Stone/IMG_9249.jpg&#34; &gt;
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Fireplace-Stone/IMG_9249_hu37129e03c9ab6b4cf7af2ee8223aa71d_1966783_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+    
+  &lt;a data-fancybox=&#34;gallery-Fireplace-Stone&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Fireplace-Stone/IMG_9695.jpg&#34; &gt;
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Fireplace-Stone/IMG_9695_hudac4a9b8228118b53adb280387924a62_1593042_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+    
+  &lt;a data-fancybox=&#34;gallery-Fireplace-Stone&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Fireplace-Stone/IMG_9710.jpg&#34; &gt;
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Fireplace-Stone/IMG_9710_hu54d576fc44531982bc2d553a29fb6b67_537381_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+
+  
+&lt;/div&gt;
+&lt;h2 id=&#34;tables&#34;&gt;Tables&lt;/h2&gt;
+&lt;p&gt;From coffee tables with places for kids things, to rebuilding missing parts for IKEA tables — tables are fun. The computer table is custom designed for the set of computers I run and has space for the custom rack mounted server cart underneath it.
+
+
+
+
+
+
+
+
+  
+  
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+
+  
+  
+  
+  
+    
+    
+    
+    
+    
+      
+    
+  &lt;a data-fancybox=&#34;gallery-Tables&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Tables/IMG-0320.JPG&#34; &gt;
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Tables/IMG-0320_hu9611f1fdd97ecd304ad575472a31d7bd_2339249_0x190_resize_q90_lanczos.JPG&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+    
+  &lt;a data-fancybox=&#34;gallery-Tables&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Tables/IMG-0323.JPG&#34; &gt;
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Tables/IMG-0323_hu48c46ecaccbb7a8b84866d399fcdf615_2178182_0x190_resize_q90_lanczos.JPG&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+    
+  &lt;a data-fancybox=&#34;gallery-Tables&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Tables/IMG-0328.JPG&#34; &gt;
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Tables/IMG-0328_hu17ba76c1a7716664bbdc8175433a45cd_2519778_0x190_resize_q90_lanczos.JPG&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+    
+  &lt;a data-fancybox=&#34;gallery-Tables&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Tables/IMG_0324.jpg&#34; &gt;
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Tables/IMG_0324_huc0c1f6c2a4fb564024334e97cd430729_2140554_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+    
+  &lt;a data-fancybox=&#34;gallery-Tables&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Tables/IMG_0327.jpg&#34; &gt;
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Tables/IMG_0327_hu84a1c2b13f63a46124ddeee8b4616029_2246892_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+
+  
+&lt;/div&gt;&lt;/p&gt;
+&lt;h2 id=&#34;toys-games-and-play-things&#34;&gt;Toys, Games, and Play-things&lt;/h2&gt;
+&lt;p&gt;My favorite things to make are small fun filling objects. My first &amp;ldquo;big&amp;rdquo; project was the chess set in 9th grade. My dad made me a truck for my second Christmas, I made my daughter a truck for her second Christmas. An unfinished dice box. And a box for our hand holds for the climbing wall.&lt;/p&gt;
+
+
+
+
+
+
+
+
+  
+  
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+
+  
+  
+  
+  
+    
+    
+    
+    
+    
+      
+    
+  &lt;a data-fancybox=&#34;gallery-Toys&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Toys/IMG-0308.JPG&#34; &gt;
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Toys/IMG-0308_hu67f23d56ce0e4e0c7e507528b4babea6_3599832_0x190_resize_q90_lanczos.JPG&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;143&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+    
+  &lt;a data-fancybox=&#34;gallery-Toys&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Toys/IMG-0333.JPG&#34; &gt;
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Toys/IMG-0333_hu259249327bce5d5c28276641fca6c975_2175548_0x190_resize_q90_lanczos.JPG&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+    
+  &lt;a data-fancybox=&#34;gallery-Toys&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Toys/IMG-0334.JPG&#34; &gt;
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Toys/IMG-0334_huabd7810ba316422db1fd8980eafd8e4f_2111098_0x190_resize_q90_lanczos.JPG&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+    
+  &lt;a data-fancybox=&#34;gallery-Toys&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Toys/IMG-0336.JPG&#34; &gt;
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Toys/IMG-0336_hub2e35c200c151de85c67c8f11b44ca07_2051117_0x190_resize_q90_lanczos.JPG&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+    
+  &lt;a data-fancybox=&#34;gallery-Toys&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Toys/IMG-0337.JPG&#34; &gt;
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Toys/IMG-0337_huf3c3f93f8b7546d311ee92d23a5ed4cc_2514886_0x190_resize_q90_lanczos.JPG&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+    
+  &lt;a data-fancybox=&#34;gallery-Toys&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Toys/IMG-0531.JPG&#34; &gt;
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Toys/IMG-0531_hu840df2f1c72a4a991179a9161f48ebc3_2093295_0x190_resize_q90_lanczos.JPG&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+    
+  &lt;a data-fancybox=&#34;gallery-Toys&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Toys/IMG-0532.JPG&#34; &gt;
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Toys/IMG-0532_hu97323fd50b7cb1c1a203b4b5bfefd8fb_2131580_0x190_resize_q90_lanczos.JPG&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+    
+  &lt;a data-fancybox=&#34;gallery-Toys&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Toys/IMG-0555.JPG&#34; &gt;
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Toys/IMG-0555_hu9cf66918a9e82167cb16f60682c52206_1875632_0x190_resize_q90_lanczos.JPG&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+    
+  &lt;a data-fancybox=&#34;gallery-Toys&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Toys/IMG_0350.jpg&#34; &gt;
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Toys/IMG_0350_hu6185fd4d3944e88b91b92d2b70457a0b_1479985_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+    
+  &lt;a data-fancybox=&#34;gallery-Toys&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Toys/IMG_5221.jpg&#34; &gt;
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Toys/IMG_5221_huf73fb18a0bee66a62f2f0bd01fbcdc6e_2265020_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;143&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+    
+  &lt;a data-fancybox=&#34;gallery-Toys&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Toys/IMG_5223.jpg&#34; &gt;
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Toys/IMG_5223_hu7b7f287532fbd19a529d5f84c9333bf7_2270199_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;143&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+    
+  &lt;a data-fancybox=&#34;gallery-Toys&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Toys/IMG_5245.jpg&#34; &gt;
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Toys/IMG_5245_hu0f390eb7d4e7d7487a1768f4f3e00fdb_2415007_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+    
+  &lt;a data-fancybox=&#34;gallery-Toys&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Toys/RenderedImage.jpg&#34; &gt;
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Toys/RenderedImage_huc181d9fecfaafc5ba3a180f00b60348e_484846_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;254&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+    
+  &lt;a data-fancybox=&#34;gallery-Toys&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Toys/RenderedImage2.jpg&#34; &gt;
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Toys/RenderedImage2_huc181d9fecfaafc5ba3a180f00b60348e_987959_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+
+  
+&lt;/div&gt;
+&lt;h2 id=&#34;climbing-wall&#34;&gt;Climbing Wall&lt;/h2&gt;
+&lt;p&gt;I built this seven foot high wall for my daughter to climb on from Birch and Douglas Fir. Two years later I built the crack climbing volume (Bullet wood, Oak, and Padauk) and hand holds (Maple). At three and a half we started climbing on basalt columns.&lt;/p&gt;
+
+
+
+
+
+
+
+
+  
+  
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+
+  
+  
+  
+  
+    
+    
+    
+    
+    
+      
+    
+  &lt;a data-fancybox=&#34;gallery-Climbing-Wall&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Climbing-Wall/IMG-0306.JPG&#34; &gt;
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Climbing-Wall/IMG-0306_hucbea14e3393026d985aa19dfda0ff0e0_3349709_0x190_resize_q90_lanczos.JPG&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;143&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+    
+  &lt;a data-fancybox=&#34;gallery-Climbing-Wall&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Climbing-Wall/IMG-0307.JPG&#34; &gt;
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Climbing-Wall/IMG-0307_hu1dbdbaed9883c7e238f38e666e5b41a8_3432757_0x190_resize_q90_lanczos.JPG&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;143&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+    
+  &lt;a data-fancybox=&#34;gallery-Climbing-Wall&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Climbing-Wall/IMG-0568.JPG&#34; &gt;
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Climbing-Wall/IMG-0568_hu3c1b3c7341c3b8d17487c53bad896fa4_2235380_0x190_resize_q90_lanczos.JPG&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+    
+  &lt;a data-fancybox=&#34;gallery-Climbing-Wall&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Climbing-Wall/IMG-0569.JPG&#34; &gt;
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Climbing-Wall/IMG-0569_hu2fa65658f6ae53def529361bbf91349d_2298986_0x190_resize_q90_lanczos.JPG&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+    
+  &lt;a data-fancybox=&#34;gallery-Climbing-Wall&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Climbing-Wall/IMG-9631.JPG&#34; &gt;
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Climbing-Wall/IMG-9631_hua5a1a8ff2770070d6214b8ad6558d996_2179204_0x190_resize_q90_lanczos.JPG&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+    
+  &lt;a data-fancybox=&#34;gallery-Climbing-Wall&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Climbing-Wall/IMG-9632.JPG&#34; &gt;
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Climbing-Wall/IMG-9632_huc4c8c47a2a889f7df48679f1f36c2a3d_2609618_0x190_resize_q90_lanczos.JPG&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;143&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+    
+  &lt;a data-fancybox=&#34;gallery-Climbing-Wall&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Climbing-Wall/IMG-9633.JPG&#34; &gt;
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Climbing-Wall/IMG-9633_hu23e318e281d7b10cd31e33807eb7496c_2464696_0x190_resize_q90_lanczos.JPG&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;143&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+    
+  &lt;a data-fancybox=&#34;gallery-Climbing-Wall&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Climbing-Wall/IMG_5155.jpg&#34; &gt;
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Climbing-Wall/IMG_5155_hu856606b7fbe0c6f6c50d7071edfe2c63_1780327_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;143&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+    
+  &lt;a data-fancybox=&#34;gallery-Climbing-Wall&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Climbing-Wall/IMG_5187.jpg&#34; &gt;
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Climbing-Wall/IMG_5187_hufdf5ad8e7325d10b625d34b9c4ca4871_1944963_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;143&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+    
+  &lt;a data-fancybox=&#34;gallery-Climbing-Wall&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Climbing-Wall/IMG_5188.jpg&#34; &gt;
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Climbing-Wall/IMG_5188_hu431e864bc8d85518e499481296bd0022_1724650_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;143&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+    
+  &lt;a data-fancybox=&#34;gallery-Climbing-Wall&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Climbing-Wall/climbing-skinners-butte.JPG&#34; &gt;
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Climbing-Wall/climbing-skinners-butte_hub73410b9a2d5e0aff6dc1c17449517d9_4794601_0x190_resize_q90_lanczos.JPG&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;143&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+
+  
+&lt;/div&gt;
+&lt;h2 id=&#34;decks-floors-fences-and-garden-features&#34;&gt;Decks, Floors, Fences and Garden Features&lt;/h2&gt;
+&lt;p&gt;Cedar deck. Later a Red Wood planter was added. Hickory engineered hardwood flooring. A metal and wood fence.
+
+
+
+
+
+
+
+
+  
+  
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+
+  
+  
+  
+  
+    
+    
+    
+    
+    
+      
+    
+  &lt;a data-fancybox=&#34;gallery-Decks&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Decks/IMG-0317.JPG&#34; &gt;
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Decks/IMG-0317_hu7cd426e06b7b99e04e8b3fb8c9e837d1_3348739_0x190_resize_q90_lanczos.JPG&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;143&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+    
+  &lt;a data-fancybox=&#34;gallery-Decks&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Decks/IMG-0318.JPG&#34; &gt;
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Decks/IMG-0318_hu65ad409f0339ea6def9d3d1418f5850d_1942006_0x190_resize_q90_lanczos.JPG&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+    
+  &lt;a data-fancybox=&#34;gallery-Decks&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Decks/IMG-0343.JPG&#34; &gt;
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Decks/IMG-0343_hu0f3a641aa3efc4425f5ba413fbccb50f_5812518_0x190_resize_q90_lanczos.JPG&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+    
+  &lt;a data-fancybox=&#34;gallery-Decks&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Decks/IMG-0344.JPG&#34; &gt;
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Decks/IMG-0344_hu47ba019c6ae4c759b03ac80ddd5b5969_4202541_0x190_resize_q90_lanczos.JPG&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+    
+  &lt;a data-fancybox=&#34;gallery-Decks&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Decks/IMG-0533.JPG&#34; &gt;
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Decks/IMG-0533_hu6fe477d7bed50ca99cefab8508102469_4072978_0x190_resize_q90_lanczos.JPG&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+    
+  &lt;a data-fancybox=&#34;gallery-Decks&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Decks/IMG-0564.JPG&#34; &gt;
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Decks/IMG-0564_hucf6933caf192949793fdae39db09e941_3700504_0x190_resize_q90_lanczos.JPG&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+    
+  &lt;a data-fancybox=&#34;gallery-Decks&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Decks/IMG-0565.JPG&#34; &gt;
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Decks/IMG-0565_hu78a1522ea9a0545b01c12487b60a8d2a_3685407_0x190_resize_q90_lanczos.JPG&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+    
+  &lt;a data-fancybox=&#34;gallery-Decks&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Decks/IMG-0566.JPG&#34; &gt;
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Decks/IMG-0566_huba1379b897334704ee76f3661bb54ee5_4167151_0x190_resize_q90_lanczos.JPG&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+    
+  &lt;a data-fancybox=&#34;gallery-Decks&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Decks/IMG_0272.jpg&#34; &gt;
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Decks/IMG_0272_hu17476ee0cf693f516e0b06efc4920aaf_3782222_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+
+  
+&lt;/div&gt;&lt;/p&gt;
+&lt;h2 id=&#34;doors&#34;&gt;Doors&lt;/h2&gt;
+&lt;p&gt;I love five panel shaker style doors. I&amp;rsquo;ve tried my hand at a pair of cabinet doors before I anticipate making the necessary doors for my home.
+
+
+
+
+
+
+
+
+  
+  
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+
+  
+  
+  
+  
+    
+    
+    
+    
+    
+      
+    
+  &lt;a data-fancybox=&#34;gallery-Doors&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Doors/59320746108--90A7D5A7-8FCB-490C-85A4-6B14B8312003.JPG&#34; &gt;
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Doors/59320746108--90A7D5A7-8FCB-490C-85A4-6B14B8312003_hu3db9b8e29fe1ed85f628d601133e02a6_2104021_0x190_resize_q90_lanczos.JPG&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+    
+  &lt;a data-fancybox=&#34;gallery-Doors&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Doors/59321052269--B1ED21B9-F5C7-4A29-81B4-09609DF2BF1B.JPG&#34; &gt;
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Doors/59321052269--B1ED21B9-F5C7-4A29-81B4-09609DF2BF1B_hua1e1dc614daad7b0e0092d2d247c85ce_2108744_0x190_resize_q90_lanczos.JPG&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+    
+  &lt;a data-fancybox=&#34;gallery-Doors&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Doors/IMG-0551.JPG&#34; &gt;
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Doors/IMG-0551_hu86ec511d9528d42372605c3686ee060f_2480975_0x190_resize_q90_lanczos.JPG&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+    
+  &lt;a data-fancybox=&#34;gallery-Doors&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Doors/IMG-0552.JPG&#34; &gt;
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Doors/IMG-0552_hu6e5fbd650acd4d3b34db081d903fbab5_2554522_0x190_resize_q90_lanczos.JPG&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+    
+  &lt;a data-fancybox=&#34;gallery-Doors&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Doors/IMG-0575.JPG&#34; &gt;
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Doors/IMG-0575_hu7070b1b334c114f2a90dd2a3208181f4_3447055_0x190_resize_q90_lanczos.JPG&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;143&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+
+  
+&lt;/div&gt;&lt;/p&gt;
+&lt;h2 id=&#34;musical-instruments&#34;&gt;Musical instruments&lt;/h2&gt;
+&lt;p&gt;Two unfinished Ukuleles. (I also somewhere along the line repaired a Ukulele for a friend.)
+
+
+
+
+
+
+
+
+  
+  
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+
+  
+  
+  
+  
+    
+    
+    
+    
+    
+      
+    
+  &lt;a data-fancybox=&#34;gallery-Musical-Instruments&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Musical-Instruments/IMG-0330.JPG&#34; &gt;
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Musical-Instruments/IMG-0330_hu7523e04d14d63aeef6289a7470df370a_2570252_0x190_resize_q90_lanczos.JPG&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+    
+  &lt;a data-fancybox=&#34;gallery-Musical-Instruments&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Musical-Instruments/IMG-0332.JPG&#34; &gt;
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Musical-Instruments/IMG-0332_hua282ff8a44973d4dcf8ac9bd48a557e9_1973722_0x190_resize_q90_lanczos.JPG&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+
+  
+&lt;/div&gt;&lt;/p&gt;
+&lt;h2 id=&#34;kitchen&#34;&gt;Kitchen&lt;/h2&gt;
+&lt;p&gt;My first wood shop project ever — the cutting board from 9th grade. (though I had a set of chisels in grade school that I made a boat out of&amp;hellip;)&lt;/p&gt;
+
+
+
+
+
+
+
+
+  
+  
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+
+  
+  
+  
+  
+    
+    
+    
+    
+    
+      
+    
+  &lt;a data-fancybox=&#34;gallery-Kitchen&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Kitchen/IMG-0322.JPG&#34; &gt;
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Kitchen/IMG-0322_hue315a679f689b45031479b4d2772eae6_2244971_0x190_resize_q90_lanczos.JPG&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+
+  
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Non-Google Collaboration Tools</title>
+      <link>https://hughandbecky.us/Hugh-CV/post/non-google-collaborative-solutions/</link>
+      <pubDate>Sat, 29 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/post/non-google-collaborative-solutions/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://peerpad.net&#34;&gt;https://peerpad.net&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://pad.spline.de&#34;&gt;http://pad.spline.de&lt;/a&gt;
+&lt;a href=&#34;https://www.babelstone.co.uk/Unicode/whatisit.html&#34;&gt;https://www.babelstone.co.uk/Unicode/whatisit.html&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Language Educational Resources Grant Proposal</title>
+      <link>https://hughandbecky.us/Hugh-CV/manuscripts/2019-grant-proposal-language-educational-resources/</link>
+      <pubDate>Fri, 31 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/manuscripts/2019-grant-proposal-language-educational-resources/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>General introduction to the Materiality of Audio objects in the study of linguistics</title>
+      <link>https://hughandbecky.us/Hugh-CV/manuscripts/2019-general-introduction-to-the-materiality-of-audio-related-to-linguistics/</link>
+      <pubDate>Mon, 20 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/manuscripts/2019-general-introduction-to-the-materiality-of-audio-related-to-linguistics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Languages &amp; Dialects: a comparison of differentiations</title>
+      <link>https://hughandbecky.us/Hugh-CV/manuscripts/2019-languages-and-dialects-a-comparison-of-differentiations/</link>
+      <pubDate>Fri, 17 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/manuscripts/2019-languages-and-dialects-a-comparison-of-differentiations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A schema for describing international agreements, cooperating nations and sovereign states as a sub-component in a graph database</title>
+      <link>https://hughandbecky.us/Hugh-CV/manuscripts/2019-sates-and-treaties/</link>
+      <pubDate>Tue, 30 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/manuscripts/2019-sates-and-treaties/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Archives: Features without a business plan</title>
+      <link>https://hughandbecky.us/Hugh-CV/talk/2019-archives-features-without-a-business-plan/</link>
+      <pubDate>Fri, 26 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/talk/2019-archives-features-without-a-business-plan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Text input issues for under-resourced languages: with special notes on Eastern Dan</title>
+      <link>https://hughandbecky.us/Hugh-CV/publication/2019-thesis/</link>
+      <pubDate>Sun, 31 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/publication/2019-thesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Asimjeeg Datooga (Southern Nilotic, Tanzania) ASR</title>
+      <link>https://hughandbecky.us/Hugh-CV/manuscripts/2019-richard-asr/</link>
+      <pubDate>Fri, 15 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/manuscripts/2019-richard-asr/</guid>
+      <description>&lt;p&gt;This work has no written results yet. It is purely experimental at this stage.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Chepang (Nepal) ASR</title>
+      <link>https://hughandbecky.us/Hugh-CV/manuscripts/2019-chepang-asr/</link>
+      <pubDate>Fri, 15 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/manuscripts/2019-chepang-asr/</guid>
+      <description>&lt;p&gt;This work has no written results yet. It is purely experimental at this stage.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tentative: [Phonetic Description of Khroskyabs]</title>
+      <link>https://hughandbecky.us/Hugh-CV/manuscripts/2019-khroskyabs-phonetics/</link>
+      <pubDate>Fri, 15 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/manuscripts/2019-khroskyabs-phonetics/</guid>
+      <description>&lt;p&gt;This is an early sketch of an Yu Lha&amp;rsquo;s home variety. Our goal is to model an Illustration of the IPA.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Automatic Speech Recognition</title>
+      <link>https://hughandbecky.us/Hugh-CV/project/2019-automatic-speech-recognition/</link>
+      <pubDate>Tue, 12 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/project/2019-automatic-speech-recognition/</guid>
+      <description>&lt;p&gt;Currently I am working with easy to get speech data. This includes a Language of Nepal, a language of Nigeria and a language of Tanzania.&lt;/p&gt;
+&lt;p&gt;Tools I use or have found interesting are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://github.com/dmort27/epitran&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Epitran&lt;/a&gt; - A tool for transcribing orthographic text as IPA (International Phonetic Alphabet) &lt;!-- the team building it is working out of this doc: https://docs.google.com/spreadsheets/d/1Z0pz22DXYw5CIp2Eo6ODbrTojqfq3e4jGjguZjbGqWE/edit#gid=1782468899 --&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Copyright and the distributed lexicon</title>
+      <link>https://hughandbecky.us/Hugh-CV/talk/2019-copyright-and-the-distributed-lexicon/</link>
+      <pubDate>Sun, 03 Mar 2019 00:00:00 +1100</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/talk/2019-copyright-and-the-distributed-lexicon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Business Maturity Canvas</title>
+      <link>https://hughandbecky.us/Hugh-CV/project/2019-business-maturity-canvas/</link>
+      <pubDate>Mon, 18 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/project/2019-business-maturity-canvas/</guid>
+      <description>&lt;p&gt;This project was a collaboration with 
+&lt;a href=&#34;https://twitter.com/stevemoitozo2?lang=en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Steve Moitiozo&lt;/a&gt;. He generally has the conversations, and therefore provided the content fodder. I facilitated graphical design of these ideas. I provided the canvas layout and graphic design.&lt;/p&gt;
+&lt;p&gt;The project resulted in two tools. A canvas which helps a business &amp;ldquo;owner&amp;rdquo; or and entrepreneur discover where their business is currently and what sorts of actions they should be looking at to determine how their business fits into the market.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://hughandbecky.us/Hugh-CV/project/2019-business-maturity-canvas/Business-Model-Fit-canvas-v1.pdf&#34;&gt;Canvas&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://hughandbecky.us/Hugh-CV/project/2019-business-maturity-canvas/Business-Model-Fit-Worksheet.pdf&#34;&gt;Worksheet&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Death of Victor Hugos</title>
+      <link>https://hughandbecky.us/Hugh-CV/publication/2019-the-death-of-victor-hugos/</link>
+      <pubDate>Thu, 17 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/publication/2019-the-death-of-victor-hugos/</guid>
+      <description>&lt;p&gt;This version is only viewable by invite only until formally published.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>https://hughandbecky.us/Hugh-CV/research/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tone in Whispered Speech Bibliography</title>
+      <link>https://hughandbecky.us/Hugh-CV/post/tone-in-whispered-speech-bibliography/</link>
+      <pubDate>Sun, 16 Dec 2018 14:35:45 -0700</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/post/tone-in-whispered-speech-bibliography/</guid>
+      <description>&lt;p&gt;This is a short non-exhaustive bibliography of instigations and their reports when looking at tone in whispered speech.&lt;/p&gt;
+&lt;p&gt;Citations are kept in a GitHub gist. Comments are welcome via GitHub.&lt;/p&gt;
+&lt;script type=&#34;application/javascript&#34; src=&#34;https://gist.github.com/HughP/2be26c1ad99a09de4a0247204aeb1d64.js&#34;&gt;&lt;/script&gt;</description>
+    </item>
+    
+    <item>
+      <title>Tentative: [Phonetic Description of an Italian dialect]</title>
+      <link>https://hughandbecky.us/Hugh-CV/manuscripts/2019-italian-phonetics/</link>
+      <pubDate>Sat, 15 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/manuscripts/2019-italian-phonetics/</guid>
+      <description>&lt;p&gt;This is an early sketch of an Sara&amp;rsquo;s home variety. Our goal is to model an Illustration of the IPA.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Bibliography of select Philippine language descriptions</title>
+      <link>https://hughandbecky.us/Hugh-CV/post/phillipine-languages-bibliography/</link>
+      <pubDate>Wed, 08 Aug 2018 14:35:45 -0700</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/post/phillipine-languages-bibliography/</guid>
+      <description>&lt;p&gt;This is a short non-exhaustive bibliography of phonological descriptions of Philippine languages.&lt;/p&gt;
+&lt;p&gt;Citations are kept in a GitHub gist. Comments are welcome via GitHub.&lt;/p&gt;
+&lt;script type=&#34;application/javascript&#34; src=&#34;https://gist.github.com/HughP/b6a8018897d83ee3a8760efa3d1361da.js&#34;&gt;&lt;/script&gt;</description>
+    </item>
+    
+    <item>
+      <title>TEI Lexicon Bibliography</title>
+      <link>https://hughandbecky.us/Hugh-CV/post/tei-lexicon-bibliography/</link>
+      <pubDate>Wed, 08 Aug 2018 14:35:45 -0700</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/post/tei-lexicon-bibliography/</guid>
+      <description>&lt;p&gt;This is a short non-exhaustive bibliography of lexicon projects which have tested or opted to use the XML TEI format for their data.&lt;/p&gt;
+&lt;p&gt;Citations are kept in a GitHub gist. Comments are welcome via GitHub.&lt;/p&gt;
+&lt;script type=&#34;application/javascript&#34; src=&#34;https://gist.github.com/HughP/3b3faf1f2a8a579b91a46a2f1d6ceaa1.js&#34;&gt;&lt;/script&gt;</description>
+    </item>
+    
+    <item>
+      <title>Tentative: [Business Model for delivering linguistics training to Minority language speakers]</title>
+      <link>https://hughandbecky.us/Hugh-CV/manuscripts/2019-business-model-for-delivering-training/</link>
+      <pubDate>Wed, 18 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/manuscripts/2019-business-model-for-delivering-training/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OSS, Commercial &amp; Closed source</title>
+      <link>https://hughandbecky.us/Hugh-CV/manuscripts/2018-oss-commercial-closed-source/</link>
+      <pubDate>Sun, 15 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/manuscripts/2018-oss-commercial-closed-source/</guid>
+      <description>&lt;p&gt;This draft came about because we realized that our previous 
+&lt;a href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/publication/2016-open-source-code/&#34;&gt;work&lt;/a&gt; had some limitations. We want to better serve software seekers with a fuller array of actionable and useful data.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Keyboard layouts across languages: A Text input analysis</title>
+      <link>https://hughandbecky.us/Hugh-CV/publication/2018-thesis-proposal/</link>
+      <pubDate>Sat, 31 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/publication/2018-thesis-proposal/</guid>
+      <description>&lt;h2 id=&#34;proposal&#34;&gt;Proposal&lt;/h2&gt;
+&lt;p&gt;Digital language death is a real issue for many small and under-resourced languages. To use Kornai’s (2013) terms, the digital moribund state of languages is accelerated by the lack of intuitive and useful text input methods for many minority and under-resourced languages. Even if text input methods currently exist for a language, it is often the case that they are disruptive (rather than smooth) to the digital text production process, due to inadequately optimized keyboards. This disruption then serves as a barrier to creating vibrant digital communities using these under-resourced languages. What is observed is that users of under-resourced languages often choose to use another language in digital contexts rather than deal with the disruptions of awkward keyboard input requirements. This actually serves to accelerate and solidify the under-resourced language in its moribund “vitality” state.
+Optimized Keyboard Layouts are an academic pursuit in applied mathematics and computer science which intend to make keyboards intuitive and useful. Despite being language-related resources, keyboards and text input methods are rarely mentioned in the language development literature.
+Within the computer science literature Yin and Su (2011) situate the optimization of the keyboard in a context known as the general keyboard arrangement problem (GKAP). Their work is well respected, but does not take into account several issues common to the minority-language context, such as keyboards with deadkey interactions, graphemic complexities (such as diacritic usage), and embedded linguistic knowledge (such as tone patterns, or multi-graph functional units). For example, Bi et al. (2012) look at the efficiency of text input with the deadkey method for diacritics, and contrast that with a single keystroke for a “composed” character. They conclude that the deadkey method is more efficient, but they only run their tests on European languages with orthographies that have a diacritic to total character density of less than 4%. Commonly, European languages use diacritics to indicate vowel quality. In contrast, many languages use diacritics to show tone patterns. In preliminary counts of minority-languages in both Mexico and Nigeria, I have encountered diacritic densities of over 30%. This means the extra time and effort it takes to use deadkeys is much more significant in these languages.
+Paterson (2014) lays a foundation for the kinds of issues encountered by minority-languages typists, as an appeal to creators of resources for under-resourced languages to use design principles (Vitsœ 2012, U.S. Department of Health and Human Services 2018) in the creation of their language resource products. There, I argue that better design of text input solutions, which take into account linguistic knowledge about a language’s orthography, will increase the opportunities for digital vitality in an under-resourced language.  It does not, however, present a methodology for assessing the disruptive nature of a text input solution, so we still lack a metric for comparing the relative ease of typing on any given keyboard layout for a given language.
+There currently does not exist a principled way to evaluate the utility or the application of User Experience principles (Garrett 2002) and design criteria to keyboard layouts. Researchers who have published on the keyboard optimization problem generally evaluate keyboard layouts on the basis of a composite “fitness score”. These scores only take into account the metrics of a single language - generally English - and only do it from an ergonomic perspective. As researchers in the field of language development, we are effectively blind when it comes to our ability to compare efficiency of two proposed keyboard layouts serving the same language,. A good framework does not exist for allowing researchers to ask the question: does QWERTY serve English users equally as well as AWERZY does to French users? - or any number of keyboards and their corresponding minority-languages.
+Language development practitioners and linguists working in many different languages have created many keyboard layouts.  However, linguists have not adequately accounted for the linguistic dissonance between the psycholinguistic and phonemic realities of a spoken language and a speaker’s experience in typing that language. This has created a gap between the “possible to write/type” orthography and the “easy to write/type” orthography.
+The general keyboard arrangement problem (GKAP) has been situated as a time over distance problem, i.e., speed. The assumption has been that if fingers travel a smaller distance, then faster typing should be the result. A secondary argument to increase speed has been to reduce effort. The assessment of effort has been tied to Fitts’ law (MacKenzie 1992) for measurements of physical effort. However, mental effort or user-perceived effort remains unassessed.
+By visualizing keystrokes, we can identify the locus of impact in any given language. In language development work it is often the case that low-usage keys in an English-QWERTY layout are replaced with “new characters” to form keyboard layouts. The consequence has been the placement of frequently used keys under weak fingers, as demonstrated by the Meꞌphaa keyboard layout below. Notice the high frequency red(dish) areas and the lower frequency blue areas. These red areas would normally be struck with the pinky fingers.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://hughandbecky.us/Hugh-CV/publication/2018-thesis-proposal/Heatmaps-of-4-keyboards/%5Btcf%5D-heatmap-with-sample-text.jpg&#34; alt=&#34;Meꞌphaa Keyboard&#34; title=&#34;Meꞌphaa Keyboard&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;p style=&#34;text-align: center;&#34;&gt;Figure 1: Meꞌphaa Keyboard&lt;/p&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Spanish, distributes the same amount of information across multiple fingers as shown in Figure 2 below. According to current keyboard layout theory even the Spanish keyboard is heavy on the weaker fingers of the left hand, but at least is better than the Meꞌphaa layout.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://hughandbecky.us/Hugh-CV/publication/2018-thesis-proposal/Heatmaps-of-4-keyboards/%5Bspa%5D-heatmap-with-full-text.jpg&#34; alt=&#34;Spanish Keyboard&#34; title=&#34;Spanish Keyboard&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;p style=&#34;text-align: center;&#34;&gt;Figure 2: Spanish Keyboard&lt;/p&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Contrasting these two languages allows us to visualize how they are different with respect to the actions of the pinky finger. It also demonstrates how the attempt to ‘conserve QWERTY’ impacts typing in minority languages. Notice how the Meꞌphaa keyboard layout replaces the Spanish〈ç〉character with a tone diacritic key. Also note that these tone diacritics are very frequent in Meꞌphaa, and create a typing imbalance. Additionally, the Meꞌphaa Saltillo〈ꞌ〉 key is also on the right side with heavy use, further contributing to the typing imbalance.
+These diagrams demonstrate the part of the keyboard layout analysis that can be computed using existing GKAP methods. What linguists bring to the discussion is an awareness of linguistic components. Orthographies are not just Unicode characters, but are functional units. The encoding of a functional unit can change from orthography to orthography. This is missed by many GKAP researchers. One needs to look beyond Unicode characters and toward ratios of keystrokes to functional units.
+One way that linguists look at functional units differently than “pure technologists” is in the area of tone. Snider (2014) and Hyman (2014) both argue for an analysis of tone that looks at patterns across the domain of tonal attachment (usually the word or morpheme) rather than the more structuralist and segmental view of “letter plus pitch” which is the encoding method that Unicode follows. The difference in behavior becomes clearer when we contrast reading diacritic tone marks with a language which does not use diacritical marking. Imagine the following example represents the same sentence in two different languages.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://hughandbecky.us/Hugh-CV/publication/2018-thesis-proposal/With-and-without-tone.jpg&#34; alt=&#34;Tone and non-Tone marking&#34; title=&#34;Tone and non-Tone marking&#34;&gt;&lt;/p&gt;
+&lt;p&gt;A tone pattern analysis (following Snider and Hyman) would suggest that we should understand the tonally marked sentence to represent the segmental and the suprasegmental tiers separately, something like the following:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://hughandbecky.us/Hugh-CV/publication/2018-thesis-proposal/High-low-pattern-over-tone-marks.jpg&#34; alt=&#34;Marking representing tonal patterns or melodies&#34; title=&#34;Marking representing tonal patterns or melodies&#34;&gt;&lt;/p&gt;
+&lt;p&gt;It is observed, anecdotally, that many writers of tone languages parse the writing task into two activities, one for each tier of information. Usually the segmental tier is completed first and then the suprasegmental tier.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://hughandbecky.us/Hugh-CV/publication/2018-thesis-proposal/Reading-twice.jpg&#34; alt=&#34;Reading twice&#34; title=&#34;Reading twice&#34;&gt;&lt;/p&gt;
+&lt;p&gt;This makes the writing activity much like handwriting in the United States where we say: “don’t forget to dot your &amp;lsquo;i&amp;rsquo;s and cross your  ‘t’s. The writer first completes the segmental tier and then comes back across with a second pass and completes dots the ‘i’s and crosses the ‘t’s.
+However, the nature of typing, and Unicode’s structural nature, requires typists to complete the text production task linearly by codepoint. This creates dissonance from what many language users find “natural”, requiring them to frequently alternate their attention between the two tiers, as shown by the up and down movement in the following diagram.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://hughandbecky.us/Hugh-CV/publication/2018-thesis-proposal/Up-and-down-eye-movement.jpg&#34; alt=&#34;Up and down eye movement&#34; title=&#34;Up and down eye movement&#34;&gt;&lt;/p&gt;
+&lt;p&gt;The goal of this thesis will be to develop and apply metrics to keyboard layouts so that their ease of use can be analysed and compared. Some optimised keyboards in a few sample languages will also be presented. Preliminary testing of these ideas has been done on English [eng], Spanish [spa], Me’phaa [tcf], and Chinantec [cso], as mentioned in Paterson (2014) and work done with Nigerian languages in Paterson (2015) covering Ezza [eza], Bekwarra [bkv], Cishingini [asg], Okphela [atg], and Igbo [ibo]. However, for this thesis I anticipate focusing on the three following languages: Navajo [nav], Kabiyè [kbp], and Eastern Dan [dnj], and especially the latter two, as they are related languages with very different design decisions in their orthographies, and both have very clear analysis of their tonal systems. This should allow observations about the typing process in one language to be contrasted with another related language. Further, there is a reasonable amount of text to work with in each language. Ultimately the final languages used will depend on the accessibility of corpora content in those languages.&lt;/p&gt;
+&lt;p&gt;This thesis will add to the current GKAP discussion by proposing a theoretical framework and a two-metric algorithm that can be applied to any keyboard layout for any language using a Latin based script. The first metric will account for disruption in the phoneme (or functional unit) stream while engaged in typing, and the second will account for non-character-producing keystrokes, thus addressing the major problem areas outlined above. These metrics will then be combined with a haptic fitness score to produce a fitness score which accounts for linguistic knowledge. This thesis will contribute to the ongoing language development discussion by providing a quality assessment metric for the evaluation of a very important language-based digital product.&lt;/p&gt;
+&lt;h2 id=&#34;research-questions&#34;&gt;Research questions&lt;/h2&gt;
+&lt;p&gt;The problem to be addressed can be expressed informally like this:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“We have these keyboards layouts in all these languages, but they are not being used, and in general people find it easier to type in languages other than their mother tongue.  To what extent are our keyboards disruptive and thereby impeding language use in digital contexts? Can we measure the disruption?”&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;More precisely, the following sub-questions can be addressed in the course of this investigation:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;What percentage of extra work is required to type minority-language texts?&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Here, the “extra work” measurement might be measured in terms of the distance traveled, the time required to travel that distance, and the number of keystrokes, as compared between a language of wider communication and a minority language.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;In a given language, what is the added unnecessary distance when typing text?&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;What are some common traits of excessive use/difficulty in text input keyboards for minority languages, and how can those commonalities of “pain”, be generalized for designers to avoid?&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Do we account for functional units (e.g. phonemes and tones) independent from character optimization? That is, does optimizing for character input also optimize for functional unit input?&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Can we predict that with tone languages we will exceed the Hick’s law minimum, whereas in non-tonal languages we can stay under Hick’s law?&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Hick’s law (Hick 1952) is a reference to how performance decreases as temporary memory functions increase, i.e., when we need to hold information in our temporary memory. This can be calculated on the basis of how many characters does one need to type in between the elements of a diacritic digraph.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;How can we measure the dissonance factor for a particular keyboard layout? That is, how much dissonance does a keyboard layout solution induce?&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Dissonance is the cognitively difficult, or non-prefered choices that we must make to achieve the desired results. Dissonance is increased by those things which militate  against fluidity, and includes factors such as non-correspondence between keystrokes and functional units, the elements of a digraph, and multiple keystrokes per orthographic character.&lt;/p&gt;
+&lt;h2 id=&#34;project-specifics&#34;&gt;Project specifics&lt;/h2&gt;
+&lt;p&gt;To perform the supporting analysis I will use existing texts to form a “corpus of keystrokes” and a “corpus of functional units”. I use the corpus of texts in conjunction with the existing keyboard layout to suggest what the “keystrokes required” would have been to produce a text (assuming 100% accuracy). Given that I am working with corpora, rather than original production data, I will not have actual time-over-distance measurements. I will rather, as is the norm for working with corpora in this context, infer the time to completion for each keystroke based on previously published experiments which show the time it takes to move a finger from one key to another. Then I will look at the functional units and measure (1) how many keystrokes to functional units are required, and (2) how much dissonance is created in the process of typing.
+Existing keyboard layouts for the languages of the texts in question will be analysed, and scored. Finally, improved keyboard layouts with better scores will be suggested.&lt;/p&gt;
+&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Xi Bi, BA Smith, S Zhai (2012) Multilingual touchscreen keyboard design and optimization. Human–Computer Interaction 27(4), 352-382.&lt;/li&gt;
+&lt;li&gt;Garrett, Jesse James (2002) The Elements of User Experience: User-Centered Design for the Web. New Riders Publishing, Thousand Oaks, CA, USA.&lt;/li&gt;
+&lt;li&gt;Hick, W. E. (1952) On the rate of gain of information. Quarterly Journal of Experimental Psychology 4 (1): 11–26. doi:10.1080/17470215208416600&lt;/li&gt;
+&lt;li&gt;Hyman, Larry M. (2014) How To Study a Tone Language, with exemplification from Oku (Grassfields Bantu, Cameroon). Language Documentation &amp;amp; Conservation 8.525-62.&lt;/li&gt;
+&lt;li&gt;Kornai, A. (2013) Digital Language Death. PLOS ONE 8(10): e77056. &lt;a href=&#34;https://doi.org/10.1371/journal.pone.0077056&#34;&gt;https://doi.org/10.1371/journal.pone.0077056&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;MacKenzie, I. Scott. (1992) Fitts&amp;rsquo; law as a research and design tool in human-computer interaction. Human-Computer Interaction 7, 91-139.&lt;/li&gt;
+&lt;li&gt;Paterson, Hugh J., III (2014) Keyboard layouts: Lessons from the Meꞌphaa and Sochiapam Chinantec designs. In Jones, Mari C. (ed.), Endangered Languages and New Technologies, 49-66. Cambridge, UK: Cambridge University Press.&lt;/li&gt;
+&lt;li&gt;Paterson, Hugh J., III (2015) African languages: Assessing the text input difficulty. Presentation at the 46th Annual Conference on African Linguistics, Eugene Oregon.&lt;/li&gt;
+&lt;li&gt;Peng-Yeng Yin, En-Ping Su (2011) Cyber Swarm optimization for general keyboard arrangement problem., International Journal of Industrial Ergonomics 41(1), 43-52. &lt;a href=&#34;https://doi.org/10.1016/j.ergon.2010.11.007&#34;&gt;https://doi.org/10.1016/j.ergon.2010.11.007&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Snider, Keith L. (2014) On Establishing Underlying Tonal Contrast. Language Documentation &amp;amp; Conservation 8.707-37. &lt;a href=&#34;http://scholarspace.manoa.hawaii.edu/handle/10125/24622&#34;&gt;http://scholarspace.manoa.hawaii.edu/handle/10125/24622&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;U.S. Department of Health &amp;amp; Human Services (2018) Interaction Design Basics. &amp;lt;Accessed 2 March 2018&amp;gt;. &lt;a href=&#34;https://www.usability.gov/what-and-why/interaction-design.html&#34;&gt;https://www.usability.gov/what-and-why/interaction-design.html&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Vitsœ (2012) Dieter Rams: ten principles for good design. &amp;lt;Accessed 27 June 2012&amp;gt;. &lt;a href=&#34;http://www.vitsoe.com/en/gb/about/dieterrams/gooddesign&#34;&gt;http://www.vitsoe.com/en/gb/about/dieterrams/gooddesign&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>R-90</title>
+      <link>https://hughandbecky.us/Hugh-CV/project/2018-sil-idx-r-90/</link>
+      <pubDate>Mon, 12 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/project/2018-sil-idx-r-90/</guid>
+      <description>&lt;!-- SIL Drive link Search features https://docs.google.com/document/d/18PbS8dewSWNqDdkPLoqkROYvPEJYFtyb3qJ7BFvG_pA/edit --&gt;
+&lt;!-- personal drive link https://docs.google.com/document/d/1zHq0P7-FF2XmgKkMWKrJrDI2lPlak3L6hO-UbcfgDhc/edit --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Legal frameworks in language research</title>
+      <link>https://hughandbecky.us/Hugh-CV/post/rights-issues-in-language-data/</link>
+      <pubDate>Sat, 10 Feb 2018 14:14:38 -0700</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/post/rights-issues-in-language-data/</guid>
+      <description>&lt;p&gt;In the process of doing research for the paper &amp;ldquo;Copyright and the distributed Lexicon. I started to realize that one very useful tool would be to have a refernece for copyright terms and scope related to a national framework where an indegious community might be located.&lt;/p&gt;
+&lt;p&gt;Additionally there are other legal issues to consider when doing language research work. These also need to be researchable and associated with languages for those looking to do language research work. This project seeks to make such resources more easily discoverable.&lt;/p&gt;
+&lt;p&gt;The following links are a good starting point:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://zenodo.org/record/1470537&#34;&gt;https://zenodo.org/record/1470537&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.allea.org/working-groups/overview/permanent-working-group-intellectual-property-rights/&#34;&gt;https://www.allea.org/working-groups/overview/permanent-working-group-intellectual-property-rights/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.google.com/document/d/1_JnqZatR0HV7RkFd9jmZPWjgqOuZ71HOCJEv4McMbis/edit#heading=h.umsl4u9hziyj&#34;&gt;https://docs.google.com/document/d/1_JnqZatR0HV7RkFd9jmZPWjgqOuZ71HOCJEv4McMbis/edit#heading=h.umsl4u9hziyj&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.clarin-d.net/de/legal-issues-bibleography&#34;&gt;https://www.clarin-d.net/de/legal-issues-bibleography&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://legaldh.hypotheses.org/292&#34;&gt;https://legaldh.hypotheses.org/292&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://hcommons.org/deposits/item/hc:15109/&#34;&gt;https://hcommons.org/deposits/item/hc:15109/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.dariah.eu/activities/working-groups/ethics-and-legality-in-the-digital-arts-and-humanities-eldah/&#34;&gt;https://www.dariah.eu/activities/working-groups/ethics-and-legality-in-the-digital-arts-and-humanities-eldah/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Legal frameworks in language research</title>
+      <link>https://hughandbecky.us/Hugh-CV/project/2018-rights-issues-in-language-data/</link>
+      <pubDate>Sat, 10 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/project/2018-rights-issues-in-language-data/</guid>
+      <description>&lt;p&gt;In the process of doing research for the paper &amp;ldquo;Copyright and the distributed Lexicon. I started to realize that one very useful tool would be to have a refernece for copyright terms and scope related to a national framework where an indegious community might be located.&lt;/p&gt;
+&lt;p&gt;Additionally there are other legal issues to consider when doing language research work. These also need to be researchable and associated with languages for those looking to do language research work. This project seeks to make such resources more easily discoverable.&lt;/p&gt;
+&lt;p&gt;The following links are a good starting point:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://zenodo.org/record/1470537&#34;&gt;https://zenodo.org/record/1470537&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.allea.org/working-groups/overview/permanent-working-group-intellectual-property-rights/&#34;&gt;https://www.allea.org/working-groups/overview/permanent-working-group-intellectual-property-rights/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.google.com/document/d/1_JnqZatR0HV7RkFd9jmZPWjgqOuZ71HOCJEv4McMbis/edit#heading=h.umsl4u9hziyj&#34;&gt;https://docs.google.com/document/d/1_JnqZatR0HV7RkFd9jmZPWjgqOuZ71HOCJEv4McMbis/edit#heading=h.umsl4u9hziyj&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.clarin-d.net/de/legal-issues-bibleography&#34;&gt;https://www.clarin-d.net/de/legal-issues-bibleography&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://legaldh.hypotheses.org/292&#34;&gt;https://legaldh.hypotheses.org/292&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://hcommons.org/deposits/item/hc:15109/&#34;&gt;https://hcommons.org/deposits/item/hc:15109/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.dariah.eu/activities/working-groups/ethics-and-legality-in-the-digital-arts-and-humanities-eldah/&#34;&gt;https://www.dariah.eu/activities/working-groups/ethics-and-legality-in-the-digital-arts-and-humanities-eldah/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Some thoughts about language data, licensing, and social data with respect to SIL involvement</title>
+      <link>https://hughandbecky.us/Hugh-CV/manuscripts/2017-opendata-in-sil-contexts/</link>
+      <pubDate>Thu, 18 May 2017 00:00:00 +0000</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/manuscripts/2017-opendata-in-sil-contexts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>U̠t-Ma&#39;in Lexicography</title>
+      <link>https://hughandbecky.us/Hugh-CV/project/2017-utmatin-lexicography/</link>
+      <pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/project/2017-utmatin-lexicography/</guid>
+      <description>&lt;p&gt;This project includes combining and collating several U̠t-Ma&amp;rsquo;in databases that Becky Paterson has created over the 12 years she has worked with the U̠t-Ma&amp;rsquo;in language community. We are also importing as many Hausa terms as possible for specific elicitation (such as regional plants and animals). The final database includes grammatical features of individual lexemes. We are including various external analyses from phonology tools. None of this data is currently public. But when it is, a link from here will be posted.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Legal issues in linguistics, Language Documentation &amp; Language Development</title>
+      <link>https://hughandbecky.us/Hugh-CV/project/2017-legal-issues-in-linguistics/</link>
+      <pubDate>Sat, 18 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/project/2017-legal-issues-in-linguistics/</guid>
+      <description>&lt;p&gt;This project started out with a personal interest in the variation of copyright law as it is applied to language documentation materials from a global perspective (different location and different citizens). This was percieved as important for global nomads who engage in linguistic tourism, and who believe in archiving data. Some simple investagation has shown that there is a lot more than &amp;lsquo;just copyright&amp;rsquo; which impacts the multi-laterial relationship(s) between the law and legal policy,  the vitality of languages, and the availability of linguistic or language based resources. Several collaborations and discussions have bennefitted from this research. Ultimatly the results of this research should be in a browsable database, not in some sort of publication.&lt;/p&gt;
+&lt;p&gt;Investigation and design is still ongoing, but a rough sketch is provided.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;Legislation_Impacting_Language.png&#34; alt=&#34;Leagal item browser for language impact&#34; title=&#34;Draft UI&#34;&gt;&lt;/p&gt;
+&lt;!-- This is where access to the air-table account would be nice. To look at all the inter country relationships. I think that the account is still there but only accessale with the hugh_paterson@sil.org email address.--&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Wasta Linux additions for the language scientist.</title>
+      <link>https://hughandbecky.us/Hugh-CV/project/2017-wasta-language-scientist/</link>
+      <pubDate>Mon, 09 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/project/2017-wasta-language-scientist/</guid>
+      <description>&lt;p&gt;#I should make this image the wasta logo plus all the other logos I am using.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Open Source Code Serving Endangered Languages</title>
+      <link>https://hughandbecky.us/Hugh-CV/publication/2016-open-source-code/</link>
+      <pubDate>Mon, 23 May 2016 00:00:00 +0000</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/publication/2016-open-source-code/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Citable as&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;Richard Littauer, Hugh Paterson III (2016) &lt;em&gt;Open Source Code Serving Endangered Languages&lt;/em&gt;. In: C. Soria, L. Pretorius, T. Declerck, J. Mariani, K. Scannell, Eveline Wandl-Vogt, eds., In Proceedings of LREC 2016 Collaboration and Computing for Under-Resourced Languages: Towards an Alliance for Digital Language Diversity (CCURL) Workshop. Portorož, Slovenia, 23 May, 2016. pp. 86-88.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An Awesome list of Software for Endangered Languages</title>
+      <link>https://hughandbecky.us/Hugh-CV/project/2016-awesome-list/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/project/2016-awesome-list/</guid>
+      <description>&lt;p&gt;Head over to Github everything is over there.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Linguistic Services Planning</title>
+      <link>https://hughandbecky.us/Hugh-CV/project/2015-linguistic-services-planning/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/project/2015-linguistic-services-planning/</guid>
+      <description>&lt;p&gt;This work was housed under SIL International&amp;rsquo;s Language Program Training (ILPT) department. I was able to help facilitate service design conversations both inside and outside the department. We used the business model canvas to capture business activities. We were then able to use the 
+&lt;a href=&#34;https://www.expressiveproductdesign.com/value-proposition-canvas/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Value Proposition Canvas&lt;/a&gt; to talk about how we might add value to our customers by addressing their pain points. We wanted to know what a more valued service might look like to our customers.&lt;/p&gt;
+&lt;p&gt;We also introduced a service maturity model to help business plan owners look at the maturity of their business model and service and pursue growth opportunities.&lt;/p&gt;
+&lt;p&gt;Often in business modeling final solutions &lt;em&gt;pencil out&lt;/em&gt; in financial numbers. With NGO work we have multiple non-traditional applications of the Business Model Canvas. For instance:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;We have customers who are not the payees.&lt;/li&gt;
+&lt;li&gt;We have social impact goals compete with financial goals.&lt;/li&gt;
+&lt;li&gt;We have income streams which are not directly tied to output services rendered or products produced.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- ILPT sprint on SIL.org: https://docs.google.com/document/d/11YaN1OIquiXMHahKFBjc-ws6opY6bJCZMMlkh2AEmQI/edit --&gt;
+&lt;!-- Additional work was done to template inter-agency contracts for services https://docs.google.com/document/d/1QP0vycT5fYyKNc_90Jn4UuUugzgJXvDGJzvdzxig1cM/edit?usp=sharing --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SIL Communication Strategy Consulting</title>
+      <link>https://hughandbecky.us/Hugh-CV/project/2017-sil-ils-communications/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/project/2017-sil-ils-communications/</guid>
+      <description>&lt;p&gt;This project is about creating a work environment where people are informed about the services and products that the organization is able to offer. It is about breaking down communication silos and working across corporate structures to create a unified workforce.
+I have the ongoing privilege of consulting with department heads and team leaders on interdepartmental communication and audience engagement strategies. Often this involves creative uses of technology and creating data management plans and publishing work flows. At SIL International we use 
+&lt;a href=&#34;https://mailchimp.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MailChimp&lt;/a&gt;, and 
+&lt;a href=&#34;https://www.atlassian.com/software/confluence&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Confluence&lt;/a&gt; to meet these communication needs.&lt;/p&gt;
+&lt;p&gt;SIL International is over 80 years old. A majority of its staff are 
+&lt;a href=&#34;https://en.wikipedia.org/wiki/Baby_boomers&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Baby-boomers&lt;/a&gt;. Currently work flows, even digital ones, usually mirror processes set up in paper based work enviroments.  SIL International as an organization has organizational units of various sizes in various locations of the world. Many of these units are also distributed teams. In the broader business world the battle for effective team communications is generally characterized as a battle between &lt;em&gt;looking in the inbox&lt;/em&gt; and &lt;em&gt;using the browser&lt;/em&gt; for information, collaboration, and connectivity. Tools like 
+&lt;a href=&#34;https://www.theverge.com/2014/8/12/5991005/slack-is-killing-email-yes-really&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;#slack&lt;/a&gt;, and 
+&lt;a href=&#34;https://www.fastcompany.com/3035927/inside-the-company-that-got-rid-of-email&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;management decisions to look for more effective team communications platforms&lt;/a&gt; have tried to push email our of use. In SIL International the very diverse nature of the workforce presents challenges to those with low-bandwidth connectivity.&lt;/p&gt;
+&lt;p&gt;We use a two prong communications approach. Email and corporate blog use. For Email we use Mailchimp. For the corporate blog we use Confluence Wiki.&lt;/p&gt;
+&lt;p&gt;SIL International deployed Confluence company wide in 2008 as a white board for people in the organization to use within their organizational unit. By 2011 the wiki had evolved into a platform for departmental websites and had supplanted official information repositories for official documentation. This has made the platform invaluable for interdepartmental communications.&lt;/p&gt;
+&lt;p&gt;In 2015 various organizational units within SIL International started to independently use Mailchimp.&lt;/p&gt;
+&lt;p&gt;Due to the highly transitional nature of SIL International staff, it is often the case that SIL staff do not have the knowledge base needed to leverage the capacities of these two systems. My role is often to demonstrate features relevant to business goals.&lt;/p&gt;
+&lt;p&gt;I have engaged with:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;SIL International Language and Culture Archive&lt;/li&gt;
+&lt;li&gt;SIL International Language Program Training&lt;/li&gt;
+&lt;li&gt;SIL International Language Program Services&lt;/li&gt;
+&lt;li&gt;SIL International External Communications&lt;/li&gt;
+&lt;li&gt;SIL Intellectual Property Team&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!--  
+Two other links are: https://www.forbes.com/sites/tykiisel/2011/11/30/ceo-bans-email/
+and
+https://hbr.org/2016/06/some-companies-are-banning-email-and-getting-more-done
+--&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The minority language typing experience</title>
+      <link>https://hughandbecky.us/Hugh-CV/project/2014-typing-experience/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/project/2014-typing-experience/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Previous work&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;This project follows and builds upon the project where 
+&lt;a href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/project/2012-mexico-keyboards/&#34;&gt;keyboard layouts for Meꞌphaa and Sochiapam Chinantec&lt;/a&gt; were produced. This project uses data from Meꞌphaa and Sochiapam Chinantec but purposely extends the scope of the analysis to include Latin and Cyrillic script languages, particularly focusing on those with diacritics which express tone.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Goals&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;The goal of this project is to bring &amp;lsquo;natural&amp;rsquo;, intuitive, and easy to use typing experiences in the form of keyboard layout designs to minority language users. These language users often do not type in their own languages, but rather experience technology through languages other than their first language. This is in part because of the perception that their language is complex or not easy to type, which is often not an invalid observation. However, with these languages which have different and sometimes more characters than English, what does a good layout look like?
+The objectives of this project are threefold:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;To establish a consistent method to evaluate the appropriateness of a keyboard layout for a specific language situation given a specific text sample. This needs to include &lt;code&gt;deadkeys&lt;/code&gt; and &lt;code&gt;alt&lt;/code&gt; states.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;This needs to account for monolingual situations&lt;/li&gt;
+&lt;li&gt;This needs to account for multi-lingual situations where each language has its own keyboard&lt;/li&gt;
+&lt;li&gt;This needs to account for multi-lingual situations where only a single keyboard is used&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;Provide a best fit solution recommendation when provided the following:&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;A corpus of text encoded in UTF-16 or UTF-8 in any language&lt;/li&gt;
+&lt;li&gt;A user selected choice between a physical keyboard layout of ANSI, ISO, or JIS
+The application providing the best fit solution needs to be able to suggest a better layout, inclusive of &lt;code&gt;alt&lt;/code&gt; states and &lt;code&gt;deadkey&lt;/code&gt; options.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;Assess and analyze real user feedback. That is, measure the impacts of keyboards on users. Speed of typing, speed of keyboard acquisition, error rate, and results such as language choice when typing.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;span class=&#34;fa fa-github fa-2x&#34;&gt;&lt;/span&gt; Project resources are split into three repos: 
+&lt;a href=&#34;https://github.com/HughP/MLKA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MLKA&lt;/a&gt;, 
+&lt;a href=&#34;https://github.com/HughP/MLKA-Bash-data&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MLKA-Bash-data&lt;/a&gt;, and 
+&lt;a href=&#34;https://github.com/HughP/MLKA-Test-Data&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MLKA-Test-Data&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Phonetic transcription of tone in the IPA</title>
+      <link>https://hughandbecky.us/Hugh-CV/talk/2015-icphs-tone-presentation/</link>
+      <pubDate>Tue, 11 Aug 2015 00:00:00 +0000</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/talk/2015-icphs-tone-presentation/</guid>
+      <description>&lt;p&gt;This was a poster presentation of the full published paper mentioned 
+&lt;a href=&#34;https://hughandbecky.us/Hugh-CV/publication/2015-tone-transcription&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;Paterson-ICPhS-2015-poster.jpg&#34; alt=&#34;Paterson ICPhS 2015 poster&#34; title=&#34;ICPhS Poster&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;You should probably just cite the paper which is citeable as&lt;/em&gt;:&lt;/p&gt;
+&lt;p&gt;Hugh J. Paterson III (2015) Phonetic transcription of tone in the IPA.  In The Scottish Consortium for ICPhS 2015 (Ed.). &lt;em&gt;Proceedings of the 18th International Conference of Phonetic Sciences&lt;/em&gt; Paper number 507.1-5. University of Glasgow: Glasgow, UK.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Phonetic transcription of tone in the IPA</title>
+      <link>https://hughandbecky.us/Hugh-CV/publication/2015-tone-transcription/</link>
+      <pubDate>Sat, 01 Aug 2015 00:00:00 +0000</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/publication/2015-tone-transcription/</guid>
+      <description>&lt;p&gt;This was a poster presentation presented at the 18th International Conference of Phonetic Sciences in 2015. Links are to the poster and the 5 page paper is in the conference proceedings.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Citeable as&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;Hugh J. Paterson III (2015) Phonetic transcription of tone in the IPA.  In The Scottish Consortium for ICPhS 2015 (Ed.). &lt;em&gt;Proceedings of the 18th International Conference of Phonetic Sciences&lt;/em&gt; Paper number 507.1-5. University of Glasgow: Glasgow, UK.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>African Languages: Assessing the text input difficulty</title>
+      <link>https://hughandbecky.us/Hugh-CV/talk/2015-africa-assessing-the-difficulty-of-text-input/</link>
+      <pubDate>Thu, 26 Mar 2015 00:00:00 +0000</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/talk/2015-africa-assessing-the-difficulty-of-text-input/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Citeable as&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;Hugh J. Paterson III (2015) &lt;em&gt;African Languages: Assessing the text input difficulty&lt;/em&gt;. Paper presented at the 46th Annual Conference of African Linguistics. Held at the University of Oregon 26th-28th March 2015&lt;/p&gt;
+&lt;h4 id=&#34;bibliography-for-presentation&#34;&gt;Bibliography for Presentation&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Bailey, Dwayne. 2007. Creating a single South African keyboard layout to promote language. Lexikos 17.1: 212-25. &lt;a href=&#34;http://www.ajol.info/index.php/lex/article/view/51533&#34;&gt;http://www.ajol.info/index.php/lex/article/view/51533&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Bellman, Tom &amp;amp; I. Scott MacKenzie. 1998. A Probabilistic Character Layout Strategy for Mobile Text Entry. Proceedings of Graphics Interface &amp;lsquo;98, 168-76. Toronto: Canadian Information Processing Society.&lt;/li&gt;
+&lt;li&gt;Boerger, Brenda H. 2007. Natqgu Literacy: Capturing Three Domains for Written Language Use. Language Documentation &amp;amp; Conservation 1.2: 126–53.&lt;/li&gt;
+&lt;li&gt;Castellucci, Steven J. &amp;amp; I. Scott MacKenzie. 2013. Gathering Text Entry Metrics on Android Devices. Proceedings of the International Conference on Multimedia and Human-Computer Interaction - MHCI 2013, 120.1-.8. Ottawa, Canada: International ASET, Inc.&lt;/li&gt;
+&lt;li&gt;Cooper, Gregory. 2005. Issues in the Development of a Writing System for the Kalasha Language. Ph.D dissertation, Macquarie University.&lt;/li&gt;
+&lt;li&gt;Esizmetor, David Oshorenoya. 2009. What Orthography for Naijá? Paper presented at Conference on Nigerian Pidgin, University of Ibadan, Nigeria.&lt;/li&gt;
+&lt;li&gt;Jany, Carmen. 2010. Orthography Design for Chuxnabán Mixe. Language Documentation &amp;amp; Conservation 4.1: 231-53.&lt;/li&gt;
+&lt;li&gt;Lewis, M. Paul &amp;amp; Gary F. Simons. 2010. Assessing endangerment: Expanding Fishman&amp;rsquo;s GIDS. Revue Roumaine de Linguistique 55.2: 103–20. 
+&lt;a href=&#34;https://www.lingv.ro/RRL%202%202010%20art01Lewis.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.lingv.ro/RRL%202%202010%20art01Lewis.pdf&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;MacKenzie, I. Scott. 1992. Fitts&amp;rsquo; law as a research and design tool in human-computer interaction. Human-Computer Interaction 7, 91-139. doi: 
+&lt;a href=&#34;https://doi.org/10.1207/s15327051hci0701_3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1207/s15327051hci0701_3&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;MacKenzie, I. Scott. 2002. Introduction to this special issue on text entry for mobile computing. Human-Computer Interaction 17.2-3: 141-5.&lt;/li&gt;
+&lt;li&gt;MacKenzie, I. Scott. 2007. Evaluation of text entry techniques. In I. Scott MacKenzie &amp;amp; Kumiko Tanaka-Ishii (eds.), Text entry systems: Mobility, accessibility, universality, 75-101. San Francisco, CA: Morgan Kaufmann.&lt;/li&gt;
+&lt;li&gt;MacKenzie, I. Scott &amp;amp; R. William Soukoreff. 2002. A Character-level Error Analysis Technique for Evaluating Text Entry Methods. A character-level error analysis technique for evaluating text entry methods. Proceedings of the Second Nordic Conference on Human-Computer Interaction &amp;ndash; NordiCHI 2002, 241-4. New York: ACM.&lt;/li&gt;
+&lt;li&gt;Paterson, Hugh J., III. 2015. Assessing the difficulty of the text input task for minority languages. Paper presented at the 4th International Conference on Language Documentation &amp;amp; Conservation, Ala Moana Hotel in Honolulu, Hawai‘i, (February 26-March 1, 2015).&lt;/li&gt;
+&lt;li&gt;Paterson, Hugh J., III. 2014. Keyboard layouts: Lessons from the Meꞌphaa and Sochiapam Chinantec designs. In Mari C. Jones (ed.), Endangered Languages and New Technologies, 49-66. Cambridge, UK: Cambridge University Press.&lt;/li&gt;
+&lt;li&gt;Soukoreff, R. William &amp;amp; I. Scott MacKenzie. 2001. Measuring errors in text entry tasks: An application of the Levenshtein string distance statistic. Extended Abstracts of the ACM Conference on Human Factors in Computing Systems - CHI 2001, 319-20. New York: ACM.&lt;/li&gt;
+&lt;li&gt;Soukoreff, R. William &amp;amp; I. Scott MacKenzie. 2003a. Metrics for text entry research: an evaluation of MSD and KSPC, and a new unified error metric. Paper presented at Proceedings of the SIGCHI Conference on Human Factors in Computing Systems, Ft. Lauderdale, Florida, USA.&lt;/li&gt;
+&lt;li&gt;Soukoreff, R. William &amp;amp; I. Scott MacKenzie. 2003b. Input-based Language Modeling in the Design of High Performance Text Input Techniques. Proceedings of Graphics Interface 2003 (CIPS, Canadian Human-Computer Communication Society), 89-96. Halifax, Nova Scotia: A K Peters.&lt;/li&gt;
+&lt;li&gt;Trosterud, Trond. 2012. A restricted freedom of choice: Linguistic diversity in the digital landscape. Nordlyd (Tromsø University Working Papers on Language and Linguistics) 39.2: 89-104. doi: 
+&lt;a href=&#34;https://doi.org/10.7557/12.2474&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.7557/12.2474&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Zheltov, Pavel V. 2005. Minority languages and computerization. The situation in the Russian Federation. OGMIOS 3.3: 8-11.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Lexical dataset archiving: an assessment of practice</title>
+      <link>https://hughandbecky.us/Hugh-CV/publication/2015-lexical-database-archiving/</link>
+      <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/publication/2015-lexical-database-archiving/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;poster-small.png&#34; alt=&#34;Lexical dataset archiving: an assessment of practice&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Citeable as&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;Hugh J. Paterson III (2015) &lt;em&gt;Lexical dataset archiving: an assessment of practice&lt;/em&gt;. Poster presented at the 4th International Conference on Language Documentation and Conservation, at the Ala Moana Hotel in Honolulu, HI. February 26th – March 1st Version 1.0&lt;/p&gt;
+&lt;h4 id=&#34;bibliography-for-poster&#34;&gt;Bibliography for Poster:&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Bird, Steven &amp;amp; Gary F. Simons. 2003. Seven dimension of portability for language documentation and description. Language 79(3). 557–582. doi:
+&lt;a href=&#34;https://dx.doi.org/10.1353/lan.2003.0149&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1353/lan.2003.0149&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Himmelmann, Nikolaus P. 1998. Documentary and Descriptive Linguistics. Linguistics 36(1). 161–195. doi:
+&lt;a href=&#34;https://dx.doi.org/10.1515/ling.1998.36.1.161&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1515/ling.1998.36.1.161&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Holton, Gary. 2012. Language archives: They’re not just for linguists any more. In Frank Seifart et al. (eds.), Potentials of Language Documentation: Methods, Analyses, and Utilization (Language Documentation &amp;amp; Conservation Special Publication 3), 111-7. Honolulu, Hawai&amp;rsquo;i: University of Hawai&amp;rsquo;i Press. 
+&lt;a href=&#34;http://hdl.handle.net/10125/4523&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://hdl.handle.net/10125/4523&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Johnson, Heidi. 2004. Language Documentation and Archiving, or How to build a better Corpus. In Peter Austin (ed.), Language Documentation and Description (2), 140-53. London, UK: SOAS. 
+&lt;a href=&#34;http://www.elpublishing.org/PID/026&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt; http://www.elpublishing.org/PID/026&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Nathan, David. 2011. Digital archiving. In Peter K. Austin &amp;amp; Julia Sallabank (eds.), The Cambridge handbook of endangered languages (Cambridge Handbooks in Language and Linguistics), 255-74. Cambridge: Cambridge University Press. doi: 
+&lt;a href=&#34;https://dx.doi.org/10.1017/CBO9780511975981.013&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1017/CBO9780511975981.013&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Woodbury, Anthony C. 2003. Defining Documentary Linguistics. In Peter K. Austin (ed.), Language Documentation and Description (1), 35-51. London: SOAS. 
+&lt;a href=&#34;http://www.elpublishing.org/PID/006&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt; http://www.elpublishing.org/PID/006&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Paterson III, Hugh &amp;amp; Jeremy Nordmoe. 2013. Challenges of implementing a tool to extract metadata from linguists: the use case of RAMP﻿. Poster presented at 3rd International Conference on Language Documentation and Conservation (ICLDC), Honolulu, Hawai&amp;rsquo;i, (2 March 2013). 
+&lt;a href=&#34;http://hdl.handle.net/10125/26178&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://hdl.handle.net/10125/26178&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Assessing the difficulty of the text input task for minority languages</title>
+      <link>https://hughandbecky.us/Hugh-CV/talk/2015-assessing-the-difficulty-of-text-input/</link>
+      <pubDate>Thu, 26 Feb 2015 00:00:00 +0000</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/talk/2015-assessing-the-difficulty-of-text-input/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Citable as:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Hugh J. Paterson III (2015) &lt;em&gt;Assessing the difficulty of the text input task for minority languages&lt;/em&gt;. Paper presented at the 4th International Conference on Language Documentation &amp;amp; Conservation, Ala Moana Hotel in Honolulu, HI. February 26th – March 1st&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Academic resources for Ethno-arts in Nigeria</title>
+      <link>https://hughandbecky.us/Hugh-CV/post/ethnoarts-research-in-nigeria/</link>
+      <pubDate>Wed, 03 Dec 2014 01:41:38 -0700</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/post/ethnoarts-research-in-nigeria/</guid>
+      <description>&lt;p&gt;This post is a quick review of the literature before a general language documentation project in Northern Nigeria. &lt;!-- more --&gt;&lt;/p&gt;
+&lt;h2 id=&#34;notable-authors&#34;&gt;Notable Authors&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://www.cardiff.ac.uk/music/contactsandpeople/profiles/villepastour.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr Amanda Villepastour&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Vicki Brennan
+&lt;ul&gt;
+&lt;li&gt; 2013. &amp;ldquo;Up Above the River Jordan&amp;rdquo;: Hymns and Historical Consciousness in the Cherubim and Seraphim Churches of Nigeria. Studies in World Christianity 19 (1): 31-49&lt;/li&gt;
+&lt;li&gt; 2012. Take Control: The Labor of Immediacy in Yoruba Christian Music. Journal of Popular Music Studies 24 (4): 411-429.&lt;/li&gt;
+&lt;li&gt; 2012. “Truly we have a good heritage”: Musical Mediations in a Yoruba Christian Diaspora. Journal of Religion in Africa 42 (1): 3-25.&lt;/li&gt;
+&lt;li&gt; 2010. Mediating “The Voice of the Spirit”: Musical and Religious Transformations in Nigeria’s Oil Boom. American Ethnologist 37 (2): 354-370.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;database-indexes&#34;&gt;Database indexes&lt;/h2&gt;
+&lt;h3 id=&#34;africana-periodical-literature-bibliographic-database&#34;&gt;Africana Periodical Literature bibliographic database&lt;/h3&gt;
+&lt;p&gt;Within that database I found the following article which is relevant.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Omibiyi-Obidike, Mosunmola. 1982. 
+&lt;a href=&#34;http://www.africabib.org/rec.php?RID=186503776&amp;amp;DB=p&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ethnomusicology in Nigeria&lt;/a&gt;.Bulletin of the International Committee on Urgent Anthropological and Ethnological Research. 	24. 105-112.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This article reviews the current state of etbno-musicological research in Nigeria. The emergence of ethnomusicology in Nigeria is traced; assessed is what has been done so far. Examples of available materials are given and suggestions offered for future development. Approached from a historical viewpoint, the topic is discussed under the headings: the colonial, pre-independence and post-independence periods. Ref.&lt;/p&gt;
+&lt;h2 id=&#34;archives&#34;&gt;Archives&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;University of Washington: 
+&lt;a href=&#34;http://music.washington.edu/ethnomusicology-visiting-artists-archive&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Visiting scholars archive&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;University of Indiana: 
+&lt;a href=&#34;https://www.indiana.edu/~libarchm/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Archives of Traditional Music&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;dissertations&#34;&gt;Dissertations&lt;/h2&gt;
+&lt;h3 id=&#34;the-development-of-a-sociocultural-curriculum-in-nigerian-studies--an-integration-of-ethnomusicology-and-social-studies&#34;&gt;The development of a sociocultural curriculum in Nigerian studies : an integration of ethnomusicology and social studies&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://hdl.handle.net/2429/23048&#34;&gt;http://hdl.handle.net/2429/23048&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The purpose of this study was to develop a curriculum for ethnomusicological education in Nigerian elementary schools based on the integration of ethnomusicology and social studies. The aims of the curriculum were identified so as to be consistent with the aims of the Nigerian education system and in particular with the recently expressed aims of the Nigerian social studies curriculum which is intended to foster inter- and cross-ethnic communication and understanding and national identity in a country which contains more than 250 ethnic groups. A consideration of appropriate curriculum content led to the identification of five basic concepts in ethnomusicology and five concepts basic to social studies. The integration of these concepts into a unified curriculum was made through an Identity Approach which permitted the identification of relevant cognitive, affective and skill objectives and indicated appropriate learning processes. Three curriculum units were developed in detail and field tested in upper elementary classes in two elementary schools in southeastern Nigeria. This field testing—the classroom phase of the curriculum development— involved 120 students, ten teachers and the administrators of the schools. The staff were given instruction in the curriculum materials and the Identity Approach following which the students were engaged in twenty-four sessions and covered the three units which had been developed. The results of the classroom phase were studied from students&amp;rsquo;, teachers&amp;rsquo; and administrators&amp;rsquo; opinions and recommendations and their responses to four opinionaires. All responses indicated a high degree of student interest in the project and evidence of an increase in inter-and cross-ethnic understanding and respect. Teachers found the project to have contributed to their professional development and both teachers and administrators reported community interest and involvement. Problems identified by the staff and administrators related to inadequate funds and provision of materials or equipment. Administrators also noted the need for involvement by the Ministry of Education if widespread implementation were to be contemplated.&lt;/p&gt;
+&lt;h2 id=&#34;journals&#34;&gt;Journals&lt;/h2&gt;
+&lt;p&gt;These are some journals which have or have have had relevant Ethnomusicology discussions.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://www.jmaa.uct.ac.za/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal of the Musical Arts in Africa&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Journal of Popular Music Studies&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://brill.com/view/journals/jra/jra-overview.xml?lang=en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal of Religion in Africa&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;American Ethnologist&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.euppublishing.com/loi/swc&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Studies in World Christianity&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Musicology&lt;/li&gt;
+&lt;li&gt;Mission Frontiers&lt;/li&gt;
+&lt;li&gt;The Journal of Pan African Studies&lt;/li&gt;
+&lt;li&gt;Ethnomusicology Review&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://www.ethnomusicology.org/?Pub_JournalJSTOR&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ethnomusicology&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Pacific Review of Ethnomusicology&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://www.aawmjournal.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Analytical Approaches to World Music&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;books&#34;&gt;Books&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Waterman, Christopher Alan. 1990. Jùjú : a social history and ethnography of an African popular music (Chicago studies in ethnomusicology). Chicago: University of Chicago Press.&lt;/li&gt;
+&lt;li&gt;Myers, Helen. 1992. Ethnomusicology: Historical and Regional Studies. New York: W.W. Norton.&lt;/li&gt;
+&lt;li&gt;Post, Jennifer C. 2011. Ethnomusicology: a research and information guide, 2nd edn. New York: Routledge.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>User Experience Consulting on SIL.org</title>
+      <link>https://hughandbecky.us/Hugh-CV/project/2013-sil-org/</link>
+      <pubDate>Thu, 23 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/project/2013-sil-org/</guid>
+      <description>&lt;p&gt;Lots of people have lots to say about User Experience. Most of it is fancy talk for &amp;ldquo;How much can you pay me to work on your website&amp;hellip;&amp;rdquo;. When we get beyond that level of discussion, there are some real issues and methods to building websites that people are &lt;em&gt;proud to own&lt;/em&gt;, and &lt;em&gt;proud to use&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Google&amp;rsquo;s search page makes them lots of money and people use it all the time. It even won the popular search war against &lt;em&gt;Yahoo!&lt;/em&gt; Facebook has a website that millions of people use every day. At some point a well designed website stops being a website in the minds of users and becomes a place where they work, hangout, arrange meetings, etc. When users stop realizing they are on a website, that is when I feel we have moved into a place in design where we are close to perfect for that situation.&lt;/p&gt;
+&lt;p&gt;Between 2010 and 2016 I worked with a team to bring modern features via Drupal 7 to the flagship website of SIL International. But I have also worked on WordPress sites (not for SIL) since 2005. And I consulted on a variety of other SIL web projects (some of them on WordPress).&lt;/p&gt;
+&lt;p&gt;My work with SIL started with a report that they were not using a &lt;code&gt;print.css&lt;/code&gt; file on the SIL Bibliography in 2006 and were wasting a lot of ink when people were printing pages. I think this was corrected by 2009. This was typical for the pace of technical innovative change. SIL is a very corporate feature focused development environment.&lt;/p&gt;
+&lt;p&gt;Within User Experience studies, there is at least two ways to apply the term (UX): &lt;em&gt;The design of experiences that a corporation wants their customers to engage in&lt;/em&gt;, and &lt;em&gt;the  way that people take an object (product) and decide to use it&lt;/em&gt;. Both are important, but how a company approaches either of these facets and how they relate that approach back to their other business goals scopes the relevance of User Experience Design within the organization.&lt;/p&gt;
+&lt;p&gt;Successful interactions depend on both points of view and the metrics of success.&lt;/p&gt;
+&lt;p&gt;SIL.org is an interesting use case in UX design for at least 5 reasons:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;SIL has several major areas of very public interactions which it engages with to various degrees in various parts of the world — but the Internet is flat.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Advocacy with public policy making bodies regarding the needs of minority language speakers.&lt;/li&gt;
+&lt;li&gt;Publishing and sales of professional resources and materials.&lt;/li&gt;
+&lt;li&gt;Bible translation.&lt;/li&gt;
+&lt;li&gt;Educational programs (both formal and workshop style) in linguistics and language development.&lt;/li&gt;
+&lt;li&gt;Mother tongue Multi-lingual educational programs.&lt;/li&gt;
+&lt;li&gt;Minority language literacy (both integrated with national educational programs, and community sponsored programs, for children and adults).&lt;/li&gt;
+&lt;li&gt;NGOs and development agencies.&lt;/li&gt;
+&lt;li&gt;Innovative computer technology development related to non-English typesetting and computing.&lt;/li&gt;
+&lt;li&gt;Innovative creative access power solutions (like solar).&lt;/li&gt;
+&lt;li&gt;Sustainable logistical support for difficult to access project locations (usually via air).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;SIL has historically had a very fractured internal identity, and a very decentralized governance, which has not required a high degree of uniformity throughout the organization. Digital infrastructure projects stress these social norms.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Within the organization web-presence has come to be regarded as the officiating act recognition of an internal group&amp;rsquo;s merit.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Different people within the organization have strong opinions about how the world should view the organization — which are reflected in what they think the organization should say about itself — including the interactions that the organization provides to the people who interact on its website.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Globally, the Internet is going mobile, and SIL struggles between generating the informatic thrill need to entice donors, visual storytelling needed to facilitate product distribution and training needs of its product users, and high level information needs of politicians, and staffs of other NGOs to seed future partnerships.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Quantitatively, most people come to SIL.org to learn about linguistics, or the plethora of digital tools that SIL distributes via sil.org, or the vast number of resources .&lt;/p&gt;
+&lt;!--
+Rebranding SIL Journals
+
+Journal of phonological description
+Journal of grammatical description
+Journal of descriptive and comparative dialectology
+Journal of orthographic description and history
+Journal of sociolinguistic description
+--&gt;
+&lt;!--  8 May 2013-  I sometimes wonder if Vision2025 applied to sil.org is to shut the website down and turn it off. If every language which needs a Bible Translation will have a project started by 2025. Then there really is no place left for SIL after that and why would SIL need a website then?
+
+
+
+:: because we all believe that Bible Translation is more important than Language Development and there will be no way to share what Christ did for us in humanity after 2025 through language development.
+
+:: because we all know that there will be no need for Bible Translation Revisions, after 2025... We got it right the first time...
+
+:: because SIL will have spent all its time and effort preaching to partners &#34;sustainability&#34; it will have none in the end...
+
+--&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Keyboard layouts: Lessons from the Meꞌphaa and Sochiapam Chinantec designs</title>
+      <link>https://hughandbecky.us/Hugh-CV/publication/2015-keyboard-layouts/</link>
+      <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/publication/2015-keyboard-layouts/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Citeable as&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;Hugh J. Paterson III (2014) &lt;em&gt;Keyboard layouts: Lessons from the Meꞌphaa and Sochiapam Chinantec designs&lt;/em&gt;. In: Endangered Languages and New Technologies edited by Mari C. Jones. pp. 49-66. Cambridge University Press. DOI: 
+&lt;a href=&#34;https://doi.org/10.1017/CBO9781107279063.006&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1017/CBO9781107279063.006&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Language archiving and data ecology</title>
+      <link>https://hughandbecky.us/Hugh-CV/talk/2013-language-archiving-and-data-ecology/</link>
+      <pubDate>Fri, 23 May 2014 00:00:00 +0000</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/talk/2013-language-archiving-and-data-ecology/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Citable as&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;Hugh J. Paterson III (2014) &lt;em&gt;Language archiving and data ecology&lt;/em&gt;. Presentation at the University of Oregon GLOSS and the Department of Linguistics Colloquium, Eugene, OR, 23 May.&lt;/p&gt;
+&lt;p&gt;This presentation is part of a series of presentations based on analyzing user interactions with the SIL Language and Culture Archive. This presentation is mostly the same content as what was later presented in a poster at the 4th International Conference on Language Documentation and Conservation.&lt;/p&gt;
+&lt;p&gt;Other presentations in this series include:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;  Paterson, Hugh J, III. 2015. *Lexical dataset archiving: an assessment of practice*. Poster presented at the 4th International Conference on Language Documentation and Conservation, at the University of Hawai’i Mānoa, Honolulu, HI. February 26 – March 1st. Version 1.0
+
+  Paterson, Hugh J, III and Jeremy Nordmoe. 2013. *Challenges of implementing a tool to extract metadata from linguists: The use case of RAMP*. Poster presented at SIL-UND, Summer 2013 session in Grand Forks, North Dakota. Version 1.5 (Essentially this is the same poster as presented in Hawai’i, but laid out with different dimensions.)
+
+  Paterson, Hugh J, III and Jeremy Nordmoe. 2013. *Challenges of implementing a tool to extract metadata from linguists: The use case of RAMP*. Poster presented at 3rd International Conference on Language Documentation and Conservation, at the University of Hawai’i Mānoa, Honolulu, HI. February 28 – March 3rd. Version 1.4 Online at: http://hdl.handle.net/10125/26178
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Archives not Participating in OLAC</title>
+      <link>https://hughandbecky.us/Hugh-CV/manuscripts/2014-non-olac-language-archives/</link>
+      <pubDate>Wed, 14 May 2014 00:00:00 +0000</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/manuscripts/2014-non-olac-language-archives/</guid>
+      <description>&lt;h2 id=&#34;background-of-the-paper&#34;&gt;Background of the paper&lt;/h2&gt;
+&lt;p&gt;OLAC is the Open Language Archive Community. This is a community of digital data collections which aggregate their holdings data to a common place so that linguists can view the data by a variety of parameters which are relevant to linguists. The two major parts of OLAC are the aggregator and  a metadata standard. The metadata standard is OAI compliant and pairs well with Dublin Core. It has been well represented in the relevant literature, including the citations listed below.
+One thing we see is that very few (only two) libraries have joined in the aggregation of their holdings. Further there are very few if any archives which have been around prior to the digital age. Also absent are the any of the plethora of digital repositories which are present in a growing number of institutions around the world. The linked paper presented here is a list of archives which would benefit from advertising their collections via OLAC.&lt;/p&gt;
+&lt;h2 id=&#34;olac-in-the-literature&#34;&gt;OLAC in the literature&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;ul&gt;
+&lt;li&gt;Bird, Steven &amp;amp; Gary Simons. 2001. The OLAC Metadata Set and Controlled Vocabularies. In Proceedings of ACL/EACL Workshop on Sharing Tools and Resources for Research and Education. 
+&lt;a href=&#34;http://arxiv.org/abs/cs/0105030&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv:cs/0105030&lt;/a&gt;. (31 January, 2019).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Bird, Steven, Gary F. Simons &amp;amp; Huang Chu-Ren. 2001. The Open Language Archives Community and Asian Language Resources. Proceedings of the Workshop on Language Resources in Asia, 6th Natural Language Processing Pacific Rim Symposium (NLPRS), Tokyo, November 2001.&lt;/li&gt;
+&lt;li&gt;Bird, Steven, Hans Uszkoreit &amp;amp; Gary Simons. 2002. The Open Language Archives Community. Proceedings of the Third International Conference on Language Resources and Evaluation (LREC’02). European Language Resources Association (ELRA). &lt;a href=&#34;https://aclweb.org/anthology/papers/L/L02/L02-1017/&#34;&gt;https://aclweb.org/anthology/papers/L/L02/L02-1017/&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Simons, Gary F. &amp;amp; Steven Bird. 2003a. The Open Language Archives Community: An Infrastructure for Distributed Archiving of Language Resources. Literary and Linguistic Computing 18(2). 117–128. doi:10.1093/llc/18.2.117.
+Simons, Gary F. &amp;amp; Steven Bird. 2003b. Building an Open Language Archives Community on the OAI foundation. Library Hi Tech 21(2). 210–218. doi:
+&lt;a href=&#34;https://doi.org/10.1108/07378830310479848&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1108 /07378830310479848&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Hughes, Baden. 2005. Metadata Quality Evaluation: Experience from the Open Language Archives Community. In Zhaoneng Chen, Hsinchun Chen, Qihao Miao, Yuxi Fu, Edward Fox &amp;amp; Ee-peng Lim (eds.), Digital Libraries: International Collaboration and Cross-Fertilization (Lecture Notes in Computer Science), vol. 3334, 320–329. Berlin; Heidelberg: Springer. doi: 
+&lt;a href=&#34;http://dx.doi.org/10.1007/978-3-540-30544-6_34&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1007/978-3-540-30544-6_34&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Simons, Gary F. &amp;amp; Steven Bird. 2008. Toward a Global Infrastructure for the Sustainability of Language Resources. Proceedings of the 22nd Pacific Asia Conference on Language, Information and Computation, 20–22 November 2008, Cebu City, Philippines.&lt;/li&gt;
+&lt;li&gt;Hirt, Christopher, Gary Simons &amp;amp; Joan Spanne. 2009. Building a MARC-to-OLAC crosswalk: repurposing library catalog data for the language resources community. Proceedings of the 2009 joint international conference on Digital libraries - JCDL ’09, 393–394. Austin, TX, USA: ACM Press. doi:
+&lt;a href=&#34;https://doi.org/10.1145/1555400.1555479&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1145 /1555400.1555479&lt;/a&gt;. (13 May, 2019).&lt;/li&gt;
+&lt;li&gt;Simons, Gary F. &amp;amp; Steven Bird. 2011. OLAC: Accessing the World’s Language Resources. Presented at the Poster session on Metadata in Language Documentation and Description, Annual Meeting of the Linguistic Society of America, Pittsburgh, 6–9 January 2011. &lt;a href=&#34;http://www.hrelp.org/events/external/lsa2011/assets/LSA2011_BirdSimons_poster.pdf&#34;&gt;http://www.hrelp.org/events/external/lsa2011/assets/LSA2011_BirdSimons_poster.pdf&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Simons, Gary F. 2018. Some challenges ahead for the Open Language Archives Community. Presented at the Workshop on Data Archives and Languages of the Americas, University of Pennsylvania, LDC. &lt;a href=&#34;https://www.ldc.upenn.edu/sites/www.ldc.upenn.edu/files/simons.pdf&#34;&gt;https://www.ldc.upenn.edu/sites/www.ldc.upenn.edu/files/simons.pdf&lt;/a&gt; (24 May, 2019).&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Audio File Formats - A follow up to the SIL internal conversation on the Linguistics Discussion List</title>
+      <link>https://hughandbecky.us/Hugh-CV/manuscripts/2014-audio-file-formats/</link>
+      <pubDate>Mon, 17 Mar 2014 00:00:00 +0000</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/manuscripts/2014-audio-file-formats/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Challenges of implementing a tool to extract metadata from linguists: the use case of RAMP</title>
+      <link>https://hughandbecky.us/Hugh-CV/publication/2013-challenges-ramp/</link>
+      <pubDate>Fri, 01 Mar 2013 07:18:05 -0700</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/publication/2013-challenges-ramp/</guid>
+      <description>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/publication/2013-Challenges-RAMP/2013-Hawaii-Poster-v1.4.jpg&#34; &gt;
+
+
+  &lt;img src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/publication/2013-Challenges-RAMP/2013-Hawaii-Poster-v1.4.jpg&#34; alt=&#34;Image of Poster&#34;  &gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;&lt;strong&gt;Citeable as&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;Hugh J. Paterson III and Jeremy Nordmoe (2013) Challenges of implementing a tool to extract metadata from linguists: the use case of RAMP. Poster presented at &lt;a href=&#34;http://nflrc.hawaii.edu/ICLDC/2013/&#34; title=&#34;3rd International Conference on Language Documentation and Conservation&#34;&gt;3rd International Conference on Language Documentation and Conservation&lt;/a&gt;, at the University of Hawai&amp;rsquo;i Mānoa, Honolulu, HI. February 28 - March 3rd. &lt;ul&gt;&lt;/p&gt;
+&lt;h4 id=&#34;bibliography-for-poster&#34;&gt;Bibliography for Poster&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;Anderson, Stephen P. 2006. Creating Pleasurable interfaces: Getting from Tasks to Experiences (Poster). &lt;Accessed: 18 February 2013&gt; &lt;a href=&#34;http://www.artificialindustry.com/uploads/inspiratie/1295515106from-task-to-experience.png&#34; title=&#34;Getting from Tasks to Experiences&#34;&gt;http://www.artificialindustry.com/uploads/inspiratie/1295515106from-task-to-experience.png&lt;/a&gt; &lt;/li&gt;
+&lt;li&gt;Anderson, Stephen P. 2009. Fundamentals of Experience Design (Poster). &lt;Accessed: 18 February 2013&gt;  &lt;a href=&#34;http://www.poetpainter.com/thoughts/files/Fundamentals-of-Experience-Design-stephenpa.pdf&#34; title=&#34;Fundamentals of Experience Design&#34;&gt;http://www.poetpainter.com/thoughts/files/Fundamentals-of-Experience-Design-stephenpa.pdf&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Anderson, Stephen P. 2011. Seductive interaction design: creating playful, fun, and effective user experiences. Berkeley, CA: New Riders.&lt;/li&gt;
+&lt;li&gt;Gray, Jeremy R., Todd S. Braver &amp; Marcus E. Raichle. 2002. Integration of emotion and cognition in the lateral prefrontal cortex. Proceedings of the National Academy of Sciences 99.6: 4115-20. &lt;a href=&#34;http://www.pnas.org/content/99/6/4115.abstract&#34; title=&#34;Integration of emotion and cognition in the lateral prefrontal cortex&#34;&gt;http://www.pnas.org/content/99/6/4115.abstract&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Nash, Douglas. 2012. Businessperson. The Noun Project. &lt;a href=&#34;http://thenounproject.com/noun/businessperson/#icon-No1673&#34; title=&#34;Businessperson&#34;&gt;http://thenounproject.com/noun/businessperson/#icon-No1673&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Nordmoe, Jeremy. 2011. Introducing RAMP: an application for packaging metadata and resources offline for submission to an institutional repository. In David Nathan (Ed.) Proceedings of Workshop on Language Documentation &amp; Archiving 18 November 2011 at SOAS. London, UK. Pages. 27-32. &lt;Accessed: 18 February 2013&gt;  &lt;a href=&#34;https://www.sil.org/resources/archives/43211&#34; title=&#34;Nordmoe 2011&#34;&gt;https://www.sil.org/resources/archives/43211&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Parker, Geoffrey &amp; Marshall W. Van Alstyne. 2000. Information Complements, Substitutes, and Strategic Product Design (November 8, 2000). Available at SSRN: &lt;a href=&#34;http://ssrn.com/abstract=249585&#34;title=&#34;Information Complements, Substitutes, and Strategic Product Design&#34;&gt;http://ssrn.com/abstract=249585&lt;/a&gt; or DOI:&lt;a href=&#34;http://dx.doi.org/10.2139/ssrn.249585&#34; title=&#34;DOI: 10.2139/ssrn.249585&#34;&gt;10.2139/ssrn.249585&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Traynor, Des. 16 January 2012. Copy the Fit, not the Features. &lt;Accessed: 18 February 2013&gt;. &lt;a href=&#34;http://blog.intercom.io/copy-the-fit-not-the-features/&#34; title=&#34;Copy the fit not the features&#34;&gt;http://blog.intercom.io/copy-the-fit-not-the-features/&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;Comments&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;This poster is a result of experience, statistical data, and some of the ideas presented in these posts:&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;About the RAMP/DSpace fit&lt;/em&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://hugh.thejourneyler.org/2012/leave-typology-to-the-typologists-i-am-a-linguist/&#34; title=&#34;Leave typology to the typologists, I am a linguist&#34;&gt;Leave typology to the typologists, I am a linguist&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://hugh.thejourneyler.org/2013/the-sil-archive-and-its-two-sided-markets&#34; title=&#34;The SIL Archive and its two sided Markets.&#34;&gt;The SIL archive and its two-sided markets&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;About UX in RAMP&lt;/em&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://hugh.thejourneyler.org/2011/metadata-magic/&#34; title=&#34;Matadata Magic&#34;&gt;Metadata Magic&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://hugh.thejourneyler.org/2011/citations-names-and-language-documentation/&#34; title=&#34;Citations, Names and Language Documentation&#34;&gt;Citations, Names and Language Documentation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://hugh.thejourneyler.org/2010/all-pdfs-are-not-created-equal/&#34; title=&#34;All PDFs are not created equal&#34;&gt;All PDFs are not created Equal&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Keyboard layout as part of language documentation: the case of the Me&#39;phaa and Chinantec keyboards</title>
+      <link>https://hughandbecky.us/Hugh-CV/talk/2012-keyboard-layout-presentation/</link>
+      <pubDate>Fri, 06 Jul 2012 11:30:00 +0000</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/talk/2012-keyboard-layout-presentation/</guid>
+      <description>&lt;!-- This post has several items which need to be fixed. First is the link to the blog post. I think it jst needs to point to this event. Forget the blog post. another big issue is the names in the JSOn file for the language loo up. --&gt;
+&lt;!-- ## Abstract
+
+Successful writing systems today depend on electronic input methods which can be easily used for producing printed or electronic material. This paper explores keyboard design issues involved in designing two keyboards for two different established orthographies. Both orthographies are based on Latin scripts and cover a total of five minority languages in Mexico (four languages in the Meꞌphaa genus and Sochiapam Chinantec [cso] ). The design issues consider:
+
+1. Technical differences encountered across major computer operating
+systems (OS X and Windows)
+
+2. Computer culture issues like the keyboard layout of the national language
+
+3. Key stroke frequency of language specific segments
+
+4. Unicode/non-Unicode issues related to character composition
+
+Designing a Unicode keyboard for data input allowed native speakers of Meꞌphaa
+to have a greater involvement in the data collected by feeding the documentation team typed data and texts in addition to providing oral data. Early adaption of digital input methods may prove to better meet the needs of both language community and researcher. By giving the language community a keyboard for their orthography the minority language speakers were given the opportunity to enter into, and use, new technological domains with their language. --&gt;
+&lt;h2 id=&#34;a-look-a-the-types-of-orthographies-being-compared&#34;&gt;A look a the types of orthographies being compared&lt;/h2&gt;
+&lt;h3 id=&#34;a-meꞌphaa-text-sample&#34;&gt;A. Meꞌphaa Text Sample&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;A̱ ngui̱nꞌ, tsáanꞌ ninimba̱ꞌlaꞌ ju̱ya̱á Jesús, ga̱ju̱ma̱ꞌlaꞌ rí phú gagi juwalaꞌ ído̱ rí nanújngalaꞌ awúun mbaꞌa inii gajmá. Numuu ndu̱ya̱á málaꞌ rí ído̱ rí na̱ꞌnga̱ꞌlaꞌ inuu gajmá, nasngájma ne̱ rí gakon rí jañii a̱kia̱nꞌlaꞌ ju̱ya̱á Ana̱ꞌlóꞌ, jamí naꞌne ne̱ rí ma̱wajún gúkuálaꞌ. I̱ndo̱ó máꞌ gíꞌmaa rí ma̱wajún gúkuálaꞌ xúgíí mbiꞌi, kajngó ma̱jráanꞌlaꞌ jamí ma̱ꞌne rí jañii a̱kia̱nꞌlaꞌ, asndo rí náxáꞌyóo nitháan rí jaꞌyoo ma̱nindxa̱ꞌlaꞌ. [I̱yi̱i̱ꞌ rí niꞌtháán Santiágo̱ 1:2-4]&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;b-sochiapam-chinantec-text-sample&#34;&gt;B. Sochiapam Chinantec Text Sample&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Hnoh² reh², ma³hiún¹³ hnoh² honh² lɨ³ua³ cáun² hi³ quiunh³² náh², quí¹ la³ cun³ hi³ má²ca³lɨ³ ñíh¹ hnoh² jáun² hi³ tɨ³ jlánh¹ bíh¹ re² lı̵́²tɨn² tsú² hi³ jmu³ juenh² tsı̵́³, nı̵́¹juáh³ zia³² hi³ cá² lau²³ ca³tɨ²¹ hi³ taunh³² tsú² jáun² ta²¹. Hi³ jáun² né³, chá¹ hnoh² cáun² honh², hi³ jáun² lı̵́¹³ lɨ³tɨn² hnoh² re² hi³ jmúh¹³ náh² juenh² honh², hi³ jáun² hnoh² lı̵́¹³ lı̵́n³ náh² tsá² má²hún¹ tsı̵́³, tsá² má²ca³hiá² ca³táunh³ ca³la³ tán¹ hián² cu³tí³, la³ cun³ tsá² tiá² hi³ lɨ³hniauh²³ hí¹ cáun² ñí¹con² yáh³. [Jacobo Jmu² Cáun² Sí² Hi³ Ca³tɨn¹ Tsá² *Judíos, Tsá² Má²tiáunh¹ Ñí¹ Hliáun³ 1:2-4]&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;c-spanish-text-sample&#34;&gt;C. Spanish Text Sample&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Hermanos míos, gozaos profundamente cuando os halléis en diversas pruebas, sabiendo que la prueba de vuestra fe produce paciencia. Pero tenga la paciencia su obra completa, para que seáis perfectos y cabales, sin que os falte cosa alguna. [Santiago 1:2-4 Reina-Valera 1995 (RVR1995)]&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;d-english-text-sample&#34;&gt;D. English Text Sample&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Dear brothers and sisters, when troubles come your way, consider it an opportunity for great joy. For you know that when your faith is tested, your endurance has a chance to grow. So let it grow, for when your endurance is fully developed, you will be perfect and complete, needing nothing. [James 1:2-4 New Living Translation (NLT 2007)]&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Meꞌphaa and Sochiapam Chinantec Keyboards</title>
+      <link>https://hughandbecky.us/Hugh-CV/project/2011-mexico-keyboards/</link>
+      <pubDate>Mon, 12 Mar 2012 00:00:00 +0000</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/project/2011-mexico-keyboards/</guid>
+      <description>&lt;p&gt;This project formalized my interest in the text input problem. While doing text input for the Meꞌphaa language documentation project it was imperative to get Unicode encoded texts. I worked with Kevin Cline to create OS X and native Windows OS keyboards for Meꞌphaa writers.  We used 
+&lt;a href=&#34;http://scripts.sil.org/ukelele&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ukelele&lt;/a&gt; to create the OS X keyboards and  
+&lt;a href=&#34;https://web.archive.org/web/20170202084913/https://msdn.microsoft.com/en-us/globalization/keyboardlayouts.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Microsoft Keyboard Layout Creator (MSKLC)&lt;/a&gt; to create the Windows keyboards.&lt;/p&gt;
+&lt;p&gt;Upon hearing of my new found skills, language users from the Sochiapam Chinantec community asked me to make an OS X keyboard for their language. In both cases existing keyboard layouts were matched to synchronize the user experience across the OSes.&lt;/p&gt;
+&lt;p&gt;Some of the design choices in the original layouts did not make sense to me. Hence the birth of the 
+&lt;a href=&#34;https://hughandbecky.us/Hugh-CV/project/2014-typing-expereince/&#34;&gt;The minority language typing experience&lt;/a&gt; project.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Audio Digitization</title>
+      <link>https://hughandbecky.us/Hugh-CV/project/2010-americas-area-audio-digitization/</link>
+      <pubDate>Fri, 24 Feb 2012 00:00:00 +0000</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/project/2010-americas-area-audio-digitization/</guid>
+      <description>&lt;p&gt;This project involved the accession, cataloging and digitization of several collections. It also involved cataloging of multiple collections already accessioned but not yet cataloged. I was responsible for identifying and collecting metadata relevant for audio collections. I communicated with the SIL Language and Culture Archive staff when metadata schemas in place were insufficient for audio collections. I identified and recommended changes to metadata profiles used at the time by the Language and Culture Archives. I consulted industry best practices and established quality control procedures related to the digitization of cassette tapes and reel to reel tapes. I served as project manager, with a volunteer workforce.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Photo Digitization</title>
+      <link>https://hughandbecky.us/Hugh-CV/project/2010-americas-area-photo-digitization/</link>
+      <pubDate>Fri, 24 Feb 2012 00:00:00 +0000</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/project/2010-americas-area-photo-digitization/</guid>
+      <description>&lt;p&gt;I served as project manager, recruiting and supervising a volunteer workforce. Together we cataloged and scanned over 1000 photos.&lt;/p&gt;
+&lt;p&gt;We also repatriated some photos. We took old photo albums to reunions where former SIL staff identified persons and places in the images.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Text Digitization</title>
+      <link>https://hughandbecky.us/Hugh-CV/project/2010-americas-area-text-digitization/</link>
+      <pubDate>Fri, 24 Feb 2012 00:00:00 +0000</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/project/2010-americas-area-text-digitization/</guid>
+      <description>&lt;p&gt;I worked with the SIL Americas Area Access Coordinator to make language materials available to translators, researchers, and language development workers. There is a wealth of information that is simply inaccessible to those who could use it. I helped in the implementation of a system to make these materials available digitally, via the internet. Access to these materials affects the mechanics of language development and translation projects throughout the Americas Area and around the world.&lt;/p&gt;
+&lt;p&gt;I contributed in general to archiving processes related to text scanning, and the post processing of these scans into archival and distribution formats. I served as site manager and recruiter with a volunteer work force. I brokered accessions of older materials from their creators.
+I worked with IT staff to produce an automated reporting mechanism to track team progress.&lt;/p&gt;
+&lt;!--
+-- insert photos
+-- insert data progress chart --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Language Archive Usability</title>
+      <link>https://hughandbecky.us/Hugh-CV/project/2012-archive-usability/</link>
+      <pubDate>Sat, 18 Feb 2012 00:00:00 +0000</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/project/2012-archive-usability/</guid>
+      <description>&lt;p&gt;This project seeks to make known issues in &lt;em&gt;Language Resource Accessibility&lt;/em&gt;. It is primarily concerned with two facets of accessibility:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;the &lt;em&gt;User Experience&lt;/em&gt; related to interacting with archived content; and&lt;/li&gt;
+&lt;li&gt;the aggregation of item level metadata about language resources in collections.&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Las Conexiones Externas e Internas</title>
+      <link>https://hughandbecky.us/Hugh-CV/publication/2011-mexico-places/</link>
+      <pubDate>Mon, 14 Nov 2011 20:21:37 -0700</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/publication/2011-mexico-places/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Citeable as&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;Z3988&#34; title=&#34;ctx_ver=Z39.88-2004&amp;amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;amp;rfr_id=info%3Asid%2Focoins.info%3Agenerator&amp;amp;rft.genre=document&amp;amp;rft.btitle=Los+Archivos+Ling%C3%BC%C3%ADsticos+Me%27phaa&amp;amp;rft.title=Los+Archivos+Ling%C3%BC%C3%ADsticos+Me%27phaa&amp;amp;rft.atitle=Las+Conexiones+Externas+e+Internas&amp;amp;rft.series=Mexico+Electronic+Working+Papers+in+Linguistics&amp;amp;rft.aulast=Kevin&amp;amp;rft.aufirst=Cline&amp;amp;rft.auinit=L&amp;amp;rft.aucorp=Stephen+A.+Marlett&amp;amp;rft.au=Cline+L+Kevin&amp;amp;rft.au=+Hugh+Paterson+III&amp;amp;rft.au=Mark+L.+Weathers&amp;amp;rft.date=2011-11&amp;amp;rft.pub=SIL+International&amp;amp;rft.edition=2011-11&#34;&gt;Kevin L. Cline, Stephen A. Marlett, Hugh Paterson III and Mark L. Weathers. (November 2011) &lt;em&gt;Las Conexiones Externas e Internas&lt;/em&gt;. En: Stephen A. Marlett (ed.) Los Archivos Lingüísticos Me&amp;rsquo;phaa. [&lt;a href=&#34;http://www.sil.org/mexico/workpapers/WP013-PDF/MephaaConexiones.pdf&#34;&gt;http://www.sil.org/mexico/workpapers/WP013-PDF/MephaaConexiones.pdf&lt;/a&gt;]&lt;/span&gt;&lt;/p&gt;
+&lt;!-- Kevin L. Cline, Stephen A. Marlett, Hugh Paterson III and Mark L. Weathers (November 2011) *Las Conexiones Externas e Internas*. En: Stephen A. Marlett (ed.) Los Archivos Lingüísticos Me’phaa. [http://www.sil.org/mexico/workpapers/WP013-PDF/MephaaConexiones.pdf] --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Getting things out of FLEx: Dictionaries in multiple modes</title>
+      <link>https://hughandbecky.us/Hugh-CV/talk/2011-getting-things-out-of-flex/</link>
+      <pubDate>Mon, 17 Oct 2011 20:58:01 -0700</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/talk/2011-getting-things-out-of-flex/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Citable as&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;Hugh J. Paterson III (2011) &lt;em&gt;Getting things out of FLEx: Dictionaries in multiple modes&lt;/em&gt;. International Workshop on Fieldworks Software. Universiti Malaysia Sabah, 17-21 October 2011.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Geo-Linguistics</title>
+      <link>https://hughandbecky.us/Hugh-CV/project/2011-geo-linguistics/</link>
+      <pubDate>Sat, 12 Mar 2011 00:00:00 +0000</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/project/2011-geo-linguistics/</guid>
+      <description>&lt;p&gt;There are seven major sub-areas of this project:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Explaining cartographic concepts.&lt;/li&gt;
+&lt;li&gt;Explaining and reviewing tools for generating and processing the necessay data.&lt;/li&gt;
+&lt;li&gt;Creating population density visualizations.&lt;/li&gt;
+&lt;li&gt;Collecting place names and generating a map in Nigeria.&lt;/li&gt;
+&lt;li&gt;Creating a map of the language documentation files in the Meꞌphaa language documentation project.&lt;/li&gt;
+&lt;li&gt;Creating a map of the language documentation files in the U̠t-Ma&amp;rsquo;in language documentation project.&lt;/li&gt;
+&lt;li&gt;Creating several maps for Dan related to my M.A. thesis work.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;!-- Map making tools
+
+Import geo-names into QGIS: http://forum.geonames.org/gforum/posts/list/67.page
+QGIS to illustrator: https://vimeo.com/124793295
+Georeferencing Topo Sheets and Scanned Maps: http://www.qgistutorials.com/en/docs/georeferencing_basics.html
+
+https://mygeodata.cloud/converter/svg-to-kml
+https://bitbucket.org/tbrugz/kmlutils/wiki/HOWTO.en
+https://freegeographytools.com/2009/convertreproject-shapefiles-and-kml-files-to-svg-format-with-indiemapper
+
+https://bitbucket.org/voron-raven/maps
+
+Filter country shapes: https://wiki.openstreetmap.org/wiki/Osmfilter --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Meꞌphaa Language Documentation</title>
+      <link>https://hughandbecky.us/Hugh-CV/project/2011-mexico-documentation/</link>
+      <pubDate>Sat, 12 Mar 2011 00:00:00 +0000</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/project/2011-mexico-documentation/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://hughandbecky.us/Hugh-CV/project/2012-Mexico/File-man.jpg&#34; alt=&#34;Hugh in recording&#34;&gt;
+Grammarian of digital file names is the loneliest job of them all.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://www.mexico.sil.org/publications/i-wpindex/work_papers_-_mephaa_grammar_files&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Corpus of descriptive work&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Meꞌphaa Language Documentation</title>
+      <link>https://hughandbecky.us/Hugh-CV/project/2011-mexico/</link>
+      <pubDate>Sat, 12 Mar 2011 00:00:00 +0000</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/project/2011-mexico/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;File-man.jpg&#34; alt=&#34;Hugh in recording&#34;&gt;
+Grammarian of digital file names is the loneliest job of them all.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://www.mexico.sil.org/publications/i-wpindex/work_papers_-_mephaa_grammar_files&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Corpus of descriptive work&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The phonetic status of the (inter)dental approximant</title>
+      <link>https://hughandbecky.us/Hugh-CV/publication/2010-interdental/</link>
+      <pubDate>Thu, 08 Jul 2010 00:00:00 +0000</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/publication/2010-interdental/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Citeable as&lt;/strong&gt;:&lt;/p&gt;
+&lt;!-- Kenneth S. Olson, Jeff Mielke, Josephine Sanicas-Daguman, Carol Jean Pebley and Hugh J. Paterson III (2010) *The phonetic status of the (inter)dental approximant*. Journal of the International Phonetic Association, 40.2 , pp. 199-215. doi:[10.1017/S0025100309990296](https://doi.org/10.1017/S0025100309990296) --&gt;
+&lt;p&gt;&lt;span class=&#34;Z3988&#34; title=&#34;ctx_ver=Z39.882004&amp;amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;amp;rfr_id=info%3Asid%2Focoins.info%3Agenerator&amp;amp;rft.genre=article&amp;amp;rft.atitle=The+phonetic+status+of+the+%28inter%29dental+approximant&amp;amp;rft.title=Journal+of+the+International+Phonetic+Association&amp;amp;rft.stitle=JIPA&amp;amp;rft.issn=1475-3502&amp;amp;rft.eissn=1475-3502&amp;amp;rft.date=2010-08-01&amp;amp;rft.volume=40&amp;amp;rft.issue=2&amp;amp;rft.spage=199&amp;amp;rft.epage=215&amp;amp;rft.aulast=Olson&amp;amp;rft.aufirst=Kenneth+S.&amp;amp;rft.auinit=KSO&amp;amp;rft.au=Kenneth+S.+KSO+Olson&amp;amp;rft.au=Jeff+Mielke&amp;amp;rft.au=Josephine+Sanicas-Daguman&amp;amp;rft.au=Carol+Jean+Pebley&amp;amp;rft.au=Hugh+J.+Paterson+III&amp;amp;rft_id=info:doi/10.1017%2FS0025100309990296&#34;&gt;Kenneth S. Olson, Jeff Mielke, Josephine Sanicas-Daguman, Carol Jean Pebley and Hugh J. Paterson (2010) &lt;em&gt;The phonetic status of the (inter)dental approximant&lt;/em&gt;. Journal of the International Phonetic Association, 40.2 , pp. 199-215. doi:&lt;a href=&#34;http://journals.cambridge.org/abstract_S0025100309990296&#34;&gt;10.1017/S0025100309990296&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Comments&lt;/strong&gt;:
+My contribution in this collective work involved extensive library research, the collection of sources, translation of sources, and evaluating the personal un-published field notes of previous scholars. Encouraged in the historical comparative work by Ken Olson, I suggest that there is enough evidence to support the idea that the interdental approximant is a retention, rather than independent innovations. My research work on this topic resulted in me presenting two additional academic presentations. See the interdental approximant project description for further details.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Other works on the interdental approximant&lt;/strong&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Mielke, Jeff, Kenneth S. Olson, Adam Baker &amp;amp; Diana Archangeli. 2011. Articulation of the Kagayanen interdental approximant: An ultrasound study. Journal of Phonetics 39(3). 403–412. DOI: 
+&lt;a href=&#34;http://dx.doi.org/10.1016/j.wocn.2011.02.008&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://dx.doi.org/10.1016/j.wocn.2011.02.008&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Olson, Kenneth S., Emy T. Ballenas &amp;amp; Nilo M. Borromeo. 2009. Buhi’non (Bikol) digital wordlist: Presentation form. Language Documentation &amp;amp; Conservation 3(2). 213–225. URI: 
+&lt;a href=&#34;http://hdl.handle.net/10125/4440&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://hdl.handle.net/10125/4440&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Olson, Kenneth S., Glenn Machlan &amp;amp; Nelson Amangao. 2008. Minangali (Kalinga) digital wordlist: Presentation form. Language Documentation &amp;amp; Conservation 2(1). 141–156. URI 
+&lt;a href=&#34;http://hdl.handle.net/10125/1772&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://hdl.handle.net/10125/1772&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Olson, Kenneth S. &amp;amp; Jeff Mielke. 2008. Acoustic properties of the interdental approximant in Kagayanen. Journal of the Acoustical Society of America 123(5). 3460. DOI 
+&lt;a href=&#34;http://dx.doi.org/10.1121/1.2934307&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://dx.doi.org/10.1121/1.2934307&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Matthew Harley (2012) Unusual sounds in Nigerian languages. In Advances in Minority Language Research in Nigeria Part I (eds.) Roger M. Blench and Stuart McGill. Kay Williamson Educational Foundation African languages Monographs No. 5. pages: 38-65. Rüdiger Köppe Verlag: Köln&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Lasting linguistics: Making a meaningful mark</title>
+      <link>https://hughandbecky.us/Hugh-CV/talk/2009-lasting-linguistics-linguistics-leaving-mark/</link>
+      <pubDate>Thu, 30 Jul 2009 17:00:12 -0700</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/talk/2009-lasting-linguistics-linguistics-leaving-mark/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An unlikely retention</title>
+      <link>https://hughandbecky.us/Hugh-CV/talk/2009-unlikely-retention-11ical/</link>
+      <pubDate>Tue, 23 Jun 2009 20:35:39 -0700</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/talk/2009-unlikely-retention-11ical/</guid>
+      <description>&lt;h4 id=&#34;bibliography-for-abstract&#34;&gt;Bibliography for Abstract:&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Olson, Kenneth S. &amp;amp; Jeff Mielke. 2007. Articulation of the Kagayanen interdental approximant: An ultrasound study. Presentation Slides presented at the Paper presented at the Linguistic Society of America annual meeting, January 2007, Anaheim, California. &lt;a href=&#34;http://www.sil.org/~olsonk/downloads/kagayanen.ppt&#34;&gt;http://www.sil.org/~olsonk/downloads/kagayanen.ppt&lt;/a&gt; (30 March, 2009).&lt;/li&gt;
+&lt;li&gt;Kenneth S. Olson, Jeff Mielke, Josephine Sanicas-Daguman, Carol Jean Pebley and Hugh J. Paterson III (2010) &lt;em&gt;The phonetic status of the (inter)dental approximant&lt;/em&gt;. Journal of the International Phonetic Association, 40.2 , pp. 199-215. doi:
+&lt;a href=&#34;https://doi.org/10.1017/S0025100309990296&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1017/S0025100309990296&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;‡ Olson et al.(2010) was still in press at the time of this presentation and was originally written in the abstract as Olson et al.(2009a). For clarity and ease of access the citation has been updated to the formal publication.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Repair strategies used with the interdental approximant in some Philippine languages</title>
+      <link>https://hughandbecky.us/Hugh-CV/talk/2009-repair-strategies-interdental-gial/</link>
+      <pubDate>Mon, 18 May 2009 20:51:12 -0700</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/talk/2009-repair-strategies-interdental-gial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interdental approximant</title>
+      <link>https://hughandbecky.us/Hugh-CV/project/2010-interdental-approximant/</link>
+      <pubDate>Wed, 18 Jun 2008 08:18:27 -0700</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/project/2010-interdental-approximant/</guid>
+      <description>&lt;p&gt;This research project was spearheaded by Ken Olson. As a collaborator with him I focused on the historical linguistics status of the interdental approximant in Philippine languages. I also did a lot of library resources discovery and acquisition.&lt;/p&gt;
+&lt;p&gt;In this project description I have listed more than my contribution because I am not sure there is anywhere else that has pulled together the combined research on this topic.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Results &amp;amp; Significance&lt;/strong&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Ultrasound Study on the articulation of the interdental approximant.&lt;/li&gt;
+&lt;li&gt;Published phonetic descriptions of the interdental approximant.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Academic Output&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Publications&lt;/em&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Mielke, Jeff, Kenneth S. Olson, Adam Baker &amp;amp; Diana Archangeli. 2011. Articulation of the Kagayanen interdental approximant: An ultrasound study. Journal of Phonetics 39(3). 403–412. DOI: 
+&lt;a href=&#34;http://dx.doi.org/10.1016/j.wocn.2011.02.008&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1016/j.wocn.2011.02.008&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Olson, Kenneth S., Emy T. Ballenas &amp;amp; Nilo M. Borromeo. 2009. Buhi’non (Bikol) digital wordlist: Presentation form. Language Documentation &amp;amp; Conservation 3(2). 213–225. URI: 
+&lt;a href=&#34;http://hdl.handle.net/10125/4440&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://hdl.handle.net/10125/4440&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Olson, Kenneth S., Glenn Machlan &amp;amp; Nelson Amangao. 2008. Minangali (Kalinga) digital wordlist: Presentation form. Language Documentation &amp;amp; Conservation 2(1). 141–156. URI 
+&lt;a href=&#34;http://hdl.handle.net/10125/1772&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://hdl.handle.net/10125/1772&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Olson, Kenneth S. &amp;amp; Jeff Mielke. 2008. Acoustic properties of the interdental approximant in Kagayanen. Journal of the Acoustical Society of America 123(5). 3460. DOI: 
+&lt;a href=&#34;http://dx.doi.org/10.1121/1.2934307&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1121/1.2934307&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Related Academic Work&lt;/strong&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Matthew Harley (2012) Unusual sounds in Nigerian languages. In Advances in Minority Language Research in Nigeria Part I (eds.) Roger M. Blench and Stuart McGill. Kay Williamson Educational Foundation African languages Monographs No. 5. pages: 38-65. Rüdiger Köppe Verlag: Köln&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Follow-up work&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;It seems that the interdental approximant [ð̞] in Austronesian languages should challenge linguists in three important areas and thus deserves more thought and perhaps application in our theories. These categories are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The phonological status and interactions that happen with the segment.&lt;/li&gt;
+&lt;li&gt;The phonetic contrast of the segment.&lt;/li&gt;
+&lt;li&gt;The Historical status of the segment and the impact of its recognition in the Austronesian historical linguistic narrative.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Publications to date have focused on two relevant aspects of the interdental approximant:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;ð̞ is important in descriptive linguistics.&lt;/li&gt;
+&lt;li&gt;ð̞ is different phonetically from other described segments.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The following remain to be shown clearly in appropriate publications.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Phonetic contrast&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;What is the duration of the sound and what are the boarders?&lt;/li&gt;
+&lt;li&gt;Measure the stable section?&lt;/li&gt;
+&lt;li&gt;Where does it stop and where does it begin?&lt;/li&gt;
+&lt;li&gt;What is the acoustical (in terms of both production and perception) difference between /l/ and /ð̞ /?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The ulturasound study does provide a good starting point to answer these questions.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;ð̞ it has a unique spectrograph when compared with other liquids, vowels, and interdentals - especially within the same language.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;ð̞ is different from the native sounds of { l, a, ɐ, n, ʔ, d, g, r, s, h, x} which occur in Philippine languages.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;This has been done in small phonology descriptions but not full scale acoustically reference-able phonetic descriptions across the entire set of languages discussed in the &lt;em&gt;JIPA&lt;/em&gt; article.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;ð̞ is different from the borrowed sounds of { l, a, ɐ, n, ʔ, d, g, θ, ð, r, s, h, x, ɣ}&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;In terms of psycholinguistics the question remains,: &lt;em&gt;What are the unique properties of this sound as they are culturally defined?&lt;/em&gt; or to put this another way: &lt;em&gt;What are the acustic cues, what are the visual cues, and what are the cultural constraints that those cues may violate?&lt;/em&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;My research position suggests that there has been change. Change involves a variety of cognitive processes. Re-analysis is one such process. If I hypothesize that re-analysis has occurred, then what is the Cognitive load of this segment? How has that load shifted or why can it shift?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;What are the unique properties that users attribute to this segment as cross-linguistically defined (but keeping within Austronesian or the Austro-Tai hypotheses).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;What are those unique properties as Universally or empirically defined?&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;Historical Narrative&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;There is an open question with relationship to historical Austronesian as to what the metrical structure of the language was. If we posit some change in the metical structrue what relevance does that have on the interdental approximant? Does the concept of Phonetic Gemination apply?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;In some theories of 
+&lt;a href=&#34;https://en.wikipedia.org/wiki/Austro-Tai_languages&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Austro-Tai&lt;/a&gt; there is some relevance to constructing suprasegmental features and genisis or de-genesis processes for these features. In that contexts: &lt;em&gt;Is it possible that ð̞ is a tone bearing unit? (TBU)&lt;/em&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Interdental is contrastive with dental in Place in the IPA Chart
+ð̞ is important to PAn Historical Phonology Theory&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;ð̞ is related to several mergers and splits&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;ð̞ is PAn *R&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;ð̞ Shows that [+Nasal], historically, is, or is/and a super-segmental feature in Austronesian languages.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;ð̞ shows that there are fewer proto-phonemes than necessary in current models
+of PAn.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;ð̞ helps us to understand the PAn foot.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;ð̞ was represented in the baybin original orthography.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;ð̞ is relevant enough to be represented consistently in orthographies in the
+languages it occurs in.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Phonology&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;There are several open phonological questions. Some of these have answers in the cited materials, but the data is not always clear for all languages which also have interdental approximants.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;What are the claimed Phonemes of kangayen?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;It would be all the more the claim that ð̞ is phonemic not due to a split. If it is a retention then this perspective has more weight.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;What is the ð̞ pattern concerning natural classes.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;In a feature geometry perspective, what features does ð̞ have.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Some Austornesian language have Metathesis. Is this metathesis process triggered in any way by the ð̞?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;ð̞ has moraic value - what is it?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;What is the affect of ð̞ on vowel quality?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;In what ways can we measure the impact that ð̞ has on cognitive load?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Does the ð̞ occur in multiple areas of the lexicon&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;To do this a survey of the texts should be used to evaluated the
+location of ð̞ in the lexicon. One resource for texts could be:&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Grayden, Bruce. 1978. &amp;ldquo;Southern Kalinga [language text].&amp;rdquo; In Evan L. Antworth (ed.),
+Folktale texts, 13-23. Studies in Philippine Linguistics, 2(2). Manila: Linguistic Society of the Philippines and Summer Institute of Linguistics.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;What do I want to research?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Why is it important?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;How do I want to research it?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;What is the Problem?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;What is the Solution?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;What do I want to Say?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;What is the continued importance of a feature analysis to the field of descriptive linguistics and to the field of historical linguistics and to the field of Phonology?&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

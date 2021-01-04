@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Geo-Linguistics | Hugh&#39;s Curriculum Vitae</title>
+    <link>https://hughandbecky.us/Hugh-CV/tag/geo-linguistics/</link>
+      <atom:link href="https://hughandbecky.us/Hugh-CV/tag/geo-linguistics/index.xml" rel="self" type="application/rss+xml" />
+    <description>Geo-Linguistics</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2021</copyright><lastBuildDate>Mon, 14 Nov 2011 20:21:37 -0700</lastBuildDate>
+    <image>
+      <url>https://hughandbecky.us/Hugh-CV/media/HughPaterson.jpg</url>
+      <title>Geo-Linguistics</title>
+      <link>https://hughandbecky.us/Hugh-CV/tag/geo-linguistics/</link>
+    </image>
+    
+    <item>
+      <title>Las Conexiones Externas e Internas</title>
+      <link>https://hughandbecky.us/Hugh-CV/publication/2011-mexico-places/</link>
+      <pubDate>Mon, 14 Nov 2011 20:21:37 -0700</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/publication/2011-mexico-places/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Citeable as&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;Z3988&#34; title=&#34;ctx_ver=Z39.88-2004&amp;amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;amp;rfr_id=info%3Asid%2Focoins.info%3Agenerator&amp;amp;rft.genre=document&amp;amp;rft.btitle=Los+Archivos+Ling%C3%BC%C3%ADsticos+Me%27phaa&amp;amp;rft.title=Los+Archivos+Ling%C3%BC%C3%ADsticos+Me%27phaa&amp;amp;rft.atitle=Las+Conexiones+Externas+e+Internas&amp;amp;rft.series=Mexico+Electronic+Working+Papers+in+Linguistics&amp;amp;rft.aulast=Kevin&amp;amp;rft.aufirst=Cline&amp;amp;rft.auinit=L&amp;amp;rft.aucorp=Stephen+A.+Marlett&amp;amp;rft.au=Cline+L+Kevin&amp;amp;rft.au=+Hugh+Paterson+III&amp;amp;rft.au=Mark+L.+Weathers&amp;amp;rft.date=2011-11&amp;amp;rft.pub=SIL+International&amp;amp;rft.edition=2011-11&#34;&gt;Kevin L. Cline, Stephen A. Marlett, Hugh Paterson III and Mark L. Weathers. (November 2011) &lt;em&gt;Las Conexiones Externas e Internas&lt;/em&gt;. En: Stephen A. Marlett (ed.) Los Archivos Lingüísticos Me&amp;rsquo;phaa. [&lt;a href=&#34;http://www.sil.org/mexico/workpapers/WP013-PDF/MephaaConexiones.pdf&#34;&gt;http://www.sil.org/mexico/workpapers/WP013-PDF/MephaaConexiones.pdf&lt;/a&gt;]&lt;/span&gt;&lt;/p&gt;
+&lt;!-- Kevin L. Cline, Stephen A. Marlett, Hugh Paterson III and Mark L. Weathers (November 2011) *Las Conexiones Externas e Internas*. En: Stephen A. Marlett (ed.) Los Archivos Lingüísticos Me’phaa. [http://www.sil.org/mexico/workpapers/WP013-PDF/MephaaConexiones.pdf] --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Geo-Linguistics</title>
+      <link>https://hughandbecky.us/Hugh-CV/project/2011-geo-linguistics/</link>
+      <pubDate>Sat, 12 Mar 2011 00:00:00 +0000</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/project/2011-geo-linguistics/</guid>
+      <description>&lt;p&gt;There are seven major sub-areas of this project:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Explaining cartographic concepts.&lt;/li&gt;
+&lt;li&gt;Explaining and reviewing tools for generating and processing the necessay data.&lt;/li&gt;
+&lt;li&gt;Creating population density visualizations.&lt;/li&gt;
+&lt;li&gt;Collecting place names and generating a map in Nigeria.&lt;/li&gt;
+&lt;li&gt;Creating a map of the language documentation files in the Meꞌphaa language documentation project.&lt;/li&gt;
+&lt;li&gt;Creating a map of the language documentation files in the U̠t-Ma&amp;rsquo;in language documentation project.&lt;/li&gt;
+&lt;li&gt;Creating several maps for Dan related to my M.A. thesis work.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;!-- Map making tools
+
+Import geo-names into QGIS: http://forum.geonames.org/gforum/posts/list/67.page
+QGIS to illustrator: https://vimeo.com/124793295
+Georeferencing Topo Sheets and Scanned Maps: http://www.qgistutorials.com/en/docs/georeferencing_basics.html
+
+https://mygeodata.cloud/converter/svg-to-kml
+https://bitbucket.org/tbrugz/kmlutils/wiki/HOWTO.en
+https://freegeographytools.com/2009/convertreproject-shapefiles-and-kml-files-to-svg-format-with-indiemapper
+
+https://bitbucket.org/voron-raven/maps
+
+Filter country shapes: https://wiki.openstreetmap.org/wiki/Osmfilter --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

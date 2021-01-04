@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mexico | Hugh&#39;s Curriculum Vitae</title>
+    <link>https://hughandbecky.us/Hugh-CV/tag/mexico/</link>
+      <atom:link href="https://hughandbecky.us/Hugh-CV/tag/mexico/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mexico</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2021</copyright><lastBuildDate>Mon, 12 Mar 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://hughandbecky.us/Hugh-CV/media/HughPaterson.jpg</url>
+      <title>Mexico</title>
+      <link>https://hughandbecky.us/Hugh-CV/tag/mexico/</link>
+    </image>
+    
+    <item>
+      <title>Meꞌphaa and Sochiapam Chinantec Keyboards</title>
+      <link>https://hughandbecky.us/Hugh-CV/project/2011-mexico-keyboards/</link>
+      <pubDate>Mon, 12 Mar 2012 00:00:00 +0000</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/project/2011-mexico-keyboards/</guid>
+      <description>&lt;p&gt;This project formalized my interest in the text input problem. While doing text input for the Meꞌphaa language documentation project it was imperative to get Unicode encoded texts. I worked with Kevin Cline to create OS X and native Windows OS keyboards for Meꞌphaa writers.  We used 
+&lt;a href=&#34;http://scripts.sil.org/ukelele&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ukelele&lt;/a&gt; to create the OS X keyboards and  
+&lt;a href=&#34;https://web.archive.org/web/20170202084913/https://msdn.microsoft.com/en-us/globalization/keyboardlayouts.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Microsoft Keyboard Layout Creator (MSKLC)&lt;/a&gt; to create the Windows keyboards.&lt;/p&gt;
+&lt;p&gt;Upon hearing of my new found skills, language users from the Sochiapam Chinantec community asked me to make an OS X keyboard for their language. In both cases existing keyboard layouts were matched to synchronize the user experience across the OSes.&lt;/p&gt;
+&lt;p&gt;Some of the design choices in the original layouts did not make sense to me. Hence the birth of the 
+&lt;a href=&#34;https://hughandbecky.us/Hugh-CV/project/2014-typing-expereince/&#34;&gt;The minority language typing experience&lt;/a&gt; project.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Meꞌphaa Language Documentation</title>
+      <link>https://hughandbecky.us/Hugh-CV/project/2011-mexico-documentation/</link>
+      <pubDate>Sat, 12 Mar 2011 00:00:00 +0000</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/project/2011-mexico-documentation/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://hughandbecky.us/Hugh-CV/project/2012-Mexico/File-man.jpg&#34; alt=&#34;Hugh in recording&#34;&gt;
+Grammarian of digital file names is the loneliest job of them all.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://www.mexico.sil.org/publications/i-wpindex/work_papers_-_mephaa_grammar_files&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Corpus of descriptive work&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Meꞌphaa Language Documentation</title>
+      <link>https://hughandbecky.us/Hugh-CV/project/2011-mexico/</link>
+      <pubDate>Sat, 12 Mar 2011 00:00:00 +0000</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/project/2011-mexico/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;File-man.jpg&#34; alt=&#34;Hugh in recording&#34;&gt;
+Grammarian of digital file names is the loneliest job of them all.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://www.mexico.sil.org/publications/i-wpindex/work_papers_-_mephaa_grammar_files&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Corpus of descriptive work&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CNRS | Hugh&#39;s Curriculum Vitae</title>
+    <link>https://hughandbecky.us/Hugh-CV/tag/cnrs/</link>
+      <atom:link href="https://hughandbecky.us/Hugh-CV/tag/cnrs/index.xml" rel="self" type="application/rss+xml" />
+    <description>CNRS</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2021</copyright><lastBuildDate>Mon, 27 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://hughandbecky.us/Hugh-CV/media/HughPaterson.jpg</url>
+      <title>CNRS</title>
+      <link>https://hughandbecky.us/Hugh-CV/tag/cnrs/</link>
+    </image>
+    
+    <item>
+      <title>RefLex User Interaction Design</title>
+      <link>https://hughandbecky.us/Hugh-CV/project/2020-reflex/</link>
+      <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/project/2020-reflex/</guid>
+      <description>&lt;p&gt;This was a grant funded project which was tasked to look at the user interaction around RefLex, a web platform which allows linguists to interact with comparative language data for the languages of Africa. The acomplished task was to make recomendations for improved user interaction, lowering barriers to use, and then to create visualizations for what those recomendations might look like. All work was conducted under the admintrative supervision of 
+&lt;a href=&#34;http://llacan.vjf.cnrs.fr/p_segerer.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Guillaume Segerer&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Some of the final recomendations included updating web security practices to increase user trust. Creating visible changes to guide users through common workflows. Creating a visual design language so that visual layout would present less cognitive disidence.&lt;/p&gt;
+&lt;p&gt;Visual design for applications dealing with linguistic concepts and scores of languages remains an under-researched area of design and user experience analysis.&lt;/p&gt;
+&lt;hr&gt;
+
+
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-the-starting-design-of-reflex&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/project/2020-reflex/featured_huc794e2ed33b3f2280094ec8507fab6c2_559968_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;The starting design of RefLex&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/project/2020-reflex/featured_huc794e2ed33b3f2280094ec8507fab6c2_559968_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;The starting design&#34; width=&#34;1912&#34; height=&#34;1294&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;p&gt;The starting design of RefLex
+      
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;https://hughandbecky.us/Hugh-CV&#34;&gt; 
+Hugh Paterson III
+&lt;/a&gt; &lt;/span&gt;
+&lt;/p&gt;
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;Several Visual alternatives were part of the final product.
+
+
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-a-dark-theme-design&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/project/2020-reflex/GS4-Dark-Landing-Page_hu52d7857c42a49063307d1cc00ce85e0a_513604_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;A &amp;amp;lsquo;dark theme&amp;amp;rsquo; design&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/project/2020-reflex/GS4-Dark-Landing-Page_hu52d7857c42a49063307d1cc00ce85e0a_513604_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;A &amp;#39;dark theme&amp;#39; design&#34; width=&#34;2520&#34; height=&#34;1692&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;p&gt;A &amp;lsquo;dark theme&amp;rsquo; design
+      
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;https://hughandbecky.us/Hugh-CV&#34;&gt; 
+Hugh Paterson III
+&lt;/a&gt; &lt;/span&gt;
+&lt;/p&gt;
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+&lt;/p&gt;
+
+
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-a-playful-theme-design&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/project/2020-reflex/GS3-Landing-Page-playful_huc2ab14b2c524f3e24885ebf1fe72da83_245393_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;A playful theme design&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/project/2020-reflex/GS3-Landing-Page-playful_huc2ab14b2c524f3e24885ebf1fe72da83_245393_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;A playful theme design&#34; width=&#34;2520&#34; height=&#34;1692&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;p&gt;A playful theme design
+      
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;https://hughandbecky.us/Hugh-CV&#34;&gt; 
+Hugh Paterson III
+&lt;/a&gt; &lt;/span&gt;
+&lt;/p&gt;
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-resource-search-screen&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/project/2020-reflex/GS2-Resource-Search-1_hu760f6b20cd804991a68fb942b9d10491_162063_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Resource Search Screen&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/project/2020-reflex/GS2-Resource-Search-1_hu760f6b20cd804991a68fb942b9d10491_162063_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;Resource Search Screen&#34; width=&#34;1260&#34; height=&#34;846&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;p&gt;Resource Search Screen
+      
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;https://hughandbecky.us/Hugh-CV&#34;&gt; 
+Hugh Paterson III
+&lt;/a&gt; &lt;/span&gt;
+&lt;/p&gt;
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;!--
+one of the things is creating a language selector, iconizing it.
+
+https://usersnap.com/blog/design-language-switch
+https://phrase.com/blog/posts/how-to-select-fonts-when-localizing-apps-and-websites --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

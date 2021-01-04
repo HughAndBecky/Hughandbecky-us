@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>University of Hawaiʻi at Mānoa | Hugh&#39;s Curriculum Vitae</title>
+    <link>https://hughandbecky.us/Hugh-CV/institutions/university-of-hawai%CA%BBi-at-manoa/</link>
+      <atom:link href="https://hughandbecky.us/Hugh-CV/institutions/university-of-hawai%CA%BBi-at-manoa/index.xml" rel="self" type="application/rss+xml" />
+    <description>University of Hawaiʻi at Mānoa</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2021</copyright><lastBuildDate>Sun, 03 Mar 2019 00:00:00 +1100</lastBuildDate>
+    <image>
+      <url>https://hughandbecky.us/Hugh-CV/media/HughPaterson.jpg</url>
+      <title>University of Hawaiʻi at Mānoa</title>
+      <link>https://hughandbecky.us/Hugh-CV/institutions/university-of-hawai%CA%BBi-at-manoa/</link>
+    </image>
+    
+    <item>
+      <title>Copyright and the distributed lexicon</title>
+      <link>https://hughandbecky.us/Hugh-CV/talk/2019-copyright-and-the-distributed-lexicon/</link>
+      <pubDate>Sun, 03 Mar 2019 00:00:00 +1100</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/talk/2019-copyright-and-the-distributed-lexicon/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

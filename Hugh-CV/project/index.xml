@@ -1,0 +1,854 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Hugh&#39;s Curriculum Vitae</title>
+    <link>https://hughandbecky.us/Hugh-CV/project/</link>
+      <atom:link href="https://hughandbecky.us/Hugh-CV/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2021</copyright><lastBuildDate>Mon, 10 Aug 2020 09:30:22 -0700</lastBuildDate>
+    <image>
+      <url>https://hughandbecky.us/Hugh-CV/media/HughPaterson.jpg</url>
+      <title>Projects</title>
+      <link>https://hughandbecky.us/Hugh-CV/project/</link>
+    </image>
+    
+    <item>
+      <title>Kainji Bibliography</title>
+      <link>https://hughandbecky.us/Hugh-CV/project/2020-kainji-bibliography/</link>
+      <pubDate>Mon, 10 Aug 2020 09:30:22 -0700</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/project/2020-kainji-bibliography/</guid>
+      <description>&lt;h2 id=&#34;about-authors-in-the-biblography&#34;&gt;About authors in the Biblography&lt;/h2&gt;
+&lt;p&gt;Rebecca Paterson&lt;/p&gt;
+&lt;p&gt;Stuart John McGill&lt;/p&gt;
+&lt;p&gt;Clark D. Regnier&lt;/p&gt;
+&lt;p&gt;Clement Tuko&lt;/p&gt;
+&lt;p&gt;John Bendor-Samuel&lt;/p&gt;
+&lt;p&gt;Roger M. Blench&lt;/p&gt;
+&lt;p&gt;Stephen Dettweiler&lt;/p&gt;
+&lt;p&gt;Sonia Dettweiler&lt;/p&gt;
+&lt;p&gt;P. G. Harris&lt;/p&gt;
+&lt;p&gt;David Heath&lt;/p&gt;
+&lt;p&gt;Carleen Heath&lt;/p&gt;
+&lt;p&gt;Hugh Paterson III&lt;/p&gt;
+&lt;h3 id=&#34;major-sources-of-resources-include&#34;&gt;Major sources of resources include&lt;/h3&gt;
+&lt;p&gt;McGill&amp;rsquo;s SOAS deposit
+Blench&amp;rsquo;s manuscripts
+Paterson&amp;rsquo;s Data Trove
+Detweiler&amp;rsquo;s content
+Undigitized content at the Paterson house.&lt;/p&gt;
+&lt;h3 id=&#34;resources-about-how-the-biblography-is-managed&#34;&gt;Resources about how the Biblography is managed&lt;/h3&gt;
+&lt;p&gt;A spreadsheet looking at major aggregation platforms:
+&lt;a href=&#34;https://docs.google.com/spreadsheets/d/1rDTthGvUkmC5UrRyNoVrE1QIEeA0BZjJ7n3F49I3I4U/edit?usp=sharing&#34;&gt;https://docs.google.com/spreadsheets/d/1rDTthGvUkmC5UrRyNoVrE1QIEeA0BZjJ7n3F49I3I4U/edit?usp=sharing&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;A document describing how we are approaching the annotated Bibliography.
+&lt;a href=&#34;https://docs.google.com/document/d/1whZPFPZ4lAg7GigHdfGo2e-Qnz47wDPYZUYuMrxfyLI/edit?usp=sharing&#34;&gt;https://docs.google.com/document/d/1whZPFPZ4lAg7GigHdfGo2e-Qnz47wDPYZUYuMrxfyLI/edit?usp=sharing&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>u̱t‑Maꞌin oral histories and narratives</title>
+      <link>https://hughandbecky.us/Hugh-CV/project/2017-utmatin-oral-history/</link>
+      <pubDate>Mon, 10 Aug 2020 09:30:22 -0700</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/project/2017-utmatin-oral-history/</guid>
+      <description>&lt;p&gt;Becky received a grant to facilitate the collection of oral story data. The terms of the grant require her to record and archive oral histories of U̠t-Ma&amp;rsquo;in speakers. My role in this project was to work with U̠t-Ma&amp;rsquo;in speakers (who actually did the recordings themselves) and present these to the Becky in way that she could arrange the files for archiving. In my role I got to visit around 40 different places in 7 different dialects. All from the back of a motorbike.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>chepang annotated bibliography</title>
+      <link>https://hughandbecky.us/Hugh-CV/project/2020-chepang-bibliography/</link>
+      <pubDate>Fri, 12 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/project/2020-chepang-bibliography/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RefLex User Interaction Design</title>
+      <link>https://hughandbecky.us/Hugh-CV/project/2020-reflex/</link>
+      <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/project/2020-reflex/</guid>
+      <description>&lt;p&gt;This was a grant funded project which was tasked to look at the user interaction around RefLex, a web platform which allows linguists to interact with comparative language data for the languages of Africa. The acomplished task was to make recomendations for improved user interaction, lowering barriers to use, and then to create visualizations for what those recomendations might look like. All work was conducted under the admintrative supervision of 
+&lt;a href=&#34;http://llacan.vjf.cnrs.fr/p_segerer.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Guillaume Segerer&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Some of the final recomendations included updating web security practices to increase user trust. Creating visible changes to guide users through common workflows. Creating a visual design language so that visual layout would present less cognitive disidence.&lt;/p&gt;
+&lt;p&gt;Visual design for applications dealing with linguistic concepts and scores of languages remains an under-researched area of design and user experience analysis.&lt;/p&gt;
+&lt;hr&gt;
+
+
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-the-starting-design-of-reflex&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/project/2020-reflex/featured_huc794e2ed33b3f2280094ec8507fab6c2_559968_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;The starting design of RefLex&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/project/2020-reflex/featured_huc794e2ed33b3f2280094ec8507fab6c2_559968_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;The starting design&#34; width=&#34;1912&#34; height=&#34;1294&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;p&gt;The starting design of RefLex
+      
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;https://hughandbecky.us/Hugh-CV&#34;&gt; 
+Hugh Paterson III
+&lt;/a&gt; &lt;/span&gt;
+&lt;/p&gt;
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;Several Visual alternatives were part of the final product.
+
+
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-a-dark-theme-design&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/project/2020-reflex/GS4-Dark-Landing-Page_hu52d7857c42a49063307d1cc00ce85e0a_513604_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;A &amp;amp;lsquo;dark theme&amp;amp;rsquo; design&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/project/2020-reflex/GS4-Dark-Landing-Page_hu52d7857c42a49063307d1cc00ce85e0a_513604_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;A &amp;#39;dark theme&amp;#39; design&#34; width=&#34;2520&#34; height=&#34;1692&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;p&gt;A &amp;lsquo;dark theme&amp;rsquo; design
+      
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;https://hughandbecky.us/Hugh-CV&#34;&gt; 
+Hugh Paterson III
+&lt;/a&gt; &lt;/span&gt;
+&lt;/p&gt;
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+&lt;/p&gt;
+
+
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-a-playful-theme-design&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/project/2020-reflex/GS3-Landing-Page-playful_huc2ab14b2c524f3e24885ebf1fe72da83_245393_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;A playful theme design&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/project/2020-reflex/GS3-Landing-Page-playful_huc2ab14b2c524f3e24885ebf1fe72da83_245393_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;A playful theme design&#34; width=&#34;2520&#34; height=&#34;1692&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;p&gt;A playful theme design
+      
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;https://hughandbecky.us/Hugh-CV&#34;&gt; 
+Hugh Paterson III
+&lt;/a&gt; &lt;/span&gt;
+&lt;/p&gt;
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-resource-search-screen&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/project/2020-reflex/GS2-Resource-Search-1_hu760f6b20cd804991a68fb942b9d10491_162063_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Resource Search Screen&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/project/2020-reflex/GS2-Resource-Search-1_hu760f6b20cd804991a68fb942b9d10491_162063_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;Resource Search Screen&#34; width=&#34;1260&#34; height=&#34;846&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;p&gt;Resource Search Screen
+      
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;https://hughandbecky.us/Hugh-CV&#34;&gt; 
+Hugh Paterson III
+&lt;/a&gt; &lt;/span&gt;
+&lt;/p&gt;
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;!--
+one of the things is creating a language selector, iconizing it.
+
+https://usersnap.com/blog/design-language-switch
+https://phrase.com/blog/posts/how-to-select-fonts-when-localizing-apps-and-websites --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Automatic Speech Recognition</title>
+      <link>https://hughandbecky.us/Hugh-CV/project/2019-automatic-speech-recognition/</link>
+      <pubDate>Tue, 12 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/project/2019-automatic-speech-recognition/</guid>
+      <description>&lt;p&gt;Currently I am working with easy to get speech data. This includes a Language of Nepal, a language of Nigeria and a language of Tanzania.&lt;/p&gt;
+&lt;p&gt;Tools I use or have found interesting are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://github.com/dmort27/epitran&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Epitran&lt;/a&gt; - A tool for transcribing orthographic text as IPA (International Phonetic Alphabet) &lt;!-- the team building it is working out of this doc: https://docs.google.com/spreadsheets/d/1Z0pz22DXYw5CIp2Eo6ODbrTojqfq3e4jGjguZjbGqWE/edit#gid=1782468899 --&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Business Maturity Canvas</title>
+      <link>https://hughandbecky.us/Hugh-CV/project/2019-business-maturity-canvas/</link>
+      <pubDate>Mon, 18 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/project/2019-business-maturity-canvas/</guid>
+      <description>&lt;p&gt;This project was a collaboration with 
+&lt;a href=&#34;https://twitter.com/stevemoitozo2?lang=en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Steve Moitiozo&lt;/a&gt;. He generally has the conversations, and therefore provided the content fodder. I facilitated graphical design of these ideas. I provided the canvas layout and graphic design.&lt;/p&gt;
+&lt;p&gt;The project resulted in two tools. A canvas which helps a business &amp;ldquo;owner&amp;rdquo; or and entrepreneur discover where their business is currently and what sorts of actions they should be looking at to determine how their business fits into the market.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://hughandbecky.us/Hugh-CV/project/2019-business-maturity-canvas/Business-Model-Fit-canvas-v1.pdf&#34;&gt;Canvas&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://hughandbecky.us/Hugh-CV/project/2019-business-maturity-canvas/Business-Model-Fit-Worksheet.pdf&#34;&gt;Worksheet&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>R-90</title>
+      <link>https://hughandbecky.us/Hugh-CV/project/2018-sil-idx-r-90/</link>
+      <pubDate>Mon, 12 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/project/2018-sil-idx-r-90/</guid>
+      <description>&lt;!-- SIL Drive link Search features https://docs.google.com/document/d/18PbS8dewSWNqDdkPLoqkROYvPEJYFtyb3qJ7BFvG_pA/edit --&gt;
+&lt;!-- personal drive link https://docs.google.com/document/d/1zHq0P7-FF2XmgKkMWKrJrDI2lPlak3L6hO-UbcfgDhc/edit --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Legal frameworks in language research</title>
+      <link>https://hughandbecky.us/Hugh-CV/project/2018-rights-issues-in-language-data/</link>
+      <pubDate>Sat, 10 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/project/2018-rights-issues-in-language-data/</guid>
+      <description>&lt;p&gt;In the process of doing research for the paper &amp;ldquo;Copyright and the distributed Lexicon. I started to realize that one very useful tool would be to have a refernece for copyright terms and scope related to a national framework where an indegious community might be located.&lt;/p&gt;
+&lt;p&gt;Additionally there are other legal issues to consider when doing language research work. These also need to be researchable and associated with languages for those looking to do language research work. This project seeks to make such resources more easily discoverable.&lt;/p&gt;
+&lt;p&gt;The following links are a good starting point:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://zenodo.org/record/1470537&#34;&gt;https://zenodo.org/record/1470537&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.allea.org/working-groups/overview/permanent-working-group-intellectual-property-rights/&#34;&gt;https://www.allea.org/working-groups/overview/permanent-working-group-intellectual-property-rights/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.google.com/document/d/1_JnqZatR0HV7RkFd9jmZPWjgqOuZ71HOCJEv4McMbis/edit#heading=h.umsl4u9hziyj&#34;&gt;https://docs.google.com/document/d/1_JnqZatR0HV7RkFd9jmZPWjgqOuZ71HOCJEv4McMbis/edit#heading=h.umsl4u9hziyj&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.clarin-d.net/de/legal-issues-bibleography&#34;&gt;https://www.clarin-d.net/de/legal-issues-bibleography&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://legaldh.hypotheses.org/292&#34;&gt;https://legaldh.hypotheses.org/292&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://hcommons.org/deposits/item/hc:15109/&#34;&gt;https://hcommons.org/deposits/item/hc:15109/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.dariah.eu/activities/working-groups/ethics-and-legality-in-the-digital-arts-and-humanities-eldah/&#34;&gt;https://www.dariah.eu/activities/working-groups/ethics-and-legality-in-the-digital-arts-and-humanities-eldah/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>U̠t-Ma&#39;in Lexicography</title>
+      <link>https://hughandbecky.us/Hugh-CV/project/2017-utmatin-lexicography/</link>
+      <pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/project/2017-utmatin-lexicography/</guid>
+      <description>&lt;p&gt;This project includes combining and collating several U̠t-Ma&amp;rsquo;in databases that Becky Paterson has created over the 12 years she has worked with the U̠t-Ma&amp;rsquo;in language community. We are also importing as many Hausa terms as possible for specific elicitation (such as regional plants and animals). The final database includes grammatical features of individual lexemes. We are including various external analyses from phonology tools. None of this data is currently public. But when it is, a link from here will be posted.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Legal issues in linguistics, Language Documentation &amp; Language Development</title>
+      <link>https://hughandbecky.us/Hugh-CV/project/2017-legal-issues-in-linguistics/</link>
+      <pubDate>Sat, 18 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/project/2017-legal-issues-in-linguistics/</guid>
+      <description>&lt;p&gt;This project started out with a personal interest in the variation of copyright law as it is applied to language documentation materials from a global perspective (different location and different citizens). This was percieved as important for global nomads who engage in linguistic tourism, and who believe in archiving data. Some simple investagation has shown that there is a lot more than &amp;lsquo;just copyright&amp;rsquo; which impacts the multi-laterial relationship(s) between the law and legal policy,  the vitality of languages, and the availability of linguistic or language based resources. Several collaborations and discussions have bennefitted from this research. Ultimatly the results of this research should be in a browsable database, not in some sort of publication.&lt;/p&gt;
+&lt;p&gt;Investigation and design is still ongoing, but a rough sketch is provided.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;Legislation_Impacting_Language.png&#34; alt=&#34;Leagal item browser for language impact&#34; title=&#34;Draft UI&#34;&gt;&lt;/p&gt;
+&lt;!-- This is where access to the air-table account would be nice. To look at all the inter country relationships. I think that the account is still there but only accessale with the hugh_paterson@sil.org email address.--&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Wasta Linux additions for the language scientist.</title>
+      <link>https://hughandbecky.us/Hugh-CV/project/2017-wasta-language-scientist/</link>
+      <pubDate>Mon, 09 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/project/2017-wasta-language-scientist/</guid>
+      <description>&lt;p&gt;#I should make this image the wasta logo plus all the other logos I am using.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An Awesome list of Software for Endangered Languages</title>
+      <link>https://hughandbecky.us/Hugh-CV/project/2016-awesome-list/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/project/2016-awesome-list/</guid>
+      <description>&lt;p&gt;Head over to Github everything is over there.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Linguistic Services Planning</title>
+      <link>https://hughandbecky.us/Hugh-CV/project/2015-linguistic-services-planning/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/project/2015-linguistic-services-planning/</guid>
+      <description>&lt;p&gt;This work was housed under SIL International&amp;rsquo;s Language Program Training (ILPT) department. I was able to help facilitate service design conversations both inside and outside the department. We used the business model canvas to capture business activities. We were then able to use the 
+&lt;a href=&#34;https://www.expressiveproductdesign.com/value-proposition-canvas/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Value Proposition Canvas&lt;/a&gt; to talk about how we might add value to our customers by addressing their pain points. We wanted to know what a more valued service might look like to our customers.&lt;/p&gt;
+&lt;p&gt;We also introduced a service maturity model to help business plan owners look at the maturity of their business model and service and pursue growth opportunities.&lt;/p&gt;
+&lt;p&gt;Often in business modeling final solutions &lt;em&gt;pencil out&lt;/em&gt; in financial numbers. With NGO work we have multiple non-traditional applications of the Business Model Canvas. For instance:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;We have customers who are not the payees.&lt;/li&gt;
+&lt;li&gt;We have social impact goals compete with financial goals.&lt;/li&gt;
+&lt;li&gt;We have income streams which are not directly tied to output services rendered or products produced.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- ILPT sprint on SIL.org: https://docs.google.com/document/d/11YaN1OIquiXMHahKFBjc-ws6opY6bJCZMMlkh2AEmQI/edit --&gt;
+&lt;!-- Additional work was done to template inter-agency contracts for services https://docs.google.com/document/d/1QP0vycT5fYyKNc_90Jn4UuUugzgJXvDGJzvdzxig1cM/edit?usp=sharing --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SIL Communication Strategy Consulting</title>
+      <link>https://hughandbecky.us/Hugh-CV/project/2017-sil-ils-communications/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/project/2017-sil-ils-communications/</guid>
+      <description>&lt;p&gt;This project is about creating a work environment where people are informed about the services and products that the organization is able to offer. It is about breaking down communication silos and working across corporate structures to create a unified workforce.
+I have the ongoing privilege of consulting with department heads and team leaders on interdepartmental communication and audience engagement strategies. Often this involves creative uses of technology and creating data management plans and publishing work flows. At SIL International we use 
+&lt;a href=&#34;https://mailchimp.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MailChimp&lt;/a&gt;, and 
+&lt;a href=&#34;https://www.atlassian.com/software/confluence&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Confluence&lt;/a&gt; to meet these communication needs.&lt;/p&gt;
+&lt;p&gt;SIL International is over 80 years old. A majority of its staff are 
+&lt;a href=&#34;https://en.wikipedia.org/wiki/Baby_boomers&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Baby-boomers&lt;/a&gt;. Currently work flows, even digital ones, usually mirror processes set up in paper based work enviroments.  SIL International as an organization has organizational units of various sizes in various locations of the world. Many of these units are also distributed teams. In the broader business world the battle for effective team communications is generally characterized as a battle between &lt;em&gt;looking in the inbox&lt;/em&gt; and &lt;em&gt;using the browser&lt;/em&gt; for information, collaboration, and connectivity. Tools like 
+&lt;a href=&#34;https://www.theverge.com/2014/8/12/5991005/slack-is-killing-email-yes-really&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;#slack&lt;/a&gt;, and 
+&lt;a href=&#34;https://www.fastcompany.com/3035927/inside-the-company-that-got-rid-of-email&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;management decisions to look for more effective team communications platforms&lt;/a&gt; have tried to push email our of use. In SIL International the very diverse nature of the workforce presents challenges to those with low-bandwidth connectivity.&lt;/p&gt;
+&lt;p&gt;We use a two prong communications approach. Email and corporate blog use. For Email we use Mailchimp. For the corporate blog we use Confluence Wiki.&lt;/p&gt;
+&lt;p&gt;SIL International deployed Confluence company wide in 2008 as a white board for people in the organization to use within their organizational unit. By 2011 the wiki had evolved into a platform for departmental websites and had supplanted official information repositories for official documentation. This has made the platform invaluable for interdepartmental communications.&lt;/p&gt;
+&lt;p&gt;In 2015 various organizational units within SIL International started to independently use Mailchimp.&lt;/p&gt;
+&lt;p&gt;Due to the highly transitional nature of SIL International staff, it is often the case that SIL staff do not have the knowledge base needed to leverage the capacities of these two systems. My role is often to demonstrate features relevant to business goals.&lt;/p&gt;
+&lt;p&gt;I have engaged with:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;SIL International Language and Culture Archive&lt;/li&gt;
+&lt;li&gt;SIL International Language Program Training&lt;/li&gt;
+&lt;li&gt;SIL International Language Program Services&lt;/li&gt;
+&lt;li&gt;SIL International External Communications&lt;/li&gt;
+&lt;li&gt;SIL Intellectual Property Team&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!--  
+Two other links are: https://www.forbes.com/sites/tykiisel/2011/11/30/ceo-bans-email/
+and
+https://hbr.org/2016/06/some-companies-are-banning-email-and-getting-more-done
+--&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The minority language typing experience</title>
+      <link>https://hughandbecky.us/Hugh-CV/project/2014-typing-experience/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/project/2014-typing-experience/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Previous work&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;This project follows and builds upon the project where 
+&lt;a href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/project/2012-mexico-keyboards/&#34;&gt;keyboard layouts for Meꞌphaa and Sochiapam Chinantec&lt;/a&gt; were produced. This project uses data from Meꞌphaa and Sochiapam Chinantec but purposely extends the scope of the analysis to include Latin and Cyrillic script languages, particularly focusing on those with diacritics which express tone.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Goals&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;The goal of this project is to bring &amp;lsquo;natural&amp;rsquo;, intuitive, and easy to use typing experiences in the form of keyboard layout designs to minority language users. These language users often do not type in their own languages, but rather experience technology through languages other than their first language. This is in part because of the perception that their language is complex or not easy to type, which is often not an invalid observation. However, with these languages which have different and sometimes more characters than English, what does a good layout look like?
+The objectives of this project are threefold:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;To establish a consistent method to evaluate the appropriateness of a keyboard layout for a specific language situation given a specific text sample. This needs to include &lt;code&gt;deadkeys&lt;/code&gt; and &lt;code&gt;alt&lt;/code&gt; states.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;This needs to account for monolingual situations&lt;/li&gt;
+&lt;li&gt;This needs to account for multi-lingual situations where each language has its own keyboard&lt;/li&gt;
+&lt;li&gt;This needs to account for multi-lingual situations where only a single keyboard is used&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;Provide a best fit solution recommendation when provided the following:&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;A corpus of text encoded in UTF-16 or UTF-8 in any language&lt;/li&gt;
+&lt;li&gt;A user selected choice between a physical keyboard layout of ANSI, ISO, or JIS
+The application providing the best fit solution needs to be able to suggest a better layout, inclusive of &lt;code&gt;alt&lt;/code&gt; states and &lt;code&gt;deadkey&lt;/code&gt; options.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;Assess and analyze real user feedback. That is, measure the impacts of keyboards on users. Speed of typing, speed of keyboard acquisition, error rate, and results such as language choice when typing.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;span class=&#34;fa fa-github fa-2x&#34;&gt;&lt;/span&gt; Project resources are split into three repos: 
+&lt;a href=&#34;https://github.com/HughP/MLKA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MLKA&lt;/a&gt;, 
+&lt;a href=&#34;https://github.com/HughP/MLKA-Bash-data&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MLKA-Bash-data&lt;/a&gt;, and 
+&lt;a href=&#34;https://github.com/HughP/MLKA-Test-Data&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MLKA-Test-Data&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>User Experience Consulting on SIL.org</title>
+      <link>https://hughandbecky.us/Hugh-CV/project/2013-sil-org/</link>
+      <pubDate>Thu, 23 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/project/2013-sil-org/</guid>
+      <description>&lt;p&gt;Lots of people have lots to say about User Experience. Most of it is fancy talk for &amp;ldquo;How much can you pay me to work on your website&amp;hellip;&amp;rdquo;. When we get beyond that level of discussion, there are some real issues and methods to building websites that people are &lt;em&gt;proud to own&lt;/em&gt;, and &lt;em&gt;proud to use&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Google&amp;rsquo;s search page makes them lots of money and people use it all the time. It even won the popular search war against &lt;em&gt;Yahoo!&lt;/em&gt; Facebook has a website that millions of people use every day. At some point a well designed website stops being a website in the minds of users and becomes a place where they work, hangout, arrange meetings, etc. When users stop realizing they are on a website, that is when I feel we have moved into a place in design where we are close to perfect for that situation.&lt;/p&gt;
+&lt;p&gt;Between 2010 and 2016 I worked with a team to bring modern features via Drupal 7 to the flagship website of SIL International. But I have also worked on WordPress sites (not for SIL) since 2005. And I consulted on a variety of other SIL web projects (some of them on WordPress).&lt;/p&gt;
+&lt;p&gt;My work with SIL started with a report that they were not using a &lt;code&gt;print.css&lt;/code&gt; file on the SIL Bibliography in 2006 and were wasting a lot of ink when people were printing pages. I think this was corrected by 2009. This was typical for the pace of technical innovative change. SIL is a very corporate feature focused development environment.&lt;/p&gt;
+&lt;p&gt;Within User Experience studies, there is at least two ways to apply the term (UX): &lt;em&gt;The design of experiences that a corporation wants their customers to engage in&lt;/em&gt;, and &lt;em&gt;the  way that people take an object (product) and decide to use it&lt;/em&gt;. Both are important, but how a company approaches either of these facets and how they relate that approach back to their other business goals scopes the relevance of User Experience Design within the organization.&lt;/p&gt;
+&lt;p&gt;Successful interactions depend on both points of view and the metrics of success.&lt;/p&gt;
+&lt;p&gt;SIL.org is an interesting use case in UX design for at least 5 reasons:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;SIL has several major areas of very public interactions which it engages with to various degrees in various parts of the world — but the Internet is flat.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Advocacy with public policy making bodies regarding the needs of minority language speakers.&lt;/li&gt;
+&lt;li&gt;Publishing and sales of professional resources and materials.&lt;/li&gt;
+&lt;li&gt;Bible translation.&lt;/li&gt;
+&lt;li&gt;Educational programs (both formal and workshop style) in linguistics and language development.&lt;/li&gt;
+&lt;li&gt;Mother tongue Multi-lingual educational programs.&lt;/li&gt;
+&lt;li&gt;Minority language literacy (both integrated with national educational programs, and community sponsored programs, for children and adults).&lt;/li&gt;
+&lt;li&gt;NGOs and development agencies.&lt;/li&gt;
+&lt;li&gt;Innovative computer technology development related to non-English typesetting and computing.&lt;/li&gt;
+&lt;li&gt;Innovative creative access power solutions (like solar).&lt;/li&gt;
+&lt;li&gt;Sustainable logistical support for difficult to access project locations (usually via air).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;SIL has historically had a very fractured internal identity, and a very decentralized governance, which has not required a high degree of uniformity throughout the organization. Digital infrastructure projects stress these social norms.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Within the organization web-presence has come to be regarded as the officiating act recognition of an internal group&amp;rsquo;s merit.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Different people within the organization have strong opinions about how the world should view the organization — which are reflected in what they think the organization should say about itself — including the interactions that the organization provides to the people who interact on its website.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Globally, the Internet is going mobile, and SIL struggles between generating the informatic thrill need to entice donors, visual storytelling needed to facilitate product distribution and training needs of its product users, and high level information needs of politicians, and staffs of other NGOs to seed future partnerships.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Quantitatively, most people come to SIL.org to learn about linguistics, or the plethora of digital tools that SIL distributes via sil.org, or the vast number of resources .&lt;/p&gt;
+&lt;!--
+Rebranding SIL Journals
+
+Journal of phonological description
+Journal of grammatical description
+Journal of descriptive and comparative dialectology
+Journal of orthographic description and history
+Journal of sociolinguistic description
+--&gt;
+&lt;!--  8 May 2013-  I sometimes wonder if Vision2025 applied to sil.org is to shut the website down and turn it off. If every language which needs a Bible Translation will have a project started by 2025. Then there really is no place left for SIL after that and why would SIL need a website then?
+
+
+
+:: because we all believe that Bible Translation is more important than Language Development and there will be no way to share what Christ did for us in humanity after 2025 through language development.
+
+:: because we all know that there will be no need for Bible Translation Revisions, after 2025... We got it right the first time...
+
+:: because SIL will have spent all its time and effort preaching to partners &#34;sustainability&#34; it will have none in the end...
+
+--&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Meꞌphaa and Sochiapam Chinantec Keyboards</title>
+      <link>https://hughandbecky.us/Hugh-CV/project/2011-mexico-keyboards/</link>
+      <pubDate>Mon, 12 Mar 2012 00:00:00 +0000</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/project/2011-mexico-keyboards/</guid>
+      <description>&lt;p&gt;This project formalized my interest in the text input problem. While doing text input for the Meꞌphaa language documentation project it was imperative to get Unicode encoded texts. I worked with Kevin Cline to create OS X and native Windows OS keyboards for Meꞌphaa writers.  We used 
+&lt;a href=&#34;http://scripts.sil.org/ukelele&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ukelele&lt;/a&gt; to create the OS X keyboards and  
+&lt;a href=&#34;https://web.archive.org/web/20170202084913/https://msdn.microsoft.com/en-us/globalization/keyboardlayouts.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Microsoft Keyboard Layout Creator (MSKLC)&lt;/a&gt; to create the Windows keyboards.&lt;/p&gt;
+&lt;p&gt;Upon hearing of my new found skills, language users from the Sochiapam Chinantec community asked me to make an OS X keyboard for their language. In both cases existing keyboard layouts were matched to synchronize the user experience across the OSes.&lt;/p&gt;
+&lt;p&gt;Some of the design choices in the original layouts did not make sense to me. Hence the birth of the 
+&lt;a href=&#34;https://hughandbecky.us/Hugh-CV/project/2014-typing-expereince/&#34;&gt;The minority language typing experience&lt;/a&gt; project.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Audio Digitization</title>
+      <link>https://hughandbecky.us/Hugh-CV/project/2010-americas-area-audio-digitization/</link>
+      <pubDate>Fri, 24 Feb 2012 00:00:00 +0000</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/project/2010-americas-area-audio-digitization/</guid>
+      <description>&lt;p&gt;This project involved the accession, cataloging and digitization of several collections. It also involved cataloging of multiple collections already accessioned but not yet cataloged. I was responsible for identifying and collecting metadata relevant for audio collections. I communicated with the SIL Language and Culture Archive staff when metadata schemas in place were insufficient for audio collections. I identified and recommended changes to metadata profiles used at the time by the Language and Culture Archives. I consulted industry best practices and established quality control procedures related to the digitization of cassette tapes and reel to reel tapes. I served as project manager, with a volunteer workforce.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Photo Digitization</title>
+      <link>https://hughandbecky.us/Hugh-CV/project/2010-americas-area-photo-digitization/</link>
+      <pubDate>Fri, 24 Feb 2012 00:00:00 +0000</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/project/2010-americas-area-photo-digitization/</guid>
+      <description>&lt;p&gt;I served as project manager, recruiting and supervising a volunteer workforce. Together we cataloged and scanned over 1000 photos.&lt;/p&gt;
+&lt;p&gt;We also repatriated some photos. We took old photo albums to reunions where former SIL staff identified persons and places in the images.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Text Digitization</title>
+      <link>https://hughandbecky.us/Hugh-CV/project/2010-americas-area-text-digitization/</link>
+      <pubDate>Fri, 24 Feb 2012 00:00:00 +0000</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/project/2010-americas-area-text-digitization/</guid>
+      <description>&lt;p&gt;I worked with the SIL Americas Area Access Coordinator to make language materials available to translators, researchers, and language development workers. There is a wealth of information that is simply inaccessible to those who could use it. I helped in the implementation of a system to make these materials available digitally, via the internet. Access to these materials affects the mechanics of language development and translation projects throughout the Americas Area and around the world.&lt;/p&gt;
+&lt;p&gt;I contributed in general to archiving processes related to text scanning, and the post processing of these scans into archival and distribution formats. I served as site manager and recruiter with a volunteer work force. I brokered accessions of older materials from their creators.
+I worked with IT staff to produce an automated reporting mechanism to track team progress.&lt;/p&gt;
+&lt;!--
+-- insert photos
+-- insert data progress chart --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Language Archive Usability</title>
+      <link>https://hughandbecky.us/Hugh-CV/project/2012-archive-usability/</link>
+      <pubDate>Sat, 18 Feb 2012 00:00:00 +0000</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/project/2012-archive-usability/</guid>
+      <description>&lt;p&gt;This project seeks to make known issues in &lt;em&gt;Language Resource Accessibility&lt;/em&gt;. It is primarily concerned with two facets of accessibility:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;the &lt;em&gt;User Experience&lt;/em&gt; related to interacting with archived content; and&lt;/li&gt;
+&lt;li&gt;the aggregation of item level metadata about language resources in collections.&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Geo-Linguistics</title>
+      <link>https://hughandbecky.us/Hugh-CV/project/2011-geo-linguistics/</link>
+      <pubDate>Sat, 12 Mar 2011 00:00:00 +0000</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/project/2011-geo-linguistics/</guid>
+      <description>&lt;p&gt;There are seven major sub-areas of this project:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Explaining cartographic concepts.&lt;/li&gt;
+&lt;li&gt;Explaining and reviewing tools for generating and processing the necessay data.&lt;/li&gt;
+&lt;li&gt;Creating population density visualizations.&lt;/li&gt;
+&lt;li&gt;Collecting place names and generating a map in Nigeria.&lt;/li&gt;
+&lt;li&gt;Creating a map of the language documentation files in the Meꞌphaa language documentation project.&lt;/li&gt;
+&lt;li&gt;Creating a map of the language documentation files in the U̠t-Ma&amp;rsquo;in language documentation project.&lt;/li&gt;
+&lt;li&gt;Creating several maps for Dan related to my M.A. thesis work.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;!-- Map making tools
+
+Import geo-names into QGIS: http://forum.geonames.org/gforum/posts/list/67.page
+QGIS to illustrator: https://vimeo.com/124793295
+Georeferencing Topo Sheets and Scanned Maps: http://www.qgistutorials.com/en/docs/georeferencing_basics.html
+
+https://mygeodata.cloud/converter/svg-to-kml
+https://bitbucket.org/tbrugz/kmlutils/wiki/HOWTO.en
+https://freegeographytools.com/2009/convertreproject-shapefiles-and-kml-files-to-svg-format-with-indiemapper
+
+https://bitbucket.org/voron-raven/maps
+
+Filter country shapes: https://wiki.openstreetmap.org/wiki/Osmfilter --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Meꞌphaa Language Documentation</title>
+      <link>https://hughandbecky.us/Hugh-CV/project/2011-mexico-documentation/</link>
+      <pubDate>Sat, 12 Mar 2011 00:00:00 +0000</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/project/2011-mexico-documentation/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://hughandbecky.us/Hugh-CV/project/2012-Mexico/File-man.jpg&#34; alt=&#34;Hugh in recording&#34;&gt;
+Grammarian of digital file names is the loneliest job of them all.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://www.mexico.sil.org/publications/i-wpindex/work_papers_-_mephaa_grammar_files&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Corpus of descriptive work&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Meꞌphaa Language Documentation</title>
+      <link>https://hughandbecky.us/Hugh-CV/project/2011-mexico/</link>
+      <pubDate>Sat, 12 Mar 2011 00:00:00 +0000</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/project/2011-mexico/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;File-man.jpg&#34; alt=&#34;Hugh in recording&#34;&gt;
+Grammarian of digital file names is the loneliest job of them all.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://www.mexico.sil.org/publications/i-wpindex/work_papers_-_mephaa_grammar_files&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Corpus of descriptive work&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Interdental approximant</title>
+      <link>https://hughandbecky.us/Hugh-CV/project/2010-interdental-approximant/</link>
+      <pubDate>Wed, 18 Jun 2008 08:18:27 -0700</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/project/2010-interdental-approximant/</guid>
+      <description>&lt;p&gt;This research project was spearheaded by Ken Olson. As a collaborator with him I focused on the historical linguistics status of the interdental approximant in Philippine languages. I also did a lot of library resources discovery and acquisition.&lt;/p&gt;
+&lt;p&gt;In this project description I have listed more than my contribution because I am not sure there is anywhere else that has pulled together the combined research on this topic.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Results &amp;amp; Significance&lt;/strong&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Ultrasound Study on the articulation of the interdental approximant.&lt;/li&gt;
+&lt;li&gt;Published phonetic descriptions of the interdental approximant.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Academic Output&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Publications&lt;/em&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Mielke, Jeff, Kenneth S. Olson, Adam Baker &amp;amp; Diana Archangeli. 2011. Articulation of the Kagayanen interdental approximant: An ultrasound study. Journal of Phonetics 39(3). 403–412. DOI: 
+&lt;a href=&#34;http://dx.doi.org/10.1016/j.wocn.2011.02.008&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1016/j.wocn.2011.02.008&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Olson, Kenneth S., Emy T. Ballenas &amp;amp; Nilo M. Borromeo. 2009. Buhi’non (Bikol) digital wordlist: Presentation form. Language Documentation &amp;amp; Conservation 3(2). 213–225. URI: 
+&lt;a href=&#34;http://hdl.handle.net/10125/4440&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://hdl.handle.net/10125/4440&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Olson, Kenneth S., Glenn Machlan &amp;amp; Nelson Amangao. 2008. Minangali (Kalinga) digital wordlist: Presentation form. Language Documentation &amp;amp; Conservation 2(1). 141–156. URI 
+&lt;a href=&#34;http://hdl.handle.net/10125/1772&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://hdl.handle.net/10125/1772&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Olson, Kenneth S. &amp;amp; Jeff Mielke. 2008. Acoustic properties of the interdental approximant in Kagayanen. Journal of the Acoustical Society of America 123(5). 3460. DOI: 
+&lt;a href=&#34;http://dx.doi.org/10.1121/1.2934307&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1121/1.2934307&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Related Academic Work&lt;/strong&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Matthew Harley (2012) Unusual sounds in Nigerian languages. In Advances in Minority Language Research in Nigeria Part I (eds.) Roger M. Blench and Stuart McGill. Kay Williamson Educational Foundation African languages Monographs No. 5. pages: 38-65. Rüdiger Köppe Verlag: Köln&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Follow-up work&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;It seems that the interdental approximant [ð̞] in Austronesian languages should challenge linguists in three important areas and thus deserves more thought and perhaps application in our theories. These categories are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The phonological status and interactions that happen with the segment.&lt;/li&gt;
+&lt;li&gt;The phonetic contrast of the segment.&lt;/li&gt;
+&lt;li&gt;The Historical status of the segment and the impact of its recognition in the Austronesian historical linguistic narrative.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Publications to date have focused on two relevant aspects of the interdental approximant:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;ð̞ is important in descriptive linguistics.&lt;/li&gt;
+&lt;li&gt;ð̞ is different phonetically from other described segments.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The following remain to be shown clearly in appropriate publications.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Phonetic contrast&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;What is the duration of the sound and what are the boarders?&lt;/li&gt;
+&lt;li&gt;Measure the stable section?&lt;/li&gt;
+&lt;li&gt;Where does it stop and where does it begin?&lt;/li&gt;
+&lt;li&gt;What is the acoustical (in terms of both production and perception) difference between /l/ and /ð̞ /?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The ulturasound study does provide a good starting point to answer these questions.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;ð̞ it has a unique spectrograph when compared with other liquids, vowels, and interdentals - especially within the same language.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;ð̞ is different from the native sounds of { l, a, ɐ, n, ʔ, d, g, r, s, h, x} which occur in Philippine languages.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;This has been done in small phonology descriptions but not full scale acoustically reference-able phonetic descriptions across the entire set of languages discussed in the &lt;em&gt;JIPA&lt;/em&gt; article.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;ð̞ is different from the borrowed sounds of { l, a, ɐ, n, ʔ, d, g, θ, ð, r, s, h, x, ɣ}&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;In terms of psycholinguistics the question remains,: &lt;em&gt;What are the unique properties of this sound as they are culturally defined?&lt;/em&gt; or to put this another way: &lt;em&gt;What are the acustic cues, what are the visual cues, and what are the cultural constraints that those cues may violate?&lt;/em&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;My research position suggests that there has been change. Change involves a variety of cognitive processes. Re-analysis is one such process. If I hypothesize that re-analysis has occurred, then what is the Cognitive load of this segment? How has that load shifted or why can it shift?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;What are the unique properties that users attribute to this segment as cross-linguistically defined (but keeping within Austronesian or the Austro-Tai hypotheses).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;What are those unique properties as Universally or empirically defined?&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;Historical Narrative&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;There is an open question with relationship to historical Austronesian as to what the metrical structure of the language was. If we posit some change in the metical structrue what relevance does that have on the interdental approximant? Does the concept of Phonetic Gemination apply?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;In some theories of 
+&lt;a href=&#34;https://en.wikipedia.org/wiki/Austro-Tai_languages&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Austro-Tai&lt;/a&gt; there is some relevance to constructing suprasegmental features and genisis or de-genesis processes for these features. In that contexts: &lt;em&gt;Is it possible that ð̞ is a tone bearing unit? (TBU)&lt;/em&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Interdental is contrastive with dental in Place in the IPA Chart
+ð̞ is important to PAn Historical Phonology Theory&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;ð̞ is related to several mergers and splits&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;ð̞ is PAn *R&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;ð̞ Shows that [+Nasal], historically, is, or is/and a super-segmental feature in Austronesian languages.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;ð̞ shows that there are fewer proto-phonemes than necessary in current models
+of PAn.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;ð̞ helps us to understand the PAn foot.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;ð̞ was represented in the baybin original orthography.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;ð̞ is relevant enough to be represented consistently in orthographies in the
+languages it occurs in.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Phonology&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;There are several open phonological questions. Some of these have answers in the cited materials, but the data is not always clear for all languages which also have interdental approximants.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;What are the claimed Phonemes of kangayen?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;It would be all the more the claim that ð̞ is phonemic not due to a split. If it is a retention then this perspective has more weight.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;What is the ð̞ pattern concerning natural classes.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;In a feature geometry perspective, what features does ð̞ have.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Some Austornesian language have Metathesis. Is this metathesis process triggered in any way by the ð̞?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;ð̞ has moraic value - what is it?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;What is the affect of ð̞ on vowel quality?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;In what ways can we measure the impact that ð̞ has on cognitive load?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Does the ð̞ occur in multiple areas of the lexicon&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;To do this a survey of the texts should be used to evaluated the
+location of ð̞ in the lexicon. One resource for texts could be:&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Grayden, Bruce. 1978. &amp;ldquo;Southern Kalinga [language text].&amp;rdquo; In Evan L. Antworth (ed.),
+Folktale texts, 13-23. Studies in Philippine Linguistics, 2(2). Manila: Linguistic Society of the Philippines and Summer Institute of Linguistics.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;What do I want to research?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Why is it important?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;How do I want to research it?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;What is the Problem?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;What is the Solution?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;What do I want to Say?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;What is the continued importance of a feature analysis to the field of descriptive linguistics and to the field of historical linguistics and to the field of Phonology?&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

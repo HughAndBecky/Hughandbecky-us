@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web-design | Hugh&#39;s Curriculum Vitae</title>
+    <link>https://hughandbecky.us/Hugh-CV/tag/web-design/</link>
+      <atom:link href="https://hughandbecky.us/Hugh-CV/tag/web-design/index.xml" rel="self" type="application/rss+xml" />
+    <description>Web-design</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2021</copyright><lastBuildDate>Thu, 23 Oct 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://hughandbecky.us/Hugh-CV/media/HughPaterson.jpg</url>
+      <title>Web-design</title>
+      <link>https://hughandbecky.us/Hugh-CV/tag/web-design/</link>
+    </image>
+    
+    <item>
+      <title>User Experience Consulting on SIL.org</title>
+      <link>https://hughandbecky.us/Hugh-CV/project/2013-sil-org/</link>
+      <pubDate>Thu, 23 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/project/2013-sil-org/</guid>
+      <description>&lt;p&gt;Lots of people have lots to say about User Experience. Most of it is fancy talk for &amp;ldquo;How much can you pay me to work on your website&amp;hellip;&amp;rdquo;. When we get beyond that level of discussion, there are some real issues and methods to building websites that people are &lt;em&gt;proud to own&lt;/em&gt;, and &lt;em&gt;proud to use&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Google&amp;rsquo;s search page makes them lots of money and people use it all the time. It even won the popular search war against &lt;em&gt;Yahoo!&lt;/em&gt; Facebook has a website that millions of people use every day. At some point a well designed website stops being a website in the minds of users and becomes a place where they work, hangout, arrange meetings, etc. When users stop realizing they are on a website, that is when I feel we have moved into a place in design where we are close to perfect for that situation.&lt;/p&gt;
+&lt;p&gt;Between 2010 and 2016 I worked with a team to bring modern features via Drupal 7 to the flagship website of SIL International. But I have also worked on WordPress sites (not for SIL) since 2005. And I consulted on a variety of other SIL web projects (some of them on WordPress).&lt;/p&gt;
+&lt;p&gt;My work with SIL started with a report that they were not using a &lt;code&gt;print.css&lt;/code&gt; file on the SIL Bibliography in 2006 and were wasting a lot of ink when people were printing pages. I think this was corrected by 2009. This was typical for the pace of technical innovative change. SIL is a very corporate feature focused development environment.&lt;/p&gt;
+&lt;p&gt;Within User Experience studies, there is at least two ways to apply the term (UX): &lt;em&gt;The design of experiences that a corporation wants their customers to engage in&lt;/em&gt;, and &lt;em&gt;the  way that people take an object (product) and decide to use it&lt;/em&gt;. Both are important, but how a company approaches either of these facets and how they relate that approach back to their other business goals scopes the relevance of User Experience Design within the organization.&lt;/p&gt;
+&lt;p&gt;Successful interactions depend on both points of view and the metrics of success.&lt;/p&gt;
+&lt;p&gt;SIL.org is an interesting use case in UX design for at least 5 reasons:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;SIL has several major areas of very public interactions which it engages with to various degrees in various parts of the world — but the Internet is flat.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Advocacy with public policy making bodies regarding the needs of minority language speakers.&lt;/li&gt;
+&lt;li&gt;Publishing and sales of professional resources and materials.&lt;/li&gt;
+&lt;li&gt;Bible translation.&lt;/li&gt;
+&lt;li&gt;Educational programs (both formal and workshop style) in linguistics and language development.&lt;/li&gt;
+&lt;li&gt;Mother tongue Multi-lingual educational programs.&lt;/li&gt;
+&lt;li&gt;Minority language literacy (both integrated with national educational programs, and community sponsored programs, for children and adults).&lt;/li&gt;
+&lt;li&gt;NGOs and development agencies.&lt;/li&gt;
+&lt;li&gt;Innovative computer technology development related to non-English typesetting and computing.&lt;/li&gt;
+&lt;li&gt;Innovative creative access power solutions (like solar).&lt;/li&gt;
+&lt;li&gt;Sustainable logistical support for difficult to access project locations (usually via air).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;SIL has historically had a very fractured internal identity, and a very decentralized governance, which has not required a high degree of uniformity throughout the organization. Digital infrastructure projects stress these social norms.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Within the organization web-presence has come to be regarded as the officiating act recognition of an internal group&amp;rsquo;s merit.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Different people within the organization have strong opinions about how the world should view the organization — which are reflected in what they think the organization should say about itself — including the interactions that the organization provides to the people who interact on its website.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Globally, the Internet is going mobile, and SIL struggles between generating the informatic thrill need to entice donors, visual storytelling needed to facilitate product distribution and training needs of its product users, and high level information needs of politicians, and staffs of other NGOs to seed future partnerships.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Quantitatively, most people come to SIL.org to learn about linguistics, or the plethora of digital tools that SIL distributes via sil.org, or the vast number of resources .&lt;/p&gt;
+&lt;!--
+Rebranding SIL Journals
+
+Journal of phonological description
+Journal of grammatical description
+Journal of descriptive and comparative dialectology
+Journal of orthographic description and history
+Journal of sociolinguistic description
+--&gt;
+&lt;!--  8 May 2013-  I sometimes wonder if Vision2025 applied to sil.org is to shut the website down and turn it off. If every language which needs a Bible Translation will have a project started by 2025. Then there really is no place left for SIL after that and why would SIL need a website then?
+
+
+
+:: because we all believe that Bible Translation is more important than Language Development and there will be no way to share what Christ did for us in humanity after 2025 through language development.
+
+:: because we all know that there will be no need for Bible Translation Revisions, after 2025... We got it right the first time...
+
+:: because SIL will have spent all its time and effort preaching to partners &#34;sustainability&#34; it will have none in the end...
+
+--&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

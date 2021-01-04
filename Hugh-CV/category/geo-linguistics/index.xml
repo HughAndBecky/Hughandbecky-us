@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Geo-Linguistics | Hugh&#39;s Curriculum Vitae</title>
+    <link>https://hughandbecky.us/Hugh-CV/category/geo-linguistics/</link>
+      <atom:link href="https://hughandbecky.us/Hugh-CV/category/geo-linguistics/index.xml" rel="self" type="application/rss+xml" />
+    <description>Geo-Linguistics</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2021</copyright><lastBuildDate>Sat, 12 Mar 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://hughandbecky.us/Hugh-CV/media/HughPaterson.jpg</url>
+      <title>Geo-Linguistics</title>
+      <link>https://hughandbecky.us/Hugh-CV/category/geo-linguistics/</link>
+    </image>
+    
+    <item>
+      <title>Geo-Linguistics</title>
+      <link>https://hughandbecky.us/Hugh-CV/project/2011-geo-linguistics/</link>
+      <pubDate>Sat, 12 Mar 2011 00:00:00 +0000</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/project/2011-geo-linguistics/</guid>
+      <description>&lt;p&gt;There are seven major sub-areas of this project:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Explaining cartographic concepts.&lt;/li&gt;
+&lt;li&gt;Explaining and reviewing tools for generating and processing the necessay data.&lt;/li&gt;
+&lt;li&gt;Creating population density visualizations.&lt;/li&gt;
+&lt;li&gt;Collecting place names and generating a map in Nigeria.&lt;/li&gt;
+&lt;li&gt;Creating a map of the language documentation files in the Meꞌphaa language documentation project.&lt;/li&gt;
+&lt;li&gt;Creating a map of the language documentation files in the U̠t-Ma&amp;rsquo;in language documentation project.&lt;/li&gt;
+&lt;li&gt;Creating several maps for Dan related to my M.A. thesis work.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;!-- Map making tools
+
+Import geo-names into QGIS: http://forum.geonames.org/gforum/posts/list/67.page
+QGIS to illustrator: https://vimeo.com/124793295
+Georeferencing Topo Sheets and Scanned Maps: http://www.qgistutorials.com/en/docs/georeferencing_basics.html
+
+https://mygeodata.cloud/converter/svg-to-kml
+https://bitbucket.org/tbrugz/kmlutils/wiki/HOWTO.en
+https://freegeographytools.com/2009/convertreproject-shapefiles-and-kml-files-to-svg-format-with-indiemapper
+
+https://bitbucket.org/voron-raven/maps
+
+Filter country shapes: https://wiki.openstreetmap.org/wiki/Osmfilter --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

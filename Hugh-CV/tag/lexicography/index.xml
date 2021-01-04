@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lexicography | Hugh&#39;s Curriculum Vitae</title>
+    <link>https://hughandbecky.us/Hugh-CV/tag/lexicography/</link>
+      <atom:link href="https://hughandbecky.us/Hugh-CV/tag/lexicography/index.xml" rel="self" type="application/rss+xml" />
+    <description>Lexicography</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2021</copyright><lastBuildDate>Sun, 03 Mar 2019 00:00:00 +1100</lastBuildDate>
+    <image>
+      <url>https://hughandbecky.us/Hugh-CV/media/HughPaterson.jpg</url>
+      <title>Lexicography</title>
+      <link>https://hughandbecky.us/Hugh-CV/tag/lexicography/</link>
+    </image>
+    
+    <item>
+      <title>Copyright and the distributed lexicon</title>
+      <link>https://hughandbecky.us/Hugh-CV/talk/2019-copyright-and-the-distributed-lexicon/</link>
+      <pubDate>Sun, 03 Mar 2019 00:00:00 +1100</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/talk/2019-copyright-and-the-distributed-lexicon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TEI Lexicon Bibliography</title>
+      <link>https://hughandbecky.us/Hugh-CV/post/tei-lexicon-bibliography/</link>
+      <pubDate>Wed, 08 Aug 2018 14:35:45 -0700</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/post/tei-lexicon-bibliography/</guid>
+      <description>&lt;p&gt;This is a short non-exhaustive bibliography of lexicon projects which have tested or opted to use the XML TEI format for their data.&lt;/p&gt;
+&lt;p&gt;Citations are kept in a GitHub gist. Comments are welcome via GitHub.&lt;/p&gt;
+&lt;script type=&#34;application/javascript&#34; src=&#34;https://gist.github.com/HughP/3b3faf1f2a8a579b91a46a2f1d6ceaa1.js&#34;&gt;&lt;/script&gt;</description>
+    </item>
+    
+    <item>
+      <title>U̠t-Ma&#39;in Lexicography</title>
+      <link>https://hughandbecky.us/Hugh-CV/project/2017-utmatin-lexicography/</link>
+      <pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/project/2017-utmatin-lexicography/</guid>
+      <description>&lt;p&gt;This project includes combining and collating several U̠t-Ma&amp;rsquo;in databases that Becky Paterson has created over the 12 years she has worked with the U̠t-Ma&amp;rsquo;in language community. We are also importing as many Hausa terms as possible for specific elicitation (such as regional plants and animals). The final database includes grammatical features of individual lexemes. We are including various external analyses from phonology tools. None of this data is currently public. But when it is, a link from here will be posted.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Lexical dataset archiving: an assessment of practice</title>
+      <link>https://hughandbecky.us/Hugh-CV/publication/2015-lexical-database-archiving/</link>
+      <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/publication/2015-lexical-database-archiving/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;poster-small.png&#34; alt=&#34;Lexical dataset archiving: an assessment of practice&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Citeable as&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;Hugh J. Paterson III (2015) &lt;em&gt;Lexical dataset archiving: an assessment of practice&lt;/em&gt;. Poster presented at the 4th International Conference on Language Documentation and Conservation, at the Ala Moana Hotel in Honolulu, HI. February 26th – March 1st Version 1.0&lt;/p&gt;
+&lt;h4 id=&#34;bibliography-for-poster&#34;&gt;Bibliography for Poster:&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Bird, Steven &amp;amp; Gary F. Simons. 2003. Seven dimension of portability for language documentation and description. Language 79(3). 557–582. doi:
+&lt;a href=&#34;https://dx.doi.org/10.1353/lan.2003.0149&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1353/lan.2003.0149&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Himmelmann, Nikolaus P. 1998. Documentary and Descriptive Linguistics. Linguistics 36(1). 161–195. doi:
+&lt;a href=&#34;https://dx.doi.org/10.1515/ling.1998.36.1.161&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1515/ling.1998.36.1.161&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Holton, Gary. 2012. Language archives: They’re not just for linguists any more. In Frank Seifart et al. (eds.), Potentials of Language Documentation: Methods, Analyses, and Utilization (Language Documentation &amp;amp; Conservation Special Publication 3), 111-7. Honolulu, Hawai&amp;rsquo;i: University of Hawai&amp;rsquo;i Press. 
+&lt;a href=&#34;http://hdl.handle.net/10125/4523&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://hdl.handle.net/10125/4523&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Johnson, Heidi. 2004. Language Documentation and Archiving, or How to build a better Corpus. In Peter Austin (ed.), Language Documentation and Description (2), 140-53. London, UK: SOAS. 
+&lt;a href=&#34;http://www.elpublishing.org/PID/026&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt; http://www.elpublishing.org/PID/026&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Nathan, David. 2011. Digital archiving. In Peter K. Austin &amp;amp; Julia Sallabank (eds.), The Cambridge handbook of endangered languages (Cambridge Handbooks in Language and Linguistics), 255-74. Cambridge: Cambridge University Press. doi: 
+&lt;a href=&#34;https://dx.doi.org/10.1017/CBO9780511975981.013&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1017/CBO9780511975981.013&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Woodbury, Anthony C. 2003. Defining Documentary Linguistics. In Peter K. Austin (ed.), Language Documentation and Description (1), 35-51. London: SOAS. 
+&lt;a href=&#34;http://www.elpublishing.org/PID/006&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt; http://www.elpublishing.org/PID/006&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Paterson III, Hugh &amp;amp; Jeremy Nordmoe. 2013. Challenges of implementing a tool to extract metadata from linguists: the use case of RAMP﻿. Poster presented at 3rd International Conference on Language Documentation and Conservation (ICLDC), Honolulu, Hawai&amp;rsquo;i, (2 March 2013). 
+&lt;a href=&#34;http://hdl.handle.net/10125/26178&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://hdl.handle.net/10125/26178&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Language archiving and data ecology</title>
+      <link>https://hughandbecky.us/Hugh-CV/talk/2013-language-archiving-and-data-ecology/</link>
+      <pubDate>Fri, 23 May 2014 00:00:00 +0000</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/talk/2013-language-archiving-and-data-ecology/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Citable as&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;Hugh J. Paterson III (2014) &lt;em&gt;Language archiving and data ecology&lt;/em&gt;. Presentation at the University of Oregon GLOSS and the Department of Linguistics Colloquium, Eugene, OR, 23 May.&lt;/p&gt;
+&lt;p&gt;This presentation is part of a series of presentations based on analyzing user interactions with the SIL Language and Culture Archive. This presentation is mostly the same content as what was later presented in a poster at the 4th International Conference on Language Documentation and Conservation.&lt;/p&gt;
+&lt;p&gt;Other presentations in this series include:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;  Paterson, Hugh J, III. 2015. *Lexical dataset archiving: an assessment of practice*. Poster presented at the 4th International Conference on Language Documentation and Conservation, at the University of Hawai’i Mānoa, Honolulu, HI. February 26 – March 1st. Version 1.0
+
+  Paterson, Hugh J, III and Jeremy Nordmoe. 2013. *Challenges of implementing a tool to extract metadata from linguists: The use case of RAMP*. Poster presented at SIL-UND, Summer 2013 session in Grand Forks, North Dakota. Version 1.5 (Essentially this is the same poster as presented in Hawai’i, but laid out with different dimensions.)
+
+  Paterson, Hugh J, III and Jeremy Nordmoe. 2013. *Challenges of implementing a tool to extract metadata from linguists: The use case of RAMP*. Poster presented at 3rd International Conference on Language Documentation and Conservation, at the University of Hawai’i Mānoa, Honolulu, HI. February 28 – March 3rd. Version 1.4 Online at: http://hdl.handle.net/10125/26178
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Getting things out of FLEx: Dictionaries in multiple modes</title>
+      <link>https://hughandbecky.us/Hugh-CV/talk/2011-getting-things-out-of-flex/</link>
+      <pubDate>Mon, 17 Oct 2011 20:58:01 -0700</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/talk/2011-getting-things-out-of-flex/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Citable as&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;Hugh J. Paterson III (2011) &lt;em&gt;Getting things out of FLEx: Dictionaries in multiple modes&lt;/em&gt;. International Workshop on Fieldworks Software. Universiti Malaysia Sabah, 17-21 October 2011.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

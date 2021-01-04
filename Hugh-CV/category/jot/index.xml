@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jot | Hugh&#39;s Curriculum Vitae</title>
+    <link>https://hughandbecky.us/Hugh-CV/category/jot/</link>
+      <atom:link href="https://hughandbecky.us/Hugh-CV/category/jot/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jot</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2021</copyright><lastBuildDate>Sat, 29 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://hughandbecky.us/Hugh-CV/media/HughPaterson.jpg</url>
+      <title>Jot</title>
+      <link>https://hughandbecky.us/Hugh-CV/category/jot/</link>
+    </image>
+    
+    <item>
+      <title>Non-Google Collaboration Tools</title>
+      <link>https://hughandbecky.us/Hugh-CV/post/non-google-collaborative-solutions/</link>
+      <pubDate>Sat, 29 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/post/non-google-collaborative-solutions/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://peerpad.net&#34;&gt;https://peerpad.net&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://pad.spline.de&#34;&gt;http://pad.spline.de&lt;/a&gt;
+&lt;a href=&#34;https://www.babelstone.co.uk/Unicode/whatisit.html&#34;&gt;https://www.babelstone.co.uk/Unicode/whatisit.html&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

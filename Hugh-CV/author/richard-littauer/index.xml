@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Richard Littauer | Hugh&#39;s Curriculum Vitae</title>
+    <link>https://hughandbecky.us/Hugh-CV/author/richard-littauer/</link>
+      <atom:link href="https://hughandbecky.us/Hugh-CV/author/richard-littauer/index.xml" rel="self" type="application/rss+xml" />
+    <description>Richard Littauer</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2021</copyright><lastBuildDate>Mon, 23 May 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://hughandbecky.us/Hugh-CV/media/HughPaterson.jpg</url>
+      <title>Richard Littauer</title>
+      <link>https://hughandbecky.us/Hugh-CV/author/richard-littauer/</link>
+    </image>
+    
+    <item>
+      <title>Open Source Code Serving Endangered Languages</title>
+      <link>https://hughandbecky.us/Hugh-CV/publication/2016-open-source-code/</link>
+      <pubDate>Mon, 23 May 2016 00:00:00 +0000</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/publication/2016-open-source-code/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Citable as&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;Richard Littauer, Hugh Paterson III (2016) &lt;em&gt;Open Source Code Serving Endangered Languages&lt;/em&gt;. In: C. Soria, L. Pretorius, T. Declerck, J. Mariani, K. Scannell, Eveline Wandl-Vogt, eds., In Proceedings of LREC 2016 Collaboration and Computing for Under-Resourced Languages: Towards an Alliance for Digital Language Diversity (CCURL) Workshop. Portorož, Slovenia, 23 May, 2016. pp. 86-88.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An Awesome list of Software for Endangered Languages</title>
+      <link>https://hughandbecky.us/Hugh-CV/project/2016-awesome-list/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/project/2016-awesome-list/</guid>
+      <description>&lt;p&gt;Head over to Github everything is over there.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

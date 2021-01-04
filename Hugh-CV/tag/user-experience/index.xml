@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>User Experience | Hugh&#39;s Curriculum Vitae</title>
+    <link>https://hughandbecky.us/Hugh-CV/tag/user-experience/</link>
+      <atom:link href="https://hughandbecky.us/Hugh-CV/tag/user-experience/index.xml" rel="self" type="application/rss+xml" />
+    <description>User Experience</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2021</copyright><lastBuildDate>Sat, 18 Feb 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://hughandbecky.us/Hugh-CV/media/HughPaterson.jpg</url>
+      <title>User Experience</title>
+      <link>https://hughandbecky.us/Hugh-CV/tag/user-experience/</link>
+    </image>
+    
+    <item>
+      <title>Language Archive Usability</title>
+      <link>https://hughandbecky.us/Hugh-CV/project/2012-archive-usability/</link>
+      <pubDate>Sat, 18 Feb 2012 00:00:00 +0000</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/project/2012-archive-usability/</guid>
+      <description>&lt;p&gt;This project seeks to make known issues in &lt;em&gt;Language Resource Accessibility&lt;/em&gt;. It is primarily concerned with two facets of accessibility:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;the &lt;em&gt;User Experience&lt;/em&gt; related to interacting with archived content; and&lt;/li&gt;
+&lt;li&gt;the aggregation of item level metadata about language resources in collections.&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

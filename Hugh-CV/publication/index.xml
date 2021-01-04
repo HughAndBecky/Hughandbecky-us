@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Hugh&#39;s Curriculum Vitae</title>
+    <link>https://hughandbecky.us/Hugh-CV/publication/</link>
+      <atom:link href="https://hughandbecky.us/Hugh-CV/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2021</copyright><lastBuildDate>Sun, 31 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://hughandbecky.us/Hugh-CV/media/HughPaterson.jpg</url>
+      <title>Publications</title>
+      <link>https://hughandbecky.us/Hugh-CV/publication/</link>
+    </image>
+    
+    <item>
+      <title>Text input issues for under-resourced languages: with special notes on Eastern Dan</title>
+      <link>https://hughandbecky.us/Hugh-CV/publication/2019-thesis/</link>
+      <pubDate>Sun, 31 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/publication/2019-thesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Death of Victor Hugos</title>
+      <link>https://hughandbecky.us/Hugh-CV/publication/2019-the-death-of-victor-hugos/</link>
+      <pubDate>Thu, 17 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/publication/2019-the-death-of-victor-hugos/</guid>
+      <description>&lt;p&gt;This version is only viewable by invite only until formally published.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Keyboard layouts across languages: A Text input analysis</title>
+      <link>https://hughandbecky.us/Hugh-CV/publication/2018-thesis-proposal/</link>
+      <pubDate>Sat, 31 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/publication/2018-thesis-proposal/</guid>
+      <description>&lt;h2 id=&#34;proposal&#34;&gt;Proposal&lt;/h2&gt;
+&lt;p&gt;Digital language death is a real issue for many small and under-resourced languages. To use Kornai’s (2013) terms, the digital moribund state of languages is accelerated by the lack of intuitive and useful text input methods for many minority and under-resourced languages. Even if text input methods currently exist for a language, it is often the case that they are disruptive (rather than smooth) to the digital text production process, due to inadequately optimized keyboards. This disruption then serves as a barrier to creating vibrant digital communities using these under-resourced languages. What is observed is that users of under-resourced languages often choose to use another language in digital contexts rather than deal with the disruptions of awkward keyboard input requirements. This actually serves to accelerate and solidify the under-resourced language in its moribund “vitality” state.
+Optimized Keyboard Layouts are an academic pursuit in applied mathematics and computer science which intend to make keyboards intuitive and useful. Despite being language-related resources, keyboards and text input methods are rarely mentioned in the language development literature.
+Within the computer science literature Yin and Su (2011) situate the optimization of the keyboard in a context known as the general keyboard arrangement problem (GKAP). Their work is well respected, but does not take into account several issues common to the minority-language context, such as keyboards with deadkey interactions, graphemic complexities (such as diacritic usage), and embedded linguistic knowledge (such as tone patterns, or multi-graph functional units). For example, Bi et al. (2012) look at the efficiency of text input with the deadkey method for diacritics, and contrast that with a single keystroke for a “composed” character. They conclude that the deadkey method is more efficient, but they only run their tests on European languages with orthographies that have a diacritic to total character density of less than 4%. Commonly, European languages use diacritics to indicate vowel quality. In contrast, many languages use diacritics to show tone patterns. In preliminary counts of minority-languages in both Mexico and Nigeria, I have encountered diacritic densities of over 30%. This means the extra time and effort it takes to use deadkeys is much more significant in these languages.
+Paterson (2014) lays a foundation for the kinds of issues encountered by minority-languages typists, as an appeal to creators of resources for under-resourced languages to use design principles (Vitsœ 2012, U.S. Department of Health and Human Services 2018) in the creation of their language resource products. There, I argue that better design of text input solutions, which take into account linguistic knowledge about a language’s orthography, will increase the opportunities for digital vitality in an under-resourced language.  It does not, however, present a methodology for assessing the disruptive nature of a text input solution, so we still lack a metric for comparing the relative ease of typing on any given keyboard layout for a given language.
+There currently does not exist a principled way to evaluate the utility or the application of User Experience principles (Garrett 2002) and design criteria to keyboard layouts. Researchers who have published on the keyboard optimization problem generally evaluate keyboard layouts on the basis of a composite “fitness score”. These scores only take into account the metrics of a single language - generally English - and only do it from an ergonomic perspective. As researchers in the field of language development, we are effectively blind when it comes to our ability to compare efficiency of two proposed keyboard layouts serving the same language,. A good framework does not exist for allowing researchers to ask the question: does QWERTY serve English users equally as well as AWERZY does to French users? - or any number of keyboards and their corresponding minority-languages.
+Language development practitioners and linguists working in many different languages have created many keyboard layouts.  However, linguists have not adequately accounted for the linguistic dissonance between the psycholinguistic and phonemic realities of a spoken language and a speaker’s experience in typing that language. This has created a gap between the “possible to write/type” orthography and the “easy to write/type” orthography.
+The general keyboard arrangement problem (GKAP) has been situated as a time over distance problem, i.e., speed. The assumption has been that if fingers travel a smaller distance, then faster typing should be the result. A secondary argument to increase speed has been to reduce effort. The assessment of effort has been tied to Fitts’ law (MacKenzie 1992) for measurements of physical effort. However, mental effort or user-perceived effort remains unassessed.
+By visualizing keystrokes, we can identify the locus of impact in any given language. In language development work it is often the case that low-usage keys in an English-QWERTY layout are replaced with “new characters” to form keyboard layouts. The consequence has been the placement of frequently used keys under weak fingers, as demonstrated by the Meꞌphaa keyboard layout below. Notice the high frequency red(dish) areas and the lower frequency blue areas. These red areas would normally be struck with the pinky fingers.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://hughandbecky.us/Hugh-CV/publication/2018-thesis-proposal/Heatmaps-of-4-keyboards/%5Btcf%5D-heatmap-with-sample-text.jpg&#34; alt=&#34;Meꞌphaa Keyboard&#34; title=&#34;Meꞌphaa Keyboard&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;p style=&#34;text-align: center;&#34;&gt;Figure 1: Meꞌphaa Keyboard&lt;/p&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Spanish, distributes the same amount of information across multiple fingers as shown in Figure 2 below. According to current keyboard layout theory even the Spanish keyboard is heavy on the weaker fingers of the left hand, but at least is better than the Meꞌphaa layout.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://hughandbecky.us/Hugh-CV/publication/2018-thesis-proposal/Heatmaps-of-4-keyboards/%5Bspa%5D-heatmap-with-full-text.jpg&#34; alt=&#34;Spanish Keyboard&#34; title=&#34;Spanish Keyboard&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;p style=&#34;text-align: center;&#34;&gt;Figure 2: Spanish Keyboard&lt;/p&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Contrasting these two languages allows us to visualize how they are different with respect to the actions of the pinky finger. It also demonstrates how the attempt to ‘conserve QWERTY’ impacts typing in minority languages. Notice how the Meꞌphaa keyboard layout replaces the Spanish〈ç〉character with a tone diacritic key. Also note that these tone diacritics are very frequent in Meꞌphaa, and create a typing imbalance. Additionally, the Meꞌphaa Saltillo〈ꞌ〉 key is also on the right side with heavy use, further contributing to the typing imbalance.
+These diagrams demonstrate the part of the keyboard layout analysis that can be computed using existing GKAP methods. What linguists bring to the discussion is an awareness of linguistic components. Orthographies are not just Unicode characters, but are functional units. The encoding of a functional unit can change from orthography to orthography. This is missed by many GKAP researchers. One needs to look beyond Unicode characters and toward ratios of keystrokes to functional units.
+One way that linguists look at functional units differently than “pure technologists” is in the area of tone. Snider (2014) and Hyman (2014) both argue for an analysis of tone that looks at patterns across the domain of tonal attachment (usually the word or morpheme) rather than the more structuralist and segmental view of “letter plus pitch” which is the encoding method that Unicode follows. The difference in behavior becomes clearer when we contrast reading diacritic tone marks with a language which does not use diacritical marking. Imagine the following example represents the same sentence in two different languages.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://hughandbecky.us/Hugh-CV/publication/2018-thesis-proposal/With-and-without-tone.jpg&#34; alt=&#34;Tone and non-Tone marking&#34; title=&#34;Tone and non-Tone marking&#34;&gt;&lt;/p&gt;
+&lt;p&gt;A tone pattern analysis (following Snider and Hyman) would suggest that we should understand the tonally marked sentence to represent the segmental and the suprasegmental tiers separately, something like the following:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://hughandbecky.us/Hugh-CV/publication/2018-thesis-proposal/High-low-pattern-over-tone-marks.jpg&#34; alt=&#34;Marking representing tonal patterns or melodies&#34; title=&#34;Marking representing tonal patterns or melodies&#34;&gt;&lt;/p&gt;
+&lt;p&gt;It is observed, anecdotally, that many writers of tone languages parse the writing task into two activities, one for each tier of information. Usually the segmental tier is completed first and then the suprasegmental tier.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://hughandbecky.us/Hugh-CV/publication/2018-thesis-proposal/Reading-twice.jpg&#34; alt=&#34;Reading twice&#34; title=&#34;Reading twice&#34;&gt;&lt;/p&gt;
+&lt;p&gt;This makes the writing activity much like handwriting in the United States where we say: “don’t forget to dot your &amp;lsquo;i&amp;rsquo;s and cross your  ‘t’s. The writer first completes the segmental tier and then comes back across with a second pass and completes dots the ‘i’s and crosses the ‘t’s.
+However, the nature of typing, and Unicode’s structural nature, requires typists to complete the text production task linearly by codepoint. This creates dissonance from what many language users find “natural”, requiring them to frequently alternate their attention between the two tiers, as shown by the up and down movement in the following diagram.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://hughandbecky.us/Hugh-CV/publication/2018-thesis-proposal/Up-and-down-eye-movement.jpg&#34; alt=&#34;Up and down eye movement&#34; title=&#34;Up and down eye movement&#34;&gt;&lt;/p&gt;
+&lt;p&gt;The goal of this thesis will be to develop and apply metrics to keyboard layouts so that their ease of use can be analysed and compared. Some optimised keyboards in a few sample languages will also be presented. Preliminary testing of these ideas has been done on English [eng], Spanish [spa], Me’phaa [tcf], and Chinantec [cso], as mentioned in Paterson (2014) and work done with Nigerian languages in Paterson (2015) covering Ezza [eza], Bekwarra [bkv], Cishingini [asg], Okphela [atg], and Igbo [ibo]. However, for this thesis I anticipate focusing on the three following languages: Navajo [nav], Kabiyè [kbp], and Eastern Dan [dnj], and especially the latter two, as they are related languages with very different design decisions in their orthographies, and both have very clear analysis of their tonal systems. This should allow observations about the typing process in one language to be contrasted with another related language. Further, there is a reasonable amount of text to work with in each language. Ultimately the final languages used will depend on the accessibility of corpora content in those languages.&lt;/p&gt;
+&lt;p&gt;This thesis will add to the current GKAP discussion by proposing a theoretical framework and a two-metric algorithm that can be applied to any keyboard layout for any language using a Latin based script. The first metric will account for disruption in the phoneme (or functional unit) stream while engaged in typing, and the second will account for non-character-producing keystrokes, thus addressing the major problem areas outlined above. These metrics will then be combined with a haptic fitness score to produce a fitness score which accounts for linguistic knowledge. This thesis will contribute to the ongoing language development discussion by providing a quality assessment metric for the evaluation of a very important language-based digital product.&lt;/p&gt;
+&lt;h2 id=&#34;research-questions&#34;&gt;Research questions&lt;/h2&gt;
+&lt;p&gt;The problem to be addressed can be expressed informally like this:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“We have these keyboards layouts in all these languages, but they are not being used, and in general people find it easier to type in languages other than their mother tongue.  To what extent are our keyboards disruptive and thereby impeding language use in digital contexts? Can we measure the disruption?”&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;More precisely, the following sub-questions can be addressed in the course of this investigation:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;What percentage of extra work is required to type minority-language texts?&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Here, the “extra work” measurement might be measured in terms of the distance traveled, the time required to travel that distance, and the number of keystrokes, as compared between a language of wider communication and a minority language.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;In a given language, what is the added unnecessary distance when typing text?&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;What are some common traits of excessive use/difficulty in text input keyboards for minority languages, and how can those commonalities of “pain”, be generalized for designers to avoid?&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Do we account for functional units (e.g. phonemes and tones) independent from character optimization? That is, does optimizing for character input also optimize for functional unit input?&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Can we predict that with tone languages we will exceed the Hick’s law minimum, whereas in non-tonal languages we can stay under Hick’s law?&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Hick’s law (Hick 1952) is a reference to how performance decreases as temporary memory functions increase, i.e., when we need to hold information in our temporary memory. This can be calculated on the basis of how many characters does one need to type in between the elements of a diacritic digraph.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;How can we measure the dissonance factor for a particular keyboard layout? That is, how much dissonance does a keyboard layout solution induce?&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Dissonance is the cognitively difficult, or non-prefered choices that we must make to achieve the desired results. Dissonance is increased by those things which militate  against fluidity, and includes factors such as non-correspondence between keystrokes and functional units, the elements of a digraph, and multiple keystrokes per orthographic character.&lt;/p&gt;
+&lt;h2 id=&#34;project-specifics&#34;&gt;Project specifics&lt;/h2&gt;
+&lt;p&gt;To perform the supporting analysis I will use existing texts to form a “corpus of keystrokes” and a “corpus of functional units”. I use the corpus of texts in conjunction with the existing keyboard layout to suggest what the “keystrokes required” would have been to produce a text (assuming 100% accuracy). Given that I am working with corpora, rather than original production data, I will not have actual time-over-distance measurements. I will rather, as is the norm for working with corpora in this context, infer the time to completion for each keystroke based on previously published experiments which show the time it takes to move a finger from one key to another. Then I will look at the functional units and measure (1) how many keystrokes to functional units are required, and (2) how much dissonance is created in the process of typing.
+Existing keyboard layouts for the languages of the texts in question will be analysed, and scored. Finally, improved keyboard layouts with better scores will be suggested.&lt;/p&gt;
+&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Xi Bi, BA Smith, S Zhai (2012) Multilingual touchscreen keyboard design and optimization. Human–Computer Interaction 27(4), 352-382.&lt;/li&gt;
+&lt;li&gt;Garrett, Jesse James (2002) The Elements of User Experience: User-Centered Design for the Web. New Riders Publishing, Thousand Oaks, CA, USA.&lt;/li&gt;
+&lt;li&gt;Hick, W. E. (1952) On the rate of gain of information. Quarterly Journal of Experimental Psychology 4 (1): 11–26. doi:10.1080/17470215208416600&lt;/li&gt;
+&lt;li&gt;Hyman, Larry M. (2014) How To Study a Tone Language, with exemplification from Oku (Grassfields Bantu, Cameroon). Language Documentation &amp;amp; Conservation 8.525-62.&lt;/li&gt;
+&lt;li&gt;Kornai, A. (2013) Digital Language Death. PLOS ONE 8(10): e77056. &lt;a href=&#34;https://doi.org/10.1371/journal.pone.0077056&#34;&gt;https://doi.org/10.1371/journal.pone.0077056&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;MacKenzie, I. Scott. (1992) Fitts&amp;rsquo; law as a research and design tool in human-computer interaction. Human-Computer Interaction 7, 91-139.&lt;/li&gt;
+&lt;li&gt;Paterson, Hugh J., III (2014) Keyboard layouts: Lessons from the Meꞌphaa and Sochiapam Chinantec designs. In Jones, Mari C. (ed.), Endangered Languages and New Technologies, 49-66. Cambridge, UK: Cambridge University Press.&lt;/li&gt;
+&lt;li&gt;Paterson, Hugh J., III (2015) African languages: Assessing the text input difficulty. Presentation at the 46th Annual Conference on African Linguistics, Eugene Oregon.&lt;/li&gt;
+&lt;li&gt;Peng-Yeng Yin, En-Ping Su (2011) Cyber Swarm optimization for general keyboard arrangement problem., International Journal of Industrial Ergonomics 41(1), 43-52. &lt;a href=&#34;https://doi.org/10.1016/j.ergon.2010.11.007&#34;&gt;https://doi.org/10.1016/j.ergon.2010.11.007&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Snider, Keith L. (2014) On Establishing Underlying Tonal Contrast. Language Documentation &amp;amp; Conservation 8.707-37. &lt;a href=&#34;http://scholarspace.manoa.hawaii.edu/handle/10125/24622&#34;&gt;http://scholarspace.manoa.hawaii.edu/handle/10125/24622&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;U.S. Department of Health &amp;amp; Human Services (2018) Interaction Design Basics. &amp;lt;Accessed 2 March 2018&amp;gt;. &lt;a href=&#34;https://www.usability.gov/what-and-why/interaction-design.html&#34;&gt;https://www.usability.gov/what-and-why/interaction-design.html&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Vitsœ (2012) Dieter Rams: ten principles for good design. &amp;lt;Accessed 27 June 2012&amp;gt;. &lt;a href=&#34;http://www.vitsoe.com/en/gb/about/dieterrams/gooddesign&#34;&gt;http://www.vitsoe.com/en/gb/about/dieterrams/gooddesign&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Open Source Code Serving Endangered Languages</title>
+      <link>https://hughandbecky.us/Hugh-CV/publication/2016-open-source-code/</link>
+      <pubDate>Mon, 23 May 2016 00:00:00 +0000</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/publication/2016-open-source-code/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Citable as&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;Richard Littauer, Hugh Paterson III (2016) &lt;em&gt;Open Source Code Serving Endangered Languages&lt;/em&gt;. In: C. Soria, L. Pretorius, T. Declerck, J. Mariani, K. Scannell, Eveline Wandl-Vogt, eds., In Proceedings of LREC 2016 Collaboration and Computing for Under-Resourced Languages: Towards an Alliance for Digital Language Diversity (CCURL) Workshop. Portorož, Slovenia, 23 May, 2016. pp. 86-88.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Phonetic transcription of tone in the IPA</title>
+      <link>https://hughandbecky.us/Hugh-CV/publication/2015-tone-transcription/</link>
+      <pubDate>Sat, 01 Aug 2015 00:00:00 +0000</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/publication/2015-tone-transcription/</guid>
+      <description>&lt;p&gt;This was a poster presentation presented at the 18th International Conference of Phonetic Sciences in 2015. Links are to the poster and the 5 page paper is in the conference proceedings.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Citeable as&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;Hugh J. Paterson III (2015) Phonetic transcription of tone in the IPA.  In The Scottish Consortium for ICPhS 2015 (Ed.). &lt;em&gt;Proceedings of the 18th International Conference of Phonetic Sciences&lt;/em&gt; Paper number 507.1-5. University of Glasgow: Glasgow, UK.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Lexical dataset archiving: an assessment of practice</title>
+      <link>https://hughandbecky.us/Hugh-CV/publication/2015-lexical-database-archiving/</link>
+      <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/publication/2015-lexical-database-archiving/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;poster-small.png&#34; alt=&#34;Lexical dataset archiving: an assessment of practice&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Citeable as&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;Hugh J. Paterson III (2015) &lt;em&gt;Lexical dataset archiving: an assessment of practice&lt;/em&gt;. Poster presented at the 4th International Conference on Language Documentation and Conservation, at the Ala Moana Hotel in Honolulu, HI. February 26th – March 1st Version 1.0&lt;/p&gt;
+&lt;h4 id=&#34;bibliography-for-poster&#34;&gt;Bibliography for Poster:&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Bird, Steven &amp;amp; Gary F. Simons. 2003. Seven dimension of portability for language documentation and description. Language 79(3). 557–582. doi:
+&lt;a href=&#34;https://dx.doi.org/10.1353/lan.2003.0149&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1353/lan.2003.0149&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Himmelmann, Nikolaus P. 1998. Documentary and Descriptive Linguistics. Linguistics 36(1). 161–195. doi:
+&lt;a href=&#34;https://dx.doi.org/10.1515/ling.1998.36.1.161&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1515/ling.1998.36.1.161&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Holton, Gary. 2012. Language archives: They’re not just for linguists any more. In Frank Seifart et al. (eds.), Potentials of Language Documentation: Methods, Analyses, and Utilization (Language Documentation &amp;amp; Conservation Special Publication 3), 111-7. Honolulu, Hawai&amp;rsquo;i: University of Hawai&amp;rsquo;i Press. 
+&lt;a href=&#34;http://hdl.handle.net/10125/4523&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://hdl.handle.net/10125/4523&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Johnson, Heidi. 2004. Language Documentation and Archiving, or How to build a better Corpus. In Peter Austin (ed.), Language Documentation and Description (2), 140-53. London, UK: SOAS. 
+&lt;a href=&#34;http://www.elpublishing.org/PID/026&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt; http://www.elpublishing.org/PID/026&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Nathan, David. 2011. Digital archiving. In Peter K. Austin &amp;amp; Julia Sallabank (eds.), The Cambridge handbook of endangered languages (Cambridge Handbooks in Language and Linguistics), 255-74. Cambridge: Cambridge University Press. doi: 
+&lt;a href=&#34;https://dx.doi.org/10.1017/CBO9780511975981.013&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1017/CBO9780511975981.013&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Woodbury, Anthony C. 2003. Defining Documentary Linguistics. In Peter K. Austin (ed.), Language Documentation and Description (1), 35-51. London: SOAS. 
+&lt;a href=&#34;http://www.elpublishing.org/PID/006&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt; http://www.elpublishing.org/PID/006&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Paterson III, Hugh &amp;amp; Jeremy Nordmoe. 2013. Challenges of implementing a tool to extract metadata from linguists: the use case of RAMP﻿. Poster presented at 3rd International Conference on Language Documentation and Conservation (ICLDC), Honolulu, Hawai&amp;rsquo;i, (2 March 2013). 
+&lt;a href=&#34;http://hdl.handle.net/10125/26178&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://hdl.handle.net/10125/26178&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Keyboard layouts: Lessons from the Meꞌphaa and Sochiapam Chinantec designs</title>
+      <link>https://hughandbecky.us/Hugh-CV/publication/2015-keyboard-layouts/</link>
+      <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/publication/2015-keyboard-layouts/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Citeable as&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;Hugh J. Paterson III (2014) &lt;em&gt;Keyboard layouts: Lessons from the Meꞌphaa and Sochiapam Chinantec designs&lt;/em&gt;. In: Endangered Languages and New Technologies edited by Mari C. Jones. pp. 49-66. Cambridge University Press. DOI: 
+&lt;a href=&#34;https://doi.org/10.1017/CBO9781107279063.006&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1017/CBO9781107279063.006&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Challenges of implementing a tool to extract metadata from linguists: the use case of RAMP</title>
+      <link>https://hughandbecky.us/Hugh-CV/publication/2013-challenges-ramp/</link>
+      <pubDate>Fri, 01 Mar 2013 07:18:05 -0700</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/publication/2013-challenges-ramp/</guid>
+      <description>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/publication/2013-Challenges-RAMP/2013-Hawaii-Poster-v1.4.jpg&#34; &gt;
+
+
+  &lt;img src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/publication/2013-Challenges-RAMP/2013-Hawaii-Poster-v1.4.jpg&#34; alt=&#34;Image of Poster&#34;  &gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;&lt;strong&gt;Citeable as&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;Hugh J. Paterson III and Jeremy Nordmoe (2013) Challenges of implementing a tool to extract metadata from linguists: the use case of RAMP. Poster presented at &lt;a href=&#34;http://nflrc.hawaii.edu/ICLDC/2013/&#34; title=&#34;3rd International Conference on Language Documentation and Conservation&#34;&gt;3rd International Conference on Language Documentation and Conservation&lt;/a&gt;, at the University of Hawai&amp;rsquo;i Mānoa, Honolulu, HI. February 28 - March 3rd. &lt;ul&gt;&lt;/p&gt;
+&lt;h4 id=&#34;bibliography-for-poster&#34;&gt;Bibliography for Poster&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;Anderson, Stephen P. 2006. Creating Pleasurable interfaces: Getting from Tasks to Experiences (Poster). &lt;Accessed: 18 February 2013&gt; &lt;a href=&#34;http://www.artificialindustry.com/uploads/inspiratie/1295515106from-task-to-experience.png&#34; title=&#34;Getting from Tasks to Experiences&#34;&gt;http://www.artificialindustry.com/uploads/inspiratie/1295515106from-task-to-experience.png&lt;/a&gt; &lt;/li&gt;
+&lt;li&gt;Anderson, Stephen P. 2009. Fundamentals of Experience Design (Poster). &lt;Accessed: 18 February 2013&gt;  &lt;a href=&#34;http://www.poetpainter.com/thoughts/files/Fundamentals-of-Experience-Design-stephenpa.pdf&#34; title=&#34;Fundamentals of Experience Design&#34;&gt;http://www.poetpainter.com/thoughts/files/Fundamentals-of-Experience-Design-stephenpa.pdf&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Anderson, Stephen P. 2011. Seductive interaction design: creating playful, fun, and effective user experiences. Berkeley, CA: New Riders.&lt;/li&gt;
+&lt;li&gt;Gray, Jeremy R., Todd S. Braver &amp; Marcus E. Raichle. 2002. Integration of emotion and cognition in the lateral prefrontal cortex. Proceedings of the National Academy of Sciences 99.6: 4115-20. &lt;a href=&#34;http://www.pnas.org/content/99/6/4115.abstract&#34; title=&#34;Integration of emotion and cognition in the lateral prefrontal cortex&#34;&gt;http://www.pnas.org/content/99/6/4115.abstract&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Nash, Douglas. 2012. Businessperson. The Noun Project. &lt;a href=&#34;http://thenounproject.com/noun/businessperson/#icon-No1673&#34; title=&#34;Businessperson&#34;&gt;http://thenounproject.com/noun/businessperson/#icon-No1673&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Nordmoe, Jeremy. 2011. Introducing RAMP: an application for packaging metadata and resources offline for submission to an institutional repository. In David Nathan (Ed.) Proceedings of Workshop on Language Documentation &amp; Archiving 18 November 2011 at SOAS. London, UK. Pages. 27-32. &lt;Accessed: 18 February 2013&gt;  &lt;a href=&#34;https://www.sil.org/resources/archives/43211&#34; title=&#34;Nordmoe 2011&#34;&gt;https://www.sil.org/resources/archives/43211&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Parker, Geoffrey &amp; Marshall W. Van Alstyne. 2000. Information Complements, Substitutes, and Strategic Product Design (November 8, 2000). Available at SSRN: &lt;a href=&#34;http://ssrn.com/abstract=249585&#34;title=&#34;Information Complements, Substitutes, and Strategic Product Design&#34;&gt;http://ssrn.com/abstract=249585&lt;/a&gt; or DOI:&lt;a href=&#34;http://dx.doi.org/10.2139/ssrn.249585&#34; title=&#34;DOI: 10.2139/ssrn.249585&#34;&gt;10.2139/ssrn.249585&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Traynor, Des. 16 January 2012. Copy the Fit, not the Features. &lt;Accessed: 18 February 2013&gt;. &lt;a href=&#34;http://blog.intercom.io/copy-the-fit-not-the-features/&#34; title=&#34;Copy the fit not the features&#34;&gt;http://blog.intercom.io/copy-the-fit-not-the-features/&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;Comments&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;This poster is a result of experience, statistical data, and some of the ideas presented in these posts:&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;About the RAMP/DSpace fit&lt;/em&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://hugh.thejourneyler.org/2012/leave-typology-to-the-typologists-i-am-a-linguist/&#34; title=&#34;Leave typology to the typologists, I am a linguist&#34;&gt;Leave typology to the typologists, I am a linguist&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://hugh.thejourneyler.org/2013/the-sil-archive-and-its-two-sided-markets&#34; title=&#34;The SIL Archive and its two sided Markets.&#34;&gt;The SIL archive and its two-sided markets&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;About UX in RAMP&lt;/em&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://hugh.thejourneyler.org/2011/metadata-magic/&#34; title=&#34;Matadata Magic&#34;&gt;Metadata Magic&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://hugh.thejourneyler.org/2011/citations-names-and-language-documentation/&#34; title=&#34;Citations, Names and Language Documentation&#34;&gt;Citations, Names and Language Documentation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://hugh.thejourneyler.org/2010/all-pdfs-are-not-created-equal/&#34; title=&#34;All PDFs are not created equal&#34;&gt;All PDFs are not created Equal&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Las Conexiones Externas e Internas</title>
+      <link>https://hughandbecky.us/Hugh-CV/publication/2011-mexico-places/</link>
+      <pubDate>Mon, 14 Nov 2011 20:21:37 -0700</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/publication/2011-mexico-places/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Citeable as&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;Z3988&#34; title=&#34;ctx_ver=Z39.88-2004&amp;amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;amp;rfr_id=info%3Asid%2Focoins.info%3Agenerator&amp;amp;rft.genre=document&amp;amp;rft.btitle=Los+Archivos+Ling%C3%BC%C3%ADsticos+Me%27phaa&amp;amp;rft.title=Los+Archivos+Ling%C3%BC%C3%ADsticos+Me%27phaa&amp;amp;rft.atitle=Las+Conexiones+Externas+e+Internas&amp;amp;rft.series=Mexico+Electronic+Working+Papers+in+Linguistics&amp;amp;rft.aulast=Kevin&amp;amp;rft.aufirst=Cline&amp;amp;rft.auinit=L&amp;amp;rft.aucorp=Stephen+A.+Marlett&amp;amp;rft.au=Cline+L+Kevin&amp;amp;rft.au=+Hugh+Paterson+III&amp;amp;rft.au=Mark+L.+Weathers&amp;amp;rft.date=2011-11&amp;amp;rft.pub=SIL+International&amp;amp;rft.edition=2011-11&#34;&gt;Kevin L. Cline, Stephen A. Marlett, Hugh Paterson III and Mark L. Weathers. (November 2011) &lt;em&gt;Las Conexiones Externas e Internas&lt;/em&gt;. En: Stephen A. Marlett (ed.) Los Archivos Lingüísticos Me&amp;rsquo;phaa. [&lt;a href=&#34;http://www.sil.org/mexico/workpapers/WP013-PDF/MephaaConexiones.pdf&#34;&gt;http://www.sil.org/mexico/workpapers/WP013-PDF/MephaaConexiones.pdf&lt;/a&gt;]&lt;/span&gt;&lt;/p&gt;
+&lt;!-- Kevin L. Cline, Stephen A. Marlett, Hugh Paterson III and Mark L. Weathers (November 2011) *Las Conexiones Externas e Internas*. En: Stephen A. Marlett (ed.) Los Archivos Lingüísticos Me’phaa. [http://www.sil.org/mexico/workpapers/WP013-PDF/MephaaConexiones.pdf] --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The phonetic status of the (inter)dental approximant</title>
+      <link>https://hughandbecky.us/Hugh-CV/publication/2010-interdental/</link>
+      <pubDate>Thu, 08 Jul 2010 00:00:00 +0000</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/publication/2010-interdental/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Citeable as&lt;/strong&gt;:&lt;/p&gt;
+&lt;!-- Kenneth S. Olson, Jeff Mielke, Josephine Sanicas-Daguman, Carol Jean Pebley and Hugh J. Paterson III (2010) *The phonetic status of the (inter)dental approximant*. Journal of the International Phonetic Association, 40.2 , pp. 199-215. doi:[10.1017/S0025100309990296](https://doi.org/10.1017/S0025100309990296) --&gt;
+&lt;p&gt;&lt;span class=&#34;Z3988&#34; title=&#34;ctx_ver=Z39.882004&amp;amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;amp;rfr_id=info%3Asid%2Focoins.info%3Agenerator&amp;amp;rft.genre=article&amp;amp;rft.atitle=The+phonetic+status+of+the+%28inter%29dental+approximant&amp;amp;rft.title=Journal+of+the+International+Phonetic+Association&amp;amp;rft.stitle=JIPA&amp;amp;rft.issn=1475-3502&amp;amp;rft.eissn=1475-3502&amp;amp;rft.date=2010-08-01&amp;amp;rft.volume=40&amp;amp;rft.issue=2&amp;amp;rft.spage=199&amp;amp;rft.epage=215&amp;amp;rft.aulast=Olson&amp;amp;rft.aufirst=Kenneth+S.&amp;amp;rft.auinit=KSO&amp;amp;rft.au=Kenneth+S.+KSO+Olson&amp;amp;rft.au=Jeff+Mielke&amp;amp;rft.au=Josephine+Sanicas-Daguman&amp;amp;rft.au=Carol+Jean+Pebley&amp;amp;rft.au=Hugh+J.+Paterson+III&amp;amp;rft_id=info:doi/10.1017%2FS0025100309990296&#34;&gt;Kenneth S. Olson, Jeff Mielke, Josephine Sanicas-Daguman, Carol Jean Pebley and Hugh J. Paterson (2010) &lt;em&gt;The phonetic status of the (inter)dental approximant&lt;/em&gt;. Journal of the International Phonetic Association, 40.2 , pp. 199-215. doi:&lt;a href=&#34;http://journals.cambridge.org/abstract_S0025100309990296&#34;&gt;10.1017/S0025100309990296&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Comments&lt;/strong&gt;:
+My contribution in this collective work involved extensive library research, the collection of sources, translation of sources, and evaluating the personal un-published field notes of previous scholars. Encouraged in the historical comparative work by Ken Olson, I suggest that there is enough evidence to support the idea that the interdental approximant is a retention, rather than independent innovations. My research work on this topic resulted in me presenting two additional academic presentations. See the interdental approximant project description for further details.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Other works on the interdental approximant&lt;/strong&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Mielke, Jeff, Kenneth S. Olson, Adam Baker &amp;amp; Diana Archangeli. 2011. Articulation of the Kagayanen interdental approximant: An ultrasound study. Journal of Phonetics 39(3). 403–412. DOI: 
+&lt;a href=&#34;http://dx.doi.org/10.1016/j.wocn.2011.02.008&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://dx.doi.org/10.1016/j.wocn.2011.02.008&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Olson, Kenneth S., Emy T. Ballenas &amp;amp; Nilo M. Borromeo. 2009. Buhi’non (Bikol) digital wordlist: Presentation form. Language Documentation &amp;amp; Conservation 3(2). 213–225. URI: 
+&lt;a href=&#34;http://hdl.handle.net/10125/4440&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://hdl.handle.net/10125/4440&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Olson, Kenneth S., Glenn Machlan &amp;amp; Nelson Amangao. 2008. Minangali (Kalinga) digital wordlist: Presentation form. Language Documentation &amp;amp; Conservation 2(1). 141–156. URI 
+&lt;a href=&#34;http://hdl.handle.net/10125/1772&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://hdl.handle.net/10125/1772&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Olson, Kenneth S. &amp;amp; Jeff Mielke. 2008. Acoustic properties of the interdental approximant in Kagayanen. Journal of the Acoustical Society of America 123(5). 3460. DOI 
+&lt;a href=&#34;http://dx.doi.org/10.1121/1.2934307&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://dx.doi.org/10.1121/1.2934307&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Matthew Harley (2012) Unusual sounds in Nigerian languages. In Advances in Minority Language Research in Nigeria Part I (eds.) Roger M. Blench and Stuart McGill. Kay Williamson Educational Foundation African languages Monographs No. 5. pages: 38-65. Rüdiger Köppe Verlag: Köln&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

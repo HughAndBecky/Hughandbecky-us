@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dan Whitenack | Hugh&#39;s Curriculum Vitae</title>
+    <link>https://hughandbecky.us/Hugh-CV/author/dan-whitenack/</link>
+      <atom:link href="https://hughandbecky.us/Hugh-CV/author/dan-whitenack/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dan Whitenack</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2021</copyright>
+    <image>
+      <url>https://hughandbecky.us/Hugh-CV/media/HughPaterson.jpg</url>
+      <title>Dan Whitenack</title>
+      <link>https://hughandbecky.us/Hugh-CV/author/dan-whitenack/</link>
+    </image>
+    
+  </channel>
+</rss>

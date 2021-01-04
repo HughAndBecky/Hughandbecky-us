@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Ecology | Hugh&#39;s Curriculum Vitae</title>
+    <link>https://hughandbecky.us/Hugh-CV/tag/data-ecology/</link>
+      <atom:link href="https://hughandbecky.us/Hugh-CV/tag/data-ecology/index.xml" rel="self" type="application/rss+xml" />
+    <description>Data Ecology</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2021</copyright><lastBuildDate>Fri, 26 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://hughandbecky.us/Hugh-CV/media/HughPaterson.jpg</url>
+      <title>Data Ecology</title>
+      <link>https://hughandbecky.us/Hugh-CV/tag/data-ecology/</link>
+    </image>
+    
+    <item>
+      <title>Archives: Features without a business plan</title>
+      <link>https://hughandbecky.us/Hugh-CV/talk/2019-archives-features-without-a-business-plan/</link>
+      <pubDate>Fri, 26 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/talk/2019-archives-features-without-a-business-plan/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

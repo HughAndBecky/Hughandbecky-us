@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Philippine languages | Hugh&#39;s Curriculum Vitae</title>
+    <link>https://hughandbecky.us/Hugh-CV/tag/philippine-languages/</link>
+      <atom:link href="https://hughandbecky.us/Hugh-CV/tag/philippine-languages/index.xml" rel="self" type="application/rss+xml" />
+    <description>Philippine languages</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2021</copyright><lastBuildDate>Wed, 08 Aug 2018 14:35:45 -0700</lastBuildDate>
+    <image>
+      <url>https://hughandbecky.us/Hugh-CV/media/HughPaterson.jpg</url>
+      <title>Philippine languages</title>
+      <link>https://hughandbecky.us/Hugh-CV/tag/philippine-languages/</link>
+    </image>
+    
+    <item>
+      <title>Bibliography of select Philippine language descriptions</title>
+      <link>https://hughandbecky.us/Hugh-CV/post/phillipine-languages-bibliography/</link>
+      <pubDate>Wed, 08 Aug 2018 14:35:45 -0700</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/post/phillipine-languages-bibliography/</guid>
+      <description>&lt;p&gt;This is a short non-exhaustive bibliography of phonological descriptions of Philippine languages.&lt;/p&gt;
+&lt;p&gt;Citations are kept in a GitHub gist. Comments are welcome via GitHub.&lt;/p&gt;
+&lt;script type=&#34;application/javascript&#34; src=&#34;https://gist.github.com/HughP/b6a8018897d83ee3a8760efa3d1361da.js&#34;&gt;&lt;/script&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

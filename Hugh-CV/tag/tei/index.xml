@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TEI | Hugh&#39;s Curriculum Vitae</title>
+    <link>https://hughandbecky.us/Hugh-CV/tag/tei/</link>
+      <atom:link href="https://hughandbecky.us/Hugh-CV/tag/tei/index.xml" rel="self" type="application/rss+xml" />
+    <description>TEI</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2021</copyright><lastBuildDate>Wed, 08 Aug 2018 14:35:45 -0700</lastBuildDate>
+    <image>
+      <url>https://hughandbecky.us/Hugh-CV/media/HughPaterson.jpg</url>
+      <title>TEI</title>
+      <link>https://hughandbecky.us/Hugh-CV/tag/tei/</link>
+    </image>
+    
+    <item>
+      <title>TEI Lexicon Bibliography</title>
+      <link>https://hughandbecky.us/Hugh-CV/post/tei-lexicon-bibliography/</link>
+      <pubDate>Wed, 08 Aug 2018 14:35:45 -0700</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/post/tei-lexicon-bibliography/</guid>
+      <description>&lt;p&gt;This is a short non-exhaustive bibliography of lexicon projects which have tested or opted to use the XML TEI format for their data.&lt;/p&gt;
+&lt;p&gt;Citations are kept in a GitHub gist. Comments are welcome via GitHub.&lt;/p&gt;
+&lt;script type=&#34;application/javascript&#34; src=&#34;https://gist.github.com/HughP/3b3faf1f2a8a579b91a46a2f1d6ceaa1.js&#34;&gt;&lt;/script&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

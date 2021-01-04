@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Steve Marlett | Hugh&#39;s Curriculum Vitae</title>
+    <link>https://hughandbecky.us/Hugh-CV/author/steve-marlett/</link>
+      <atom:link href="https://hughandbecky.us/Hugh-CV/author/steve-marlett/index.xml" rel="self" type="application/rss+xml" />
+    <description>Steve Marlett</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2021</copyright><lastBuildDate>Thu, 30 Jul 2009 17:00:12 -0700</lastBuildDate>
+    <image>
+      <url>https://hughandbecky.us/Hugh-CV/media/HughPaterson.jpg</url>
+      <title>Steve Marlett</title>
+      <link>https://hughandbecky.us/Hugh-CV/author/steve-marlett/</link>
+    </image>
+    
+    <item>
+      <title>Lasting linguistics: Making a meaningful mark</title>
+      <link>https://hughandbecky.us/Hugh-CV/talk/2009-lasting-linguistics-linguistics-leaving-mark/</link>
+      <pubDate>Thu, 30 Jul 2009 17:00:12 -0700</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/talk/2009-lasting-linguistics-linguistics-leaving-mark/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

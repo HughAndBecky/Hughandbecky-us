@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>IRB | Hugh&#39;s Curriculum Vitae</title>
+    <link>https://hughandbecky.us/Hugh-CV/tag/irb/</link>
+      <atom:link href="https://hughandbecky.us/Hugh-CV/tag/irb/index.xml" rel="self" type="application/rss+xml" />
+    <description>IRB</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2021</copyright><lastBuildDate>Sat, 08 Feb 2020 14:35:45 +0100</lastBuildDate>
+    <image>
+      <url>https://hughandbecky.us/Hugh-CV/media/HughPaterson.jpg</url>
+      <title>IRB</title>
+      <link>https://hughandbecky.us/Hugh-CV/tag/irb/</link>
+    </image>
+    
+    <item>
+      <title>Bibliography of select papers on &#39;ethics&#39; and &#39;informed consent&#39; in Linguistic research</title>
+      <link>https://hughandbecky.us/Hugh-CV/post/informed-consent-irb-biblography/</link>
+      <pubDate>Sat, 08 Feb 2020 14:35:45 +0100</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/post/informed-consent-irb-biblography/</guid>
+      <description>&lt;p&gt;This is a short non-exhaustive bibliography of papers which discuss &lt;em&gt;Informed consent&lt;/em&gt; in the context of one or more of the following:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;minority language communities,&lt;/li&gt;
+&lt;li&gt;low literacy levels,&lt;/li&gt;
+&lt;li&gt;language research,&lt;/li&gt;
+&lt;li&gt;the legal aspect of the US IRB, and&lt;/li&gt;
+&lt;li&gt;&amp;lsquo;how informed is informed consent&amp;rsquo; .&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I have several nagging questions, which I wonder how discussed they are including: &amp;ldquo;Is Intellectual property rights of minority language people covered in the typical informed consent protocols of language researchers?&amp;rdquo; and &amp;ldquo;How ethical is it to create voice-to-speech tools for a small language community when only one or two people provide voice samples?&amp;rdquo; When working independently, outside the confines of an organization these factors are not mitigated by institutional barriers to creativity or participant considerations.&lt;/p&gt;
+&lt;p&gt;Citations are kept in a GitHub gist. Comments are welcome via GitHub.&lt;/p&gt;
+&lt;script type=&#34;application/javascript&#34; src=&#34;https://gist.github.com/HughP/b34e56efd7199bde727493f438a79f01.js&#34;&gt;&lt;/script&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
