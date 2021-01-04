@@ -2,49 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Automatic Speech Recognition on Hugh&#39;s Curriculum Vitae</title>
-    <link>https://hughandbecky.us/Hugh-CV/tags/automatic-speech-recognition/</link>
+    <link>https://hughandbecky.us/Hugh-OLD/tags/automatic-speech-recognition/</link>
     <description>Recent content in Automatic Speech Recognition on Hugh&#39;s Curriculum Vitae</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Hugh Paterson III &amp;copy; 2018-2020</copyright>
     <lastBuildDate>Fri, 15 Mar 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://hughandbecky.us/Hugh-CV/tags/automatic-speech-recognition/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://hughandbecky.us/Hugh-OLD/tags/automatic-speech-recognition/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Asimjeeg Datooga (Southern Nilotic, Tanzania) ASR</title>
-      <link>https://hughandbecky.us/Hugh-CV/manuscripts/2019-richard-asr/</link>
+      <link>https://hughandbecky.us/Hugh-OLD/manuscripts/2019-richard-asr/</link>
       <pubDate>Fri, 15 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://hughandbecky.us/Hugh-CV/manuscripts/2019-richard-asr/</guid>
+      <guid>https://hughandbecky.us/Hugh-OLD/manuscripts/2019-richard-asr/</guid>
       <description>This work has no written results yet. It is purely experimental at this stage.</description>
     </item>
     
     <item>
       <title>Chepang (Nepal) ASR</title>
-      <link>https://hughandbecky.us/Hugh-CV/manuscripts/2019-chepang-asr/</link>
+      <link>https://hughandbecky.us/Hugh-OLD/manuscripts/2019-chepang-asr/</link>
       <pubDate>Fri, 15 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://hughandbecky.us/Hugh-CV/manuscripts/2019-chepang-asr/</guid>
+      <guid>https://hughandbecky.us/Hugh-OLD/manuscripts/2019-chepang-asr/</guid>
       <description>This work has no written results yet. It is purely experimental at this stage.</description>
     </item>
     
     <item>
       <title>U̠t-Ma&#39;in (Nigeria) ASR</title>
-      <link>https://hughandbecky.us/Hugh-CV/manuscripts/2019-utmatin-asr/</link>
+      <link>https://hughandbecky.us/Hugh-OLD/manuscripts/2019-utmatin-asr/</link>
       <pubDate>Fri, 15 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://hughandbecky.us/Hugh-CV/manuscripts/2019-utmatin-asr/</guid>
+      <guid>https://hughandbecky.us/Hugh-OLD/manuscripts/2019-utmatin-asr/</guid>
       <description>This work has no written results yet. It is purely experimental at this stage.</description>
     </item>
     
     <item>
       <title>Automatic Speech Recognition</title>
-      <link>https://hughandbecky.us/Hugh-CV/project/2019-automatic-speech-recognition/</link>
+      <link>https://hughandbecky.us/Hugh-OLD/project/2019-automatic-speech-recognition/</link>
       <pubDate>Tue, 12 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://hughandbecky.us/Hugh-CV/project/2019-automatic-speech-recognition/</guid>
+      <guid>https://hughandbecky.us/Hugh-OLD/project/2019-automatic-speech-recognition/</guid>
       <description>Working with several collaborators on Automatic Speech Recognition for low-resource tone languages.</description>
     </item>
     
