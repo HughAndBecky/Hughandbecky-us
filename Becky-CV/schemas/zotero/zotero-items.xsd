@@ -1,0 +1,64 @@
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns=" https://hughandbecky.us/Becky-CV/schemas/zotero/" xmlns:dc="http://purl.org/dc/elements/1.1/" targetNamespace="http://www.language-archives.org/OLAC/1.1/" elementFormDefault="qualified" attributeFormDefault="qualified">
+<script/>
+<xs:include schemaLocation="zotero-items.xsd"/>
+<xs:import namespace="http://purl.org/dc/elements/1.1/" schemaLocation="dc.xsd"/>
+<xs:annotation>
+<xs:appinfo>
+<olac-extension>
+<shortName>zotero-items</shortName>
+<longName>Itemtypes for Zotero</longName>
+<versionDate>2021-02-08</versionDate>
+<description>Provides a controlled vocabulary for identifying the type of types according to the types found in Zotero.</description>
+<appliesTo>dc:contributor</appliesTo>
+<documentation>https://aurimasv.github.io/z2csl/typeMap.xml</documentation>
+</olac-extension>
+</xs:appinfo>
+</xs:annotation>
+<xs:complexType name="role">
+<xs:complexContent mixed="true">
+<xs:extension base="dc:SimpleLiteral">
+<xs:attribute name="code" type="zotero-item" use="optional"/>
+</xs:extension>
+</xs:complexContent>
+</xs:complexType>
+<xs:simpleType name="zotero-item">
+<xs:restriction base="xs:string">
+<xs:enumeration value="artwork"/>
+<xs:enumeration value="attachment"/>
+<xs:enumeration value="audioRecording"/>
+<xs:enumeration value="bill"/>
+<xs:enumeration value="blogPost"/>
+<xs:enumeration value="book"/>
+<xs:enumeration value="bookSection"/>
+<xs:enumeration value="case"/>
+<xs:enumeration value="computerProgram"/>
+<xs:enumeration value="conferencePaper"/>
+<xs:enumeration value="dictionaryEntry"/>
+<xs:enumeration value="document"/>
+<xs:enumeration value="email"/>
+<xs:enumeration value="encyclopediaArticle"/>
+<xs:enumeration value="film"/>
+<xs:enumeration value="forumPost"/>
+<xs:enumeration value="hearing"/>
+<xs:enumeration value="instantMessage"/>
+<xs:enumeration value="interview"/>
+<xs:enumeration value="journalArticle"/>
+<xs:enumeration value="letter"/>
+<xs:enumeration value="magazineArticle"/>
+<xs:enumeration value="manuscript"/>
+<xs:enumeration value="map"/>
+<xs:enumeration value="newspaperArticle"/>
+<xs:enumeration value="note"/>
+<xs:enumeration value="patent"/>
+<xs:enumeration value="podcast"/>
+<xs:enumeration value="presentation"/>
+<xs:enumeration value="radioBroadcast"/>
+<xs:enumeration value="report"/>
+<xs:enumeration value="statute"/>
+<xs:enumeration value="thesis"/>
+<xs:enumeration value="tvBroadcast"/>
+<xs:enumeration value="videoRecording"/>
+<xs:enumeration value="webpage"/>
+</xs:restriction>
+</xs:simpleType>
+</xs:schema>

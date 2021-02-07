@@ -3,6 +3,7 @@
             xmlns:oai="http://www.openarchives.org/OAI/2.0/"
             xmlns:olac="http://www.language-archives.org/OLAC/1.1/"
             xmlns:dc="http://purl.org/dc/elements/1.1/"
+            xmlns:z ="https://hughandbecky.us/Becky-CV/schemas/zotero/"
             xmlns:dcterms="http://purl.org/dc/terms/"
             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
             xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/static-repository
@@ -12,7 +13,9 @@
                                 http://purl.org/dc/elements/1.1/
                                 http://dublincore.org/schemas/xmls/qdc/2006/01/06/dc.xsd
                                 http://purl.org/dc/terms/
-                                http://dublincore.org/schemas/xmls/qdc/2006/01/06/dcterms.xsd">
+                                http://dublincore.org/schemas/xmls/qdc/2006/01/06/dcterms.xsd
+                                https://hughandbecky.us/Becky-CV/schemas/zotero/
+                                https://hughandbecky.us/Becky-CV/schemas/zotero/zotero-items.xsd">
 
   <Identify>
     <oai:repositoryName>Rebecca Paterson CV</oai:repositoryName>
@@ -29,15 +32,15 @@
           http://www.openarchives.org/OAI/2.0/oai-identifier
           http://www.openarchives.org/OAI/2.0/oai-identifier.xsd">
         <scheme>oai</scheme>
-        <repositoryIdentifier>hughandbeckyUsBeckyCV</repositoryIdentifier>
+        <repositoryIdentifier>hughandbecky.us/BeckyCV</repositoryIdentifier>
         <delimiter>:</delimiter>
-        <sampleIdentifier>oai:hughandbeckyUsBeckyCV:01</sampleIdentifier>
+        <sampleIdentifier>oai:hughandbecky.us/BeckyCV:01</sampleIdentifier>
       </oai-identifier>
     </oai:description>
     <oai:description>
    <olac-archive 
    type="personal" 
-   currentAsOf="2021-02-07" 
+   currentAsOf="2021-02-08" 
          xmlns="http://www.language-archives.org/OLAC/1.1/olac-archive"
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://www.language-archives.org/OLAC/1.1/olac-archive http://www.language-archives.org/OLAC/1.1/olac-archive.xsd">
@@ -66,8 +69,8 @@
   <ListRecords metadataPrefix="olac">
 <oai:record>
  <oai:header>
-  <oai:identifier>oai:hughandbeckyUsBeckyCV:01</oai:identifier>
-  <oai:datestamp>2021-02-07</oai:datestamp>
+  <oai:identifier>oai:hughandbecky.us/BeckyCV:01</oai:identifier>
+  <oai:datestamp>2021-02-08</oai:datestamp>
  </oai:header>
  <oai:metadata>
   <olac:olac>
@@ -92,8 +95,8 @@
 </oai:record>
 <oai:record>
  <oai:header>
-  <oai:identifier>oai:hughandbeckyUsBeckyCV:01</oai:identifier>
-  <oai:datestamp>2021-02-07</oai:datestamp>
+  <oai:identifier>oai:hughandbecky.us/BeckyCV:01</oai:identifier>
+  <oai:datestamp>2021-02-08</oai:datestamp>
  </oai:header>
  <oai:metadata>
   <olac:olac>
@@ -120,8 +123,8 @@
 </oai:record>
 <oai:record>
  <oai:header>
-  <oai:identifier>oai:hughandbeckyUsBeckyCV:01</oai:identifier>
-  <oai:datestamp>2021-02-07</oai:datestamp>
+  <oai:identifier>oai:hughandbecky.us/BeckyCV:01</oai:identifier>
+  <oai:datestamp>2021-02-08</oai:datestamp>
  </oai:header>
  <oai:metadata>
   <olac:olac>
@@ -145,8 +148,8 @@
 </oai:record>
 <oai:record>
  <oai:header>
-  <oai:identifier>oai:hughandbeckyUsBeckyCV:01</oai:identifier>
-  <oai:datestamp>2021-02-07</oai:datestamp>
+  <oai:identifier>oai:hughandbecky.us/BeckyCV:01</oai:identifier>
+  <oai:datestamp>2021-02-08</oai:datestamp>
  </oai:header>
  <oai:metadata>
   <olac:olac>
@@ -175,8 +178,8 @@
 </oai:record>
 <oai:record>
  <oai:header>
-  <oai:identifier>oai:hughandbeckyUsBeckyCV:01</oai:identifier>
-  <oai:datestamp>2021-02-07</oai:datestamp>
+  <oai:identifier>oai:hughandbecky.us/BeckyCV:01</oai:identifier>
+  <oai:datestamp>2021-02-08</oai:datestamp>
  </oai:header>
  <oai:metadata>
   <olac:olac>
@@ -202,8 +205,8 @@
 </oai:record>
 <oai:record>
  <oai:header>
-  <oai:identifier>oai:hughandbeckyUsBeckyCV:01</oai:identifier>
-  <oai:datestamp>2021-02-07</oai:datestamp>
+  <oai:identifier>oai:hughandbecky.us/BeckyCV:01</oai:identifier>
+  <oai:datestamp>2021-02-08</oai:datestamp>
  </oai:header>
  <oai:metadata>
   <olac:olac>
@@ -229,8 +232,8 @@
 </oai:record>
 <oai:record>
  <oai:header>
-  <oai:identifier>oai:hughandbeckyUsBeckyCV:01</oai:identifier>
-  <oai:datestamp>2021-02-07</oai:datestamp>
+  <oai:identifier>oai:hughandbecky.us/BeckyCV:01</oai:identifier>
+  <oai:datestamp>2021-02-08</oai:datestamp>
  </oai:header>
  <oai:metadata>
   <olac:olac>
@@ -257,8 +260,8 @@
 </oai:record>
 <oai:record>
  <oai:header>
-  <oai:identifier>oai:hughandbeckyUsBeckyCV:01</oai:identifier>
-  <oai:datestamp>2021-02-07</oai:datestamp>
+  <oai:identifier>oai:hughandbecky.us/BeckyCV:01</oai:identifier>
+  <oai:datestamp>2021-02-08</oai:datestamp>
  </oai:header>
  <oai:metadata>
   <olac:olac>
@@ -282,8 +285,8 @@
 </oai:record>
 <oai:record>
  <oai:header>
-  <oai:identifier>oai:hughandbeckyUsBeckyCV:01</oai:identifier>
-  <oai:datestamp>2021-02-07</oai:datestamp>
+  <oai:identifier>oai:hughandbecky.us/BeckyCV:01</oai:identifier>
+  <oai:datestamp>2021-02-08</oai:datestamp>
  </oai:header>
  <oai:metadata>
   <olac:olac>
@@ -313,8 +316,8 @@
 </oai:record>
 <oai:record>
  <oai:header>
-  <oai:identifier>oai:hughandbeckyUsBeckyCV:01</oai:identifier>
-  <oai:datestamp>2021-02-07</oai:datestamp>
+  <oai:identifier>oai:hughandbecky.us/BeckyCV:01</oai:identifier>
+  <oai:datestamp>2021-02-08</oai:datestamp>
  </oai:header>
  <oai:metadata>
   <olac:olac>
@@ -338,8 +341,8 @@
 </oai:record>
 <oai:record>
  <oai:header>
-  <oai:identifier>oai:hughandbeckyUsBeckyCV:01</oai:identifier>
-  <oai:datestamp>2021-02-07</oai:datestamp>
+  <oai:identifier>oai:hughandbecky.us/BeckyCV:01</oai:identifier>
+  <oai:datestamp>2021-02-08</oai:datestamp>
  </oai:header>
  <oai:metadata>
   <olac:olac>
@@ -364,8 +367,8 @@
 </oai:record>
 <oai:record>
  <oai:header>
-  <oai:identifier>oai:hughandbeckyUsBeckyCV:01</oai:identifier>
-  <oai:datestamp>2021-02-07</oai:datestamp>
+  <oai:identifier>oai:hughandbecky.us/BeckyCV:01</oai:identifier>
+  <oai:datestamp>2021-02-08</oai:datestamp>
  </oai:header>
  <oai:metadata>
   <olac:olac>
@@ -387,8 +390,8 @@
 </oai:record>
 <oai:record>
  <oai:header>
-  <oai:identifier>oai:hughandbeckyUsBeckyCV:01</oai:identifier>
-  <oai:datestamp>2021-02-07</oai:datestamp>
+  <oai:identifier>oai:hughandbecky.us/BeckyCV:01</oai:identifier>
+  <oai:datestamp>2021-02-08</oai:datestamp>
  </oai:header>
  <oai:metadata>
   <olac:olac>
@@ -414,8 +417,8 @@
 </oai:record>
 <oai:record>
  <oai:header>
-  <oai:identifier>oai:hughandbeckyUsBeckyCV:01</oai:identifier>
-  <oai:datestamp>2021-02-07</oai:datestamp>
+  <oai:identifier>oai:hughandbecky.us/BeckyCV:01</oai:identifier>
+  <oai:datestamp>2021-02-08</oai:datestamp>
  </oai:header>
  <oai:metadata>
   <olac:olac>
@@ -443,8 +446,8 @@
 </oai:record>
 <oai:record>
  <oai:header>
-  <oai:identifier>oai:hughandbeckyUsBeckyCV:01</oai:identifier>
-  <oai:datestamp>2021-02-07</oai:datestamp>
+  <oai:identifier>oai:hughandbecky.us/BeckyCV:01</oai:identifier>
+  <oai:datestamp>2021-02-08</oai:datestamp>
  </oai:header>
  <oai:metadata>
   <olac:olac>
@@ -471,8 +474,8 @@
 </oai:record>
 <oai:record>
  <oai:header>
-  <oai:identifier>oai:hughandbeckyUsBeckyCV:01</oai:identifier>
-  <oai:datestamp>2021-02-07</oai:datestamp>
+  <oai:identifier>oai:hughandbecky.us/BeckyCV:01</oai:identifier>
+  <oai:datestamp>2021-02-08</oai:datestamp>
  </oai:header>
  <oai:metadata>
   <olac:olac>
@@ -499,8 +502,8 @@
 </oai:record>
 <oai:record>
  <oai:header>
-  <oai:identifier>oai:hughandbeckyUsBeckyCV:01</oai:identifier>
-  <oai:datestamp>2021-02-07</oai:datestamp>
+  <oai:identifier>oai:hughandbecky.us/BeckyCV:01</oai:identifier>
+  <oai:datestamp>2021-02-08</oai:datestamp>
  </oai:header>
  <oai:metadata>
   <olac:olac>
@@ -522,8 +525,8 @@
 </oai:record>
 <oai:record>
  <oai:header>
-  <oai:identifier>oai:hughandbeckyUsBeckyCV:01</oai:identifier>
-  <oai:datestamp>2021-02-07</oai:datestamp>
+  <oai:identifier>oai:hughandbecky.us/BeckyCV:01</oai:identifier>
+  <oai:datestamp>2021-02-08</oai:datestamp>
  </oai:header>
  <oai:metadata>
   <olac:olac>
@@ -545,8 +548,8 @@
 </oai:record>
 <oai:record>
  <oai:header>
-  <oai:identifier>oai:hughandbeckyUsBeckyCV:01</oai:identifier>
-  <oai:datestamp>2021-02-07</oai:datestamp>
+  <oai:identifier>oai:hughandbecky.us/BeckyCV:01</oai:identifier>
+  <oai:datestamp>2021-02-08</oai:datestamp>
  </oai:header>
  <oai:metadata>
   <olac:olac>
@@ -577,8 +580,8 @@
 </oai:record>
 <oai:record>
  <oai:header>
-  <oai:identifier>oai:hughandbeckyUsBeckyCV:01</oai:identifier>
-  <oai:datestamp>2021-02-07</oai:datestamp>
+  <oai:identifier>oai:hughandbecky.us/BeckyCV:01</oai:identifier>
+  <oai:datestamp>2021-02-08</oai:datestamp>
  </oai:header>
  <oai:metadata>
   <olac:olac>
@@ -603,8 +606,8 @@
 </oai:record>
 <oai:record>
  <oai:header>
-  <oai:identifier>oai:hughandbeckyUsBeckyCV:01</oai:identifier>
-  <oai:datestamp>2021-02-07</oai:datestamp>
+  <oai:identifier>oai:hughandbecky.us/BeckyCV:01</oai:identifier>
+  <oai:datestamp>2021-02-08</oai:datestamp>
  </oai:header>
  <oai:metadata>
   <olac:olac>
@@ -632,8 +635,8 @@
 </oai:record>
 <oai:record>
  <oai:header>
-  <oai:identifier>oai:hughandbeckyUsBeckyCV:01</oai:identifier>
-  <oai:datestamp>2021-02-07</oai:datestamp>
+  <oai:identifier>oai:hughandbecky.us/BeckyCV:01</oai:identifier>
+  <oai:datestamp>2021-02-08</oai:datestamp>
  </oai:header>
  <oai:metadata>
   <olac:olac>
@@ -654,8 +657,8 @@
 </oai:record>
 <oai:record>
  <oai:header>
-  <oai:identifier>oai:hughandbeckyUsBeckyCV:01</oai:identifier>
-  <oai:datestamp>2021-02-07</oai:datestamp>
+  <oai:identifier>oai:hughandbecky.us/BeckyCV:01</oai:identifier>
+  <oai:datestamp>2021-02-08</oai:datestamp>
  </oai:header>
  <oai:metadata>
   <olac:olac>
@@ -676,8 +679,8 @@
 </oai:record>
 <oai:record>
  <oai:header>
-  <oai:identifier>oai:hughandbeckyUsBeckyCV:01</oai:identifier>
-  <oai:datestamp>2021-02-07</oai:datestamp>
+  <oai:identifier>oai:hughandbecky.us/BeckyCV:01</oai:identifier>
+  <oai:datestamp>2021-02-08</oai:datestamp>
  </oai:header>
  <oai:metadata>
   <olac:olac>
@@ -700,8 +703,8 @@
 </oai:record>
 <oai:record>
  <oai:header>
-  <oai:identifier>oai:hughandbeckyUsBeckyCV:01</oai:identifier>
-  <oai:datestamp>2021-02-07</oai:datestamp>
+  <oai:identifier>oai:hughandbecky.us/BeckyCV:01</oai:identifier>
+  <oai:datestamp>2021-02-08</oai:datestamp>
  </oai:header>
  <oai:metadata>
   <olac:olac>
@@ -724,8 +727,8 @@
 </oai:record>
 <oai:record>
  <oai:header>
-  <oai:identifier>oai:hughandbeckyUsBeckyCV:01</oai:identifier>
-  <oai:datestamp>2021-02-07</oai:datestamp>
+  <oai:identifier>oai:hughandbecky.us/BeckyCV:01</oai:identifier>
+  <oai:datestamp>2021-02-08</oai:datestamp>
  </oai:header>
  <oai:metadata>
   <olac:olac>
@@ -751,8 +754,8 @@
 </oai:record>
 <oai:record>
  <oai:header>
-  <oai:identifier>oai:hughandbeckyUsBeckyCV:01</oai:identifier>
-  <oai:datestamp>2021-02-07</oai:datestamp>
+  <oai:identifier>oai:hughandbecky.us/BeckyCV:01</oai:identifier>
+  <oai:datestamp>2021-02-08</oai:datestamp>
  </oai:header>
  <oai:metadata>
   <olac:olac>
@@ -777,8 +780,8 @@
 </oai:record>
 <oai:record>
  <oai:header>
-  <oai:identifier>oai:hughandbeckyUsBeckyCV:01</oai:identifier>
-  <oai:datestamp>2021-02-07</oai:datestamp>
+  <oai:identifier>oai:hughandbecky.us/BeckyCV:01</oai:identifier>
+  <oai:datestamp>2021-02-08</oai:datestamp>
  </oai:header>
  <oai:metadata>
   <olac:olac>
@@ -807,8 +810,8 @@
 </oai:record>
 <oai:record>
  <oai:header>
-  <oai:identifier>oai:hughandbeckyUsBeckyCV:01</oai:identifier>
-  <oai:datestamp>2021-02-07</oai:datestamp>
+  <oai:identifier>oai:hughandbecky.us/BeckyCV:01</oai:identifier>
+  <oai:datestamp>2021-02-08</oai:datestamp>
  </oai:header>
  <oai:metadata>
   <olac:olac>
@@ -837,8 +840,8 @@
 </oai:record>
 <oai:record>
  <oai:header>
-  <oai:identifier>oai:hughandbeckyUsBeckyCV:01</oai:identifier>
-  <oai:datestamp>2021-02-07</oai:datestamp>
+  <oai:identifier>oai:hughandbecky.us/BeckyCV:01</oai:identifier>
+  <oai:datestamp>2021-02-08</oai:datestamp>
  </oai:header>
  <oai:metadata>
   <olac:olac>
@@ -864,8 +867,8 @@
 </oai:record>
 <oai:record>
  <oai:header>
-  <oai:identifier>oai:hughandbeckyUsBeckyCV:01</oai:identifier>
-  <oai:datestamp>2021-02-07</oai:datestamp>
+  <oai:identifier>oai:hughandbecky.us/BeckyCV:01</oai:identifier>
+  <oai:datestamp>2021-02-08</oai:datestamp>
  </oai:header>
  <oai:metadata>
   <olac:olac>
@@ -892,8 +895,8 @@
 </oai:record>
 <oai:record>
  <oai:header>
-  <oai:identifier>oai:hughandbeckyUsBeckyCV:01</oai:identifier>
-  <oai:datestamp>2021-02-07</oai:datestamp>
+  <oai:identifier>oai:hughandbecky.us/BeckyCV:01</oai:identifier>
+  <oai:datestamp>2021-02-08</oai:datestamp>
  </oai:header>
  <oai:metadata>
   <olac:olac>
@@ -921,8 +924,8 @@
 </oai:record>
 <oai:record>
  <oai:header>
-  <oai:identifier>oai:hughandbeckyUsBeckyCV:01</oai:identifier>
-  <oai:datestamp>2021-02-07</oai:datestamp>
+  <oai:identifier>oai:hughandbecky.us/BeckyCV:01</oai:identifier>
+  <oai:datestamp>2021-02-08</oai:datestamp>
  </oai:header>
  <oai:metadata>
   <olac:olac>
@@ -948,8 +951,8 @@
 </oai:record>
 <oai:record>
  <oai:header>
-  <oai:identifier>oai:hughandbeckyUsBeckyCV:01</oai:identifier>
-  <oai:datestamp>2021-02-07</oai:datestamp>
+  <oai:identifier>oai:hughandbecky.us/BeckyCV:01</oai:identifier>
+  <oai:datestamp>2021-02-08</oai:datestamp>
  </oai:header>
  <oai:metadata>
   <olac:olac>
@@ -980,8 +983,8 @@
 </oai:record>
 <oai:record>
  <oai:header>
-  <oai:identifier>oai:hughandbeckyUsBeckyCV:01</oai:identifier>
-  <oai:datestamp>2021-02-07</oai:datestamp>
+  <oai:identifier>oai:hughandbecky.us/BeckyCV:01</oai:identifier>
+  <oai:datestamp>2021-02-08</oai:datestamp>
  </oai:header>
  <oai:metadata>
   <olac:olac>
@@ -1003,8 +1006,8 @@
 </oai:record>
 <oai:record>
  <oai:header>
-  <oai:identifier>oai:hughandbeckyUsBeckyCV:01</oai:identifier>
-  <oai:datestamp>2021-02-07</oai:datestamp>
+  <oai:identifier>oai:hughandbecky.us/BeckyCV:01</oai:identifier>
+  <oai:datestamp>2021-02-08</oai:datestamp>
  </oai:header>
  <oai:metadata>
   <olac:olac>
@@ -1032,8 +1035,8 @@
 </oai:record>
 <oai:record>
  <oai:header>
-  <oai:identifier>oai:hughandbeckyUsBeckyCV:01</oai:identifier>
-  <oai:datestamp>2021-02-07</oai:datestamp>
+  <oai:identifier>oai:hughandbecky.us/BeckyCV:01</oai:identifier>
+  <oai:datestamp>2021-02-08</oai:datestamp>
  </oai:header>
  <oai:metadata>
   <olac:olac>
@@ -1052,8 +1055,8 @@
 </oai:record>
 <oai:record>
  <oai:header>
-  <oai:identifier>oai:hughandbeckyUsBeckyCV:01</oai:identifier>
-  <oai:datestamp>2021-02-07</oai:datestamp>
+  <oai:identifier>oai:hughandbecky.us/BeckyCV:01</oai:identifier>
+  <oai:datestamp>2021-02-08</oai:datestamp>
  </oai:header>
  <oai:metadata>
   <olac:olac>
@@ -1078,8 +1081,8 @@
 </oai:record>
 <oai:record>
  <oai:header>
-  <oai:identifier>oai:hughandbeckyUsBeckyCV:01</oai:identifier>
-  <oai:datestamp>2021-02-07</oai:datestamp>
+  <oai:identifier>oai:hughandbecky.us/BeckyCV:01</oai:identifier>
+  <oai:datestamp>2021-02-08</oai:datestamp>
  </oai:header>
  <oai:metadata>
   <olac:olac>
@@ -1100,8 +1103,8 @@
 </oai:record>
 <oai:record>
  <oai:header>
-  <oai:identifier>oai:hughandbeckyUsBeckyCV:01</oai:identifier>
-  <oai:datestamp>2021-02-07</oai:datestamp>
+  <oai:identifier>oai:hughandbecky.us/BeckyCV:01</oai:identifier>
+  <oai:datestamp>2021-02-08</oai:datestamp>
  </oai:header>
  <oai:metadata>
   <olac:olac>
@@ -1124,8 +1127,8 @@
 </oai:record>
 <oai:record>
  <oai:header>
-  <oai:identifier>oai:hughandbeckyUsBeckyCV:01</oai:identifier>
-  <oai:datestamp>2021-02-07</oai:datestamp>
+  <oai:identifier>oai:hughandbecky.us/BeckyCV:01</oai:identifier>
+  <oai:datestamp>2021-02-08</oai:datestamp>
  </oai:header>
  <oai:metadata>
   <olac:olac>
@@ -1153,8 +1156,8 @@
 </oai:record>
 <oai:record>
  <oai:header>
-  <oai:identifier>oai:hughandbeckyUsBeckyCV:01</oai:identifier>
-  <oai:datestamp>2021-02-07</oai:datestamp>
+  <oai:identifier>oai:hughandbecky.us/BeckyCV:01</oai:identifier>
+  <oai:datestamp>2021-02-08</oai:datestamp>
  </oai:header>
  <oai:metadata>
   <olac:olac>
@@ -1181,8 +1184,8 @@
 </oai:record>
 <oai:record>
  <oai:header>
-  <oai:identifier>oai:hughandbeckyUsBeckyCV:01</oai:identifier>
-  <oai:datestamp>2021-02-07</oai:datestamp>
+  <oai:identifier>oai:hughandbecky.us/BeckyCV:01</oai:identifier>
+  <oai:datestamp>2021-02-08</oai:datestamp>
  </oai:header>
  <oai:metadata>
   <olac:olac>
@@ -1209,8 +1212,8 @@
 </oai:record>
 <oai:record>
  <oai:header>
-  <oai:identifier>oai:hughandbeckyUsBeckyCV:01</oai:identifier>
-  <oai:datestamp>2021-02-07</oai:datestamp>
+  <oai:identifier>oai:hughandbecky.us/BeckyCV:01</oai:identifier>
+  <oai:datestamp>2021-02-08</oai:datestamp>
  </oai:header>
  <oai:metadata>
   <olac:olac>
@@ -1237,8 +1240,8 @@
 </oai:record>
 <oai:record>
  <oai:header>
-  <oai:identifier>oai:hughandbeckyUsBeckyCV:01</oai:identifier>
-  <oai:datestamp>2021-02-07</oai:datestamp>
+  <oai:identifier>oai:hughandbecky.us/BeckyCV:01</oai:identifier>
+  <oai:datestamp>2021-02-08</oai:datestamp>
  </oai:header>
  <oai:metadata>
   <olac:olac>
@@ -1265,8 +1268,8 @@
 </oai:record>
 <oai:record>
  <oai:header>
-  <oai:identifier>oai:hughandbeckyUsBeckyCV:01</oai:identifier>
-  <oai:datestamp>2021-02-07</oai:datestamp>
+  <oai:identifier>oai:hughandbecky.us/BeckyCV:01</oai:identifier>
+  <oai:datestamp>2021-02-08</oai:datestamp>
  </oai:header>
  <oai:metadata>
   <olac:olac>
