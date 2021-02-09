@@ -18,7 +18,7 @@
                                 https://hughandbecky.us/Becky-CV/schemas/zotero/zotero-items.xsd">
 <Identify>
     <oai:repositoryName>Rebecca Paterson CV</oai:repositoryName>
-    <oai:baseURL>https://hughandbecky.us/Becky-CV/</oai:baseURL>
+    <oai:baseURL>https://hughandbecky.us/Becky-CV/olac/oai.xml</oai:baseURL>
     <oai:protocolVersion>2.0</oai:protocolVersion>
     <oai:adminEmail>i&#43;olac@hp3.me</oai:adminEmail>
     <oai:earliestDatestamp>2000-01-01</oai:earliestDatestamp>
