@@ -5,12 +5,38 @@
     <link>https://hughandbecky.us/Hugh-CV/category/jot/</link>
       <atom:link href="https://hughandbecky.us/Hugh-CV/category/jot/index.xml" rel="self" type="application/rss+xml" />
     <description>Jot</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2021</copyright><lastBuildDate>Sat, 29 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2021</copyright><lastBuildDate>Fri, 15 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://hughandbecky.us/Hugh-CV/media/HughPaterson.jpg</url>
       <title>Jot</title>
       <link>https://hughandbecky.us/Hugh-CV/category/jot/</link>
     </image>
+    
+    <item>
+      <title>PDFs from Webpages</title>
+      <link>https://hughandbecky.us/Hugh-CV/post/pdfs-of-webpages/</link>
+      <pubDate>Fri, 15 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/post/pdfs-of-webpages/</guid>
+      <description>&lt;p&gt;In the course of writing a paper I needed to take screen shots of webpages and include those as figures in the paper. I could take a screenshot save it as a .png or .jpg and call it good. However these sorts of images do not provide a great deal of resolution and do not look clean in a published paper. Especially when dealing with screenshots as the resolution is not very high — at least in my experince. I could print the web page to PDF but a post-script style PDF would basically create an image and wrap it in a PDF. This is not really any better than the screenshot solution.&lt;/p&gt;
+&lt;p&gt;With a quick internet search I uncovered two potential solutions: 
+&lt;a href=&#34;https://wkhtmltopdf.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;wkhtmltopdf&lt;/a&gt; and 
+&lt;a href=&#34;http://cssbox.sourceforge.net/webvector/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;WebVector/CSSBox&lt;/a&gt;. I decided to try out &lt;code&gt;wkhtmltopdf&lt;/code&gt;. It was simple and easy to install on linux. It produces great resutls with a bit of tinkering (
+&lt;a href=&#34;https://wkhtmltopdf.org/usage/wkhtmltopdf.txt&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;manual here&lt;/a&gt;). Though it should be noted that &lt;code&gt;wkhtmltopdf&lt;/code&gt; is based on webkit which has mostly not seen progressive development. I also tried WebVector (specifically on the website Pangloss) and it did not produce expected results.&lt;/p&gt;
+&lt;p&gt;Playing around with wkhtmltopdf I was able to produce a PDF of several webpages I was looking to include. I used the following workflow after install:&lt;/p&gt;
+&lt;p&gt;I adjusted my screen size to fit the type of display I wanted. Then I measured it via 
+&lt;a href=&#34;https://whatismyviewport.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;whatismyviewport.com&lt;/a&gt;. I took that and made it my viewport size. Then I played around with my output settings for the PDF. I knew that I wanted really low margins because I was going to embed this PDF as a figure in another PDF. Then I continued to play around with the page size to find the cut-off point between the content I wanted and the footer.
+In the end the code I used looked like this:&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;wkhtmltopdf --no-print-media-type --viewport-size 1100 --page-height 6.25in --page-width 7.75in -T 1mm -B 1mm -R 1mm -L 1mm --load-media-error-handling skip --enable-javascript --javascript-delay 2000 https://www.sil.org/resources/archives/52216 sil-item.pdf&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;wkhtmltopdf --no-print-media-type --viewport-size 1100 --page-height 8in --page-width 7.75in -T 1mm -B 1mm -R 1mm -L 1mm --load-media-error-handling skip --enable-javascript --javascript-delay 2000 https://scholarspace.manoa.hawaii.edu/handle/10125/30788 K-item.pdf&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;wkhtmltopdf --no-print-media-type --viewport-size 1100 --page-height 8.75in --page-width 7in -T 1mm -B 1mm -R 1mm -L 1mm --load-media-error-handling skip --enable-javascript --javascript-delay 2000 http://www.language-archives.org/item/oai:sil.org:52216 olac-item1.pdf&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;This produced a nice PDF. But I needed to get rid of the second page. I did this with PDF-Shuffler and just deleted the second page.
+I wanted to include the final PDF in XLingPaper which uses XeLaTeX on the back end. However one of the current dependencies only allows PDFs of version 1.4 or older. So I had to &amp;ldquo;back version&amp;rdquo; the PDF version to 1.4. I the following code (adjustin for file names) to do that.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;gs -q -sDEVICE=pdfwrite -dCompatibilityLevel=1.4 -o out.pdf in.pdf&lt;/code&gt; &lt;!-- https://superuser.com/questions/25598/linux-pdf-version-converter --&gt;
+My suspicion though is that passing the PDF through GhostSript also removes some of the mark-up features which already exist in the PDF via &lt;code&gt;wkhtmltopdf&lt;/code&gt;. This may include some of the links and embedded fonts — but on this last point I am not 100 percent sure.&lt;/p&gt;
+&lt;p&gt;In an earlier version of this workflow I was using standard size pages (A4, A3, etc.). Doing so required that I then cut the PDF so that the usable portion was able to usefully be scaled in xlingpaper. To do this I used 
+&lt;a href=&#34;https://pdfresizer.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;pdfresizer.com&lt;/a&gt; to reduce the physical dimensions of pdf paes. However this was not necessary to maintain because I was able to specify the dimentions I needed directly in &lt;code&gt;wkhtmltopdf&lt;/code&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Non-Google Collaboration Tools</title>
@@ -19,8 +45,10 @@
       <guid>https://hughandbecky.us/Hugh-CV/post/non-google-collaborative-solutions/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://peerpad.net&#34;&gt;https://peerpad.net&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://pad.spline.de&#34;&gt;http://pad.spline.de&lt;/a&gt;
-&lt;a href=&#34;https://www.babelstone.co.uk/Unicode/whatisit.html&#34;&gt;https://www.babelstone.co.uk/Unicode/whatisit.html&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://pad.spline.de&#34;&gt;http://pad.spline.de&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.babelstone.co.uk/Unicode/whatisit.html&#34;&gt;https://www.babelstone.co.uk/Unicode/whatisit.html&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Github.com&lt;/li&gt;
+&lt;li&gt;Telegram&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
