@@ -5,12 +5,29 @@
     <link>https://hughandbecky.us/Hugh-CV/tag/digital-archival/</link>
       <atom:link href="https://hughandbecky.us/Hugh-CV/tag/digital-archival/index.xml" rel="self" type="application/rss+xml" />
     <description>Digital Archival</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2021</copyright><lastBuildDate>Wed, 03 Dec 2014 01:41:38 -0700</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2021</copyright><lastBuildDate>Sun, 21 Mar 2021 01:41:38 -0700</lastBuildDate>
     <image>
       <url>https://hughandbecky.us/Hugh-CV/media/HughPaterson.jpg</url>
       <title>Digital Archival</title>
       <link>https://hughandbecky.us/Hugh-CV/tag/digital-archival/</link>
     </image>
+    
+    <item>
+      <title>Presenting oral texts with transcriptions online</title>
+      <link>https://hughandbecky.us/Hugh-CV/post/presenting-oral-texts-with-transcriptions-online/</link>
+      <pubDate>Sun, 21 Mar 2021 01:41:38 -0700</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/post/presenting-oral-texts-with-transcriptions-online/</guid>
+      <description>&lt;p&gt;This is just a short list of tools for presenting time-aligned texts online.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;LingView: &lt;a href=&#34;https://people.eecs.berkeley.edu/~nicholas_tomlin/research/papers/ldc.pdf&#34;&gt;https://people.eecs.berkeley.edu/~nicholas_tomlin/research/papers/ldc.pdf&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://multicast.aspra.uni-bamberg.de/&#34;&gt;https://multicast.aspra.uni-bamberg.de/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/eopas/eopas&#34;&gt;https://github.com/eopas/eopas&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Pangloss has a nice presentation : &lt;a href=&#34;https://doi.org/10.24397/pangloss-0004676&#34;&gt;https://doi.org/10.24397/pangloss-0004676&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://community.village.virginia.edu/etst/&#34;&gt;http://community.village.virginia.edu/etst/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- there is another one that alix M. sent me in his github repo... check my emials. --&gt;
+</description>
+    </item>
     
     <item>
       <title>Academic resources for Ethno-arts in Nigeria</title>
@@ -79,6 +96,19 @@
 &lt;li&gt;Myers, Helen. 1992. Ethnomusicology: Historical and Regional Studies. New York: W.W. Norton.&lt;/li&gt;
 &lt;li&gt;Post, Jennifer C. 2011. Ethnomusicology: a research and information guide, 2nd edn. New York: Routledge.&lt;/li&gt;
 &lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The SIL archive and its two sided markets</title>
+      <link>https://hughandbecky.us/Hugh-CV/post/the-sil-archive-and-its-two-sided-markets/</link>
+      <pubDate>Sun, 03 Feb 2013 01:41:38 -0700</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/post/the-sil-archive-and-its-two-sided-markets/</guid>
+      <description>&lt;p&gt;I have been thinking about the language data marketplace (exchange if one prefers), and the role of archives in a world where minority language speakers are also internet users and digital file consumers. In particular I have been thinking about 
+&lt;a href=&#34;http://www.sil.org/resources/language-culture-archives&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SIL’s Language and Culture Archive&lt;/a&gt; and the economic model called a 
+&lt;a href=&#34;http://en.wikipedia.org/wiki/Two-sided_market&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;two sided market&lt;/a&gt;. So, SIL as “Partners in Language Development” seems to be well situated for analysis using the two sided market analysis (matching linguist and professionals with language development skills, and persons with language development skills with interested parties in developing their language). On the surface, it seems that the SIL archive would also benefit from being the center of exchange between these same two groups. This is the subject of one of my slides for 
+&lt;a href=&#34;https://hughandbecky.us/Hugh-CV/publication/2013-challenges-ramp&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;an upcoming presentation&lt;/a&gt;, therefore I sketched out the interactions various SIL staff might have with the archive to see if I could diagram the social interactions around language data in SIL’s two sided market. To my surprise, the two sided nature of access to data in the archive is not supported, thereby blocking a data-centric archiving service. It makes me wonder what the perceived value of the archive really is, and if the perceived value is low, then why bother? What is the return on investment (ROI) for users on either side of the market?&lt;/p&gt;
+&lt;p&gt;I tried to summarize the relationships between the various clients of the archive in the following image.&lt;/p&gt;
 </description>
     </item>
     

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Paris, France | Hugh&#39;s Curriculum Vitae</title>
+    <link>https://hughandbecky.us/Hugh-CV/written_from/paris-france/</link>
+      <atom:link href="https://hughandbecky.us/Hugh-CV/written_from/paris-france/index.xml" rel="self" type="application/rss+xml" />
+    <description>Paris, France</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2021</copyright><lastBuildDate>Sun, 21 Mar 2021 01:41:38 -0700</lastBuildDate>
+    <image>
+      <url>https://hughandbecky.us/Hugh-CV/media/HughPaterson.jpg</url>
+      <title>Paris, France</title>
+      <link>https://hughandbecky.us/Hugh-CV/written_from/paris-france/</link>
+    </image>
+    
+    <item>
+      <title>Presenting oral texts with transcriptions online</title>
+      <link>https://hughandbecky.us/Hugh-CV/post/presenting-oral-texts-with-transcriptions-online/</link>
+      <pubDate>Sun, 21 Mar 2021 01:41:38 -0700</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/post/presenting-oral-texts-with-transcriptions-online/</guid>
+      <description>&lt;p&gt;This is just a short list of tools for presenting time-aligned texts online.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;LingView: &lt;a href=&#34;https://people.eecs.berkeley.edu/~nicholas_tomlin/research/papers/ldc.pdf&#34;&gt;https://people.eecs.berkeley.edu/~nicholas_tomlin/research/papers/ldc.pdf&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://multicast.aspra.uni-bamberg.de/&#34;&gt;https://multicast.aspra.uni-bamberg.de/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/eopas/eopas&#34;&gt;https://github.com/eopas/eopas&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Pangloss has a nice presentation : &lt;a href=&#34;https://doi.org/10.24397/pangloss-0004676&#34;&gt;https://doi.org/10.24397/pangloss-0004676&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://community.village.virginia.edu/etst/&#34;&gt;http://community.village.virginia.edu/etst/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- there is another one that alix M. sent me in his github repo... check my emials. --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
