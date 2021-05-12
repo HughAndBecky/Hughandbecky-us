@@ -126,7 +126,7 @@
     <dcterms:dateCopyrighted>2021</dcterms:dateCopyrighted>
     <dcterms:modified>2021-09-22</dcterms:modified>
 
-<dcterms:bibliographicCitation>Paterson, Rebecca Dow, Abbie Hantgan-Sanko &amp;amp; Rebecca Voll. (Panel co-organizers) 2021. “Exploring the logophoric continuum” special panel at the 4th Symposium on West African Languages (Sep 22–24). Università degli Studi di Napoli “L’Orientale”. Originally scheduled for 23–25 September 2020; postponed due to Covid-19.</dcterms:bibliographicCitation>
+<dcterms:bibliographicCitation>Paterson, Rebecca Dow, Abbie Hantgan-Sanko & Rebecca Voll. (Panel co-organizers) 2021. “Exploring the logophoric continuum” special panel at the 4th Symposium on West African Languages (Sep 22–24). Università degli Studi di Napoli “L’Orientale”. Originally scheduled for 23–25 September 2020; postponed due to Covid-19.</dcterms:bibliographicCitation>
 </olac:olac>
  </oai:metadata>
 </oai:record>
@@ -170,7 +170,7 @@
   <olac:olac>
     <dc:title>Building Multilingual Comparable Corpora</dc:title>
     <dcterms:abstract>Building on existing corpora and new documentary fieldwork in West Africa, we are creating a multilingual comparative corpus. We present a technology toolkit and three parallel workflows that can be used to mobilize language materials for a variety of purposes, particularly for the discovery of discourse patterns in legacy materials.</dcterms:abstract>
-    <dc:description>Building on existing corpora and new audio/video documentary fieldwork from 12&#43; languages from across West Africa, we are creating a multilingual comparative corpus with input from 20&#43; collaborating researchers (Nikitina et al. 2020). We present a toolkit of technologies and three parallel workflows that can be used to mobilize language materials from diverse sources for a variety of purposes, particularly for the discovery of discourse patterns in legacy materials that could then be used in revitalization efforts. Our toolkit includes the following technologies: ELAN-CorpA (Chanard 2015; 2019), Fieldworks Language Explorer (FLEx, SIL International), Toolbox (SIL International), ELAN Tools (Chanard et al. 2020, under development), SpeechReporting Template (Nikitina et al. 2019) and Tsakorpus (Arkhangelskiy 2019). The three workflows differ with regard to the initial file format and the software platform that is to be used for parsing and glossing of texts. All three workflows lead to a collection of annotated files that can be queried with ELAN-CorpA (Hantgan 2019). In the first workflow, (1) ELAN-CorpA is used for time-aligned translation and transcription of a recorded text; (2) FLEx is used to parse and gloss the text, and (3) ELAN Toolsconverts the .flextext export into the project template for use in ELAN-CorpA. (4) Once in the project template, the text is annotated for project categories and complex queries can be run across all texts in any language using search features of ELAN-CorpA. In the second workflow, (1) transcription, translation, parsing and glossing is done in Toolbox, (2) ELAN Tools converts a Toolbox file to the project template; (3) ELAN-CorpA is used to time align and annotate for the project. In the third workflow, translation, transcription, parsing and glossing is all done in ELAN-CorpA using the project template from initial stages. Using these three workflows, the data from various source file types is processed into a shared format that will be displayed in an online platform via Tsakorpus.This methodology may be of interest to community members looking for ways to prepare already-collected language materials in order to display them on the internet, those interested in specific questions regarding discourse phenomena, typologists, and linguists in general.</dc:description>
+    <dc:description>Building on existing corpora and new audio/video documentary fieldwork from 12+ languages from across West Africa, we are creating a multilingual comparative corpus with input from 20+ collaborating researchers (Nikitina et al. 2020). We present a toolkit of technologies and three parallel workflows that can be used to mobilize language materials from diverse sources for a variety of purposes, particularly for the discovery of discourse patterns in legacy materials that could then be used in revitalization efforts. Our toolkit includes the following technologies: ELAN-CorpA (Chanard 2015; 2019), Fieldworks Language Explorer (FLEx, SIL International), Toolbox (SIL International), ELAN Tools (Chanard et al. 2020, under development), SpeechReporting Template (Nikitina et al. 2019) and Tsakorpus (Arkhangelskiy 2019). The three workflows differ with regard to the initial file format and the software platform that is to be used for parsing and glossing of texts. All three workflows lead to a collection of annotated files that can be queried with ELAN-CorpA (Hantgan 2019). In the first workflow, (1) ELAN-CorpA is used for time-aligned translation and transcription of a recorded text; (2) FLEx is used to parse and gloss the text, and (3) ELAN Toolsconverts the .flextext export into the project template for use in ELAN-CorpA. (4) Once in the project template, the text is annotated for project categories and complex queries can be run across all texts in any language using search features of ELAN-CorpA. In the second workflow, (1) transcription, translation, parsing and glossing is done in Toolbox, (2) ELAN Tools converts a Toolbox file to the project template; (3) ELAN-CorpA is used to time align and annotate for the project. In the third workflow, translation, transcription, parsing and glossing is all done in ELAN-CorpA using the project template from initial stages. Using these three workflows, the data from various source file types is processed into a shared format that will be displayed in an online platform via Tsakorpus.This methodology may be of interest to community members looking for ways to prepare already-collected language materials in order to display them on the internet, those interested in specific questions regarding discourse phenomena, typologists, and linguists in general.</dc:description>
     <dc:identifier xsi:type="dcterms:URI">https://hughandbecky.us/Becky-CV/talk/2021-building-multilingual-comparable-corpora/</dc:identifier><dc:contributor xsi:type="olac:role" olac:code="speaker">Rebecca Paterson</dc:contributor><dc:contributor xsi:type="olac:role" olac:code="researcher">Rebecca Paterson</dc:contributor><dc:contributor xsi:type="olac:role" olac:code="speaker">Christian Chanard</dc:contributor><dc:contributor xsi:type="olac:role" olac:code="researcher">Christian Chanard</dc:contributor><dc:contributor xsi:type="olac:role" olac:code="researcher">Abbie Hantgan‑Sonko</dc:contributor><dc:contributor xsi:type="olac:role" olac:code="speaker">Abbie Hantgan‑Sonko</dc:contributor>
     <dc:type xsi:type="olac:linguistic-type" olac:code="language_description">language_description</dc:type>
     <dc:subject xsi:type="olac:linguistic-field" olac:code="language_documentation">language_documentation</dc:subject>
@@ -186,7 +186,7 @@
     <dcterms:dateCopyrighted>2021</dcterms:dateCopyrighted>
     <dcterms:modified>2021-03-04</dcterms:modified>
 
-<dcterms:bibliographicCitation>Paterson, Rebecca Dow Smith, Abbie Hantgan &amp;amp; Ekaterina Aplonova. 2021. Building Multilingual Comparable Corpora. Presentation Abstract presented at the The 7th International Conference on Language Documentation &amp;amp; Conservation (ICLDC), 4–7 March, University of Hawai‘i at Mānoa. http://ling.lll.hawaii.edu/sites/icldc.</dcterms:bibliographicCitation>
+<dcterms:bibliographicCitation>Paterson, Rebecca Dow Smith, Abbie Hantgan & Christian Chanard. 2021. Building Multilingual Comparable Corpora. Presentation Abstract presented at The 7th International Conference on Language Documentation & Conservation (ICLDC), 4–7 March, University of Hawai‘i at Mānoa. <a href="http://ling.lll.hawaii.edu/sites/icldc"><a href="http://ling.lll.hawaii.edu/sites/icldc">http://ling.lll.hawaii.edu/sites/icldc</a></a>.</dcterms:bibliographicCitation>
 </olac:olac>
  </oai:metadata>
 </oai:record>
@@ -218,7 +218,7 @@
     <dcterms:dateCopyrighted>2021</dcterms:dateCopyrighted>
     <dcterms:modified>2021-03-04</dcterms:modified>
 
-<dcterms:bibliographicCitation>Paterson, Rebecca Dow. 2021. Songs: Language Choice and Verbal Art. Presented at The 7th International Conference on Language Documentation &amp;amp; Conservation (ICLDC), March 4–7. University of Hawai‘i at Mānoa.</dcterms:bibliographicCitation>
+<dcterms:bibliographicCitation>Paterson, Rebecca Dow. 2021. Songs: Language Choice and Verbal Art. Presented at The 7th International Conference on Language Documentation & Conservation (ICLDC), March 4–7. University of Hawai‘i at Mānoa.</dcterms:bibliographicCitation>
 </olac:olac>
  </oai:metadata>
 </oai:record>
@@ -231,7 +231,7 @@
   <olac:olac>
     <dc:title>Reported Speech in u̱t‑Maꞌin</dc:title>
     <dcterms:abstract>A look at two constructions used for speech reporting in u̱t‑Maꞌin narrative texts and an overview of how the form of speech reporting constructions can extend beyond the bounds of the speech domain.</dcterms:abstract>
-    <dc:description>Using narrative data from u̱t‑Maꞌin [gel], a Kainji language of northwestern Nigeria, I first present two main strategies for speech reporting: the prolific SAY‑construction and the SPEECH VP &#43; ɘ̄zɘ̄ SAYING‑construction. Second, I discuss uses of the SAYING‑construction that have extended beyond the reported speech domain. The SAY‑construction uses a form of the verb zɘ̄, which can occur with the full range of verbal suffixes. The reported speaker (RS) occurs in the preverbal subject position. An optional reported listener (RL) occurs in the postverbal primary object (O₁) position, typically used for recipients in ditransitive clauses. The speech report (Report) occurs after any optional reported listener. This is parallel to the location of the secondary object (O₂) , typically used for theme arguments in ditransitive clauses. Prosodically, certain speakers pause or adjust pitch immediately before the Report. Pause and pitch adjustment are not features of other ditransitive clauses which highlights questions of constituency.See Example 1 belowIn the SAYING‑construction, the form ɘ̄zɘ̄, which is transparently related to the verb zɘ̄ ‘say’ and yet never takes verbal inflection, occurs between the optional RL and the Report, as in (2). The main verb is often a speech related verb like ‘tell’, ‘ask’, or ‘shout’. Any prosodic pause or shift in pitch follows ɘ̄zɘ̄, and immediately precedes the Report as in the SAY‑construction.See Example 2 belowIn the final section, I present a broad range of uses of the complementizer ɘ̄zɘ̄ and the various monoclausal and biclausal constructions in which it is found with predicates of perception and cognition like ‘hear’, ‘know’, or ‘think’, as well as clauses expressing result, reason, hypothetical condition, and definition. Evidence for the grammaticalization of ɘ̄zɘ̄ comes from change in meaning, function, and adjustments to prosodic boundaries.</dc:description>
+    <dc:description>Using narrative data from u̱t‑Maꞌin [gel], a Kainji language of northwestern Nigeria, I first present two main strategies for speech reporting: the prolific SAY‑construction and the SPEECH VP + ɘ̄zɘ̄ SAYING‑construction. Second, I discuss uses of the SAYING‑construction that have extended beyond the reported speech domain. The SAY‑construction uses a form of the verb zɘ̄, which can occur with the full range of verbal suffixes. The reported speaker (RS) occurs in the preverbal subject position. An optional reported listener (RL) occurs in the postverbal primary object (O₁) position, typically used for recipients in ditransitive clauses. The speech report (Report) occurs after any optional reported listener. This is parallel to the location of the secondary object (O₂) , typically used for theme arguments in ditransitive clauses. Prosodically, certain speakers pause or adjust pitch immediately before the Report. Pause and pitch adjustment are not features of other ditransitive clauses which highlights questions of constituency.See Example 1 belowIn the SAYING‑construction, the form ɘ̄zɘ̄, which is transparently related to the verb zɘ̄ ‘say’ and yet never takes verbal inflection, occurs between the optional RL and the Report, as in (2). The main verb is often a speech related verb like ‘tell’, ‘ask’, or ‘shout’. Any prosodic pause or shift in pitch follows ɘ̄zɘ̄, and immediately precedes the Report as in the SAY‑construction.See Example 2 belowIn the final section, I present a broad range of uses of the complementizer ɘ̄zɘ̄ and the various monoclausal and biclausal constructions in which it is found with predicates of perception and cognition like ‘hear’, ‘know’, or ‘think’, as well as clauses expressing result, reason, hypothetical condition, and definition. Evidence for the grammaticalization of ɘ̄zɘ̄ comes from change in meaning, function, and adjustments to prosodic boundaries.</dc:description>
     <dc:identifier xsi:type="dcterms:URI">https://hughandbecky.us/Becky-CV/talk/2020-reported-speech-in-utmain/</dc:identifier><dc:contributor xsi:type="olac:role" olac:code="speaker">Rebecca Paterson</dc:contributor><dc:contributor xsi:type="olac:role" olac:code="researcher">Rebecca Paterson</dc:contributor>
     <dc:type xsi:type="olac:linguistic-type" olac:code="language_description">language_description</dc:type>
     <dc:subject xsi:type="olac:linguistic-field" olac:code="general_linguistics">general_linguistics</dc:subject>
@@ -251,7 +251,7 @@
     <dcterms:dateCopyrighted>2020</dcterms:dateCopyrighted>
     <dcterms:modified>2020-11-12</dcterms:modified>
 
-<dcterms:bibliographicCitation>Paterson, Rebecca Dow. 2020. Reported Speech in u̱t‑Maꞌin. Presented as part of A data oriented workshop: The grammatical variation of reported speech across languages, hosted by the University of Helsinki, November 12th. Available online: https://hughandbecky.us/Becky-CV/talk/2020-reported-speech-in-utmain</dcterms:bibliographicCitation>
+<dcterms:bibliographicCitation>Paterson, Rebecca Dow. 2020. Reported Speech in u̱t‑Maꞌin. Presented as part of A data oriented workshop: The grammatical variation of reported speech across languages, hosted by the University of Helsinki, November 12th. Available online: <a href="https://hughandbecky.us/Becky-CV/talk/2020-reported-speech-in-utmain"><a href="https://hughandbecky.us/Becky-CV/talk/2020-reported-speech-in-utmain">https://hughandbecky.us/Becky-CV/talk/2020-reported-speech-in-utmain</a></a></dcterms:bibliographicCitation>
 </olac:olac>
  </oai:metadata>
 </oai:record>
@@ -286,7 +286,7 @@
     <dcterms:dateCopyrighted>2020</dcterms:dateCopyrighted>
     <dcterms:modified>2020-08-26</dcterms:modified>
 
-<dcterms:bibliographicCitation>Paterson, Rebecca Dow. 2021. Marked nominative alignment from reanalyzed relative clauses: Towards an explanation of prefixes and suffixes in Northwest Kainji argument marking. 53rd Annual Meeting of the Societas Linguistica Europaea. University of Bucharest, Romania. Via OSF online platform due to Covid‑19. Available online: https://osf.io/be46p</dcterms:bibliographicCitation>
+<dcterms:bibliographicCitation>Paterson, Rebecca Dow. 2021. Marked nominative alignment from reanalyzed relative clauses: Towards an explanation of prefixes and suffixes in Northwest Kainji argument marking. 53rd Annual Meeting of the Societas Linguistica Europaea. University of Bucharest, Romania. Via OSF online platform due to Covid‑19. Available online: <a href="https://osf.io/be46p"><a href="https://osf.io/be46p">https://osf.io/be46p</a></a></dcterms:bibliographicCitation>
 </olac:olac>
  </oai:metadata>
 </oai:record>
@@ -317,7 +317,7 @@
     <dcterms:dateCopyrighted>2020</dcterms:dateCopyrighted>
     <dcterms:modified>2020-07-28</dcterms:modified>
 
-<dcterms:bibliographicCitation>Paterson, Rebecca. 2020. Ubiquitous Association in u̱t‑Maꞌin. Presented in the Summer Colloquia Series, Canada Institute of Linguistics, July 28th. Trinity Western University, Langley, British Columbia, Canada. Available online: https://hughandbecky.us/Becky-CV/talk/2020-ubiquitous-association-in-utmain</dcterms:bibliographicCitation>
+<dcterms:bibliographicCitation>Paterson, Rebecca. 2020. Ubiquitous Association in u̱t‑Maꞌin. Presented in the Summer Colloquia Series, Canada Institute of Linguistics, July 28th. Trinity Western University, Langley, British Columbia, Canada. Available online: <a href="https://hughandbecky.us/Becky-CV/talk/2020-ubiquitous-association-in-utmain"><a href="https://hughandbecky.us/Becky-CV/talk/2020-ubiquitous-association-in-utmain">https://hughandbecky.us/Becky-CV/talk/2020-ubiquitous-association-in-utmain</a></a></dcterms:bibliographicCitation>
 </olac:olac>
  </oai:metadata>
 </oai:record>
@@ -393,7 +393,7 @@
   <olac:olac>
     <dc:title>University of Oregon Ph.D Defense</dc:title>
     <dcterms:abstract>A presentation and defense of my Ph.D dissertation — Nominalization and predication in U̱t‑Maꞌin.</dcterms:abstract>
-    <dc:description>After a brief introduction to the range of phenomena in my dissertation, I presented the associative construction and how it is used in four distinct ways throughout the grammar. I argue that the original function is what we know as Welmers (1963) associative; that is, (1a) “linking” two nouns together, N&#43;N, where the second noun modifies the first noun. Not surprisingly, this same form is also used to (2a) “link” a relative clause to the noun modified by the relative clause, N&#43;RelCl, with the same modification relationship. Additionally, two unexpected functions have also emerged: (1b) from the N&#43;N structure has emerged a potential accusative marker in auxiliary constructions where the form is required when the clause is transitive, and (2b) from the N&#43;RelCl structure has emerged a marked nominative marker in independent clauses when the subject noun is not modified by any other noun phrase constituent. That is, the structure of the RelCl has been reinterpreted as a main clause. The proof of these claims is wrapped up in the details of the noun class system and how agreement is marked on the associative marker.</dc:description>
+    <dc:description>After a brief introduction to the range of phenomena in my dissertation, I presented the associative construction and how it is used in four distinct ways throughout the grammar. I argue that the original function is what we know as Welmers (1963) associative; that is, (1a) “linking” two nouns together, N+N, where the second noun modifies the first noun. Not surprisingly, this same form is also used to (2a) “link” a relative clause to the noun modified by the relative clause, N+RelCl, with the same modification relationship. Additionally, two unexpected functions have also emerged: (1b) from the N+N structure has emerged a potential accusative marker in auxiliary constructions where the form is required when the clause is transitive, and (2b) from the N+RelCl structure has emerged a marked nominative marker in independent clauses when the subject noun is not modified by any other noun phrase constituent. That is, the structure of the RelCl has been reinterpreted as a main clause. The proof of these claims is wrapped up in the details of the noun class system and how agreement is marked on the associative marker.</dc:description>
     <dc:identifier xsi:type="dcterms:URI">https://hughandbecky.us/Becky-CV/talk/2019-becky-ph-d-defense/</dc:identifier><dc:contributor xsi:type="olac:role" olac:code="speaker">Rebecca Paterson</dc:contributor>
     <dc:type xsi:type="olac:linguistic-type" olac:code="language_description">language_description</dc:type>
     <dc:subject xsi:type="olac:linguistic-field" olac:code="general_linguistics">general_linguistics</dc:subject>
@@ -415,7 +415,7 @@
     <dcterms:dateCopyrighted>2019</dcterms:dateCopyrighted>
     <dcterms:modified>2019-08-07</dcterms:modified>
 
-<dcterms:bibliographicCitation>Paterson, Rebecca Dow Smith. 2019. Nominalization and predication in U̱t‑Maꞌin. Dissertation Defence at the University of Oregon: Eugene, Oregon.</dcterms:bibliographicCitation>
+<dcterms:bibliographicCitation>Paterson, Rebecca Dow Smith. 2019. <em>Nominalization and predication in U̱t‑Maꞌin</em>. Dissertation Defence at the University of Oregon: Eugene, Oregon.</dcterms:bibliographicCitation>
 </olac:olac>
  </oai:metadata>
 </oai:record>
@@ -428,7 +428,7 @@
   <olac:olac>
     <dc:title>Development of U̱t‑Maꞌin Progressive Constructions</dc:title>
     <dcterms:abstract>The morphological complexity of the U̱t‑Maꞌin noun class system holds the key to understanding the distinct elements of the two Progressive constructions.</dcterms:abstract>
-    <dc:description>U̱t‑Maꞌin (Kainji, Benue-Congo, Niger-Congo), spoken in northwestern Nigeria by at least 40,000 people, has two morpho-syntactically distinct Progressive constructions – the Intransitive Progressive Construction and the Transitive Progressive Construction. In this talk I present (i) the synchronic structure of each construction, (ii) likely historical sources of the distinct morphology, and (iii) a comparison of the U̱t‑Maꞌin Progressive Constructions with cognate elements from four Kainji language clusters. The Predicate Nominal Construction [NP COP NP] is the diachronic source for both U̱t‑Maꞌin Progressive Constructions. The morphological complexity of the U̠t Ma&amp;rsquo;in noun class system holds the key to understanding the distinct elements of the two Progressive constructions: formal differences between these two constructions are found in the morphological composition of the NP predicate (e.g. the second NP in the Predicate Nominal structure [NP COP NP]). No single source component has grammaticalized to mark progressive aspect in U̱t‑Maꞌin, rather the combination of several morphosyntactic elements came together to create the progressive. Formal changes in several morphosyntactic elements within each of the two Progressive constructions provide evidence that originally nominalized verb forms are gradually becoming less noun-like and more verb-like. These developments are examples of constructionalization as the Progressive Constructions exist as new form-meaning pairs distinct from the Predicate Nominal source (Traugott &amp;amp; Trousdale 2013). These formal changes also show signs of adjustment (Heine and Reh 1994; Heine 1993), whereby a construction moves toward isomorphism, that is, a one-to-one correspondence between form and meaning. Specifically, various stages of morphological loss occur in a gradual wave throughout the lexicon and affect particular lexemes when these are used in Progressive constructions.</dc:description>
+    <dc:description>U̱t‑Maꞌin (Kainji, Benue-Congo, Niger-Congo), spoken in northwestern Nigeria by at least 40,000 people, has two morpho-syntactically distinct Progressive constructions – the Intransitive Progressive Construction and the Transitive Progressive Construction. In this talk I present (i) the synchronic structure of each construction, (ii) likely historical sources of the distinct morphology, and (iii) a comparison of the U̱t‑Maꞌin Progressive Constructions with cognate elements from four Kainji language clusters. The Predicate Nominal Construction [NP COP NP] is the diachronic source for both U̱t‑Maꞌin Progressive Constructions. The morphological complexity of the U̠t Ma&rsquo;in noun class system holds the key to understanding the distinct elements of the two Progressive constructions: formal differences between these two constructions are found in the morphological composition of the NP predicate (e.g. the second NP in the Predicate Nominal structure [NP COP NP]). No single source component has grammaticalized to mark progressive aspect in U̱t‑Maꞌin, rather the combination of several morphosyntactic elements came together to create the progressive. Formal changes in several morphosyntactic elements within each of the two Progressive constructions provide evidence that originally nominalized verb forms are gradually becoming less noun-like and more verb-like. These developments are examples of constructionalization as the Progressive Constructions exist as new form-meaning pairs distinct from the Predicate Nominal source (Traugott &amp; Trousdale 2013). These formal changes also show signs of adjustment (Heine and Reh 1994; Heine 1993), whereby a construction moves toward isomorphism, that is, a one-to-one correspondence between form and meaning. Specifically, various stages of morphological loss occur in a gradual wave throughout the lexicon and affect particular lexemes when these are used in Progressive constructions.</dc:description>
     <dc:identifier xsi:type="dcterms:URI">https://hughandbecky.us/Becky-CV/talk/2018-development-of-ut-main-progressive-constructions/</dc:identifier><dc:contributor xsi:type="olac:role" olac:code="speaker">Rebecca Paterson</dc:contributor>
     <dc:type xsi:type="olac:linguistic-type" olac:code="language_description">language_description</dc:type>
     <dc:subject xsi:type="olac:linguistic-field" olac:code="general_linguistics">general_linguistics</dc:subject>
@@ -449,7 +449,7 @@
     <dcterms:dateCopyrighted>2018</dcterms:dateCopyrighted>
     <dcterms:modified>2018-05-11</dcterms:modified>
 
-<dcterms:bibliographicCitation>Paterson, Rebecca Dow Smith. 2018. Development of U̱t‑Maꞌin Progressive Constructions. Colloquia Series, Department of Linguistics, University of Oregon: Eugene, Oregon.</dcterms:bibliographicCitation>
+<dcterms:bibliographicCitation>Paterson, Rebecca Dow Smith. 2018. <em>Development of U̱t‑Maꞌin Progressive Constructions</em>. Colloquia Series, Department of Linguistics, University of Oregon: Eugene, Oregon.</dcterms:bibliographicCitation>
 </olac:olac>
  </oai:metadata>
 </oai:record>
@@ -483,7 +483,7 @@
     <dcterms:dateCopyrighted>2017</dcterms:dateCopyrighted>
     <dcterms:modified>2017-11-30</dcterms:modified>
 
-<dcterms:bibliographicCitation>Paterson, Rebecca Dow Smith. 2017. Development of the U̱t-Maꞌin Intransitive Progressive in six stages. FieldLing, Department of Linguistics, University of Oregon: Eugene, Oregon.</dcterms:bibliographicCitation>
+<dcterms:bibliographicCitation>Paterson, Rebecca Dow Smith. 2017. <em>Development of the U̱t-Maꞌin Intransitive Progressive in six stages</em>. FieldLing, Department of Linguistics, University of Oregon: Eugene, Oregon.</dcterms:bibliographicCitation>
 </olac:olac>
  </oai:metadata>
 </oai:record>
@@ -512,7 +512,7 @@
     <dcterms:dateCopyrighted>2015</dcterms:dateCopyrighted>
     <dcterms:modified>2015-03-27</dcterms:modified>
 
-<dcterms:bibliographicCitation>Paterson, Rebecca Dow Smith. 2015. The associative phrase in U̠t‑Maꞌin. Paper presented at the 46th Annual Conference on African Linguistics, University of Oregon: Eugene, Oregon.</dcterms:bibliographicCitation>
+<dcterms:bibliographicCitation>Paterson, Rebecca Dow Smith. 2015. <em>The associative phrase in U̠t‑Maꞌin</em>. Paper presented at the 46th Annual Conference on African Linguistics, University of Oregon: Eugene, Oregon.</dcterms:bibliographicCitation>
 </olac:olac>
  </oai:metadata>
 </oai:record>
@@ -525,7 +525,7 @@
   <olac:olac>
     <dc:title>Gamification of rapid word collection</dc:title>
     <dcterms:abstract>A report on applying the principles of gamification to in-person data elicitation of Mòòré vocabulary.</dcterms:abstract>
-    <dc:description>We can use creative interactive methods to engage speakers in language documentation and the development of language materials. Friendly competition keeps speakers involved in what could otherwise be a dull task of listing words. New participants seek out the opportunity to be involved in the future as participants when positive engagement attitudes are developed. To this end, we applied principles of gamification (Hamari et al. 2014) to the Rapid Word collection phase of the Dictionary Development Program (DDP) (Shore &amp;amp; van den Berg 2006; Moe 2004). We present the outcomes of applying gamification to the DDP in an effort to collect and verify words in a narrow set of semantic domains for the Mòòré language [mos]. Mòòré is widely spoken, underdocumented Gur language primarily spoken in Burkina Faso. Data was collected by native speakers of Mòòré on a university campus. The basic procedure for the game is as follows: In round 1, two teams of 3-4 speakers compete with each other in attempt to accumulate more words than the other team in each semantic domain as it is presented. Each team appoints a scribe equipped with paper and pen who records words in the existing Mòòré orthography; other team members participate verbally. Points accrue for words that are collected that are distinct from the other team, i.e. unique words will score points. In round 2, the teams exchange sets of words and must use the words compiled by the other team in round 1 to make sentences in the language that exemplify the meaning of the word. Round 2 verifies the words and offers some idea that shared meaning exists between the speakers on the two competing teams. We present a methodology involving multiple speakers that appears to be effective and efficient, compared to elicitation of terms with one speaker in the same time frame. At the same time, we show the possibility of collecting discourse data as participants negotiate amongst themselves key definitions and example sentences. In post-game interviews with participants, we also asked speakers about their reactions to the task, and the likelihood of them participating again, though it remains to be seen if they will participate again.</dc:description>
+    <dc:description>We can use creative interactive methods to engage speakers in language documentation and the development of language materials. Friendly competition keeps speakers involved in what could otherwise be a dull task of listing words. New participants seek out the opportunity to be involved in the future as participants when positive engagement attitudes are developed. To this end, we applied principles of gamification (Hamari et al. 2014) to the Rapid Word collection phase of the Dictionary Development Program (DDP) (Shore &amp; van den Berg 2006; Moe 2004). We present the outcomes of applying gamification to the DDP in an effort to collect and verify words in a narrow set of semantic domains for the Mòòré language [mos]. Mòòré is widely spoken, underdocumented Gur language primarily spoken in Burkina Faso. Data was collected by native speakers of Mòòré on a university campus. The basic procedure for the game is as follows: In round 1, two teams of 3-4 speakers compete with each other in attempt to accumulate more words than the other team in each semantic domain as it is presented. Each team appoints a scribe equipped with paper and pen who records words in the existing Mòòré orthography; other team members participate verbally. Points accrue for words that are collected that are distinct from the other team, i.e. unique words will score points. In round 2, the teams exchange sets of words and must use the words compiled by the other team in round 1 to make sentences in the language that exemplify the meaning of the word. Round 2 verifies the words and offers some idea that shared meaning exists between the speakers on the two competing teams. We present a methodology involving multiple speakers that appears to be effective and efficient, compared to elicitation of terms with one speaker in the same time frame. At the same time, we show the possibility of collecting discourse data as participants negotiate amongst themselves key definitions and example sentences. In post-game interviews with participants, we also asked speakers about their reactions to the task, and the likelihood of them participating again, though it remains to be seen if they will participate again.</dc:description>
     <dc:identifier xsi:type="dcterms:URI">https://hughandbecky.us/Becky-CV/talk/2015-gamification-of-rapid-word-collection/</dc:identifier><dc:contributor xsi:type="olac:role" olac:code="speaker">Rebecca Paterson</dc:contributor><dc:contributor xsi:type="olac:role" olac:code="speaker">Amos Teo</dc:contributor><dc:contributor xsi:type="olac:role" olac:code="speaker">Timbwaoga Aimé Judicaël Ouermi</dc:contributor><dc:contributor xsi:type="olac:role" olac:code="researcher">Rebecca Paterson</dc:contributor><dc:contributor xsi:type="olac:role" olac:code="researcher">Amos Teo</dc:contributor><dc:contributor xsi:type="olac:role" olac:code="research_participant">Timbwaoga Aimé Judicaël Ouermi</dc:contributor>
     <dc:type xsi:type="olac:linguistic-type" olac:code="language_description">language_description</dc:type>
     <dc:subject xsi:type="olac:linguistic-field" olac:code="general_linguistics">general_linguistics</dc:subject>
@@ -543,7 +543,7 @@
     <dcterms:dateCopyrighted>2015</dcterms:dateCopyrighted>
     <dcterms:modified>2015-02-27</dcterms:modified>
 
-<dcterms:bibliographicCitation>Paterson, Rebecca D., Amos Teo, Timbwaoga Aime Judicaël Ouermi 2014. Gameification of rapid word collection. Paper presented at the 4th International Conference on Language Documentation &amp;amp; Conservation, February 26-March 1, 2015, at the Ala Moana Hotel in Honolulu. http://hdl.handle.net/10125/25253</dcterms:bibliographicCitation>
+<dcterms:bibliographicCitation>Paterson, Rebecca D., Amos Teo, Timbwaoga Aime Judicaël Ouermi 2014. <em>Gameification of rapid word collection</em>. Paper presented at the 4th International Conference on Language Documentation & Conservation, February 26-March 1, 2015, at the Ala Moana Hotel in Honolulu. <a href="http://hdl.handle.net/10125/25253"><a href="http://hdl.handle.net/10125/25253">http://hdl.handle.net/10125/25253</a></a></dcterms:bibliographicCitation>
 </olac:olac>
  </oai:metadata>
 </oai:record>
@@ -569,7 +569,7 @@
     <dcterms:dateCopyrighted>2015</dcterms:dateCopyrighted>
     <dcterms:modified>2015-02-27</dcterms:modified>
 
-<dcterms:bibliographicCitation>Paterson, Rebecca D. 2014. Contribution of women to linguistic vitality in northwestern Nigeria. Paper presented at the 4th International Conference on Language Documentation &amp;amp; Conservation, February 26-March 1, 2015, at the Ala Moana Hotel in Honolulu. http://hdl.handle.net/10125/25253</dcterms:bibliographicCitation>
+<dcterms:bibliographicCitation>Paterson, Rebecca D. 2014. <em>Contribution of women to linguistic vitality in northwestern Nigeria</em>. Paper presented at the 4th International Conference on Language Documentation & Conservation, February 26-March 1, 2015, at the Ala Moana Hotel in Honolulu. <a href="http://hdl.handle.net/10125/25253"><a href="http://hdl.handle.net/10125/25253">http://hdl.handle.net/10125/25253</a></a></dcterms:bibliographicCitation>
 </olac:olac>
  </oai:metadata>
 </oai:record>
@@ -637,7 +637,7 @@
  </oai:header>
  <oai:metadata>
   <olac:olac>
-    <dc:title>Functions of nominalization in U̱t-Ma&#39;in</dc:title>
+    <dc:title>Functions of nominalization in U̱t-Ma'in</dc:title>
     
     
     <dc:identifier xsi:type="dcterms:URI">https://hughandbecky.us/Becky-CV/talk/2014-functions-of-nominalization-in-utmain/</dc:identifier><dc:language xsi:type="olac:language" olac:code="eng">English</dc:language>
@@ -648,7 +648,7 @@
     <dcterms:dateCopyrighted>2014</dcterms:dateCopyrighted>
     <dcterms:modified>2014-10-22</dcterms:modified>
 
-<dcterms:bibliographicCitation>Paterson, Rebecca D. 2014. Functions of nominalization in U̱t-Ma’in. Presented at Field Linguistics Working Group, University of Oregon.</dcterms:bibliographicCitation>
+<dcterms:bibliographicCitation>Paterson, Rebecca D. 2014. <em>Functions of nominalization in U̱t-Ma’in.</em> Presented at Field Linguistics Working Group, University of Oregon.</dcterms:bibliographicCitation>
 </olac:olac>
  </oai:metadata>
 </oai:record>
@@ -659,9 +659,9 @@
  </oai:header>
  <oai:metadata>
   <olac:olac>
-    <dc:title>Verbal categories in U̱t-Ma&#39;in, a Kainji language of Nigeria</dc:title>
-    <dcterms:abstract>Bibliography Nurse, Hewson &amp;amp; Rose (2010) Nurse, D., Hewson, J. &amp;amp; Rose, S. (2010). Verbal Categories in Niger-Congo. Retrieved from https://web.archive.org/web/20120102020440/http://www.mun.ca/linguistics/nico/index.php</dcterms:abstract>
-    <dc:description>A recent study (Nurse et al. 2010) surveyed Niger-Congo verbal categories. However, no data from Kainji languages was included quite likely because very little on Kainji languages has been researched or published. This paper offers data from U̠t-Ma&amp;rsquo;in [gel], a Kainji language, spoken in Kebbi State and Niger State, Nigeria. Additional comparative verbal morphology data is presented from closely related languages, C’Lela [dri] and U̠t-Hun [dud]. U̠t-Ma&amp;rsquo;in employs verbal suffixes, a series of pre-verb auxiliaries and nominalizations to express the various tense and aspect categories of the language. Within the auxiliary paradigm, there is a three way tense distinction: past imperfective, present imperfective and future. The suffixed verb morphology paradigm shows only a two way tense distinction: past versus non-past. (1)ɘ̄ mrɛ́ -g-ɘ̄ nsāpɘ zwɘ̄ g ɘ̄ r1 SG eat- PST - DISTriceLOCZuru.town‘I ate rice in Zuru (before coming here)’ The suffixing paradigm expresses additional aspectual meanings for past forms, which include perfective interpretations along with distance (1), affectedness of the object, and exclusiveness of the subject (2), which emphasizes that only the referent of the subject pronoun/noun is capable of or subject to the predicate. To my knowledge, this type of exclusivity of the subject has not been described as a verbal category within an aspect system. (2)újɘ̄ n-ɛhɔ̀ g-d-ɘ̀ -mɛ C 1.3 SGleave- EXCLhear- C 5- ASSOC -6 M -shame‘(Only) he left ashamed.’</dc:description>
+    <dc:title>Verbal categories in U̱t-Ma'in, a Kainji language of Nigeria</dc:title>
+    <dcterms:abstract>Bibliography Nurse, Hewson &amp; Rose (2010) Nurse, D., Hewson, J. &amp; Rose, S. (2010). Verbal Categories in Niger-Congo. Retrieved from https://web.archive.org/web/20120102020440/http://www.mun.ca/linguistics/nico/index.php</dcterms:abstract>
+    <dc:description>A recent study (Nurse et al. 2010) surveyed Niger-Congo verbal categories. However, no data from Kainji languages was included quite likely because very little on Kainji languages has been researched or published. This paper offers data from U̠t-Ma&rsquo;in [gel], a Kainji language, spoken in Kebbi State and Niger State, Nigeria. Additional comparative verbal morphology data is presented from closely related languages, C’Lela [dri] and U̠t-Hun [dud]. U̠t-Ma&rsquo;in employs verbal suffixes, a series of pre-verb auxiliaries and nominalizations to express the various tense and aspect categories of the language. Within the auxiliary paradigm, there is a three way tense distinction: past imperfective, present imperfective and future. The suffixed verb morphology paradigm shows only a two way tense distinction: past versus non-past. (1)ɘ̄ mrɛ́ -g-ɘ̄ nsāpɘ zwɘ̄ g ɘ̄ r1 SG eat- PST - DISTriceLOCZuru.town‘I ate rice in Zuru (before coming here)’ The suffixing paradigm expresses additional aspectual meanings for past forms, which include perfective interpretations along with distance (1), affectedness of the object, and exclusiveness of the subject (2), which emphasizes that only the referent of the subject pronoun/noun is capable of or subject to the predicate. To my knowledge, this type of exclusivity of the subject has not been described as a verbal category within an aspect system. (2)újɘ̄ n-ɛhɔ̀ g-d-ɘ̀ -mɛ C 1.3 SGleave- EXCLhear- C 5- ASSOC -6 M -shame‘(Only) he left ashamed.’</dc:description>
     <dc:identifier xsi:type="dcterms:URI">https://hughandbecky.us/Becky-CV/talk/2014-verbal-categories-in-utmain/</dc:identifier>
             <dc:subject>Verb</dc:subject>
             <dc:subject>Kainji</dc:subject><dc:language xsi:type="olac:language" olac:code="eng">English</dc:language>
@@ -672,7 +672,7 @@
     <dcterms:dateCopyrighted>2014</dcterms:dateCopyrighted>
     <dcterms:modified>2014-04-17</dcterms:modified>
 
-<dcterms:bibliographicCitation>Paterson, Rebecca D. 2014. Verbal categories in U̱t-Ma’in, a Kainji language of Nigeria. Paper presented at the 45th Annual conference on African Linguistics at the University of Kansas, Lawrence, KS.</dcterms:bibliographicCitation>
+<dcterms:bibliographicCitation>Paterson, Rebecca D. 2014. <em>Verbal categories in U̱t-Ma’in, a Kainji language of Nigeria</em>. Paper presented at the 45th Annual conference on African Linguistics at the University of Kansas, Lawrence, KS.</dcterms:bibliographicCitation>
 </olac:olac>
  </oai:metadata>
 </oai:record>
@@ -700,7 +700,7 @@
     <dcterms:dateCopyrighted>2013</dcterms:dateCopyrighted>
     <dcterms:modified>2013-11-05</dcterms:modified>
 
-<dcterms:bibliographicCitation>Paterson, Rebecca D. 2013. Formation of verbs in U̱t-Ma’in. Presented at Field Linguistics Working Group, University of Oregon.</dcterms:bibliographicCitation>
+<dcterms:bibliographicCitation>Paterson, Rebecca D. 2013. <em>Formation of verbs in U̱t-Ma’in.</em> Presented at Field Linguistics Working Group, University of Oregon.</dcterms:bibliographicCitation>
 </olac:olac>
  </oai:metadata>
 </oai:record>
@@ -712,7 +712,7 @@
  <oai:metadata>
   <olac:olac>
     <dc:title>Discourse function of marked and unmarked verbs in u̱t‑Maꞌin narrative</dc:title>
-    <dcterms:abstract>Bibliography   Bybee,  Perkins &amp;amp; Pagliuca (1994)  Bybee,  J.,  Perkins,  R. &amp;amp; Pagliuca,  W.  (1994).  The evolution of grammar: tense, aspect, and modality in the languages of the world.   University of Chicago Press.</dcterms:abstract>
+    <dcterms:abstract>Bibliography   Bybee,  Perkins &amp; Pagliuca (1994)  Bybee,  J.,  Perkins,  R. &amp; Pagliuca,  W.  (1994).  The evolution of grammar: tense, aspect, and modality in the languages of the world.   University of Chicago Press.</dcterms:abstract>
     
     <dc:identifier xsi:type="dcterms:URI">https://hughandbecky.us/Becky-CV/talk/2013-discourse-function-of-marked-and-unmarked-verbs-in-utmain/</dc:identifier>
             <dc:subject>u̱t‑Maꞌin</dc:subject>
@@ -727,7 +727,7 @@
     <dcterms:dateCopyrighted>2013</dcterms:dateCopyrighted>
     <dcterms:modified>2013-09-18</dcterms:modified>
 
-<dcterms:bibliographicCitation>Paterson, Rebecca Dow Smith. 2013. Discourse function of marked and unmarked verbs in u̱t‑Maꞌin narrative. Presentation at the workshop on “Aspect and Discourse in African Languages” at the 46th Annual Meeting of the Societas Linguistica Europaea, Split University Croatia.</dcterms:bibliographicCitation>
+<dcterms:bibliographicCitation>Paterson, Rebecca Dow Smith. 2013. <em>Discourse function of marked and unmarked verbs in u̱t‑Maꞌin narrative</em>. Presentation at the workshop on “Aspect and Discourse in African Languages” at the 46th Annual Meeting of the Societas Linguistica Europaea, Split University Croatia.</dcterms:bibliographicCitation>
 </olac:olac>
  </oai:metadata>
 </oai:record>
@@ -757,7 +757,7 @@
         
     <dc:language xsi:type="olac:language" olac:code="gel">ut-Ma'in</dc:language>
 <dc:subject xsi:type="olac:language" olac:code="gel">ut-Ma'in</dc:subject>
-<dcterms:bibliographicCitation>Yohanna, Ibrahim (Speaker) &amp;amp; Rebecca Dow Smith Paterson (Transcriber). 2013. Kambari Man. In Rebecca Dow Smith Paterson (Author) Nominalization and predication in U̱t‑Maꞌin. Ph.D. Dissertation, University of Oregon. Eugene, Oregon. http://hdl.handle.net/1794/25259</dcterms:bibliographicCitation>
+<dcterms:bibliographicCitation>Yohanna, Ibrahim (Speaker) &amp; Rebecca Dow Smith Paterson (Transcriber). 2013. Kambari Man. In Rebecca Dow Smith Paterson (Author) Nominalization and predication in U̱t‑Maꞌin. Ph.D. Dissertation, University of Oregon. Eugene, Oregon. http://hdl.handle.net/1794/25259</dcterms:bibliographicCitation>
 <dc:publisher>University of Oregon</dc:publisher>
     <dcterms:created>2013-02-01</dcterms:created>
     <dcterms:dateCopyrighted>2013</dcterms:dateCopyrighted>
@@ -792,7 +792,7 @@
         
     <dc:language xsi:type="olac:language" olac:code="gel">ut-Ma'in</dc:language>
 <dc:subject xsi:type="olac:language" olac:code="gel">ut-Ma'in</dc:subject>
-<dcterms:bibliographicCitation>Yohanna, Ibrahim (Speaker) &amp;amp; Rebecca Dow Smith Paterson (Transcriber). 2013. Musa and Audu. In Rebecca Dow Smith Paterson (Author) Nominalization and predication in U̱t‑Maꞌin. Ph.D. Dissertation, University of Oregon. Eugene, Oregon. http://hdl.handle.net/1794/25259</dcterms:bibliographicCitation>
+<dcterms:bibliographicCitation>Yohanna, Ibrahim (Speaker) &amp; Rebecca Dow Smith Paterson (Transcriber). 2013. Musa and Audu. In Rebecca Dow Smith Paterson (Author) Nominalization and predication in U̱t‑Maꞌin. Ph.D. Dissertation, University of Oregon. Eugene, Oregon. http://hdl.handle.net/1794/25259</dcterms:bibliographicCitation>
 <dc:publisher>University of Oregon</dc:publisher>
     <dcterms:created>2013-02-01</dcterms:created>
     <dcterms:dateCopyrighted>2013</dcterms:dateCopyrighted>
@@ -824,7 +824,7 @@
         
     <dc:language xsi:type="olac:language" olac:code="gel">ut-Ma'in</dc:language>
 <dc:subject xsi:type="olac:language" olac:code="gel">ut-Ma'in</dc:subject>
-<dcterms:bibliographicCitation>John, Sunday (Speaker) &amp;amp; Rebecca Dow Smith Paterson (Transcriber).  2013. My trip to Minna. Manuscript.</dcterms:bibliographicCitation>
+<dcterms:bibliographicCitation>John, Sunday (Speaker) &amp; Rebecca Dow Smith Paterson (Transcriber).  2013. My trip to Minna. Manuscript.</dcterms:bibliographicCitation>
 
     <dcterms:created>2013-02-01</dcterms:created>
     <dcterms:dateCopyrighted>2013</dcterms:dateCopyrighted>
@@ -856,7 +856,7 @@
         
     <dc:language xsi:type="olac:language" olac:code="gel">ut-Ma'in</dc:language>
 <dc:subject xsi:type="olac:language" olac:code="gel">ut-Ma'in</dc:subject>
-<dcterms:bibliographicCitation>Ibrahim Yohanna (Speaker), Rebecca Dow Smith Paterson (Transcriber, Annotator) &amp;amp; Sunday John (Translator).  2013. Possessed Woman. Manuscript</dcterms:bibliographicCitation>
+<dcterms:bibliographicCitation>Ibrahim Yohanna (Speaker), Rebecca Dow Smith Paterson (Transcriber, Annotator) &amp; Sunday John (Translator).  2013. Possessed Woman. Manuscript</dcterms:bibliographicCitation>
 
     <dcterms:created>2013-02-01</dcterms:created>
     <dcterms:dateCopyrighted>2013</dcterms:dateCopyrighted>
@@ -888,7 +888,7 @@
         
     <dc:language xsi:type="olac:language" olac:code="gel">ut-Ma'in</dc:language>
 <dc:subject xsi:type="olac:language" olac:code="gel">ut-Ma'in</dc:subject>
-<dcterms:bibliographicCitation>Yohanna, Ibrahim (Speaker), Sunday John (Translator, Transcriber) &amp;amp; Rebecca Dow Smith Paterson (Transcriber, Annotator).  2013. The Gossip King. Manuscript.</dcterms:bibliographicCitation>
+<dcterms:bibliographicCitation>Yohanna, Ibrahim (Speaker), Sunday John (Translator, Transcriber) &amp; Rebecca Dow Smith Paterson (Transcriber, Annotator).  2013. The Gossip King. Manuscript.</dcterms:bibliographicCitation>
 
     <dcterms:created>2013-02-01</dcterms:created>
     <dcterms:dateCopyrighted>2013</dcterms:dateCopyrighted>
@@ -920,7 +920,7 @@
         
     <dc:language xsi:type="olac:language" olac:code="gel">ut-Ma'in</dc:language>
 <dc:subject xsi:type="olac:language" olac:code="gel">ut-Ma'in</dc:subject>
-<dcterms:bibliographicCitation>John, Sunday (Speaker) &amp;amp; Rebecca Dow Smith Paterson (Transcriber).  2013. What you sow is what you reap. Manuscript.</dcterms:bibliographicCitation>
+<dcterms:bibliographicCitation>John, Sunday (Speaker) &amp; Rebecca Dow Smith Paterson (Transcriber).  2013. What you sow is what you reap. Manuscript.</dcterms:bibliographicCitation>
 
     <dcterms:created>2013-02-01</dcterms:created>
     <dcterms:dateCopyrighted>2013</dcterms:dateCopyrighted>
@@ -955,7 +955,7 @@
         
     <dc:language xsi:type="olac:language" olac:code="gel">ut-Ma'in</dc:language>
 <dc:subject xsi:type="olac:language" olac:code="gel">ut-Ma'in</dc:subject>
-<dcterms:bibliographicCitation>Yohanna, Ibrahim (Speaker), Sunday John (Transcriber, Translator) &amp;amp; Rebecca Dow Smith Paterson (Researcher, Annotator). 2013. Young man who wants to marry. In Rebecca Dow Smith Paterson (Author) Nominalization and predication in U̱t‑Maꞌin. Ph.D. Dissertation, University of Oregon. Eugene, Oregon. http://hdl.handle.net/1794/25259</dcterms:bibliographicCitation>
+<dcterms:bibliographicCitation>Yohanna, Ibrahim (Speaker), Sunday John (Transcriber, Translator) &amp; Rebecca Dow Smith Paterson (Researcher, Annotator). 2013. Young man who wants to marry. In Rebecca Dow Smith Paterson (Author) Nominalization and predication in U̱t‑Maꞌin. Ph.D. Dissertation, University of Oregon. Eugene, Oregon. http://hdl.handle.net/1794/25259</dcterms:bibliographicCitation>
 <dc:publisher>University of Oregon</dc:publisher>
     <dcterms:created>2013-02-01</dcterms:created>
     <dcterms:dateCopyrighted>2013</dcterms:dateCopyrighted>
@@ -1040,7 +1040,7 @@
  </oai:header>
  <oai:metadata>
   <olac:olac>
-    <dc:title>Research on u̱t-Ma&#39;in noun classes</dc:title>
+    <dc:title>Research on u̱t-Ma'in noun classes</dc:title>
     <dcterms:abstract>A first look at the u̱t-Ma’in noun class system: noun affixes and agreement morphology. Includes preliminary insight regarding semantic criteria that are active in the morphological system.</dcterms:abstract>
     
     <dc:identifier xsi:type="dcterms:URI">https://hughandbecky.us/Becky-CV/talk/2007-research-on-utmain-noun-classes/</dc:identifier><dc:contributor xsi:type="olac:role" olac:code="speaker">Rebecca Paterson</dc:contributor>
@@ -1064,7 +1064,7 @@
     <dcterms:dateCopyrighted>2007</dcterms:dateCopyrighted>
     <dcterms:modified>2007-03-28</dcterms:modified>
 
-<dcterms:bibliographicCitation>Smith, Rebecca Dow. 2007. Research on u̱t-Ma’in noun classes. Presentation at Jos Linguistic Circle, Jos, Nigeria.</dcterms:bibliographicCitation>
+<dcterms:bibliographicCitation>Smith, Rebecca Dow. 2007. <em>Research on u̱t-Ma’in noun classes</em>. Presentation at Jos Linguistic Circle, Jos, Nigeria.</dcterms:bibliographicCitation>
 </olac:olac>
  </oai:metadata>
 </oai:record>
@@ -1132,7 +1132,7 @@
     <dcterms:dateCopyrighted>2006</dcterms:dateCopyrighted>
     <dcterms:modified>2006-12-18</dcterms:modified>
 
-<dcterms:bibliographicCitation>Smith, Rebecca Dow. 2006. Nominalization and Auxiliaries in u̱t‑Maꞌin. Presentation at the Linguistics Seminar, Jos, Nigeria.</dcterms:bibliographicCitation>
+<dcterms:bibliographicCitation>Smith, Rebecca Dow. 2006. <em>Nominalization and Auxiliaries in  u̱t‑Maꞌin</em>. Presentation at the Linguistics Seminar, Jos, Nigeria.</dcterms:bibliographicCitation>
 </olac:olac>
  </oai:metadata>
 </oai:record>
@@ -1145,7 +1145,7 @@
   <olac:olac>
     <dc:title>u̱t‑Maꞌin SIL comparative African wordlist</dc:title>
     <dcterms:abstract>Handwritten field notes from the elicitation of the SIL comparative African wordlist in u̱t‑MaꞌRor (1700 words).</dcterms:abstract>
-    <dc:description>SIL comparative African wordlist is a list of words useful in African comparative linguistics (see Snider &amp;amp; Roberts 2004 or 2006). I used this list as the basis for my investigation into the noun classes of u̱t‑Maꞌin. I started work in 2005 in Tungun Magajiya. But the list was mostly transcribed, checked and recorded between February 2006 and March 2007 in Jos. A typed version of this wordlist appears as an appendix in my M. A. thesis. and can be cited from there I provide here a scan created in 2017 of my hand written work during 2005 elicitation. I have audio recordings, but these are not prepared for sharing at this time.</dc:description>
+    <dc:description>SIL comparative African wordlist is a list of words useful in African comparative linguistics (see Snider &amp; Roberts 2004 or 2006). I used this list as the basis for my investigation into the noun classes of u̱t‑Maꞌin. I started work in 2005 in Tungun Magajiya. But the list was mostly transcribed, checked and recorded between February 2006 and March 2007 in Jos. A typed version of this wordlist appears as an appendix in my M. A. thesis. and can be cited from there I provide here a scan created in 2017 of my hand written work during 2005 elicitation. I have audio recordings, but these are not prepared for sharing at this time.</dc:description>
     <dc:identifier xsi:type="dcterms:URI">https://hughandbecky.us/Becky-CV/publication/2005-sil-1700-wordlist/</dc:identifier><dc:contributor xsi:type="olac:role" olac:code="transcriber">Rebecca Dow Smith</dc:contributor><dc:contributor xsi:type="olac:role" olac:code="researcher">Rebecca Dow Smith</dc:contributor><dc:contributor xsi:type="olac:role" olac:code="speaker">Sunday John</dc:contributor><dc:contributor xsi:type="olac:role" olac:code="speaker">Serah Sunday</dc:contributor>
     <dc:type xsi:type="olac:linguistic-type" olac:code="primary_text">primary_text</dc:type>
     <dc:subject xsi:type="olac:linguistic-field" olac:code="language_documentation">language_documentation</dc:subject>
@@ -1157,7 +1157,7 @@
         
     <dc:language xsi:type="olac:language" olac:code="gel">ut-Ma'in</dc:language><dc:language xsi:type="olac:language" olac:code="eng">English</dc:language>
 <dc:subject xsi:type="olac:language" olac:code="gel">ut-Ma'in</dc:subject>
-<dcterms:bibliographicCitation>Smith, Rebecca Dow (Researcher), Sunday John (Speaker) &amp;amp; Serah Sunday (Speaker). 2005-2007. u̱t‑Maꞌin SIL comparative African wordlist. Manuscript.</dcterms:bibliographicCitation>
+<dcterms:bibliographicCitation>Smith, Rebecca Dow (Researcher), Sunday John (Speaker) &amp; Serah Sunday (Speaker). 2005-2007. u̱t‑Maꞌin SIL comparative African wordlist. Manuscript.</dcterms:bibliographicCitation>
 
     <dcterms:created>2005-11-01</dcterms:created>
     <dcterms:dateCopyrighted>2005</dcterms:dateCopyrighted>
@@ -1189,7 +1189,7 @@
         
     <dc:language xsi:type="olac:language" olac:code="gel">ut-Ma'in</dc:language>
 <dc:subject xsi:type="olac:language" olac:code="gel">ut-Ma'in</dc:subject>
-<dcterms:bibliographicCitation>Ibrahim Tume Ushe (Speaker) &amp;amp; Rebecca Dow Smith Paterson (Transcriber).  2013. Spider, Frog, and Chameleon. Manuscript</dcterms:bibliographicCitation>
+<dcterms:bibliographicCitation>Ibrahim Tume Ushe (Speaker) &amp; Rebecca Dow Smith Paterson (Transcriber).  2013. Spider, Frog, and Chameleon. Manuscript</dcterms:bibliographicCitation>
 
     <dcterms:created>2005-02-01</dcterms:created>
     <dcterms:dateCopyrighted>2005</dcterms:dateCopyrighted>
