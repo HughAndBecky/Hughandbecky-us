@@ -5,39 +5,12 @@
     <link>https://hughandbecky.us/Hugh-CV/tag/descriptive-phonetics/</link>
       <atom:link href="https://hughandbecky.us/Hugh-CV/tag/descriptive-phonetics/index.xml" rel="self" type="application/rss+xml" />
     <description>Descriptive-Phonetics</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2021</copyright><lastBuildDate>Fri, 15 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2021</copyright><lastBuildDate>Tue, 12 Mar 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://hughandbecky.us/Hugh-CV/media/HughPaterson.jpg</url>
       <title>Descriptive-Phonetics</title>
       <link>https://hughandbecky.us/Hugh-CV/tag/descriptive-phonetics/</link>
     </image>
-    
-    <item>
-      <title>Asimjeeg Datooga (Southern Nilotic, Tanzania) ASR</title>
-      <link>https://hughandbecky.us/Hugh-CV/manuscripts/2019-richard-asr/</link>
-      <pubDate>Fri, 15 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://hughandbecky.us/Hugh-CV/manuscripts/2019-richard-asr/</guid>
-      <description>&lt;p&gt;This work has no written results yet. It is purely experimental at this stage.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Chepang (Nepal) ASR</title>
-      <link>https://hughandbecky.us/Hugh-CV/manuscripts/2019-chepang-asr/</link>
-      <pubDate>Fri, 15 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://hughandbecky.us/Hugh-CV/manuscripts/2019-chepang-asr/</guid>
-      <description>&lt;p&gt;This work has no written results yet. It is purely experimental at this stage.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Tentative: [Phonetic Description of Khroskyabs]</title>
-      <link>https://hughandbecky.us/Hugh-CV/manuscripts/2019-khroskyabs-phonetics/</link>
-      <pubDate>Fri, 15 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://hughandbecky.us/Hugh-CV/manuscripts/2019-khroskyabs-phonetics/</guid>
-      <description>&lt;p&gt;This is an early sketch of an Yu Lha&amp;rsquo;s home variety. Our goal is to model an Illustration of the IPA.&lt;/p&gt;
-</description>
-    </item>
     
     <item>
       <title>Automatic Speech Recognition</title>
@@ -50,15 +23,6 @@
 &lt;li&gt;
 &lt;a href=&#34;https://github.com/dmort27/epitran&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Epitran&lt;/a&gt; - A tool for transcribing orthographic text as IPA (International Phonetic Alphabet) &lt;!-- the team building it is working out of this doc: https://docs.google.com/spreadsheets/d/1Z0pz22DXYw5CIp2Eo6ODbrTojqfq3e4jGjguZjbGqWE/edit#gid=1782468899 --&gt;&lt;/li&gt;
 &lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Tentative: [Phonetic Description of an Italian dialect]</title>
-      <link>https://hughandbecky.us/Hugh-CV/manuscripts/2019-italian-phonetics/</link>
-      <pubDate>Sat, 15 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>https://hughandbecky.us/Hugh-CV/manuscripts/2019-italian-phonetics/</guid>
-      <description>&lt;p&gt;This is an early sketch of an Sara&amp;rsquo;s home variety. Our goal is to model an Illustration of the IPA.&lt;/p&gt;
 </description>
     </item>
     

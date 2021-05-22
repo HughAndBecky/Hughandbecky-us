@@ -1,16 +1,37 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>xlingpaper | Hugh&#39;s Curriculum Vitae</title>
+    <title>XLingPaper | Hugh&#39;s Curriculum Vitae</title>
     <link>https://hughandbecky.us/Hugh-CV/tag/xlingpaper/</link>
       <atom:link href="https://hughandbecky.us/Hugh-CV/tag/xlingpaper/index.xml" rel="self" type="application/rss+xml" />
-    <description>xlingpaper</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2021</copyright><lastBuildDate>Fri, 15 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <description>XLingPaper</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2021</copyright><lastBuildDate>Fri, 07 May 2021 14:35:45 +0100</lastBuildDate>
     <image>
       <url>https://hughandbecky.us/Hugh-CV/media/HughPaterson.jpg</url>
-      <title>xlingpaper</title>
+      <title>XLingPaper</title>
       <link>https://hughandbecky.us/Hugh-CV/tag/xlingpaper/</link>
     </image>
+    
+    <item>
+      <title>Converting FLExText Files to XLingPaper Interlinear Texts</title>
+      <link>https://hughandbecky.us/Hugh-CV/post/flextext-to-xlingpaper/</link>
+      <pubDate>Fri, 07 May 2021 14:35:45 +0100</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/post/flextext-to-xlingpaper/</guid>
+      <description>&lt;p&gt;Let&amp;rsquo;s assume that we have a generous friend who has gifted us an interlinearized text from FLEx with morpheme level glossing in the format of &lt;code&gt;.flextext&lt;/code&gt;. (&lt;code&gt;.flextext&lt;/code&gt; is an XML formated file.) And lets say we want to type set that file in XLingPaper. How can we do that?&lt;/p&gt;
+&lt;p&gt;One might be tempted to import the &lt;code&gt;.flextext&lt;/code&gt; file into FLEx so that it can be re-exported with the XLingPaper exports from the FLEx menus, but this is not really a viable option becasue if we import that FLExText to an empty FLEx database, FLEx will not import the morpheme level annotations — it will recognize the free-translation and the baseline text. Bascially anything which is related to the lexicon part of the database is not viewable in the imported database.&lt;/p&gt;
+&lt;p&gt;However all is not lost we can use the XSLT transforms from FLEx by copying them to a usable location as the data start of those transforms is also &lt;code&gt;.flextext&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;I run linux. On the command line I used &lt;code&gt;locate&lt;/code&gt; to find the XSL file titled &lt;code&gt;xml2XLingPapConcatMorphemes.xsl&lt;/code&gt; with &lt;code&gt;$ locate xml2XLingPapConcat&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;It appeared on my comptuer at &lt;code&gt;/usr/share/fieldworks/Language Explorer/Export Templates/Interlinear/xml2XLingPapConcatMorphemes.xsl&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;To run these transforms I was advised to use Saxon. Saxon is already installed on linux if XLingPaper is installed. Saxon comes with XMLMind.&lt;/p&gt;
+&lt;p&gt;I also used &lt;code&gt;locate&lt;/code&gt; to find the Saxon file with &lt;code&gt;$ locate saxon&lt;/code&gt;
+Mine was located at: &lt;code&gt;/opt/xxe-perso-7_6_0/bin/saxon.jar&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;The basic syntax for operating Saxon is as follows:
+&lt;code&gt;java -cp &amp;quot;wherever_saxon.jar_is/saxon.jar&amp;quot; com.icl.saxon.StyleSheet the_flextext_file path_to_the XSLT_files/\xml2XLingPapConcatMorphemes.xsl  &amp;gt; the_XLingPaper_output_file.xml&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;I then needed to change where I told Saxon the files were located. In my case I coppied the &lt;code&gt;.xsl&lt;/code&gt; files to their own folder within my project folder for simpler operation.&lt;/p&gt;
+&lt;p&gt;There are other &lt;code&gt;.xsl&lt;/code&gt; files for transforming FLExTexts to interlinear files in XLingPaper. These can be seen by using &lt;code&gt;locate&lt;/code&gt; or in the official repo:
+Check for the other files in the official FLEx repo at: &lt;a href=&#34;https://gerrit.lsdev.sil.org/admin/repos/FieldWorks,&#34;&gt;https://gerrit.lsdev.sil.org/admin/repos/FieldWorks,&lt;/a&gt; or specifically look at XLingPaper export xsl transforms as discussed in their origional merge into the FLEx project: &lt;a href=&#34;https://gerrit.lsdev.sil.org/c/FieldWorks/+/1961&#34;&gt;https://gerrit.lsdev.sil.org/c/FieldWorks/+/1961&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>PDFs from Webpages</title>
