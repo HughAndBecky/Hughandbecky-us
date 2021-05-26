@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Network Graphs | Hugh&#39;s Curriculum Vitae</title>
+    <link>https://hughandbecky.us/Hugh-CV/tag/network-graphs/</link>
+      <atom:link href="https://hughandbecky.us/Hugh-CV/tag/network-graphs/index.xml" rel="self" type="application/rss+xml" />
+    <description>Network Graphs</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2021</copyright><lastBuildDate>Thu, 23 May 2013 14:35:45 +0100</lastBuildDate>
+    <image>
+      <url>https://hughandbecky.us/Hugh-CV/media/HughPaterson.jpg</url>
+      <title>Network Graphs</title>
+      <link>https://hughandbecky.us/Hugh-CV/tag/network-graphs/</link>
+    </image>
+    
+    <item>
+      <title>Curation workflow networks at the Language &amp; Culture Archives</title>
+      <link>https://hughandbecky.us/Hugh-CV/post/lca-curation-workflow-network/</link>
+      <pubDate>Thu, 23 May 2013 14:35:45 +0100</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/post/lca-curation-workflow-network/</guid>
+      <description>&lt;p&gt;This network diagram shows the flow of resources curated by different curator for different collections at the Language &amp;amp; Culture Archives. Clearly some curators are busier than others, and some collections recive more submissions. The network graph was created using 
+&lt;a href=&#34;https://gephi.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Gephi&lt;/a&gt;. This particular graph did not make it into the Hawaiʻi version of the poster, 
+&lt;a href=&#34;https://hughandbecky.us/Hugh-CV/publication/2013-challenges-ramp/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;but did make it into the UND version of the poster&lt;/a&gt;. If I were to try and visualize this data again I might try and use a 
+&lt;a href=&#34;https://en.wikipedia.org/wiki/Sankey_diagram&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sankey diagram&lt;/a&gt;. I would seperate out submissions (by file), curators (by person), and collections.&lt;/p&gt;
+&lt;h3 id=&#34;network-graph-of-lca-workflow-curation-data&#34;&gt;Network graph of LCA workflow curation data.&lt;/h3&gt;
+
+
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/lca-curation-workflow-network/NetworkGraph-LCA_hu9046408fde021e7ac81feb07247ffa8d_451744_2000x2000_fit_lanczos_2.png&#34; &gt;
+
+
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/lca-curation-workflow-network/NetworkGraph-LCA_hu9046408fde021e7ac81feb07247ffa8d_451744_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;Network Diagram&#34; width=&#34;984&#34; height=&#34;599&#34;&gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>

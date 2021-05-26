@@ -23,7 +23,7 @@
     </item>
     
     <item>
-      <title>From Archive to Citation</title>
+      <title>From archive to citation</title>
       <link>https://hughandbecky.us/Hugh-CV/talk/2021-from-archive-to-citation/</link>
       <pubDate>Wed, 17 Feb 2021 17:00:12 -0700</pubDate>
       <guid>https://hughandbecky.us/Hugh-CV/talk/2021-from-archive-to-citation/</guid>
@@ -48,7 +48,7 @@
     </item>
     
     <item>
-      <title>Lexical dataset archiving: an assessment of practice</title>
+      <title>Lexical Dataset Archiving: An Assessment of Practice</title>
       <link>https://hughandbecky.us/Hugh-CV/publication/2015-lexical-database-archiving/</link>
       <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
       <guid>https://hughandbecky.us/Hugh-CV/publication/2015-lexical-database-archiving/</guid>
@@ -76,7 +76,63 @@
     </item>
     
     <item>
-      <title>Challenges of implementing a tool to extract metadata from linguists: the use case of RAMP</title>
+      <title>Curation workflow networks at the Language &amp; Culture Archives</title>
+      <link>https://hughandbecky.us/Hugh-CV/post/lca-curation-workflow-network/</link>
+      <pubDate>Thu, 23 May 2013 14:35:45 +0100</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/post/lca-curation-workflow-network/</guid>
+      <description>&lt;p&gt;This network diagram shows the flow of resources curated by different curator for different collections at the Language &amp;amp; Culture Archives. Clearly some curators are busier than others, and some collections recive more submissions. The network graph was created using 
+&lt;a href=&#34;https://gephi.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Gephi&lt;/a&gt;. This particular graph did not make it into the Hawaiʻi version of the poster, 
+&lt;a href=&#34;https://hughandbecky.us/Hugh-CV/publication/2013-challenges-ramp/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;but did make it into the UND version of the poster&lt;/a&gt;. If I were to try and visualize this data again I might try and use a 
+&lt;a href=&#34;https://en.wikipedia.org/wiki/Sankey_diagram&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sankey diagram&lt;/a&gt;. I would seperate out submissions (by file), curators (by person), and collections.&lt;/p&gt;
+&lt;h3 id=&#34;network-graph-of-lca-workflow-curation-data&#34;&gt;Network graph of LCA workflow curation data.&lt;/h3&gt;
+
+
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/lca-curation-workflow-network/NetworkGraph-LCA_hu9046408fde021e7ac81feb07247ffa8d_451744_2000x2000_fit_lanczos_2.png&#34; &gt;
+
+
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/lca-curation-workflow-network/NetworkGraph-LCA_hu9046408fde021e7ac81feb07247ffa8d_451744_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;Network Diagram&#34; width=&#34;984&#34; height=&#34;599&#34;&gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Challenges of Implementing a Tool to Extract Metadata from Linguists: The Use Case of RAMP</title>
       <link>https://hughandbecky.us/Hugh-CV/publication/2013-challenges-ramp/</link>
       <pubDate>Fri, 01 Mar 2013 07:18:05 -0700</pubDate>
       <guid>https://hughandbecky.us/Hugh-CV/publication/2013-challenges-ramp/</guid>
@@ -195,6 +251,7 @@ I worked with IT staff to produce an automated reporting mechanism to track team
 &lt;li&gt;the &lt;em&gt;User Experience&lt;/em&gt; related to interacting with archived content; and&lt;/li&gt;
 &lt;li&gt;the aggregation of item level metadata about language resources in collections.&lt;/li&gt;
 &lt;/ol&gt;
+&lt;p&gt;I maintain a github repo with raw data and academic outputs for this project at: &lt;a href=&#34;https://github.com/HughP/Lexical-Database-Archiving-Stats&#34;&gt;https://github.com/HughP/Lexical-Database-Archiving-Stats&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

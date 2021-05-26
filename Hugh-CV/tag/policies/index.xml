@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Policies | Hugh&#39;s Curriculum Vitae</title>
+    <link>https://hughandbecky.us/Hugh-CV/tag/policies/</link>
+      <atom:link href="https://hughandbecky.us/Hugh-CV/tag/policies/index.xml" rel="self" type="application/rss+xml" />
+    <description>Policies</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2021</copyright><lastBuildDate>Fri, 06 Mar 2015 14:35:45 +0100</lastBuildDate>
+    <image>
+      <url>https://hughandbecky.us/Hugh-CV/media/HughPaterson.jpg</url>
+      <title>Policies</title>
+      <link>https://hughandbecky.us/Hugh-CV/tag/policies/</link>
+    </image>
+    
+    <item>
+      <title>Linguistic Service Policies</title>
+      <link>https://hughandbecky.us/Hugh-CV/post/linguistic-service-policies/</link>
+      <pubDate>Fri, 06 Mar 2015 14:35:45 +0100</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/post/linguistic-service-policies/</guid>
+      <description>&lt;p&gt;Working in services design and web-data handeling, I see a lot of different policies and data handling practices. However should there some special set of practices related to language data? I am exploring this question in a github repository. More specifically, services are an increasing component of today&amp;rsquo;s 21st century economy. Data services are more common and important to social function than ever before. This has impacts on academics doing research in linguistics and also impacts minority language users and communities of users who care about &amp;ldquo;their data&amp;rdquo;. This should challenge potential service providers to consider the following questions: What should Linguistic Services Policies look like? and What kinds of things should they cover? Founders of new services focusing on linguistics, language, and cultural heritage oriented data interactions and transactions may be aware of data concerns from a legal framework (within a certain country) point of view, but, they may be unfamiliar with data concerns as viewed by the community. While the concerns of minority language using communities may not be well known to businesses familiar with data handling procedures, these practices are often known to linguists working in and with communities of minority language users. An additional layer of complexity is that in many cases service users in minority language communities, may not understand the possible data protection rights available to them, or why they may need additional rights in digital contexts.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/HughP/Linguistics-Services-Policies&#34;&gt;https://github.com/HughP/Linguistics-Services-Policies&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

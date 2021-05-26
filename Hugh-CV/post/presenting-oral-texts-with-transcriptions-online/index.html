@@ -310,7 +310,7 @@
 <meta name="pinterest" content="nopin">
 
 
-<meta name="keywords" content="Digital Archival, Annotated Texts">
+<meta name="keywords" content="Digital Archival, Annotated Texts, FLEx, ELAN">
 
 
 
@@ -330,6 +330,8 @@
 <meta name="citation_author" content="admin">
 <meta name="DC.Subject" content="Digital Archival">
 <meta name="DC.Subject" content="Annotated Texts">
+<meta name="DC.Subject" content="FLEx">
+<meta name="DC.Subject" content="ELAN">
 <meta name="DC.Subject" content="">
 <meta name="DC.Subject" content="olac_ls_">
 <meta name="DC.Subject" content="">
@@ -347,7 +349,7 @@
 <meta name="DC.Rights" content="Copyright 2021">
 <meta name="citation_online_date" content="2021/03/21">
 
-<meta name="citation_keywords" content="Digital Archival, Annotated Texts">
+<meta name="citation_keywords" content="Digital Archival, Annotated Texts, FLEx, ELAN">
 
 
 
@@ -792,7 +794,7 @@
   
   <span class="middot-divider"></span>
   <span class="article-reading-time">
-    1 min read
+    10 min read
   </span>
   
 
@@ -823,6 +825,45 @@
 
 
 
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+  
+  <a class="btn btn-outline-primary my-1 mr-1" href="/Hugh-CV/project/2012-archive-usability/">
+    Project
+  </a>
+  
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
 
   
 </div>
@@ -832,15 +873,1294 @@
   <div class="article-container">
 
     <div class="article-style">
-      <p>This is just a short list of tools for presenting time-aligned texts online.</p>
+      <p>For several years I have been tracking the progression of how interlinear glossed texts (IGT) are interacted with online. This has several dimensions:</p>
 <ul>
-<li>LingView: <a href="https://people.eecs.berkeley.edu/~nicholas_tomlin/research/papers/ldc.pdf">https://people.eecs.berkeley.edu/~nicholas_tomlin/research/papers/ldc.pdf</a></li>
-<li><a href="https://multicast.aspra.uni-bamberg.de/">https://multicast.aspra.uni-bamberg.de/</a></li>
-<li><a href="https://github.com/eopas/eopas">https://github.com/eopas/eopas</a></li>
-<li>Pangloss has a nice presentation : <a href="https://doi.org/10.24397/pangloss-0004676">https://doi.org/10.24397/pangloss-0004676</a></li>
-<li><a href="http://community.village.virginia.edu/etst/">http://community.village.virginia.edu/etst/</a></li>
+<li>the reason for the interaction and the goals of the interaction</li>
+<li>the visual layout and concepts driving the interaction</li>
+<li>the supporting technology choices used to make these interactions happen</li>
+<li>also the content of glosses used in the texts.</li>
 </ul>
-<!-- there is another one that alix M. sent me in his github repo... check my emials. -->
+<p>With regard to the first point above, I find that corpus tools generally fall into one of three broad catagories and this holds true even for browser based tools: Crafting, Display &amp; Navigation, and Information Extraction &amp; Pattern Discovery. Even though EXMARaLDA is not a browser based corpus too these catagories are exemplified in its 
+<a href="https://exmaralda.org/en/about-exmaralda/" target="_blank" rel="noopener">documentation</a>:</p>
+<blockquote>
+<p>EXMARaLDA is a system for working with oral corpora on a computer. It consists of a transcription and annotation tool (Partitur-Editor), a tool for managing corpora (Corpus-Manager) and a query and analysis tool (EXAKT)</p>
+</blockquote>
+<p>I have used this three way distinction to catagorize some of the different software options available.</p>
+
+
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure id="figure-types-of-browser-based-tools">
+
+
+  <a data-fancybox="" href="/Hugh-CV/post/presenting-oral-texts-with-transcriptions-online/Types-of-Browser-based-tools_hua36818c6bed2e8af187cca8f2012a317_155372_2000x2000_fit_lanczos_2.png" data-caption="Types of browser based tools">
+
+
+  <img data-src="/Hugh-CV/post/presenting-oral-texts-with-transcriptions-online/Types-of-Browser-based-tools_hua36818c6bed2e8af187cca8f2012a317_155372_2000x2000_fit_lanczos_2.png" class="lazyload" alt="Taxonomy of browser based tools" width="1576" height="588">
+</a>
+
+
+  
+  
+  <figcaption>
+    <p>Types of browser based tools
+      
+<span class="img-attribution">Credit: <a href="https://hughandbecky.us/Hugh-CV/post/presenting-oral-texts-with-transcriptions-online"> 
+Hugh Paterson III
+</a> </span>
+</p>
+  </figcaption>
+
+
+</figure>
+
+<!-- For example many publishers use or require Leipzig glossing rules which point to a "standard" set of abbreviations, to be used in print publications. However, these abbreviations do not have a concrete set of definitions. Therefore one can never be exactly sure what an author means when they use these abbreviations (but in general shared conventions are more helpful than not). What I have noticed with respect to these abbreviations is that due to the mental/visual prominence the abbreviations have in print media, they are often being used in corpus annotations. To complicate matters, when additional annotations are needed but are not present in the Leipzig Glossing Rules chaos ensues. That is, authors choose to create their own abbreviations on an ad-hoc basis. Additionally abbreviations used in the Leipzig Glossing Rules by field linguists are often different from those used by computational linguists working on TreeBanks or WordNets creating a gap in the cross-discipline uses of corpora.  http://inl.github.io/BlackLab/ https://github.com/INL/BlackLab  https://corpus-analysis.com/ https://github.com/timarkh/tsakorpus-->
+<p>While what is presented in terms of the content is still very important, <em>how</em> it is presented in an interactive mode is also important. That is, how is the experience crafted around the audio or video and the transcribed segments in terms of the <em>interaction design</em> and <em>visual design</em>? I started to compile a list of these interactions which I present below. However, two significant components are influential in the life cycle of software and hence these interactions. First, the viral nature of the interaction, i.e., how easy is it to propagate the interaction in new contexts. Second, what is the life cycle of the technology undergirding the browser based experience? That is, how does the technology choice expose the user to obsolecence and technolgical debt. These two factors should be top ranking considerations when a project desires to &ldquo;publish&rdquo; or present interlinear texts online. In addition to these two factors, the following three design considerations will also impact the sustainability and maintainability of the online presence for the corpora and ought to be considered while planning for implementation.</p>
+<ol>
+<li>The first consideration is, <em>is there a required separation between data (content) and presentation?</em> By separating on these lines the code produced to present the interlinear text can be re-used liberally across texts and projects, and the visual presentation can be adjusted and applied to texts at scale.</li>
+<li>The second consideration is, <em>what is the quantity of dependencies that a visual presentation requires?</em> That is, are there server based requirements for the generation of the visual presentation, or can the presentation happen without the server? Server based presentations require a long term maintenance plan. More dependencies require that the software be updated as each dependency evolves (potentially motivated by security issues). Dependencies may drop features that current interactions deemed important.</li>
+<li>The third consideration is <em>what is the purpose of the web-presentation?</em> There are different classes of tools with respect to interlinear glossed texts. Arguably, the one of primary importance is the archived version. That is, where is the text archived and can the archived version&rsquo;s annotation be viewed while the audio is heard at the same time. A secondary consideration then is the working copy, or what can one <em>do</em> with the interlinear glossed text and how easy is it for people other than the author of the interlinear glossed text to do comparative searching across the text or in conjunction with other texts. Then a third consideration, is how is the canonical reference of the archived version persisted through to the working copy. That is, if the interlinear glossed text it loaded into an online system for investigation, does that system create new identifiers for the searches conducted or does it respect existing identifiers?</li>
+</ol>
+<p>With these issues in mind I have been collecting images of the visual presentation of interlinear glossed texts online. In addition to my purpose for looking at ongoing evolution of the technical presentation of interlinear glossed text, I have been looking for a system that meets the requirements of points number one and two for use on a portfolio website like mine. Stated another way, I am looking for a tool which takes ELAN or FLExTexts and matches them with audio or video in the browser, rather than on a server. I want the tool to be limited to HTML5, JavaScript, and CSS3+.</p>
+<p>This is just a short list of tools for presenting time-aligned texts online. These would be in the middle category of the illustration above as they are designed for presentation and discovery of the resource rather than information extraction<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup>.</p>
+<h2 id="requires-no-database">Requires no Database</h2>
+<h3 id="leipzigjs">Leipzig.js</h3>
+<p><strong>Produced by</strong>: Ben Chauvette<br/>
+<strong>Links</strong>: <a href="https://bdchauvette.net/leipzig.js">https://bdchauvette.net/leipzig.js</a> ; 
+<a href="https://github.com/bdchauvette/leipzig.js" target="_blank" rel="noopener">Github</a>, 
+<a href="https://www.npmjs.com/package/leipzig/v/0.5.0" target="_blank" rel="noopener">npm package</a>.<br/>
+<strong>Notes</strong>: This JavaScript library lines up interliear glosses based on spaces in the text file. Each row must be its own HTML paragraph. It can then number them for use as examples. It does not connect the the text to audio or video files, but it is great for use on blogs and websites. 
+<a href="https://libraries.io/bower/glosser" target="_blank" rel="noopener">Glosser</a> is a similar kind of product, written in jQuery (JavaScript), but in my quick 3.5 minute review it looks like <strong>Leipzig.js</strong> has more features than Glosser.
+
+
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure id="figure-german-example-showing-output-and-code-taken-from-the-leipzigjs-website">
+
+
+  <a data-fancybox="" href="/Hugh-CV/post/presenting-oral-texts-with-transcriptions-online/leipzig_hub10e4c6c263b7731bb1ac0e1e9ed1f4e_114603_2000x2000_fit_lanczos_2.png" data-caption="German example showing output and code taken from the leipzig.js website">
+
+
+  <img data-src="/Hugh-CV/post/presenting-oral-texts-with-transcriptions-online/leipzig_hub10e4c6c263b7731bb1ac0e1e9ed1f4e_114603_2000x2000_fit_lanczos_2.png" class="lazyload" alt="Example taken from leipzig.js website" width="715" height="847">
+</a>
+
+
+  
+  
+  <figcaption>
+    <p>German example showing output and code taken from the leipzig.js website
+      
+<span class="img-attribution">Credit: <a href="https://bdchauvette.net/leipzig.js/examples/"> 
+Ben Chauvette
+</a> </span>
+</p>
+  </figcaption>
+
+
+</figure>
+</p>
+<h3 id="iath-elan-text-sync-tool-etst">IATH ELAN Text-Sync Tool (ETST)</h3>
+<p><strong>Produced by</strong>: Lise Dobrin &amp; Douglas Ross  
+
+
+
+
+
+
+
+<span class="hugo-cite-intext"
+        itemprop="citation">(<a href="#dobrin_iath_2017"><span class="visually-hidden">Citation: </span><span itemprop="author" itemscope itemtype="https://schema.org/Person"><meta itemprop="givenName" content="Lise M"><span itemprop="familyName">Dobrin</span></span>
+      <em>&amp; al.</em>,&#32;
+      <span itemprop="datePublished">2017</span></a>)
+    <span class="hugo-cite-citation">
+
+
+
+
+
+
+
+
+
+
+
+
+<span itemscope
+      itemtype="https://schema.org/Article"
+      data-type="article"><span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Dobrin</span>,&#32;
+    <meta itemprop="givenName" content="Lise M" />
+    L.</span>&#32;&amp;&#32;<span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Ross</span>,&#32;
+    <meta itemprop="givenName" content="Douglas" />
+    D.</span>
+  &#32;
+    (<span itemprop="datePublished">2017</span>).
+  &#32;<span itemprop="name">The IATH ELAN Text-Sync Tool: A Simple System for Mobilizing ELAN Transcripts On- or Off-Line</span>.<i>
+    <span itemprop="about">Language Documentation &amp; Conservation</span>,&#32;11</i>.&#32;<span itemprop="pagination">94–102</span>.&#32;Retrieved from&#32;
+  <a href="http://hdl.handle.net/10125/24726"
+     itemprop="identifier"
+     itemtype="https://schema.org/URL">http://hdl.handle.net/10125/24726</a></span>
+
+
+
+
+</span></span><br/>
+<strong>Links</strong>: <a href="http://community.village.virginia.edu/etst/">http://community.village.virginia.edu/etst/</a> <br/>
+<strong>Notes</strong>: This script uses command-line PHP to convert ELAN texts to HTML and align them to audio or video files. This solution works completely within the browser and does not require a server once the annotation files are processed.
+
+
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure id="figure-time-aligned-audio-and-text-where-text-is-automatically-highlighted-as-the-audio-plays">
+
+
+  <a data-fancybox="" href="/Hugh-CV/post/presenting-oral-texts-with-transcriptions-online/IATHELAN_hu7827a15245c69c5d5e8c519632c5e7d8_331560_2000x2000_fit_lanczos_2.png" data-caption="Time aligned audio and text where text is automatically highlighted as the audio plays.">
+
+
+  <img data-src="/Hugh-CV/post/presenting-oral-texts-with-transcriptions-online/IATHELAN_hu7827a15245c69c5d5e8c519632c5e7d8_331560_2000x2000_fit_lanczos_2.png" class="lazyload" alt="Example of time aligned audio and text" width="1423" height="865">
+</a>
+
+
+  
+  
+  <figcaption>
+    <p>Time aligned audio and text where text is automatically highlighted as the audio plays.
+      
+<span class="img-attribution">Credit: <a href="http://community.village.virginia.edu/etst/example.php"> 
+Lise &amp; Douglas
+</a> </span>
+</p>
+  </figcaption>
+
+
+</figure>
+</p>
+<h3 id="lingview">LingView</h3>
+<p><strong>Produced by</strong>: 
+
+
+
+
+
+
+
+<span class="hugo-cite-intext"
+        itemprop="citation">(<a href="#pride_lingview_2020-1"><span class="visually-hidden">Citation: </span><span itemprop="author" itemscope itemtype="https://schema.org/Person"><meta itemprop="givenName" content="Kalinda"><span itemprop="familyName">Pride</span></span>
+      <em>&amp; al.</em>,&#32;
+      <span itemprop="datePublished">2020</span></a>)
+    <span class="hugo-cite-citation">
+
+
+
+
+
+
+
+
+
+
+
+
+<span itemscope
+      itemtype="https://schema.org/Article"
+      data-type="article"><span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Pride</span>,&#32;
+    <meta itemprop="givenName" content="Kalinda" />
+    K.</span>,&#32;
+  <span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Tomlin</span>,&#32;
+    <meta itemprop="givenName" content="Nicholas" />
+    N.</span>&#32;&amp;&#32;<span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">AnderBois</span>,&#32;
+    <meta itemprop="givenName" content="Scott" />
+    S.</span>
+  &#32;
+    (<span itemprop="datePublished">2020</span>).
+  &#32;<span itemprop="name">LingView: A Web Interface for Viewing FLEx and ELAN Files</span>.<i>
+    <span itemprop="about">Language Documentation &amp; Conservation</span>,&#32;14</i>.&#32;<span itemprop="pagination">87–107</span>.&#32;Retrieved from&#32;
+  <a href="http://hdl.handle.net/10125/24916"
+     itemprop="identifier"
+     itemtype="https://schema.org/URL">http://hdl.handle.net/10125/24916</a></span>
+
+
+
+
+</span></span><br/>
+<strong>Links</strong>: <a href="https://github.com/BrownCLPS/LingView">https://github.com/BrownCLPS/LingView</a><br/>
+<strong>Notes</strong>: Works with video, audio, ELAN files, FLExTexts, and does not require a server. Does depend on Node, which is a JavaScript framework.<br/>
+
+
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure >
+
+
+  <a data-fancybox="" href="/Hugh-CV/post/presenting-oral-texts-with-transcriptions-online/LingView_hu22559aeae75463bc8faa9e4d77838f02_511347_2000x2000_fit_lanczos_2.png" >
+
+
+  <img data-src="/Hugh-CV/post/presenting-oral-texts-with-transcriptions-online/LingView_hu22559aeae75463bc8faa9e4d77838f02_511347_2000x2000_fit_lanczos_2.png" class="lazyload" alt="mulit-cast screenshot" width="1854" height="824">
+</a>
+
+
+
+</figure>
+</p>
+<h2 id="require-back-end-databases">Require Back-end Databases</h2>
+<h3 id="ethnographic-e-research-online-presentation-system-eopas">Ethnographic E-Research Online Presentation System (EOPAS)</h3>
+<p><strong>Produced by</strong>: Nick Thieberger 
+
+
+
+
+
+
+
+<span class="hugo-cite-intext"
+        itemprop="citation">(<a href="#schroeter_eopas_2006"><span class="visually-hidden">Citation: </span><span itemprop="author" itemscope itemtype="https://schema.org/Person"><meta itemprop="givenName" content="Ronald"><span itemprop="familyName">Schroeter</span></span>
+      <em>&amp; al.</em>,&#32;
+      <span itemprop="datePublished">2006</span></a>)
+    <span class="hugo-cite-citation">
+
+
+
+
+
+
+
+
+
+
+
+
+<span itemscope
+      itemtype="https://schema.org/Chapter"
+      data-type="chapter">
+  <span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Schroeter</span>,&#32;
+    <meta itemprop="givenName" content="Ronald" />
+    R.</span>&#32;&amp;&#32;<span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Thieberger</span>,&#32;
+    <meta itemprop="givenName" content="Nicholas" />
+    N.</span>
+  &#32;
+    (<span itemprop="datePublished">2006</span>).
+  &#32;<span itemprop="name">EOPAS, the EthnoER online representation of interlinear text</span>.&#32;In&#32;<span itemprop="editor" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Barwick</span>,&#32;
+    <meta itemprop="givenName" content="Linda" />
+    L.</span>&#32;&amp;&#32;<span itemprop="editor" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Thieberger</span>,&#32;
+    <meta itemprop="givenName" content="Nicholas" />
+    N.</span> (Eds.),&#32;<span itemprop="about">
+    <i>Sustainable Data from Digital Fieldwork. Proceedings of the conference held at the University of Sydney, 4-6 December 2006</i></span>.&#32;(<span>pp.&#32;99–124</span>).
+  <meta itemprop="contentLocation"
+        value="Sydney, Australia">&#32;<span itemprop="publisher"
+               itemtype="http://schema.org/Organization"
+               itemscope="">
+      <span itemprop="name">Sydney University Press</span></span>.&#32;Retrieved from&#32;
+  <a href="http://hdl.handle.net/2123/1297"
+     itemprop="identifier"
+     itemtype="https://schema.org/URL">http://hdl.handle.net/2123/1297</a></span>
+
+
+
+
+</span></span> &amp; 
+
+
+
+
+
+
+
+<span class="hugo-cite-intext"
+        itemprop="citation">(<a href="#thieberger_ethnography_2006"><span class="visually-hidden">Citation: </span><span itemprop="author" itemscope itemtype="https://schema.org/Person"><meta itemprop="givenName" content="Nicholas"><span itemprop="familyName">Thieberger</span></span>,&#32;
+      <span itemprop="datePublished">2006</span></a>)
+    <span class="hugo-cite-citation">
+
+
+
+
+
+
+
+
+
+
+
+
+<span itemscope
+      itemtype="https://schema.org/CreativeWork"
+      data-type="speech"><span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Thieberger</span>,&#32;
+    <meta itemprop="givenName" content="Nicholas" />
+    N.</span>
+  &#32;
+    (<span itemprop="datePublished">2006</span>).
+  &#32;<span itemprop="name">
+    <i>An ethnography of the EthnoER project</i></span>.
+  <meta itemprop="contentLocation"
+        content="Sydney, Australia">&#32;Retrieved from&#32;
+  <a href="http://hdl.handle.net/2123/1532"
+     itemprop="identifier"
+     itemtype="https://schema.org/URL">http://hdl.handle.net/2123/1532</a></span>
+
+</span></span><br/>
+<strong>Links</strong>: <a href="https://github.com/eopas/eopas">https://github.com/eopas/eopas</a><br/>
+<strong>Note</strong>: This was one of the earliest online presentations which linked grammars with texts. However, the system does not support collaborative editing or the creation of texts. It was originally designed to work with Toolbox formatted data. It is open source and available via Github.</p>
+<h3 id="typecraft">TypeCraft</h3>
+<p><strong>Produced by</strong>: 
+
+
+
+
+
+
+
+<span class="hugo-cite-intext"
+        itemprop="citation">(<a href="#beermann_typecraft_2014"><span class="visually-hidden">Citation: </span><span itemprop="author" itemscope itemtype="https://schema.org/Person"><meta itemprop="givenName" content="Dorothee"><span itemprop="familyName">Beermann</span></span>
+      <em>&amp; al.</em>,&#32;
+      <span itemprop="datePublished">2014</span></a>)
+    <span class="hugo-cite-citation">
+
+
+
+
+
+
+
+
+
+
+
+
+<span itemscope
+      itemtype="https://schema.org/Article"
+      data-type="article"><span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Beermann</span>,&#32;
+    <meta itemprop="givenName" content="Dorothee" />
+    D.</span>&#32;&amp;&#32;<span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Mihaylov</span>,&#32;
+    <meta itemprop="givenName" content="Pavel" />
+    P.</span>
+  &#32;
+    (<span itemprop="datePublished">2014</span>).
+  &#32;<span itemprop="name">TypeCraft collaborative databasing and resource sharing for linguists</span>.<i>
+    <span itemprop="about">Language Resources and Evaluation</span>,&#32;48(2)</i>.&#32;<span itemprop="pagination">203–225</span>.
+  <a href="https://doi.org/10.1007/s10579-013-9257-9"
+     itemprop="identifier"
+     itemtype="https://schema.org/URL">https://doi.org/10.1007/s10579-013-9257-9</a></span>
+
+
+
+
+</span></span><br/>
+<strong>Links</strong>: <a href="https://typecraft.org/tc2wiki/TypeCraft:About">https://typecraft.org/tc2wiki/TypeCraft:About</a> <br/>
+<strong>Notes</strong>: This is software as service. It can not be locally deployed. This is a production system, that is it is designed to facilitate collaboration. It is based on MediaWiki. It is designed for collaborative creation of annotated texts. It does not align the texts for display with video or audio. The same purpose of this service could be accomplished if ELAN annotations were under version control (like git) and collaborators interacted with version control and used ELAN on their local computers.</p>
+<h3 id="multicast">Multicast</h3>
+<p><strong>Produced by</strong>: Geoffrey Haig &amp; Nils Norman Schiborr 
+
+
+
+
+
+
+
+<span class="hugo-cite-intext"
+        itemprop="citation">(<a href="#haig_multi-cast_2016"><span class="visually-hidden">Citation: </span><span itemprop="author" itemscope itemtype="https://schema.org/Person"><meta itemprop="givenName" content="Geoffrey"><span itemprop="familyName">Haig</span></span>
+      <em>&amp; al.</em>,&#32;
+      <span itemprop="datePublished">2016</span></a>)
+    <span class="hugo-cite-citation">
+
+
+
+
+
+
+
+
+
+
+
+
+<span itemscope
+      itemtype="https://schema.org/CreativeWork"
+      data-type="speech"><span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Haig</span>,&#32;
+    <meta itemprop="givenName" content="Geoffrey" />
+    G.</span>&#32;&amp;&#32;<span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Schiborr</span>,&#32;
+    <meta itemprop="givenName" content="Nils Norman" />
+    N.</span>
+  &#32;
+    (<span itemprop="datePublished">2016</span>).
+  &#32;<span itemprop="name">
+    <i>Multi-CAST (Multilingual Corpus of Annotated Spoken Texts): Ein Projekt zur Erstellung und Auswertung mehrsprachiger Korpora für die Sprachtypologie</i></span>.
+  <meta itemprop="contentLocation"
+        content="Hamburg, Germany, 7–8 June 2016"></span>
+
+</span></span><br/>
+<strong>Links</strong>: <a href="https://multicast.aspra.uni-bamberg.de">https://multicast.aspra.uni-bamberg.de</a> <br/>
+<strong>Notes</strong>: The presentation software does not seem to be open source and accessible. However there is an 
+<a href="https://cran.r-project.org/web/packages/multicastR/index.html" target="_blank" rel="noopener">open source R package</a> which one can use to download annotation files and programatically investigate them. The text being played in the audio is not highlighted, but one can quickly access the transcribed text and copy it out as formatted LaTeX for inclusion as interlinear text in an other document (a pretty nifty feature).
+
+
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure id="figure-audio-is-at-the-very-bottom-of-the-screen-the-text-is-not-highlighted-as-it-is-played">
+
+
+  <a data-fancybox="" href="/Hugh-CV/post/presenting-oral-texts-with-transcriptions-online/multi-cast_hub075d7be7fd51d658edcc068bfd23fd0_115657_2000x2000_fit_lanczos_2.png" data-caption="Audio is at the very bottom of the screen. The text is not highlighted as it is played.">
+
+
+  <img data-src="/Hugh-CV/post/presenting-oral-texts-with-transcriptions-online/multi-cast_hub075d7be7fd51d658edcc068bfd23fd0_115657_2000x2000_fit_lanczos_2.png" class="lazyload" alt="mulit-cast screenshot" width="1902" height="915">
+</a>
+
+
+  
+  
+  <figcaption>
+    <p>Audio is at the very bottom of the screen. The text is not highlighted as it is played.
+      
+<span class="img-attribution">Credit: <a href="https://multicast.aspra.uni-bamberg.de/php/preview.php?v=2101&amp;corpus=arta&amp;text=alisiya"> 
+Geoffrey Haig &amp; Nils Norman Schiborr
+</a> </span>
+</p>
+  </figcaption>
+
+
+</figure>
+</p>
+<h3 id="pangloss">Pangloss</h3>
+<p><strong>Produced by</strong>: CNRS-LACITO 
+
+
+
+
+
+
+
+<span class="hugo-cite-intext"
+        itemprop="citation">(<a href="#grenoble_sharing_2010"><span class="visually-hidden">Citation: </span><span itemprop="author" itemscope itemtype="https://schema.org/Person"><meta itemprop="givenName" content="Nicholas"><span itemprop="familyName">Thieberger</span></span>
+      <em>&amp; al.</em>,&#32;
+      <span itemprop="datePublished">2010</span></a>)
+    <span class="hugo-cite-citation">
+
+
+
+
+
+
+
+
+
+
+
+
+<span itemscope
+      itemtype="https://schema.org/Chapter"
+      data-type="chapter">
+  <span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Thieberger</span>,&#32;
+    <meta itemprop="givenName" content="Nicholas" />
+    N.</span>&#32;&amp;&#32;<span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Jacobson</span>,&#32;
+    <meta itemprop="givenName" content="Michel" />
+    M.</span>
+  &#32;
+    (<span itemprop="datePublished">2010</span>).
+  &#32;<span itemprop="name">Sharing data in small and endangered languages: Cataloging and metadata, formats, and encodings</span>.&#32;In&#32;<span itemprop="editor" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Grenoble</span>,&#32;
+    <meta itemprop="givenName" content="Lenore A." />
+    L.</span>&#32;&amp;&#32;<span itemprop="editor" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Furbee</span>,&#32;
+    <meta itemprop="givenName" content="N. Louanna" />
+    N.</span> (Eds.),&#32;<span itemprop="about">
+    <i>Language Documentation: Practice and values</i></span>.&#32;(<span>pp.&#32;147–158</span>).
+  <meta itemprop="contentLocation"
+        value="Amsterdam">&#32;<span itemprop="publisher"
+               itemtype="http://schema.org/Organization"
+               itemscope="">
+      <span itemprop="name">John Benjamins Publishing Company</span></span>.
+  <a href="https://doi.org/10.1075/z.158.15thi"
+     itemprop="identifier"
+     itemtype="https://schema.org/URL">https://doi.org/10.1075/z.158.15thi</a></span>
+
+
+
+
+</span></span> 
+
+
+
+
+
+
+
+<span class="hugo-cite-intext"
+        itemprop="citation">(<a href="#michailovsky_simple_2011"><span class="visually-hidden">Citation: </span><span itemprop="author" itemscope itemtype="https://schema.org/Person"><meta itemprop="givenName" content="Boyd"><span itemprop="familyName">Michailovsky</span></span>
+      <em>&amp; al.</em>,&#32;
+      <span itemprop="datePublished">2011</span></a>)
+    <span class="hugo-cite-citation">
+
+
+
+
+
+
+
+
+
+
+
+
+<span itemscope
+      itemtype="https://schema.org/CreativeWork"
+      data-type="paper-conference"><span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Michailovsky</span>,&#32;
+    <meta itemprop="givenName" content="Boyd" />
+    B.</span>,&#32;
+  <span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Michaud</span>,&#32;
+    <meta itemprop="givenName" content="Alexis" />
+    A.</span>&#32;&amp;&#32;<span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Guillaume</span>,&#32;
+    <meta itemprop="givenName" content="Severine" />
+    S.</span>
+  &#32;
+    (<span itemprop="datePublished">2011</span>).
+  &#32;<span itemprop="name">
+    <i>A simple architecture for the fine-grained documentation of endangered languages: The LACITO multimedia archive</i></span>.
+  <meta itemprop="contentLocation"
+        content="Hsinchu City, Taiwan">&#32;
+  <span itemprop="publisher" itemtype="http://schema.org/Organization" itemscope="">
+    <span itemprop="name">IEEE</span></span>.
+  <a href="https://doi.org/10.1109/ICSDA.2011.6085973"
+     itemprop="identifier"
+     itemtype="https://schema.org/URL">https://doi.org/10.1109/ICSDA.2011.6085973</a></span>
+
+</span></span><br/>
+<strong>Links</strong>: [Example]: <a href="https://doi.org/10.24397/pangloss-0004676">https://doi.org/10.24397/pangloss-0004676</a>  <br/>
+<strong>Notes</strong>: As software the Pangloss interface is not downloadable. However, it is the front face of an archived collection. It is great for referencing a particular point in an audio or transcribed textual artifact, within an the archive&rsquo;s canonical location for the item. The Pangloss use of DOIs to access the components of a resource is discussed in 
+
+
+
+
+
+
+
+<span class="hugo-cite-intext"
+        itemprop="citation">(<a href="#vasile_digital_2020"><span class="visually-hidden">Citation: </span><span itemprop="author" itemscope itemtype="https://schema.org/Person"><meta itemprop="givenName" content="Aurélia"><span itemprop="familyName">Vasile</span></span>
+      <em>&amp; al.</em>,&#32;
+      <span itemprop="datePublished">2020</span></a>)
+    <span class="hugo-cite-citation">
+
+
+
+
+
+
+
+
+
+
+
+
+<span itemscope
+      itemtype="https://schema.org/Article"
+      data-type="article"><span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Vasile</span>,&#32;
+    <meta itemprop="givenName" content="Aurélia" />
+    A.</span>,&#32;
+  <span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Guillaume</span>,&#32;
+    <meta itemprop="givenName" content="Séverine" />
+    S.</span>,&#32;
+  <span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Aouini</span>,&#32;
+    <meta itemprop="givenName" content="Mourad" />
+    M.</span>&#32;&amp;&#32;<span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Michaud</span>,&#32;
+    <meta itemprop="givenName" content="Alexis" />
+    A.</span>
+  &#32;
+    (<span itemprop="datePublished">2020</span>).
+  &#32;<span itemprop="name">Le Digital Object Identifier, une impérieuse nécessité ?L’exemple de l’attribution de DOI à la Collection Pangloss, archive ouverte de langues en danger</span>.<i>
+    <span itemprop="about">I2D - Information, données &amp; documents</span>,&#32;2(2)</i>.&#32;<span itemprop="pagination">155–175</span>.
+  <a href="https://doi.org/10.3917/i2d.202.0155"
+     itemprop="identifier"
+     itemtype="https://schema.org/URL">https://doi.org/10.3917/i2d.202.0155</a></span>
+
+
+
+
+</span></span>.</p>
+
+
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure >
+
+
+  <a data-fancybox="" href="/Hugh-CV/post/presenting-oral-texts-with-transcriptions-online/Pangloss_hub8cf7e90014ba857c943350251fd247e_128451_2000x2000_fit_lanczos_2.png" >
+
+
+  <img data-src="/Hugh-CV/post/presenting-oral-texts-with-transcriptions-online/Pangloss_hub8cf7e90014ba857c943350251fd247e_128451_2000x2000_fit_lanczos_2.png" class="lazyload" alt="mulit-cast screenshot" width="1593" height="879">
+</a>
+
+
+
+</figure>
+
+<h3 id="california-state-university-long-beach-interface">California State University Long Beach Interface</h3>
+<p><strong>Produced by</strong>: Michael Ahland &amp; Cem Demir as part of the Pahka&rsquo;anil Text Project <br/>
+<strong>Links</strong>: <a href="https://web.csulb.edu/projects/lingresearch/pahka'anil/text/bat-and-horsefly">https://web.csulb.edu/projects/lingresearch/pahka'anil/text/bat-and-horsefly</a><br/>
+<strong>Notes</strong>: This interaction does not appear to be downloadable.</p>
+
+
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure >
+
+
+  <a data-fancybox="" href="/Hugh-CV/post/presenting-oral-texts-with-transcriptions-online/CSULB_hudb0370fef0e167a80649bdef8b646f78_129500_2000x2000_fit_lanczos_2.png" >
+
+
+  <img data-src="/Hugh-CV/post/presenting-oral-texts-with-transcriptions-online/CSULB_hudb0370fef0e167a80649bdef8b646f78_129500_2000x2000_fit_lanczos_2.png" class="lazyload" alt="mulit-cast screenshot" width="1843" height="835">
+</a>
+
+
+
+</figure>
+
+<h3 id="eastlingplayer">Eastlingplayer</h3>
+<p><strong>Produced by</strong>:  CNRS-LACITO &amp; Alexis Michaud<br/>
+<strong>Links</strong>: <a href="https://github.com/CNRS-LACITO/eastlingplayer">https://github.com/CNRS-LACITO/eastlingplayer</a><br/>
+<strong>Notes</strong>:  Eastling Player is part of the 
+<a href="https://github.com/CNRS-LACITO" target="_blank" rel="noopener">Eastling suite: Easy Annotation and Synchronization Tool for linguists</a>. It is developed in PHP and requires a server. It was developed in response to perceptions of server lag times in early versions of Pangloss (in the 
+<a href="https://pangloss.cnrs.fr" target="_blank" rel="noopener">presentation interface managed by Villejuif</a>; there are two interfaces). These versions of Pangloss converted ELAN files (XML) to HTML on request. As these XML files got longer they affected server-client transmission times. Technicians opted to parse these XML files into a databases to decrease load times. This is an interesting use of tools because the XML transforms could have been maintained and the HTML outputs cached or retained until XML files were updated. The alternative strategy would have not introduced PHP into the set of software required for the presentation.</p>
+<!-- 
+Still to finish and incorporate
+https://github.com/CoEDL/nabu-collection-viewer-v1
+
+https://scholarspace.manoa.hawaii.edu/bitstream/10125/24765/1/kaufman_finkel.pdf
+Include this in the paper https://www.kratylos.org/~kratylos/display.cgi
+
+Nick Paper to cite.
+https://books.google.fr/books?id=mVwVDAAAQBAJ&pg=PA151&lpg=PA151&dq=igt+linguistic+browser&source=bl&ots=QYEhBW9yKU&sig=ACfU3U1CnlR1QQt4CxUCiA6FAOgDhPaYHw&hl=en&sa=X&ved=2ahUKEwjaz8Khh-XwAhXC4uAKHXSVB30Q6AEwCHoECAoQAw#v=onepage&q=igt%20linguistic%20browser&f=false
+ 
+-->
+<h2 id="references">References</h2>
+
+  
+
+  
+
+
+
+
+
+
+
+
+
+
+<section class="hugo-cite-bibliography">
+  <dl>
+    
+
+      <div id="beermann_typecraft_2014">
+        <dt>
+          Beermann&#32;&amp;&#32;Mihaylov
+
+          
+          (2014)</dt>
+
+        <dd>
+          
+
+
+
+
+
+
+
+
+
+
+
+
+<span itemscope
+      itemtype="https://schema.org/Article"
+      data-type="article"><span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Beermann</span>,&#32;
+    <meta itemprop="givenName" content="Dorothee" />
+    D.</span>&#32;&amp;&#32;<span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Mihaylov</span>,&#32;
+    <meta itemprop="givenName" content="Pavel" />
+    P.</span>
+  &#32;
+    (<span itemprop="datePublished">2014</span>).
+  &#32;<span itemprop="name">TypeCraft collaborative databasing and resource sharing for linguists</span>.<i>
+    <span itemprop="about">Language Resources and Evaluation</span>,&#32;48(2)</i>.&#32;<span itemprop="pagination">203–225</span>.
+  <a href="https://doi.org/10.1007/s10579-013-9257-9"
+     itemprop="identifier"
+     itemtype="https://schema.org/URL">https://doi.org/10.1007/s10579-013-9257-9</a></span>
+
+
+
+
+</dd>
+
+      </div>
+
+      <div id="dobrin_iath_2017">
+        <dt>
+          Dobrin&#32;&amp;&#32;Ross
+
+          
+          (2017)</dt>
+
+        <dd>
+          
+
+
+
+
+
+
+
+
+
+
+
+
+<span itemscope
+      itemtype="https://schema.org/Article"
+      data-type="article"><span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Dobrin</span>,&#32;
+    <meta itemprop="givenName" content="Lise M" />
+    L.</span>&#32;&amp;&#32;<span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Ross</span>,&#32;
+    <meta itemprop="givenName" content="Douglas" />
+    D.</span>
+  &#32;
+    (<span itemprop="datePublished">2017</span>).
+  &#32;<span itemprop="name">The IATH ELAN Text-Sync Tool: A Simple System for Mobilizing ELAN Transcripts On- or Off-Line</span>.<i>
+    <span itemprop="about">Language Documentation &amp; Conservation</span>,&#32;11</i>.&#32;<span itemprop="pagination">94–102</span>.&#32;Retrieved from&#32;
+  <a href="http://hdl.handle.net/10125/24726"
+     itemprop="identifier"
+     itemtype="https://schema.org/URL">http://hdl.handle.net/10125/24726</a></span>
+
+
+
+
+</dd>
+
+      </div>
+
+      <div id="grenoble_sharing_2010">
+        <dt>
+          Thieberger&#32;&amp;&#32;Jacobson
+
+          
+          (2010)</dt>
+
+        <dd>
+          
+
+
+
+
+
+
+
+
+
+
+
+
+<span itemscope
+      itemtype="https://schema.org/Chapter"
+      data-type="chapter">
+  <span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Thieberger</span>,&#32;
+    <meta itemprop="givenName" content="Nicholas" />
+    N.</span>&#32;&amp;&#32;<span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Jacobson</span>,&#32;
+    <meta itemprop="givenName" content="Michel" />
+    M.</span>
+  &#32;
+    (<span itemprop="datePublished">2010</span>).
+  &#32;<span itemprop="name">Sharing data in small and endangered languages: Cataloging and metadata, formats, and encodings</span>.&#32;In&#32;<span itemprop="editor" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Grenoble</span>,&#32;
+    <meta itemprop="givenName" content="Lenore A." />
+    L.</span>&#32;&amp;&#32;<span itemprop="editor" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Furbee</span>,&#32;
+    <meta itemprop="givenName" content="N. Louanna" />
+    N.</span> (Eds.),&#32;<span itemprop="about">
+    <i>Language Documentation: Practice and values</i></span>.&#32;(<span>pp.&#32;147–158</span>).
+  <meta itemprop="contentLocation"
+        value="Amsterdam">&#32;<span itemprop="publisher"
+               itemtype="http://schema.org/Organization"
+               itemscope="">
+      <span itemprop="name">John Benjamins Publishing Company</span></span>.
+  <a href="https://doi.org/10.1075/z.158.15thi"
+     itemprop="identifier"
+     itemtype="https://schema.org/URL">https://doi.org/10.1075/z.158.15thi</a></span>
+
+
+
+
+</dd>
+
+      </div>
+
+      <div id="haig_multi-cast_2016">
+        <dt>
+          Haig&#32;&amp;&#32;Schiborr
+
+          
+          (2016)</dt>
+
+        <dd>
+          
+
+
+
+
+
+
+
+
+
+
+
+
+<span itemscope
+      itemtype="https://schema.org/CreativeWork"
+      data-type="speech"><span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Haig</span>,&#32;
+    <meta itemprop="givenName" content="Geoffrey" />
+    G.</span>&#32;&amp;&#32;<span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Schiborr</span>,&#32;
+    <meta itemprop="givenName" content="Nils Norman" />
+    N.</span>
+  &#32;
+    (<span itemprop="datePublished">2016</span>).
+  &#32;<span itemprop="name">
+    <i>Multi-CAST (Multilingual Corpus of Annotated Spoken Texts): Ein Projekt zur Erstellung und Auswertung mehrsprachiger Korpora für die Sprachtypologie</i></span>.
+  <meta itemprop="contentLocation"
+        content="Hamburg, Germany, 7–8 June 2016"></span>
+
+</dd>
+
+      </div>
+
+      <div id="michailovsky_simple_2011">
+        <dt>
+          Michailovsky,&#32;
+          Michaud&#32;&amp;&#32;Guillaume
+
+          
+          (2011)</dt>
+
+        <dd>
+          
+
+
+
+
+
+
+
+
+
+
+
+
+<span itemscope
+      itemtype="https://schema.org/CreativeWork"
+      data-type="paper-conference"><span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Michailovsky</span>,&#32;
+    <meta itemprop="givenName" content="Boyd" />
+    B.</span>,&#32;
+  <span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Michaud</span>,&#32;
+    <meta itemprop="givenName" content="Alexis" />
+    A.</span>&#32;&amp;&#32;<span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Guillaume</span>,&#32;
+    <meta itemprop="givenName" content="Severine" />
+    S.</span>
+  &#32;
+    (<span itemprop="datePublished">2011</span>).
+  &#32;<span itemprop="name">
+    <i>A simple architecture for the fine-grained documentation of endangered languages: The LACITO multimedia archive</i></span>.
+  <meta itemprop="contentLocation"
+        content="Hsinchu City, Taiwan">&#32;
+  <span itemprop="publisher" itemtype="http://schema.org/Organization" itemscope="">
+    <span itemprop="name">IEEE</span></span>.
+  <a href="https://doi.org/10.1109/ICSDA.2011.6085973"
+     itemprop="identifier"
+     itemtype="https://schema.org/URL">https://doi.org/10.1109/ICSDA.2011.6085973</a></span>
+
+</dd>
+
+      </div>
+
+      <div id="pride_lingview_2020-1">
+        <dt>
+          Pride,&#32;
+          Tomlin&#32;&amp;&#32;AnderBois
+
+          
+          (2020)</dt>
+
+        <dd>
+          
+
+
+
+
+
+
+
+
+
+
+
+
+<span itemscope
+      itemtype="https://schema.org/Article"
+      data-type="article"><span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Pride</span>,&#32;
+    <meta itemprop="givenName" content="Kalinda" />
+    K.</span>,&#32;
+  <span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Tomlin</span>,&#32;
+    <meta itemprop="givenName" content="Nicholas" />
+    N.</span>&#32;&amp;&#32;<span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">AnderBois</span>,&#32;
+    <meta itemprop="givenName" content="Scott" />
+    S.</span>
+  &#32;
+    (<span itemprop="datePublished">2020</span>).
+  &#32;<span itemprop="name">LingView: A Web Interface for Viewing FLEx and ELAN Files</span>.<i>
+    <span itemprop="about">Language Documentation &amp; Conservation</span>,&#32;14</i>.&#32;<span itemprop="pagination">87–107</span>.&#32;Retrieved from&#32;
+  <a href="http://hdl.handle.net/10125/24916"
+     itemprop="identifier"
+     itemtype="https://schema.org/URL">http://hdl.handle.net/10125/24916</a></span>
+
+
+
+
+</dd>
+
+      </div>
+
+      <div id="schroeter_eopas_2006">
+        <dt>
+          Schroeter&#32;&amp;&#32;Thieberger
+
+          
+          (2006)</dt>
+
+        <dd>
+          
+
+
+
+
+
+
+
+
+
+
+
+
+<span itemscope
+      itemtype="https://schema.org/Chapter"
+      data-type="chapter">
+  <span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Schroeter</span>,&#32;
+    <meta itemprop="givenName" content="Ronald" />
+    R.</span>&#32;&amp;&#32;<span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Thieberger</span>,&#32;
+    <meta itemprop="givenName" content="Nicholas" />
+    N.</span>
+  &#32;
+    (<span itemprop="datePublished">2006</span>).
+  &#32;<span itemprop="name">EOPAS, the EthnoER online representation of interlinear text</span>.&#32;In&#32;<span itemprop="editor" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Barwick</span>,&#32;
+    <meta itemprop="givenName" content="Linda" />
+    L.</span>&#32;&amp;&#32;<span itemprop="editor" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Thieberger</span>,&#32;
+    <meta itemprop="givenName" content="Nicholas" />
+    N.</span> (Eds.),&#32;<span itemprop="about">
+    <i>Sustainable Data from Digital Fieldwork. Proceedings of the conference held at the University of Sydney, 4-6 December 2006</i></span>.&#32;(<span>pp.&#32;99–124</span>).
+  <meta itemprop="contentLocation"
+        value="Sydney, Australia">&#32;<span itemprop="publisher"
+               itemtype="http://schema.org/Organization"
+               itemscope="">
+      <span itemprop="name">Sydney University Press</span></span>.&#32;Retrieved from&#32;
+  <a href="http://hdl.handle.net/2123/1297"
+     itemprop="identifier"
+     itemtype="https://schema.org/URL">http://hdl.handle.net/2123/1297</a></span>
+
+
+
+
+</dd>
+
+      </div>
+
+      <div id="thieberger_ethnography_2006">
+        <dt>
+          Thieberger
+
+          
+          (2006)</dt>
+
+        <dd>
+          
+
+
+
+
+
+
+
+
+
+
+
+
+<span itemscope
+      itemtype="https://schema.org/CreativeWork"
+      data-type="speech"><span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Thieberger</span>,&#32;
+    <meta itemprop="givenName" content="Nicholas" />
+    N.</span>
+  &#32;
+    (<span itemprop="datePublished">2006</span>).
+  &#32;<span itemprop="name">
+    <i>An ethnography of the EthnoER project</i></span>.
+  <meta itemprop="contentLocation"
+        content="Sydney, Australia">&#32;Retrieved from&#32;
+  <a href="http://hdl.handle.net/2123/1532"
+     itemprop="identifier"
+     itemtype="https://schema.org/URL">http://hdl.handle.net/2123/1532</a></span>
+
+</dd>
+
+      </div>
+
+      <div id="vasile_digital_2020">
+        <dt>
+          Vasile,&#32;
+          Guillaume,&#32;
+          Aouini&#32;&amp;&#32;Michaud
+
+          
+          (2020)</dt>
+
+        <dd>
+          
+
+
+
+
+
+
+
+
+
+
+
+
+<span itemscope
+      itemtype="https://schema.org/Article"
+      data-type="article"><span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Vasile</span>,&#32;
+    <meta itemprop="givenName" content="Aurélia" />
+    A.</span>,&#32;
+  <span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Guillaume</span>,&#32;
+    <meta itemprop="givenName" content="Séverine" />
+    S.</span>,&#32;
+  <span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Aouini</span>,&#32;
+    <meta itemprop="givenName" content="Mourad" />
+    M.</span>&#32;&amp;&#32;<span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Michaud</span>,&#32;
+    <meta itemprop="givenName" content="Alexis" />
+    A.</span>
+  &#32;
+    (<span itemprop="datePublished">2020</span>).
+  &#32;<span itemprop="name">Le Digital Object Identifier, une impérieuse nécessité ?L’exemple de l’attribution de DOI à la Collection Pangloss, archive ouverte de langues en danger</span>.<i>
+    <span itemprop="about">I2D - Information, données &amp; documents</span>,&#32;2(2)</i>.&#32;<span itemprop="pagination">155–175</span>.
+  <a href="https://doi.org/10.3917/i2d.202.0155"
+     itemprop="identifier"
+     itemtype="https://schema.org/URL">https://doi.org/10.3917/i2d.202.0155</a></span>
+
+
+
+
+</dd>
+
+      </div>
+  </dl>
+</section>
+
+
+
+<section class="footnotes" role="doc-endnotes">
+<hr>
+<ol>
+<li id="fn:1" role="doc-endnote">
+<p>The tools mentioned in my diagram are the 
+<a href="https://github.com/timarkh/tsakorpus" target="_blank" rel="noopener">Tsakonian Corpus Platform</a> which depends on 
+<a href="https://www.elastic.co" target="_blank" rel="noopener">Elasticsearch</a>, 
+<a href="https://www.sketchengine.eu" target="_blank" rel="noopener">Sketch Engine</a> and 
+<a href="https://www.sketchengine.eu/nosketch-engine" target="_blank" rel="noopener">NoSketch Engine</a>, and 
+<a href="http://inl.github.io/BlackLab" target="_blank" rel="noopener">Blacklab</a> which is developed by CLARIN-NL and can be found 
+<a href="https://github.com/INL/BlackLab" target="_blank" rel="noopener">on Github</a>. <!-- presentation on black lab https://www.clarin.eu/sites/default/files/Niestadt_BlackLab.pdf --> <a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+</ol>
+</section>
 
     </div>
 
@@ -858,6 +2178,10 @@
   <a class="badge badge-light" href="/Hugh-CV/tag/digital-archival/">Digital Archival</a>
   
   <a class="badge badge-light" href="/Hugh-CV/tag/annotated-texts/">Annotated Texts</a>
+  
+  <a class="badge badge-light" href="/Hugh-CV/tag/flex/">FLEx</a>
+  
+  <a class="badge badge-light" href="/Hugh-CV/tag/elan/">ELAN</a>
   
 </span>
 
@@ -1071,6 +2395,10 @@
       <li><a href="/Hugh-CV/post/ethnoarts-research-in-nigeria/">Academic resources for Ethno-arts in Nigeria</a>&nbsp;&nbsp;<span class="badge badge-light" style="font-size: 0.6em; vertical-align: middle;">post</span></li>
       
       <li><a href="/Hugh-CV/post/the-sil-archive-and-its-two-sided-markets/">The SIL archive and its two sided markets</a>&nbsp;&nbsp;<span class="badge badge-light" style="font-size: 0.6em; vertical-align: middle;">post</span></li>
+      
+      <li><a href="/Hugh-CV/post/lca-curation-workflow-network/">Curation workflow networks at the Language &amp; Culture Archives</a>&nbsp;&nbsp;<span class="badge badge-light" style="font-size: 0.6em; vertical-align: middle;">post</span></li>
+      
+      <li><a href="/Hugh-CV/post/flextext-to-xlingpaper/">Converting FLExText Files to XLingPaper Interlinear Texts</a>&nbsp;&nbsp;<span class="badge badge-light" style="font-size: 0.6em; vertical-align: middle;">post</span></li>
       
       <li><a href="/Hugh-CV/post/microphone-recommendations/">Microphone Recommendations</a>&nbsp;&nbsp;<span class="badge badge-light" style="font-size: 0.6em; vertical-align: middle;">post</span></li>
       
