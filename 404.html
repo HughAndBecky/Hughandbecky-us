@@ -130,44 +130,10 @@ svg {
     text-align: center;
   }
 }
-
     </style>
   </head>
   <body>
 
-    <div class="wrap">
-      <a class="block b" href="/Becky-CV">
-        <h1>Becky</h1>
-      </a>
-      <a class="block h" href="/Hugh-CV">
-        <h1>Hugh</h1>
-      </a>
-    </div>
-
-    <script>
-      var hugh = document.querySelector('.h');
-      var becky = document.querySelector('.b');
-      var h_text = document.querySelector('.h > h1');
-      var b_text = document.querySelector('.b > h1');
-
-      hugh.addEventListener('mouseover', function (e){
-        becky.style.width = "20%";
-        hugh.style.width = "80%";
-        hugh.style.filter = "grayscale(0%)"
-        becky.style.filter = "grayscale(100%)"
-      });
-
-      becky.addEventListener('mouseover', function (e){
-        becky.style.width = "80%";
-        hugh.style.width = "20%";
-        becky.style.filter = "grayscale(0%)"
-        hugh.style.filter = "grayscale(100%)"
-      });
-
-
-    </script>
-  </body>
-</html>
 <svg width="380px" height="500px" viewBox="0 0 837 1045" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
         <path d="M353,9 L626.664028,170 L626.664028,487 L353,642 L79.3359724,487 L79.3359724,170 L353,9 Z" id="Polygon-1" stroke="#007FB2" stroke-width="6" sketch:type="MSShapeGroup"></path>
@@ -182,9 +148,11 @@ svg {
   <p>Page not found</p>
   <div class="buttons-con">
     <div class="action-link-wrap">
-      <a onclick="history.back(-1)" class="link-button link-back-button">Go Back</a>
+      <p><a onclick="history.back(-1)" class="link-button link-back-button">Go Back</a></p>
       <a href="https://hughandbecky.us/Becky-CV" class="link-button">Go to Becky's Page</a>
 <a href="https://hughandbecky.us/Hugh-CV" class="link-button">Go to Hugh's Page</a>
     </div>
   </div>
 </div>
+  </body>
+</html>
