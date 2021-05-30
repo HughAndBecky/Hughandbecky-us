@@ -634,6 +634,1231 @@ Check for the other files in the official FLEx repo at: &lt;a href=&#34;https://
     </item>
     
     <item>
+      <title>Describing Serials in Dublin Core</title>
+      <link>https://hughandbecky.us/Hugh-CV/post/describing-serials-in-dublin-core/</link>
+      <pubDate>Mon, 05 Apr 2021 14:35:45 +0100</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/post/describing-serials-in-dublin-core/</guid>
+      <description>&lt;p&gt;The Open Language Archives Community (OLAC) metadata profile is built on Dublin Core and OAI. Essentially OLAC feeds (to the OLAC aggregator) are modified OAI-PMH feeds. The profile was originally assumed to be describing archived language resources. However, there is a portion of the OLAC schema which allows the describer of a resource to indicate that the resource is a description of the resource rather than a language resource. This is useful for describing things like grammars and journal articles.&lt;/p&gt;
+&lt;p&gt;My question is: &lt;em&gt;How might journal articles be best described?&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;There are at least &amp;ldquo;archives&amp;rdquo; pushing journal articles to OLAC: the University of Hawaiʻi. pushes all of the journal &lt;em&gt;Language Documentation &amp;amp; Conservation&lt;/em&gt; to OLAC (but does not use ISO 639-3 codes in the records); the SIL Language &amp;amp; Culture Archive has records for many journal articles published by SIL and others. The GIAL/DIU library also has pushed records for journal articles or serials.&lt;/p&gt;
+&lt;p&gt;Records from these three entites can serve as a baseline for current practice. However, how should journal articles, or even whole journals be described in Dublin Core? To this end I have started looking at the literature discussing how journal articles are described in the library science journals. The following bibliography is a compliation of the works consulted so far.&lt;/p&gt;
+&lt;h3 id=&#34;bibliography&#34;&gt;Bibliography&lt;/h3&gt;
+
+
+
+
+
+
+
+
+
+
+
+&lt;section class=&#34;hugo-cite-bibliography&#34;&gt;
+  &lt;dl&gt;
+    
+
+      &lt;div id=&#34;aalberg_value_2013-1&#34;&gt;
+        &lt;dt&gt;
+          Aalberg&amp;#32;&amp;amp;&amp;#32;Žumer
+
+          
+          (2013)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Aalberg&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Trond&#34; /&gt;
+    T.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Žumer&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Maja&#34; /&gt;
+    M.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2013&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;The value of MARC data, or, challenges of frbrisation&lt;/span&gt;.&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;Journal of Documentation&lt;/span&gt;,&amp;#32;69(6)&lt;/i&gt;.&amp;#32;&lt;span itemprop=&#34;pagination&#34;&gt;851–872&lt;/span&gt;.
+  &lt;a href=&#34;https://doi.org/10.1108/JD-05-2012-0053&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://doi.org/10.1108/JD-05-2012-0053&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;apps_zetoc_2001&#34;&gt;
+        &lt;dt&gt;
+          Apps&amp;#32;&amp;amp;&amp;#32;MacIntyre
+
+          
+          (2001)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Apps&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Ann&#34; /&gt;
+    A.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;MacIntyre&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Ross&#34; /&gt;
+    R.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2001&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;zetoc: a Dublin Core Based Current Awareness Service&lt;/span&gt;.&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;DC-2001--Tokyo Proceedings&lt;/span&gt;&lt;/i&gt;.&amp;#32;Retrieved from&amp;#32;
+  &lt;a href=&#34;https://dcpapers.dublincore.org/pubs/article/view/663&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://dcpapers.dublincore.org/pubs/article/view/663&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;apps_zetoc_2002&#34;&gt;
+        &lt;dt&gt;
+          Apps
+
+          
+          (2002)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/WebPage&#34;
+      data-type=&#34;webpage&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Apps&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Ann&#34; /&gt;
+    A.&lt;/span&gt;(&lt;span itemprop=&#34;datePublished&#34;&gt;2002,&amp;#32;8/12&lt;/span&gt;).&amp;#32;Retrieved from&amp;#32;
+  &lt;a href=&#34;http://eprints.rclis.org/12183/1/appsmacecdl2000_full.html&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;http://eprints.rclis.org/12183/1/appsmacecdl2000_full.html&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;beall_dublin_2014&#34;&gt;
+        &lt;dt&gt;
+          Beall
+
+          
+          (2014)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Beall&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Jeffrey&#34; /&gt;
+    J.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2014&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;Dublin Core is still dead&lt;/span&gt;.&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;Library Hi Tech News&lt;/span&gt;,&amp;#32;31(9)&lt;/i&gt;.&amp;#32;&lt;span itemprop=&#34;pagination&#34;&gt;11–13&lt;/span&gt;.
+  &lt;a href=&#34;https://doi.org/10.1108/LHTN-07-2014-0058&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://doi.org/10.1108/LHTN-07-2014-0058&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;borbinha_dublin_2000&#34;&gt;
+        &lt;dt&gt;
+          Apps&amp;#32;&amp;amp;&amp;#32;MacIntyre
+
+          
+          (2000)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Chapter&#34;
+      data-type=&#34;chapter&#34;&gt;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Apps&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Ann&#34; /&gt;
+    A.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;MacIntyre&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Ross&#34; /&gt;
+    R.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2000&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;Dublin Core Metadata for Electronic Journals&lt;/span&gt;.&amp;#32;In&amp;#32;&lt;span itemprop=&#34;editor&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Borbinha&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;José&#34; /&gt;
+    J.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;editor&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Baker&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Thomas&#34; /&gt;
+    T.&lt;/span&gt; (Eds.),&amp;#32;&lt;span itemprop=&#34;about&#34;&gt;
+    &lt;i&gt;Proceedings of the 4th European Conference on Research and Advanced Technology for Digital Libraries.  ECDL 2000.&lt;/i&gt;&lt;/span&gt;.&amp;#32;(&lt;span&gt;pp.&amp;#32;93–102&lt;/span&gt;).
+  &lt;meta itemprop=&#34;contentLocation&#34;
+        value=&#34;Berlin, Heidelberg&#34;&gt;&amp;#32;&lt;span itemprop=&#34;publisher&#34;
+               itemtype=&#34;http://schema.org/Organization&#34;
+               itemscope=&#34;&#34;&gt;
+      &lt;span itemprop=&#34;name&#34;&gt;Springer Berlin Heidelberg&lt;/span&gt;&lt;/span&gt;.
+  &lt;a href=&#34;https://doi.org/10.1007/3-540-45268-0_9&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://doi.org/10.1007/3-540-45268-0_9&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;caplan_dublin_2003&#34;&gt;
+        &lt;dt&gt;
+          Caplan
+
+          
+          (2003)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Chapter&#34;
+      data-type=&#34;chapter&#34;&gt;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Caplan&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Priscilla&#34; /&gt;
+    P.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2003&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;The Dublin Core&lt;/span&gt;.&amp;#32;In&lt;span itemprop=&#34;about&#34;&gt;
+    &lt;i&gt;Metadata Fundamentals for All Librarians&lt;/i&gt;&lt;/span&gt;.&amp;#32;(&lt;span&gt;pp.&amp;#32;76–87&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;publisher&#34;
+               itemtype=&#34;http://schema.org/Organization&#34;
+               itemscope=&#34;&#34;&gt;
+      &lt;span itemprop=&#34;name&#34;&gt;The American Library Association&lt;/span&gt;&lt;/span&gt;.&amp;#32;Retrieved from&amp;#32;
+  &lt;a href=&#34;http://www.ala.org/aboutala/sites/ala.org.aboutala/files/content/publishing/editions/samplers/caplan_MF.pdf&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;http://www.ala.org/aboutala/sites/ala.org.aboutala/files/content/publishing/editions/samplers/caplan_MF.pdf&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;caplan_reference_1999&#34;&gt;
+        &lt;dt&gt;
+          Caplan&amp;#32;&amp;amp;&amp;#32;Arms
+
+          
+          (1999)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Caplan&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Priscilla&#34; /&gt;
+    P.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Arms&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;William Y.&#34; /&gt;
+    W.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;1999&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;Reference Linking for Journal Articles&lt;/span&gt;.&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;D-Lib Magazine&lt;/span&gt;,&amp;#32;5(7/8)&lt;/i&gt;.
+  &lt;a href=&#34;https://doi.org/10.1045/july99-caplan&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://doi.org/10.1045/july99-caplan&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;cheby_open_2016&#34;&gt;
+        &lt;dt&gt;
+          Cheby
+
+          
+          (2016)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Cheby&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Lisa E&#34; /&gt;
+    L.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2016&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;Open Access Metadata for Journals in Directory of Open Access Journals: Who, How, and What Scheme?&lt;/span&gt;.&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;School of Information Student Research Journal&lt;/span&gt;,&amp;#32;6(1)&lt;/i&gt;.
+  &lt;a href=&#34;https://doi.org/10.31979/2575-2499.060104&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://doi.org/10.31979/2575-2499.060104&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;estivill_use_2005&#34;&gt;
+        &lt;dt&gt;
+          Estivill,&amp;#32;
+          Abadal,&amp;#32;
+          Franganillo,&amp;#32;
+          Gascón&amp;#32;&amp;amp;&amp;#32;Gairín
+
+          
+          (2005)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Estivill&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Assumpció&#34; /&gt;
+    A.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Abadal&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Ernest&#34; /&gt;
+    E.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Franganillo&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Jorge&#34; /&gt;
+    J.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Gascón&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Jesús&#34; /&gt;
+    J.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Gairín&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;J. M. Rodríguez&#34; /&gt;
+    J.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2005&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;Use of Dublin Core metadata for describing and retrieving digital journals&lt;/span&gt;.&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;International Conference on Dublin Core and Metadata Applications&lt;/span&gt;,&amp;#32;0(0)&lt;/i&gt;.&amp;#32;&lt;span itemprop=&#34;pagination&#34;&gt;137–140&lt;/span&gt;.&amp;#32;Retrieved from&amp;#32;
+  &lt;a href=&#34;https://dcpapers.dublincore.org/pubs/article/view/812&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://dcpapers.dublincore.org/pubs/article/view/812&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;estivill_use_2005-1&#34;&gt;
+        &lt;dt&gt;
+          Estivill,&amp;#32;
+          Abadal,&amp;#32;
+          Franganillo,&amp;#32;
+          Gascón&amp;#32;&amp;amp;&amp;#32;Gairín
+
+          
+          (2005)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Estivill&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Assumpció&#34; /&gt;
+    A.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Abadal&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Ernest&#34; /&gt;
+    E.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Franganillo&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Jorge&#34; /&gt;
+    J.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Gascón&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Jesús&#34; /&gt;
+    J.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Gairín&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Josep Manuel Rodríguez&#34; /&gt;
+    J.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2005&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;Use of Dublin Core metadata for describing and retrieving digital journals&lt;/span&gt;.&amp;#32;Retrieved from&amp;#32;
+  &lt;a href=&#34;https://dcpapers.dublincore.org/pubs/article/view/812&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://dcpapers.dublincore.org/pubs/article/view/812&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;jones_dublin_2001&#34;&gt;
+        &lt;dt&gt;
+          Jones
+
+          
+          (2001)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Jones&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Wayne&#34; /&gt;
+    W.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2001&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;Dublin Core and Serials&lt;/span&gt;.&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;Journal of Internet Cataloging&lt;/span&gt;,&amp;#32;4(1-2)&lt;/i&gt;.&amp;#32;&lt;span itemprop=&#34;pagination&#34;&gt;143–148&lt;/span&gt;.
+  &lt;a href=&#34;https://doi.org/10.1300/J141v04n01_13&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://doi.org/10.1300/J141v04n01_13&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;keenan_why_2010&#34;&gt;
+        &lt;dt&gt;
+          Keenan
+
+          
+          (2010)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Keenan&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Teressa M.&#34; /&gt;
+    T.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2010&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;Why Purchase When You Can Repurpose? Using Crosswalks to Enhance User Access&lt;/span&gt;.&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;The Code4Lib Journal&lt;/span&gt;(11)&lt;/i&gt;.&amp;#32;Retrieved from&amp;#32;
+  &lt;a href=&#34;https://journal.code4lib.org/articles/3604&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://journal.code4lib.org/articles/3604&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;kunze_dublin_nodate&#34;&gt;
+        &lt;dt&gt;
+          Kunze,&amp;#32;
+          Lagoze&amp;#32;&amp;amp;&amp;#32;Weibel
+
+          
+          (n.d.)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/WebPage&#34;
+      data-type=&#34;webpage&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Kunze&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;John A.&#34; /&gt;
+    J.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Lagoze&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Carl&#34; /&gt;
+    C.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Weibel&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Stuart L.&#34; /&gt;
+    S.&lt;/span&gt;
+  (s.d.).&amp;#32;Retrieved from&amp;#32;
+  &lt;a href=&#34;https://tools.ietf.org/html/draft-kunze-dc-01&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://tools.ietf.org/html/draft-kunze-dc-01&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;martin_descriptive_1997&#34;&gt;
+        &lt;dt&gt;
+          Martin&amp;#32;&amp;amp;&amp;#32;Bide
+
+          
+          (1997)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Book&#34;
+      data-type=&#34;book&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Martin&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;David&#34; /&gt;
+    D.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Bide&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Mark&#34; /&gt;
+    M.&lt;/span&gt;&amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;1997&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;
+    &lt;i&gt;Descriptive Standards for Serials Metadata and Standards for Terms of Availability Metadata&lt;/i&gt;&lt;/span&gt;.
+  &amp;#32;
+  &lt;span itemprop=&#34;publisher&#34;
+             itemtype=&#34;http://schema.org/Organization&#34;
+             itemscope=&#34;&#34;&gt;
+    &lt;span itemprop=&#34;name&#34;&gt;Book Industry Communication&lt;/span&gt;&lt;/span&gt;.&amp;#32;Retrieved from&amp;#32;
+  &lt;a href=&#34;http://www.ukoln.ac.uk/services/elib/papers/supporting/pdf/serials-metadata-toa.pdf&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;http://www.ukoln.ac.uk/services/elib/papers/supporting/pdf/serials-metadata-toa.pdf&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;nasig_representing_nodate&#34;&gt;
+        &lt;dt&gt;
+          NASIG
+
+          
+          (n.d.)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/CreativeWork&#34;
+      data-type=&#34;speech&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;NASIG&lt;/span&gt;&lt;/span&gt;
+  &amp;#32;
+  (n.d.).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;
+    &lt;i&gt;Representing Serials Metadata in Institutional Repositories&lt;/i&gt;&lt;/span&gt;.
+  &amp;#32;Retrieved from&amp;#32;
+  &lt;a href=&#34;https://www.slideshare.net/NASIG/representing-serials-metadata-in-institutional-repositories&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://www.slideshare.net/NASIG/representing-serials-metadata-in-institutional-repositories&lt;/a&gt;&lt;/span&gt;
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;nelson_frbrizing_2010&#34;&gt;
+        &lt;dt&gt;
+          Nelson&amp;#32;&amp;amp;&amp;#32;Cleary
+
+          
+          (2010)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Nelson&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Jeremy&#34; /&gt;
+    J.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Cleary&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Alan&#34; /&gt;
+    A.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2010&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;FRBRizing an E-Library : Migrating from Dublin Core to FRBR and MODS&lt;/span&gt;.&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;The Code4Lib Journal&lt;/span&gt;(12)&lt;/i&gt;.&amp;#32;Retrieved from&amp;#32;
+  &lt;a href=&#34;https://journal.code4lib.org/articles/4357&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://journal.code4lib.org/articles/4357&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;noauthor_dcmi_nodate-2&#34;&gt;
+        &lt;dt&gt;
+          
+          (N.A.)
+
+          
+          (n.d.)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/WebPage&#34;
+      data-type=&#34;webpage&#34;&gt;
+  (N.A.).
+  (s.d.).&amp;#32;Retrieved from&amp;#32;
+  &lt;a href=&#34;https://www.dublincore.org/specifications/dublin-core/dc-citation-guidelines/&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://www.dublincore.org/specifications/dublin-core/dc-citation-guidelines/&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;noauthor_dcmi_nodate-7&#34;&gt;
+        &lt;dt&gt;
+          
+          (N.A.)
+
+          
+          (n.d.)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/WebPage&#34;
+      data-type=&#34;webpage&#34;&gt;
+  (N.A.).
+  (s.d.).&amp;#32;Retrieved from&amp;#32;
+  &lt;a href=&#34;https://www.dublincore.org/specifications/dublin-core/dc-citation-guidelines/&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://www.dublincore.org/specifications/dublin-core/dc-citation-guidelines/&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;noauthor_directory_nodate&#34;&gt;
+        &lt;dt&gt;
+          
+          (N.A.)
+
+          
+          (n.d.)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/WebPage&#34;
+      data-type=&#34;webpage&#34;&gt;
+  (N.A.).
+  (s.d.).&amp;#32;Retrieved from&amp;#32;
+  &lt;a href=&#34;https://doaj.org&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://doaj.org&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;noauthor_dublin_nodate&#34;&gt;
+        &lt;dt&gt;
+          
+          (N.A.)
+
+          
+          (n.d.)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/WebPage&#34;
+      data-type=&#34;webpage&#34;&gt;
+  (N.A.).
+  (s.d.).&amp;#32;Retrieved from&amp;#32;
+  &lt;a href=&#34;https://www.libraries.psu.edu/tas/jca/dublin/dcreport.html&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://www.libraries.psu.edu/tas/jca/dublin/dcreport.html&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;noauthor_openurl_nodate&#34;&gt;
+        &lt;dt&gt;
+          
+          (N.A.)
+
+          
+          (n.d.)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/WebPage&#34;
+      data-type=&#34;webpage&#34;&gt;
+  (N.A.).
+  (s.d.).&amp;#32;Retrieved from&amp;#32;
+  &lt;a href=&#34;https://helpful.knobs-dials.com/index.php/OpenURL_notes&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://helpful.knobs-dials.com/index.php/OpenURL_notes&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;noauthor_serial_nodate&#34;&gt;
+        &lt;dt&gt;
+          
+          (N.A.)
+
+          
+          (n.d.)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/WebPage&#34;
+      data-type=&#34;webpage&#34;&gt;
+  (N.A.).
+  (s.d.).&amp;#32;Retrieved from&amp;#32;
+  &lt;a href=&#34;https://cadatpitt.github.io/documentation/data-dictionary/serial-collections.html&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://cadatpitt.github.io/documentation/data-dictionary/serial-collections.html&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;noauthor_superjournal_2002&#34;&gt;
+        &lt;dt&gt;
+          
+          (N.A.)
+
+          
+          (2002)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/WebPage&#34;
+      data-type=&#34;webpage&#34;&gt;
+  (N.A.).(&lt;span itemprop=&#34;datePublished&#34;&gt;2002,&amp;#32;8/20&lt;/span&gt;).&amp;#32;Retrieved from&amp;#32;
+  &lt;a href=&#34;http://www.superjournal.ac.uk/sj/sjmc141.htm&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;http://www.superjournal.ac.uk/sj/sjmc141.htm&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;penalvo_qualified_2010&#34;&gt;
+        &lt;dt&gt;
+          Peñalvo,&amp;#32;
+          Vega,&amp;#32;
+          Fernández,&amp;#32;
+          Peña,&amp;#32;
+          Aso&amp;#32;&amp;amp;&amp;#32;Díaz
+
+          
+          (2010)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Peñalvo&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Francisco José García&#34; /&gt;
+    F.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Vega&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;José Antonio Merlo&#34; /&gt;
+    J.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Fernández&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Tránsito Ferreras&#34; /&gt;
+    T.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Peña&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Abel Casaus&#34; /&gt;
+    A.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Aso&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Lorenzo Albás&#34; /&gt;
+    L.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Díaz&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Ma Luisa Atienza&#34; /&gt;
+    M.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2010&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;Qualified Dublin Core Metadata Best Practices for GREDOS&lt;/span&gt;.&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;Journal of Library Metadata&lt;/span&gt;,&amp;#32;10(1)&lt;/i&gt;.&amp;#32;&lt;span itemprop=&#34;pagination&#34;&gt;13–36&lt;/span&gt;.
+  &lt;a href=&#34;https://doi.org/10.1080/19386380903546976&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://doi.org/10.1080/19386380903546976&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;powell_metadata_2001&#34;&gt;
+        &lt;dt&gt;
+          Powell&amp;#32;&amp;amp;&amp;#32;Apps
+
+          
+          (2001)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Powell&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Andy&#34; /&gt;
+    A.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Apps&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Ann&#34; /&gt;
+    A.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2001&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;Metadata (1): Encoding OpenURLs in DC Metadata&lt;/span&gt;.&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;Ariadne&lt;/span&gt;(27)&lt;/i&gt;.&amp;#32;Retrieved from&amp;#32;
+  &lt;a href=&#34;http://www.ariadne.ac.uk/issue/27/metadata/&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;http://www.ariadne.ac.uk/issue/27/metadata/&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;taylor_bibliographic_2010&#34;&gt;
+        &lt;dt&gt;
+          Taylor
+
+          
+          (2010)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/CreativeWork&#34;
+      data-type=&#34;post-weblog&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Taylor&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Mike&#34; /&gt;
+    M.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2010&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;
+    &lt;i&gt;Bibliographic data, part 1: MARC and its vile progeny&lt;/i&gt;&lt;/span&gt;.
+  &amp;#32;Retrieved from&amp;#32;
+  &lt;a href=&#34;https://reprog.wordpress.com/2010/09/02/bibliographic-data-part-1-marc-and-its-vile-progeny-2/&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://reprog.wordpress.com/2010/09/02/bibliographic-data-part-1-marc-and-its-vile-progeny-2/&lt;/a&gt;&lt;/span&gt;
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;taylor_bibliographic_2010-1&#34;&gt;
+        &lt;dt&gt;
+          Taylor
+
+          
+          (2010)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/CreativeWork&#34;
+      data-type=&#34;post-weblog&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Taylor&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Mike&#34; /&gt;
+    M.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2010&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;
+    &lt;i&gt;Bibliographic data, part 2: Dublin Core’s dirty little secret&lt;/i&gt;&lt;/span&gt;.
+  &amp;#32;Retrieved from&amp;#32;
+  &lt;a href=&#34;https://reprog.wordpress.com/2010/09/03/bibliographic-data-part-2-dublin-cores-dirty-little-secret/&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://reprog.wordpress.com/2010/09/03/bibliographic-data-part-2-dublin-cores-dirty-little-secret/&lt;/a&gt;&lt;/span&gt;
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;taylor_bibliographic_2010-2&#34;&gt;
+        &lt;dt&gt;
+          Taylor
+
+          
+          (2010)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/CreativeWork&#34;
+      data-type=&#34;post-weblog&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Taylor&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Mike&#34; /&gt;
+    M.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2010&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;
+    &lt;i&gt;Bibliographic data, part 3: Has anyone, anywhere, ever read the whole of the RDA specification?&lt;/i&gt;&lt;/span&gt;.
+  &amp;#32;Retrieved from&amp;#32;
+  &lt;a href=&#34;https://reprog.wordpress.com/2010/09/05/bibliographic-data-part-3-has-anyone-anywhere-ever-read-the-whole-of-the-rda-specification/&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://reprog.wordpress.com/2010/09/05/bibliographic-data-part-3-has-anyone-anywhere-ever-read-the-whole-of-the-rda-specification/&lt;/a&gt;&lt;/span&gt;
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+  &lt;/dl&gt;
+&lt;/section&gt;
+
+
+
+</description>
+    </item>
+    
+    <item>
       <title>Tolkien-Studies</title>
       <link>https://hughandbecky.us/Hugh-CV/post/tolkien-studies/</link>
       <pubDate>Fri, 02 Apr 2021 14:14:38 -0700</pubDate>
@@ -661,7 +1886,7 @@ Check for the other files in the official FLEx repo at: &lt;a href=&#34;https://
     </item>
     
     <item>
-      <title>Presenting oral texts with transcriptions online</title>
+      <title>Presenting Oral Texts with Transcriptions Online</title>
       <link>https://hughandbecky.us/Hugh-CV/post/presenting-oral-texts-with-transcriptions-online/</link>
       <pubDate>Sun, 21 Mar 2021 01:41:38 -0700</pubDate>
       <guid>https://hughandbecky.us/Hugh-CV/post/presenting-oral-texts-with-transcriptions-online/</guid>
@@ -677,7 +1902,7 @@ Check for the other files in the official FLEx repo at: &lt;a href=&#34;https://
 &lt;blockquote&gt;
 &lt;p&gt;EXMARaLDA is a system for working with oral corpora on a computer. It consists of a transcription and annotation tool (Partitur-Editor), a tool for managing corpora (Corpus-Manager) and a query and analysis tool (EXAKT)&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;I have used this three way distinction to catagorize some of the different software options available.&lt;/p&gt;
+&lt;p&gt;I have used this three way distinction to catagorize some of the different software options available for browser based interactions with IGT data&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
 
 
 
@@ -732,7 +1957,7 @@ Hugh Paterson III
 
 &lt;/figure&gt;
 
-&lt;!-- For example many publishers use or require Leipzig glossing rules which point to a &#34;standard&#34; set of abbreviations, to be used in print publications. However, these abbreviations do not have a concrete set of definitions. Therefore one can never be exactly sure what an author means when they use these abbreviations (but in general shared conventions are more helpful than not). What I have noticed with respect to these abbreviations is that due to the mental/visual prominence the abbreviations have in print media, they are often being used in corpus annotations. To complicate matters, when additional annotations are needed but are not present in the Leipzig Glossing Rules chaos ensues. That is, authors choose to create their own abbreviations on an ad-hoc basis. Additionally abbreviations used in the Leipzig Glossing Rules by field linguists are often different from those used by computational linguists working on TreeBanks or WordNets creating a gap in the cross-discipline uses of corpora.  http://inl.github.io/BlackLab/ https://github.com/INL/BlackLab  https://corpus-analysis.com/ https://github.com/timarkh/tsakorpus--&gt;
+&lt;!-- For example many publishers use or require Leipzig glossing rules which point to a &#34;standard&#34; set of abbreviations, to be used in print publications. However, these abbreviations do not have a concrete set of definitions. Therefore one can never be exactly sure what an author means when they use these abbreviations (but in general shared conventions are more helpful than not). What I have noticed with respect to these abbreviations is that due to the mental/visual prominence the abbreviations have in print media, they are often being used in corpus annotations. To complicate matters, when additional annotations are needed but are not present in the Leipzig Glossing Rules chaos ensues. That is, authors choose to create their own abbreviations on an ad-hoc basis. Additionally abbreviations used in the Leipzig Glossing Rules by field linguists are often different from those used by computational linguists working on TreeBanks or WordNets creating a gap in the cross-discipline uses of corpora. --&gt;
 &lt;p&gt;While what is presented in terms of the content is still very important, &lt;em&gt;how&lt;/em&gt; it is presented in an interactive mode is also important. That is, how is the experience crafted around the audio or video and the transcribed segments in terms of the &lt;em&gt;interaction design&lt;/em&gt; and &lt;em&gt;visual design&lt;/em&gt;? I started to compile a list of these interactions which I present below. However, two significant components are influential in the life cycle of software and hence these interactions. First, the viral nature of the interaction, i.e., how easy is it to propagate the interaction in new contexts. Second, what is the life cycle of the technology undergirding the browser based experience? That is, how does the technology choice expose the user to obsolecence and technolgical debt. These two factors should be top ranking considerations when a project desires to &amp;ldquo;publish&amp;rdquo; or present interlinear texts online. In addition to these two factors, the following three design considerations will also impact the sustainability and maintainability of the online presence for the corpora and ought to be considered while planning for implementation.&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;The first consideration is, &lt;em&gt;is there a required separation between data (content) and presentation?&lt;/em&gt; By separating on these lines the code produced to present the interlinear text can be re-used liberally across texts and projects, and the visual presentation can be adjusted and applied to texts at scale.&lt;/li&gt;
@@ -740,7 +1965,7 @@ Hugh Paterson III
 &lt;li&gt;The third consideration is &lt;em&gt;what is the purpose of the web-presentation?&lt;/em&gt; There are different classes of tools with respect to interlinear glossed texts. Arguably, the one of primary importance is the archived version. That is, where is the text archived and can the archived version&amp;rsquo;s annotation be viewed while the audio is heard at the same time. A secondary consideration then is the working copy, or what can one &lt;em&gt;do&lt;/em&gt; with the interlinear glossed text and how easy is it for people other than the author of the interlinear glossed text to do comparative searching across the text or in conjunction with other texts. Then a third consideration, is how is the canonical reference of the archived version persisted through to the working copy. That is, if the interlinear glossed text it loaded into an online system for investigation, does that system create new identifiers for the searches conducted or does it respect existing identifiers?&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;With these issues in mind I have been collecting images of the visual presentation of interlinear glossed texts online. In addition to my purpose for looking at ongoing evolution of the technical presentation of interlinear glossed text, I have been looking for a system that meets the requirements of points number one and two for use on a portfolio website like mine. Stated another way, I am looking for a tool which takes ELAN or FLExTexts and matches them with audio or video in the browser, rather than on a server. I want the tool to be limited to HTML5, JavaScript, and CSS3+.&lt;/p&gt;
-&lt;p&gt;This is just a short list of tools for presenting time-aligned texts online. These would be in the middle category of the illustration above as they are designed for presentation and discovery of the resource rather than information extraction&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+&lt;p&gt;This is just a short list of tools for presenting time-aligned texts online. These would be in the middle category of the illustration above as they are designed for presentation and discovery of the resource rather than information extraction&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;requires-no-database&#34;&gt;Requires no Database&lt;/h2&gt;
 &lt;h3 id=&#34;leipzigjs&#34;&gt;Leipzig.js&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;Produced by&lt;/strong&gt;: Ben Chauvette&lt;br/&gt;
@@ -997,6 +2222,108 @@ Lise &amp;amp; Douglas
 
 &lt;/figure&gt;
 &lt;/p&gt;
+&lt;h3 id=&#34;california-state-university-long-beach-interface&#34;&gt;California State University Long Beach Interface&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Produced by&lt;/strong&gt;: Michael Ahland &amp;amp; Cem Demir as part of the Pahka&amp;rsquo;anil Text Project&lt;br/&gt;
+&lt;strong&gt;Links&lt;/strong&gt;: &lt;a href=&#34;https://web.csulb.edu/projects/lingresearch/pahka&#39;anil/text/bat-and-horsefly&#34;&gt;https://web.csulb.edu/projects/lingresearch/pahka&#39;anil/text/bat-and-horsefly&lt;/a&gt;&lt;br/&gt;
+&lt;strong&gt;Notes&lt;/strong&gt;: This interaction does not appear to be downloadable as a re-usable/re-deployable package. However, the files are completly accessable for grabbing and subsequent modification. The setup currently uses 
+&lt;a href=&#34;https://wavesurfer-js.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;wavesurfer.js&lt;/a&gt; for media interaction and 
+&lt;a href=&#34;https://en.wikipedia.org/wiki/WebVTT&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;.vtt&lt;/a&gt; files, which are type of sub-title file. In an alternative to using to the use of &lt;code&gt;.vtt&lt;/code&gt; files is to use an 
+&lt;a href=&#34;https://wavesurfer-js.org/example/elan/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;existing wavesurfer.js plugin built for use with ELAN files&lt;/a&gt;. One major difference between these presentations is the orientation of the table which presents the interlinear glossed texts.&lt;/p&gt;
+
+
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/presenting-oral-texts-with-transcriptions-online/CSULB_hudb0370fef0e167a80649bdef8b646f78_129500_2000x2000_fit_lanczos_2.png&#34; &gt;
+
+
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/presenting-oral-texts-with-transcriptions-online/CSULB_hudb0370fef0e167a80649bdef8b646f78_129500_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;mulit-cast screenshot&#34; width=&#34;1843&#34; height=&#34;835&#34;&gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+&lt;h3 id=&#34;wavesurferjs--elan&#34;&gt;wavesurfer.js + ELAN&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Produced by&lt;/strong&gt;: J. Reuben Wetherbee&lt;br/&gt;
+&lt;strong&gt;Links&lt;/strong&gt;: &lt;a href=&#34;https://wavesurfer-js.org/example/elan/index.html&#34;&gt;https://wavesurfer-js.org/example/elan/index.html&lt;/a&gt; ; &lt;a href=&#34;https://wavesurfer-js.org/example/elan-wave-segment/index.html&#34;&gt;https://wavesurfer-js.org/example/elan-wave-segment/index.html&lt;/a&gt;&lt;br/&gt;
+&lt;strong&gt;Notes&lt;/strong&gt;: The ELAN plugin to wavesurfer.js was authored by 
+&lt;a href=&#34;https://github.com/katspaugh/wavesurfer.js/pull/1052&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;J. Reuben Wetherbee&lt;/a&gt;. It appears in the wavesurfer.js documentation examples, but not in the 
+&lt;a href=&#34;https://wavesurfer-js.org/plugins/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;main site&amp;rsquo;s list of plugins&lt;/a&gt;. Video.js is another project which can 
+&lt;a href=&#34;https://collab-project.github.io/videojs-wavesurfer/#/examples&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;display video and text tracts&lt;/a&gt;. There is also 
+&lt;a href=&#34;https://collab-project.github.io/videojs-wavesurfer/#/plugins&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;a plugin which connects video.js to wavesurfer.js&lt;/a&gt; [
+&lt;a href=&#34;https://github.com/collab-project/videojs-wavesurfer&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Github repo&lt;/a&gt; ]. So it seems that there might be a possibility to use one of either of these methods to present text annotations from ELAN and video together. However, I have not found any examples of this yet.&lt;/p&gt;
+
+
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/presenting-oral-texts-with-transcriptions-online/ELAN-wavesurfer_hu0f61d3cc2abf421572dfe77fb5597d70_75522_2000x2000_fit_lanczos_2.png&#34; &gt;
+
+
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/presenting-oral-texts-with-transcriptions-online/ELAN-wavesurfer_hu0f61d3cc2abf421572dfe77fb5597d70_75522_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;ELAN wavesurfer interface&#34; width=&#34;920&#34; height=&#34;776&#34;&gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
 &lt;h2 id=&#34;require-back-end-databases&#34;&gt;Require Back-end Databases&lt;/h2&gt;
 &lt;h3 id=&#34;ethnographic-e-research-online-presentation-system-eopas&#34;&gt;Ethnographic E-Research Online Presentation System (EOPAS)&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;Produced by&lt;/strong&gt;: Nick Thieberger 
@@ -1093,7 +2420,120 @@ Lise &amp;amp; Douglas
 
 &lt;/span&gt;&lt;/span&gt;&lt;br/&gt;
 &lt;strong&gt;Links&lt;/strong&gt;: &lt;a href=&#34;https://github.com/eopas/eopas&#34;&gt;https://github.com/eopas/eopas&lt;/a&gt;&lt;br/&gt;
-&lt;strong&gt;Note&lt;/strong&gt;: This was one of the earliest online presentations which linked grammars with texts. However, the system does not support collaborative editing or the creation of texts. It was originally designed to work with Toolbox formatted data. It is open source and available via Github.&lt;/p&gt;
+&lt;strong&gt;Note&lt;/strong&gt;: This was one of the earliest online presentations which linked grammars with texts. However, the system does not support collaborative editing or the creation of texts. It was originally designed to work with Toolbox formatted data, with other IGT formats support added later. It is open source and available via Github. It provides direct links to specific segments of the artifacts for the purpose of citation and referencing.&lt;/p&gt;
+
+
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-screenshot-of-eopas&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/presenting-oral-texts-with-transcriptions-online/eopas_hu3800efd0c53c43f441e1c6b75aa4780d_791550_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Screenshot of Eopas&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/presenting-oral-texts-with-transcriptions-online/eopas_hu3800efd0c53c43f441e1c6b75aa4780d_791550_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;Screenshot of Eopa&#34; width=&#34;1026&#34; height=&#34;775&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;p&gt;Screenshot of Eopas
+      
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: 
+Nick Thieberger
+&lt;/span&gt;
+&lt;/p&gt;
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;h3 id=&#34;nabu-collection-viewer&#34;&gt;Nabu collection viewer&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Produced by&lt;/strong&gt;: Nick Thieberger&lt;br/&gt;
+&lt;strong&gt;Links&lt;/strong&gt;: &lt;a href=&#34;https://github.com/CoEDL/nabu-collection-viewer-v1&#34;&gt;https://github.com/CoEDL/nabu-collection-viewer-v1&lt;/a&gt;&lt;br/&gt;
+&lt;strong&gt;Note&lt;/strong&gt;: In many ways this is a more modern evolution of Eopas. I can be seen when logged into 
+&lt;a href=&#34;https://catalog.paradisec.org.au/viewer/#/NT1/98007/audio/NT1-98007-98007A?transcription=NT1-98007-98007A.ixt&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PARADISEC&lt;/a&gt;.&lt;/p&gt;
+
+
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-screenshot-of-nabu-collection-viewer&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/presenting-oral-texts-with-transcriptions-online/Nabu_hu54745e7fefb1c102b9ebf913d7633783_65695_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Screenshot of Nabu Collection viewer&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/presenting-oral-texts-with-transcriptions-online/Nabu_hu54745e7fefb1c102b9ebf913d7633783_65695_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;Screenshot of Nabu Collection viewer&#34; width=&#34;1465&#34; height=&#34;857&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;p&gt;Screenshot of Nabu Collection viewer
+      
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: 
+Nick Thieberger
+&lt;/span&gt;
+&lt;/p&gt;
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
 &lt;h3 id=&#34;typecraft&#34;&gt;TypeCraft&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;Produced by&lt;/strong&gt;: 
 
@@ -1341,7 +2781,7 @@ Geoffrey Haig &amp;amp; Nils Norman Schiborr
      itemtype=&#34;https://schema.org/URL&#34;&gt;https://doi.org/10.1109/ICSDA.2011.6085973&lt;/a&gt;&lt;/span&gt;
 
 &lt;/span&gt;&lt;/span&gt;&lt;br/&gt;
-&lt;strong&gt;Links&lt;/strong&gt;: [Example]: &lt;a href=&#34;https://doi.org/10.24397/pangloss-0004676&#34;&gt;https://doi.org/10.24397/pangloss-0004676&lt;/a&gt;  &lt;br/&gt;
+&lt;strong&gt;Links&lt;/strong&gt;: [Example]: &lt;a href=&#34;https://doi.org/10.24397/pangloss-0004676&#34;&gt;https://doi.org/10.24397/pangloss-0004676&lt;/a&gt; &lt;br/&gt;
 &lt;strong&gt;Notes&lt;/strong&gt;: As software the Pangloss interface is not downloadable. However, it is the front face of an archived collection. It is great for referencing a particular point in an audio or transcribed textual artifact, within an the archive&amp;rsquo;s canonical location for the item. The Pangloss use of DOIs to access the components of a resource is discussed in 
 
 
@@ -1435,53 +2875,6 @@ Geoffrey Haig &amp;amp; Nils Norman Schiborr
 
 &lt;/figure&gt;
 
-&lt;h3 id=&#34;california-state-university-long-beach-interface&#34;&gt;California State University Long Beach Interface&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;Produced by&lt;/strong&gt;: Michael Ahland &amp;amp; Cem Demir as part of the Pahka&amp;rsquo;anil Text Project &lt;br/&gt;
-&lt;strong&gt;Links&lt;/strong&gt;: &lt;a href=&#34;https://web.csulb.edu/projects/lingresearch/pahka&#39;anil/text/bat-and-horsefly&#34;&gt;https://web.csulb.edu/projects/lingresearch/pahka&#39;anil/text/bat-and-horsefly&lt;/a&gt;&lt;br/&gt;
-&lt;strong&gt;Notes&lt;/strong&gt;: This interaction does not appear to be downloadable.&lt;/p&gt;
-
-
-
-
-
-
-
-
-  
-
-
-
-  
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure &gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/presenting-oral-texts-with-transcriptions-online/CSULB_hudb0370fef0e167a80649bdef8b646f78_129500_2000x2000_fit_lanczos_2.png&#34; &gt;
-
-
-  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/presenting-oral-texts-with-transcriptions-online/CSULB_hudb0370fef0e167a80649bdef8b646f78_129500_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;mulit-cast screenshot&#34; width=&#34;1843&#34; height=&#34;835&#34;&gt;
-&lt;/a&gt;
-
-
-
-&lt;/figure&gt;
-
 &lt;h3 id=&#34;eastlingplayer&#34;&gt;Eastlingplayer&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;Produced by&lt;/strong&gt;:  CNRS-LACITO &amp;amp; Alexis Michaud&lt;br/&gt;
 &lt;strong&gt;Links&lt;/strong&gt;: &lt;a href=&#34;https://github.com/CNRS-LACITO/eastlingplayer&#34;&gt;https://github.com/CNRS-LACITO/eastlingplayer&lt;/a&gt;&lt;br/&gt;
@@ -1490,13 +2883,22 @@ Geoffrey Haig &amp;amp; Nils Norman Schiborr
 &lt;a href=&#34;https://pangloss.cnrs.fr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;presentation interface managed by Villejuif&lt;/a&gt;; there are two interfaces). These versions of Pangloss converted ELAN files (XML) to HTML on request. As these XML files got longer they affected server-client transmission times. Technicians opted to parse these XML files into a databases to decrease load times. This is an interesting use of tools because the XML transforms could have been maintained and the HTML outputs cached or retained until XML files were updated. The alternative strategy would have not introduced PHP into the set of software required for the presentation.&lt;/p&gt;
 &lt;!-- 
 Still to finish and incorporate
-https://github.com/CoEDL/nabu-collection-viewer-v1
-
 https://scholarspace.manoa.hawaii.edu/bitstream/10125/24765/1/kaufman_finkel.pdf
 Include this in the paper https://www.kratylos.org/~kratylos/display.cgi
 
+http://michel.jacobson.free.fr/ITE/index_en.html
+
+http://emeld.org/school/case/kayardild/index.html
 Nick Paper to cite.
 https://books.google.fr/books?id=mVwVDAAAQBAJ&amp;pg=PA151&amp;lpg=PA151&amp;dq=igt+linguistic+browser&amp;source=bl&amp;ots=QYEhBW9yKU&amp;sig=ACfU3U1CnlR1QQt4CxUCiA6FAOgDhPaYHw&amp;hl=en&amp;sa=X&amp;ved=2ahUKEwjaz8Khh-XwAhXC4uAKHXSVB30Q6AEwCHoECAoQAw#v=onepage&amp;q=igt%20linguistic%20browser&amp;f=false
+
+
+IGT text formats
+https://1library.net/document/zw3dj87y-igt-xml-xml-format-interlinearized-glossed-text.html
+https://hal.archives-ouvertes.fr/hal-01895439/document
+https://dl.acm.org/doi/pdf/10.5555/1642049.1642056
+http://journals.linguisticsociety.org/elanguage/lilt/article/download/663/663-1087-1-PB.pdf
+https://sigann.github.io/LAW-XIV-2020/pdf/2020.law-1.9.pdf
  
 --&gt;
 &lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
@@ -1943,13 +3345,16 @@ https://books.google.fr/books?id=mVwVDAAAQBAJ&amp;pg=PA151&amp;lpg=PA151&amp;dq=
 &lt;hr&gt;
 &lt;ol&gt;
 &lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;Lots of software packages exist for working with corpora, large bodies of text and IGTs. The website, &lt;a href=&#34;https://corpus-analysis.com&#34;&gt;https://corpus-analysis.com&lt;/a&gt; is essentially a list of over 100 software solutions of different kinds. &lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34; role=&#34;doc-endnote&#34;&gt;
 &lt;p&gt;The tools mentioned in my diagram are the 
 &lt;a href=&#34;https://github.com/timarkh/tsakorpus&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tsakonian Corpus Platform&lt;/a&gt; which depends on 
 &lt;a href=&#34;https://www.elastic.co&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Elasticsearch&lt;/a&gt;, 
 &lt;a href=&#34;https://www.sketchengine.eu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sketch Engine&lt;/a&gt; and 
 &lt;a href=&#34;https://www.sketchengine.eu/nosketch-engine&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NoSketch Engine&lt;/a&gt;, and 
 &lt;a href=&#34;http://inl.github.io/BlackLab&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Blacklab&lt;/a&gt; which is developed by CLARIN-NL and can be found 
-&lt;a href=&#34;https://github.com/INL/BlackLab&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;on Github&lt;/a&gt;. &lt;!-- presentation on black lab https://www.clarin.eu/sites/default/files/Niestadt_BlackLab.pdf --&gt; &lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;https://github.com/INL/BlackLab&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;on Github&lt;/a&gt;. &lt;!-- presentation on black lab https://www.clarin.eu/sites/default/files/Niestadt_BlackLab.pdf --&gt; &lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;/section&gt;
@@ -1979,6 +3384,1470 @@ I wanted to include the final PDF in XLingPaper which uses XeLaTeX on the back e
 My suspicion though is that passing the PDF through GhostSript also removes some of the mark-up features which already exist in the PDF via &lt;code&gt;wkhtmltopdf&lt;/code&gt;. This may include some of the links and embedded fonts — but on this last point I am not 100 percent sure.&lt;/p&gt;
 &lt;p&gt;In an earlier version of this workflow I was using standard size pages (A4, A3, etc.). Doing so required that I then cut the PDF so that the usable portion was able to usefully be scaled in xlingpaper. To do this I used 
 &lt;a href=&#34;https://pdfresizer.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;pdfresizer.com&lt;/a&gt; to reduce the physical dimensions of pdf paes. However this was not necessary to maintain because I was able to specify the dimentions I needed directly in &lt;code&gt;wkhtmltopdf&lt;/code&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Digital Materiality for Language Artifacts</title>
+      <link>https://hughandbecky.us/Hugh-CV/post/digital-materiality-for-language-artifacts/</link>
+      <pubDate>Thu, 20 Aug 2020 01:41:38 -0700</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/post/digital-materiality-for-language-artifacts/</guid>
+      <description>&lt;p&gt;Several years ago while writing a portion of a paper which related to the use of certain keyboard layouts I started down the literature trail of &amp;ldquo;materiality studies&amp;rdquo;. The broad idea is that humans are impacted by the things in their environment and form special &amp;ldquo;attachments&amp;rdquo; or relationships with those things. So my question was &lt;em&gt;what sort of relationship do minority language users create with their language and how does the tool of a keyboard layout affect that relationship?&lt;/em&gt; We know that the kind of shovel available to someone digging a trench impacts how they approach the crafting of the trench, so in the same way what is the impact of one keyboard layout as opposed to a different one? The same question can be pose about two other &amp;ldquo;objects&amp;rdquo;. For example, consider a language&amp;rsquo;s &lt;em&gt;orthography&lt;/em&gt; many would not consider this an &amp;ldquo;object&amp;rdquo; in the traditional sense, but yet people engage with it as if it were an object. I think this is significant not just for materiality studies but also social anthropology and the social use of language artifacts. The second object or set of objects was the content of a &amp;ldquo;language archive&amp;rdquo;. That is, the materiality of language artifacts. We see that these artifacts are important and do have social relationships as evidenced by the nature of relationships that indigenous communities in the USA have with various archives and speech related artifacts. It is not only these communities, it is broader than that. For example 
+&lt;a href=&#34;https://mukurtu.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mukurtu&lt;/a&gt; a CMS solution for digital engagement with cultural heritage artifacts has some wide spread uptake among indigenous communities outside of the USA. One implication of materiality considerations is that the relationships and specific attitudes about relationships are communicable without actually having material artifacts move across communities. This then has significant relevance for language development and language revitalization studies.&lt;/p&gt;
+&lt;p&gt;The following bibliography is a list of sources I started to collect on the topic.&lt;/p&gt;
+&lt;h2 id=&#34;bibliography&#34;&gt;Bibliography&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+&lt;section class=&#34;hugo-cite-bibliography&#34;&gt;
+  &lt;dl&gt;
+    
+
+      &lt;div id=&#34;allen-robertson_critically_2018&#34;&gt;
+        &lt;dt&gt;
+          Allen-Robertson
+
+          
+          (2018)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Allen-Robertson&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;James&#34; /&gt;
+    J.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2018&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;Critically assessing digital documents: materiality and the interpretative role of software&lt;/span&gt;.&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;Information, Communication &amp;amp; Society&lt;/span&gt;,&amp;#32;21(11)&lt;/i&gt;.&amp;#32;&lt;span itemprop=&#34;pagination&#34;&gt;1732–1746&lt;/span&gt;.
+  &lt;a href=&#34;https://doi.org/10.1080/1369118X.2017.1351575&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://doi.org/10.1080/1369118X.2017.1351575&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;allen-robertson_materiality_2017&#34;&gt;
+        &lt;dt&gt;
+          Allen-Robertson
+
+          
+          (2017)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Allen-Robertson&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;James&#34; /&gt;
+    J.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2017&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;The materiality of digital media: The hard disk drive, phonograph, magnetic tape and optical media in technical close-up&lt;/span&gt;.&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;New Media &amp;amp; Society&lt;/span&gt;,&amp;#32;19(3)&lt;/i&gt;.&amp;#32;&lt;span itemprop=&#34;pagination&#34;&gt;455–470&lt;/span&gt;.
+  &lt;a href=&#34;https://doi.org/10.1177/1461444815606368&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://doi.org/10.1177/1461444815606368&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;appadurai_introduction_1986&#34;&gt;
+        &lt;dt&gt;
+          Appadurai
+
+          
+          (1986)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Chapter&#34;
+      data-type=&#34;chapter&#34;&gt;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Appadurai&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Arjun&#34; /&gt;
+    A.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;1986&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;Introduction: commodities and the politics of value&lt;/span&gt;.&amp;#32;In&amp;#32;&lt;span itemprop=&#34;editor&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Appadurai&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Arjun&#34; /&gt;
+    A.&lt;/span&gt; (Eds.),&amp;#32;&lt;span itemprop=&#34;about&#34;&gt;
+    &lt;i&gt;The Social Life of Things: Commodities in cultural perspective&lt;/i&gt;&lt;/span&gt;.&amp;#32;(&lt;span&gt;pp.&amp;#32;3–63&lt;/span&gt;).
+  &lt;meta itemprop=&#34;contentLocation&#34;
+        value=&#34;Cambridge, UK&#34;&gt;&amp;#32;&lt;span itemprop=&#34;publisher&#34;
+               itemtype=&#34;http://schema.org/Organization&#34;
+               itemscope=&#34;&#34;&gt;
+      &lt;span itemprop=&#34;name&#34;&gt;Cambridge University Press&lt;/span&gt;&lt;/span&gt;.&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;balbi_digital_2016&#34;&gt;
+        &lt;dt&gt;
+          Balbi,&amp;#32;
+          Delfanti&amp;#32;&amp;amp;&amp;#32;Magaudda
+
+          
+          (2016)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Balbi&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Gabriele&#34; /&gt;
+    G.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Delfanti&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Alessandro&#34; /&gt;
+    A.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Magaudda&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Paolo&#34; /&gt;
+    P.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2016&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;Digital Circulation: Media, Materiality, Infrastructures. An Introduction&lt;/span&gt;.&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;Italian Journal of Science &amp;amp; Technology Studies&lt;/span&gt;,&amp;#32;7(1)&lt;/i&gt;.&amp;#32;&lt;span itemprop=&#34;pagination&#34;&gt;7–15&lt;/span&gt;.&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;barad_posthumanist_2003-1&#34;&gt;
+        &lt;dt&gt;
+          Barad
+
+          
+          (2003)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Barad&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Karen&#34; /&gt;
+    K.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2003&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;Posthumanist Performativity: Toward an Understanding of How Matter Comes to Matter&lt;/span&gt;.&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;Signs: Journal of Women in Culture and Society&lt;/span&gt;,&amp;#32;28(3)&lt;/i&gt;.&amp;#32;&lt;span itemprop=&#34;pagination&#34;&gt;801–831&lt;/span&gt;.
+  &lt;a href=&#34;https://doi.org/10.1086/345321&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://doi.org/10.1086/345321&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;edwards_material_2002&#34;&gt;
+        &lt;dt&gt;
+          Edwards
+
+          
+          (2002)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Edwards&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Elizabeth&#34; /&gt;
+    E.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2002&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;Material beings: Objecthood and ethnographic photographs&lt;/span&gt;.&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;Visual Studies&lt;/span&gt;,&amp;#32;17(1)&lt;/i&gt;.&amp;#32;&lt;span itemprop=&#34;pagination&#34;&gt;67–75&lt;/span&gt;.
+  &lt;a href=&#34;https://doi.org/10.1080/14725860220137336&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://doi.org/10.1080/14725860220137336&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;feenberg_modernity_2003&#34;&gt;
+        &lt;dt&gt;
+          Feenberg
+
+          
+          (2003)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Chapter&#34;
+      data-type=&#34;chapter&#34;&gt;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Feenberg&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Andrew&#34; /&gt;
+    A.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2003&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;Modernity Theory and Technology Studies: Reflections on Bridging the Gap&lt;/span&gt;.&amp;#32;(&lt;span&gt;pp.&amp;#32;73–104&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;publisher&#34;
+               itemtype=&#34;http://schema.org/Organization&#34;
+               itemscope=&#34;&#34;&gt;
+      &lt;span itemprop=&#34;name&#34;&gt;MIT Press&lt;/span&gt;&lt;/span&gt;.&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;gosden_cultural_1999&#34;&gt;
+        &lt;dt&gt;
+          Gosden&amp;#32;&amp;amp;&amp;#32;Marshall
+
+          
+          (1999)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Gosden&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Chris&#34; /&gt;
+    C.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Marshall&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Yvonne&#34; /&gt;
+    Y.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;1999&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;The Cultural Biography of Objects&lt;/span&gt;.&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;World Archaeology&lt;/span&gt;,&amp;#32;31(2)&lt;/i&gt;.&amp;#32;&lt;span itemprop=&#34;pagination&#34;&gt;169–178&lt;/span&gt;.
+  &lt;a href=&#34;https://doi.org/10.1080/00438243.1999.9980439&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://doi.org/10.1080/00438243.1999.9980439&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;neff_learning_2015&#34;&gt;
+        &lt;dt&gt;
+          Neff
+
+          
+          (2015)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Neff&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Gina&#34; /&gt;
+    G.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2015&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;Learning from documents: Applying new theories of materiality to journalism&lt;/span&gt;.&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;Journalism: Theory, Practice &amp;amp; Criticism&lt;/span&gt;,&amp;#32;16(1)&lt;/i&gt;.&amp;#32;&lt;span itemprop=&#34;pagination&#34;&gt;74–78&lt;/span&gt;.
+  &lt;a href=&#34;https://doi.org/10.1177/1464884914549294&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://doi.org/10.1177/1464884914549294&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;wajcman_border_2012&#34;&gt;
+        &lt;dt&gt;
+          Wajcman&amp;#32;&amp;amp;&amp;#32;Jones
+
+          
+          (2012)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Wajcman&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Judy&#34; /&gt;
+    J.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Jones&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Paul K.&#34; /&gt;
+    P.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2012&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;Border communication: media sociology and STS&lt;/span&gt;.&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;Media, Culture &amp;amp; Society&lt;/span&gt;,&amp;#32;34(6)&lt;/i&gt;.&amp;#32;&lt;span itemprop=&#34;pagination&#34;&gt;673–690&lt;/span&gt;.
+  &lt;a href=&#34;https://doi.org/10.1177/0163443712449496&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://doi.org/10.1177/0163443712449496&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+  &lt;/dl&gt;
+&lt;/section&gt;
+
+
+
+</description>
+    </item>
+    
+    <item>
+      <title>Estimated Growth Rate of Linguistic Literature</title>
+      <link>https://hughandbecky.us/Hugh-CV/post/linguistic-literature-growth-rate/</link>
+      <pubDate>Thu, 02 Jul 2020 14:35:45 +0100</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/post/linguistic-literature-growth-rate/</guid>
+      <description>&lt;p&gt;In an effort to establish the sufficiency of the indexing of academic papers in language description and linguistics I have started looking around to see what sort of estimates there are in terms of how many journals there are, how many linguists there are, and what the growth rate of the literature might be. As far as I know, no one has attempted a rate-of-growth calculation for linguistic literature across the discipline. There are some bibliometrics and scientometric studies focused on linguistics which look a specific journals, certain time depths across several journals 
+
+
+
+
+
+
+
+&lt;span class=&#34;hugo-cite-intext&#34;
+        itemprop=&#34;citation&#34;&gt;(&lt;a href=&#34;#zwaan_aspects_1990&#34;&gt;&lt;span class=&#34;visually-hidden&#34;&gt;Citation: &lt;/span&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;meta itemprop=&#34;givenName&#34; content=&#34;Rolf A.&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Zwaan&lt;/span&gt;&lt;/span&gt;
+      &lt;em&gt;&amp;amp; al.&lt;/em&gt;,&amp;#32;
+      &lt;span itemprop=&#34;datePublished&#34;&gt;1990&lt;/span&gt;&lt;/a&gt;)
+    &lt;span class=&#34;hugo-cite-citation&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Zwaan&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Rolf A.&#34; /&gt;
+    R.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Nederhof&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Anton J.&#34; /&gt;
+    A.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;1990&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;Some Aspects of Scholarly Communication in Linguistics: An Empirical Study&lt;/span&gt;.&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;Language&lt;/span&gt;,&amp;#32;66(3)&lt;/i&gt;.&amp;#32;&lt;span itemprop=&#34;pagination&#34;&gt;553–557&lt;/span&gt;.
+  &lt;a href=&#34;https://doi.org/10.2307/414612&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://doi.org/10.2307/414612&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/span&gt;&lt;/span&gt; and 
+
+
+
+
+
+
+
+&lt;span class=&#34;hugo-cite-intext&#34;
+        itemprop=&#34;citation&#34;&gt;(&lt;a href=&#34;#berez-kroeker_data_2017&#34;&gt;&lt;span class=&#34;visually-hidden&#34;&gt;Citation: &lt;/span&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;meta itemprop=&#34;givenName&#34; content=&#34;Andrea L.&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Berez-Kroeker&lt;/span&gt;&lt;/span&gt;,&amp;#32;
+      &lt;span itemprop=&#34;datePublished&#34;&gt;2017&lt;/span&gt;&lt;/a&gt;)
+    &lt;span class=&#34;hugo-cite-citation&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/CreativeWork&#34;
+      data-type=&#34;manuscript&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Berez-Kroeker&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Andrea L.&#34; /&gt;
+    A.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2017&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;
+    &lt;i&gt;Data Citation and Attribution in Linguistics - Survey of Reproducibility in Linguistics Journals, 2003-2012&lt;/i&gt;&lt;/span&gt;.
+  &lt;meta itemprop=&#34;contentLocation&#34;
+        content=&#34;University of Hawaiʻi at Mānoa&#34;&gt;&amp;#32;Retrieved from&amp;#32;
+  &lt;a href=&#34;https://sites.google.com/a/hawaii.edu/data-citation/survey&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://sites.google.com/a/hawaii.edu/data-citation/survey&lt;/a&gt;&lt;/span&gt;
+
+&lt;/span&gt;&lt;/span&gt;, certain sub-fields in linguistics 
+
+
+
+
+
+
+
+&lt;span class=&#34;hugo-cite-intext&#34;
+        itemprop=&#34;citation&#34;&gt;(&lt;a href=&#34;#bozkurt_monitoring_2019&#34;&gt;&lt;span class=&#34;visually-hidden&#34;&gt;Citation: &lt;/span&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;meta itemprop=&#34;givenName&#34; content=&#34;Ferdi&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Bozkurt&lt;/span&gt;&lt;/span&gt;,&amp;#32;
+      &lt;span itemprop=&#34;datePublished&#34;&gt;2019&lt;/span&gt;&lt;/a&gt;)
+    &lt;span class=&#34;hugo-cite-citation&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Bozkurt&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Ferdi&#34; /&gt;
+    F.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2019&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;Monitoring Academic Studies of Turkish Lexicography: A Bibliometric Study of 84 Years&lt;/span&gt;.&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;Lexikos&lt;/span&gt;,&amp;#32;29(1)&lt;/i&gt;.
+  &lt;a href=&#34;https://doi.org/10.5788/29-1-1522&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://doi.org/10.5788/29-1-1522&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/span&gt;&lt;/span&gt;, 
+
+
+
+
+
+
+
+&lt;span class=&#34;hugo-cite-intext&#34;
+        itemprop=&#34;citation&#34;&gt;(&lt;a href=&#34;#sim_discovering_2012&#34;&gt;&lt;span class=&#34;visually-hidden&#34;&gt;Citation: &lt;/span&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;meta itemprop=&#34;givenName&#34; content=&#34;Yanchuan&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Sim&lt;/span&gt;&lt;/span&gt;
+      &lt;em&gt;&amp;amp; al.&lt;/em&gt;,&amp;#32;
+      &lt;span itemprop=&#34;datePublished&#34;&gt;2012&lt;/span&gt;&lt;/a&gt;)
+    &lt;span class=&#34;hugo-cite-citation&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/CreativeWork&#34;
+      data-type=&#34;paper-conference&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Sim&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Yanchuan&#34; /&gt;
+    Y.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Smith&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Noah A.&#34; /&gt;
+    N.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Smith&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;David A.&#34; /&gt;
+    D.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2012&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;
+    &lt;i&gt;Discovering Factions in the Computational Linguistics Community&lt;/i&gt;&lt;/span&gt;.
+  &lt;meta itemprop=&#34;contentLocation&#34;
+        content=&#34;Jeju Island, Korea&#34;&gt;&amp;#32;
+  &lt;span itemprop=&#34;publisher&#34; itemtype=&#34;http://schema.org/Organization&#34; itemscope=&#34;&#34;&gt;
+    &lt;span itemprop=&#34;name&#34;&gt;Association for Computational Linguistics&lt;/span&gt;&lt;/span&gt;.&amp;#32;Retrieved from&amp;#32;
+  &lt;a href=&#34;https://www.aclweb.org/anthology/W12-3203&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://www.aclweb.org/anthology/W12-3203&lt;/a&gt;&lt;/span&gt;
+
+&lt;/span&gt;&lt;/span&gt;, and 
+
+
+
+
+
+
+
+&lt;span class=&#34;hugo-cite-intext&#34;
+        itemprop=&#34;citation&#34;&gt;(&lt;a href=&#34;#radev_bibliometric_2016&#34;&gt;&lt;span class=&#34;visually-hidden&#34;&gt;Citation: &lt;/span&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;meta itemprop=&#34;givenName&#34; content=&#34;Dragomir R.&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Radev&lt;/span&gt;&lt;/span&gt;
+      &lt;em&gt;&amp;amp; al.&lt;/em&gt;,&amp;#32;
+      &lt;span itemprop=&#34;datePublished&#34;&gt;2016&lt;/span&gt;&lt;/a&gt;)
+    &lt;span class=&#34;hugo-cite-citation&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Radev&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Dragomir R.&#34; /&gt;
+    D.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Joseph&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Mark Thomas&#34; /&gt;
+    M.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Gibson&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Bryan&#34; /&gt;
+    B.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Muthukrishnan&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Pradeep&#34; /&gt;
+    P.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2016&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;A bibliometric and network analysis of the field of computational linguistics&lt;/span&gt;.&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;Journal of the Association for Information Science and Technology&lt;/span&gt;,&amp;#32;67(3)&lt;/i&gt;.&amp;#32;&lt;span itemprop=&#34;pagination&#34;&gt;683–706&lt;/span&gt;.
+  &lt;a href=&#34;https://doi.org/https://doi.org/10.1002/asi.23394&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://doi.org/https://doi.org/10.1002/asi.23394&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/span&gt;&lt;/span&gt; or even coverage by certain indexers 
+
+
+
+
+
+
+
+&lt;span class=&#34;hugo-cite-intext&#34;
+        itemprop=&#34;citation&#34;&gt;(&lt;a href=&#34;#arik_bibliometric_2015&#34;&gt;&lt;span class=&#34;visually-hidden&#34;&gt;Citation: &lt;/span&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;meta itemprop=&#34;givenName&#34; content=&#34;Engin&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Arik&lt;/span&gt;&lt;/span&gt;,&amp;#32;
+      &lt;span itemprop=&#34;datePublished&#34;&gt;2015&lt;/span&gt;&lt;/a&gt;)
+    &lt;span class=&#34;hugo-cite-citation&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Arik&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Engin&#34; /&gt;
+    E.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2015&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;A bibliometric analysis of linguistics in web of science&lt;/span&gt;.&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;Journal of Scientometric Research&lt;/span&gt;,&amp;#32;4(1)&lt;/i&gt;.&amp;#32;&lt;span itemprop=&#34;pagination&#34;&gt;20–28&lt;/span&gt;.
+  &lt;a href=&#34;https://doi.org/10.4103/2320-0057.156018&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://doi.org/10.4103/2320-0057.156018&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/span&gt;&lt;/span&gt;, 
+
+
+
+
+
+
+
+&lt;span class=&#34;hugo-cite-intext&#34;
+        itemprop=&#34;citation&#34;&gt;(&lt;a href=&#34;#martin-martin_google_2018&#34;&gt;&lt;span class=&#34;visually-hidden&#34;&gt;Citation: &lt;/span&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;meta itemprop=&#34;givenName&#34; content=&#34;Alberto&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Martín-Martín&lt;/span&gt;&lt;/span&gt;
+      &lt;em&gt;&amp;amp; al.&lt;/em&gt;,&amp;#32;
+      &lt;span itemprop=&#34;datePublished&#34;&gt;2018&lt;/span&gt;&lt;/a&gt;)
+    &lt;span class=&#34;hugo-cite-citation&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Martín-Martín&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Alberto&#34; /&gt;
+    A.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Orduna-Malea&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Enrique&#34; /&gt;
+    E.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Thelwall&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Mike&#34; /&gt;
+    M.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Delgado López-Cózar&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Emilio&#34; /&gt;
+    E.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2018&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;Google Scholar, Web of Science, and Scopus: A systematic comparison of citations in 252 subject categories&lt;/span&gt;.&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;Journal of Informetrics&lt;/span&gt;,&amp;#32;12(4)&lt;/i&gt;.&amp;#32;&lt;span itemprop=&#34;pagination&#34;&gt;1160–1177&lt;/span&gt;.
+  &lt;a href=&#34;https://doi.org/10.1016/j.joi.2018.09.002&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://doi.org/10.1016/j.joi.2018.09.002&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/span&gt;&lt;/span&gt;, 
+
+
+
+
+
+
+
+&lt;span class=&#34;hugo-cite-intext&#34;
+        itemprop=&#34;citation&#34;&gt;(&lt;a href=&#34;#mohsen_bibliometric_2017&#34;&gt;&lt;span class=&#34;visually-hidden&#34;&gt;Citation: &lt;/span&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;meta itemprop=&#34;givenName&#34; content=&#34;Mohammed Ali&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Mohsen&lt;/span&gt;&lt;/span&gt;
+      &lt;em&gt;&amp;amp; al.&lt;/em&gt;,&amp;#32;
+      &lt;span itemprop=&#34;datePublished&#34;&gt;2017&lt;/span&gt;&lt;/a&gt;)
+    &lt;span class=&#34;hugo-cite-citation&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Mohsen&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Mohammed Ali&#34; /&gt;
+    M.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Fu&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Hui-Zhen&#34; /&gt;
+    H.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Ho&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Yuh-Shan&#34; /&gt;
+    Y.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2017&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;A Bibliometric Analysis of Linguistics Publications in the Web of Science&lt;/span&gt;.&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;Journal of Scientometric Research&lt;/span&gt;,&amp;#32;6(2)&lt;/i&gt;.&amp;#32;&lt;span itemprop=&#34;pagination&#34;&gt;109–118&lt;/span&gt;.
+  &lt;a href=&#34;https://doi.org/10.5530/jscires.6.2.16&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://doi.org/10.5530/jscires.6.2.16&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/span&gt;&lt;/span&gt;.&lt;/p&gt;
+&lt;p&gt;If I use the same categories as the MIAR project 
+&lt;a href=&#34;http://miar.ub.edu/lista/CAMPO/--TElOR8Ocw41TVElDQQ==&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;there are nearly 1700 linguistic journals&lt;/a&gt; among the approximately 40,000 journals and serials tracked 
+
+
+
+
+
+
+
+&lt;span class=&#34;hugo-cite-intext&#34;
+        itemprop=&#34;citation&#34;&gt;(&lt;a href=&#34;#rodriguez-gairin_miar_2011&#34;&gt;&lt;span class=&#34;visually-hidden&#34;&gt;Citation: &lt;/span&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;meta itemprop=&#34;givenName&#34; content=&#34;Josep-Manuel&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Rodríguez-Gairín&lt;/span&gt;&lt;/span&gt;
+      &lt;em&gt;&amp;amp; al.&lt;/em&gt;,&amp;#32;
+      &lt;span itemprop=&#34;datePublished&#34;&gt;2011&lt;/span&gt;&lt;/a&gt;)
+    &lt;span class=&#34;hugo-cite-citation&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Rodríguez-Gairín&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Josep-Manuel&#34; /&gt;
+    J.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Somoza-Fernández&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Marta&#34; /&gt;
+    M.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Urbano&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Cristóbal&#34; /&gt;
+    C.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2011&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;&lt;i&gt;MIAR&lt;/i&gt;: hacia un entorno colaborativo de editores, autores y evaluadores de revistas&lt;/span&gt;.&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;El Profesional de la Informacion&lt;/span&gt;,&amp;#32;20(5)&lt;/i&gt;.&amp;#32;&lt;span itemprop=&#34;pagination&#34;&gt;589–596&lt;/span&gt;.
+  &lt;a href=&#34;https://doi.org/10.3145/epi.2011.sep.15&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://doi.org/10.3145/epi.2011.sep.15&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/span&gt;&lt;/span&gt;.  These journals may be currently active or may have ceased their publishing, or changed the name of the journal (increasing the number of serials counted).&lt;/p&gt;
+&lt;p&gt;Defining the discipline is hard. For example, should one include the fields of Language Documentation, Anthropology, or Philology? Therefore the exact scope seems fuzzy but if we go with the 1700 number presented by the MIAR project it gives us a start. I have read several studies which focus on 10-year segment of a journal&amp;rsquo;s history (not linguistics) and they generally report that in a 10-year time span about 450 articles are produced.
+One approach would be to multiply 450 by 1700 and estimate the number of articles from there (765,000 articles). But this leaves us without knowing how many active journals there are.&lt;/p&gt;
+&lt;p&gt;I have noticed that career linguists in the academy publish about three articles a year (more-or-less). Christopher Phipps, on his blog 
+
+
+
+
+
+
+
+&lt;span class=&#34;hugo-cite-intext&#34;
+        itemprop=&#34;citation&#34;&gt;(&lt;a href=&#34;#phipps_how_2010&#34;&gt;&lt;span class=&#34;visually-hidden&#34;&gt;Citation: &lt;/span&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;meta itemprop=&#34;givenName&#34; content=&#34;Chris&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Phipps&lt;/span&gt;&lt;/span&gt;,&amp;#32;
+      &lt;span itemprop=&#34;datePublished&#34;&gt;2010&lt;/span&gt;&lt;/a&gt;)
+    &lt;span class=&#34;hugo-cite-citation&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/CreativeWork&#34;
+      data-type=&#34;post-weblog&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Phipps&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Chris&#34; /&gt;
+    C.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2010&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;
+    &lt;i&gt;How Many Linguists Are There? 5379.&lt;/i&gt;&lt;/span&gt;.
+  &amp;#32;Retrieved from&amp;#32;
+  &lt;a href=&#34;https://thelousylinguist.blogspot.com/2010/03/how-many-linguists-are-there-5379.html&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://thelousylinguist.blogspot.com/2010/03/how-many-linguists-are-there-5379.html&lt;/a&gt;&lt;/span&gt;
+
+&lt;/span&gt;&lt;/span&gt; postulates that in 2010 there were about 5379 linguists. More-or-less this might give us a growth rate of about 16,000 articles per year. I recall reading somewhere that a major commercial linguistic bibliography added between 9,000 and 11,000 articles between its annual versions. Since we don&amp;rsquo;t anticipate complete coverage of by the team behind the bibliography it seems that the 16,000 number is closer to reasonable.&lt;/p&gt;
+&lt;p&gt;If we assume that the 16,000 number has been constant and covers the 765,000 total articles this gives us between 47 and 48 years of publishing history. Obviously the 765,000 number would be smaller than the total number of relevant language research publications (say since the 1500&amp;rsquo;s). But presumably the rate of publication growth is accelerating with innovations in publishing technology, the growth of the global population, and the growth of the academic and industrial application of language knowledge.&lt;/p&gt;
+&lt;p&gt;Still another way of estimating how many articles are produced a year are to look at the rate of DOI usage or the growth of specific databases of articles. Not all journals or publishers use DOIs, and databases are also limited to those journals they index so it is not a fool-proof method but it would give us an approximate rate and a comparable rate with other disciplines. This method was attempted by 
+
+
+
+
+
+
+
+&lt;span class=&#34;hugo-cite-intext&#34;
+        itemprop=&#34;citation&#34;&gt;(&lt;a href=&#34;#larsen_rate_2010&#34;&gt;&lt;span class=&#34;visually-hidden&#34;&gt;Citation: &lt;/span&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;meta itemprop=&#34;givenName&#34; content=&#34;Peder Olesen&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Larsen&lt;/span&gt;&lt;/span&gt;
+      &lt;em&gt;&amp;amp; al.&lt;/em&gt;,&amp;#32;
+      &lt;span itemprop=&#34;datePublished&#34;&gt;2010&lt;/span&gt;&lt;/a&gt;)
+    &lt;span class=&#34;hugo-cite-citation&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Larsen&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Peder Olesen&#34; /&gt;
+    P.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Ins&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Markus&#34; /&gt;
+    M.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2010&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;The rate of growth in scientific publication and the decline in coverage provided by Science Citation Index&lt;/span&gt;.&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;Scientometrics&lt;/span&gt;,&amp;#32;84(3)&lt;/i&gt;.&amp;#32;&lt;span itemprop=&#34;pagination&#34;&gt;575–603&lt;/span&gt;.
+  &lt;a href=&#34;https://doi.org/10.1007/s11192-010-0202-z&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://doi.org/10.1007/s11192-010-0202-z&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/span&gt;&lt;/span&gt;, albeit the scope was not limited to linguistics.&lt;/p&gt;
+&lt;h2 id=&#34;bibliography&#34;&gt;Bibliography&lt;/h2&gt;
+
+  
+
+  
+
+
+
+
+
+
+
+
+
+
+&lt;section class=&#34;hugo-cite-bibliography&#34;&gt;
+  &lt;dl&gt;
+    
+
+      &lt;div id=&#34;arik_bibliometric_2015&#34;&gt;
+        &lt;dt&gt;
+          Arik
+
+          
+          (2015)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Arik&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Engin&#34; /&gt;
+    E.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2015&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;A bibliometric analysis of linguistics in web of science&lt;/span&gt;.&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;Journal of Scientometric Research&lt;/span&gt;,&amp;#32;4(1)&lt;/i&gt;.&amp;#32;&lt;span itemprop=&#34;pagination&#34;&gt;20–28&lt;/span&gt;.
+  &lt;a href=&#34;https://doi.org/10.4103/2320-0057.156018&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://doi.org/10.4103/2320-0057.156018&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;berez-kroeker_data_2017&#34;&gt;
+        &lt;dt&gt;
+          Berez-Kroeker
+
+          
+          (2017)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/CreativeWork&#34;
+      data-type=&#34;manuscript&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Berez-Kroeker&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Andrea L.&#34; /&gt;
+    A.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2017&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;
+    &lt;i&gt;Data Citation and Attribution in Linguistics - Survey of Reproducibility in Linguistics Journals, 2003-2012&lt;/i&gt;&lt;/span&gt;.
+  &lt;meta itemprop=&#34;contentLocation&#34;
+        content=&#34;University of Hawaiʻi at Mānoa&#34;&gt;&amp;#32;Retrieved from&amp;#32;
+  &lt;a href=&#34;https://sites.google.com/a/hawaii.edu/data-citation/survey&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://sites.google.com/a/hawaii.edu/data-citation/survey&lt;/a&gt;&lt;/span&gt;
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;bozkurt_monitoring_2019&#34;&gt;
+        &lt;dt&gt;
+          Bozkurt
+
+          
+          (2019)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Bozkurt&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Ferdi&#34; /&gt;
+    F.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2019&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;Monitoring Academic Studies of Turkish Lexicography: A Bibliometric Study of 84 Years&lt;/span&gt;.&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;Lexikos&lt;/span&gt;,&amp;#32;29(1)&lt;/i&gt;.
+  &lt;a href=&#34;https://doi.org/10.5788/29-1-1522&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://doi.org/10.5788/29-1-1522&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;larsen_rate_2010&#34;&gt;
+        &lt;dt&gt;
+          Larsen&amp;#32;&amp;amp;&amp;#32;Ins
+
+          
+          (2010)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Larsen&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Peder Olesen&#34; /&gt;
+    P.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Ins&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Markus&#34; /&gt;
+    M.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2010&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;The rate of growth in scientific publication and the decline in coverage provided by Science Citation Index&lt;/span&gt;.&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;Scientometrics&lt;/span&gt;,&amp;#32;84(3)&lt;/i&gt;.&amp;#32;&lt;span itemprop=&#34;pagination&#34;&gt;575–603&lt;/span&gt;.
+  &lt;a href=&#34;https://doi.org/10.1007/s11192-010-0202-z&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://doi.org/10.1007/s11192-010-0202-z&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;martin-martin_google_2018&#34;&gt;
+        &lt;dt&gt;
+          Martín-Martín,&amp;#32;
+          Orduna-Malea,&amp;#32;
+          Thelwall&amp;#32;&amp;amp;&amp;#32;Delgado López-Cózar
+
+          
+          (2018)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Martín-Martín&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Alberto&#34; /&gt;
+    A.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Orduna-Malea&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Enrique&#34; /&gt;
+    E.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Thelwall&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Mike&#34; /&gt;
+    M.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Delgado López-Cózar&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Emilio&#34; /&gt;
+    E.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2018&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;Google Scholar, Web of Science, and Scopus: A systematic comparison of citations in 252 subject categories&lt;/span&gt;.&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;Journal of Informetrics&lt;/span&gt;,&amp;#32;12(4)&lt;/i&gt;.&amp;#32;&lt;span itemprop=&#34;pagination&#34;&gt;1160–1177&lt;/span&gt;.
+  &lt;a href=&#34;https://doi.org/10.1016/j.joi.2018.09.002&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://doi.org/10.1016/j.joi.2018.09.002&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;mohsen_bibliometric_2017&#34;&gt;
+        &lt;dt&gt;
+          Mohsen,&amp;#32;
+          Fu&amp;#32;&amp;amp;&amp;#32;Ho
+
+          
+          (2017)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Mohsen&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Mohammed Ali&#34; /&gt;
+    M.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Fu&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Hui-Zhen&#34; /&gt;
+    H.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Ho&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Yuh-Shan&#34; /&gt;
+    Y.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2017&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;A Bibliometric Analysis of Linguistics Publications in the Web of Science&lt;/span&gt;.&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;Journal of Scientometric Research&lt;/span&gt;,&amp;#32;6(2)&lt;/i&gt;.&amp;#32;&lt;span itemprop=&#34;pagination&#34;&gt;109–118&lt;/span&gt;.
+  &lt;a href=&#34;https://doi.org/10.5530/jscires.6.2.16&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://doi.org/10.5530/jscires.6.2.16&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;phipps_how_2010&#34;&gt;
+        &lt;dt&gt;
+          Phipps
+
+          
+          (2010)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/CreativeWork&#34;
+      data-type=&#34;post-weblog&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Phipps&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Chris&#34; /&gt;
+    C.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2010&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;
+    &lt;i&gt;How Many Linguists Are There? 5379.&lt;/i&gt;&lt;/span&gt;.
+  &amp;#32;Retrieved from&amp;#32;
+  &lt;a href=&#34;https://thelousylinguist.blogspot.com/2010/03/how-many-linguists-are-there-5379.html&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://thelousylinguist.blogspot.com/2010/03/how-many-linguists-are-there-5379.html&lt;/a&gt;&lt;/span&gt;
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;radev_bibliometric_2016&#34;&gt;
+        &lt;dt&gt;
+          Radev,&amp;#32;
+          Joseph,&amp;#32;
+          Gibson&amp;#32;&amp;amp;&amp;#32;Muthukrishnan
+
+          
+          (2016)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Radev&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Dragomir R.&#34; /&gt;
+    D.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Joseph&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Mark Thomas&#34; /&gt;
+    M.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Gibson&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Bryan&#34; /&gt;
+    B.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Muthukrishnan&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Pradeep&#34; /&gt;
+    P.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2016&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;A bibliometric and network analysis of the field of computational linguistics&lt;/span&gt;.&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;Journal of the Association for Information Science and Technology&lt;/span&gt;,&amp;#32;67(3)&lt;/i&gt;.&amp;#32;&lt;span itemprop=&#34;pagination&#34;&gt;683–706&lt;/span&gt;.
+  &lt;a href=&#34;https://doi.org/https://doi.org/10.1002/asi.23394&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://doi.org/https://doi.org/10.1002/asi.23394&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;rodriguez-gairin_miar_2011&#34;&gt;
+        &lt;dt&gt;
+          Rodríguez-Gairín,&amp;#32;
+          Somoza-Fernández&amp;#32;&amp;amp;&amp;#32;Urbano
+
+          
+          (2011)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Rodríguez-Gairín&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Josep-Manuel&#34; /&gt;
+    J.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Somoza-Fernández&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Marta&#34; /&gt;
+    M.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Urbano&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Cristóbal&#34; /&gt;
+    C.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2011&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;&lt;i&gt;MIAR&lt;/i&gt;: hacia un entorno colaborativo de editores, autores y evaluadores de revistas&lt;/span&gt;.&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;El Profesional de la Informacion&lt;/span&gt;,&amp;#32;20(5)&lt;/i&gt;.&amp;#32;&lt;span itemprop=&#34;pagination&#34;&gt;589–596&lt;/span&gt;.
+  &lt;a href=&#34;https://doi.org/10.3145/epi.2011.sep.15&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://doi.org/10.3145/epi.2011.sep.15&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;sim_discovering_2012&#34;&gt;
+        &lt;dt&gt;
+          Sim,&amp;#32;
+          Smith&amp;#32;&amp;amp;&amp;#32;Smith
+
+          
+          (2012)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/CreativeWork&#34;
+      data-type=&#34;paper-conference&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Sim&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Yanchuan&#34; /&gt;
+    Y.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Smith&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Noah A.&#34; /&gt;
+    N.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Smith&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;David A.&#34; /&gt;
+    D.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2012&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;
+    &lt;i&gt;Discovering Factions in the Computational Linguistics Community&lt;/i&gt;&lt;/span&gt;.
+  &lt;meta itemprop=&#34;contentLocation&#34;
+        content=&#34;Jeju Island, Korea&#34;&gt;&amp;#32;
+  &lt;span itemprop=&#34;publisher&#34; itemtype=&#34;http://schema.org/Organization&#34; itemscope=&#34;&#34;&gt;
+    &lt;span itemprop=&#34;name&#34;&gt;Association for Computational Linguistics&lt;/span&gt;&lt;/span&gt;.&amp;#32;Retrieved from&amp;#32;
+  &lt;a href=&#34;https://www.aclweb.org/anthology/W12-3203&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://www.aclweb.org/anthology/W12-3203&lt;/a&gt;&lt;/span&gt;
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;zwaan_aspects_1990&#34;&gt;
+        &lt;dt&gt;
+          Zwaan&amp;#32;&amp;amp;&amp;#32;Nederhof
+
+          
+          (1990)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Zwaan&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Rolf A.&#34; /&gt;
+    R.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Nederhof&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Anton J.&#34; /&gt;
+    A.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;1990&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;Some Aspects of Scholarly Communication in Linguistics: An Empirical Study&lt;/span&gt;.&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;Language&lt;/span&gt;,&amp;#32;66(3)&lt;/i&gt;.&amp;#32;&lt;span itemprop=&#34;pagination&#34;&gt;553–557&lt;/span&gt;.
+  &lt;a href=&#34;https://doi.org/10.2307/414612&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://doi.org/10.2307/414612&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+  &lt;/dl&gt;
+&lt;/section&gt;
+
+
+
 </description>
     </item>
     
@@ -4360,6 +7229,54 @@ My suspicion though is that passing the PDF through GhostSript also removes some
     </item>
     
     <item>
+      <title>XLingPaper Upgrade on Linux</title>
+      <link>https://hughandbecky.us/Hugh-CV/post/xlingpaper-upgrade-on-linux/</link>
+      <pubDate>Tue, 30 Oct 2018 14:35:45 +0100</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/post/xlingpaper-upgrade-on-linux/</guid>
+      <description>&lt;p&gt;I never remember how to upgrade XMLMind on Linux. Here are my notes on how to do it.&lt;/p&gt;
+&lt;p&gt;I follow the install directions here: &lt;a href=&#34;http://www.xmlmind.com/xmleditor/_distrib/doc/help/installing_xxe.html&#34;&gt;http://www.xmlmind.com/xmleditor/_distrib/doc/help/installing_xxe.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Generally, the instructions follow like those below for version 8:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Make sure that the Java™ bin/ directory is referenced in the $PATH and, at the same time, check that the Java™ runtime in the $PATH has the right version:&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;pre&gt;&lt;code&gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;A command like the following will show the java version number.
+&lt;code&gt;UserName$ java -version&lt;/code&gt; java version &amp;ldquo;10.0.1&amp;rdquo; 2018-04-17 Java(TM) SE Runtime Environment 18.3 (build 10.0.1+10) Java HotSpot(TM) 64-Bit Server VM 18.3 (build 10.0.1+10, mixed mode)&lt;/p&gt;
+&lt;p&gt;Unpack the XXE distribution inside any directory you want:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;&amp;gt;
+$ cd
+$ unzip xxe-pro-8_2_0.zip
+$ ls xxe-pro-8_2_0
+addon/
+bin/
+demo/
+doc/
+...
+&lt;/code&gt;&lt;/pre&gt;
+&lt;blockquote&gt;
+&lt;p&gt;XXE is intended to be used directly from the xxe-pro-8_2_0/ directory. That is, you can start XXE by simply executing:&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;pre&gt;&lt;code&gt;$ xxe-pro-8_2_0/bin/xxe &amp;amp;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;I can never remember what to do next. Here is the solution:&lt;/p&gt;
+&lt;p&gt;On my system &lt;code&gt;xxe &amp;amp;&lt;/code&gt; is sym-linked to the version that I want to be primary. This is done in &lt;code&gt;/usr/local/bin&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;So then there is a script in &lt;code&gt;/usr/local/bin&lt;/code&gt; which points back to the application (I don&amp;rsquo;t really know as I didn&amp;rsquo;t write it), but the point is that the symlink needs to be adjusted and can be adjusted with a combination of these tips:&lt;/p&gt;
+&lt;p&gt;Find out which version of &lt;code&gt;xxe&lt;/code&gt; the item in &lt;code&gt;local/bin&lt;/code&gt; is pointed at with the following command:
+&lt;code&gt;ls -l xxe&lt;/code&gt; Then if you want to adjust the versions one needs to over write the existing symlink. Or create a new one. In my case I changed &lt;code&gt;xxe&lt;/code&gt; to &lt;code&gt;xxe7&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Note&lt;/strong&gt; &lt;em&gt;Do not adjust &lt;code&gt;~/.bash_profile&lt;/code&gt; as that will only mess things up&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;I did this once with &lt;code&gt;export $PATH=/absolute/path/to/xxe/&lt;/code&gt;and then my machine couldn&amp;rsquo;t find &lt;code&gt;/usr/local/bin&lt;/code&gt; any more.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;If one wants an &lt;code&gt;xxe&lt;/code&gt; command then use that, but for me so that I don&amp;rsquo;t have to update the command all the time I use &lt;code&gt;xxe7&lt;/code&gt; for XMLMind version 7 and &lt;code&gt;xxe8&lt;/code&gt; and so forth.&lt;/p&gt;
+&lt;p&gt;then symlink like so:
+&lt;code&gt;cd /usr/local/bin&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;code&gt;/usr/local/bin$&lt;/code&gt;&lt;/strong&gt;&lt;code&gt; sudo ln -s /home/username/path/to/XMLMind/xxe-version-folder/bin/xxe /usr/local/bin/xxe8&lt;/code&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Bibliography of select Philippine language descriptions</title>
       <link>https://hughandbecky.us/Hugh-CV/post/phillipine-languages-bibliography/</link>
       <pubDate>Wed, 08 Aug 2018 14:35:45 -0700</pubDate>
@@ -4375,8 +7292,1185 @@ My suspicion though is that passing the PDF through GhostSript also removes some
       <pubDate>Wed, 08 Aug 2018 14:35:45 -0700</pubDate>
       <guid>https://hughandbecky.us/Hugh-CV/post/tei-lexicon-bibliography/</guid>
       <description>&lt;p&gt;This is a short non-exhaustive bibliography of lexicon projects which have tested or opted to use the XML TEI format for their data.&lt;/p&gt;
-&lt;p&gt;Citations are kept in a GitHub gist. Comments are welcome via GitHub.&lt;/p&gt;
-&lt;script type=&#34;application/javascript&#34; src=&#34;https://gist.github.com/HughP/3b3faf1f2a8a579b91a46a2f1d6ceaa1.js&#34;&gt;&lt;/script&gt;</description>
+
+
+
+
+
+
+
+
+
+
+
+&lt;section class=&#34;hugo-cite-bibliography&#34;&gt;
+  &lt;dl&gt;
+    
+
+      &lt;div id=&#34;alessi_greek-arabic-greek_nodate&#34;&gt;
+        &lt;dt&gt;
+          Alessi
+
+          
+          (n.d.)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Alessi&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Robert&#34; /&gt;
+    R.&lt;/span&gt;
+  &amp;#32;
+  (n.d.).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;Greek-Arabic-Greek Lexicon&lt;/span&gt;.&amp;#32;Retrieved from&amp;#32;
+  &lt;a href=&#34;http://www.robertalessi.net/en/greek-arabic-lexicon&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;http://www.robertalessi.net/en/greek-arabic-lexicon&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;banski_enhancing_2008&#34;&gt;
+        &lt;dt&gt;
+          Bański&amp;#32;&amp;amp;&amp;#32;Moszczyński
+
+          
+          (2008)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Chapter&#34;
+      data-type=&#34;chapter&#34;&gt;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Bański&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Piotr&#34; /&gt;
+    P.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Moszczyński&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Radosław&#34; /&gt;
+    R.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2008&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;Enhancing an English-Polish electronic dictionary for multiword expression research&lt;/span&gt;.&amp;#32;In&lt;span itemprop=&#34;about&#34;&gt;
+    &lt;i&gt;LERC&lt;/i&gt;&lt;/span&gt;.&amp;#32;(&lt;span&gt;pp.&amp;#32;2619–2622&lt;/span&gt;).
+  &amp;#32;Retrieved from&amp;#32;
+  &lt;a href=&#34;https://hal.inria.fr/hal-01757108&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://hal.inria.fr/hal-01757108&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;banski_tei-lex0_2017&#34;&gt;
+        &lt;dt&gt;
+          Bański,&amp;#32;
+          Bowers&amp;#32;&amp;amp;&amp;#32;Erjavec
+
+          
+          (2017)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Chapter&#34;
+      data-type=&#34;chapter&#34;&gt;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Bański&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Piotr&#34; /&gt;
+    P.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Bowers&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Jack&#34; /&gt;
+    J.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Erjavec&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Tomaz&#34; /&gt;
+    T.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2017&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;TEI-Lex0 guidelines for the encoding of dictionary information on written and spoken forms&lt;/span&gt;.&amp;#32;In&amp;#32;&lt;span itemprop=&#34;editor&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Kosem&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Iztok&#34; /&gt;
+    I.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;editor&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Tiberius&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Carole&#34; /&gt;
+    C.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;editor&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Jakubíček&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Miloš&#34; /&gt;
+    M.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;editor&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Kallas&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Jelena&#34; /&gt;
+    J.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;editor&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Krek&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Simon&#34; /&gt;
+    S.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;editor&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Baisa&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Vít&#34; /&gt;
+    V.&lt;/span&gt; (Eds.),&amp;#32;&lt;span itemprop=&#34;about&#34;&gt;
+    &lt;i&gt;Electronic Lexicography in the 21st Century: Proceedings of ELex 2017 Conference, Sep 2017, Leiden, Netherlands&lt;/i&gt;&lt;/span&gt;.&amp;#32;(&lt;span&gt;pp.&amp;#32;485–494&lt;/span&gt;).
+  &lt;meta itemprop=&#34;contentLocation&#34;
+        value=&#34;Brno, Czech Republic&#34;&gt;&amp;#32;&lt;span itemprop=&#34;publisher&#34;
+               itemtype=&#34;http://schema.org/Organization&#34;
+               itemscope=&#34;&#34;&gt;
+      &lt;span itemprop=&#34;name&#34;&gt;Lexical Computing CZ s.r.o&lt;/span&gt;&lt;/span&gt;.&amp;#32;Retrieved from&amp;#32;
+  &lt;a href=&#34;https://elex.link/elex2017/proceedings-download/%20%e2%80%8e&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://elex.link/elex2017/proceedings-download/ ‎&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;bates_recovering_2009&#34;&gt;
+        &lt;dt&gt;
+          Bates&amp;#32;&amp;amp;&amp;#32;Lonsdale
+
+          
+          (2009)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Chapter&#34;
+      data-type=&#34;chapter&#34;&gt;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Bates&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Dawn&#34; /&gt;
+    D.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Lonsdale&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Deryle&#34; /&gt;
+    D.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2009&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;Recovering and updating legacy dictionary data&lt;/span&gt;.&amp;#32;In&amp;#32;&lt;span itemprop=&#34;editor&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Dunham&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Joel&#34; /&gt;
+    J.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;editor&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Lyon&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;John&#34; /&gt;
+    J.&lt;/span&gt; (Eds.),&amp;#32;&lt;span itemprop=&#34;about&#34;&gt;
+    &lt;i&gt;Papers for the 44th Annual International Conference on Salish and Neighboring Languages&lt;/i&gt;&lt;/span&gt;.&amp;#32;(&lt;span&gt;pp.&amp;#32;1–12&lt;/span&gt;).
+  &lt;meta itemprop=&#34;contentLocation&#34;
+        value=&#34;Missoula, Montana&#34;&gt;&amp;#32;Retrieved from&amp;#32;
+  &lt;a href=&#34;https://lingpapers.sites.olt.ubc.ca/files/2018/02/2009_Bates_Lonsdale.pdf&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://lingpapers.sites.olt.ubc.ca/files/2018/02/2009_Bates_Lonsdale.pdf&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;birnbaum_using_1999&#34;&gt;
+        &lt;dt&gt;
+          Birnbaum,&amp;#32;
+          Cournane&amp;#32;&amp;amp;&amp;#32;Flynn
+
+          
+          (1999)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Birnbaum&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;David J.&#34; /&gt;
+    D.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Cournane&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Mavis&#34; /&gt;
+    M.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Flynn&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Peter&#34; /&gt;
+    P.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;1999&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;Using the TEI Writing System Declaration (WSD)&lt;/span&gt;.&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;Computers and the Humanities&lt;/span&gt;,&amp;#32;33(1)&lt;/i&gt;.&amp;#32;&lt;span itemprop=&#34;pagination&#34;&gt;49–57&lt;/span&gt;.
+  &lt;a href=&#34;https://doi.org/10.1023/A:1001742011783&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://doi.org/10.1023/A:1001742011783&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;bowers_bridging_2018&#34;&gt;
+        &lt;dt&gt;
+          Bowers&amp;#32;&amp;amp;&amp;#32;Romary
+
+          
+          (2018)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Bowers&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Jack&#34; /&gt;
+    J.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Romary&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Laurent&#34; /&gt;
+    L.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2018&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;Bridging the Gaps between Digital Humanities, Lexicography, and Linguistics: A TEI Dictionary for the Documentation of Mixtepec-Mixtec&lt;/span&gt;.&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;Dictionaries: Journal of the Dictionary Society of North America&lt;/span&gt;,&amp;#32;39(2)&lt;/i&gt;.&amp;#32;&lt;span itemprop=&#34;pagination&#34;&gt;79–106&lt;/span&gt;.
+  &lt;a href=&#34;https://doi.org/10.1353/dic.2018.0022&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://doi.org/10.1353/dic.2018.0022&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;bowers_deep_2016&#34;&gt;
+        &lt;dt&gt;
+          Bowers&amp;#32;&amp;amp;&amp;#32;Romary
+
+          
+          (2016)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Bowers&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Jack&#34; /&gt;
+    J.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Romary&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Laurent&#34; /&gt;
+    L.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2016&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;Deep Encoding of Etymological Information in TEI&lt;/span&gt;.&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;Journal of the Text Encoding Initiative&lt;/span&gt;(Issue 10)&lt;/i&gt;.
+  &lt;a href=&#34;https://doi.org/10.4000/jtei.1643&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://doi.org/10.4000/jtei.1643&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;budin_creating_2012&#34;&gt;
+        &lt;dt&gt;
+          Budin,&amp;#32;
+          Majewski&amp;#32;&amp;amp;&amp;#32;Mörth
+
+          
+          (2012)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Budin&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Gerhard&#34; /&gt;
+    G.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Majewski&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Stefan&#34; /&gt;
+    S.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Mörth&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Karlheinz&#34; /&gt;
+    K.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2012&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;Creating Lexical Resources in TEI P5: A Schema for Multi-purpose Digital Dictionaries&lt;/span&gt;.&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;Journal of the Text Encoding Initiative&lt;/span&gt;(Issue 3)&lt;/i&gt;.
+  &lt;a href=&#34;https://doi.org/10.4000/jtei.522&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://doi.org/10.4000/jtei.522&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;czaykowska-higgins_using_2014&#34;&gt;
+        &lt;dt&gt;
+          Czaykowska-Higgins,&amp;#32;
+          Holmes&amp;#32;&amp;amp;&amp;#32;Kell
+
+          
+          (2014)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Czaykowska-Higgins&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Ewa&#34; /&gt;
+    E.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Holmes&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Martin D&#34; /&gt;
+    M.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Kell&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Sarah M&#34; /&gt;
+    S.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2014&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;Using TEI for an Endangered Language Lexical Resource: The Nxaʔamxcín Database-Dictionary Project&lt;/span&gt;.&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;Language Documentation &amp;amp; Conservation&lt;/span&gt;,&amp;#32;8&lt;/i&gt;.&amp;#32;&lt;span itemprop=&#34;pagination&#34;&gt;37&lt;/span&gt;.&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;fraser_tei_2011&#34;&gt;
+        &lt;dt&gt;
+          Fraser
+
+          
+          (2011)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Fraser&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Bruce&#34; /&gt;
+    B.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2011&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;The TEI Dictionary Schema for XML: its worth and weakness for the lexicographer&lt;/span&gt;.&amp;#32;Retrieved from&amp;#32;
+  &lt;a href=&#34;http://people.ds.cam.ac.uk/blf10/Links/TEI.html&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;http://people.ds.cam.ac.uk/blf10/Links/TEI.html&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;graiger_tei_2006&#34;&gt;
+        &lt;dt&gt;
+          Graiger
+
+          
+          (2006)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Graiger&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Christian&#34; /&gt;
+    C.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2006&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;TEI P5: Encoding dictionaries &amp;amp; more&lt;/span&gt;.&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;ide_encoding_1995&#34;&gt;
+        &lt;dt&gt;
+          Ide&amp;#32;&amp;amp;&amp;#32;Véronis
+
+          
+          (1995)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Ide&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Nancy&#34; /&gt;
+    N.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Véronis&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Jean&#34; /&gt;
+    J.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;1995&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;Encoding Dictionaries&lt;/span&gt;.&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;Computers and the Humanities&lt;/span&gt;,&amp;#32;29(2)&lt;/i&gt;.&amp;#32;&lt;span itemprop=&#34;pagination&#34;&gt;167–179&lt;/span&gt;.
+  &lt;a href=&#34;https://doi.org/10.1007/BF01830710&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://doi.org/10.1007/BF01830710&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;kang_markup_1996&#34;&gt;
+        &lt;dt&gt;
+          Kang
+
+          
+          (1996)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Chapter&#34;
+      data-type=&#34;chapter&#34;&gt;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Kang&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Beom-mo&#34; /&gt;
+    B.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;1996&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;Markup of Korean Dictionary Entries&lt;/span&gt;.&amp;#32;In&lt;span itemprop=&#34;about&#34;&gt;
+    &lt;i&gt;Proceedings of the 11th Pacific Asia Conference on Language, Information and Computation (PACLIC 11)&lt;/i&gt;&lt;/span&gt;.&amp;#32;(&lt;span&gt;pp.&amp;#32;219–228&lt;/span&gt;).
+  &lt;meta itemprop=&#34;contentLocation&#34;
+        value=&#34;Seoul, Korea&#34;&gt;&amp;#32;&lt;span itemprop=&#34;publisher&#34;
+               itemtype=&#34;http://schema.org/Organization&#34;
+               itemscope=&#34;&#34;&gt;
+      &lt;span itemprop=&#34;name&#34;&gt;Kyung Hee University&lt;/span&gt;&lt;/span&gt;.&amp;#32;Retrieved from&amp;#32;
+  &lt;a href=&#34;http://www.aclweb.org/anthology/papers/Y/Y96/Y96-1023/&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;http://www.aclweb.org/anthology/papers/Y/Y96/Y96-1023/&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;kang_modifying_1997&#34;&gt;
+        &lt;dt&gt;
+          Kang
+
+          
+          (1997,&amp;#32;1998)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Kang&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Beom-Mo&#34; /&gt;
+    B.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;1997, 1998&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;Modifying the TEI DTD: The Case of Korean Dictionaries&lt;/span&gt;.&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;Computers and the Humanities&lt;/span&gt;,&amp;#32;31(5)&lt;/i&gt;.&amp;#32;&lt;span itemprop=&#34;pagination&#34;&gt;433–449&lt;/span&gt;.&amp;#32;Retrieved from&amp;#32;
+  &lt;a href=&#34;https://www.jstor.org/stable/30200444&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://www.jstor.org/stable/30200444&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;mackillop_encoding_2000&#34;&gt;
+        &lt;dt&gt;
+          Mackillop
+
+          
+          (2000)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Mackillop&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Susan Rennie&#34; /&gt;
+    S.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2000&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;Encoding a Historical Dictionary with the TEI (With reference to the Electronic Scottish National Dictionary Project)&lt;/span&gt;.&amp;#32;&lt;span itemprop=&#34;pagination&#34;&gt;12&lt;/span&gt;.&amp;#32;Retrieved from&amp;#32;
+  &lt;a href=&#34;https://euralex.org/publications/encoding-a-historical-dictionary-with-the-tei-with-reference-to-the-electronic-scottish-national-dictionary-project/&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://euralex.org/publications/encoding-a-historical-dictionary-with-the-tei-with-reference-to-the-electronic-scottish-national-dictionary-project/&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;mechura_xslt_nodate&#34;&gt;
+        &lt;dt&gt;
+          Měchura
+
+          
+          (n.d.)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Book&#34;
+      data-type=&#34;book&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Měchura&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Michal&#34; /&gt;
+    M.&lt;/span&gt;&amp;#32;
+  (n.d.).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;
+    &lt;i&gt;An XSLT stylesheet for TEI-encoded dictionaries&lt;/i&gt;&lt;/span&gt;.
+  &amp;#32;Retrieved from&amp;#32;
+  &lt;a href=&#34;https://github.com/michmech/tei-dictionary.xsl&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://github.com/michmech/tei-dictionary.xsl&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;noauthor_ch._nodate&#34;&gt;
+        &lt;dt&gt;
+          
+          (N.A.)
+
+          
+          (n.d.)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Chapter&#34;
+      data-type=&#34;chapter&#34;&gt;
+  
+  (N.A.).
+  &amp;#32;
+  (n.d.).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;ch. 9 Dictionaries&lt;/span&gt;.&amp;#32;In&lt;span itemprop=&#34;about&#34;&gt;
+    &lt;i&gt;P5: Guidelines for Electronic Text Encoding and Interchange&lt;/i&gt;&lt;/span&gt;..
+  &amp;#32;Retrieved from&amp;#32;
+  &lt;a href=&#34;http://www.tei-c.org/release/doc/tei-p5-doc/en/html/DI.html&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;http://www.tei-c.org/release/doc/tei-p5-doc/en/html/DI.html&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;noauthor_p5_2017&#34;&gt;
+        &lt;dt&gt;
+          
+          (N.A.)
+
+          
+          (2017)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;
+  (N.A.).
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2017&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;P5: Guidelines for Electronic Text Encoding and Interchange&lt;/span&gt;.&amp;#32;Retrieved from&amp;#32;
+  &lt;a href=&#34;https://lingsig.github.io/attReferring/html/&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://lingsig.github.io/attReferring/html/&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;noauthor_tei_nodate-1&#34;&gt;
+        &lt;dt&gt;
+          
+          (N.A.)
+
+          
+          (n.d.)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Chapter&#34;
+      data-type=&#34;chapter&#34;&gt;
+  
+  (N.A.).
+  &amp;#32;
+  (n.d.).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;TEI Guidelines for Electronic Text Encoding and Interchange 12: Print Dictionaries&lt;/span&gt;..
+  &amp;#32;Retrieved from&amp;#32;
+  &lt;a href=&#34;https://files.ifi.uzh.ch/cl/volk/LexMorphVorl/TEI.Dictionary.Tags.html&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://files.ifi.uzh.ch/cl/volk/LexMorphVorl/TEI.Dictionary.Tags.html&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;romary_consistent_2012&#34;&gt;
+        &lt;dt&gt;
+          Romary&amp;#32;&amp;amp;&amp;#32;Wegstein
+
+          
+          (2012)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Romary&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Laurent&#34; /&gt;
+    L.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Wegstein&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Werner&#34; /&gt;
+    W.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2012&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;Consistent Modeling of Heterogeneous Lexical Structures&lt;/span&gt;.&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;Journal of the Text Encoding Initiative&lt;/span&gt;(Issue 3)&lt;/i&gt;.
+  &lt;a href=&#34;https://doi.org/10.4000/jtei.540&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://doi.org/10.4000/jtei.540&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;salmon-alt_modelling_2005&#34;&gt;
+        &lt;dt&gt;
+          Salmon-Alt,&amp;#32;
+          Romary&amp;#32;&amp;amp;&amp;#32;Buchi
+
+          
+          (2005)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Salmon-Alt&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Susanne&#34; /&gt;
+    S.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Romary&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Laurent&#34; /&gt;
+    L.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Buchi&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Eva&#34; /&gt;
+    E.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2005&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;Modelling diachrony in dictionaries&lt;/span&gt;.&amp;#32;&lt;span itemprop=&#34;pagination&#34;&gt;3&lt;/span&gt;.&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;terence_langendoen_rationale_1995&#34;&gt;
+        &lt;dt&gt;
+          Terence Langendoen&amp;#32;&amp;amp;&amp;#32;Simons
+
+          
+          (1995)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Terence Langendoen&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;D.&#34; /&gt;
+    D.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Simons&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Gary F.&#34; /&gt;
+    G.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;1995&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;A rationale for the TEI recommendations for feature-structure markup&lt;/span&gt;.&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;Computers and the Humanities&lt;/span&gt;,&amp;#32;29(3)&lt;/i&gt;.&amp;#32;&lt;span itemprop=&#34;pagination&#34;&gt;191–209&lt;/span&gt;.
+  &lt;a href=&#34;https://doi.org/10.1007/BF01830616&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://doi.org/10.1007/BF01830616&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;trippel_lexicon_2008&#34;&gt;
+        &lt;dt&gt;
+          Trippel,&amp;#32;
+          Maxwell,&amp;#32;
+          Corbett,&amp;#32;
+          Prince,&amp;#32;
+          Manning,&amp;#32;
+          Grimes&amp;#32;&amp;amp;&amp;#32;Moran
+
+          
+          (2008)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Trippel&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Thorsten&#34; /&gt;
+    T.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Maxwell&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Michael&#34; /&gt;
+    M.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Corbett&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Greville&#34; /&gt;
+    G.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Prince&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Cambell&#34; /&gt;
+    C.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Manning&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Christopher&#34; /&gt;
+    C.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Grimes&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Stephen&#34; /&gt;
+    S.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Moran&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Steve&#34; /&gt;
+    S.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2008&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;Lexicon Schemas and Related Data Models:when Standards Meet Users&lt;/span&gt;.&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;Proceedings of the Sixth International Conference on Language Resources and Evaluation (LREC&amp;#39;08)&lt;/span&gt;&lt;/i&gt;.&amp;#32;&lt;span itemprop=&#34;pagination&#34;&gt;3205–3212&lt;/span&gt;.&amp;#32;Retrieved from&amp;#32;
+  &lt;a href=&#34;www.lrec-conf.org/proceedings/lrec2008/pdf/812_paper.pdf&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;www.lrec-conf.org/proceedings/lrec2008/pdf/812_paper.pdf&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;tutin_electronic_1998&#34;&gt;
+        &lt;dt&gt;
+          Tutin&amp;#32;&amp;amp;&amp;#32;Véronis
+
+          
+          (1998)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/CreativeWork&#34;
+      data-type=&#34;paper-conference&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Tutin&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Agnès&#34; /&gt;
+    A.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Véronis&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Jean&#34; /&gt;
+    J.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;1998&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;
+    &lt;i&gt;Electronic Dictionary Encoding: Customizing the TEI Guidelines&lt;/i&gt;&lt;/span&gt;.
+  &lt;/span&gt;
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;tutin_electronic_nodate&#34;&gt;
+        &lt;dt&gt;
+          Tutin&amp;#32;&amp;amp;&amp;#32;Véronis
+
+          
+          (n.d.)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Tutin&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Agnès&#34; /&gt;
+    A.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Véronis&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Jean&#34; /&gt;
+    J.&lt;/span&gt;
+  &amp;#32;
+  (n.d.).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;Electronic Dictionary Encoding: Customizing the TEI Guidelines&lt;/span&gt;.&amp;#32;&lt;span itemprop=&#34;pagination&#34;&gt;12&lt;/span&gt;.&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;utrecht_university_nl_making_2017&#34;&gt;
+        &lt;dt&gt;
+          &amp;#32;&amp;amp;&amp;#32;Odijk
+
+          
+          (2017)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Chapter&#34;
+      data-type=&#34;chapter&#34;&gt;
+  
+  (N.A.).
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2017&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;Making the Dictionary of the Frisian Language Available in the Dutch Historical Dictionary Portal&lt;/span&gt;.&amp;#32;In&amp;#32;&lt;span itemprop=&#34;editor&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;editor&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Odijk&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Jan&#34; /&gt;
+    J.&lt;/span&gt; (Eds.),&amp;#32;&lt;span itemprop=&#34;about&#34;&gt;
+    &lt;i&gt;CLARIN in the Low Countries&lt;/i&gt;&lt;/span&gt;.&amp;#32;(&lt;span&gt;pp.&amp;#32;151–165&lt;/span&gt;).
+  &lt;meta itemprop=&#34;contentLocation&#34;
+        value=&#34;London, UK&#34;&gt;&amp;#32;&lt;span itemprop=&#34;publisher&#34;
+               itemtype=&#34;http://schema.org/Organization&#34;
+               itemscope=&#34;&#34;&gt;
+      &lt;span itemprop=&#34;name&#34;&gt;Ubiquity Press&lt;/span&gt;&lt;/span&gt;.
+  &lt;a href=&#34;https://doi.org/10.5334/bbi.13&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://doi.org/10.5334/bbi.13&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+  &lt;/dl&gt;
+&lt;/section&gt;
+
+
+
+</description>
     </item>
     
     <item>
@@ -4493,7 +8587,7 @@ Existing keyboard layouts for the languages of the texts in question will be ana
     <item>
       <title>Create Annotated Bibliography Style Sheet in Endnote</title>
       <link>https://hughandbecky.us/Hugh-CV/post/create-annotated-bibliography-style-sheet-in-endnote/</link>
-      <pubDate>Wed, 21 Jan 2015 14:14:38 -0700</pubDate>
+      <pubDate>Thu, 15 Jan 2015 21:14:38 -0700</pubDate>
       <guid>https://hughandbecky.us/Hugh-CV/post/create-annotated-bibliography-style-sheet-in-endnote/</guid>
       <description>&lt;div id=&#34;watch&#34;&gt;
 
@@ -4502,7 +8596,8 @@ Existing keyboard layouts for the languages of the texts in question will be ana
 &lt;/div&gt;
 
 &lt;/div&gt;
-A 6 minute introduction to craftin a personalized style sheet for an annotated bibliography in Endnote.</description>
+A 6 minute introduction to crafting a personalized style sheet for an annotated bibliography in EndNote.
+</description>
     </item>
     
     <item>
@@ -4654,6 +8749,129 @@ A position statement on data citation and attribution in our field.
     </item>
     
     <item>
+      <title>Mass Import to Endnote</title>
+      <link>https://hughandbecky.us/Hugh-CV/post/mass-import-to-endnote/</link>
+      <pubDate>Sat, 13 Jul 2013 14:35:45 +0100</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/post/mass-import-to-endnote/</guid>
+      <description>&lt;p&gt;This summer (June-August) I added 629 new citation to 
+&lt;a href=&#34;https://endnote.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EndNote&lt;/a&gt; - mostly by hand. Of those citation 392 of them had PDFs attached to the citation. I am ready to learn how to more effectively use EndNote. I estimate that I still have 450 PDFs in various folders from courses and research trips to the library over the last few years that I need to add to EndNote.&lt;/p&gt;
+&lt;p&gt;I usually try and download &lt;code&gt;.ris&lt;/code&gt; files when I find a resource I want to reference or use. The problem I have is that EndNote X6 does not allow for importing more than one &lt;code&gt;.ris&lt;/code&gt; file at a time.&lt;/p&gt;
+&lt;p&gt;To speed up the process I have learned to use the OS X Concatenate command in terminal: &lt;code&gt;cat&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;I open up terminal. Type &lt;code&gt;cd&lt;/code&gt; drag my folder containing the &lt;code&gt;.ris&lt;/code&gt; files I want to add to EndNote over the blinking cursor and hit enter. I then type &lt;code&gt;cat&lt;/code&gt; and drag all the &lt;code&gt;.ris&lt;/code&gt; files I want to concatenate to one &lt;code&gt;.ris&lt;/code&gt; file.&lt;/p&gt;
+
+
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-command-line-draging-a-path-into-the-terminal&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/mass-import-to-endnote/references-folder_hu32c096761f8736ba2671964aa27d9564_16087_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Command line: draging a path into the terminal.&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/mass-import-to-endnote/references-folder_hu32c096761f8736ba2671964aa27d9564_16087_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;Command line: draging a path into the terminal&#34; width=&#34;663&#34; height=&#34;450&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;p&gt;Command line: draging a path into the terminal.
+      
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: 
+Hugh Paterson III
+&lt;/span&gt;
+&lt;/p&gt;
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;Type a &lt;code&gt;&amp;gt;&lt;/code&gt; symbol and the new &lt;code&gt;.ris&lt;/code&gt; file&amp;rsquo;s name. The result is a concatenation of all the data from the many &lt;code&gt;.ris&lt;/code&gt; files into one &lt;code&gt;.ris&lt;/code&gt; file. This allows me to go back to EndNote and import all the one massive &lt;code&gt;.ris&lt;/code&gt; file and save clicks.&lt;/p&gt;
+&lt;p&gt;One can also use the star/wildcard character like this &lt;code&gt;$ cat *.ris &amp;gt; new.ris&lt;/code&gt;. This will concatenate all the .ris files within the folder into the &lt;code&gt;new.ris&lt;/code&gt; file.&lt;/p&gt;
+
+
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-command-line-draging-a-path-into-the-terminal&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/mass-import-to-endnote/commandline-example_hub045d3573b155fc84ef5b63eb5898357_12919_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Command line: draging a path into the terminal.&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/mass-import-to-endnote/commandline-example_hub045d3573b155fc84ef5b63eb5898357_12919_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;Command line: draging a path into the terminal&#34; width=&#34;1019&#34; height=&#34;457&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;p&gt;Command line: draging a path into the terminal.
+      
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: 
+Hugh Paterson III
+&lt;/span&gt;
+&lt;/p&gt;
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Curation workflow networks at the Language &amp; Culture Archives</title>
       <link>https://hughandbecky.us/Hugh-CV/post/lca-curation-workflow-network/</link>
       <pubDate>Thu, 23 May 2013 14:35:45 +0100</pubDate>
@@ -4720,6 +8938,433 @@ A position statement on data citation and attribution in our field.
 &lt;a href=&#34;https://hughandbecky.us/Hugh-CV/publication/2013-challenges-ramp&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;an upcoming presentation&lt;/a&gt;, therefore I sketched out the interactions various SIL staff might have with the archive to see if I could diagram the social interactions around language data in SIL’s two sided market. To my surprise, the two sided nature of access to data in the archive is not supported, thereby blocking a data-centric archiving service. It makes me wonder what the perceived value of the archive really is, and if the perceived value is low, then why bother? What is the return on investment (ROI) for users on either side of the market?&lt;/p&gt;
 &lt;p&gt;I tried to summarize the relationships between the various clients of the archive in the following image.
 &lt;img src=&#34;https://hughandbecky.us/Hugh-CV/post/the-sil-archive-and-its-two-sided-markets/SIL-Archive-and-its-two-sided-markets.jpg&#34; alt=&#34;SIL Archive and its two multi-sided market representation&#34; title=&#34;SIL Archive and its two multi-sided market representation&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Using EndNote X4 for Mac</title>
+      <link>https://hughandbecky.us/Hugh-CV/post/using-endnote-x4-for-mac/</link>
+      <pubDate>Thu, 10 Feb 2011 14:35:45 +0100</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/post/using-endnote-x4-for-mac/</guid>
+      <description>&lt;p&gt;One of the most popular Citation Management software applications among academics is the application &lt;em&gt;EndNote&lt;/em&gt;. 
+&lt;a href=&#34;https://endnote.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EndNote&lt;/a&gt; has a long history is published by a reputable company, and has some pretty cool features. I use it (version X4) primarily because it is the only citation software&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; which integrates natively with the word processor &lt;em&gt;Pages&lt;/em&gt;, by Apple, Inc. The software boasts a bit of flexibility and quite a few useful features. Some of the really useful features I use are below.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Customizing the output style of the bibliographies.&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+&lt;li&gt;Looking for PDF files.&lt;/li&gt;
+&lt;li&gt;Attaching additional meta-data to each citation. (Like ISO 639-3 Language Codes)&lt;/li&gt;
+&lt;li&gt;Adding additional types of resources like 
+&lt;a href=&#34;http://roa.rutgers.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Rutgers Optimality Archive&lt;/a&gt; Documents with an ROA number.&lt;/li&gt;
+&lt;li&gt;Smart Groups of files based on desired criteria.&lt;/li&gt;
+&lt;li&gt;Integration with Apple&amp;rsquo;s word processor Pages.&lt;/li&gt;
+&lt;li&gt;Research Notes section in the citation&amp;rsquo;s file for creating an annotated bibliography.&lt;/li&gt;
+&lt;li&gt;Copy our all the selected works, so that they can be pasted as a bibliography in another document.&lt;/li&gt;
+&lt;li&gt;XML Output of Citation Data&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The XML Support of Endnote has not been hailed as the greatest implementation of XML but there are tools out there to work with it.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.uns.ethz.ch/pub/publications/xml_format&#34;&gt;&lt;a href=&#34;http://www.uns.ethz.ch/pub/publications/xml_format&#34;&gt;http://www.uns.ethz.ch/pub/publications/xml_format&lt;/a&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.thau-knudsen.dk/weblog/pmachine/it-weblog_comments.php?id=59_0_2_0_C&#34;&gt;XSL Transformation stylesheet for EndNote XML&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;However, regardless of how many good features I find and use in Endnote there are several things about it which irk me to no end. This is sort of a laundry list of these problematic areas.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;del datetime=&#34;2011-03-01T04:15:36+00:00&#34;&gt;Can not sort by resource type&lt;/del&gt;:
+&lt;em&gt;For instance if I wanted to sort or create a smart list of all my Book references, or just Journal Articles.&lt;/em&gt; This can be done, one just has to create a smart list and then set &lt;em&gt;Reference Type&lt;/em&gt; to &lt;em&gt;Contains&lt;/em&gt;: &amp;ldquo;Book Section&amp;rdquo;. There is not a drop down list of reference types invoked by the user.&lt;/li&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;del datetime=&#34;2011-02-24T16:23:52+00:00&#34;&gt;Can not sort by custom field&lt;/del&gt;:
+&lt;em&gt;I think you can do this in the interface. Though it was not obvious on how to do it.&lt;/em&gt; 
+
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-endnote-display-fields&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/using-endnote-x4-for-mac/Endnote_Display_Fields_hu6175e2e8318e865aaff9b1ae3a8c3023_108510_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Endnote Display Fields.&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/using-endnote-x4-for-mac/Endnote_Display_Fields_hu6175e2e8318e865aaff9b1ae3a8c3023_108510_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;Endnote Display Fields&#34; width=&#34;724&#34; height=&#34;466&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;p&gt;Endnote Display Fields.
+      
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: 
+Hugh Paterson III
+&lt;/span&gt;
+&lt;/p&gt;
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Can not view all the custom fields for a resource type across all resources.
+&lt;em&gt;This seems to be limited to eight fileds in the sorting viewer at a time.&lt;/em&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;del datetime=&#34;2011-02-24T16:23:52+00:00&#34;&gt;Can not view all entries without content in a specified field.&lt;/del&gt;
+&lt;em&gt;This would be especially nice to create a smart list for this.&lt;/em&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;No exports of PDFs or exports of PDFs with &lt;code&gt;.ris&lt;/code&gt; files.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;There is no keyboard short-cut to bring up the &lt;em&gt;Import function&lt;/em&gt; (or &lt;em&gt;Export&lt;/em&gt;) under &lt;strong&gt;File Menu&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Does not rename PDFs based on metadata of the resource.
+&lt;em&gt;This is possible with 
+&lt;a href=&#34;https://www.papersapp.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Papers&lt;/a&gt; and &lt;a href=&#34;http://www.mendeley.com/&#34;&gt;Mendeley&lt;/a&gt;. The user has the option to rename the file based on things like Author, Date of publication, etc.&lt;/em&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Can not create a smart list based on a constant in the Issue data part.
+&lt;em&gt;I have Volume and Issue Data. Some of the citation data pulled in for some items has the issue set as 02, 03, etc. I want to be able to find all the issues which start with a zero so I can remove the zeros. Most stylesheets do not remove the zeros and also do not allow for them&lt;/em&gt;.
+
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-items-are-not-selectable-based-on-issue-data&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/using-endnote-x4-for-mac/Issue_data_hu6175e2e8318e865aaff9b1ae3a8c3023_170476_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Items are not selectable based on Issue Data.&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/using-endnote-x4-for-mac/Issue_data_hu6175e2e8318e865aaff9b1ae3a8c3023_170476_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;Items are not selectable based on Issue Data&#34; width=&#34;748&#34; height=&#34;900&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;p&gt;Items are not selectable based on Issue Data.
+      
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: 
+Hugh Paterson III
+&lt;/span&gt;
+&lt;/p&gt;
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Can not export PDFs with embedded metadata in the PDF.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Can not open the folder which contains a PDF included in an Endnote Library.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+
+
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-endnote-does-not-have-a-way-to-open-the-containing-folder-of-a-pdf&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/using-endnote-x4-for-mac/_hu6175e2e8318e865aaff9b1ae3a8c3023_309625_77c2b327ef372c8dec87fdc16cb9099e.jpg&#34; data-caption=&#34;Endnote does not have a way to open the containing folder of a PDF.&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/using-endnote-x4-for-mac/_hu6175e2e8318e865aaff9b1ae3a8c3023_309625_77c2b327ef372c8dec87fdc16cb9099e.jpg&#34; class=&#34;lazyload&#34; alt=&#34;Endnote does not have a way to open the containing folder of a PDF&#34; width=&#34;1440&#34; height=&#34;900&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;p&gt;Endnote does not have a way to open the containing folder of a PDF.
+      
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: 
+Hugh Paterson III
+&lt;/span&gt;
+&lt;/p&gt;
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-endnote-does-not-have-a-way-to-open-the-containing-folder-of-an-included-pdf&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/using-endnote-x4-for-mac/_hu6175e2e8318e865aaff9b1ae3a8c3023_44705_d588c9cd8c507a3a0886c75d1395a4e2.jpg&#34; data-caption=&#34;Endnote does not have a way to open the containing folder of an included PDF.&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/using-endnote-x4-for-mac/_hu6175e2e8318e865aaff9b1ae3a8c3023_44705_d588c9cd8c507a3a0886c75d1395a4e2.jpg&#34; class=&#34;lazyload&#34; alt=&#34;Endnote does not have a way to open the containing folder of an included PDF&#34; width=&#34;495&#34; height=&#34;360&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;p&gt;Endnote does not have a way to open the containing folder of an included PDF.
+      
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: 
+Hugh Paterson III
+&lt;/span&gt;
+&lt;/p&gt;
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;ol start=&#34;11&#34;&gt;
+&lt;li&gt;
+&lt;p&gt;Modifying  Resource type does not accept |Language| Subject Language|&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;del datetime=&#34;2011-02-24T16:23:52+00:00&#34;&gt;There is no guide in any of Endnote&amp;rsquo;s documentation for how to create an export style sheet.&lt;/del&gt;
+This is in the Help Menus I was expecting it on the producers website or in a book.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;When editing an entry&amp;rsquo;s meta-data &lt;em&gt;i.e. the author, or the title of a work&lt;/em&gt;, pressing TAB does not move the cursor to the next field.
+&lt;em&gt;At least some times it does not continue to TAB. If I do a new entry as a Journal article, then it will tab till the issue field, but not beyond. It gets stuck.&lt;/em&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;There is no LAN collaboration or sharing feature for a local network solution.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;There is no Cloud based collaborative solution.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;There is no way to create a smart group based off of a subset of items in a normal group.
+i.e. I want to create a smart group of all the references with a PDF attached but I only want it to pull from the items in a particular group (or set of groups).&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+
+
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-endnote-has-no-option-for-part-of-group-filter&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/using-endnote-x4-for-mac/Endnote_no_option_for_part_of_group_filter_hu6175e2e8318e865aaff9b1ae3a8c3023_255471_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Endnote has no option for &amp;#39;part of group&amp;#39; filter.&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/using-endnote-x4-for-mac/Endnote_no_option_for_part_of_group_filter_hu6175e2e8318e865aaff9b1ae3a8c3023_255471_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;Endnote has no option for \&amp;#39;part of group\&amp;#39; filter&#34; width=&#34;1440&#34; height=&#34;900&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;p&gt;Endnote has no option for &#39;part of group&#39; filter.
+      
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: 
+Hugh Paterson III
+&lt;/span&gt;
+&lt;/p&gt;
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;ol start=&#34;17&#34;&gt;
+&lt;li&gt;There is no PDF Preview within the application. The existing Preview is for seeing the current citation in the selected citation style. (Preview of the output.) It would be helpful if there was also a preview pane for viewing the PDF or the attached file.&lt;/li&gt;
+&lt;/ol&gt;
+
+
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-no-pdf-preview-internal-to-endnote&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/using-endnote-x4-for-mac/No_PDF_Preview_internal_to_Endnote_hu6175e2e8318e865aaff9b1ae3a8c3023_245019_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;No PDF Preview internal to Endnote.&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/using-endnote-x4-for-mac/No_PDF_Preview_internal_to_Endnote_hu6175e2e8318e865aaff9b1ae3a8c3023_245019_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;No PDF Preview internal to Endnote&#34; width=&#34;1290&#34; height=&#34;877&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;p&gt;No PDF Preview internal to Endnote.
+      
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: 
+Hugh Paterson III
+&lt;/span&gt;
+&lt;/p&gt;
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;There are other citation management software for OS X which claims integration with Apple&amp;rsquo;s &lt;em&gt;Pages&lt;/em&gt; but none of these solutions are endorsed or supported by Apple. Some of the other applications which claim integration with &lt;a href=&#34;http://www.apple.com/iwork/pages/&#34;&gt;Pages&lt;/a&gt; are: 1) &lt;a href=&#34;http://www.thirdstreetsoftware.com/site/SenteBibliographies.html&#34;&gt;Sente&lt;/a&gt;, 2) &lt;a href=&#34;http://sonnysoftware.com/bookends/bookends.html&#34;&gt;Bookends&lt;/a&gt;, and 3) &lt;a href=&#34;http://www.mekentosj.com&#34;&gt;Papers&lt;/a&gt; - This is &lt;a href=&#34;http://en.wikipedia.org/wiki/Comparison_of_reference_management_software#Word_processor_integration&#34;&gt;according to Wikipedia&lt;/a&gt;, but I own and use Papers 1.9.7 and have not seen how to integrate it with Pages. (However, Papers2, released March 8th, 2011 does say that it supports citation integration with Pages.). &lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;There are several Linguistics Journals with style sheets on 
+&lt;a href=&#34;http://endnote.com/downloads/styles&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EndNote&amp;rsquo;s website&lt;/a&gt;. Among them are: Linguistic Inquiry, Journal of the International Phonetic Association, Phonology, Lingua, Journal of Phonetics, and Language. Additionally there is a version of the Unified Linguistics Style Sheet available for Endnote. This is available from Manchester UK. &lt;a href=&#34;https://web.archive.org/web/20120829004722/http://www.llc.manchester.ac.uk/intranet/ug/useful-links/computing-resources/wordprocessing/&#34;&gt;https://web.archive.org/web/20120829004722/http://www.llc.manchester.ac.uk/intranet/ug/useful-links/computing-resources/wordprocessing/&lt;/a&gt;. [&lt;a href=&#34;https://web.archive.org/web/20120829004722/http://www.humanities.manchester.ac.uk/medialibrary/llc/files/LEL/Unified%20style%20sheet.ens&#34;&gt;.ens file&lt;/a&gt;] &lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/section&gt;
 </description>
     </item>
     

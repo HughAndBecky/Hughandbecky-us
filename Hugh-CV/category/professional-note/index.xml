@@ -46,7 +46,7 @@
     </item>
     
     <item>
-      <title>Presenting oral texts with transcriptions online</title>
+      <title>Presenting Oral Texts with Transcriptions Online</title>
       <link>https://hughandbecky.us/Hugh-CV/post/presenting-oral-texts-with-transcriptions-online/</link>
       <pubDate>Sun, 21 Mar 2021 01:41:38 -0700</pubDate>
       <guid>https://hughandbecky.us/Hugh-CV/post/presenting-oral-texts-with-transcriptions-online/</guid>
@@ -62,7 +62,7 @@
 &lt;blockquote&gt;
 &lt;p&gt;EXMARaLDA is a system for working with oral corpora on a computer. It consists of a transcription and annotation tool (Partitur-Editor), a tool for managing corpora (Corpus-Manager) and a query and analysis tool (EXAKT)&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;I have used this three way distinction to catagorize some of the different software options available.&lt;/p&gt;
+&lt;p&gt;I have used this three way distinction to catagorize some of the different software options available for browser based interactions with IGT data&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
 
 
 
@@ -117,7 +117,7 @@ Hugh Paterson III
 
 &lt;/figure&gt;
 
-&lt;!-- For example many publishers use or require Leipzig glossing rules which point to a &#34;standard&#34; set of abbreviations, to be used in print publications. However, these abbreviations do not have a concrete set of definitions. Therefore one can never be exactly sure what an author means when they use these abbreviations (but in general shared conventions are more helpful than not). What I have noticed with respect to these abbreviations is that due to the mental/visual prominence the abbreviations have in print media, they are often being used in corpus annotations. To complicate matters, when additional annotations are needed but are not present in the Leipzig Glossing Rules chaos ensues. That is, authors choose to create their own abbreviations on an ad-hoc basis. Additionally abbreviations used in the Leipzig Glossing Rules by field linguists are often different from those used by computational linguists working on TreeBanks or WordNets creating a gap in the cross-discipline uses of corpora.  http://inl.github.io/BlackLab/ https://github.com/INL/BlackLab  https://corpus-analysis.com/ https://github.com/timarkh/tsakorpus--&gt;
+&lt;!-- For example many publishers use or require Leipzig glossing rules which point to a &#34;standard&#34; set of abbreviations, to be used in print publications. However, these abbreviations do not have a concrete set of definitions. Therefore one can never be exactly sure what an author means when they use these abbreviations (but in general shared conventions are more helpful than not). What I have noticed with respect to these abbreviations is that due to the mental/visual prominence the abbreviations have in print media, they are often being used in corpus annotations. To complicate matters, when additional annotations are needed but are not present in the Leipzig Glossing Rules chaos ensues. That is, authors choose to create their own abbreviations on an ad-hoc basis. Additionally abbreviations used in the Leipzig Glossing Rules by field linguists are often different from those used by computational linguists working on TreeBanks or WordNets creating a gap in the cross-discipline uses of corpora. --&gt;
 &lt;p&gt;While what is presented in terms of the content is still very important, &lt;em&gt;how&lt;/em&gt; it is presented in an interactive mode is also important. That is, how is the experience crafted around the audio or video and the transcribed segments in terms of the &lt;em&gt;interaction design&lt;/em&gt; and &lt;em&gt;visual design&lt;/em&gt;? I started to compile a list of these interactions which I present below. However, two significant components are influential in the life cycle of software and hence these interactions. First, the viral nature of the interaction, i.e., how easy is it to propagate the interaction in new contexts. Second, what is the life cycle of the technology undergirding the browser based experience? That is, how does the technology choice expose the user to obsolecence and technolgical debt. These two factors should be top ranking considerations when a project desires to &amp;ldquo;publish&amp;rdquo; or present interlinear texts online. In addition to these two factors, the following three design considerations will also impact the sustainability and maintainability of the online presence for the corpora and ought to be considered while planning for implementation.&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;The first consideration is, &lt;em&gt;is there a required separation between data (content) and presentation?&lt;/em&gt; By separating on these lines the code produced to present the interlinear text can be re-used liberally across texts and projects, and the visual presentation can be adjusted and applied to texts at scale.&lt;/li&gt;
@@ -125,7 +125,7 @@ Hugh Paterson III
 &lt;li&gt;The third consideration is &lt;em&gt;what is the purpose of the web-presentation?&lt;/em&gt; There are different classes of tools with respect to interlinear glossed texts. Arguably, the one of primary importance is the archived version. That is, where is the text archived and can the archived version&amp;rsquo;s annotation be viewed while the audio is heard at the same time. A secondary consideration then is the working copy, or what can one &lt;em&gt;do&lt;/em&gt; with the interlinear glossed text and how easy is it for people other than the author of the interlinear glossed text to do comparative searching across the text or in conjunction with other texts. Then a third consideration, is how is the canonical reference of the archived version persisted through to the working copy. That is, if the interlinear glossed text it loaded into an online system for investigation, does that system create new identifiers for the searches conducted or does it respect existing identifiers?&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;With these issues in mind I have been collecting images of the visual presentation of interlinear glossed texts online. In addition to my purpose for looking at ongoing evolution of the technical presentation of interlinear glossed text, I have been looking for a system that meets the requirements of points number one and two for use on a portfolio website like mine. Stated another way, I am looking for a tool which takes ELAN or FLExTexts and matches them with audio or video in the browser, rather than on a server. I want the tool to be limited to HTML5, JavaScript, and CSS3+.&lt;/p&gt;
-&lt;p&gt;This is just a short list of tools for presenting time-aligned texts online. These would be in the middle category of the illustration above as they are designed for presentation and discovery of the resource rather than information extraction&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+&lt;p&gt;This is just a short list of tools for presenting time-aligned texts online. These would be in the middle category of the illustration above as they are designed for presentation and discovery of the resource rather than information extraction&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;requires-no-database&#34;&gt;Requires no Database&lt;/h2&gt;
 &lt;h3 id=&#34;leipzigjs&#34;&gt;Leipzig.js&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;Produced by&lt;/strong&gt;: Ben Chauvette&lt;br/&gt;
@@ -382,6 +382,108 @@ Lise &amp;amp; Douglas
 
 &lt;/figure&gt;
 &lt;/p&gt;
+&lt;h3 id=&#34;california-state-university-long-beach-interface&#34;&gt;California State University Long Beach Interface&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Produced by&lt;/strong&gt;: Michael Ahland &amp;amp; Cem Demir as part of the Pahka&amp;rsquo;anil Text Project&lt;br/&gt;
+&lt;strong&gt;Links&lt;/strong&gt;: &lt;a href=&#34;https://web.csulb.edu/projects/lingresearch/pahka&#39;anil/text/bat-and-horsefly&#34;&gt;https://web.csulb.edu/projects/lingresearch/pahka&#39;anil/text/bat-and-horsefly&lt;/a&gt;&lt;br/&gt;
+&lt;strong&gt;Notes&lt;/strong&gt;: This interaction does not appear to be downloadable as a re-usable/re-deployable package. However, the files are completly accessable for grabbing and subsequent modification. The setup currently uses 
+&lt;a href=&#34;https://wavesurfer-js.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;wavesurfer.js&lt;/a&gt; for media interaction and 
+&lt;a href=&#34;https://en.wikipedia.org/wiki/WebVTT&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;.vtt&lt;/a&gt; files, which are type of sub-title file. In an alternative to using to the use of &lt;code&gt;.vtt&lt;/code&gt; files is to use an 
+&lt;a href=&#34;https://wavesurfer-js.org/example/elan/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;existing wavesurfer.js plugin built for use with ELAN files&lt;/a&gt;. One major difference between these presentations is the orientation of the table which presents the interlinear glossed texts.&lt;/p&gt;
+
+
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/presenting-oral-texts-with-transcriptions-online/CSULB_hudb0370fef0e167a80649bdef8b646f78_129500_2000x2000_fit_lanczos_2.png&#34; &gt;
+
+
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/presenting-oral-texts-with-transcriptions-online/CSULB_hudb0370fef0e167a80649bdef8b646f78_129500_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;mulit-cast screenshot&#34; width=&#34;1843&#34; height=&#34;835&#34;&gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+&lt;h3 id=&#34;wavesurferjs--elan&#34;&gt;wavesurfer.js + ELAN&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Produced by&lt;/strong&gt;: J. Reuben Wetherbee&lt;br/&gt;
+&lt;strong&gt;Links&lt;/strong&gt;: &lt;a href=&#34;https://wavesurfer-js.org/example/elan/index.html&#34;&gt;https://wavesurfer-js.org/example/elan/index.html&lt;/a&gt; ; &lt;a href=&#34;https://wavesurfer-js.org/example/elan-wave-segment/index.html&#34;&gt;https://wavesurfer-js.org/example/elan-wave-segment/index.html&lt;/a&gt;&lt;br/&gt;
+&lt;strong&gt;Notes&lt;/strong&gt;: The ELAN plugin to wavesurfer.js was authored by 
+&lt;a href=&#34;https://github.com/katspaugh/wavesurfer.js/pull/1052&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;J. Reuben Wetherbee&lt;/a&gt;. It appears in the wavesurfer.js documentation examples, but not in the 
+&lt;a href=&#34;https://wavesurfer-js.org/plugins/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;main site&amp;rsquo;s list of plugins&lt;/a&gt;. Video.js is another project which can 
+&lt;a href=&#34;https://collab-project.github.io/videojs-wavesurfer/#/examples&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;display video and text tracts&lt;/a&gt;. There is also 
+&lt;a href=&#34;https://collab-project.github.io/videojs-wavesurfer/#/plugins&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;a plugin which connects video.js to wavesurfer.js&lt;/a&gt; [
+&lt;a href=&#34;https://github.com/collab-project/videojs-wavesurfer&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Github repo&lt;/a&gt; ]. So it seems that there might be a possibility to use one of either of these methods to present text annotations from ELAN and video together. However, I have not found any examples of this yet.&lt;/p&gt;
+
+
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/presenting-oral-texts-with-transcriptions-online/ELAN-wavesurfer_hu0f61d3cc2abf421572dfe77fb5597d70_75522_2000x2000_fit_lanczos_2.png&#34; &gt;
+
+
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/presenting-oral-texts-with-transcriptions-online/ELAN-wavesurfer_hu0f61d3cc2abf421572dfe77fb5597d70_75522_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;ELAN wavesurfer interface&#34; width=&#34;920&#34; height=&#34;776&#34;&gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
 &lt;h2 id=&#34;require-back-end-databases&#34;&gt;Require Back-end Databases&lt;/h2&gt;
 &lt;h3 id=&#34;ethnographic-e-research-online-presentation-system-eopas&#34;&gt;Ethnographic E-Research Online Presentation System (EOPAS)&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;Produced by&lt;/strong&gt;: Nick Thieberger 
@@ -478,7 +580,120 @@ Lise &amp;amp; Douglas
 
 &lt;/span&gt;&lt;/span&gt;&lt;br/&gt;
 &lt;strong&gt;Links&lt;/strong&gt;: &lt;a href=&#34;https://github.com/eopas/eopas&#34;&gt;https://github.com/eopas/eopas&lt;/a&gt;&lt;br/&gt;
-&lt;strong&gt;Note&lt;/strong&gt;: This was one of the earliest online presentations which linked grammars with texts. However, the system does not support collaborative editing or the creation of texts. It was originally designed to work with Toolbox formatted data. It is open source and available via Github.&lt;/p&gt;
+&lt;strong&gt;Note&lt;/strong&gt;: This was one of the earliest online presentations which linked grammars with texts. However, the system does not support collaborative editing or the creation of texts. It was originally designed to work with Toolbox formatted data, with other IGT formats support added later. It is open source and available via Github. It provides direct links to specific segments of the artifacts for the purpose of citation and referencing.&lt;/p&gt;
+
+
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-screenshot-of-eopas&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/presenting-oral-texts-with-transcriptions-online/eopas_hu3800efd0c53c43f441e1c6b75aa4780d_791550_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Screenshot of Eopas&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/presenting-oral-texts-with-transcriptions-online/eopas_hu3800efd0c53c43f441e1c6b75aa4780d_791550_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;Screenshot of Eopa&#34; width=&#34;1026&#34; height=&#34;775&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;p&gt;Screenshot of Eopas
+      
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: 
+Nick Thieberger
+&lt;/span&gt;
+&lt;/p&gt;
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;h3 id=&#34;nabu-collection-viewer&#34;&gt;Nabu collection viewer&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Produced by&lt;/strong&gt;: Nick Thieberger&lt;br/&gt;
+&lt;strong&gt;Links&lt;/strong&gt;: &lt;a href=&#34;https://github.com/CoEDL/nabu-collection-viewer-v1&#34;&gt;https://github.com/CoEDL/nabu-collection-viewer-v1&lt;/a&gt;&lt;br/&gt;
+&lt;strong&gt;Note&lt;/strong&gt;: In many ways this is a more modern evolution of Eopas. I can be seen when logged into 
+&lt;a href=&#34;https://catalog.paradisec.org.au/viewer/#/NT1/98007/audio/NT1-98007-98007A?transcription=NT1-98007-98007A.ixt&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PARADISEC&lt;/a&gt;.&lt;/p&gt;
+
+
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-screenshot-of-nabu-collection-viewer&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/presenting-oral-texts-with-transcriptions-online/Nabu_hu54745e7fefb1c102b9ebf913d7633783_65695_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Screenshot of Nabu Collection viewer&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/presenting-oral-texts-with-transcriptions-online/Nabu_hu54745e7fefb1c102b9ebf913d7633783_65695_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;Screenshot of Nabu Collection viewer&#34; width=&#34;1465&#34; height=&#34;857&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;p&gt;Screenshot of Nabu Collection viewer
+      
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: 
+Nick Thieberger
+&lt;/span&gt;
+&lt;/p&gt;
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
 &lt;h3 id=&#34;typecraft&#34;&gt;TypeCraft&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;Produced by&lt;/strong&gt;: 
 
@@ -726,7 +941,7 @@ Geoffrey Haig &amp;amp; Nils Norman Schiborr
      itemtype=&#34;https://schema.org/URL&#34;&gt;https://doi.org/10.1109/ICSDA.2011.6085973&lt;/a&gt;&lt;/span&gt;
 
 &lt;/span&gt;&lt;/span&gt;&lt;br/&gt;
-&lt;strong&gt;Links&lt;/strong&gt;: [Example]: &lt;a href=&#34;https://doi.org/10.24397/pangloss-0004676&#34;&gt;https://doi.org/10.24397/pangloss-0004676&lt;/a&gt;  &lt;br/&gt;
+&lt;strong&gt;Links&lt;/strong&gt;: [Example]: &lt;a href=&#34;https://doi.org/10.24397/pangloss-0004676&#34;&gt;https://doi.org/10.24397/pangloss-0004676&lt;/a&gt; &lt;br/&gt;
 &lt;strong&gt;Notes&lt;/strong&gt;: As software the Pangloss interface is not downloadable. However, it is the front face of an archived collection. It is great for referencing a particular point in an audio or transcribed textual artifact, within an the archive&amp;rsquo;s canonical location for the item. The Pangloss use of DOIs to access the components of a resource is discussed in 
 
 
@@ -820,53 +1035,6 @@ Geoffrey Haig &amp;amp; Nils Norman Schiborr
 
 &lt;/figure&gt;
 
-&lt;h3 id=&#34;california-state-university-long-beach-interface&#34;&gt;California State University Long Beach Interface&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;Produced by&lt;/strong&gt;: Michael Ahland &amp;amp; Cem Demir as part of the Pahka&amp;rsquo;anil Text Project &lt;br/&gt;
-&lt;strong&gt;Links&lt;/strong&gt;: &lt;a href=&#34;https://web.csulb.edu/projects/lingresearch/pahka&#39;anil/text/bat-and-horsefly&#34;&gt;https://web.csulb.edu/projects/lingresearch/pahka&#39;anil/text/bat-and-horsefly&lt;/a&gt;&lt;br/&gt;
-&lt;strong&gt;Notes&lt;/strong&gt;: This interaction does not appear to be downloadable.&lt;/p&gt;
-
-
-
-
-
-
-
-
-  
-
-
-
-  
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure &gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/presenting-oral-texts-with-transcriptions-online/CSULB_hudb0370fef0e167a80649bdef8b646f78_129500_2000x2000_fit_lanczos_2.png&#34; &gt;
-
-
-  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/presenting-oral-texts-with-transcriptions-online/CSULB_hudb0370fef0e167a80649bdef8b646f78_129500_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;mulit-cast screenshot&#34; width=&#34;1843&#34; height=&#34;835&#34;&gt;
-&lt;/a&gt;
-
-
-
-&lt;/figure&gt;
-
 &lt;h3 id=&#34;eastlingplayer&#34;&gt;Eastlingplayer&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;Produced by&lt;/strong&gt;:  CNRS-LACITO &amp;amp; Alexis Michaud&lt;br/&gt;
 &lt;strong&gt;Links&lt;/strong&gt;: &lt;a href=&#34;https://github.com/CNRS-LACITO/eastlingplayer&#34;&gt;https://github.com/CNRS-LACITO/eastlingplayer&lt;/a&gt;&lt;br/&gt;
@@ -875,13 +1043,22 @@ Geoffrey Haig &amp;amp; Nils Norman Schiborr
 &lt;a href=&#34;https://pangloss.cnrs.fr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;presentation interface managed by Villejuif&lt;/a&gt;; there are two interfaces). These versions of Pangloss converted ELAN files (XML) to HTML on request. As these XML files got longer they affected server-client transmission times. Technicians opted to parse these XML files into a databases to decrease load times. This is an interesting use of tools because the XML transforms could have been maintained and the HTML outputs cached or retained until XML files were updated. The alternative strategy would have not introduced PHP into the set of software required for the presentation.&lt;/p&gt;
 &lt;!-- 
 Still to finish and incorporate
-https://github.com/CoEDL/nabu-collection-viewer-v1
-
 https://scholarspace.manoa.hawaii.edu/bitstream/10125/24765/1/kaufman_finkel.pdf
 Include this in the paper https://www.kratylos.org/~kratylos/display.cgi
 
+http://michel.jacobson.free.fr/ITE/index_en.html
+
+http://emeld.org/school/case/kayardild/index.html
 Nick Paper to cite.
 https://books.google.fr/books?id=mVwVDAAAQBAJ&amp;pg=PA151&amp;lpg=PA151&amp;dq=igt+linguistic+browser&amp;source=bl&amp;ots=QYEhBW9yKU&amp;sig=ACfU3U1CnlR1QQt4CxUCiA6FAOgDhPaYHw&amp;hl=en&amp;sa=X&amp;ved=2ahUKEwjaz8Khh-XwAhXC4uAKHXSVB30Q6AEwCHoECAoQAw#v=onepage&amp;q=igt%20linguistic%20browser&amp;f=false
+
+
+IGT text formats
+https://1library.net/document/zw3dj87y-igt-xml-xml-format-interlinearized-glossed-text.html
+https://hal.archives-ouvertes.fr/hal-01895439/document
+https://dl.acm.org/doi/pdf/10.5555/1642049.1642056
+http://journals.linguisticsociety.org/elanguage/lilt/article/download/663/663-1087-1-PB.pdf
+https://sigann.github.io/LAW-XIV-2020/pdf/2020.law-1.9.pdf
  
 --&gt;
 &lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
@@ -1328,13 +1505,16 @@ https://books.google.fr/books?id=mVwVDAAAQBAJ&amp;pg=PA151&amp;lpg=PA151&amp;dq=
 &lt;hr&gt;
 &lt;ol&gt;
 &lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;Lots of software packages exist for working with corpora, large bodies of text and IGTs. The website, &lt;a href=&#34;https://corpus-analysis.com&#34;&gt;https://corpus-analysis.com&lt;/a&gt; is essentially a list of over 100 software solutions of different kinds. &lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34; role=&#34;doc-endnote&#34;&gt;
 &lt;p&gt;The tools mentioned in my diagram are the 
 &lt;a href=&#34;https://github.com/timarkh/tsakorpus&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tsakonian Corpus Platform&lt;/a&gt; which depends on 
 &lt;a href=&#34;https://www.elastic.co&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Elasticsearch&lt;/a&gt;, 
 &lt;a href=&#34;https://www.sketchengine.eu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sketch Engine&lt;/a&gt; and 
 &lt;a href=&#34;https://www.sketchengine.eu/nosketch-engine&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NoSketch Engine&lt;/a&gt;, and 
 &lt;a href=&#34;http://inl.github.io/BlackLab&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Blacklab&lt;/a&gt; which is developed by CLARIN-NL and can be found 
-&lt;a href=&#34;https://github.com/INL/BlackLab&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;on Github&lt;/a&gt;. &lt;!-- presentation on black lab https://www.clarin.eu/sites/default/files/Niestadt_BlackLab.pdf --&gt; &lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;https://github.com/INL/BlackLab&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;on Github&lt;/a&gt;. &lt;!-- presentation on black lab https://www.clarin.eu/sites/default/files/Niestadt_BlackLab.pdf --&gt; &lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;/section&gt;

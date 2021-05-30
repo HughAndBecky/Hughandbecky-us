@@ -59,5 +59,53 @@ My suspicion though is that passing the PDF through GhostSript also removes some
 </description>
     </item>
     
+    <item>
+      <title>XLingPaper Upgrade on Linux</title>
+      <link>https://hughandbecky.us/Hugh-CV/post/xlingpaper-upgrade-on-linux/</link>
+      <pubDate>Tue, 30 Oct 2018 14:35:45 +0100</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/post/xlingpaper-upgrade-on-linux/</guid>
+      <description>&lt;p&gt;I never remember how to upgrade XMLMind on Linux. Here are my notes on how to do it.&lt;/p&gt;
+&lt;p&gt;I follow the install directions here: &lt;a href=&#34;http://www.xmlmind.com/xmleditor/_distrib/doc/help/installing_xxe.html&#34;&gt;http://www.xmlmind.com/xmleditor/_distrib/doc/help/installing_xxe.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Generally, the instructions follow like those below for version 8:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Make sure that the Java™ bin/ directory is referenced in the $PATH and, at the same time, check that the Java™ runtime in the $PATH has the right version:&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;pre&gt;&lt;code&gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;A command like the following will show the java version number.
+&lt;code&gt;UserName$ java -version&lt;/code&gt; java version &amp;ldquo;10.0.1&amp;rdquo; 2018-04-17 Java(TM) SE Runtime Environment 18.3 (build 10.0.1+10) Java HotSpot(TM) 64-Bit Server VM 18.3 (build 10.0.1+10, mixed mode)&lt;/p&gt;
+&lt;p&gt;Unpack the XXE distribution inside any directory you want:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;&amp;gt;
+$ cd
+$ unzip xxe-pro-8_2_0.zip
+$ ls xxe-pro-8_2_0
+addon/
+bin/
+demo/
+doc/
+...
+&lt;/code&gt;&lt;/pre&gt;
+&lt;blockquote&gt;
+&lt;p&gt;XXE is intended to be used directly from the xxe-pro-8_2_0/ directory. That is, you can start XXE by simply executing:&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;pre&gt;&lt;code&gt;$ xxe-pro-8_2_0/bin/xxe &amp;amp;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;I can never remember what to do next. Here is the solution:&lt;/p&gt;
+&lt;p&gt;On my system &lt;code&gt;xxe &amp;amp;&lt;/code&gt; is sym-linked to the version that I want to be primary. This is done in &lt;code&gt;/usr/local/bin&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;So then there is a script in &lt;code&gt;/usr/local/bin&lt;/code&gt; which points back to the application (I don&amp;rsquo;t really know as I didn&amp;rsquo;t write it), but the point is that the symlink needs to be adjusted and can be adjusted with a combination of these tips:&lt;/p&gt;
+&lt;p&gt;Find out which version of &lt;code&gt;xxe&lt;/code&gt; the item in &lt;code&gt;local/bin&lt;/code&gt; is pointed at with the following command:
+&lt;code&gt;ls -l xxe&lt;/code&gt; Then if you want to adjust the versions one needs to over write the existing symlink. Or create a new one. In my case I changed &lt;code&gt;xxe&lt;/code&gt; to &lt;code&gt;xxe7&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Note&lt;/strong&gt; &lt;em&gt;Do not adjust &lt;code&gt;~/.bash_profile&lt;/code&gt; as that will only mess things up&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;I did this once with &lt;code&gt;export $PATH=/absolute/path/to/xxe/&lt;/code&gt;and then my machine couldn&amp;rsquo;t find &lt;code&gt;/usr/local/bin&lt;/code&gt; any more.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;If one wants an &lt;code&gt;xxe&lt;/code&gt; command then use that, but for me so that I don&amp;rsquo;t have to update the command all the time I use &lt;code&gt;xxe7&lt;/code&gt; for XMLMind version 7 and &lt;code&gt;xxe8&lt;/code&gt; and so forth.&lt;/p&gt;
+&lt;p&gt;then symlink like so:
+&lt;code&gt;cd /usr/local/bin&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;code&gt;/usr/local/bin$&lt;/code&gt;&lt;/strong&gt;&lt;code&gt; sudo ln -s /home/username/path/to/XMLMind/xxe-version-folder/bin/xxe /usr/local/bin/xxe8&lt;/code&gt;&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>
