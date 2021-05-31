@@ -5,12 +5,28 @@
     <link>https://hughandbecky.us/Hugh-CV/tag/text/</link>
       <atom:link href="https://hughandbecky.us/Hugh-CV/tag/text/index.xml" rel="self" type="application/rss+xml" />
     <description>Text</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2021</copyright><lastBuildDate>Fri, 24 Feb 2012 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2021</copyright><lastBuildDate>Mon, 18 Mar 2013 14:35:45 +0100</lastBuildDate>
     <image>
       <url>https://hughandbecky.us/Hugh-CV/media/HughPaterson.jpg</url>
       <title>Text</title>
       <link>https://hughandbecky.us/Hugh-CV/tag/text/</link>
     </image>
+    
+    <item>
+      <title>Audio Dominant Texts and Text Dominant Audio</title>
+      <link>https://hughandbecky.us/Hugh-CV/post/audio-dominant-texts-and-text-dominant-audio/</link>
+      <pubDate>Mon, 18 Mar 2013 14:35:45 +0100</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/post/audio-dominant-texts-and-text-dominant-audio/</guid>
+      <description>&lt;p&gt;As linguistics and language documentation interface with digital humanities there has been a lot of effort to time-align texts and audio/video materials. At one level this is rather trivial to do and has the backing of comercial media processes like subtitles in movies. However, at another level this task is often done in XML for every project (digital corpus curation) slightly differently. At the macro-scale the argument is that if the annotation of the audio is in XML and someone wants to do something else with it, then they can just convert the XML to whatever schema they desire. This is true.&lt;/p&gt;
+&lt;p&gt;However, one antidotal point that I have not heard in discussion of time aligned texts is specifications for Audio Dominant Text vs. Text Dominant Audio. This may not initially seem very important, so let me explain what I mean.&lt;/p&gt;
+&lt;h3 id=&#34;audio-dominant-text&#34;&gt;Audio Dominant Text&lt;/h3&gt;
+&lt;p&gt;Are those texts which were first captured orally. They are a performance. The content may be prepared (in the sense of the telling of a traditional epic), but they are not read texts. They are given from memory. The text lives. In terms of time aligned transcription, from this performance is transcribed. This oral text type stands in contrast to the &lt;em&gt;Text Dominant Audio&lt;/em&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;text-dominant-audio&#34;&gt;Text Dominant Audio&lt;/h3&gt;
+&lt;p&gt;Text dominant audio is where a text is read, scripted or prompted. Several examples of this exist, a radio drama, a cartoon/animated film, a reading. In linguistics a wordlist would also classify. The guiding principle is &lt;em&gt;What is guiding the audio?&lt;/em&gt; Is it the structure of the text based document or is it the image of the oral segment as it comes to the speaker spontaneously without visual or interactive reliance?&lt;/p&gt;
+&lt;p&gt;This difference should be noted in metadata durring oral text collection durring language documentation projects. In one project I was involved in, several speakers were recored who were reading texts which they had composed, written and typed. Some editorial help was provided by the PI on some of the texts. These texts now exist as both oral and written texts (in terms of modality). But is the written form a transcription? I doubt it. It is like the inverse of a transcription. The oral but these texts can be presented online similarly to Nick Thieberger’s presentation of text through EOPAS. Example: &lt;a href=&#34;http://www.eopas.org/transcripts/65&#34;&gt;http://www.eopas.org/transcripts/65&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I guess in terms of XML, my outstanding question is: &lt;em&gt;How should the structure be represented?&lt;/em&gt; If the reading is only a reading, then should the text be head in the XML document and the audio matched to that? Obviously some would say that even readings are performances and I do agree to an extent. However, even with these performances because the non-spontaneous nature of the delivery, and the previous editing of the text, is there a smoothing out of the text which might be equivalent to removing dialectical syntactic variation?&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Text Digitization</title>

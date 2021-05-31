@@ -373,7 +373,8 @@ Hugh Paterson III
 &lt;li&gt;
 &lt;p&gt;Does not rename PDFs based on metadata of the resource.
 &lt;em&gt;This is possible with 
-&lt;a href=&#34;https://www.papersapp.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Papers&lt;/a&gt; and &lt;a href=&#34;http://www.mendeley.com/&#34;&gt;Mendeley&lt;/a&gt;. The user has the option to rename the file based on things like Author, Date of publication, etc.&lt;/em&gt;&lt;/p&gt;
+&lt;a href=&#34;https://www.papersapp.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Papers&lt;/a&gt; and 
+&lt;a href=&#34;https://www.mendeley.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mendeley&lt;/a&gt;. The user has the option to rename the file based on things like Author, Date of publication, etc.&lt;/em&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Can not create a smart list based on a constant in the Issue data part.

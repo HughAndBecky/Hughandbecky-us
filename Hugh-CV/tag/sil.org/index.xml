@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>sil.org | Hugh&#39;s Curriculum Vitae</title>
+    <link>https://hughandbecky.us/Hugh-CV/tag/sil.org/</link>
+      <atom:link href="https://hughandbecky.us/Hugh-CV/tag/sil.org/index.xml" rel="self" type="application/rss+xml" />
+    <description>sil.org</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2021</copyright><lastBuildDate>Sun, 19 Feb 2012 14:35:45 +0100</lastBuildDate>
+    <image>
+      <url>https://hughandbecky.us/Hugh-CV/media/HughPaterson.jpg</url>
+      <title>sil.org</title>
+      <link>https://hughandbecky.us/Hugh-CV/tag/sil.org/</link>
+    </image>
+    
+    <item>
+      <title>SEO Considerations for Linguistic Resources</title>
+      <link>https://hughandbecky.us/Hugh-CV/post/seo-considerations-for-linguistic-resources/</link>
+      <pubDate>Sun, 19 Feb 2012 14:35:45 +0100</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/post/seo-considerations-for-linguistic-resources/</guid>
+      <description>&lt;p&gt;SEO for standard websites is pretty straight forward. I happen to be working on a website redesign (in Drupal) which presents Linguistic resources both published and unpublished. I recently came across two specialized SEO options which are useful:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Integration with Google Scholar&lt;/li&gt;
+&lt;li&gt;Aggregation with 
+&lt;a href=&#34;http://www.language-archives.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OLAC&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;google-scholar&#34;&gt;Google Scholar&lt;/h3&gt;
+&lt;p&gt;Google Scholar’s page on getting data into Google Scholar: &lt;a href=&#34;http://scholar.google.com/intl/en/scholar/inclusion.html&#34;&gt;http://scholar.google.com/intl/en/scholar/inclusion.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://drupal.org/project/biblio&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Biblo&lt;/a&gt;, a module for drupal which handles bibliographic data had something 
+&lt;a href=&#34;http://drupal.org/node/641580&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;This blog also has an interesting write up: &lt;a href=&#34;http://blog.reallywow.com/archives/123&#34;&gt;http://blog.reallywow.com/archives/123&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;olac-search&#34;&gt;OLAC Search&lt;/h3&gt;
+&lt;p&gt;This means implementing the 
+&lt;a href=&#34;https://www.openarchives.org/pmh/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OAI-PMH protocol&lt;/a&gt; so that OLAC can harvest it.
+I am not sure how this is done exactly… but here is the link: &lt;a href=&#34;http://www.language-archives.org/&#34;&gt;http://www.language-archives.org/&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
