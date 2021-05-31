@@ -5,12 +5,36 @@
     <link>https://hughandbecky.us/Hugh-CV/tag/reference-managers/</link>
       <atom:link href="https://hughandbecky.us/Hugh-CV/tag/reference-managers/index.xml" rel="self" type="application/rss+xml" />
     <description>Reference Managers</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2021</copyright><lastBuildDate>Thu, 10 Feb 2011 14:35:45 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2021</copyright><lastBuildDate>Tue, 17 Apr 2018 14:35:45 +0100</lastBuildDate>
     <image>
       <url>https://hughandbecky.us/Hugh-CV/media/HughPaterson.jpg</url>
       <title>Reference Managers</title>
       <link>https://hughandbecky.us/Hugh-CV/tag/reference-managers/</link>
     </image>
+    
+    <item>
+      <title>EndNote X8: A Review</title>
+      <link>https://hughandbecky.us/Hugh-CV/post/endnote-x8-a-review/</link>
+      <pubDate>Tue, 17 Apr 2018 14:35:45 +0100</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/post/endnote-x8-a-review/</guid>
+      <description>&lt;p&gt;Some days I just don&amp;rsquo;t like EndNote any more. In the past I have used a combination of 
+&lt;a href=&#34;https://endnote.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EndNote&lt;/a&gt; and 
+&lt;a href=&#34;https://www.papersapp.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Papers2&lt;/a&gt;. A few years ago 
+&lt;a href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/using-endnote-x4-for-mac/&#34;&gt;I wrote a review of EndNote X4 for Mac&lt;/a&gt; and I thought that I would go back and take a look at what I thought about that review and the new version of EndNote 8.&lt;/p&gt;
+&lt;p&gt;Keep in mind that I have over 8,500 references in my EndNote file. My biggest complaints are:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;It is slow.&lt;/li&gt;
+&lt;li&gt;There still is no keyboard short cut for importing a reference.&lt;/li&gt;
+&lt;li&gt;The &amp;ldquo;detect duplicates&amp;rdquo; script does not allow one to exit successfully prior to completing all the items in your detected duplicate list. (Which for some might be very long, and cause the script to crash!)&lt;/li&gt;
+&lt;li&gt;There is no mechanism in the collections area to browse by journal or book-series.&lt;/li&gt;
+&lt;li&gt;When looking at a reference, there is no clear way to determine if it is in one of several collections (including in the check for duplicate script).&lt;/li&gt;
+&lt;li&gt;There does not seem to be an export style for exporting to bibJSON. (I might be creating one soon).&lt;/li&gt;
+&lt;li&gt;No auto suggest for missing citation metadata.&lt;/li&gt;
+&lt;li&gt;For me, EndNote, when importing citations which contain a relative link to a PDF on my machine, does not actually import the PDF to an endnote managed folder. I want all my PDFs in one place. And if they are not in the EndNote managed folder I want a visual indication that they are outside the EndNote data folder.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;These are my observations as I try and work with EndNote (and have over the last few months). For me, Papers2 (I haven&amp;rsquo;t bought Papers3) nailed the interaction around PDF management and citation management, from a User Experience perspective. Papers2 just didn&amp;rsquo;t have the custom fields necessary for me, So I was never able to completly rid myself of EndNote.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Using EndNote X4 for Mac</title>
