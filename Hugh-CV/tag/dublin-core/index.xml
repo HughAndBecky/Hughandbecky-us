@@ -1135,18 +1135,20 @@
 
 
 &lt;span itemscope
-      itemtype=&#34;https://schema.org/CreativeWork&#34;
-      data-type=&#34;post-weblog&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Taylor&lt;/span&gt;,&amp;#32;
+      itemtype=&#34;https://schema.org/BlogPosting&#34;
+      data-type=&#34;blog&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Taylor&lt;/span&gt;,&amp;#32;
     &lt;meta itemprop=&#34;givenName&#34; content=&#34;Mike&#34; /&gt;
     M.&lt;/span&gt;
   &amp;#32;
     (&lt;span itemprop=&#34;datePublished&#34;&gt;2010&lt;/span&gt;).
-  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;
-    &lt;i&gt;Bibliographic data, part 1: MARC and its vile progeny&lt;/i&gt;&lt;/span&gt;.
-  &amp;#32;Retrieved from&amp;#32;
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;Bibliographic data, part 1: MARC and its vile progeny&lt;/span&gt;.&amp;nbsp;&lt;span itemprop=&#34;isPartOf&#34;&gt;The Reinvigorated Programmer&lt;/span&gt;.&amp;#32;Retrieved from&amp;#32;
   &lt;a href=&#34;https://reprog.wordpress.com/2010/09/02/bibliographic-data-part-1-marc-and-its-vile-progeny-2/&#34;
      itemprop=&#34;identifier&#34;
      itemtype=&#34;https://schema.org/URL&#34;&gt;https://reprog.wordpress.com/2010/09/02/bibliographic-data-part-1-marc-and-its-vile-progeny-2/&lt;/a&gt;&lt;/span&gt;
+
+
+
+
 
 &lt;/dd&gt;
 
@@ -1174,18 +1176,20 @@
 
 
 &lt;span itemscope
-      itemtype=&#34;https://schema.org/CreativeWork&#34;
-      data-type=&#34;post-weblog&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Taylor&lt;/span&gt;,&amp;#32;
+      itemtype=&#34;https://schema.org/BlogPosting&#34;
+      data-type=&#34;blog&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Taylor&lt;/span&gt;,&amp;#32;
     &lt;meta itemprop=&#34;givenName&#34; content=&#34;Mike&#34; /&gt;
     M.&lt;/span&gt;
   &amp;#32;
     (&lt;span itemprop=&#34;datePublished&#34;&gt;2010&lt;/span&gt;).
-  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;
-    &lt;i&gt;Bibliographic data, part 2: Dublin Core’s dirty little secret&lt;/i&gt;&lt;/span&gt;.
-  &amp;#32;Retrieved from&amp;#32;
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;Bibliographic data, part 2: Dublin Core’s dirty little secret&lt;/span&gt;.&amp;nbsp;&lt;span itemprop=&#34;isPartOf&#34;&gt;The Reinvigorated Programmer&lt;/span&gt;.&amp;#32;Retrieved from&amp;#32;
   &lt;a href=&#34;https://reprog.wordpress.com/2010/09/03/bibliographic-data-part-2-dublin-cores-dirty-little-secret/&#34;
      itemprop=&#34;identifier&#34;
      itemtype=&#34;https://schema.org/URL&#34;&gt;https://reprog.wordpress.com/2010/09/03/bibliographic-data-part-2-dublin-cores-dirty-little-secret/&lt;/a&gt;&lt;/span&gt;
+
+
+
+
 
 &lt;/dd&gt;
 
@@ -1213,18 +1217,20 @@
 
 
 &lt;span itemscope
-      itemtype=&#34;https://schema.org/CreativeWork&#34;
-      data-type=&#34;post-weblog&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Taylor&lt;/span&gt;,&amp;#32;
+      itemtype=&#34;https://schema.org/BlogPosting&#34;
+      data-type=&#34;blog&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Taylor&lt;/span&gt;,&amp;#32;
     &lt;meta itemprop=&#34;givenName&#34; content=&#34;Mike&#34; /&gt;
     M.&lt;/span&gt;
   &amp;#32;
     (&lt;span itemprop=&#34;datePublished&#34;&gt;2010&lt;/span&gt;).
-  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;
-    &lt;i&gt;Bibliographic data, part 3: Has anyone, anywhere, ever read the whole of the RDA specification?&lt;/i&gt;&lt;/span&gt;.
-  &amp;#32;Retrieved from&amp;#32;
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;Bibliographic data, part 3: Has anyone, anywhere, ever read the whole of the RDA specification?&lt;/span&gt;.&amp;nbsp;&lt;span itemprop=&#34;isPartOf&#34;&gt;The Reinvigorated Programmer&lt;/span&gt;.&amp;#32;Retrieved from&amp;#32;
   &lt;a href=&#34;https://reprog.wordpress.com/2010/09/05/bibliographic-data-part-3-has-anyone-anywhere-ever-read-the-whole-of-the-rda-specification/&#34;
      itemprop=&#34;identifier&#34;
      itemtype=&#34;https://schema.org/URL&#34;&gt;https://reprog.wordpress.com/2010/09/05/bibliographic-data-part-3-has-anyone-anywhere-ever-read-the-whole-of-the-rda-specification/&lt;/a&gt;&lt;/span&gt;
+
+
+
+
 
 &lt;/dd&gt;
 

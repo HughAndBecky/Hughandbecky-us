@@ -1183,18 +1183,20 @@ One approach would be to multiply 450 by 1700 and estimate the number of article
 
 
 &lt;span itemscope
-      itemtype=&#34;https://schema.org/CreativeWork&#34;
-      data-type=&#34;post-weblog&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Phipps&lt;/span&gt;,&amp;#32;
+      itemtype=&#34;https://schema.org/BlogPosting&#34;
+      data-type=&#34;blog&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Phipps&lt;/span&gt;,&amp;#32;
     &lt;meta itemprop=&#34;givenName&#34; content=&#34;Chris&#34; /&gt;
     C.&lt;/span&gt;
   &amp;#32;
     (&lt;span itemprop=&#34;datePublished&#34;&gt;2010&lt;/span&gt;).
-  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;
-    &lt;i&gt;How Many Linguists Are There? 5379.&lt;/i&gt;&lt;/span&gt;.
-  &amp;#32;Retrieved from&amp;#32;
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;How Many Linguists Are There? 5379.&lt;/span&gt;&lt;span itemprop=&#34;genre&#34;&gt;&amp;nbsp;[Blog]&lt;/span&gt;.&amp;nbsp;&lt;span itemprop=&#34;isPartOf&#34;&gt;The Lousy Linguist&lt;/span&gt;.&amp;#32;Retrieved from&amp;#32;
   &lt;a href=&#34;https://thelousylinguist.blogspot.com/2010/03/how-many-linguists-are-there-5379.html&#34;
      itemprop=&#34;identifier&#34;
      itemtype=&#34;https://schema.org/URL&#34;&gt;https://thelousylinguist.blogspot.com/2010/03/how-many-linguists-are-there-5379.html&lt;/a&gt;&lt;/span&gt;
+
+
+
+
 
 &lt;/span&gt;&lt;/span&gt; postulates that in 2010 there were about 5379 linguists. More-or-less this might give us a growth rate of about 16,000 articles per year. I recall reading somewhere that a major commercial linguistic bibliography added between 9,000 and 11,000 articles between its annual versions. Since we don&amp;rsquo;t anticipate complete coverage of by the team behind the bibliography it seems that the 16,000 number is closer to reasonable.&lt;/p&gt;
 &lt;p&gt;If we assume that the 16,000 number has been constant and covers the 765,000 total articles this gives us between 47 and 48 years of publishing history. Obviously the 765,000 number would be smaller than the total number of relevant language research publications (say since the 1500&amp;rsquo;s). But presumably the rate of publication growth is accelerating with innovations in publishing technology, the growth of the global population, and the growth of the academic and industrial application of language knowledge.&lt;/p&gt;
@@ -1546,18 +1548,20 @@ One approach would be to multiply 450 by 1700 and estimate the number of article
 
 
 &lt;span itemscope
-      itemtype=&#34;https://schema.org/CreativeWork&#34;
-      data-type=&#34;post-weblog&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Phipps&lt;/span&gt;,&amp;#32;
+      itemtype=&#34;https://schema.org/BlogPosting&#34;
+      data-type=&#34;blog&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Phipps&lt;/span&gt;,&amp;#32;
     &lt;meta itemprop=&#34;givenName&#34; content=&#34;Chris&#34; /&gt;
     C.&lt;/span&gt;
   &amp;#32;
     (&lt;span itemprop=&#34;datePublished&#34;&gt;2010&lt;/span&gt;).
-  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;
-    &lt;i&gt;How Many Linguists Are There? 5379.&lt;/i&gt;&lt;/span&gt;.
-  &amp;#32;Retrieved from&amp;#32;
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;How Many Linguists Are There? 5379.&lt;/span&gt;&lt;span itemprop=&#34;genre&#34;&gt;&amp;nbsp;[Blog]&lt;/span&gt;.&amp;nbsp;&lt;span itemprop=&#34;isPartOf&#34;&gt;The Lousy Linguist&lt;/span&gt;.&amp;#32;Retrieved from&amp;#32;
   &lt;a href=&#34;https://thelousylinguist.blogspot.com/2010/03/how-many-linguists-are-there-5379.html&#34;
      itemprop=&#34;identifier&#34;
      itemtype=&#34;https://schema.org/URL&#34;&gt;https://thelousylinguist.blogspot.com/2010/03/how-many-linguists-are-there-5379.html&lt;/a&gt;&lt;/span&gt;
+
+
+
+
 
 &lt;/dd&gt;
 
@@ -1774,22 +1778,22 @@ There currently does not exist a principled way to evaluate the utility or the a
 Language development practitioners and linguists working in many different languages have created many keyboard layouts.  However, linguists have not adequately accounted for the linguistic dissonance between the psycholinguistic and phonemic realities of a spoken language and a speaker’s experience in typing that language. This has created a gap between the “possible to write/type” orthography and the “easy to write/type” orthography.
 The general keyboard arrangement problem (GKAP) has been situated as a time over distance problem, i.e., speed. The assumption has been that if fingers travel a smaller distance, then faster typing should be the result. A secondary argument to increase speed has been to reduce effort. The assessment of effort has been tied to Fitts’ law (MacKenzie 1992) for measurements of physical effort. However, mental effort or user-perceived effort remains unassessed.
 By visualizing keystrokes, we can identify the locus of impact in any given language. In language development work it is often the case that low-usage keys in an English-QWERTY layout are replaced with “new characters” to form keyboard layouts. The consequence has been the placement of frequently used keys under weak fingers, as demonstrated by the Meꞌphaa keyboard layout below. Notice the high frequency red(dish) areas and the lower frequency blue areas. These red areas would normally be struck with the pinky fingers.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://hughandbecky.us/Hugh-CV/post/a-text-input-analysis-framework/Heatmaps-of-4-keyboards/%5Btcf%5D-heatmap-with-sample-text.jpg&#34; alt=&#34;Meꞌphaa Keyboard&#34; title=&#34;Meꞌphaa Keyboard&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/a-text-input-analysis-framework/Heatmaps-of-4-keyboards/%5Btcf%5D-heatmap-with-sample-text.jpg&#34; alt=&#34;Meꞌphaa Keyboard&#34; title=&#34;Meꞌphaa Keyboard&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;&lt;p style=&#34;text-align: center;&#34;&gt;Figure 1: Meꞌphaa Keyboard&lt;/p&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;Spanish, distributes the same amount of information across multiple fingers as shown in Figure 2 below. According to current keyboard layout theory even the Spanish keyboard is heavy on the weaker fingers of the left hand, but at least is better than the Meꞌphaa layout.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://hughandbecky.us/Hugh-CV/post/a-text-input-analysis-framework/Heatmaps-of-4-keyboards/%5Bspa%5D-heatmap-with-full-text.jpg&#34; alt=&#34;Spanish Keyboard&#34; title=&#34;Spanish Keyboard&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/a-text-input-analysis-framework/Heatmaps-of-4-keyboards/%5Bspa%5D-heatmap-with-full-text.jpg&#34; alt=&#34;Spanish Keyboard&#34; title=&#34;Spanish Keyboard&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;&lt;p style=&#34;text-align: center;&#34;&gt;Figure 2: Spanish Keyboard&lt;/p&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;Contrasting these two languages allows us to visualize how they are different with respect to the actions of the pinky finger. It also demonstrates how the attempt to ‘conserve QWERTY’ impacts typing in minority languages. Notice how the Meꞌphaa keyboard layout replaces the Spanish〈ç〉character with a tone diacritic key. Also note that these tone diacritics are very frequent in Meꞌphaa, and create a typing imbalance. Additionally, the Meꞌphaa Saltillo〈ꞌ〉 key is also on the right side with heavy use, further contributing to the typing imbalance.
 These diagrams demonstrate the part of the keyboard layout analysis that can be computed using existing GKAP methods. What linguists bring to the discussion is an awareness of linguistic components. Orthographies are not just Unicode characters, but are functional units. The encoding of a functional unit can change from orthography to orthography. This is missed by many GKAP researchers. One needs to look beyond Unicode characters and toward ratios of keystrokes to functional units.
 One way that linguists look at functional units differently than “pure technologists” is in the area of tone. Snider (2014) and Hyman (2014) both argue for an analysis of tone that looks at patterns across the domain of tonal attachment (usually the word or morpheme) rather than the more structuralist and segmental view of “letter plus pitch” which is the encoding method that Unicode follows. The difference in behavior becomes clearer when we contrast reading diacritic tone marks with a language which does not use diacritical marking. Imagine the following example represents the same sentence in two different languages.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://hughandbecky.us/Hugh-CV/post/a-text-input-analysis-framework/With-and-without-tone.jpg&#34; alt=&#34;Tone and non-Tone marking&#34; title=&#34;Tone and non-Tone marking&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/a-text-input-analysis-framework/With-and-without-tone.jpg&#34; alt=&#34;Tone and non-Tone marking&#34; title=&#34;Tone and non-Tone marking&#34;&gt;&lt;/p&gt;
 &lt;p&gt;A tone pattern analysis (following Snider and Hyman) would suggest that we should understand the tonally marked sentence to represent the segmental and the suprasegmental tiers separately, something like the following:&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://hughandbecky.us/Hugh-CV/post/a-text-input-analysis-framework/2018-thesis-proposal/High-low-pattern-over-tone-marks.jpg&#34; alt=&#34;Marking representing tonal patterns or melodies&#34; title=&#34;Marking representing tonal patterns or melodies&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/a-text-input-analysis-framework/High-low-pattern-over-tone-marks.jpg&#34; alt=&#34;Marking representing tonal patterns or melodies&#34; title=&#34;Marking representing tonal patterns or melodies&#34;&gt;&lt;/p&gt;
 &lt;p&gt;It is observed, anecdotally, that many writers of tone languages parse the writing task into two activities, one for each tier of information. Usually the segmental tier is completed first and then the suprasegmental tier.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://hughandbecky.us/Hugh-CV/post/a-text-input-analysis-framework/Reading-twice.jpg&#34; alt=&#34;Reading twice&#34; title=&#34;Reading twice&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/a-text-input-analysis-framework/Reading-twice.jpg&#34; alt=&#34;Reading twice&#34; title=&#34;Reading twice&#34;&gt;&lt;/p&gt;
 &lt;p&gt;This makes the writing activity much like handwriting in the United States where we say: “don’t forget to dot your &amp;lsquo;i&amp;rsquo;s and cross your  ‘t’s. The writer first completes the segmental tier and then comes back across with a second pass and completes dots the ‘i’s and crosses the ‘t’s.
 However, the nature of typing, and Unicode’s structural nature, requires typists to complete the text production task linearly by codepoint. This creates dissonance from what many language users find “natural”, requiring them to frequently alternate their attention between the two tiers, as shown by the up and down movement in the following diagram.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://hughandbecky.us/Hugh-CV/post/a-text-input-analysis-framework/Up-and-down-eye-movement.jpg&#34; alt=&#34;Up and down eye movement&#34; title=&#34;Up and down eye movement&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/a-text-input-analysis-framework/Up-and-down-eye-movement.jpg&#34; alt=&#34;Up and down eye movement&#34; title=&#34;Up and down eye movement&#34;&gt;&lt;/p&gt;
 &lt;p&gt;The goal of this thesis will be to develop and apply metrics to keyboard layouts so that their ease of use can be analysed and compared. Some optimised keyboards in a few sample languages will also be presented. Preliminary testing of these ideas has been done on English [eng], Spanish [spa], Me’phaa [tcf], and Chinantec [cso], as mentioned in Paterson (2014) and work done with Nigerian languages in Paterson (2015) covering Ezza [eza], Bekwarra [bkv], Cishingini [asg], Okphela [atg], and Igbo [ibo]. However, for this thesis I anticipate focusing on the three following languages: Navajo [nav], Kabiyè [kbp], and Eastern Dan [dnj], and especially the latter two, as they are related languages with very different design decisions in their orthographies, and both have very clear analysis of their tonal systems. This should allow observations about the typing process in one language to be contrasted with another related language. Further, there is a reasonable amount of text to work with in each language. Ultimately the final languages used will depend on the accessibility of corpora content in those languages.&lt;/p&gt;
 &lt;p&gt;This thesis will add to the current GKAP discussion by proposing a theoretical framework and a two-metric algorithm that can be applied to any keyboard layout for any language using a Latin based script. The first metric will account for disruption in the phoneme (or functional unit) stream while engaged in typing, and the second will account for non-character-producing keystrokes, thus addressing the major problem areas outlined above. These metrics will then be combined with a haptic fitness score to produce a fitness score which accounts for linguistic knowledge. This thesis will contribute to the ongoing language development discussion by providing a quality assessment metric for the evaluation of a very important language-based digital product.&lt;/p&gt;
 &lt;h2 id=&#34;research-questions&#34;&gt;Research questions&lt;/h2&gt;

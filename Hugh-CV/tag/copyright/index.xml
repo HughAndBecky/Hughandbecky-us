@@ -68,18 +68,20 @@
 
 
 &lt;span itemscope
-      itemtype=&#34;https://schema.org/CreativeWork&#34;
-      data-type=&#34;post-weblog&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Boutsikari&lt;/span&gt;,&amp;#32;
+      itemtype=&#34;https://schema.org/BlogPosting&#34;
+      data-type=&#34;blog&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Boutsikari&lt;/span&gt;,&amp;#32;
     &lt;meta itemprop=&#34;givenName&#34; content=&#34;Connie&#34; /&gt;
     C.&lt;/span&gt;
   &amp;#32;
     (&lt;span itemprop=&#34;datePublished&#34;&gt;2015&lt;/span&gt;).
-  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;
-    &lt;i&gt;Who Owns the Academic Work? Copyright Considerations in the University Context&lt;/i&gt;&lt;/span&gt;.
-  &amp;#32;Retrieved from&amp;#32;
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;Who Owns the Academic Work? Copyright Considerations in the University Context&lt;/span&gt;.&amp;nbsp;&lt;span itemprop=&#34;isPartOf&#34;&gt;Dunner Law PLLC — Your IP Anchor&lt;/span&gt;.&amp;#32;Retrieved from&amp;#32;
   &lt;a href=&#34;http://dunnerlaw.com/who-owns-the-academic-work-copyright-considerations-in-the-university-context/&#34;
      itemprop=&#34;identifier&#34;
      itemtype=&#34;https://schema.org/URL&#34;&gt;http://dunnerlaw.com/who-owns-the-academic-work-copyright-considerations-in-the-university-context/&lt;/a&gt;&lt;/span&gt;
+
+
+
+
 
 &lt;/dd&gt;
 
@@ -151,17 +153,19 @@
 
 
 &lt;span itemscope
-      itemtype=&#34;https://schema.org/CreativeWork&#34;
-      data-type=&#34;post-weblog&#34;&gt;
+      itemtype=&#34;https://schema.org/BlogPosting&#34;
+      data-type=&#34;blog&#34;&gt;
   (N.A.).
   &amp;#32;
     (&lt;span itemprop=&#34;datePublished&#34;&gt;2000&lt;/span&gt;).
-  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;
-    &lt;i&gt;Ownership Issues in Copyright Law&lt;/i&gt;&lt;/span&gt;.
-  &amp;#32;Retrieved from&amp;#32;
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;Ownership Issues in Copyright Law&lt;/span&gt;.&amp;nbsp;&lt;span itemprop=&#34;isPartOf&#34;&gt;GigaLaw.com®: &amp;#34;Legal Information for Internet Professionals&amp;#34;&lt;/span&gt;.&amp;#32;Retrieved from&amp;#32;
   &lt;a href=&#34;https://web.archive.org/web/20020812012455/http://www.gigalaw.com/articles/2000-all/landau-2000-04-all.html&#34;
      itemprop=&#34;identifier&#34;
      itemtype=&#34;https://schema.org/URL&#34;&gt;https://web.archive.org/web/20020812012455/http://www.gigalaw.com/articles/2000-all/landau-2000-04-all.html&lt;/a&gt;&lt;/span&gt;
+
+
+
+
 
 &lt;/dd&gt;
 
@@ -227,18 +231,20 @@
 
 
 &lt;span itemscope
-      itemtype=&#34;https://schema.org/CreativeWork&#34;
-      data-type=&#34;post-weblog&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Smolla&lt;/span&gt;,&amp;#32;
+      itemtype=&#34;https://schema.org/BlogPosting&#34;
+      data-type=&#34;blog&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Smolla&lt;/span&gt;,&amp;#32;
     &lt;meta itemprop=&#34;givenName&#34; content=&#34;Rodney A.&#34; /&gt;
     R.&lt;/span&gt;
   &amp;#32;
     (&lt;span itemprop=&#34;datePublished&#34;&gt;2010&lt;/span&gt;).
-  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;
-    &lt;i&gt;Academic Freedom, Copyright, and Work-for-Hire&lt;/i&gt;&lt;/span&gt;.
-  &amp;#32;Retrieved from&amp;#32;
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;Academic Freedom, Copyright, and Work-for-Hire&lt;/span&gt;.&amp;nbsp;&lt;span itemprop=&#34;isPartOf&#34;&gt;The Media Institute&lt;/span&gt;.&amp;#32;Retrieved from&amp;#32;
   &lt;a href=&#34;https://www.mediainstitute.org/2010/04/29/academic-freedom-copyright-and-work-for-hire/&#34;
      itemprop=&#34;identifier&#34;
      itemtype=&#34;https://schema.org/URL&#34;&gt;https://www.mediainstitute.org/2010/04/29/academic-freedom-copyright-and-work-for-hire/&lt;/a&gt;&lt;/span&gt;
+
+
+
+
 
 &lt;/dd&gt;
 
