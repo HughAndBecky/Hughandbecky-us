@@ -166,7 +166,7 @@ Ben Chauvette
 
 &lt;span class=&#34;hugo-cite-intext&#34;
         itemprop=&#34;citation&#34;&gt;(&lt;a href=&#34;#dobrin_iath_2017&#34;&gt;&lt;span class=&#34;visually-hidden&#34;&gt;Citation: &lt;/span&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;meta itemprop=&#34;givenName&#34; content=&#34;Lise M&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Dobrin&lt;/span&gt;&lt;/span&gt;
-      &lt;em&gt;&amp;amp; al.&lt;/em&gt;,&amp;#32;
+      &lt;em&gt;et al.&lt;/em&gt;,&amp;#32;
       &lt;span itemprop=&#34;datePublished&#34;&gt;2017&lt;/span&gt;&lt;/a&gt;)
     &lt;span class=&#34;hugo-cite-citation&#34;&gt;
 
@@ -199,7 +199,8 @@ Ben Chauvette
 
 
 
-&lt;/span&gt;&lt;/span&gt;&lt;br/&gt;
+&lt;/span&gt;&lt;/span&gt;
+&lt;br/&gt;
 &lt;strong&gt;Links&lt;/strong&gt;: &lt;a href=&#34;http://community.village.virginia.edu/etst/&#34;&gt;http://community.village.virginia.edu/etst/&lt;/a&gt; &lt;br/&gt;
 &lt;strong&gt;Notes&lt;/strong&gt;: This script uses command-line PHP to convert ELAN texts to HTML and align them to audio or video files. This solution works completely within the browser and does not require a server once the annotation files are processed.
 
@@ -267,7 +268,7 @@ Lise &amp;amp; Douglas
 
 &lt;span class=&#34;hugo-cite-intext&#34;
         itemprop=&#34;citation&#34;&gt;(&lt;a href=&#34;#pride_lingview_2020-1&#34;&gt;&lt;span class=&#34;visually-hidden&#34;&gt;Citation: &lt;/span&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;meta itemprop=&#34;givenName&#34; content=&#34;Kalinda&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Pride&lt;/span&gt;&lt;/span&gt;
-      &lt;em&gt;&amp;amp; al.&lt;/em&gt;,&amp;#32;
+      &lt;em&gt;et al.&lt;/em&gt;,&amp;#32;
       &lt;span itemprop=&#34;datePublished&#34;&gt;2020&lt;/span&gt;&lt;/a&gt;)
     &lt;span class=&#34;hugo-cite-citation&#34;&gt;
 
@@ -303,7 +304,8 @@ Lise &amp;amp; Douglas
 
 
 
-&lt;/span&gt;&lt;/span&gt;&lt;br/&gt;
+&lt;/span&gt;&lt;/span&gt;
+&lt;br/&gt;
 &lt;strong&gt;Links&lt;/strong&gt;: &lt;a href=&#34;https://github.com/BrownCLPS/LingView&#34;&gt;https://github.com/BrownCLPS/LingView&lt;/a&gt;&lt;br/&gt;
 &lt;strong&gt;Notes&lt;/strong&gt;: Works with video, audio, ELAN files, FLExTexts, and does not require a server. Does depend on Node, which is a JavaScript framework.&lt;br/&gt;
 
@@ -463,7 +465,7 @@ Lise &amp;amp; Douglas
 
 &lt;span class=&#34;hugo-cite-intext&#34;
         itemprop=&#34;citation&#34;&gt;(&lt;a href=&#34;#schroeter_eopas_2006&#34;&gt;&lt;span class=&#34;visually-hidden&#34;&gt;Citation: &lt;/span&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;meta itemprop=&#34;givenName&#34; content=&#34;Ronald&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Schroeter&lt;/span&gt;&lt;/span&gt;
-      &lt;em&gt;&amp;amp; al.&lt;/em&gt;,&amp;#32;
+      &lt;em&gt;et al.&lt;/em&gt;,&amp;#32;
       &lt;span itemprop=&#34;datePublished&#34;&gt;2006&lt;/span&gt;&lt;/a&gt;)
     &lt;span class=&#34;hugo-cite-citation&#34;&gt;
 
@@ -506,7 +508,8 @@ Lise &amp;amp; Douglas
 
 
 
-&lt;/span&gt;&lt;/span&gt; &amp;amp; 
+&lt;/span&gt;&lt;/span&gt;
+ &amp;amp; 
 
 
 
@@ -545,7 +548,8 @@ Lise &amp;amp; Douglas
      itemprop=&#34;identifier&#34;
      itemtype=&#34;https://schema.org/URL&#34;&gt;http://hdl.handle.net/2123/1532&lt;/a&gt;&lt;/span&gt;
 
-&lt;/span&gt;&lt;/span&gt;&lt;br/&gt;
+&lt;/span&gt;&lt;/span&gt;
+&lt;br/&gt;
 &lt;strong&gt;Links&lt;/strong&gt;: &lt;a href=&#34;https://github.com/eopas/eopas&#34;&gt;https://github.com/eopas/eopas&lt;/a&gt;&lt;br/&gt;
 &lt;strong&gt;Note&lt;/strong&gt;: This was one of the earliest online presentations which linked grammars with texts. However, the system does not support collaborative editing or the creation of texts. It was originally designed to work with Toolbox formatted data, with other IGT formats support added later. It is open source and available via Github. It provides direct links to specific segments of the artifacts for the purpose of citation and referencing.&lt;/p&gt;
 
@@ -672,7 +676,7 @@ Nick Thieberger
 
 &lt;span class=&#34;hugo-cite-intext&#34;
         itemprop=&#34;citation&#34;&gt;(&lt;a href=&#34;#beermann_typecraft_2014&#34;&gt;&lt;span class=&#34;visually-hidden&#34;&gt;Citation: &lt;/span&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;meta itemprop=&#34;givenName&#34; content=&#34;Dorothee&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Beermann&lt;/span&gt;&lt;/span&gt;
-      &lt;em&gt;&amp;amp; al.&lt;/em&gt;,&amp;#32;
+      &lt;em&gt;et al.&lt;/em&gt;,&amp;#32;
       &lt;span itemprop=&#34;datePublished&#34;&gt;2014&lt;/span&gt;&lt;/a&gt;)
     &lt;span class=&#34;hugo-cite-citation&#34;&gt;
 
@@ -705,7 +709,8 @@ Nick Thieberger
 
 
 
-&lt;/span&gt;&lt;/span&gt;&lt;br/&gt;
+&lt;/span&gt;&lt;/span&gt;
+&lt;br/&gt;
 &lt;strong&gt;Links&lt;/strong&gt;: &lt;a href=&#34;https://typecraft.org/tc2wiki/TypeCraft:About&#34;&gt;https://typecraft.org/tc2wiki/TypeCraft:About&lt;/a&gt; &lt;br/&gt;
 &lt;strong&gt;Notes&lt;/strong&gt;: This is software as service. It can not be locally deployed. This is a production system, that is it is designed to facilitate collaboration. It is based on MediaWiki. It is designed for collaborative creation of annotated texts. It does not align the texts for display with video or audio. The same purpose of this service could be accomplished if ELAN annotations were under version control (like git) and collaborators interacted with version control and used ELAN on their local computers.&lt;/p&gt;
 &lt;h3 id=&#34;multicast&#34;&gt;Multicast&lt;/h3&gt;
@@ -719,7 +724,7 @@ Nick Thieberger
 
 &lt;span class=&#34;hugo-cite-intext&#34;
         itemprop=&#34;citation&#34;&gt;(&lt;a href=&#34;#haig_multi-cast_2016&#34;&gt;&lt;span class=&#34;visually-hidden&#34;&gt;Citation: &lt;/span&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;meta itemprop=&#34;givenName&#34; content=&#34;Geoffrey&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Haig&lt;/span&gt;&lt;/span&gt;
-      &lt;em&gt;&amp;amp; al.&lt;/em&gt;,&amp;#32;
+      &lt;em&gt;et al.&lt;/em&gt;,&amp;#32;
       &lt;span itemprop=&#34;datePublished&#34;&gt;2016&lt;/span&gt;&lt;/a&gt;)
     &lt;span class=&#34;hugo-cite-citation&#34;&gt;
 
@@ -748,7 +753,8 @@ Nick Thieberger
   &lt;meta itemprop=&#34;contentLocation&#34;
         content=&#34;Hamburg, Germany, 7–8 June 2016&#34;&gt;&lt;/span&gt;
 
-&lt;/span&gt;&lt;/span&gt;&lt;br/&gt;
+&lt;/span&gt;&lt;/span&gt;
+&lt;br/&gt;
 &lt;strong&gt;Links&lt;/strong&gt;: &lt;a href=&#34;https://multicast.aspra.uni-bamberg.de&#34;&gt;https://multicast.aspra.uni-bamberg.de&lt;/a&gt; &lt;br/&gt;
 &lt;strong&gt;Notes&lt;/strong&gt;: The presentation software does not seem to be open source and accessible. However there is an 
 &lt;a href=&#34;https://cran.r-project.org/web/packages/multicastR/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;open source R package&lt;/a&gt; which one can use to download annotation files and programatically investigate them. The text being played in the audio is not highlighted, but one can quickly access the transcribed text and copy it out as formatted LaTeX for inclusion as interlinear text in an other document (a pretty nifty feature).
@@ -817,7 +823,7 @@ Geoffrey Haig &amp;amp; Nils Norman Schiborr
 
 &lt;span class=&#34;hugo-cite-intext&#34;
         itemprop=&#34;citation&#34;&gt;(&lt;a href=&#34;#grenoble_sharing_2010&#34;&gt;&lt;span class=&#34;visually-hidden&#34;&gt;Citation: &lt;/span&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;meta itemprop=&#34;givenName&#34; content=&#34;Nicholas&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Thieberger&lt;/span&gt;&lt;/span&gt;
-      &lt;em&gt;&amp;amp; al.&lt;/em&gt;,&amp;#32;
+      &lt;em&gt;et al.&lt;/em&gt;,&amp;#32;
       &lt;span itemprop=&#34;datePublished&#34;&gt;2010&lt;/span&gt;&lt;/a&gt;)
     &lt;span class=&#34;hugo-cite-citation&#34;&gt;
 
@@ -860,7 +866,8 @@ Geoffrey Haig &amp;amp; Nils Norman Schiborr
 
 
 
-&lt;/span&gt;&lt;/span&gt; 
+&lt;/span&gt;&lt;/span&gt;
+ 
 
 
 
@@ -870,7 +877,7 @@ Geoffrey Haig &amp;amp; Nils Norman Schiborr
 
 &lt;span class=&#34;hugo-cite-intext&#34;
         itemprop=&#34;citation&#34;&gt;(&lt;a href=&#34;#michailovsky_simple_2011&#34;&gt;&lt;span class=&#34;visually-hidden&#34;&gt;Citation: &lt;/span&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;meta itemprop=&#34;givenName&#34; content=&#34;Boyd&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Michailovsky&lt;/span&gt;&lt;/span&gt;
-      &lt;em&gt;&amp;amp; al.&lt;/em&gt;,&amp;#32;
+      &lt;em&gt;et al.&lt;/em&gt;,&amp;#32;
       &lt;span itemprop=&#34;datePublished&#34;&gt;2011&lt;/span&gt;&lt;/a&gt;)
     &lt;span class=&#34;hugo-cite-citation&#34;&gt;
 
@@ -907,7 +914,8 @@ Geoffrey Haig &amp;amp; Nils Norman Schiborr
      itemprop=&#34;identifier&#34;
      itemtype=&#34;https://schema.org/URL&#34;&gt;https://doi.org/10.1109/ICSDA.2011.6085973&lt;/a&gt;&lt;/span&gt;
 
-&lt;/span&gt;&lt;/span&gt;&lt;br/&gt;
+&lt;/span&gt;&lt;/span&gt;
+&lt;br/&gt;
 &lt;strong&gt;Links&lt;/strong&gt;: [Example]: &lt;a href=&#34;https://doi.org/10.24397/pangloss-0004676&#34;&gt;https://doi.org/10.24397/pangloss-0004676&lt;/a&gt; &lt;br/&gt;
 &lt;strong&gt;Notes&lt;/strong&gt;: As software the Pangloss interface is not downloadable. However, it is the front face of an archived collection. It is great for referencing a particular point in an audio or transcribed textual artifact, within an the archive&amp;rsquo;s canonical location for the item. The Pangloss use of DOIs to access the components of a resource is discussed in 
 
@@ -919,7 +927,7 @@ Geoffrey Haig &amp;amp; Nils Norman Schiborr
 
 &lt;span class=&#34;hugo-cite-intext&#34;
         itemprop=&#34;citation&#34;&gt;(&lt;a href=&#34;#vasile_digital_2020&#34;&gt;&lt;span class=&#34;visually-hidden&#34;&gt;Citation: &lt;/span&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;meta itemprop=&#34;givenName&#34; content=&#34;Aurélia&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Vasile&lt;/span&gt;&lt;/span&gt;
-      &lt;em&gt;&amp;amp; al.&lt;/em&gt;,&amp;#32;
+      &lt;em&gt;et al.&lt;/em&gt;,&amp;#32;
       &lt;span itemprop=&#34;datePublished&#34;&gt;2020&lt;/span&gt;&lt;/a&gt;)
     &lt;span class=&#34;hugo-cite-citation&#34;&gt;
 
@@ -958,7 +966,8 @@ Geoffrey Haig &amp;amp; Nils Norman Schiborr
 
 
 
-&lt;/span&gt;&lt;/span&gt;.&lt;/p&gt;
+&lt;/span&gt;&lt;/span&gt;
+.&lt;/p&gt;
 
 
 

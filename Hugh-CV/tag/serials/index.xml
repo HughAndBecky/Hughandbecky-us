@@ -653,7 +653,7 @@
   &amp;#32;
   &lt;span itemprop=&#34;publisher&#34;
              itemtype=&#34;http://schema.org/Organization&#34;
-             itemscope=&#34;&#34;&gt;
+             itemscope&gt;
     &lt;span itemprop=&#34;name&#34;&gt;Book Industry Communication&lt;/span&gt;&lt;/span&gt;.&amp;#32;Retrieved from&amp;#32;
   &lt;a href=&#34;http://www.ukoln.ac.uk/services/elib/papers/supporting/pdf/serials-metadata-toa.pdf&#34;
      itemprop=&#34;identifier&#34;
@@ -1149,7 +1149,6 @@
 
 
 
-
 &lt;/dd&gt;
 
       &lt;/div&gt;
@@ -1190,7 +1189,6 @@
 
 
 
-
 &lt;/dd&gt;
 
       &lt;/div&gt;
@@ -1227,7 +1225,6 @@
   &lt;a href=&#34;https://reprog.wordpress.com/2010/09/05/bibliographic-data-part-3-has-anyone-anywhere-ever-read-the-whole-of-the-rda-specification/&#34;
      itemprop=&#34;identifier&#34;
      itemtype=&#34;https://schema.org/URL&#34;&gt;https://reprog.wordpress.com/2010/09/05/bibliographic-data-part-3-has-anyone-anywhere-ever-read-the-whole-of-the-rda-specification/&lt;/a&gt;&lt;/span&gt;
-
 
 
 

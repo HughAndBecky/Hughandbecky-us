@@ -501,11 +501,11 @@
     (&lt;span itemprop=&#34;datePublished&#34;&gt;2016&lt;/span&gt;).
   &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;
     &lt;i&gt;Ethics in applied linguistics research: language researcher narratives&lt;/i&gt;&lt;/span&gt;.
-  &lt;meta itemprop=&#34;contentLocation&#34;
+  &lt;meta itemprop=&#34;locationCreated&#34;
         value=&#34;New York, NY&#34;&gt;&amp;#32;
   &lt;span itemprop=&#34;publisher&#34;
              itemtype=&#34;http://schema.org/Organization&#34;
-             itemscope=&#34;&#34;&gt;
+             itemscope&gt;
     &lt;span itemprop=&#34;name&#34;&gt;Routledge&lt;/span&gt;&lt;/span&gt;.&lt;/span&gt;
 
 
@@ -1294,11 +1294,11 @@
     (&lt;span itemprop=&#34;datePublished&#34;&gt;2007&lt;/span&gt;).
   &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;
     &lt;i&gt;Ethical challenges in study design and informed consent for health research in resource-poor settings&lt;/i&gt;&lt;/span&gt;.
-  &lt;meta itemprop=&#34;contentLocation&#34;
+  &lt;meta itemprop=&#34;locationCreated&#34;
         value=&#34;Geneva, Switzerland&#34;&gt;&amp;#32;
   &lt;span itemprop=&#34;publisher&#34;
              itemtype=&#34;http://schema.org/Organization&#34;
-             itemscope=&#34;&#34;&gt;
+             itemscope&gt;
     &lt;span itemprop=&#34;name&#34;&gt;World Health Organization&lt;/span&gt;&lt;/span&gt;.&lt;/span&gt;
 
 

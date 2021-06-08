@@ -5,7 +5,7 @@
     <link>https://hughandbecky.us/Hugh-CV/tag/metadata/</link>
       <atom:link href="https://hughandbecky.us/Hugh-CV/tag/metadata/index.xml" rel="self" type="application/rss+xml" />
     <description>Metadata</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2021</copyright><lastBuildDate>Wed, 21 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2021</copyright><lastBuildDate>Wed, 23 Jun 2021 17:00:12 -0700</lastBuildDate>
     <image>
       <url>https://hughandbecky.us/Hugh-CV/media/HughPaterson.jpg</url>
       <title>Metadata</title>
@@ -13,11 +13,300 @@
     </image>
     
     <item>
+      <title>Resource Discovery at the Linguistic Lab Level</title>
+      <link>https://hughandbecky.us/Hugh-CV/talk/2021-resource-discovery-at-the-linguistic-lab-level/</link>
+      <pubDate>Wed, 23 Jun 2021 17:00:12 -0700</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/talk/2021-resource-discovery-at-the-linguistic-lab-level/</guid>
+      <description>&lt;p&gt;The work of many linguists, grant funded projects, and journals which focus on regional or areal linguists rather than “state-of-the-art” discussions are in danger of going unnoticed, including much of the fantastic work done at LLACAN. One method to mitigate the hidden nature of these resources is to create indexes which comply with the Open Language Archives Community standard.  The Open Language Archive Community (OLAC, Simons &amp;amp; Bird 2003) metadata standards are foundational in sharing the existence of language materials. OLAC was designed to promote resource discoverability across institutional archives and was built with professional data transmission standards used in library sciences. However, anyone can submit indexes to OLAC—including indexes of personal collections.  Indexes are fairly straightforward to create; they deliver descriptions and identifiers pointing out where to find the resources. All that is needed is a published feed, essentially a string of XML data, that points OLAC to the URL where the index is located.&lt;/p&gt;
+&lt;p&gt;In 2012 at the Satellite Workshop for Sociolinguistic Archive Preparation (LSA, Portland) it was expressed that many individual scholars, who might have data, do not have the desire to formally archive their data based on institutional policies. They do not want to openly share the data itself, but they do want people to know it exists. Even if scholars do archive in their institutional repositories (such as HAL), broad-scope search engines (GoogleScholar) may choose to ignore these resources (Arlitsch and O&amp;rsquo;Brien 2012). Academically-oriented social networks (academia.edu and researchgate.net) attempt to find a business opportunity in this discoverability gap (Ovadia 2014; Niyazov, et al. 2016). Social network solutions and institutional repositories fail to aggregate resources based on formal ontologies which are meaningful for linguists. As a result, the work of many retired and late-career linguists is being “lost” to convenient and “required” platforms. Convenience also drives some early-career linguists to use costless-deposit archives (Zenodo, Figshare, and OSF) without considering discoverability. OLAC lists 390,035 items across participating archives (as of July 2020); Glottolog lists references for 338,158 items as of version 4.2.1. However, OLAC numbers do not necessarily reflect the actual language resources in archives, and Glottolog numbers reflect more publications than archival materials. Several archives only sporadically updated their metadata feed to OLAC. For instance, the SIL Language and Culture Archives report that it has 46,000 items via its website (August 2020). However, only 30,177 are visible in OLAC with submission dates ranging from 2013 through May 2021.&lt;/p&gt;
+&lt;p&gt;Even if language materials are deposited in an OLAC participating archive, they may not be discoverable through OLAC. This leaves it up to the individual or their lab to advertise the existence of their works. By my calculations, the number of linguistic descriptions grows by approximately 15,000 items per year. Many of these items never find their way into OLAC or Glottolog — or more specifically language research related indexers. I propose that the best way for researchers to optimize their social profile — advertising their experience and academic output — is to archive their content within institutional repositories but self-host a CV-oriented website, pushing metadata to aggregators.&lt;/p&gt;
+&lt;p&gt;Using open source technologies following strategies outlined by Utomo &amp;amp; Falahah (2020) I use Hugo and the WowChemy theme to demonstrate how a researcher or lab can achieve these goals without the use of traditional server technologies. I do this with a modified RSS feed that compiles metadata and produces an OLAC compliant data feed, the researcher can then advertise language descriptions directly through OLAC.&lt;/p&gt;
+&lt;h3 id=&#34;bibliography&#34;&gt;Bibliography&lt;/h3&gt;
+
+
+
+
+
+
+
+
+
+
+
+&lt;section class=&#34;hugo-cite-bibliography&#34;&gt;
+  &lt;dl&gt;
+    
+
+      &lt;div id=&#34;arlitsch_invisible_2012&#34;&gt;
+        &lt;dt&gt;
+          Arlitsch&amp;#32;&amp;amp;&amp;#32;O&amp;#39;Brien
+
+          
+          (2012)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Arlitsch&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Kenning&#34; /&gt;
+    K.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;O&amp;#39;Brien&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Patrick S.&#34; /&gt;
+    P.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2012&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;Invisible institutional repositories: Addressing the low indexing ratios of IRs in Google Scholar&lt;/span&gt;.&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;Library Hi Tech&lt;/span&gt;,&amp;#32;30(1)&lt;/i&gt;.&amp;#32;&lt;span itemprop=&#34;pagination&#34;&gt;60–81&lt;/span&gt;.
+  &lt;a href=&#34;https://doi.org/10.1108/07378831211213210&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://doi.org/10.1108/07378831211213210&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;niyazov_open_2016&#34;&gt;
+        &lt;dt&gt;
+          Niyazov,&amp;#32;
+          Vogel,&amp;#32;
+          Price,&amp;#32;
+          Lund,&amp;#32;
+          Judd,&amp;#32;
+          Akil,&amp;#32;
+          Mortonson,&amp;#32;
+          Schwartzman&amp;#32;&amp;amp;&amp;#32;Shron
+
+          
+          (2016)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Niyazov&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Yuri&#34; /&gt;
+    Y.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Vogel&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Carl&#34; /&gt;
+    C.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Price&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Richard&#34; /&gt;
+    R.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Lund&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Ben&#34; /&gt;
+    B.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Judd&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;David&#34; /&gt;
+    D.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Akil&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Adnan&#34; /&gt;
+    A.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Mortonson&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Michael&#34; /&gt;
+    M.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Schwartzman&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Josh&#34; /&gt;
+    J.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Shron&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Max&#34; /&gt;
+    M.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2016&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;Open Access Meets Discoverability: Citations to Articles Posted to Academia.edu&lt;/span&gt;.
+  &amp;#32;In&amp;#32;&lt;span itemprop=&#34;editor&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Dorta-González&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Pablo&#34; /&gt;
+    P.&lt;/span&gt; (Eds.),&amp;#32;&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;PLOS ONE&lt;/span&gt;,&amp;#32;11(2)&lt;/i&gt;.&amp;#32;&lt;span itemprop=&#34;pagination&#34;&gt;e0148257&lt;/span&gt;.
+  &lt;a href=&#34;https://doi.org/10.1371/journal.pone.0148257&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://doi.org/10.1371/journal.pone.0148257&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;ovadia_researchgate_2014&#34;&gt;
+        &lt;dt&gt;
+          Ovadia
+
+          
+          (2014)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Ovadia&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Steven&#34; /&gt;
+    S.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2014&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;ResearchGate and Academia.edu: Academic Social Networks&lt;/span&gt;.&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;Behavioral &amp;amp; Social Sciences Librarian&lt;/span&gt;,&amp;#32;33(3)&lt;/i&gt;.&amp;#32;&lt;span itemprop=&#34;pagination&#34;&gt;165–169&lt;/span&gt;.
+  &lt;a href=&#34;https://doi.org/10.1080/01639269.2014.934093&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://doi.org/10.1080/01639269.2014.934093&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;simons_open_2003&#34;&gt;
+        &lt;dt&gt;
+          Simons&amp;#32;&amp;amp;&amp;#32;Bird
+
+          
+          (2003)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Simons&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Gary F.&#34; /&gt;
+    G.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Bird&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Steven&#34; /&gt;
+    S.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2003&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;The Open Language Archives Community: An Infrastructure for Distributed Archiving of Language Resources&lt;/span&gt;.&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;Literary and Linguistic Computing&lt;/span&gt;,&amp;#32;18(2)&lt;/i&gt;.&amp;#32;&lt;span itemprop=&#34;pagination&#34;&gt;117–128&lt;/span&gt;.
+  &lt;a href=&#34;https://doi.org/10.1093/llc/18.2.117&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://doi.org/10.1093/llc/18.2.117&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;utomo_building_2020&#34;&gt;
+        &lt;dt&gt;
+          Utomo&amp;#32;&amp;amp;&amp;#32;
+
+          
+          (2020)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Utomo&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Prayudi&#34; /&gt;
+    P.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2020&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;Building Serverless Website on GitHub Pages&lt;/span&gt;.&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;IOP Conference Series: Materials Science and Engineering&lt;/span&gt;,&amp;#32;879&lt;/i&gt;.&amp;#32;&lt;span itemprop=&#34;pagination&#34;&gt;012077&lt;/span&gt;.
+  &lt;a href=&#34;https://doi.org/10.1088/1757-899X/879/1/012077&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://doi.org/10.1088/1757-899X/879/1/012077&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+  &lt;/dl&gt;
+&lt;/section&gt;
+
+
+
+</description>
+    </item>
+    
+    <item>
+      <title>Language Archive Records: Interoperability of Referencing Practices and Metadata Models</title>
+      <link>https://hughandbecky.us/Hugh-CV/talk/2021-language-archive-records-interoperability-of-referencing-practices-and-metadata-models/</link>
+      <pubDate>Wed, 21 Apr 2021 17:00:12 -0700</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/talk/2021-language-archive-records-interoperability-of-referencing-practices-and-metadata-models/</guid>
+      <description>&lt;div id=&#34;watch&#34;&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/uzKGPXjAjvA&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Language Archive Records: Interoperability of Referencing Practices and Metadata Models</title>
       <link>https://hughandbecky.us/Hugh-CV/publication/2021-language-archive-records/</link>
       <pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate>
       <guid>https://hughandbecky.us/Hugh-CV/publication/2021-language-archive-records/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Citable as&lt;/strong&gt;:&lt;/p&gt;
+      <description>&lt;p&gt;&lt;strong&gt;Referencable as&lt;/strong&gt;:&lt;/p&gt;
 &lt;p&gt;Hugh Paterson III (2021) Language Archive Records: Interoperability of Referencing Practices and Metadata Models. M.A. Thesis University of North Dakota: Grand Forks.&lt;/p&gt;
 </description>
     </item>

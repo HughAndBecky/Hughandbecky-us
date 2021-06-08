@@ -5,7 +5,7 @@
     <link>https://hughandbecky.us/Hugh-CV/tag/zotero/</link>
       <atom:link href="https://hughandbecky.us/Hugh-CV/tag/zotero/index.xml" rel="self" type="application/rss+xml" />
     <description>Zotero</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2021</copyright><lastBuildDate>Wed, 21 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2021</copyright><lastBuildDate>Wed, 21 Apr 2021 17:00:12 -0700</lastBuildDate>
     <image>
       <url>https://hughandbecky.us/Hugh-CV/media/HughPaterson.jpg</url>
       <title>Zotero</title>
@@ -14,10 +14,25 @@
     
     <item>
       <title>Language Archive Records: Interoperability of Referencing Practices and Metadata Models</title>
+      <link>https://hughandbecky.us/Hugh-CV/talk/2021-language-archive-records-interoperability-of-referencing-practices-and-metadata-models/</link>
+      <pubDate>Wed, 21 Apr 2021 17:00:12 -0700</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/talk/2021-language-archive-records-interoperability-of-referencing-practices-and-metadata-models/</guid>
+      <description>&lt;div id=&#34;watch&#34;&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/uzKGPXjAjvA&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Language Archive Records: Interoperability of Referencing Practices and Metadata Models</title>
       <link>https://hughandbecky.us/Hugh-CV/publication/2021-language-archive-records/</link>
       <pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate>
       <guid>https://hughandbecky.us/Hugh-CV/publication/2021-language-archive-records/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Citable as&lt;/strong&gt;:&lt;/p&gt;
+      <description>&lt;p&gt;&lt;strong&gt;Referencable as&lt;/strong&gt;:&lt;/p&gt;
 &lt;p&gt;Hugh Paterson III (2021) Language Archive Records: Interoperability of Referencing Practices and Metadata Models. M.A. Thesis University of North Dakota: Grand Forks.&lt;/p&gt;
 </description>
     </item>

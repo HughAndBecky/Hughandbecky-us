@@ -375,20 +375,27 @@ Hugh Paterson III &amp;amp; Fraser Bennet
 
 
 &lt;span itemscope
-      itemtype=&#34;https://schema.org/CreativeWork&#34;
+      itemtype=&#34;https://schema.org/Thesis&#34;
       data-type=&#34;thesis&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Avonds&lt;/span&gt;,&amp;#32;
     &lt;meta itemprop=&#34;givenName&#34; content=&#34;Bob&#34; /&gt;
     B.&lt;/span&gt;
   &amp;#32;
     (&lt;span itemprop=&#34;datePublished&#34;&gt;2017&lt;/span&gt;).
   &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;
-    &lt;i&gt;How does organizational learning influence the business model? The case of a high-tech company&lt;/i&gt;&lt;/span&gt;.
-  &amp;#32;
-  &lt;span itemprop=&#34;publisher&#34; itemtype=&#34;http://schema.org/Organization&#34; itemscope=&#34;&#34;&gt;
-    &lt;span itemprop=&#34;name&#34;&gt;Open Universiteit Nederland&lt;/span&gt;&lt;/span&gt;.&amp;#32;Retrieved from&amp;#32;
+    &lt;i&gt;How does organizational learning influence the business model? The case of a high-tech company&lt;/i&gt;
+  &lt;/span&gt;&lt;span itemprop=&#34;inSupportOf&#34;&gt;&amp;nbsp;(M.S. Thesis)&lt;/span&gt;.&amp;nbsp;
+&amp;#32;
+  &lt;span itemprop=&#34;publisher&#34;
+             itemtype=&#34;http://schema.org/EducationalOrganization&#34;
+             itemscope&gt;
+    &lt;span itemprop=&#34;name&#34;&gt;Open Universiteit Nederland&lt;/span&gt;, &amp;#32;Retrieved from&amp;#32;
   &lt;a href=&#34;https://core.ac.uk/download/pdf/85227506.pdf&#34;
      itemprop=&#34;identifier&#34;
      itemtype=&#34;https://schema.org/URL&#34;&gt;https://core.ac.uk/download/pdf/85227506.pdf&lt;/a&gt;&lt;/span&gt;
+
+
+
+
 
 &lt;/dd&gt;
 
@@ -686,7 +693,7 @@ Hugh Paterson III &amp;amp; Fraser Bennet
   &amp;#32;
   &lt;span itemprop=&#34;publisher&#34;
              itemtype=&#34;http://schema.org/Organization&#34;
-             itemscope=&#34;&#34;&gt;
+             itemscope&gt;
     &lt;span itemprop=&#34;name&#34;&gt;Cambridge Scholars Publishing&lt;/span&gt;&lt;/span&gt;.&lt;/span&gt;
 
 
@@ -757,21 +764,28 @@ Hugh Paterson III &amp;amp; Fraser Bennet
 
 
 &lt;span itemscope
-      itemtype=&#34;https://schema.org/CreativeWork&#34;
+      itemtype=&#34;https://schema.org/Thesis&#34;
       data-type=&#34;thesis&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;McAvennie&lt;/span&gt;,&amp;#32;
     &lt;meta itemprop=&#34;givenName&#34; content=&#34;Anastasia&#34; /&gt;
     A.&lt;/span&gt;
   &amp;#32;
     (&lt;span itemprop=&#34;datePublished&#34;&gt;2017&lt;/span&gt;).
   &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;
-    &lt;i&gt;Development of a business model for the internationalisation of a Finnish corporate training service for the European data centre industry&lt;/i&gt;&lt;/span&gt;.
-  &lt;meta itemprop=&#34;contentLocation&#34;
-        content=&#34;Finland&#34;&gt;&amp;#32;
-  &lt;span itemprop=&#34;publisher&#34; itemtype=&#34;http://schema.org/Organization&#34; itemscope=&#34;&#34;&gt;
-    &lt;span itemprop=&#34;name&#34;&gt;Jyväskylän ammattikorkeakoulu University of Applied Sciences&lt;/span&gt;&lt;/span&gt;.&amp;#32;Retrieved from&amp;#32;
+    &lt;i&gt;Development of a business model for the internationalisation of a Finnish corporate training service for the European data centre industry&lt;/i&gt;
+  &lt;/span&gt;&lt;span itemprop=&#34;inSupportOf&#34;&gt;&amp;nbsp;(MBA Thesis)&lt;/span&gt;.&amp;nbsp;
+&lt;meta itemprop=&#34;contentLocation&#34;
+        value=&#34;Finland&#34;&gt;&amp;#32;
+  &lt;span itemprop=&#34;publisher&#34;
+             itemtype=&#34;http://schema.org/EducationalOrganization&#34;
+             itemscope&gt;
+    &lt;span itemprop=&#34;name&#34;&gt;Jyväskylän ammattikorkeakoulu University of Applied Sciences&lt;/span&gt;, &amp;#32; &lt;span itemprop=&#34;location&#34;&gt;Finland&lt;/span&gt;&lt;/span&gt;.&amp;#32;Retrieved from&amp;#32;
   &lt;a href=&#34;http://www.theseus.fi/handle/10024/131377&#34;
      itemprop=&#34;identifier&#34;
      itemtype=&#34;https://schema.org/URL&#34;&gt;http://www.theseus.fi/handle/10024/131377&lt;/a&gt;&lt;/span&gt;
+
+
+
+
 
 &lt;/dd&gt;
 
