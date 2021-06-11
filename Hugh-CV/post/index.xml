@@ -5,12 +5,526 @@
     <link>https://hughandbecky.us/Hugh-CV/post/</link>
       <atom:link href="https://hughandbecky.us/Hugh-CV/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2021</copyright><lastBuildDate>Sun, 23 May 2021 14:35:45 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2021</copyright><lastBuildDate>Thu, 10 Jun 2021 14:35:45 +0100</lastBuildDate>
     <image>
       <url>https://hughandbecky.us/Hugh-CV/media/HughPaterson.jpg</url>
       <title>Posts</title>
       <link>https://hughandbecky.us/Hugh-CV/post/</link>
     </image>
+    
+    <item>
+      <title>OLAC Subject Terms</title>
+      <link>https://hughandbecky.us/Hugh-CV/post/olac-subject-terms/</link>
+      <pubDate>Thu, 10 Jun 2021 14:35:45 +0100</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/post/olac-subject-terms/</guid>
+      <description>&lt;p&gt;Library of Congress Subject Heading (LCSH) terms are constantly evolving, only usually have 
+&lt;a href=&#34;http://www.tulane.edu/~techserv/lcsh%20introd.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;3-6 applied to a single work&lt;/a&gt;, are comprised of morphological components (there are classes of terms—roots or stems which are called topics, and then modifiers which are called topical subdivisions). For discussion of the linguistics in the LCSH description language consider 
+
+
+
+
+
+
+
+&lt;span class=&#34;hugo-cite-intext&#34;
+        itemprop=&#34;citation&#34;&gt;(&lt;a href=&#34;#daily_grammar_1957&#34;&gt;&lt;span class=&#34;visually-hidden&#34;&gt;Citation: &lt;/span&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;meta itemprop=&#34;givenName&#34; content=&#34;Jay Elwood&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Daily&lt;/span&gt;&lt;/span&gt;,&amp;#32;
+      &lt;span itemprop=&#34;datePublished&#34;&gt;1957&lt;/span&gt;&lt;/a&gt;)
+    &lt;span class=&#34;hugo-cite-citation&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Thesis&#34;
+      data-type=&#34;thesis&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Daily&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Jay Elwood&#34; /&gt;
+    J.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;1957&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;
+    &lt;i&gt;The Grammar of Subject Headings: A Formulation of Rules for Subject Heading Based on a Syntactical and Morphological Analysis of the Library of Congress List&lt;/i&gt;
+  &lt;/span&gt;.&amp;nbsp;
+&amp;#32;
+  &lt;span itemprop=&#34;publisher&#34;
+             itemtype=&#34;http://schema.org/EducationalOrganization&#34;
+             itemscope&gt;
+    &lt;span itemprop=&#34;name&#34;&gt;Columbia University&lt;/span&gt;, &amp;#32;Retrieved from&amp;#32;
+  &lt;a href=&#34;https://www.proquest.com/openview/41ed2cde0a8ef9cd9f8bc132b91e82c6/1&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://www.proquest.com/openview/41ed2cde0a8ef9cd9f8bc132b91e82c6/1&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+
+&lt;/span&gt;&lt;/span&gt;
+ 
+
+
+
+
+
+
+
+&lt;span class=&#34;hugo-cite-intext&#34;
+        itemprop=&#34;citation&#34;&gt;(&lt;a href=&#34;#svenonius_lcsh_2000&#34;&gt;&lt;span class=&#34;visually-hidden&#34;&gt;Citation: &lt;/span&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;meta itemprop=&#34;givenName&#34; content=&#34;Elaine&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Svenonius&lt;/span&gt;&lt;/span&gt;,&amp;#32;
+      &lt;span itemprop=&#34;datePublished&#34;&gt;2000&lt;/span&gt;&lt;/a&gt;)
+    &lt;span class=&#34;hugo-cite-citation&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Svenonius&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Elaine&#34; /&gt;
+    E.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2000&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;&lt;i&gt;LCSH&lt;/i&gt; : Semantics, Syntax and Specificity&lt;/span&gt;.&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;Cataloging &amp;amp; Classification Quarterly&lt;/span&gt;,&amp;#32;29(1-2)&lt;/i&gt;.&amp;#32;&lt;span itemprop=&#34;pagination&#34;&gt;17–30&lt;/span&gt;.
+  &lt;a href=&#34;https://doi.org/10.1300/J104v29n01_02&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://doi.org/10.1300/J104v29n01_02&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/span&gt;&lt;/span&gt;
+ 
+
+
+
+
+
+
+
+&lt;span class=&#34;hugo-cite-intext&#34;
+        itemprop=&#34;citation&#34;&gt;(&lt;a href=&#34;#iwe_linguistics_2001&#34;&gt;&lt;span class=&#34;visually-hidden&#34;&gt;Citation: &lt;/span&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;meta itemprop=&#34;givenName&#34; content=&#34;Josephine I.&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Iwe&lt;/span&gt;&lt;/span&gt;,&amp;#32;
+      &lt;span itemprop=&#34;datePublished&#34;&gt;2001&lt;/span&gt;&lt;/a&gt;)
+    &lt;span class=&#34;hugo-cite-citation&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Iwe&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Josephine I.&#34; /&gt;
+    J.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2001&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;Linguistics and Information Processing: Provision of Syntactic and Semantic Consistency in the Language of Library of Congress Subject Headings (LCSH) Pertaining to Literature and Librarianship: A Comparative Analysis&lt;/span&gt;.&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;Cataloging &amp;amp; Classification Quarterly&lt;/span&gt;,&amp;#32;32(2)&lt;/i&gt;.&amp;#32;&lt;span itemprop=&#34;pagination&#34;&gt;107–126&lt;/span&gt;.
+  &lt;a href=&#34;https://doi.org/10.1300/J104v32n02_09&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://doi.org/10.1300/J104v32n02_09&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/span&gt;&lt;/span&gt;
+ 
+
+
+
+
+
+
+
+&lt;span class=&#34;hugo-cite-intext&#34;
+        itemprop=&#34;citation&#34;&gt;(&lt;a href=&#34;#anderson_fully_2006&#34;&gt;&lt;span class=&#34;visually-hidden&#34;&gt;Citation: &lt;/span&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;meta itemprop=&#34;givenName&#34; content=&#34;James D.&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Anderson&lt;/span&gt;&lt;/span&gt;
+      &lt;em&gt;et al.&lt;/em&gt;,&amp;#32;
+      &lt;span itemprop=&#34;datePublished&#34;&gt;2006&lt;/span&gt;&lt;/a&gt;)
+    &lt;span class=&#34;hugo-cite-citation&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Anderson&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;James D.&#34; /&gt;
+    J.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Hofmann&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Melissa A.&#34; /&gt;
+    M.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2006&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;A Fully Faceted Syntax for &lt;i&gt;Library of Congress Subject Headings&lt;/i&gt;&lt;/span&gt;.&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;Cataloging &amp;amp; Classification Quarterly&lt;/span&gt;,&amp;#32;43(1)&lt;/i&gt;.&amp;#32;&lt;span itemprop=&#34;pagination&#34;&gt;7–38&lt;/span&gt;.
+  &lt;a href=&#34;https://doi.org/10.1300/J104v43n01_03&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://doi.org/10.1300/J104v43n01_03&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/span&gt;&lt;/span&gt;
+.&lt;/p&gt;
+&lt;p&gt;In contrast to these subject terms, the Open Language Archives Community metadata schema, a Dublin Core profile designed to be shared over OAI-PMH has only 29 subject terms. The small number of terms (set size) and their apparent clarity to linguists are some of the great aspects of OLAC, where content creators are often the ones who also are cataloging the materials. Of the 29 OLAC subject terms listed in the 
+&lt;a href=&#34;http://www.language-archives.org/REC/field.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OLAC documentation&lt;/a&gt;, the documentation indicates that 22 of them are matched to LCSH terms. Generally the OLAC note says: &amp;ldquo;The category is equivalent to the Library of Congress subject heading of the same name.&amp;rdquo; However, no specific LCSH term is specified. This creates problems for libraries who might otherwise use their LCSH terms to propagate OLAC terminologies for use in the OLAC aggregator.&lt;/p&gt;
+&lt;p&gt;Two examples are worth noting:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://www.language-archives.org/REC/field.html#phonology&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Phonology&lt;/a&gt;. The OLAC term for phonology says that there is no equivalent term in the LCSH schema. I find this ridiculous, untrue, but yet understandable. Within the LCSH system Phonology is a topical subdivision term. Meaning it is a &amp;ldquo;morpheme&amp;rdquo; which combines with qualified topic terms. So, the concept exists within the LCSH system, but not independently. The most general phonology term in the LCSH system is a complex term &lt;code&gt;Grammar, Comparative and general--Phonology&lt;/code&gt; which does not have a referenceable URI, further complicating equivalency mappings in crosswalks.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://www.language-archives.org/REC/field.html#lexicography&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lexicography&lt;/a&gt; The OLAC term for phonology says that it is equivalent same term in the LCSH schema. However, there are two terms in LCSH for Lexicography. It is not clear which one OLAC means. As mentioned previously, LCSH terms exist in different classes (roots and &amp;ldquo;derivation&amp;rdquo; morphemes). The root topic concept is 
+&lt;a href=&#34;https://id.loc.gov/authorities/subjects/sh85076357&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;sh85076357&lt;/a&gt;, but the general subdivision one would is 
+&lt;a href=&#34;https://id.loc.gov/authorities/subjects/sh99005001&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;sh99005001&lt;/a&gt;. It is probable that OLAC refers to the topic (root) rather than the general subdivision term. However, for clarity these things should be overtly stated.&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;sup&gt;,&lt;/sup&gt;&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;For the OLAC subjects I have looked at already the following table lists what I hypothesis as being the OLAC intended equivalent. I haven&amp;rsquo;t worked my way through the whole table yet. When I have worked through the whole set of OLAC terms I will present this data in a more beautiful way. Currently it is in a markdown table and as a JSON file 
+&lt;a href=&#34;olac-subjects.json&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;OLAC Term&lt;/th&gt;
+&lt;th&gt;OLAC ID&lt;/th&gt;
+&lt;th&gt;Equivelentcy status&lt;/th&gt;
+&lt;th&gt;LCSH Term&lt;/th&gt;
+&lt;th&gt;LCSH ID&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;anthropological_linguistics&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://www.language-archives.org/REC/field.html#anthropological_linguistics&#34;&gt;http://www.language-archives.org/REC/field.html#anthropological_linguistics&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;The category is equivalent to the Library of Congress subject heading of the same name.&lt;/td&gt;
+&lt;td&gt;anthropological linguistics&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://id.loc.gov/authorities/subjects/sh85005577&#34;&gt;http://id.loc.gov/authorities/subjects/sh85005577&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;cognitive_science&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://www.language-archives.org/REC/field.html#cognitive_science&#34;&gt;http://www.language-archives.org/REC/field.html#cognitive_science&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;The category is equivalent to the Library of Congress subject heading of the same name.&lt;/td&gt;
+&lt;td&gt;Cognitive science&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://id.loc.gov/authorities/subjects/sh88006179&#34;&gt;http://id.loc.gov/authorities/subjects/sh88006179&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;computational_linguistics&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://www.language-archives.org/REC/field.html#computational_linguistics&#34;&gt;http://www.language-archives.org/REC/field.html#computational_linguistics&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;The category is equivalent to the Library of Congress subject heading of the same name.&lt;/td&gt;
+&lt;td&gt;Computational linguistics&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://id.loc.gov/authorities/subjects/sh85077224&#34;&gt;http://id.loc.gov/authorities/subjects/sh85077224&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;discourse_analysis&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://www.language-archives.org/REC/field.html#discourse_analysis&#34;&gt;http://www.language-archives.org/REC/field.html#discourse_analysis&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;The category is equivalent to the Library of Congress subject heading of the same name.&lt;/td&gt;
+&lt;td&gt;Discourse analysis&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://id.loc.gov/authorities/subjects/sh85038362&#34;&gt;http://id.loc.gov/authorities/subjects/sh85038362&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;forensic_linguistics&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://www.language-archives.org/REC/field.html#forensic_linguistics&#34;&gt;http://www.language-archives.org/REC/field.html#forensic_linguistics&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;The category is equivalent to the Library of Congress subject heading of the same name.&lt;/td&gt;
+&lt;td&gt;Forensic linguistics&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://id.loc.gov/authorities/subjects/sh90004158&#34;&gt;http://id.loc.gov/authorities/subjects/sh90004158&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;phonology&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://www.language-archives.org/REC/field.html#phonology&#34;&gt;http://www.language-archives.org/REC/field.html#phonology&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;This is Hugh&amp;rsquo;s Guess&lt;/td&gt;
+&lt;td&gt;Grammar, Comparative and general&amp;ndash;Phonology&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;historical_linguistics&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://www.language-archives.org/REC/field.html#historical_linguistics&#34;&gt;http://www.language-archives.org/REC/field.html#historical_linguistics&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;The category is equivalent to the Library of Congress subject heading of the same name.&lt;/td&gt;
+&lt;td&gt;Historical linguistics&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://id.loc.gov/authorities/subjects/sh85061192&#34;&gt;http://id.loc.gov/authorities/subjects/sh85061192&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;lexicography&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://www.language-archives.org/REC/field.html#lexicography&#34;&gt;http://www.language-archives.org/REC/field.html#lexicography&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;The category is equivalent to the Library of Congress subject heading of the same name.&lt;/td&gt;
+&lt;td&gt;Lexicography&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://id.loc.gov/authorities/subjects/sh85076357&#34;&gt;http://id.loc.gov/authorities/subjects/sh85076357&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;general_linguistics&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://www.language-archives.org/REC/field.html#general_linguistics&#34;&gt;http://www.language-archives.org/REC/field.html#general_linguistics&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;This is Hugh&amp;rsquo;s Guess&lt;/td&gt;
+&lt;td&gt;Linguistics&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://id.loc.gov/authorities/subjects/sh85077222&#34;&gt;http://id.loc.gov/authorities/subjects/sh85077222&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;phonetics&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://www.language-archives.org/REC/field.html#phonetics&#34;&gt;http://www.language-archives.org/REC/field.html#phonetics&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;The category is equivalent to the Library of Congress subject heading of the same name.&lt;/td&gt;
+&lt;td&gt;Phonetics&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://id.loc.gov/authorities/subjects/sh85101053&#34;&gt;http://id.loc.gov/authorities/subjects/sh85101053&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;pragmatics&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://www.language-archives.org/REC/field.html#pragmatics&#34;&gt;http://www.language-archives.org/REC/field.html#pragmatics&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;The category is equivalent to the Library of Congress subject heading of the same name.&lt;/td&gt;
+&lt;td&gt;Pragmatics&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://id.loc.gov/authorities/subjects/sh85106058&#34;&gt;http://id.loc.gov/authorities/subjects/sh85106058&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;semantics&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://www.language-archives.org/REC/field.html#semantics&#34;&gt;http://www.language-archives.org/REC/field.html#semantics&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;The category is equivalent to the Library of Congress subject heading of the same name.&lt;/td&gt;
+&lt;td&gt;Semantics&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://id.loc.gov/authorities/subjects/sh85119870&#34;&gt;http://id.loc.gov/authorities/subjects/sh85119870&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;sociolinguistics&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://www.language-archives.org/REC/field.html#sociolinguistics&#34;&gt;http://www.language-archives.org/REC/field.html#sociolinguistics&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;The category is equivalent to the Library of Congress subject heading of the same name.&lt;/td&gt;
+&lt;td&gt;Sociolinguistics&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://id.loc.gov/authorities/subjects/sh85124195&#34;&gt;http://id.loc.gov/authorities/subjects/sh85124195&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;typology&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://www.language-archives.org/REC/field.html#typology&#34;&gt;http://www.language-archives.org/REC/field.html#typology&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;The category is equivalent to the Library of Congress subject heading of the same name.&lt;/td&gt;
+&lt;td&gt;Typology (Linguistics)&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://id.loc.gov/authorities/subjects/sh85139174&#34;&gt;http://id.loc.gov/authorities/subjects/sh85139174&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+  
+
+  
+
+
+
+
+
+
+
+
+
+
+&lt;section class=&#34;hugo-cite-bibliography&#34;&gt;
+  &lt;dl&gt;
+    
+
+      &lt;div id=&#34;anderson_fully_2006&#34;&gt;
+        &lt;dt&gt;
+          Anderson&amp;#32;&amp;amp;&amp;#32;Hofmann
+
+          
+          (2006)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Anderson&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;James D.&#34; /&gt;
+    J.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Hofmann&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Melissa A.&#34; /&gt;
+    M.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2006&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;A Fully Faceted Syntax for &lt;i&gt;Library of Congress Subject Headings&lt;/i&gt;&lt;/span&gt;.&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;Cataloging &amp;amp; Classification Quarterly&lt;/span&gt;,&amp;#32;43(1)&lt;/i&gt;.&amp;#32;&lt;span itemprop=&#34;pagination&#34;&gt;7–38&lt;/span&gt;.
+  &lt;a href=&#34;https://doi.org/10.1300/J104v43n01_03&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://doi.org/10.1300/J104v43n01_03&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;daily_grammar_1957&#34;&gt;
+        &lt;dt&gt;
+          Daily
+
+          
+          (1957)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Thesis&#34;
+      data-type=&#34;thesis&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Daily&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Jay Elwood&#34; /&gt;
+    J.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;1957&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;
+    &lt;i&gt;The Grammar of Subject Headings: A Formulation of Rules for Subject Heading Based on a Syntactical and Morphological Analysis of the Library of Congress List&lt;/i&gt;
+  &lt;/span&gt;.&amp;nbsp;
+&amp;#32;
+  &lt;span itemprop=&#34;publisher&#34;
+             itemtype=&#34;http://schema.org/EducationalOrganization&#34;
+             itemscope&gt;
+    &lt;span itemprop=&#34;name&#34;&gt;Columbia University&lt;/span&gt;, &amp;#32;Retrieved from&amp;#32;
+  &lt;a href=&#34;https://www.proquest.com/openview/41ed2cde0a8ef9cd9f8bc132b91e82c6/1&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://www.proquest.com/openview/41ed2cde0a8ef9cd9f8bc132b91e82c6/1&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;iwe_linguistics_2001&#34;&gt;
+        &lt;dt&gt;
+          Iwe
+
+          
+          (2001)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Iwe&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Josephine I.&#34; /&gt;
+    J.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2001&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;Linguistics and Information Processing: Provision of Syntactic and Semantic Consistency in the Language of Library of Congress Subject Headings (LCSH) Pertaining to Literature and Librarianship: A Comparative Analysis&lt;/span&gt;.&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;Cataloging &amp;amp; Classification Quarterly&lt;/span&gt;,&amp;#32;32(2)&lt;/i&gt;.&amp;#32;&lt;span itemprop=&#34;pagination&#34;&gt;107–126&lt;/span&gt;.
+  &lt;a href=&#34;https://doi.org/10.1300/J104v32n02_09&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://doi.org/10.1300/J104v32n02_09&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;svenonius_lcsh_2000&#34;&gt;
+        &lt;dt&gt;
+          Svenonius
+
+          
+          (2000)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Svenonius&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Elaine&#34; /&gt;
+    E.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2000&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;&lt;i&gt;LCSH&lt;/i&gt; : Semantics, Syntax and Specificity&lt;/span&gt;.&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;Cataloging &amp;amp; Classification Quarterly&lt;/span&gt;,&amp;#32;29(1-2)&lt;/i&gt;.&amp;#32;&lt;span itemprop=&#34;pagination&#34;&gt;17–30&lt;/span&gt;.
+  &lt;a href=&#34;https://doi.org/10.1300/J104v29n01_02&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://doi.org/10.1300/J104v29n01_02&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+  &lt;/dl&gt;
+&lt;/section&gt;
+
+
+
+&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;When writing a cross-walk from LCSH terms to OLAC terms it is likely that both lexicography terms should be mapped to the OLAC term. However, given the way that LCSH terms work, the opposite is not true (all OLAC lexicography terms should be made equivalent to LCSH concept sh85076357). &lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;Both Lexicography and Discourse Analysis have topic terms and general sub-division terms in LCSH. &lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/section&gt;
+</description>
+    </item>
     
     <item>
       <title>Work-for-Hire and Open Access</title>
@@ -3404,6 +3918,251 @@ I wanted to include the final PDF in XLingPaper which uses XeLaTeX on the back e
 My suspicion though is that passing the PDF through GhostSript also removes some of the mark-up features which already exist in the PDF via &lt;code&gt;wkhtmltopdf&lt;/code&gt;. This may include some of the links and embedded fonts — but on this last point I am not 100 percent sure.&lt;/p&gt;
 &lt;p&gt;In an earlier version of this workflow I was using standard size pages (A4, A3, etc.). Doing so required that I then cut the PDF so that the usable portion was able to usefully be scaled in xlingpaper. To do this I used 
 &lt;a href=&#34;https://pdfresizer.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;pdfresizer.com&lt;/a&gt; to reduce the physical dimensions of pdf paes. However this was not necessary to maintain because I was able to specify the dimentions I needed directly in &lt;code&gt;wkhtmltopdf&lt;/code&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Reference Types in Zotero, BibTeX, and XLingPaper</title>
+      <link>https://hughandbecky.us/Hugh-CV/post/reference-types-in-zotero-bibtex-and-xlingpaper/</link>
+      <pubDate>Sat, 10 Oct 2020 14:35:45 +0100</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/post/reference-types-in-zotero-bibtex-and-xlingpaper/</guid>
+      <description>&lt;p&gt;While working across systems sometimes I find this chart helpful. It aligns Zotero&amp;rsquo;s item types with how those item types are understood (with respect to exact equivalents) in BibTeX an XLingPaper. Note that per the instructions of BibTeX &lt;code&gt;@misc&lt;/code&gt; &amp;ldquo;miscellaneous&amp;rdquo; should be used for all items not otherwise specified.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;center&#34;&gt;Zotero types&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;BibTeX Types&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;XLingPaper Types&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;artwork&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;attachment&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;audioRecording&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;bill&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;blogPost&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;book&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;book&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;book&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;bookSection&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;incollection&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Paper in a collection&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;case&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;computerProgram&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;misc&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;conferencePaper&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;paper presented at a conference&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;dictionaryEntry&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;document&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;email&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;encyclopediaArticle&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;film&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;forumPost&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;hearing&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;instantMessage&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;interview&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;journalArticle&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;article&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;article&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;letter&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;magazineArticle&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;manuscript&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;ms&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;map&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;newspaperArticle&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;note&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;patent&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;podcast&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;presentation&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;radioBroadcast&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;report&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;techreport&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;statute&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;thesis&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;mastersthesis&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;thesis&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;tvBroadcast&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;videoRecording&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;webpage&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;webPage&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;phdthesis&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;dissertation&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;fieldNotes&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;inproceedings/conference&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Paper in a proceedings volume&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;booklet&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;image&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;inbook&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;manual&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;misc&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;unpublished&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
 </description>
     </item>
     
@@ -14063,6 +14822,544 @@ Hugh Paterson III
 
 &lt;/figure&gt;
 
+</description>
+    </item>
+    
+    <item>
+      <title>Visual Data and Interactive Data</title>
+      <link>https://hughandbecky.us/Hugh-CV/post/visual-data-and-interactive-data/</link>
+      <pubDate>Mon, 06 May 2013 14:35:45 +0100</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/post/visual-data-and-interactive-data/</guid>
+      <description>&lt;p&gt;Data is not just data. How we present data speaks to how we want to communicate what the data is useful for, and the kinds of change we want to incite based on interaction with or comprehension of that data.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Visual data&lt;/em&gt; and &lt;em&gt;Interactive data&lt;/em&gt; are important to scholars and NGOs alike as they endeavor to communicate their stories.  They are useful because they require (or allow) processing in ways that text based communication does not. Consider the following infographic.&lt;/p&gt;
+
+
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-distractable&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/visual-data-and-interactive-data/how-to-focus_50290d04c13f4_w618_hu05d9cc6042e38b1b1163267cf162c24b_156781_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Distractable&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/visual-data-and-interactive-data/how-to-focus_50290d04c13f4_w618_hu05d9cc6042e38b1b1163267cf162c24b_156781_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;Distraction tree&#34; width=&#34;618&#34; height=&#34;450&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;p&gt;Distractable
+      
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: 
+Learning Fundamentals
+&lt;/span&gt;
+&lt;/p&gt;
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;I could put all these items within the image in an linear outline format. However, by putting it in a picture format the viewer (of the story [data+graphic element]) is more likely to read some of it because they find some of the elements of iconicity interesting. The outline does not show relationships in two-dimensional space either.&lt;/p&gt;
+&lt;p&gt;As we consider that many of the people we interact with have the visual processing tendencies, it becomes necessary to have diverse teams which are comprised of artists, data mongers, and language development specialist who can collaborate to tell/produce and communicate the interesting concepts and stories we discover and negotiate in the &lt;em&gt;Language Development Movement&lt;/em&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;websites-with-interactive-devices-for-explaining-trends-via-large-data-sets&#34;&gt;Websites with interactive devices for explaining trends via large data sets&lt;/h2&gt;
+&lt;p&gt;The following are some screen shots of websites which I feel have made an effort to explain complex stories, supported through complex data to audiences via interactive data presentations&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+&lt;h4 id=&#34;helping-the-world-understand-where-the-global-problem-is-in-literacy&#34;&gt;Helping the world understand where the global problem is in Literacy.&lt;/h4&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://web.archive.org/web/20130602070216/http://www.uis.unesco.org/literacy/Pages/adult-youth-literacy-data-viz.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.uis.unesco.org/literacy/Pages/adult-youth-literacy-data-viz.aspx&lt;/a&gt; - UNESCO&lt;/p&gt;
+
+
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-world-literacy-rates&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/visual-data-and-interactive-data/UN-Literacy-Rates-2013-05-12-at-2.25.42-PM_huf760559bf516a711f812cd6c232dbd36_112029_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;World Literacy Rates&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/visual-data-and-interactive-data/UN-Literacy-Rates-2013-05-12-at-2.25.42-PM_huf760559bf516a711f812cd6c232dbd36_112029_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;World Literacy Rates, Map at UNESCO&#34; width=&#34;711&#34; height=&#34;699&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;p&gt;World Literacy Rates
+      
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: 
+UNESCO
+&lt;/span&gt;
+&lt;/p&gt;
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;h4 id=&#34;helping-citizens-know-how-they-are-using-energy&#34;&gt;Helping Citizens know how they are using energy.&lt;/h4&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://web.archive.org/web/20130313173324/http://www.evoenergy.co.uk/uk-energy-guide/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.evoenergy.co.uk/uk-energy-guide/&lt;/a&gt; - Tree and Energy&lt;/p&gt;
+
+
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-energy-consumption&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/visual-data-and-interactive-data/Percentages-Energy-2013-05-12-at-2.28.19-PM_hu5813022a56d7fe76c6e19785c194be43_260878_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Energy Consumption&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/visual-data-and-interactive-data/Percentages-Energy-2013-05-12-at-2.28.19-PM_hu5813022a56d7fe76c6e19785c194be43_260878_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;Bubble Chart in the shape of a tree with bubbles matching the size of consumption&#34; width=&#34;1003&#34; height=&#34;715&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;p&gt;Energy Consumption
+      
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: 
+evoenergy.co.uk
+&lt;/span&gt;
+&lt;/p&gt;
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;h4 id=&#34;helping-citizens-know-how-their-money-is-being-spent&#34;&gt;Helping citizens know how their money is being spent:&lt;/h4&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://web.archive.org/web/20130513225016/http://www.wheredoesmymoneygo.org/bubbletree-map.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.wheredoesmymoneygo.org/bubbletree-map.html#/~/grand-total&amp;ndash;2010-&lt;/a&gt; - National Budget&lt;/p&gt;
+
+
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-government-spending-in-wales&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/visual-data-and-interactive-data/Money-in-Wales-2013-05-12-at-2.27.13-PM_hu11676a4054b579ba91846068131a5d02_97077_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Government spending in Wales&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/visual-data-and-interactive-data/Money-in-Wales-2013-05-12-at-2.27.13-PM_hu11676a4054b579ba91846068131a5d02_97077_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;Government spending in Wales&#34; width=&#34;1034&#34; height=&#34;693&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;p&gt;Government spending in Wales
+      
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: 
+wheredoesmymoneygo.org
+&lt;/span&gt;
+&lt;/p&gt;
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;h4 id=&#34;who-re-tweets-remarks-from-the-candidate---showing-political-affinity-to-the-remarks&#34;&gt;Who re-tweets remarks from the candidate - showing political affinity to the remarks.&lt;/h4&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://web.archive.org/web/20130430020812if_/https://election.twitter.com/map/#t243902647571185664&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://election.twitter.com/map/#t245509634897633281&lt;/a&gt;
+This twitter map was also featured in the 
+&lt;a href=&#34;http://bits.blogs.nytimes.com/2012/11/01/new-data-shows-which-candidates-tweets-resonated-most-with-electorate/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NYTimes&lt;/a&gt; (accessible at the 
+&lt;a href=&#34;https://web.archive.org/web/20130525120850/http://bits.blogs.nytimes.com/2012/11/01/new-data-shows-which-candidates-tweets-resonated-most-with-electorate/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Internet Archive&lt;/a&gt;).&lt;/p&gt;
+
+
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-who-re-tweets-remarks-from-the-candidate&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/visual-data-and-interactive-data/Political-Twitter-2013-05-14-at-1.18.55-PM_hubc4e8d83e0826446d852f00ff67b0ea9_318197_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Who re-tweets remarks from the candidate&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/visual-data-and-interactive-data/Political-Twitter-2013-05-14-at-1.18.55-PM_hubc4e8d83e0826446d852f00ff67b0ea9_318197_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;Map of re-tweets for a political candidate&#34; width=&#34;1217&#34; height=&#34;816&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;p&gt;Who re-tweets remarks from the candidate
+      
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;https://web.archive.org/web/20130430020812if_/https://election.twitter.com/map/#t243902647571185664&#34;&gt; 
+Twitter
+&lt;/a&gt; &lt;/span&gt;
+&lt;/p&gt;
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;h4 id=&#34;california-elections&#34;&gt;California Elections&lt;/h4&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://web.archive.org/web/20130826210646/http://source.mozillaopennews.org/en-US/articles/wyncs-california-elections-data/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://source.mozillaopennews.org/en-US/articles/wyncs-california-elections-data&lt;/a&gt;&lt;/p&gt;
+
+
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-california-elections-visualized-live&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/visual-data-and-interactive-data/Cali-Elections-2013-05-14-at-1.34.28-PM_hu225a1f71ad9e6d72571cfb92687dfd7b_124019_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;California Elections visualized live&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/visual-data-and-interactive-data/Cali-Elections-2013-05-14-at-1.34.28-PM_hu225a1f71ad9e6d72571cfb92687dfd7b_124019_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;California Elections visualized live&#34; width=&#34;916&#34; height=&#34;669&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;p&gt;California Elections visualized live
+      
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: 
+WYNC &amp;amp; KPCC
+&lt;/span&gt;
+&lt;/p&gt;
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;h4 id=&#34;facebook-mapping-the-worlds-friendships&#34;&gt;Facebook: Mapping the World&amp;rsquo;s Friendships&lt;/h4&gt;
+
+
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-the-us-occupied-the-marshall-islands-from-1944-until-1986-and-10-percent-of-the-islands-residents-hail-from-the-us-the-top-destination-for-marshallese-immigrants-is-the-united-states-where-they-mostly-reside-in-hawaii-oregon-california-and-arkansas&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/visual-data-and-interactive-data/fb3_hu196dfc9b73be07aae16707f4ff85b40b_74860_2000x2000_fit_lanczos.gif&#34; data-caption=&#34;The U.S. occupied the Marshall Islands from 1944 until 1986, and 10 percent of the islands&amp;amp;rsquo; residents hail from the U.S. The top destination for Marshallese immigrants is the United States, where they mostly reside in Hawaii, Oregon, California and Arkansas.&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/visual-data-and-interactive-data/fb3_hu196dfc9b73be07aae16707f4ff85b40b_74860_2000x2000_fit_lanczos.gif&#34; class=&#34;lazyload&#34; alt=&#34;Map of Facebook Relationships&#34; width=&#34;958&#34; height=&#34;677&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;p&gt;The U.S. occupied the Marshall Islands from 1944 until 1986, and 10 percent of the islands&amp;rsquo; residents hail from the U.S. The top destination for Marshallese immigrants is the United States, where they mostly reside in Hawaii, Oregon, California and Arkansas.
+      
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;https://web.archive.org/web/20121017045328/http://content.stamen.com/facebook_mapping_the_worlds_friendships&#34;&gt; 
+Stamen Studio
+&lt;/a&gt; &lt;/span&gt;
+&lt;/p&gt;
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;h4 id=&#34;other-non-interactive-info-graphics&#34;&gt;Other non-interactive info graphics&lt;/h4&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://ifweassume.blogspot.com/2012/09/us-population-by-longitude-latitude.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;US Population&lt;/a&gt;&lt;/p&gt;
+
+
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-us-population-by-longitude--latitude&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/visual-data-and-interactive-data/us-population-by-longitude_5066047b7c9e1_w1500_hua8c3d6862769ab9f73b855c75a732dd7_1537564_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;US Population By Longitude &amp;amp;amp; Latitude&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/visual-data-and-interactive-data/us-population-by-longitude_5066047b7c9e1_w1500_hua8c3d6862769ab9f73b855c75a732dd7_1537564_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;US Population By Longitude &amp;amp; Latitude&#34; width=&#34;1500&#34; height=&#34;1909&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;p&gt;US Population By Longitude &amp;amp; Latitude
+      
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;https://ifweassume.blogspot.com/2012/09/us-population-by-longitude-latitude.html&#34;&gt; 
+James Davenport
+&lt;/a&gt; &lt;/span&gt;
+&lt;/p&gt;
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;A similar story is told via the following map. However, a key difference is that the above map shows the distribution across the country, while the map below emphasizes change over time.&lt;/p&gt;
+
+
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-mean-center-of-population-for-the-united-states-1790-to-2010&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/visual-data-and-interactive-data/2010-Center-of-population_hubf83f6e6e67e39869d1218507f785efc_372528_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Mean Center of Population for the United States: 1790 to 2010&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/visual-data-and-interactive-data/2010-Center-of-population_hubf83f6e6e67e39869d1218507f785efc_372528_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;Mean Center of Population for the United States: 1790 to 2010&#34; width=&#34;1100&#34; height=&#34;850&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;p&gt;Mean Center of Population for the United States: 1790 to 2010
+      
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;https://web.archive.org/web/20110902052712/http://www.census.gov/geo/www/2010census/centerpop2010/centerpop_mean2010.pdf&#34;&gt; 
+U.S. Census Bureau, Geography Division
+&lt;/a&gt; &lt;/span&gt;
+&lt;/p&gt;
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;h4 id=&#34;video-based-infographics&#34;&gt;Video based infographics&lt;/h4&gt;
+&lt;p&gt;Sometimes infographics can come in video formats. This short about Coke has visual supports for the story in many of the ways that infographics do.
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://player.vimeo.com/video/33402623&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+&lt;/p&gt;
+&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;Links often suffer from link rot and cease to exist after some time. Many of the links on this page point to the location of the source in the Internet Archive. &lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/section&gt;
 </description>
     </item>
     

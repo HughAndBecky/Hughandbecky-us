@@ -1,0 +1,100 @@
+[
+    {
+        "OLAC Term": "anthropological_linguistics",
+        "OLAC ID": "http://www.language-archives.org/REC/field.html#anthropological_linguistics",
+        "Equivelentcy status": "The category is equivalent to the Library of Congress subject heading of the same name.",
+        "LCSH Term": "anthropological linguistics",
+        "LCSH ID": "http://id.loc.gov/authorities/subjects/sh85005577"
+    },
+    {
+        "OLAC Term": "cognitive_science",
+        "OLAC ID": "http://www.language-archives.org/REC/field.html#cognitive_science",
+        "Equivelentcy status": "The category is equivalent to the Library of Congress subject heading of the same name.",
+        "LCSH Term": "Cognitive science",
+        "LCSH ID": "http://id.loc.gov/authorities/subjects/sh88006179"
+    },
+    {
+        "OLAC Term": "computational_linguistics",
+        "OLAC ID": "http://www.language-archives.org/REC/field.html#computational_linguistics",
+        "Equivelentcy status": "The category is equivalent to the Library of Congress subject heading of the same name.",
+        "LCSH Term": "Computational linguistics",
+        "LCSH ID": "http://id.loc.gov/authorities/subjects/sh85077224"
+    },
+    {
+        "OLAC Term": "discourse_analysis",
+        "OLAC ID": "http://www.language-archives.org/REC/field.html#discourse_analysis",
+        "Equivelentcy status": "The category is equivalent to the Library of Congress subject heading of the same name.",
+        "LCSH Term": "Discourse analysis",
+        "LCSH ID": "http://id.loc.gov/authorities/subjects/sh85038362"
+    },
+    {
+        "OLAC Term": "forensic_linguistics",
+        "OLAC ID": "http://www.language-archives.org/REC/field.html#forensic_linguistics",
+        "Equivelentcy status": "The category is equivalent to the Library of Congress subject heading of the same name.",
+        "LCSH Term": "Forensic linguistics",
+        "LCSH ID": "http://id.loc.gov/authorities/subjects/sh90004158"
+    },
+    {
+        "OLAC Term": "phonology",
+        "OLAC ID": "http://www.language-archives.org/REC/field.html#phonology",
+        "Equivelentcy status": "This is Hugh's Guess",
+        "LCSH Term": "Grammar, Comparative and general--Phonology",
+        "LCSH ID": ""
+    },
+    {
+        "OLAC Term": "historical_linguistics",
+        "OLAC ID": "http://www.language-archives.org/REC/field.html#historical_linguistics",
+        "Equivelentcy status": "The category is equivalent to the Library of Congress subject heading of the same name.",
+        "LCSH Term": "Historical linguistics",
+        "LCSH ID": "http://id.loc.gov/authorities/subjects/sh85061192"
+    },
+    {
+        "OLAC Term": "lexicography",
+        "OLAC ID": "http://www.language-archives.org/REC/field.html#lexicography",
+        "Equivelentcy status": "The category is equivalent to the Library of Congress subject heading of the same name.",
+        "LCSH Term": "Lexicography",
+        "LCSH ID": "http://id.loc.gov/authorities/subjects/sh85076357"
+    },
+    {
+        "OLAC Term": "general_linguistics",
+        "OLAC ID": "http://www.language-archives.org/REC/field.html#general_linguistics",
+        "Equivelentcy status": "This is Hugh's Guess",
+        "LCSH Term": "Linguistics",
+        "LCSH ID": "http://id.loc.gov/authorities/subjects/sh85077222"
+    },
+    {
+        "OLAC Term": "phonetics",
+        "OLAC ID": "http://www.language-archives.org/REC/field.html#phonetics",
+        "Equivelentcy status": "The category is equivalent to the Library of Congress subject heading of the same name.",
+        "LCSH Term": "Phonetics",
+        "LCSH ID": "http://id.loc.gov/authorities/subjects/sh85101053"
+    },
+    {
+        "OLAC Term": "pragmatics",
+        "OLAC ID": "http://www.language-archives.org/REC/field.html#pragmatics",
+        "Equivelentcy status": "The category is equivalent to the Library of Congress subject heading of the same name.",
+        "LCSH Term": "Pragmatics",
+        "LCSH ID": "http://id.loc.gov/authorities/subjects/sh85106058"
+    },
+    {
+        "OLAC Term": "semantics",
+        "OLAC ID": "http://www.language-archives.org/REC/field.html#semantics",
+        "Equivelentcy status": "The category is equivalent to the Library of Congress subject heading of the same name.",
+        "LCSH Term": "Semantics",
+        "LCSH ID": "http://id.loc.gov/authorities/subjects/sh85119870"
+    },
+    {
+        "OLAC Term": "sociolinguistics",
+        "OLAC ID": "http://www.language-archives.org/REC/field.html#sociolinguistics",
+        "Equivelentcy status": "The category is equivalent to the Library of Congress subject heading of the same name.",
+        "LCSH Term": "Sociolinguistics",
+        "LCSH ID": "http://id.loc.gov/authorities/subjects/sh85124195"
+    },
+    {
+        "OLAC Term": "typology",
+        "OLAC ID": "http://www.language-archives.org/REC/field.html#typology",
+        "Equivelentcy status": "The category is equivalent to the Library of Congress subject heading of the same name.",
+        "LCSH Term": "Typology (Linguistics)",
+        "LCSH ID": "http://id.loc.gov/authorities/subjects/sh85139174"
+    }
+]
