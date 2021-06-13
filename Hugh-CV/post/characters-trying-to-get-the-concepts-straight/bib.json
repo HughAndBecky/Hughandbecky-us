@@ -1,0 +1,4 @@
+[
+  {"id":"constable_toward_2002","archive":"Language & Culture Archive","author":[{"family":"Constable","given":"Peter G."}],"container-title":"SIL Electronic Working Papers","issued":{"date-parts":[[2002]]},"number-of-pages":"45","publisher":"SIL International","title":"Toward a Model for Language Identification Defining an ontology of language-related categories","type":"article-journal","URL":"https://www.sil.org/resources/publications/entry/7853","volume":"2002-003"},
+  {"id":"constable_understanding_2001","author":[{"family":"Constable","given":"Peter G."}],"container-title":"Implementing Writing Systems: an Introduction","editor":[{"family":"Lyons","given":"Melinda"}],"event-place":"Dallas","issued":{"date-parts":[[2001]]},"language":"English","page":"9-33","publisher":"SIL International","publisher-place":"Dallas","title":"Understanding characters, keystrokes, codepoints and glyphs: encoding and working with multilingual text","type":"chapter"}
+]

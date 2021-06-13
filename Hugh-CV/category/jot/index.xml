@@ -13,12 +13,12 @@
     </image>
     
     <item>
-      <title>OLAC Subject Terms</title>
+      <title>OLAC Subject Terms and Their Equivalents</title>
       <link>https://hughandbecky.us/Hugh-CV/post/olac-subject-terms/</link>
       <pubDate>Thu, 10 Jun 2021 14:35:45 +0100</pubDate>
       <guid>https://hughandbecky.us/Hugh-CV/post/olac-subject-terms/</guid>
       <description>&lt;p&gt;Library of Congress Subject Heading (LCSH) terms are constantly evolving, only usually have 
-&lt;a href=&#34;http://www.tulane.edu/~techserv/lcsh%20introd.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;3-6 applied to a single work&lt;/a&gt;, are comprised of morphological components (there are classes of terms—roots or stems which are called topics, and then modifiers which are called topical subdivisions). For discussion of the linguistics in the LCSH description language consider 
+&lt;a href=&#34;http://www.tulane.edu/~techserv/lcsh%20introd.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;3-6 applied to a single work&lt;/a&gt;, are comprised of morphological components (there are classes of terms—roots or stems which are called topics, and then modifiers &amp;ldquo;morphemes&amp;rdquo; which are called topical subdivisions). For discussion of the linguistics in the LCSH description language consider 
 
 
 
@@ -66,7 +66,7 @@
 
 
 &lt;/span&gt;&lt;/span&gt;
- 
+, 
 
 
 
@@ -107,7 +107,7 @@
 
 
 &lt;/span&gt;&lt;/span&gt;
- 
+, 
 
 
 
@@ -148,7 +148,7 @@
 
 
 &lt;/span&gt;&lt;/span&gt;
- 
+, 
 
 
 
@@ -193,18 +193,25 @@
 
 &lt;/span&gt;&lt;/span&gt;
 .&lt;/p&gt;
-&lt;p&gt;In contrast to these subject terms, the Open Language Archives Community metadata schema, a Dublin Core profile designed to be shared over OAI-PMH has only 29 subject terms. The small number of terms (set size) and their apparent clarity to linguists are some of the great aspects of OLAC, where content creators are often the ones who also are cataloging the materials. Of the 29 OLAC subject terms listed in the 
+&lt;p&gt;In contrast to LCSH subject terms, the Open Language Archives Community metadata schema, a Dublin Core profile designed to be shared over OAI-PMH has only 29 subject terms. The small number of terms (set size) and their apparent clarity to linguists are some of the great aspects of OLAC, where content creators are often the ones who also are cataloging the materials. Of the 29 OLAC subject terms listed in the 
 &lt;a href=&#34;http://www.language-archives.org/REC/field.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OLAC documentation&lt;/a&gt;, the documentation indicates that 22 of them are matched to LCSH terms. Generally the OLAC note says: &amp;ldquo;The category is equivalent to the Library of Congress subject heading of the same name.&amp;rdquo; However, no specific LCSH term is specified. This creates problems for libraries who might otherwise use their LCSH terms to propagate OLAC terminologies for use in the OLAC aggregator.&lt;/p&gt;
-&lt;p&gt;Two examples are worth noting:&lt;/p&gt;
+&lt;p&gt;Several examples are worth mentioning:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;
-&lt;a href=&#34;http://www.language-archives.org/REC/field.html#phonology&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Phonology&lt;/a&gt;. The OLAC term for phonology says that there is no equivalent term in the LCSH schema. I find this ridiculous, untrue, but yet understandable. Within the LCSH system Phonology is a topical subdivision term. Meaning it is a &amp;ldquo;morpheme&amp;rdquo; which combines with qualified topic terms. So, the concept exists within the LCSH system, but not independently. The most general phonology term in the LCSH system is a complex term &lt;code&gt;Grammar, Comparative and general--Phonology&lt;/code&gt; which does not have a referenceable URI, further complicating equivalency mappings in crosswalks.&lt;/li&gt;
+&lt;a href=&#34;http://www.language-archives.org/REC/field.html#phonology&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;phonology&lt;/a&gt;. The OLAC term for phonology says that there is no equivalent term in the LCSH schema. I find this ridiculous, untrue, but yet understandable. Within the LCSH system Phonology is a topical subdivision term. Meaning it is a &amp;ldquo;morpheme&amp;rdquo; which combines with qualified topic terms. So, the concept exists within the LCSH system, but not independently. The most general phonology term in the LCSH system is a complex term &lt;code&gt;Grammar, Comparative and general--Phonology&lt;/code&gt; which does not have a referenceable URI, further complicating equivalency mappings in crosswalks.&lt;/li&gt;
 &lt;li&gt;
-&lt;a href=&#34;http://www.language-archives.org/REC/field.html#lexicography&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lexicography&lt;/a&gt; The OLAC term for phonology says that it is equivalent same term in the LCSH schema. However, there are two terms in LCSH for Lexicography. It is not clear which one OLAC means. As mentioned previously, LCSH terms exist in different classes (roots and &amp;ldquo;derivation&amp;rdquo; morphemes). The root topic concept is 
+&lt;a href=&#34;http://www.language-archives.org/REC/field.html#lexicography&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;lexicography&lt;/a&gt; The OLAC term for phonology says that it is equivalent same term in the LCSH schema. However, there are two terms in LCSH for Lexicography. It is not clear which one OLAC means. As mentioned previously, LCSH terms exist in different classes (roots and &amp;ldquo;derivation&amp;rdquo; morphemes). The root topic concept is 
 &lt;a href=&#34;https://id.loc.gov/authorities/subjects/sh85076357&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;sh85076357&lt;/a&gt;, but the general subdivision one would is 
 &lt;a href=&#34;https://id.loc.gov/authorities/subjects/sh99005001&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;sh99005001&lt;/a&gt;. It is probable that OLAC refers to the topic (root) rather than the general subdivision term. However, for clarity these things should be overtly stated.&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;sup&gt;,&lt;/sup&gt;&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://www.language-archives.org/REC/field.html#philosophy_of_language&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;philosophy_of_language&lt;/a&gt;. It is entirely unclear which LCSH was seen as corresponding to OLAC&amp;rsquo;s &lt;code&gt;philosophy_of_language&lt;/code&gt; subject tag. The OLAC documentation suggests: &amp;ldquo;The category is equivalent to the Library of Congress subject heading of the same name.&amp;rdquo; However, I become confused as there does not seem to be an exact match at the 
+&lt;a href=&#34;https://id.loc.gov/authorities/subjects.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Library of Congress&lt;/a&gt;. The closest terms I can find within the LCSH terms are as follows: 
+&lt;a href=&#34;http://id.loc.gov/authorities/subjects/sh85100849&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Philosophy&lt;/a&gt; (a topic term), 
+&lt;a href=&#34;http://id.loc.gov/authorities/subjects/sh2008106988&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Linguistics&amp;ndash;Philosophy&lt;/a&gt; (a complex term; linguistics is the topic and the sub-topic is philosophy), 
+&lt;a href=&#34;http://id.loc.gov/authorities/subjects/sh85074574&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Language and languages&amp;ndash;Philosophy&lt;/a&gt; (the sub-topic philosophy is used under a different topic &lt;code&gt;Language and languages&lt;/code&gt;), or in my opinion the least likely case 
+&lt;a href=&#34;http://id.loc.gov/authorities/subjects/sh85095384&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ordinary-language philosophy&lt;/a&gt;.&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;For the OLAC subjects I have looked at already the following table lists what I hypothesis as being the OLAC intended equivalent. I haven&amp;rsquo;t worked my way through the whole table yet. When I have worked through the whole set of OLAC terms I will present this data in a more beautiful way. Currently it is in a markdown table and as a JSON file 
+&lt;p&gt;For the OLAC subjects I have looked at already, the following table lists what I hypothesis as being the OLAC intended equivalent. I haven&amp;rsquo;t worked my way through the whole table yet. When I have worked through the whole set of OLAC terms I will present this data in a more beautiful way. Currently it is in a markdown table and as a JSON file 
 &lt;a href=&#34;olac-subjects.json&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;table&gt;
 &lt;thead&gt;
@@ -7467,6 +7474,319 @@ Audrey Smith
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;/section&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Characters: Trying to get the Concepts Straight</title>
+      <link>https://hughandbecky.us/Hugh-CV/post/characters-trying-to-get-the-concepts-straight/</link>
+      <pubDate>Wed, 10 Dec 2014 01:41:38 -0700</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/post/characters-trying-to-get-the-concepts-straight/</guid>
+      <description>
+
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-version-10&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/characters-trying-to-get-the-concepts-straight/Characters_hu97dbfb1fbb6f49a63a701f7b1634095b_158756_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Version 1.0&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/characters-trying-to-get-the-concepts-straight/Characters_hu97dbfb1fbb6f49a63a701f7b1634095b_158756_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;An infographic explaining the parts of Unicode characters: version 1.0.&#34; width=&#34;768&#34; height=&#34;977&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;p&gt;Version 1.0
+      
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: 
+Hugh Paterson III
+&lt;/span&gt;
+&lt;/p&gt;
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-version-11&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/characters-trying-to-get-the-concepts-straight/Characters2_hu97dbfb1fbb6f49a63a701f7b1634095b_152970_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Version 1.1&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/characters-trying-to-get-the-concepts-straight/Characters2_hu97dbfb1fbb6f49a63a701f7b1634095b_152970_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;An infographic explaining the parts of Unicode characters: version 1.1.&#34; width=&#34;768&#34; height=&#34;977&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;p&gt;Version 1.1
+      
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: 
+Hugh Paterson III
+&lt;/span&gt;
+&lt;/p&gt;
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;!-- O&#39;Brien, Kirby What could I do so that I could be more succinct in my presentation? I feel like there are four things that detract from the message of the infographic... can you name them?
+
+ReplyEditDeleteLikeDec 09, 2014
+User icon: kirby_obrien
+Kirby O&#39;Brien
+HI Hugh, Great job! I&#39;m a good guinea pig because I had not seen this. It took me a while to analyze the poster to understand what it was about and how it was organized. My one thought is could you provide examples of an&#34;abstract character&#34; of a &#34;glyph&#34; or maybe just a small portion of a unicode chart. You have good information to people who might already know what the words mean but if your audience is for new or untrained people they may not know the tech talk. Just a few thoughts take or leave them they were free!!
+
+ReplyEditDeleteUnlikeYou like thisDec 10, 2014
+User icon: hugh_paterson
+Hugh Paterson AUTHOR
+Thank you those are the kind of thoughts I needed.
+
+ReplyEditDeleteLikeDec 10, 2014
+User icon: hugh_paterson
+Hugh Paterson AUTHOR
+How do I know how much information is too much information?
+
+ReplyEditDeleteLikeDec 12, 2014
+User icon: hugh_paterson
+Hugh Paterson AUTHOR
+O&#39;Brien, Kirby I was hoping to have one color for each concept, but there are not enough corporate colors for this... what ways can I balance color and concept relationships?
+
+Reply: Dec 12, 2014
+Name: Tim Gaved
+Comment: Hugh, I like this a lot. Two other terms that you might consider integrating are &#34;script&#34; and &#34;font&#34;.
+
+Reply: Dec 10, 2014
+Name: Megan Mercado
+Comment: It&#39;s not clear whether this spatial relationships between each box are meaningful or not. Are you trying to communicate some terms being subsets of or containing others? --&gt;
+
+
+
+
+
+
+
+
+
+
+
+&lt;section class=&#34;hugo-cite-bibliography&#34;&gt;
+  &lt;dl&gt;
+    
+
+      &lt;div id=&#34;constable_toward_2002&#34;&gt;
+        &lt;dt&gt;
+          Constable
+
+          
+          (2002)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Constable&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Peter G.&#34; /&gt;
+    P.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2002&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;Toward a Model for Language Identification Defining an ontology of language-related categories&lt;/span&gt;.&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;SIL Electronic Working Papers&lt;/span&gt;,&amp;#32;2002-003&lt;/i&gt;.&amp;#32;Retrieved from&amp;#32;
+  &lt;a href=&#34;https://www.sil.org/resources/publications/entry/7853&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://www.sil.org/resources/publications/entry/7853&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;constable_understanding_2001&#34;&gt;
+        &lt;dt&gt;
+          Constable
+
+          
+          (2001)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Chapter&#34;
+      data-type=&#34;chapter&#34;&gt;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Constable&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Peter G.&#34; /&gt;
+    P.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2001&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;Understanding characters, keystrokes, codepoints and glyphs: encoding and working with multilingual text&lt;/span&gt;.&amp;#32;In&amp;#32;&lt;span itemprop=&#34;editor&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Lyons&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Melinda&#34; /&gt;
+    M.&lt;/span&gt; (Eds.),&amp;#32;&lt;span itemprop=&#34;about&#34;&gt;
+    &lt;i&gt;Implementing Writing Systems: an Introduction&lt;/i&gt;&lt;/span&gt;.&amp;#32;(&lt;span&gt;pp.&amp;#32;9–33&lt;/span&gt;).
+  &lt;meta itemprop=&#34;contentLocation&#34;
+        value=&#34;Dallas&#34;&gt;&amp;#32;&lt;span itemprop=&#34;publisher&#34;
+               itemtype=&#34;http://schema.org/Organization&#34;
+               itemscope=&#34;&#34;&gt;
+      &lt;span itemprop=&#34;name&#34;&gt;SIL International&lt;/span&gt;&lt;/span&gt;.&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+  &lt;/dl&gt;
+&lt;/section&gt;
+
+
+
+</description>
+    </item>
+    
+    <item>
+      <title>Process for Evaluating the Archiving of Lexical Datasets</title>
+      <link>https://hughandbecky.us/Hugh-CV/post/process-for-evaluating-the-archiving-of-lexica-datasets/</link>
+      <pubDate>Tue, 20 May 2014 14:35:45 +0100</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/post/process-for-evaluating-the-archiving-of-lexica-datasets/</guid>
+      <description>&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-a-work-flow-for-evaluating-and-categorizing-responses-related-to-archived-lexical-data-sets&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;&#34; data-caption=&#34;A work-flow for evaluating and categorizing responses related to archived lexical data sets.&#34;&gt;
+
+
+  &lt;img src=&#34;&#34; alt=&#34;A work-flow for evaluating and categorizing responses related to archived lexical data sets.&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;p&gt;A work-flow for evaluating and categorizing responses related to archived lexical data sets.
+      
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: 
+Hugh Paterson III
+&lt;/span&gt;
+&lt;/p&gt;
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+Note: This workflow would later be used in both:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Hugh J. Paterson III (2014) Language archiving and data ecology. Presentation at the University of Oregon GLOSS and the Department of Linguistics Colloquium, Eugene, OR, 23 May. &lt;a href=&#34;https://hughandbecky.us/Hugh-CV/talk/2014-language-archiving-and-data-ecology&#34;&gt;https://hughandbecky.us/Hugh-CV/talk/2014-language-archiving-and-data-ecology&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Hugh J. Paterson III (2015) Lexical dataset archiving: an assessment of practice. Poster presented at the 4th International Conference on Language Documentation and Conservation, at the Ala Moana Hotel in Honolulu, HI. February 26th – March 1st Version 1.0 &lt;a href=&#34;https://hughandbecky.us/Hugh-CV/publication/2015-lexical-database-archiving&#34;&gt;https://hughandbecky.us/Hugh-CV/publication/2015-lexical-database-archiving&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
