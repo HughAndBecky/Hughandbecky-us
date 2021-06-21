@@ -1,0 +1,1609 @@
+<!DOCTYPE html><html lang="en-us" >
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Source Themes Academic 4.8.0"><meta name="author" content="Hugh Paterson III">
+
+  
+    
+  <meta name="description" content="Visual and table based examples for architecting Zotero entires.">
+
+  <link rel="alternate" hreflang="en-us" href="https://hughandbecky.us/Hugh-CV/books/zotero-examples/">
+
+  
+
+
+
+
+
+
+
+  
+
+
+
+
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <meta name="theme-color" content="#456587">
+  
+
+  
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.9.0/css/academicons.min.css" integrity="sha512-W4yqoT1+8NLkinBLBZko+dFB2ZbHsYLDdr50VElllRcNt2Q4/GSs6u71UHKxB7S6JEMCp5Ve4xjh3eGQl/HRvg==" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css" integrity="sha256-FMvZuGapsJLjouA6k7Eo2lusoAX9i0ShlWFG6qt7SLc=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous">
+
+    
+    
+    
+      
+    
+    
+      
+      
+        
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/github.min.css" crossorigin="anonymous" title="hl-light">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" disabled>
+        
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/leaflet.min.css" integrity="sha512-1xoFisiGdy9nvho8EgXuXvnpR5GAMSjFwp40gSRE3NwdUdIMIKuPa7bqoUhLD0O/5tPNhteAsE5XyyMi5reQVA==" crossorigin="anonymous">
+    
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/lazysizes/5.2.2/lazysizes.min.js" integrity="sha512-TmDwFLhg3UA4ZG0Eb4MIyT1O1Mb+Oww5kFG0uHqXsdbyZz9DcvYQhKpGgNkamAI6h2lGGZq2X8ftOJvF/XjTUg==" crossorigin="anonymous" async></script>
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+        
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+  
+  
+    
+      
+      
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:400,700%7CRoboto+Mono%7CCharis+SIL&display=swap">
+    
+  
+
+  
+  
+  
+  
+  <link rel="stylesheet" href="/Hugh-CV/css/academic.css">
+
+  
+
+
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-31042070-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-31042070-2', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
+  
+
+
+  
+  
+
+  
+  <link rel="alternate" href="/Hugh-CV/books/zotero-examples/index.xml" type="application/rss+xml" title="Hugh&#39;s Curriculum Vitae">
+  
+
+  <link rel="manifest" href="/Hugh-CV/index.webmanifest">
+  <link rel="icon" type="image/png" href="/Hugh-CV/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_32x32_fill_lanczos_center_2.png">
+  <link rel="apple-touch-icon" type="image/png" href="/Hugh-CV/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_192x192_fill_lanczos_center_2.png">
+
+  <link rel="canonical" href="https://hughandbecky.us/Hugh-CV/books/zotero-examples/">
+
+  
+  
+  
+  
+  
+  
+  
+    
+  
+  
+  <meta property="twitter:card" content="summary_large_image">
+  
+  <meta property="og:site_name" content="Hugh&#39;s Curriculum Vitae">
+  <meta property="og:url" content="https://hughandbecky.us/Hugh-CV/books/zotero-examples/">
+  <meta property="og:title" content="Zotero Records: Guided Examples | Hugh&#39;s Curriculum Vitae">
+  <meta property="og:description" content="Visual and table based examples for architecting Zotero entires.">
+  
+  <meta property="og:image" content="https://hughandbecky.us/Hugh-CV/media/HughPaterson.jpg">
+  <meta property="twitter:image" content="https://hughandbecky.us/Hugh-CV/media/HughPaterson.jpg">
+  
+  <meta property="og:locale" content="en-us">
+  <meta property="og:updated_time" content="2021-06-15T00:00:00&#43;00:00">
+
+
+
+
+
+
+
+
+<link rel="stylesheet" type="text/css" href="/Hugh-CV/css/custom.css" />
+
+<link rel="stylesheet" type="text/css" href="/Hugh-CV/css/hugo-cite.css" />
+
+
+<meta name="pinterest" content="nopin">
+
+
+
+
+
+
+<link rel="schema.dc" href="http://purl.org/dc/elements/1.1/">
+
+<link rel="schema.DCTERMS" href="http://purl.org/dc/terms/">
+
+
+
+
+<meta name="DC.Title" content="Zotero Records: Guided Examples">
+<meta name="citation_title" content="Zotero Records: Guided Examples">
+<meta name="eprints.title" content="Zotero Records: Guided Examples">
+<meta name="dcterms.title" content="Zotero Records: Guided Examples">
+
+
+<meta name="dcterms.issued" content="2021-06-15">
+<meta name="DC.Date" content="2021-06-15">
+<meta name="citation_publication_date" content="2021">
+
+
+<meta name="DC.Rights" content="Copyright 2021">
+<meta name="citation_online_date" content="2021/06/15">
+
+
+
+
+
+
+<title>Zotero Records: Guided Examples | Hugh&#39;s Curriculum Vitae</title>
+
+</head>
+
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class=" ">
+
+  
+  
+  
+  
+    <script>const isSiteThemeDark = false;</script>
+  
+  
+  <script src="/Hugh-CV/js/load-theme.js"></script>
+
+  <aside class="search-results" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control">
+        
+      </div>
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+  <div class="container">
+
+    
+    <div class="d-none d-lg-inline-flex">
+      <a class="navbar-brand" href="/Hugh-CV/"><img src="/Hugh-CV/images/logo.svg" alt="Hugh&#39;s Curriculum Vitae"></a>
+    </div>
+    
+
+    
+    <button type="button" class="navbar-toggler" data-toggle="collapse"
+            data-target="#navbar-content" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+    <span><i class="fas fa-bars"></i></span>
+    </button>
+    
+
+    
+    <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+      <a class="navbar-brand" href="/Hugh-CV/"><img src="/Hugh-CV/images/logo.svg" alt="Hugh&#39;s Curriculum Vitae"></a>
+    </div>
+    
+
+    
+    
+    <div class="navbar-collapse main-menu-item collapse justify-content-end" id="navbar-content">
+
+      
+      <ul class="navbar-nav d-md-inline-flex">
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/Hugh-CV/#about"><span>Home</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/Hugh-CV/#featured"><span>Publications</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/Hugh-CV/#talks"><span>Talks</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/Hugh-CV/#projects"><span>Projects</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/Hugh-CV/#teaching"><span>Teaching</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/Hugh-CV/#experience"><span>Employment</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/Hugh-CV/#contact"><span>Contact</span></a>
+        </li>
+
+        
+        
+
+      
+
+        
+      </ul>
+    </div>
+
+    <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+      
+      <li class="nav-item">
+        <a class="nav-link js-search" href="#" aria-label="Search"><i class="fas fa-search" aria-hidden="true"></i></a>
+      </li>
+      
+
+      
+      
+
+      
+
+    </ul>
+
+  </div>
+</nav>
+
+
+
+  
+
+<div class="container-fluid docs">
+  <div class="row flex-xl-nowrap">
+    <div class="col-12 col-md-3 col-xl-2 docs-sidebar">
+      
+
+
+
+
+
+  
+    
+  
+
+
+
+
+<form class="docs-search d-flex align-items-center">
+  <button class="btn docs-toggle d-md-none p-0 mr-3" type="button" data-toggle="collapse" data-target="#docs-nav" aria-controls="docs-nav" aria-expanded="false" aria-label="Toggle section navigation">
+    <span><i class="fas fa-bars"></i></span>
+  </button>
+
+  
+  <input name="q" type="search" class="form-control" placeholder="Search..." autocomplete="off">
+  
+</form>
+
+<nav class="collapse docs-links" id="docs-nav">
+  
+
+  
+  
+  
+    
+  
+
+  
+  <div class="docs-toc-item active">
+    <a class="docs-toc-link" href="/Hugh-CV/books/zotero-examples/">Introduction</a>
+
+  </div>
+  
+  <div class="docs-toc-item">
+    <a class="docs-toc-link" href="/Hugh-CV/books/zotero-examples/frbr/">Conceptual Models</a>
+
+  </div>
+  
+  <div class="docs-toc-item">
+    <a class="docs-toc-link" href="/Hugh-CV/books/zotero-examples/zotero-fields/">Zotero&#39;s Fields</a>
+
+  </div>
+  
+  <div class="docs-toc-item">
+    <a class="docs-toc-link" href="/Hugh-CV/books/zotero-examples/zotero-extra-field/">Zotero&#39;s Extra Field</a>
+
+  </div>
+  
+  <div class="docs-toc-item">
+    <a class="docs-toc-link" href="/Hugh-CV/books/zotero-examples/zotero-to-csl-types/">CSL Types</a>
+
+  </div>
+  
+  <div class="docs-toc-item">
+    <a class="docs-toc-link" href="/Hugh-CV/books/zotero-examples/zotero-to-csl-variables/">CSL Variables</a>
+
+  </div>
+  
+  <div class="docs-toc-item">
+    <a class="docs-toc-link" href="/Hugh-CV/books/zotero-examples/part-whole/">Part-Whole</a>
+
+  </div>
+  
+  <div class="docs-toc-item">
+    <a class="docs-toc-link" href="/Hugh-CV/books/zotero-examples/useful-variables-for-archived-materials/">Archived Materials</a>
+
+  </div>
+  
+  <div class="docs-toc-item">
+    <a class="docs-toc-link" href="/Hugh-CV/books/zotero-examples/useful-variables-for-reprinted-materials/">Reprinted Materials</a>
+
+  </div>
+  
+  <div class="docs-toc-item">
+    <a class="docs-toc-link" href="/Hugh-CV/books/zotero-examples/article/">Article</a>
+
+  </div>
+  
+  <div class="docs-toc-item">
+    <a class="docs-toc-link" href="/Hugh-CV/books/zotero-examples/book/">Book</a>
+
+  </div>
+  
+  <div class="docs-toc-item">
+    <a class="docs-toc-link" href="/Hugh-CV/books/zotero-examples/book-section/">Book Section</a>
+
+  </div>
+  
+  <div class="docs-toc-item">
+    <a class="docs-toc-link" href="/Hugh-CV/books/zotero-examples/interview/">Interview</a>
+
+  </div>
+  
+  <div class="docs-toc-item">
+    <a class="docs-toc-link" href="/Hugh-CV/books/zotero-examples/website/">Web page</a>
+
+  </div>
+  
+  <div class="docs-toc-item">
+    <a class="docs-toc-link" href="/Hugh-CV/books/zotero-examples/review-article/">Review Article</a>
+
+  </div>
+  
+  <div class="docs-toc-item">
+    <a class="docs-toc-link" href="/Hugh-CV/books/zotero-examples/collection/">Collection</a>
+
+  </div>
+  
+  <div class="docs-toc-item">
+    <a class="docs-toc-link" href="/Hugh-CV/books/zotero-examples/dataset/">Dataset</a>
+
+  </div>
+  
+  <div class="docs-toc-item">
+    <a class="docs-toc-link" href="/Hugh-CV/books/zotero-examples/entry/">Entry</a>
+
+  </div>
+  
+  <div class="docs-toc-item">
+    <a class="docs-toc-link" href="/Hugh-CV/books/zotero-examples/thesis/">Thesis</a>
+
+  </div>
+  
+  <div class="docs-toc-item">
+    <a class="docs-toc-link" href="/Hugh-CV/books/zotero-examples/audio/">Audio Recording</a>
+
+  </div>
+  
+  
+</nav>
+
+    </div>
+
+    
+    <div class="d-none d-xl-block col-xl-2 docs-toc">
+      <ul class="nav toc-top">
+        <li><a href="#" id="back_to_top" class="docs-toc-title">Contents</a></li>
+      </ul>
+
+      <nav id="TableOfContents">
+  <ul>
+    <li><a href="#zotero">Zotero</a>
+      <ul>
+        <li><a href="#citation-style-language">Citation Style Language</a></li>
+      </ul>
+    </li>
+    <li><a href="#the-zotero-records-user-interface">The Zotero Record&rsquo;s User Interface</a></li>
+    <li><a href="#subject-materials-used">Subject Materials Used</a></li>
+    <li><a href="#external-documentation">External Documentation</a></li>
+    <li><a href="#citation-style-building-datasets">Citation Style Building Datasets</a></li>
+    <li><a href="#references">References</a></li>
+  </ul>
+</nav>
+
+      
+    </div>
+    
+
+    <main class="col-12 col-md-9 col-xl-8 py-md-3 pl-md-5 docs-content" role="main">
+
+      <article class="article">
+
+        <div class="docs-article-container">
+          <h1>Zotero Records: Guided Examples</h1>
+
+          <div class="article-style">
+            <p>This is a guide on how to make well formed Zotero records. Zotero is fairly straight forward but occasionally there are complexities. This is a guide to those &ldquo;more complex&rdquo; situations.</p>
+<div class="alert alert-info" role="alert">
+<i class="fas fa-video" aria-hidden="true"></i> If you need a more basic introduction to Zotero and various workflows associated with using the tool, consider <a href="https://youtu.be/BQL_7C-YqBk" class="alert-link">this video introduction</a>. 
+</div>
+<h2 id="zotero">Zotero</h2>
+<p>
+<a href="https://www.zotero.org" target="_blank" rel="noopener">Zotero</a> is an open source application (software) which is useful when tracking resource during a research project. It especially excels when it comes time to add references and citations to documents.</p>
+<p>Zotero is especially useful when an author works with the same references between publisher styles. In these cases, it is important to correctly input the data into Zotero&rsquo;s records so that the data can be correctly displayed across publisher styles.</p>
+<h3 id="citation-style-language">Citation Style Language</h3>
+<p>
+<a href="https://citationstyles.org" target="_blank" rel="noopener">Citation Style Language</a> (CSL) is the technology tool that Zotero uses to create references and citations (within a document) which comply with a style guide or publisher&rsquo;s style sheet requirements.</p>
+<h2 id="the-zotero-records-user-interface">The Zotero Record&rsquo;s User Interface</h2>
+<p>Zotero&rsquo;s user interface is fairly straight forward. However, some materials when referenced need some additional fields which are not directly contained within the User Interface (UI). The following image shows the main editing location within Zotero for editing a Zotero record.</p>
+
+
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure id="figure-a-blank-zotero-record-in-zotero-version-50962">
+
+
+  <a data-fancybox="" href="/Hugh-CV/books/zotero-examples/ZoteroUI_hu8f68fb62f7a34e176a79bb3982e9faad_39724_2000x2000_fit_lanczos_2.png" data-caption="A blank Zotero record in Zotero version 5.0.96.2.">
+
+
+  <img data-src="/Hugh-CV/books/zotero-examples/ZoteroUI_hu8f68fb62f7a34e176a79bb3982e9faad_39724_2000x2000_fit_lanczos_2.png" class="lazyload" alt="A blank Zotero record in Zotero version 5.0.96.2." width="563" height="643">
+</a>
+
+
+  
+  
+  <figcaption>
+    <p>A blank Zotero record in Zotero version 5.0.96.2.
+      
+<span class="img-attribution">Credit: 
+Hugh Paterson III
+</span>
+</p>
+  </figcaption>
+
+
+</figure>
+
+<h2 id="subject-materials-used">Subject Materials Used</h2>
+<p>This guide usually makes examples from the literature of linguistics. However, it also use direct examples from Manuals of Style such as APA 6th 
+
+
+
+
+
+
+
+<span class="hugo-cite-intext"
+        itemprop="citation">(<a href="#vandenbos_publication_2010"><span class="visually-hidden">Citation: </span><span itemprop="author" itemscope itemtype="https://schema.org/Person"><meta itemprop="givenName" content="Gary R"><span itemprop="familyName">VandenBos</span></span>,&#32;
+      <span itemprop="datePublished">2010</span></a>)
+    <span class="hugo-cite-citation">
+
+
+
+
+
+
+
+
+
+
+
+
+<span itemscope
+      itemtype="https://schema.org/Book"
+      data-type="book"><span itemprop="editor" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">VandenBos</span>,&#32;
+    <meta itemprop="givenName" content="Gary R" />
+    G.</span>&#32;
+    (<span itemprop="datePublished">2010</span>).
+  &#32;<span itemprop="name">
+    <i>Publication manual of the American Psychological Association</i></span> (<span>6th</span>).
+  <meta itemprop="locationCreated"
+        value="Washington, DC">&#32;
+  <span itemprop="publisher"
+             itemtype="http://schema.org/Organization"
+             itemscope>
+    <span itemprop="name">American Psychological Association</span></span>.</span>
+
+
+
+
+</span></span>
+ 
+
+
+
+
+
+
+
+<span class="hugo-cite-intext"
+        itemprop="citation">(<a href="#skutley_apa_2012"><span class="visually-hidden">Citation: </span><span itemprop="author" itemscope itemtype="https://schema.org/Person"><meta itemprop="givenName" content="Mary Lynn"><span itemprop="familyName">Skutley</span></span>,&#32;
+      <span itemprop="datePublished">2012</span></a>)
+    <span class="hugo-cite-citation">
+
+
+
+
+
+
+
+
+
+
+
+
+<span itemscope
+      itemtype="https://schema.org/Book"
+      data-type="book"><span itemprop="editor" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Skutley</span>,&#32;
+    <meta itemprop="givenName" content="Mary Lynn" />
+    M.</span>&#32;
+    (<span itemprop="datePublished">2012</span>).
+  &#32;<span itemprop="name">
+    <i>APA Style Guide to Electronic References</i></span> (<span>6th</span>).
+  <meta itemprop="locationCreated"
+        value="Washington, DC">&#32;
+  <span itemprop="publisher"
+             itemtype="http://schema.org/Organization"
+             itemscope>
+    <span itemprop="name">American Psychological Association</span></span>.</span>
+
+
+
+
+</span></span>
+, APA 7th 
+
+
+
+
+
+
+
+<span class="hugo-cite-intext"
+        itemprop="citation">(<a href="#american_psychological_association_references_2020"><span class="visually-hidden">Citation: </span><span itemprop="author" itemscope itemtype="https://schema.org/Person"></span>,&#32;
+      <span itemprop="datePublished">2020</span></a>)
+    <span class="hugo-cite-citation">
+
+
+
+
+
+
+
+
+
+
+
+
+<span itemscope
+      itemtype="https://schema.org/WebPage"
+      data-type="webpage"><span itemprop="author" itemscope itemtype="https://schema.org/Person"></span>(<span itemprop="datePublished">2020</span>).&#32;Retrieved from&#32;
+  <a href="https://apastyle.apa.org/style-grammar-guidelines/references"
+     itemprop="identifier"
+     itemtype="https://schema.org/URL">https://apastyle.apa.org/style-grammar-guidelines/references</a></span>
+
+
+
+
+</span></span>
+ 
+
+
+
+
+
+
+
+<span class="hugo-cite-intext"
+        itemprop="citation">(<a href="#american_psychological_association_publication_2019"><span class="visually-hidden">Citation: </span><span itemprop="author" itemscope itemtype="https://schema.org/Person"></span>,&#32;
+      <span itemprop="datePublished">2019</span></a>)
+    <span class="hugo-cite-citation">
+
+
+
+
+
+
+
+
+
+
+
+
+<span itemscope
+      itemtype="https://schema.org/Book"
+      data-type="book"><span itemprop="editor" itemscope itemtype="https://schema.org/Person"></span>&#32;
+    (<span itemprop="datePublished">2019</span>).
+  &#32;<span itemprop="name">
+    <i>Publication manual of the American psychological association</i></span> (<span>7th</span>).
+  <meta itemprop="locationCreated"
+        value="Washington, D.C">&#32;
+  <span itemprop="publisher"
+             itemtype="http://schema.org/Organization"
+             itemscope>
+    <span itemprop="name">American Psychological Association</span></span>.</span>
+
+
+
+
+</span></span>
+, and Chicago 17th (author date) 
+
+
+
+
+
+
+
+<span class="hugo-cite-intext"
+        itemprop="citation">(<a href="#harper_chicago_2017"><span class="visually-hidden">Citation: </span><span itemprop="author" itemscope itemtype="https://schema.org/Person"><meta itemprop="givenName" content="Russell David"><span itemprop="familyName">Harper</span></span>,&#32;
+      <span itemprop="datePublished">2017</span></a>)
+    <span class="hugo-cite-citation">
+
+
+
+
+
+
+
+
+
+
+
+
+<span itemscope
+      itemtype="https://schema.org/Book"
+      data-type="book"><span itemprop="editor" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Harper</span>,&#32;
+    <meta itemprop="givenName" content="Russell David" />
+    R.</span>&#32;
+    (<span itemprop="datePublished">2017</span>).
+  &#32;<span itemprop="name">
+    <i>The Chicago manual of style</i></span> (<span>17th</span>).
+  <meta itemprop="locationCreated"
+        value="Chicago, Illinois">&#32;
+  <span itemprop="publisher"
+             itemtype="http://schema.org/Organization"
+             itemscope>
+    <span itemprop="name">The University of Chicago Press</span></span>.
+  <a href="https://doi.org/10.7208/cmosl7"
+     itemprop="identifier"
+     itemtype="https://schema.org/URL">https://doi.org/10.7208/cmosl7</a></span>
+
+
+
+
+</span></span>
+. The complex situations in this guide are often examples of materials sourced from an archive.</p>
+<h2 id="external-documentation">External Documentation</h2>
+<p>There are several helpful locations for finding out more about the inner workings of Zotero. These can be helpful when considering what a Zotero field is supposed to mean or contain and how it is exported into 
+<a href="https://citeproc-js.readthedocs.io/en/latest/csl-json/markup.html" target="_blank" rel="noopener">CSL-JSON</a>.</p>
+<ol>
+<li>
+<a href="https://www.zotero.org/support/kb/item_types_and_fields" target="_blank" rel="noopener">Zotero&rsquo;s page explaining the fields</a> they have and their intended use.</li>
+<li>A mapping of 
+<a href="https://aurimasv.github.io/z2csl/typeMap.xml" target="_blank" rel="noopener">Zotero fields to CSL</a>.</li>
+<li>CSL documentation of 
+<a href="https://docs.citationstyles.org/en/stable/specification.html#appendix-iii-types" target="_blank" rel="noopener">Types</a> and 
+<a href="https://docs.citationstyles.org/en/stable/specification.html#appendix-iv-variables" target="_blank" rel="noopener">Variables</a> and their intended use, 
+<a href="https://docs.google.com/document/d/1wY1cOOamDYYh8VNW7h_uleqieBDGOa_LYsRiVdQy1RI/edit#" target="_blank" rel="noopener">as well as new item types</a> proposed for CSL version 1.0.2.</li>
+</ol>
+<h2 id="citation-style-building-datasets">Citation Style Building Datasets</h2>
+<p>In addition to informing authors on some functional practices related to the crafting of Zotero records, those who wish to create a style sheet which implements a specific publisher&rsquo;s specification<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup> or for some other specific use may benefit from some of the datasets this project has created. These datasets propagate the data through the specified style so that the author of the style sheet can check for errors.</p>
+<ul>
+<li>
+<a href="https://www.zotero.org/groups/2544035/itemtypetestdata" target="_blank" rel="noopener">ItemTypeTestData</a> (Created by Hugh Paterson III)</li>
+<li>
+<a href="https://www.zotero.org/groups/2319948/jurism_style_test_items" target="_blank" rel="noopener">jurism_style_test_items</a> (Created by Frank Bennett)</li>
+<li>
+<a href="https://www.zotero.org/groups/2205533/test_items_library/" target="_blank" rel="noopener">Test items used to test APA CSL development</a> (Created by Brenton M Wiernik)</li>
+</ul>
+<h2 id="references">References</h2>
+
+  
+
+  
+
+
+
+
+
+
+
+
+
+
+<section class="hugo-cite-bibliography">
+  <dl>
+    
+
+      <div id="american_psychological_association_publication_2019">
+        <dt>
+          
+
+          
+          (2019)</dt>
+
+        <dd>
+          
+
+
+
+
+
+
+
+
+
+
+
+
+<span itemscope
+      itemtype="https://schema.org/Book"
+      data-type="book"><span itemprop="editor" itemscope itemtype="https://schema.org/Person"></span>&#32;
+    (<span itemprop="datePublished">2019</span>).
+  &#32;<span itemprop="name">
+    <i>Publication manual of the American psychological association</i></span> (<span>7th</span>).
+  <meta itemprop="locationCreated"
+        value="Washington, D.C">&#32;
+  <span itemprop="publisher"
+             itemtype="http://schema.org/Organization"
+             itemscope>
+    <span itemprop="name">American Psychological Association</span></span>.</span>
+
+
+
+
+</dd>
+
+      </div>
+
+      <div id="american_psychological_association_references_2020">
+        <dt>
+          
+
+          
+          (2020)</dt>
+
+        <dd>
+          
+
+
+
+
+
+
+
+
+
+
+
+
+<span itemscope
+      itemtype="https://schema.org/WebPage"
+      data-type="webpage"><span itemprop="author" itemscope itemtype="https://schema.org/Person"></span>(<span itemprop="datePublished">2020</span>).&#32;Retrieved from&#32;
+  <a href="https://apastyle.apa.org/style-grammar-guidelines/references"
+     itemprop="identifier"
+     itemtype="https://schema.org/URL">https://apastyle.apa.org/style-grammar-guidelines/references</a></span>
+
+
+
+
+</dd>
+
+      </div>
+
+      <div id="harper_chicago_2017">
+        <dt>
+          Harper
+
+          
+          (2017)</dt>
+
+        <dd>
+          
+
+
+
+
+
+
+
+
+
+
+
+
+<span itemscope
+      itemtype="https://schema.org/Book"
+      data-type="book"><span itemprop="editor" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Harper</span>,&#32;
+    <meta itemprop="givenName" content="Russell David" />
+    R.</span>&#32;
+    (<span itemprop="datePublished">2017</span>).
+  &#32;<span itemprop="name">
+    <i>The Chicago manual of style</i></span> (<span>17th</span>).
+  <meta itemprop="locationCreated"
+        value="Chicago, Illinois">&#32;
+  <span itemprop="publisher"
+             itemtype="http://schema.org/Organization"
+             itemscope>
+    <span itemprop="name">The University of Chicago Press</span></span>.
+  <a href="https://doi.org/10.7208/cmosl7"
+     itemprop="identifier"
+     itemtype="https://schema.org/URL">https://doi.org/10.7208/cmosl7</a></span>
+
+
+
+
+</dd>
+
+      </div>
+
+      <div id="skutley_apa_2012">
+        <dt>
+          Skutley
+
+          
+          (2012)</dt>
+
+        <dd>
+          
+
+
+
+
+
+
+
+
+
+
+
+
+<span itemscope
+      itemtype="https://schema.org/Book"
+      data-type="book"><span itemprop="editor" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Skutley</span>,&#32;
+    <meta itemprop="givenName" content="Mary Lynn" />
+    M.</span>&#32;
+    (<span itemprop="datePublished">2012</span>).
+  &#32;<span itemprop="name">
+    <i>APA Style Guide to Electronic References</i></span> (<span>6th</span>).
+  <meta itemprop="locationCreated"
+        value="Washington, DC">&#32;
+  <span itemprop="publisher"
+             itemtype="http://schema.org/Organization"
+             itemscope>
+    <span itemprop="name">American Psychological Association</span></span>.</span>
+
+
+
+
+</dd>
+
+      </div>
+
+      <div id="vandenbos_publication_2010">
+        <dt>
+          VandenBos
+
+          
+          (2010)</dt>
+
+        <dd>
+          
+
+
+
+
+
+
+
+
+
+
+
+
+<span itemscope
+      itemtype="https://schema.org/Book"
+      data-type="book"><span itemprop="editor" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">VandenBos</span>,&#32;
+    <meta itemprop="givenName" content="Gary R" />
+    G.</span>&#32;
+    (<span itemprop="datePublished">2010</span>).
+  &#32;<span itemprop="name">
+    <i>Publication manual of the American Psychological Association</i></span> (<span>6th</span>).
+  <meta itemprop="locationCreated"
+        value="Washington, DC">&#32;
+  <span itemprop="publisher"
+             itemtype="http://schema.org/Organization"
+             itemscope>
+    <span itemprop="name">American Psychological Association</span></span>.</span>
+
+
+
+
+</dd>
+
+      </div>
+  </dl>
+</section>
+
+
+
+<section class="footnotes" role="doc-endnotes">
+<hr>
+<ol>
+<li id="fn:1" role="doc-endnote">
+<p>There is a visual CSL editor (for editing the XML style sheets) available online at: <a href="https://editor.citationstyles.org/visualEditor/">https://editor.citationstyles.org/visualEditor/</a> <a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+</ol>
+</section>
+
+          </div>
+
+          
+
+
+
+          
+          <div class="article-widget">
+            
+<div class="post-nav">
+  
+  
+</div>
+
+          </div>
+          
+        </div>
+
+        <div class="body-footer">
+          <p>Last updated on 18 Jun, 2021</p>
+
+          
+
+
+
+
+
+          
+
+
+          
+
+
+  
+  
+
+
+
+        </div>
+
+      </article>
+
+      <footer class="site-footer">
+  
+
+  <p class="powered-by">
+    Hugh Paterson III © 2021
+  </p>
+
+  
+  
+
+
+
+
+
+
+  <p class="powered-by">
+    
+
+    
+  </p>
+</footer>
+
+
+    </main>
+  </div>
+</div>
+
+
+      
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js" integrity="sha256-yt2kYMy0w8AbtF89WXb2P1rfjcP/HTHLT7097U8Y5b8=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/instant.page/5.1.0/instantpage.min.js" integrity="sha512-1+qUtKoh9XZW7j+6LhRMAyOrgSQKenQ4mluTR+cvxXjP1Z54RxZuzstR/H9kgPXQsVB8IW7DMDFUJpzLjvhGSQ==" crossorigin="anonymous"></script>
+
+      
+
+      
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/highlight.min.js" integrity="sha512-TDKKr+IvoqZnPzc3l35hdjpHD0m+b2EC2SrLEgKDRWpxf2rFCxemkgvJ5kfU48ip+Y+m2XVKyOCD85ybtlZDmw==" crossorigin="anonymous"></script>
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/languages/r.min.js"></script>
+        
+      
+
+    
+
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/leaflet.min.js" integrity="sha512-SeiQaaDh73yrb56sTW/RgVdi/mMqNeM2oBwubFHagc5BkixSpP1fvqF47mKzPGWYSSy4RwbBunrJBQ4Co8fRWA==" crossorigin="anonymous"></script>
+    
+
+    
+    
+    <script>const code_highlighting = true;</script>
+    
+
+    
+    
+    
+    
+    
+    
+    <script>
+      const search_config = {"indexURI":"/Hugh-CV/index.json","minLength":1,"threshold":0.3};
+      const i18n = {"no_results":"No results found","placeholder":"Search...","results":"results found"};
+      const content_type = {
+        'post': "Posts",
+        'project': "Projects",
+        'publication' : "Publications",
+        'talk' : "Talks",
+        'slides' : "Slides"
+        };
+    </script>
+    
+
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.2.2/anchor.min.js" integrity="sha512-I7w3ZdSFzw5j3jU3ZkNikBNeIrl3i+hEuEdwNmqUJvwNcaBUNcijnP2gd9DtGlgVYDplfjGoD8vTNsID+lCjqg==" crossorigin="anonymous"></script>
+    <script>
+      anchors.add();
+    </script>
+    
+
+    
+    
+    <script id="search-hit-fuse-template" type="text/x-template">
+      <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{ snippet }}</p>
+        </div>
+      </div>
+      </div>
+    </script>
+    
+
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+    
+
+    
+    
+
+    
+    
+
+    
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+    
+    
+    <script src="/Hugh-CV/js/academic.min.3b2b658c61ebd725bd5fc606c89fe44c.js"></script>
+
+    
+
+
+
+
+
+
+  
+  
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>

@@ -1,0 +1,179 @@
+{
+  "collections": {},
+  "config": {
+    "id": "36a3b0b5-bad0-4a04-b79b-441c7cef77db",
+    "label": "BetterBibTeX JSON",
+    "localeDateOrder": "mdy",
+    "options": {
+      "Normalize": false,
+      "exportFileData": false,
+      "exportNotes": true,
+      "keepUpdated": false
+    },
+    "preferences": {
+      "DOIandURL": "both",
+      "ascii": "",
+      "asciiBibLaTeX": false,
+      "asciiBibTeX": true,
+      "autoAbbrev": false,
+      "autoAbbrevStyle": "",
+      "autoExport": "immediate",
+      "autoExportDelay": 5,
+      "autoExportIdleWait": 10,
+      "autoExportPathReplaceDiacritics": false,
+      "autoExportPathReplaceDirSep": "-",
+      "autoExportPathReplaceSpace": " ",
+      "autoPinDelay": 0,
+      "automaticTags": true,
+      "auxImport": false,
+      "baseAttachmentPath": "/home/greenlantern/Documents/Zotero-PDFs",
+      "biblatexExtendedDateFormat": true,
+      "biblatexExtendedNameFormat": false,
+      "biblatexExtractEprint": true,
+      "bibtexParticleNoOp": false,
+      "bibtexURL": "off",
+      "cacheFlushInterval": 5,
+      "citeCommand": "cite",
+      "citekeyFold": true,
+      "citekeyFormat": "[zotero:clean]",
+      "citekeySearch": true,
+      "citeprocNoteCitekey": false,
+      "csquotes": "",
+      "debugLogDir": "",
+      "exportBibTeXStrings": "off",
+      "exportBraceProtection": true,
+      "exportTitleCase": true,
+      "extraMergeCSL": true,
+      "extraMergeCitekeys": true,
+      "extraMergeTeX": true,
+      "git": "config",
+      "ignorePostscriptErrors": true,
+      "import": true,
+      "importBibTeXStrings": true,
+      "importCaseProtection": "as-needed",
+      "importCitationKey": true,
+      "importExtra": true,
+      "importJabRefAbbreviations": true,
+      "importJabRefStrings": true,
+      "importSentenceCase": "on+guess",
+      "importUnknownTexCommand": "ignore",
+      "itemObserverDelay": 5,
+      "jabrefFormat": 0,
+      "jieba": false,
+      "keyConflictPolicy": "keep",
+      "keyScope": "library",
+      "kuroshiro": false,
+      "mapMath": "",
+      "mapText": "",
+      "mapUnicode": "conservative",
+      "newTranslatorsAskRestart": true,
+      "parseParticles": true,
+      "patchDates": "",
+      "platform": "lin",
+      "postscript": "if (Translator.BetterCSLJSON) {\n  reference.add({ name: 'keywords', value: item.tags, sep: ', ', enc: 'tags' });\n}",
+      "postscriptOverride": "",
+      "qualityReport": false,
+      "quickCopyEta": "",
+      "quickCopyMode": "latex",
+      "quickCopyOrgMode": "zotero",
+      "quickCopyPandocBrackets": false,
+      "quickCopySelectLink": "zotero",
+      "rawImports": false,
+      "rawLaTag": "#LaTeX",
+      "relativeFilePaths": false,
+      "retainCache": false,
+      "scrubDatabase": false,
+      "skipFields": "file,",
+      "skipWords": "a,ab,aboard,about,above,across,after,against,al,along,amid,among,an,and,anti,around,as,at,before,behind,below,beneath,beside,besides,between,beyond,but,by,d,da,das,de,del,dell,dello,dei,degli,della,dell,delle,dem,den,der,des,despite,die,do,down,du,during,ein,eine,einem,einen,einer,eines,el,en,et,except,for,from,gli,i,il,in,inside,into,is,l,la,las,le,les,like,lo,los,near,nor,of,off,on,onto,or,over,past,per,plus,round,save,since,so,some,sur,than,the,through,to,toward,towards,un,una,unas,under,underneath,une,unlike,uno,unos,until,up,upon,versus,via,von,while,with,within,without,yet,zu,zum",
+      "startupProgress": "popup",
+      "strings": "",
+      "testing": false,
+      "verbatimFields": "url,doi,file,eprint,verba,verbb,verbc",
+      "warnBulkModify": 10,
+      "warnTitleCased": false,
+      "workersCache": true,
+      "workersMax": 1
+    }
+  },
+  "items": [
+    {
+      "accessDate": "2021-06-17T10:05:30Z",
+      "archive": "Github.com",
+      "archiveLocation": "https://aurimasv.github.io/z2csl/typeMap.xml",
+      "attachments": [
+        {
+          "dateAdded": "2021-06-17T10:05:36Z",
+          "dateModified": "2021-06-17T10:05:36Z",
+          "itemType": "attachment",
+          "path": "/home/greenlantern/.zotero/zotero/5ryevrb7.default/zotero/storage/JYVYMNBV/typeMap.html",
+          "relations": [],
+          "tags": [],
+          "title": "https://aurimasv.github.io/z2csl/typeMap.xml",
+          "uri": "http://zotero.org/groups/2527038/items/JYVYMNBV"
+        }
+      ],
+      "citationKey": "vinckevicius_data_2021",
+      "citekey": "vinckevicius_data_2021",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Aurimas",
+          "lastName": "Vinckevicius"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Philipp",
+          "lastName": "Zumstein"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Frank",
+          "lastName": "Bennett"
+        }
+      ],
+      "date": "2021",
+      "dateAdded": "2021-06-17T10:05:30Z",
+      "dateModified": "2021-06-17T19:15:58Z",
+      "itemID": 40833,
+      "itemKey": "P7UAKVDH",
+      "itemType": "bookSection",
+      "key": "P7UAKVDH",
+      "libraryID": 3,
+      "notes": [
+        {
+          "dateAdded": "2021-06-17T19:36:07Z",
+          "dateModified": "2021-06-17T19:39:31Z",
+          "itemType": "note",
+          "key": "Z2C2XFWW",
+          "note": "<p>some annotation</p>",
+          "parentItem": "P7UAKVDH",
+          "relations": {},
+          "tags": [
+            {
+              "tag": "__annotation"
+            }
+          ],
+          "uri": "http://zotero.org/groups/2527038/items/Z2C2XFWW",
+          "version": 11553
+        }
+      ],
+      "publicationTitle": "z2csl - Zotero to CSL extension and mappings",
+      "publisher": "Github Project",
+      "relations": [],
+      "select": "zotero://select/groups/2527038/items/P7UAKVDH",
+      "tags": [
+        {
+          "tag": "Test12"
+        }
+      ],
+      "title": "Data Transforms",
+      "uri": "http://zotero.org/groups/2527038/items/P7UAKVDH",
+      "url": "https://aurimasv.github.io/z2csl/typeMap.xml",
+      "version": 11552
+    }
+  ],
+  "version": {
+    "bbt": "5.4.25",
+    "zotero": "5.0.96.2"
+  }
+}

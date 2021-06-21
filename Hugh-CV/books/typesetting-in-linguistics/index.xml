@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Typesetting in Linguistics: A Guide to Good Practices | Hugh&#39;s Curriculum Vitae</title>
+    <link>https://hughandbecky.us/Hugh-CV/books/typesetting-in-linguistics/</link>
+      <atom:link href="https://hughandbecky.us/Hugh-CV/books/typesetting-in-linguistics/index.xml" rel="self" type="application/rss+xml" />
+    <description>Typesetting in Linguistics: A Guide to Good Practices</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2021</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://hughandbecky.us/Hugh-CV/media/HughPaterson.jpg</url>
+      <title>Typesetting in Linguistics: A Guide to Good Practices</title>
+      <link>https://hughandbecky.us/Hugh-CV/books/typesetting-in-linguistics/</link>
+    </image>
+    
+    <item>
+      <title>Abbreviations</title>
+      <link>https://hughandbecky.us/Hugh-CV/books/typesetting-in-linguistics/abbreviations/</link>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/books/typesetting-in-linguistics/abbreviations/</guid>
+      <description>&lt;p&gt;〈〉⟨⟩ &amp;lt;&amp;gt;
+U+3008 : LEFT ANGLE BRACKET
+U+3009 : RIGHT ANGLE BRACKET
+U+27E8 : MATHEMATICAL LEFT ANGLE BRACKET {bra; z notation left sequence bracket}
+U+27E9 : MATHEMATICAL RIGHT ANGLE BRACKET {ket; z notation right sequence bracket}
+U+0020 : SPACE [SP]
+U+003C : LESS-THAN SIGN
+U+003E : GREATER-THAN SIGN&lt;/p&gt;
+&lt;p&gt;Leipzig Glossing Rules&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://sites.google.com/site/icaalprojects/aa-book-project/notational-conventions?authuser=0&#34;&gt;https://sites.google.com/site/icaalprojects/aa-book-project/notational-conventions?authuser=0&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cartography</title>
+      <link>https://hughandbecky.us/Hugh-CV/books/typesetting-in-linguistics/cartography/</link>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/books/typesetting-in-linguistics/cartography/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fonts</title>
+      <link>https://hughandbecky.us/Hugh-CV/books/typesetting-in-linguistics/fonts/</link>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/books/typesetting-in-linguistics/fonts/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://github.com/elron/Font-To-SVG&#34;&gt;https://github.com/elron/Font-To-SVG&lt;/a&gt;
+&lt;a href=&#34;https://github.com/donbright/font_to_svg/compare/master...GooborgStudios:master&#34;&gt;https://github.com/donbright/font_to_svg/compare/master...GooborgStudios:master&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Glossing</title>
+      <link>https://hughandbecky.us/Hugh-CV/books/typesetting-in-linguistics/glossing/</link>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/books/typesetting-in-linguistics/glossing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Grammar Outlines</title>
+      <link>https://hughandbecky.us/Hugh-CV/books/typesetting-in-linguistics/grammar-outlines/</link>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/books/typesetting-in-linguistics/grammar-outlines/</guid>
+      <description>&lt;p&gt;Croft Grammar outline&lt;/p&gt;
+&lt;p&gt;Andy Black
+&lt;a href=&#34;https://software.sil.org/paws/&#34;&gt;https://software.sil.org/paws/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Donohue
+&lt;a href=&#34;https://www.eva.mpg.de/lingua/tools-at-lingboard/pdf/donohue_grammar_sketches.pdf&#34;&gt;https://www.eva.mpg.de/lingua/tools-at-lingboard/pdf/donohue_grammar_sketches.pdf&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;A framework for descriptive grammars
+&lt;a href=&#34;https://www.researchgate.net/publication/33031626_A_framework_for_descriptive_grammars&#34;&gt;https://www.researchgate.net/publication/33031626_A_framework_for_descriptive_grammars&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Michael Noonan
+&lt;a href=&#34;https://core.ac.uk/download/pdf/33413287.pdf&#34;&gt;https://core.ac.uk/download/pdf/33413287.pdf&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.eva.mpg.de/lingua/tools-at-lingboard/pdf/Roberts_GrammarOutline-PapuanLanguage.pdf&#34;&gt;https://www.eva.mpg.de/lingua/tools-at-lingboard/pdf/Roberts_GrammarOutline-PapuanLanguage.pdf&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.academia.edu/36705280/_Bernard_Comrie_Language_Universals_and_Linguisti_BookFi_&#34;&gt;https://www.academia.edu/36705280/_Bernard_Comrie_Language_Universals_and_Linguisti_BookFi_&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;tom Payne&amp;rsquo;s outline
+&lt;a href=&#34;https://pages.uoregon.edu/tpayne/engram.htm&#34;&gt;https://pages.uoregon.edu/tpayne/engram.htm&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Commrie
+‘Ein Strukturrahmen für deskriptive Grammatiken: allgemeine Bemerkungen’ [‘A
+structural framework for descriptive grammars: general observations’]. In Dietmar
+Zaefferer, ed.: Deskriptive Grammatik und allgemeiner Sprachvergleich (Linguistische
+Arbeiten 383), 7–16. Tübingen: Max Niemeyer.&lt;/p&gt;
+&lt;p&gt;Comrie, Bernard and Norval Smith. 1977. Linguistic descriptive studies: questionnaire. Lingua 42.1-72.
+&lt;a href=&#34;http://imp.lss.wisc.edu/~jrvalent/BackUps/LIN427F2005web050917/pages/20.html&#34;&gt;http://imp.lss.wisc.edu/~jrvalent/BackUps/LIN427F2005web050917/pages/20.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://imp.lss.wisc.edu/~jrvalent/BackUps/LIN427F2005web050917/attachments/LDSQOutline.pdf&#34;&gt;http://imp.lss.wisc.edu/~jrvalent/BackUps/LIN427F2005web050917/attachments/LDSQOutline.pdf&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://books.google.fr/books?id=5RBCAAAAQBAJ&amp;amp;pg=PA4&amp;amp;lpg=PA4&amp;amp;dq=linguistic+grammar+outline&amp;amp;source=bl&amp;amp;ots=ha-iafd3NG&amp;amp;sig=ACfU3U2sioD3BNF0DoOjuQc---sHobiBqQ&amp;amp;hl=en&amp;amp;sa=X&amp;amp;ved=2ahUKEwjfzNX_gI7qAhVvx4UKHcTYAgwQ6AEwFXoECBUQAQ#v=onepage&amp;amp;q=linguistic%20grammar%20outline&amp;amp;f=false&#34;&gt;https://books.google.fr/books?id=5RBCAAAAQBAJ&amp;amp;pg=PA4&amp;amp;lpg=PA4&amp;amp;dq=linguistic+grammar+outline&amp;amp;source=bl&amp;amp;ots=ha-iafd3NG&amp;amp;sig=ACfU3U2sioD3BNF0DoOjuQc---sHobiBqQ&amp;amp;hl=en&amp;amp;sa=X&amp;amp;ved=2ahUKEwjfzNX_gI7qAhVvx4UKHcTYAgwQ6AEwFXoECBUQAQ#v=onepage&amp;amp;q=linguistic%20grammar%20outline&amp;amp;f=false&lt;/a&gt;  (page 12 and following)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.sketchengine.eu/documentation/writing-sketch-grammar/&#34;&gt;https://www.sketchengine.eu/documentation/writing-sketch-grammar/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.ling.upenn.edu/courses/ling202/Sketch/Outline.html&#34;&gt;https://www.ling.upenn.edu/courses/ling202/Sketch/Outline.html&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Licenses</title>
+      <link>https://hughandbecky.us/Hugh-CV/books/typesetting-in-linguistics/licenses/</link>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/books/typesetting-in-linguistics/licenses/</guid>
+      <description>&lt;h2 id=&#34;ownership&#34;&gt;Ownership&lt;/h2&gt;
+&lt;p&gt;(I need to explain ownership, and who owns what one creates.)&lt;/p&gt;
+&lt;h2 id=&#34;usage&#34;&gt;Usage&lt;/h2&gt;
+&lt;p&gt;(make the point that usage is different than ownership)&lt;/p&gt;
+&lt;h2 id=&#34;access&#34;&gt;Access&lt;/h2&gt;
+&lt;p&gt;(Make the point that access is different than ownership and usage).&lt;/p&gt;
+&lt;h2 id=&#34;copyright&#34;&gt;Copyright&lt;/h2&gt;
+&lt;p&gt;(Explain the 7 prevelges of copyright)&lt;/p&gt;
+&lt;h2 id=&#34;the-license&#34;&gt;The license&lt;/h2&gt;
+&lt;p&gt;(what is a license and is it different than ownership).&lt;/p&gt;
+&lt;h3 id=&#34;choosing-a-license&#34;&gt;Choosing a license&lt;/h3&gt;
+&lt;p&gt;(what are some dynamics of different licneses)
+Creative Commons, CC0, MIT, patents, database rights, global rights, local rights, GDPR,&lt;/p&gt;
+&lt;h2 id=&#34;the-contract&#34;&gt;The contract&lt;/h2&gt;
+&lt;p&gt;IRB is a contract&amp;hellip;&lt;/p&gt;
+&lt;p&gt;Ethics is professional code of conduct&lt;/p&gt;
+&lt;p&gt;Morals are a lifestyle.&lt;/p&gt;
+&lt;h2 id=&#34;examples-of-bad-license-statements-in-linguistics&#34;&gt;Examples of bad license statements in linguistics&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://zenodo.org/record/3377537:&#34;&gt;https://zenodo.org/record/3377537:&lt;/a&gt; Archive says one thing about license CC-BY, the preamble says public domain, and CC-BY-NC&lt;/p&gt;
+&lt;p&gt;There is also the CC license without a copyright statement Soria (Italian linguist) workshop license statement with no copyright.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>References</title>
+      <link>https://hughandbecky.us/Hugh-CV/books/typesetting-in-linguistics/references/</link>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/books/typesetting-in-linguistics/references/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://libguides.scu.edu.au/harvard/other-sources&#34;&gt;https://libguides.scu.edu.au/harvard/other-sources&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Multi-lingual&lt;/p&gt;
+&lt;p&gt;What to do about annual periodicals: &lt;a href=&#34;https://forums.zotero.org/discussion/83926/reporting-error-in-stylesheet?new=1&#34;&gt;https://forums.zotero.org/discussion/83926/reporting-error-in-stylesheet?new=1&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;citing data:&lt;/p&gt;
+&lt;p&gt;Argue against &lt;a href=&#34;https://www.linguisticsociety.org/sites/default/files/style-sheet_0.pdf:&#34;&gt;https://www.linguisticsociety.org/sites/default/files/style-sheet_0.pdf:&lt;/a&gt;&lt;/p&gt;
+&lt;ol start=&#34;10&#34;&gt;
+&lt;li&gt;For conference proceedings, working papers, etc. For conference proceedings
+published with an ISSN, treat the proceedings as a journal: Include both the full
+conference name and any commonly used acronym for the conference (BLS, WCCFL,
+etc.) in the journal title position. For proceedings not published with an ISSN, treat the
+proceedings as any other book, using the full title as listed on the front cover or title
+page. If the title (and subtitle if there is one) only includes an acronym for the
+conference name, expand the acronym in square brackets or parentheses following the
+acronym. If the title does not include an acronym which is commonly used for the
+conference name, include the acronym in square brackets or parentheses following the
+conference name. The advantage of including the acronym after the society title is that it
+makes the entry much more identifiable in a list of references.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Proceedings should be books, unless they appear as a journal with more than&lt;/p&gt;
+&lt;p&gt;Names:&lt;/p&gt;
+&lt;p&gt;Argue against:
+12. Names with “von”, “van”, “de”, etc. If the &amp;ldquo;van&amp;rdquo; (or the &amp;ldquo;de&amp;rdquo; or other patronymic)
+is lower case and separated from the rest by a space (e.g. Elly van Gelderen), then
+alphabetize by the first upper-case element:
+Gelderen, Elly van
+The addition of &amp;ldquo;see &amp;hellip;&amp;rdquo; in comprehensive indices and lists might be helpful for
+clarification:
+van Gelderen, Elly (see Gelderen)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;alphabetization yes, but still print the van in front of Gelderen.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Ambivalent,
+13. Names with “Jr.”, “IV.”, etc. Following library practice, list elements such as “Jr.”
+as a subelement after names, separated by a comma.
+Smith, Sean, Jr.&lt;/p&gt;
+&lt;p&gt;Argue against publishing a book seperately:&lt;/p&gt;
+&lt;ol start=&#34;14&#34;&gt;
+&lt;li&gt;Use “In” to designate chapters in collections. This makes the book’s format
+maximally similar to the standard citation format. This, in turn, would be time-saving
+when the author or the editor notice that more than one article is cited from a given
+collection and hence that that book’s details should be set out as a separate entry in the
+references (and the full details deleted from the articles’ entries).
+author. year. chaptertitle. In editorname (ed.), collectiontitle, pagenumbers. publisher.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Argue against, and in favor of 21:2. 6-33. :&lt;/p&gt;
+&lt;ol start=&#34;15&#34;&gt;
+&lt;li&gt;Journal volume numbers. We favor: volumenumber(volumeissue). startingpageendingpage. Thus: 22(1). 135-169. Note the space between volume number/issue and
+page numbers. Special formatting (e.g., bold for volume number) is superfluous. Issue
+numbers are a parenthetical modifier (cf. &amp;ldquo;ed.&amp;rdquo; above) of the volume number. While it is
+not NECESSARY information for identifying the article, it is extremely USEFUL information.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;pre&gt;&lt;code&gt;From the perspective of running a large collaborative group in a team that relies on Slack a lot, I&#39;m somewhat skeptical. We have an &amp;quot;add to Zotero&amp;quot; channel that we have RAs periodically go through to add items to the Zotero library.
+
+WORK FLOW ADVICE!!!
+The reason for that is that a) metadata isn&#39;t always perfect and it&#39;s best to fix right on import and b) you&#39;ll want to file &amp;amp; tag items right away and by the time you&#39;ve added collection support to Zotero in Slack you&#39;ve established such a complex syntax that it&#39;s probably easier to just use Zotero.
+
+
+&#39;In this case, you can either go through your library and change all the names that refer to the same person to the exact same form, or you can simply use a style that doesn&#39;t disambiguate names.&#39;
+
+I strongly recommend that you identify authors in your Zotero library with names that are entered with different levels of completeness. Edit those author names so that each name matches the entry with the most complete name (first middle and last names). Earlier editions of APA and Chicago style guides mandated (or strongly recommended) this. I&#39;m unsure of the status of that recommendation in current versions. I am not aware of any style guide that prohibits this practice.
+
+For example, the Chicago Manual of Style states:
+“Authors’ names are normally given as they appear on the title pages of their books or above their articles. Certain adjustments, however, should be made to assist correct identification. First names may be given in full in place of initials. If an author uses his or her given name in one cited book and initials in another (e.g., “Mary L. Jones” versus “M. L. Jones” versus “Mary Jones” versus “Mary Lois Jones” versus “M. Jones”), the same form, preferably the fuller one, should be used in all references to that author. To assist alphabetization, middle initials or names should be given wherever known”. [¶14.72] (emphasis added)
+
+There are similar requirements with other citation styles. (See: APA Guideline 6.27.)
+
+Citation Managers:
+Zotero review
+Papers review
+Mendeley review
+Citation Graph usage review
+Report on research I did.
+
+also look at: https://code.research.uts.edu.au/124411/ro-2018/-/tree/eb44a3219f731d44fad8b1b5b63a3e4c3889382a
+
+For presenting large collections of citations look into MODS and MARC Recrods direct as they have more data than .bib tools then develop an API off of that for DOIs too: 
+https://sourceforge.net/p/bibutils/home/Bibutils/
+https://guides.library.illinois.edu/c.php?g=463460&amp;amp;p=3168159
+https://www.loc.gov/standards/mods/v3/mods-userguide-elements.html
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Scholarly Communication</title>
+      <link>https://hughandbecky.us/Hugh-CV/books/typesetting-in-linguistics/scholarly-communication/</link>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/books/typesetting-in-linguistics/scholarly-communication/</guid>
+      <description>&lt;p&gt;Scholarly communication needs to go somewhere:
+&lt;a href=&#34;https://emitanaka.org/slides/ISIWSC2019/#1&#34;&gt;https://emitanaka.org/slides/ISIWSC2019/#1&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Some Characters I Use</title>
+      <link>https://hughandbecky.us/Hugh-CV/books/typesetting-in-linguistics/somecharactersiuse/</link>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/books/typesetting-in-linguistics/somecharactersiuse/</guid>
+      <description>&lt;p&gt;I use a large variety of characters in my typesetting. Here is a running list of them, their uses.&lt;/p&gt;
+&lt;p&gt;saltillos, ⟨Ꞌ ꞌ⟩ Upper case	U+A78B &amp;lsquo;LATIN SMALL LETTER SALTILLO&amp;rsquo; (U+A78C)&lt;/p&gt;
+&lt;p&gt;&amp;lsquo;LATIN LETTER GLOTTAL STOP&amp;rsquo; (U+0294) latin capital letter glottal stop U+0241 modifier letter glottal stop U+02C0&lt;/p&gt;
+&lt;p&gt;U+02011 NON-BREAKING HYPHEN ‑&lt;/p&gt;
+&lt;p&gt;en-dash –
+em-dash —&lt;/p&gt;
+&lt;p&gt;Thin Space,
+ZeroSpace word joiner U+2060 Word-Joiner ⁠ representative by no visible character, it prohibits a line break at its position.
+U+00A0 No-Break Space   represented similarly to a space character, it prevents an automatic line break.
+NARROW NO-BREAK SPACE (U+202F)
+U+202F Narrow No-Break Space   or &amp;amp;nnbsp;
+&lt;a href=&#34;https://stackoverflow.com/questions/11392312/zero-width-non-breaking-space&#34;&gt;https://stackoverflow.com/questions/11392312/zero-width-non-breaking-space&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Visualizations</title>
+      <link>https://hughandbecky.us/Hugh-CV/books/typesetting-in-linguistics/visualizations/</link>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/books/typesetting-in-linguistics/visualizations/</guid>
+      <description>&lt;p&gt;Here is the start of a bibliography:&lt;/p&gt;
+&lt;p&gt;Ashby, Michael. 1989. A note on the vowel quadrilateral. Journal of the International Phonetic Association. Cambridge University Press 19(2). 83–88. &lt;a href=&#34;https://doi.org/10.1017/S0025100300003881&#34;&gt;https://doi.org/10.1017/S0025100300003881&lt;/a&gt;. &lt;a href=&#34;https://www.cambridge.org/core/journals/journal-of-the-international-phonetic-association/article/note-on-the-vowel-quadrilateral-1/497E21FD655AAA036F5498F1C86F2167&#34;&gt;https://www.cambridge.org/core/journals/journal-of-the-international-phonetic-association/article/note-on-the-vowel-quadrilateral-1/497E21FD655AAA036F5498F1C86F2167&lt;/a&gt; (25 June, 2020).
+Behrisch, M., M. Blumenschein, N. W. Kim, L. Shao, M. El-Assady, J. Fuchs, D. Seebacher, et al. 2018. Quality Metrics for Information Visualization. Computer Graphics Forum 37(3). 625–662. &lt;a href=&#34;https://doi.org/10.1111/cgf.13446&#34;&gt;https://doi.org/10.1111/cgf.13446&lt;/a&gt;. &lt;a href=&#34;http://doi.wiley.com/10.1111/cgf.13446&#34;&gt;http://doi.wiley.com/10.1111/cgf.13446&lt;/a&gt; (21 June, 2020).
+Bibiko, Hans-Jörg. Visualization and online presentation of linguistic data. 9.
+Brath, Richard &amp;amp; Ebad Banissi. 2016. Using Typography to Expand the Design Space of Data Visualization. She Ji: The Journal of Design, Economics, and Innovation 2(1). 59–87. &lt;a href=&#34;https://doi.org/10.1016/j.sheji.2016.05.003&#34;&gt;https://doi.org/10.1016/j.sheji.2016.05.003&lt;/a&gt;. &lt;a href=&#34;https://linkinghub.elsevier.com/retrieve/pii/S2405872616300107&#34;&gt;https://linkinghub.elsevier.com/retrieve/pii/S2405872616300107&lt;/a&gt; (9 June, 2020).
+Butt, Miriam &amp;amp; Chris Culy. Visual Analytics for Linguists. 48.
+Caines, Andrew, Christian Bentz, Dimitrios Alikaniotis, Fridah Katushemererwe &amp;amp; Paula Buttery. 2016. The Glottolog Data Explorer: Mapping the world’s languages. In Annette Hautli-Janisz &amp;amp; Verena Lyding (eds.), Proceedings of VisLR II: Visualization as Added Value in the Development, Use and Evaluation of Language Resources, 38–53. Portoroz, Slovenia: European Language Resources Association (ELRA).
+Collins, Christopher, Gerald Penn &amp;amp; Sheelagh Carpendale. 2008. Interactive visualization for computational linguistics. In Proceedings of the 46th Annual Meeting of the Association for Computational Linguistics on Human Language Technologies Tutorial Abstracts - HLT ’08, 6–6. Columbus, Ohio: Association for Computational Linguistics. &lt;a href=&#34;https://doi.org/10.3115/1564169.1564175&#34;&gt;https://doi.org/10.3115/1564169.1564175&lt;/a&gt;. &lt;a href=&#34;http://portal.acm.org/citation.cfm?doid=1564169.1564175&#34;&gt;http://portal.acm.org/citation.cfm?doid=1564169.1564175&lt;/a&gt; (24 June, 2020).
+Culy, Chris, Corina Dima &amp;amp; Emanuel Dima. 2012. Through the Looking Glass: Two Approaches to Visualizing Linguistic Syntax Trees. In 2012 16th International Conference on Information Visualisation, 214–219. Montpellier, France: IEEE. &lt;a href=&#34;https://doi.org/10.1109/IV.2012.44&#34;&gt;https://doi.org/10.1109/IV.2012.44&lt;/a&gt;. &lt;a href=&#34;http://ieeexplore.ieee.org/document/6295816/&#34;&gt;http://ieeexplore.ieee.org/document/6295816/&lt;/a&gt; (24 June, 2020).
+Culy, Chris &amp;amp; Verena Lyding. Visualization of linguistic information. 43.
+Hammarström, Harald, Thom Castermans, Robert Forkel, Kevin Verbeek, Michel A Westenberg &amp;amp; Bettina Speckmann. 2018. Simultaneous Visualization of Language Endangerment and Language Description. Language Documentation 12. 359–392. &lt;a href=&#34;http://hdl.handle.net/10125/24792&#34;&gt;http://hdl.handle.net/10125/24792&lt;/a&gt;.
+Hammarström, Harald, Thom Castermans, Robert Forkel, Kevin Verbeek, Michel A. Westenberg &amp;amp; Bettina Speckmann. 2018. Simultaneous Visualization of Language Endangerment and Language Description. University of Hawaii Press 461–480. &lt;a href=&#34;http://scholarspace.manoa.hawaii.edu/handle/10125/24792&#34;&gt;http://scholarspace.manoa.hawaii.edu/handle/10125/24792&lt;/a&gt; (24 June, 2020).
+Hansen, Jason D. 2015. Mapping the Germans: statistical science, cartography, and the visualization of the German nation, 1848-1914 (Oxford Studies in Modern European History). First edition. Oxford, United Kingdom: Oxford University Press.
+Hooshiar, Kavon. 2015. A quantitative analysis of linguistic metadata. &lt;a href=&#34;https://core.ac.uk/display/32299901&#34;&gt;https://core.ac.uk/display/32299901&lt;/a&gt; (24 June, 2020).
+Imre, Martin, Jun Tao, Yongyu Wang, Zhiqiang Zhao, Zhuo Feng &amp;amp; Chaoli Wang. 2020. Spectrum-preserving sparsification for visualization of big graphs. Computers &amp;amp; Graphics 87. 89–102. &lt;a href=&#34;https://doi.org/10.1016/j.cag.2020.02.004&#34;&gt;https://doi.org/10.1016/j.cag.2020.02.004&lt;/a&gt;. &lt;a href=&#34;https://linkinghub.elsevier.com/retrieve/pii/S0097849320300212&#34;&gt;https://linkinghub.elsevier.com/retrieve/pii/S0097849320300212&lt;/a&gt; (21 June, 2020).
+Lamprecht, Andreas, Annette Hautli, Christian Rohrdantz &amp;amp; Tina Bögel. 2013. A Visual Analytics System for Cluster Exploration. In Proceedings of the 51st Annual Meeting of the Association for Computational Linguistics: System Demonstrations, 109–114. Sofia, Bulgaria: Association for Computational Linguistics. &lt;a href=&#34;https://www.aclweb.org/anthology/P13-4019&#34;&gt;https://www.aclweb.org/anthology/P13-4019&lt;/a&gt; (24 June, 2020).
+Lyding, Verena &amp;amp; Chris Culy. Visualizing Linguistic Data: 44.
+Mayer, Thomas &amp;amp; Christian Rohrdantz. 2013. PhonMatrix: Visualizing co-occurrence constraints of sounds. In Miriam Butt &amp;amp; Sarmad Hussain (eds.), Proceedings of the 51st Annual Meeting of the Association for Computational Linguistics: System Demonstrations, 73–78. Sofia, Bulgaria: Association for Computational Linguistics. &lt;a href=&#34;https://www.aclweb.org/anthology/P13-4013&#34;&gt;https://www.aclweb.org/anthology/P13-4013&lt;/a&gt; (24 June, 2020).
+Meidiana, Amyra, Seok-Hee Hong, Peter Eades &amp;amp; Daniel Keim. 2019a. A Quality Metric for Visualization of Clusters in Graphs. In Daniel Archambault &amp;amp; Csaba D. Tóth (eds.), Graph Drawing and Network Visualization (Lecture Notes in Computer Science), vol. 11904, 125–138. Cham: Springer International Publishing. &lt;a href=&#34;https://doi.org/10.1007/978-3-030-35802-0_10&#34;&gt;https://doi.org/10.1007/978-3-030-35802-0_10&lt;/a&gt;. &lt;a href=&#34;http://link.springer.com/10.1007/978-3-030-35802-0_10&#34;&gt;http://link.springer.com/10.1007/978-3-030-35802-0_10&lt;/a&gt; (21 June, 2020).
+Meidiana, Amyra, Seok-Hee Hong, Peter Eades &amp;amp; Daniel Keim. 2019b. A Quality Metric for Visualization of Clusters in Graphs. In Daniel Archambault &amp;amp; Csaba D. Tóth (eds.), Graph Drawing and Network Visualization (Lecture Notes in Computer Science), vol. 11904, 125–138. Cham: Springer International Publishing. &lt;a href=&#34;https://doi.org/10.1007/978-3-030-35802-0_10&#34;&gt;https://doi.org/10.1007/978-3-030-35802-0_10&lt;/a&gt;. &lt;a href=&#34;http://link.springer.com/10.1007/978-3-030-35802-0_10&#34;&gt;http://link.springer.com/10.1007/978-3-030-35802-0_10&lt;/a&gt; (21 June, 2020).
+Penn, Gerald, Sheelagh Carpendale &amp;amp; Christopher Collins. Interactive Visualization for Computational Linguistics Tutorial at ESSLLI-09. 338.
+Penn, Gerald, Sheelagh Carpendale &amp;amp; Christopher Collins. Interactive Visualization for Computational Linguistics Tutorial at ESSLLI-09. 338.
+Penn, Gerald, Sheelagh Carpendale &amp;amp; Christopher Collins. Interactive Visualization for Computational Linguistics Tutorial at ESSLLI-09. 338.
+Roberts, Jonathan C, Ana Frankenberg-Garcia, Robert Lew, Geraint Rees &amp;amp; Nirwan Sharma. 2018. Visualisation Approaches for Corpus Linguistics: towards Visual Integration of Data-Driven Learning. 5.
+Rydberg-Cox, J.A., L. Vetter &amp;amp; S. Ruger. 2004. Cross-lingual searching and visualization for Greek and Latin and Old Norse texts. In Proceedings of the 2004 Joint ACM/IEEE Conference on Digital Libraries, 2004., 383. &lt;a href=&#34;https://doi.org/10.1109/JCDL.2004.240482&#34;&gt;https://doi.org/10.1109/JCDL.2004.240482&lt;/a&gt;.
+Rydberg-Cox, Jeffrey A., Lara Vetter, Stefan Rüger &amp;amp; Daniel Heesch. 2004. Cross-lingual searching and visualization for greek and latin and old norse texts. In Proceedings of the 2004 joint ACM/IEEE conference on Digital libraries  - JCDL ’04, 383. Tuscon, AZ, USA: ACM Press. &lt;a href=&#34;https://doi.org/10.1145/996350.996449&#34;&gt;https://doi.org/10.1145/996350.996449&lt;/a&gt;. &lt;a href=&#34;http://portal.acm.org/citation.cfm?doid=996350.996449&#34;&gt;http://portal.acm.org/citation.cfm?doid=996350.996449&lt;/a&gt; (18 June, 2020).
+Sarnat, Aaron, Vidur Joshi, Cristian Petrescu-Prahova, Alvaro Herrasti, Brandon Stilson &amp;amp; Mark Hopkins. 2017. Interactive Visualization for Linguistic Structure. In Proceedings of the 2017 Conference on Empirical Methods in Natural Language Processing: System Demonstrations, 49–54. Copenhagen, Denmark: Association for Computational Linguistics. &lt;a href=&#34;https://doi.org/10.18653/v1/D17-2009&#34;&gt;https://doi.org/10.18653/v1/D17-2009&lt;/a&gt;. &lt;a href=&#34;https://www.aclweb.org/anthology/D17-2009&#34;&gt;https://www.aclweb.org/anthology/D17-2009&lt;/a&gt; (24 June, 2020).
+Schätzle, Christin, Michael Hund, Frederik Dennig, Miriam Butt &amp;amp; Daniel Keim. 2017. HistoBankVis: Detecting Language Change via Data Visualization. In Proceedings of the NoDaLiDa 2017 Workshop on Processing Historical Language, 32–39. Gothenburg: Linköping University Electronic Press. &lt;a href=&#34;https://www.aclweb.org/anthology/W17-0507&#34;&gt;https://www.aclweb.org/anthology/W17-0507&lt;/a&gt; (24 June, 2020).
+Vriend, Folkert de, Lou Boves, Roeland van Hout &amp;amp; Jos Swanenberg. 2011. Visualization as a research tool for dialect geography using a geo-browser. Literary and Linguistic Computing 26(1). 17–34. &lt;a href=&#34;https://doi.org/10.1093/llc/fqq027&#34;&gt;https://doi.org/10.1093/llc/fqq027&lt;/a&gt;.
+Wu, Yanhong, Nan Cao, Daniel Archambault, Qiaomu Shen, Huamin Qu &amp;amp; Weiwei Cui. 2017. Evaluation of Graph Sampling: A Visualization Perspective. IEEE Transactions on Visualization and Computer Graphics 23(1). 401–410. &lt;a href=&#34;https://doi.org/10.1109/TVCG.2016.2598867&#34;&gt;https://doi.org/10.1109/TVCG.2016.2598867&lt;/a&gt;. &lt;a href=&#34;http://ieeexplore.ieee.org/document/7539318/&#34;&gt;http://ieeexplore.ieee.org/document/7539318/&lt;/a&gt; (21 June, 2020).
+Chris Culy. &lt;a href=&#34;https://web.archive.org/web/20150205050325/http://linguistics.chrisculy.net/software/index.html&#34;&gt;https://web.archive.org/web/20150205050325/http://linguistics.chrisculy.net/software/index.html&lt;/a&gt; (24 June, 2020a).
+LREC2014Workshop-VisLR Proceedings.pdf. &lt;a href=&#34;http://www.lrec-conf.org/proceedings/lrec2014/workshops/LREC2014Workshop-VisLR%20Proceedings.pdf&#34;&gt;http://www.lrec-conf.org/proceedings/lrec2014/workshops/LREC2014Workshop-VisLR%20Proceedings.pdf&lt;/a&gt; (24 June, 2020b).
+Visual Linguistics. &lt;a href=&#34;http://www.visual-linguistics.net/symposium/index_en.html&#34;&gt;http://www.visual-linguistics.net/symposium/index_en.html&lt;/a&gt; (24 June, 2020c).&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

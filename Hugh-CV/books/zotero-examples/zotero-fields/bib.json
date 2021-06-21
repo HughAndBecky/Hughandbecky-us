@@ -1,0 +1,4 @@
+[
+  {"id":"wiernik_zotero_2020","accessed":{"date-parts":[[2021,6,18]]},"author":[{"family":"Wiernik","given":"Brenton M."}],"container-title":"Zotero Documentation","genre":"Documentation Wiki","issued":{"date-parts":[[2020,8,10]]},"title":"Zotero Item Types and Fields","type":"webpage","URL":"https://www.zotero.org/support/kb/item_types_and_fields"},
+  {"id":"vinckevicius_data_2021","accessed":{"date-parts":[[2021,6,17]]},"archive":"Github.com","archive_location":"https://aurimasv.github.io/z2csl/typeMap.xml","author":[{"family":"Vinckevicius","given":"Aurimas"},{"family":"Zumstein","given":"Philipp"},{"family":"Bennett","given":"Frank"}],"container-title":"z2csl - Zotero to CSL extension and mappings","issued":{"date-parts":[[2021]]},"publisher":"Github Project","title":"Data Transforms","type":"chapter","URL":"https://aurimasv.github.io/z2csl/typeMap.xml"}
+]

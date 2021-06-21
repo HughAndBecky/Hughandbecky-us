@@ -1,0 +1,1359 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Collection | Hugh&#39;s Curriculum Vitae</title>
+    <link>https://hughandbecky.us/Hugh-CV/tag/collection/</link>
+      <atom:link href="https://hughandbecky.us/Hugh-CV/tag/collection/index.xml" rel="self" type="application/rss+xml" />
+    <description>Collection</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2021</copyright><lastBuildDate>Mon, 18 Jan 2021 01:41:38 -0700</lastBuildDate>
+    <image>
+      <url>https://hughandbecky.us/Hugh-CV/media/HughPaterson.jpg</url>
+      <title>Collection</title>
+      <link>https://hughandbecky.us/Hugh-CV/tag/collection/</link>
+    </image>
+    
+    <item>
+      <title>Corpora, Collections, and Datasets</title>
+      <link>https://hughandbecky.us/Hugh-CV/post/corpora-collections-dataset/</link>
+      <pubDate>Mon, 18 Jan 2021 01:41:38 -0700</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/post/corpora-collections-dataset/</guid>
+      <description>&lt;p&gt;There has been some discussion of what constitutes a collection among language documentation practitioners. Johnson 
+
+
+
+
+
+
+
+&lt;span class=&#34;hugo-cite-intext&#34;
+        itemprop=&#34;citation&#34;&gt;(&lt;a href=&#34;#johnson_language_2004&#34;&gt;&lt;span class=&#34;visually-hidden&#34;&gt;Citation: &lt;/span&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;meta itemprop=&#34;givenName&#34; content=&#34;Heidi&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Johnson&lt;/span&gt;&lt;/span&gt;,&amp;#32;
+      &lt;span itemprop=&#34;datePublished&#34;&gt;2004&lt;/span&gt;,&amp;#32;p.&amp;nbsp;142&lt;/a&gt;)
+    &lt;span class=&#34;hugo-cite-citation&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Johnson&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Heidi&#34; /&gt;
+    H.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2004&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;Language documentation and archiving, or how to build a better corpus&lt;/span&gt;.&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;Language Documentation and Description&lt;/span&gt;,&amp;#32;2&lt;/i&gt;.&amp;#32;&lt;span itemprop=&#34;pagination&#34;&gt;140–153&lt;/span&gt;.&amp;#32;Retrieved from&amp;#32;
+  &lt;a href=&#34;http://www.elpublishing.org/PID/026&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;http://www.elpublishing.org/PID/026&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/span&gt;&lt;/span&gt;
+ equates a collection and a corpus saying:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“A collection, or corpus, is the body of documentary materials created by linguists and native speakers in the course of their research.”&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Simons 
+
+
+
+
+
+
+
+&lt;span class=&#34;hugo-cite-intext&#34;
+        itemprop=&#34;citation&#34;&gt;(&lt;a href=&#34;#simons_documentary_2008&#34;&gt;&lt;span class=&#34;visually-hidden&#34;&gt;Citation: &lt;/span&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;meta itemprop=&#34;givenName&#34; content=&#34;Gary F&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Simons&lt;/span&gt;&lt;/span&gt;,&amp;#32;
+      &lt;span itemprop=&#34;datePublished&#34;&gt;2008&lt;/span&gt;&lt;/a&gt;)
+    &lt;span class=&#34;hugo-cite-citation&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/CreativeWork&#34;
+      data-type=&#34;speech&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Simons&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Gary F&#34; /&gt;
+    G.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2008&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;
+    &lt;i&gt;Documentary Linguistics and a New Kind of Corpus&lt;/i&gt;&lt;/span&gt;.
+  &lt;meta itemprop=&#34;contentLocation&#34;
+        content=&#34;De La Salle University, Manila, 25 November&#34;&gt;&amp;#32;Retrieved from&amp;#32;
+  &lt;a href=&#34;https://scholars.sil.org/sites/scholars/files/gary_f_simons/presentation/doc_ling.pdf&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://scholars.sil.org/sites/scholars/files/gary_f_simons/presentation/doc_ling.pdf&lt;/a&gt;&lt;/span&gt;
+
+&lt;/span&gt;&lt;/span&gt;
+ and Boerger 
+
+
+
+
+
+
+
+&lt;span class=&#34;hugo-cite-intext&#34;
+        itemprop=&#34;citation&#34;&gt;(&lt;a href=&#34;#boerger_boldly_2011&#34;&gt;&lt;span class=&#34;visually-hidden&#34;&gt;Citation: &lt;/span&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;meta itemprop=&#34;givenName&#34; content=&#34;Brenda&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Boerger&lt;/span&gt;&lt;/span&gt;,&amp;#32;
+      &lt;span itemprop=&#34;datePublished&#34;&gt;2011&lt;/span&gt;&lt;/a&gt;)
+    &lt;span class=&#34;hugo-cite-citation&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Boerger&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Brenda&#34; /&gt;
+    B.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2011&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;To BOLDly Go Where No One Has Gone Before&lt;/span&gt;.&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;Language Documentation &amp;amp; Conservation&lt;/span&gt;,&amp;#32;5&lt;/i&gt;.&amp;#32;&lt;span itemprop=&#34;pagination&#34;&gt;208–233&lt;/span&gt;.&amp;#32;Retrieved from&amp;#32;
+  &lt;a href=&#34;http://scholarspace.manoa.hawaii.edu/handle/10125/4499&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;http://scholarspace.manoa.hawaii.edu/handle/10125/4499&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/span&gt;&lt;/span&gt;
+ &lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; advance the idea that the materials generated as part of a language documentation effort are a corpus, not distinguishing between a corpus and a collection&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;. Many other language documentation practitioners 
+
+
+
+
+
+
+
+&lt;span class=&#34;hugo-cite-intext&#34;
+        itemprop=&#34;citation&#34;&gt;(&lt;a href=&#34;#lupke_research_2010&#34;&gt;&lt;span class=&#34;visually-hidden&#34;&gt;Citation: &lt;/span&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;meta itemprop=&#34;givenName&#34; content=&#34;Friederike&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Lüpke&lt;/span&gt;&lt;/span&gt;,&amp;#32;
+      &lt;span itemprop=&#34;datePublished&#34;&gt;2010&lt;/span&gt;&lt;/a&gt;)
+    &lt;span class=&#34;hugo-cite-citation&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Lüpke&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Friederike&#34; /&gt;
+    F.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2010&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;Research methods in language documentation&lt;/span&gt;.&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;Language Documentation and Description&lt;/span&gt;,&amp;#32;7&lt;/i&gt;.&amp;#32;&lt;span itemprop=&#34;pagination&#34;&gt;55–104&lt;/span&gt;.&lt;/span&gt;
+
+
+
+
+&lt;/span&gt;&lt;/span&gt;
+, 
+
+
+
+
+
+
+
+&lt;span class=&#34;hugo-cite-intext&#34;
+        itemprop=&#34;citation&#34;&gt;(&lt;a href=&#34;#austin_data_2011&#34;&gt;&lt;span class=&#34;visually-hidden&#34;&gt;Citation: &lt;/span&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;meta itemprop=&#34;givenName&#34; content=&#34;Jeff&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Good&lt;/span&gt;&lt;/span&gt;,&amp;#32;
+      &lt;span itemprop=&#34;datePublished&#34;&gt;2011&lt;/span&gt;&lt;/a&gt;)
+    &lt;span class=&#34;hugo-cite-citation&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Chapter&#34;
+      data-type=&#34;chapter&#34;&gt;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Good&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Jeff&#34; /&gt;
+    J.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2011&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;Data and language documentation&lt;/span&gt;.&amp;#32;In&amp;#32;&lt;span itemprop=&#34;editor&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Austin&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Peter K.&#34; /&gt;
+    P.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;editor&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Sallabank&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Julia&#34; /&gt;
+    J.&lt;/span&gt; (Eds.),&amp;#32;&lt;span itemprop=&#34;about&#34;&gt;
+    &lt;i&gt;The Cambridge Handbook of Endangered Languages&lt;/i&gt;&lt;/span&gt;.&amp;#32;(&lt;span&gt;pp.&amp;#32;212–234&lt;/span&gt;).
+  &lt;meta itemprop=&#34;contentLocation&#34;
+        value=&#34;Cambridge, England&#34;&gt;&amp;#32;&lt;span itemprop=&#34;publisher&#34;
+               itemtype=&#34;http://schema.org/Organization&#34;
+               itemscope=&#34;&#34;&gt;
+      &lt;span itemprop=&#34;name&#34;&gt;Cambridge University Press&lt;/span&gt;&lt;/span&gt;.
+  &lt;a href=&#34;https://doi.org/10.1017/CBO9780511975981.011&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://doi.org/10.1017/CBO9780511975981.011&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/span&gt;&lt;/span&gt;
+, 
+
+
+
+
+
+
+
+&lt;span class=&#34;hugo-cite-intext&#34;
+        itemprop=&#34;citation&#34;&gt;(&lt;a href=&#34;#austin_language_2013&#34;&gt;&lt;span class=&#34;visually-hidden&#34;&gt;Citation: &lt;/span&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;meta itemprop=&#34;givenName&#34; content=&#34;Peter K.&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Austin&lt;/span&gt;&lt;/span&gt;,&amp;#32;
+      &lt;span itemprop=&#34;datePublished&#34;&gt;2013&lt;/span&gt;&lt;/a&gt;)
+    &lt;span class=&#34;hugo-cite-citation&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Chapter&#34;
+      data-type=&#34;chapter&#34;&gt;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Austin&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Peter K.&#34; /&gt;
+    P.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2013&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;Language documentation and meta-documentation&lt;/span&gt;.&amp;#32;In&amp;#32;&lt;span itemprop=&#34;editor&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Jones&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Mari C.&#34; /&gt;
+    M.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;editor&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Ogilvie&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Sarah&#34; /&gt;
+    S.&lt;/span&gt; (Eds.),&amp;#32;&lt;span itemprop=&#34;about&#34;&gt;
+    &lt;i&gt;Keeping Languages Alive: Documentation, Pedagogy and Revitalization&lt;/i&gt;&lt;/span&gt;.&amp;#32;(&lt;span&gt;pp.&amp;#32;3–15&lt;/span&gt;).
+  &lt;meta itemprop=&#34;contentLocation&#34;
+        value=&#34;Cambridge, UK; New York&#34;&gt;&amp;#32;&lt;span itemprop=&#34;publisher&#34;
+               itemtype=&#34;http://schema.org/Organization&#34;
+               itemscope=&#34;&#34;&gt;
+      &lt;span itemprop=&#34;name&#34;&gt;Cambridge University Press&lt;/span&gt;&lt;/span&gt;.
+  &lt;a href=&#34;https://doi.org/10.1017/CBO9781139245890.003&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://doi.org/10.1017/CBO9781139245890.003&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/span&gt;&lt;/span&gt;
+ extend or modify the meaning of “corpus” when referring to a collection; using a phrase like language documentation corpus. In contrast to the coalescence of corpus and collection, Thieberger 
+
+
+
+
+
+
+
+&lt;span class=&#34;hugo-cite-intext&#34;
+        itemprop=&#34;citation&#34;&gt;(&lt;a href=&#34;#thieberger_texts_2018&#34;&gt;&lt;span class=&#34;visually-hidden&#34;&gt;Citation: &lt;/span&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;meta itemprop=&#34;givenName&#34; content=&#34;Nicholas&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Thieberger&lt;/span&gt;&lt;/span&gt;,&amp;#32;
+      &lt;span itemprop=&#34;datePublished&#34;&gt;2018&lt;/span&gt;&lt;/a&gt;)
+    &lt;span class=&#34;hugo-cite-citation&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/BlogPosting&#34;
+      data-type=&#34;blog&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Thieberger&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Nicholas&#34; /&gt;
+    N.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2018&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;Texts and more texts: corpora in the CoEDL&lt;/span&gt;&lt;span itemprop=&#34;genre&#34;&gt;&amp;nbsp;[Blog]&lt;/span&gt;.&amp;nbsp;&lt;span itemprop=&#34;isPartOf&#34;&gt;Endangered Languages and Cultures&lt;/span&gt;.&amp;#32;Retrieved from&amp;#32;
+  &lt;a href=&#34;https://www.paradisec.org.au/blog/2018/02/texts-and-more-texts-corpora-in-the-coedl/&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://www.paradisec.org.au/blog/2018/02/texts-and-more-texts-corpora-in-the-coedl/&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/span&gt;&lt;/span&gt;
+, in a blog post, credits Jane Simpson with proposing the following terms: Assemblage – all material collected, working files, early sources, multiple versions and drafts; Collection – the archived material, a subset of the above, but curated with sufficient metadata to allow the user to know what all items are; Corpus – a crafted set of texts in the language that can be used for further analysis. For a recent treatment of these ideas see Sullivant 
+
+
+
+
+
+
+
+&lt;span class=&#34;hugo-cite-intext&#34;
+        itemprop=&#34;citation&#34;&gt;(&lt;a href=&#34;#sullivant_archival_2020-1&#34;&gt;&lt;span class=&#34;visually-hidden&#34;&gt;Citation: &lt;/span&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;meta itemprop=&#34;givenName&#34; content=&#34;Ryan&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Sullivant&lt;/span&gt;&lt;/span&gt;,&amp;#32;
+      &lt;span itemprop=&#34;datePublished&#34;&gt;2020&lt;/span&gt;&lt;/a&gt;)
+    &lt;span class=&#34;hugo-cite-citation&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Sullivant&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Ryan&#34; /&gt;
+    R.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2020&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;Archival description for language documentation collections&lt;/span&gt;.&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;Language Documentation &amp;amp; Conservation&lt;/span&gt;,&amp;#32;14&lt;/i&gt;.&amp;#32;&lt;span itemprop=&#34;pagination&#34;&gt;520–578&lt;/span&gt;.&amp;#32;Retrieved from&amp;#32;
+  &lt;a href=&#34;http://hdl.handle.net/10125/24949&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;http://hdl.handle.net/10125/24949&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/span&gt;&lt;/span&gt;
+ which expounds on Simpon’s ideas. I am not convinced that the distinction between assemblage and collection is relevant for a variety of reasons. But my interests are specifically how the distinction might impact the crafting of a bibliographic reference. I suggest that reference formulations do not need to be different between an assemblage and a collection.&lt;/p&gt;
+&lt;p&gt;Lest I leave the definitions distinguishing a corpus and a collection undisputed, let me suggest some pragmatic distinctions. Biber 
+
+
+
+
+
+
+
+&lt;span class=&#34;hugo-cite-intext&#34;
+        itemprop=&#34;citation&#34;&gt;(&lt;a href=&#34;#biber_using_1993&#34;&gt;&lt;span class=&#34;visually-hidden&#34;&gt;Citation: &lt;/span&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;meta itemprop=&#34;givenName&#34; content=&#34;Douglas&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Biber&lt;/span&gt;&lt;/span&gt;,&amp;#32;
+      &lt;span itemprop=&#34;datePublished&#34;&gt;1993&lt;/span&gt;&lt;/a&gt;)
+    &lt;span class=&#34;hugo-cite-citation&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Biber&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Douglas&#34; /&gt;
+    D.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;1993&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;Using Register-Diversified Corpora for General Language Studies&lt;/span&gt;.&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;Computational Linguistics&lt;/span&gt;,&amp;#32;19(2)&lt;/i&gt;.&amp;#32;&lt;span itemprop=&#34;pagination&#34;&gt;219–241&lt;/span&gt;.&amp;#32;Retrieved from&amp;#32;
+  &lt;a href=&#34;https://www.aclweb.org/anthology/J93-2001&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://www.aclweb.org/anthology/J93-2001&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/span&gt;&lt;/span&gt;
+, 
+
+
+
+
+
+
+
+&lt;span class=&#34;hugo-cite-intext&#34;
+        itemprop=&#34;citation&#34;&gt;(&lt;a href=&#34;#biber_representativeness_1993&#34;&gt;&lt;span class=&#34;visually-hidden&#34;&gt;Citation: &lt;/span&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;meta itemprop=&#34;givenName&#34; content=&#34;Douglas&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Biber&lt;/span&gt;&lt;/span&gt;,&amp;#32;
+      &lt;span itemprop=&#34;datePublished&#34;&gt;1993&lt;/span&gt;&lt;/a&gt;)
+    &lt;span class=&#34;hugo-cite-citation&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Biber&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Douglas&#34; /&gt;
+    D.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;1993&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;Representativeness in Corpus Design&lt;/span&gt;.&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;Literary and Linguistic Computing&lt;/span&gt;,&amp;#32;8(4)&lt;/i&gt;.&amp;#32;&lt;span itemprop=&#34;pagination&#34;&gt;243–257&lt;/span&gt;.
+  &lt;a href=&#34;https://doi.org/10.1093/llc/8.4.243&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://doi.org/10.1093/llc/8.4.243&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/span&gt;&lt;/span&gt;
+ set up diversity-based criteria for corpus design. One interpretation of Biber’s work is that if a body of evidence does not meet the diversity threshold then it does not qualify as a corpus. The diversity dynamic as a goal for a set of materials generated through language documentation efforts has been a long standing tenant of creating an evidence based documentary record for a language 
+
+
+
+
+
+
+
+&lt;span class=&#34;hugo-cite-intext&#34;
+        itemprop=&#34;citation&#34;&gt;(&lt;a href=&#34;#himmelmann_documentary_1998-5&#34;&gt;&lt;span class=&#34;visually-hidden&#34;&gt;Citation: &lt;/span&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;meta itemprop=&#34;givenName&#34; content=&#34;Nikolaus P.&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Himmelmann&lt;/span&gt;&lt;/span&gt;,&amp;#32;
+      &lt;span itemprop=&#34;datePublished&#34;&gt;1998&lt;/span&gt;&lt;/a&gt;)
+    &lt;span class=&#34;hugo-cite-citation&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Himmelmann&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Nikolaus P.&#34; /&gt;
+    N.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;1998&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;Documentary and Descriptive Linguistics&lt;/span&gt;.&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;Linguistics&lt;/span&gt;,&amp;#32;36(1)&lt;/i&gt;.&amp;#32;&lt;span itemprop=&#34;pagination&#34;&gt;161–195&lt;/span&gt;.
+  &lt;a href=&#34;https://doi.org/10.1515/ling.1998.36.1.161&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://doi.org/10.1515/ling.1998.36.1.161&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/span&gt;&lt;/span&gt;
+. Biber’s diversity arguments have even been suggested as guidelines for guiding elicitation in language documentation 
+
+
+
+
+
+
+
+&lt;span class=&#34;hugo-cite-intext&#34;
+        itemprop=&#34;citation&#34;&gt;(&lt;a href=&#34;#lupke_research_2010&#34;&gt;&lt;span class=&#34;visually-hidden&#34;&gt;Citation: &lt;/span&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;meta itemprop=&#34;givenName&#34; content=&#34;Friederike&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Lüpke&lt;/span&gt;&lt;/span&gt;,&amp;#32;
+      &lt;span itemprop=&#34;datePublished&#34;&gt;2010&lt;/span&gt;&lt;/a&gt;)
+    &lt;span class=&#34;hugo-cite-citation&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Lüpke&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Friederike&#34; /&gt;
+    F.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2010&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;Research methods in language documentation&lt;/span&gt;.&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;Language Documentation and Description&lt;/span&gt;,&amp;#32;7&lt;/i&gt;.&amp;#32;&lt;span itemprop=&#34;pagination&#34;&gt;55–104&lt;/span&gt;.&lt;/span&gt;
+
+
+
+
+&lt;/span&gt;&lt;/span&gt;
+. In this sense it is clear that selection is a process which impacts both corpus design and what is collected during fieldwork. However, a second useful criterion for defining a corpus (in contrast to a collection) might be that there is an existing tool set which can be used to exploit the collection of artifacts as a single work. This could lead to an interpretation that a corpus is more like a dataset in the Dublin Core sense, while a collection is more like a collection in the Dublin Core sense—and indeed we see that 
+
+
+
+
+
+
+
+&lt;span class=&#34;hugo-cite-intext&#34;
+        itemprop=&#34;citation&#34;&gt;(&lt;a href=&#34;#xia_enriching_2016&#34;&gt;&lt;span class=&#34;visually-hidden&#34;&gt;Citation: &lt;/span&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;meta itemprop=&#34;givenName&#34; content=&#34;Fei&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Xia&lt;/span&gt;&lt;/span&gt;
+      &lt;em&gt;et al.&lt;/em&gt;,&amp;#32;
+      &lt;span itemprop=&#34;datePublished&#34;&gt;2016&lt;/span&gt;&lt;/a&gt;)
+    &lt;span class=&#34;hugo-cite-citation&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Xia&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Fei&#34; /&gt;
+    F.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Lewis&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;William D.&#34; /&gt;
+    W.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Goodman&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Michael Wayne&#34; /&gt;
+    M.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Slayden&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Glenn&#34; /&gt;
+    G.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Georgi&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Ryan&#34; /&gt;
+    R.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Crowgey&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Joshua&#34; /&gt;
+    J.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Bender&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Emily M.&#34; /&gt;
+    E.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2016&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;Enriching a massively multilingual database of interlinear glossed text&lt;/span&gt;.&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;Language Resources and Evaluation&lt;/span&gt;,&amp;#32;50(2)&lt;/i&gt;.&amp;#32;&lt;span itemprop=&#34;pagination&#34;&gt;321–349&lt;/span&gt;.
+  &lt;a href=&#34;https://doi.org/10.1007/s10579-015-9325-4&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://doi.org/10.1007/s10579-015-9325-4&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/span&gt;&lt;/span&gt;
+ blur the line between database and corpus in their work. Both datasets (of which databases are a type) and collections can be considered examples of aggregate works. I realize that linguists and language materials archivists have applied these labels loosely but I side with Society of American Archivists, rule 2.3.19 
+
+
+
+
+
+
+
+&lt;span class=&#34;hugo-cite-intext&#34;
+        itemprop=&#34;citation&#34;&gt;(&lt;a href=&#34;#society_of_american_archivists_describing_2013&#34;&gt;&lt;span class=&#34;visually-hidden&#34;&gt;Citation: &lt;/span&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;/span&gt;,&amp;#32;
+      &lt;span itemprop=&#34;datePublished&#34;&gt;2013&lt;/span&gt;&lt;/a&gt;)
+    &lt;span class=&#34;hugo-cite-citation&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Book&#34;
+      data-type=&#34;book&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;/span&gt;&amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2013&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;
+    &lt;i&gt;Describing archives: a content standard&lt;/i&gt;&lt;/span&gt; (&lt;span&gt;2nd&lt;/span&gt;).
+  &lt;meta itemprop=&#34;locationCreated&#34;
+        value=&#34;Chicago, Illinois&#34;&gt;&amp;#32;
+  &lt;span itemprop=&#34;publisher&#34;
+             itemtype=&#34;http://schema.org/Organization&#34;
+             itemscope&gt;
+    &lt;span itemprop=&#34;name&#34;&gt;Society of American Archivists&lt;/span&gt;&lt;/span&gt;.&amp;#32;Retrieved from&amp;#32;
+  &lt;a href=&#34;http://files.archivists.org/pubs/DACS2E-2013_v0315.pdf&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;http://files.archivists.org/pubs/DACS2E-2013_v0315.pdf&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/span&gt;&lt;/span&gt;
+ in its suggested distinguishing terms for the highest level of an archival unit of materials: “Archival materials are frequently described by devised aggregate terms such as papers (for personal materials), records (for organizational materials), or collection (for topical aggregations)” (see 
+
+
+
+
+
+
+
+&lt;span class=&#34;hugo-cite-intext&#34;
+        itemprop=&#34;citation&#34;&gt;(&lt;a href=&#34;#wahbeh_records_2009&#34;&gt;&lt;span class=&#34;visually-hidden&#34;&gt;Citation: &lt;/span&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;meta itemprop=&#34;givenName&#34; content=&#34;Farris&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Wahbeh&lt;/span&gt;&lt;/span&gt;,&amp;#32;
+      &lt;span itemprop=&#34;datePublished&#34;&gt;2009&lt;/span&gt;&lt;/a&gt;)
+    &lt;span class=&#34;hugo-cite-citation&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/WebPage&#34;
+      data-type=&#34;webpage&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Wahbeh&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Farris&#34; /&gt;
+    F.&lt;/span&gt;(&lt;span itemprop=&#34;datePublished&#34;&gt;2009,&amp;#32;8/10&lt;/span&gt;).&amp;#32;Retrieved from&amp;#32;
+  &lt;a href=&#34;https://blogs.cul.columbia.edu/schapiro/2009/08/10/on-records-papers-and-collection-a-dacs-case-in-point/&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://blogs.cul.columbia.edu/schapiro/2009/08/10/on-records-papers-and-collection-a-dacs-case-in-point/&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/span&gt;&lt;/span&gt;
+ for an example of application). There are other terms which still need to be fleshed out among language archive practitioners such as: archival deposit, accession, and what one might call an artifact and its associated metadata file.&lt;/p&gt;
+&lt;h3 id=&#34;bibliography&#34;&gt;Bibliography&lt;/h3&gt;
+
+  
+
+  
+
+
+
+
+
+
+
+
+
+
+&lt;section class=&#34;hugo-cite-bibliography&#34;&gt;
+  &lt;dl&gt;
+    
+
+      &lt;div id=&#34;austin_data_2011&#34;&gt;
+        &lt;dt&gt;
+          Good
+
+          
+          (2011)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Chapter&#34;
+      data-type=&#34;chapter&#34;&gt;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Good&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Jeff&#34; /&gt;
+    J.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2011&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;Data and language documentation&lt;/span&gt;.&amp;#32;In&amp;#32;&lt;span itemprop=&#34;editor&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Austin&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Peter K.&#34; /&gt;
+    P.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;editor&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Sallabank&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Julia&#34; /&gt;
+    J.&lt;/span&gt; (Eds.),&amp;#32;&lt;span itemprop=&#34;about&#34;&gt;
+    &lt;i&gt;The Cambridge Handbook of Endangered Languages&lt;/i&gt;&lt;/span&gt;.&amp;#32;(&lt;span&gt;pp.&amp;#32;212–234&lt;/span&gt;).
+  &lt;meta itemprop=&#34;contentLocation&#34;
+        value=&#34;Cambridge, England&#34;&gt;&amp;#32;&lt;span itemprop=&#34;publisher&#34;
+               itemtype=&#34;http://schema.org/Organization&#34;
+               itemscope=&#34;&#34;&gt;
+      &lt;span itemprop=&#34;name&#34;&gt;Cambridge University Press&lt;/span&gt;&lt;/span&gt;.
+  &lt;a href=&#34;https://doi.org/10.1017/CBO9780511975981.011&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://doi.org/10.1017/CBO9780511975981.011&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;austin_language_2013&#34;&gt;
+        &lt;dt&gt;
+          Austin
+
+          
+          (2013)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Chapter&#34;
+      data-type=&#34;chapter&#34;&gt;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Austin&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Peter K.&#34; /&gt;
+    P.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2013&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;Language documentation and meta-documentation&lt;/span&gt;.&amp;#32;In&amp;#32;&lt;span itemprop=&#34;editor&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Jones&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Mari C.&#34; /&gt;
+    M.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;editor&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Ogilvie&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Sarah&#34; /&gt;
+    S.&lt;/span&gt; (Eds.),&amp;#32;&lt;span itemprop=&#34;about&#34;&gt;
+    &lt;i&gt;Keeping Languages Alive: Documentation, Pedagogy and Revitalization&lt;/i&gt;&lt;/span&gt;.&amp;#32;(&lt;span&gt;pp.&amp;#32;3–15&lt;/span&gt;).
+  &lt;meta itemprop=&#34;contentLocation&#34;
+        value=&#34;Cambridge, UK; New York&#34;&gt;&amp;#32;&lt;span itemprop=&#34;publisher&#34;
+               itemtype=&#34;http://schema.org/Organization&#34;
+               itemscope=&#34;&#34;&gt;
+      &lt;span itemprop=&#34;name&#34;&gt;Cambridge University Press&lt;/span&gt;&lt;/span&gt;.
+  &lt;a href=&#34;https://doi.org/10.1017/CBO9781139245890.003&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://doi.org/10.1017/CBO9781139245890.003&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;biber_representativeness_1993&#34;&gt;
+        &lt;dt&gt;
+          Biber
+
+          
+          (1993)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Biber&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Douglas&#34; /&gt;
+    D.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;1993&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;Representativeness in Corpus Design&lt;/span&gt;.&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;Literary and Linguistic Computing&lt;/span&gt;,&amp;#32;8(4)&lt;/i&gt;.&amp;#32;&lt;span itemprop=&#34;pagination&#34;&gt;243–257&lt;/span&gt;.
+  &lt;a href=&#34;https://doi.org/10.1093/llc/8.4.243&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://doi.org/10.1093/llc/8.4.243&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;biber_using_1993&#34;&gt;
+        &lt;dt&gt;
+          Biber
+
+          
+          (1993)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Biber&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Douglas&#34; /&gt;
+    D.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;1993&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;Using Register-Diversified Corpora for General Language Studies&lt;/span&gt;.&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;Computational Linguistics&lt;/span&gt;,&amp;#32;19(2)&lt;/i&gt;.&amp;#32;&lt;span itemprop=&#34;pagination&#34;&gt;219–241&lt;/span&gt;.&amp;#32;Retrieved from&amp;#32;
+  &lt;a href=&#34;https://www.aclweb.org/anthology/J93-2001&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://www.aclweb.org/anthology/J93-2001&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;boerger_boldly_2011&#34;&gt;
+        &lt;dt&gt;
+          Boerger
+
+          
+          (2011)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Boerger&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Brenda&#34; /&gt;
+    B.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2011&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;To BOLDly Go Where No One Has Gone Before&lt;/span&gt;.&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;Language Documentation &amp;amp; Conservation&lt;/span&gt;,&amp;#32;5&lt;/i&gt;.&amp;#32;&lt;span itemprop=&#34;pagination&#34;&gt;208–233&lt;/span&gt;.&amp;#32;Retrieved from&amp;#32;
+  &lt;a href=&#34;http://scholarspace.manoa.hawaii.edu/handle/10125/4499&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;http://scholarspace.manoa.hawaii.edu/handle/10125/4499&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;himmelmann_documentary_1998-5&#34;&gt;
+        &lt;dt&gt;
+          Himmelmann
+
+          
+          (1998)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Himmelmann&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Nikolaus P.&#34; /&gt;
+    N.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;1998&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;Documentary and Descriptive Linguistics&lt;/span&gt;.&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;Linguistics&lt;/span&gt;,&amp;#32;36(1)&lt;/i&gt;.&amp;#32;&lt;span itemprop=&#34;pagination&#34;&gt;161–195&lt;/span&gt;.
+  &lt;a href=&#34;https://doi.org/10.1515/ling.1998.36.1.161&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://doi.org/10.1515/ling.1998.36.1.161&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;johnson_language_2004&#34;&gt;
+        &lt;dt&gt;
+          Johnson
+
+          
+          (2004)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Johnson&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Heidi&#34; /&gt;
+    H.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2004&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;Language documentation and archiving, or how to build a better corpus&lt;/span&gt;.&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;Language Documentation and Description&lt;/span&gt;,&amp;#32;2&lt;/i&gt;.&amp;#32;&lt;span itemprop=&#34;pagination&#34;&gt;140–153&lt;/span&gt;.&amp;#32;Retrieved from&amp;#32;
+  &lt;a href=&#34;http://www.elpublishing.org/PID/026&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;http://www.elpublishing.org/PID/026&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;lupke_research_2010&#34;&gt;
+        &lt;dt&gt;
+          Lüpke
+
+          
+          (2010)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Lüpke&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Friederike&#34; /&gt;
+    F.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2010&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;Research methods in language documentation&lt;/span&gt;.&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;Language Documentation and Description&lt;/span&gt;,&amp;#32;7&lt;/i&gt;.&amp;#32;&lt;span itemprop=&#34;pagination&#34;&gt;55–104&lt;/span&gt;.&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;simons_documentary_2008&#34;&gt;
+        &lt;dt&gt;
+          Simons
+
+          
+          (2008)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/CreativeWork&#34;
+      data-type=&#34;speech&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Simons&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Gary F&#34; /&gt;
+    G.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2008&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;
+    &lt;i&gt;Documentary Linguistics and a New Kind of Corpus&lt;/i&gt;&lt;/span&gt;.
+  &lt;meta itemprop=&#34;contentLocation&#34;
+        content=&#34;De La Salle University, Manila, 25 November&#34;&gt;&amp;#32;Retrieved from&amp;#32;
+  &lt;a href=&#34;https://scholars.sil.org/sites/scholars/files/gary_f_simons/presentation/doc_ling.pdf&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://scholars.sil.org/sites/scholars/files/gary_f_simons/presentation/doc_ling.pdf&lt;/a&gt;&lt;/span&gt;
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;society_of_american_archivists_describing_2013&#34;&gt;
+        &lt;dt&gt;
+          
+
+          
+          (2013)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Book&#34;
+      data-type=&#34;book&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;/span&gt;&amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2013&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;
+    &lt;i&gt;Describing archives: a content standard&lt;/i&gt;&lt;/span&gt; (&lt;span&gt;2nd&lt;/span&gt;).
+  &lt;meta itemprop=&#34;locationCreated&#34;
+        value=&#34;Chicago, Illinois&#34;&gt;&amp;#32;
+  &lt;span itemprop=&#34;publisher&#34;
+             itemtype=&#34;http://schema.org/Organization&#34;
+             itemscope&gt;
+    &lt;span itemprop=&#34;name&#34;&gt;Society of American Archivists&lt;/span&gt;&lt;/span&gt;.&amp;#32;Retrieved from&amp;#32;
+  &lt;a href=&#34;http://files.archivists.org/pubs/DACS2E-2013_v0315.pdf&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;http://files.archivists.org/pubs/DACS2E-2013_v0315.pdf&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;sullivant_archival_2020-1&#34;&gt;
+        &lt;dt&gt;
+          Sullivant
+
+          
+          (2020)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Sullivant&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Ryan&#34; /&gt;
+    R.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2020&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;Archival description for language documentation collections&lt;/span&gt;.&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;Language Documentation &amp;amp; Conservation&lt;/span&gt;,&amp;#32;14&lt;/i&gt;.&amp;#32;&lt;span itemprop=&#34;pagination&#34;&gt;520–578&lt;/span&gt;.&amp;#32;Retrieved from&amp;#32;
+  &lt;a href=&#34;http://hdl.handle.net/10125/24949&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;http://hdl.handle.net/10125/24949&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;thieberger_texts_2018&#34;&gt;
+        &lt;dt&gt;
+          Thieberger
+
+          
+          (2018)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/BlogPosting&#34;
+      data-type=&#34;blog&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Thieberger&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Nicholas&#34; /&gt;
+    N.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2018&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;Texts and more texts: corpora in the CoEDL&lt;/span&gt;&lt;span itemprop=&#34;genre&#34;&gt;&amp;nbsp;[Blog]&lt;/span&gt;.&amp;nbsp;&lt;span itemprop=&#34;isPartOf&#34;&gt;Endangered Languages and Cultures&lt;/span&gt;.&amp;#32;Retrieved from&amp;#32;
+  &lt;a href=&#34;https://www.paradisec.org.au/blog/2018/02/texts-and-more-texts-corpora-in-the-coedl/&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://www.paradisec.org.au/blog/2018/02/texts-and-more-texts-corpora-in-the-coedl/&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;wahbeh_records_2009&#34;&gt;
+        &lt;dt&gt;
+          Wahbeh
+
+          
+          (2009)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/WebPage&#34;
+      data-type=&#34;webpage&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Wahbeh&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Farris&#34; /&gt;
+    F.&lt;/span&gt;(&lt;span itemprop=&#34;datePublished&#34;&gt;2009,&amp;#32;8/10&lt;/span&gt;).&amp;#32;Retrieved from&amp;#32;
+  &lt;a href=&#34;https://blogs.cul.columbia.edu/schapiro/2009/08/10/on-records-papers-and-collection-a-dacs-case-in-point/&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://blogs.cul.columbia.edu/schapiro/2009/08/10/on-records-papers-and-collection-a-dacs-case-in-point/&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;xia_enriching_2016&#34;&gt;
+        &lt;dt&gt;
+          Xia,&amp;#32;
+          Lewis,&amp;#32;
+          Goodman,&amp;#32;
+          Slayden,&amp;#32;
+          Georgi,&amp;#32;
+          Crowgey&amp;#32;&amp;amp;&amp;#32;Bender
+
+          
+          (2016)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Xia&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Fei&#34; /&gt;
+    F.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Lewis&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;William D.&#34; /&gt;
+    W.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Goodman&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Michael Wayne&#34; /&gt;
+    M.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Slayden&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Glenn&#34; /&gt;
+    G.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Georgi&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Ryan&#34; /&gt;
+    R.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Crowgey&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Joshua&#34; /&gt;
+    J.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Bender&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Emily M.&#34; /&gt;
+    E.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2016&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;Enriching a massively multilingual database of interlinear glossed text&lt;/span&gt;.&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;Language Resources and Evaluation&lt;/span&gt;,&amp;#32;50(2)&lt;/i&gt;.&amp;#32;&lt;span itemprop=&#34;pagination&#34;&gt;321–349&lt;/span&gt;.
+  &lt;a href=&#34;https://doi.org/10.1007/s10579-015-9325-4&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://doi.org/10.1007/s10579-015-9325-4&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+  &lt;/dl&gt;
+&lt;/section&gt;
+
+
+
+&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;In footnote 2. &lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;A second consideration here is that these authors might be referening to a much stricter defnition of &amp;ldquo;language documentation&amp;rdquo; such as is found in 
+
+
+
+
+
+
+
+&lt;span class=&#34;hugo-cite-intext&#34;
+        itemprop=&#34;citation&#34;&gt;(&lt;a href=&#34;#himmelmann_documentary_1998-5&#34;&gt;&lt;span class=&#34;visually-hidden&#34;&gt;Citation: &lt;/span&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;meta itemprop=&#34;givenName&#34; content=&#34;Nikolaus P.&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Himmelmann&lt;/span&gt;&lt;/span&gt;,&amp;#32;
+      &lt;span itemprop=&#34;datePublished&#34;&gt;1998&lt;/span&gt;&lt;/a&gt;)
+    &lt;span class=&#34;hugo-cite-citation&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Himmelmann&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Nikolaus P.&#34; /&gt;
+    N.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;1998&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;Documentary and Descriptive Linguistics&lt;/span&gt;.&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;Linguistics&lt;/span&gt;,&amp;#32;36(1)&lt;/i&gt;.&amp;#32;&lt;span itemprop=&#34;pagination&#34;&gt;161–195&lt;/span&gt;.
+  &lt;a href=&#34;https://doi.org/10.1515/ling.1998.36.1.161&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://doi.org/10.1515/ling.1998.36.1.161&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/span&gt;&lt;/span&gt;
+ where Himmelmann proposes a grid like structure for collecting speach from various kinds of social events and various sectors of a speech community. By and large when I hear people talking about &amp;ldquo;language documentation&amp;rdquo; 25 years after Himmelmann&amp;rsquo;s approach was stated, I don&amp;rsquo;t see the large scale wide topic and social contribution &amp;ldquo;corpus building&amp;rdquo; activities. Rather I see many PhD scopped projects, 1-3 year grant funded projects with particular interests in a anthopological or grammatical theme, etc. Therefore the material created today, and perahps since 1998, has not really fit the definitions that these early authors are assuming are true. That is there has been semantic drift around the useage of the term &amp;ldquo;language documentation&amp;rdquo; as it applies to linguistic field work and its outputs. Perahps these other outputs are better classified as &lt;em&gt;digital linguistics&lt;/em&gt;. &lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/section&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

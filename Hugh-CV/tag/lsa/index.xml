@@ -1,0 +1,568 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LSA | Hugh&#39;s Curriculum Vitae</title>
+    <link>https://hughandbecky.us/Hugh-CV/tag/lsa/</link>
+      <atom:link href="https://hughandbecky.us/Hugh-CV/tag/lsa/index.xml" rel="self" type="application/rss+xml" />
+    <description>LSA</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2021</copyright><lastBuildDate>Wed, 11 Jan 2012 01:41:38 -0700</lastBuildDate>
+    <image>
+      <url>https://hughandbecky.us/Hugh-CV/media/HughPaterson.jpg</url>
+      <title>LSA</title>
+      <link>https://hughandbecky.us/Hugh-CV/tag/lsa/</link>
+    </image>
+    
+    <item>
+      <title>Metadata Dynamics for Linguistic and Sociolinguistic Corpora </title>
+      <link>https://hughandbecky.us/Hugh-CV/post/drafts-first-order/metadata-dynamics-for-linguistic-and-sociolinguistic-corpora/</link>
+      <pubDate>Wed, 11 Jan 2012 01:41:38 -0700</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/post/drafts-first-order/metadata-dynamics-for-linguistic-and-sociolinguistic-corpora/</guid>
+      <description>&lt;p&gt;January 4-5, 2012, I had the opportunity to participate in the LSA&amp;rsquo;s &lt;a href=&#34;https://web.archive.org/web/20120210164309/https://lsadc.org/info/meet-annual12-sociolinguistic.cfm&#34; title=&#34;Link to Workshop website&#34;&gt;Satellite Workshop for Sociolinguistic Archival Preparation&lt;/a&gt; in Portland, Oregon. There were a great many things I learned there. So here are only a few thoughts.
+Part of the discussion at the workshop was on how we can make corpora which are collected by Sociolinguists available to the larger Sociolinguistic community. In particular the discussion I am referencing revolved around the standardisation of metadata in the corpora. (In the discussion it was established that are two levels of metadata, &amp;ldquo;event level&amp;rdquo; and &amp;ldquo;corpus level&amp;rdquo;.) While OLAC gives us some standardization about the corpus level metadata, the event metadata is still unique to each investigation, and arguably this is necessary. However, it was also pointed out that not all &amp;ldquo;event level&amp;rdquo; metadata need to be encoded or tracked uniquely. That is, data like date of recording, name of participants, location of recording, gender (male/female) of participant, can all be regularized across the community.&lt;/p&gt;
+&lt;p&gt;With the above as preface, it is important to realize that we do need to understand that there are still various kinds of metadata which need to be collected. In the workshop it was acknowledged that the field of &lt;em&gt;language documentation&lt;/em&gt; was about 10 years ahead of this community of sociolinguists.&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; So, I will take an example from the metadata write-up I did for the Meꞌphaa language documentation project. In that project we collected metadata about:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;People&lt;/li&gt;
+&lt;li&gt;Equipment
+&lt;ul&gt;
+&lt;li&gt;Equipment settings during recording&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Locations&lt;/li&gt;
+&lt;li&gt;Recording Environments
+&lt;ul&gt;
+&lt;li&gt;Times&lt;/li&gt;
+&lt;li&gt;Situations&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Linguistic Dynamics&lt;/li&gt;
+&lt;li&gt;Sociolinguistic Attitudes&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;In the following diagram I illustrate the cross cutting of a corpus with these &amp;ldquo;kinds&amp;rdquo; of metadata. The heavier, darker line represents the corpus, while the medium heavy lines represent the &amp;ldquo;kinds&amp;rdquo; of metadata. Finally, the lighter lines represent the sub-kinds of metadata, where the sub-kinds might be the latitude, longitude, altitude, datum, country, and place name of the &lt;em&gt;location&lt;/em&gt;.&lt;/p&gt;
+
+
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-things-to-measure&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/drafts-first-order/metadata-dynamics-for-linguistic-and-sociolinguistic-corpora/Things-to-measure_hudb2aa5fdfc77cb2a5f1c164e530bcf5c_100561_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Things to measure&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/drafts-first-order/metadata-dynamics-for-linguistic-and-sociolinguistic-corpora/Things-to-measure_hudb2aa5fdfc77cb2a5f1c164e530bcf5c_100561_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;Things to measure in a socio-linguistic corpus&#34; width=&#34;756&#34; height=&#34;553&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;p&gt;Things to measure
+      
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: 
+Hugh Paterson III
+&lt;/span&gt;
+&lt;/p&gt;
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;This does not mean that the corpus does not also need to be cross cut with these other &amp;ldquo;sub-kinds&amp;rdquo;. However, these sub-kinds are significantly more in number and will very from project to project. Some of these metadata kinds will be collected in a speaker profile questionnaire. But some of these metadata can only be provided with reflection on the event. To demonstrate the cross cutting of these metadata elements on a corpus I have provided the following diagram. It uses categories which were mentioned in the workshop and is not intended to be comprehensive. In this second diagram, the cross cutting elements might themselves be taxonomies. They may have controlled vocabularies or they may have an open set of possible values, they may also represent a scale.&lt;/p&gt;
+
+
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-taxonomies-for-social-demographics-and-social-dynamics-for-speakers-in-corpora&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/drafts-first-order/metadata-dynamics-for-linguistic-and-sociolinguistic-corpora/Explaining-tiers_huce82558c4b604cd77d6c5fee429274c5_107158_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Taxonomies for social demographics and social dynamics for speakers in corpora.&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/drafts-first-order/metadata-dynamics-for-linguistic-and-sociolinguistic-corpora/Explaining-tiers_huce82558c4b604cd77d6c5fee429274c5_107158_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;Taxonomies for social demographics and social dynamics for speakers in corpora&#34; width=&#34;756&#34; height=&#34;553&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;p&gt;Taxonomies for social demographics and social dynamics for speakers in corpora.
+      
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: 
+Hugh Paterson III
+&lt;/span&gt;
+&lt;/p&gt;
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;Both of these diagrams tend to illustrate what in this workshop were referred to a &amp;ldquo;event level&amp;rdquo; metadata, rather than &amp;ldquo;corpus level&amp;rdquo; metadata.&lt;/p&gt;
+&lt;h3 id=&#34;a-note-on-corpus-level-metadata-vs-descriptive-metadata&#34;&gt;A note on corpus level metadata v.s. descriptive metadata&lt;/h3&gt;
+&lt;p&gt;There is one more thing which I would like to say about &amp;ldquo;corpus level&amp;rdquo; metadata. Metadata is often separated out by function.  That is &lt;em&gt;what does the metadata allow us to do&lt;/em&gt;, or &lt;em&gt;why is the metadata there&lt;/em&gt;?
+I have been exposed to the following taxonomy of metadata types though course work and in working with photographs and images 
+
+
+
+
+
+
+
+&lt;span class=&#34;hugo-cite-intext&#34;
+        itemprop=&#34;citation&#34;&gt;(&lt;a href=&#34;#stock_artists_alliance_meta_2009&#34;&gt;&lt;span class=&#34;visually-hidden&#34;&gt;Citation: &lt;/span&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;/span&gt;
+      &lt;em&gt;et al.&lt;/em&gt;,&amp;#32;
+      &lt;span itemprop=&#34;datePublished&#34;&gt;2009&lt;/span&gt;&lt;/a&gt;)
+    &lt;span class=&#34;hugo-cite-citation&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/WebPage&#34;
+      data-type=&#34;webpage&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;/span&gt;(&lt;span itemprop=&#34;datePublished&#34;&gt;2009&lt;/span&gt;).&amp;#32;Retrieved from&amp;#32;
+  &lt;a href=&#34;http://www.photometadata.org/node/46&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;http://www.photometadata.org/node/46&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/span&gt;&lt;/span&gt;
+. These classes of metadata are also similar to those posted by JISC Digital Media as they approach issues with Metadata for digital audio 
+
+
+
+
+
+
+
+&lt;span class=&#34;hugo-cite-intext&#34;
+        itemprop=&#34;citation&#34;&gt;(&lt;a href=&#34;#joint_information_systems_committee_jisc_audio_2010&#34;&gt;&lt;span class=&#34;visually-hidden&#34;&gt;Citation: &lt;/span&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;/span&gt;,&amp;#32;
+      &lt;span itemprop=&#34;datePublished&#34;&gt;2010&lt;/span&gt;&lt;/a&gt;)
+    &lt;span class=&#34;hugo-cite-citation&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/WebPage&#34;
+      data-type=&#34;webpage&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;/span&gt;(&lt;span itemprop=&#34;datePublished&#34;&gt;2010,&amp;#32;1/25&lt;/span&gt;).&amp;#32;Retrieved from&amp;#32;
+  &lt;a href=&#34;http://www.jiscdigitalmedia.ac.uk/audio/advice/metadata-and-audio-resources/&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;http://www.jiscdigitalmedia.ac.uk/audio/advice/metadata-and-audio-resources/&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/span&gt;&lt;/span&gt;
+.&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;&lt;strong&gt;Descriptive meta-data&lt;/strong&gt;: supports discovery, attribution and identification of resources created.&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Administrative meta-data&lt;/strong&gt;: supports management, preservation, and appropriate usage of resources created.&lt;/li&gt;
+&lt;ul&gt;
+	&lt;li&gt;&lt;strong&gt;Technical&lt;/strong&gt;: About the machinery used to create the resource and the technical aspects of the resource.&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Use and Rights&lt;/strong&gt;: Copyright, license and moral ownership of the items.&lt;/li&gt;
+&lt;/ul&gt;
+	&lt;li&gt;&lt;strong&gt;Structural meta-data&lt;/strong&gt;: maintains relationships between the parts of complex, multi-part resources 
+
+
+
+
+
+
+
+&lt;span class=&#34;hugo-cite-intext&#34;
+        itemprop=&#34;citation&#34;&gt;(&lt;a href=&#34;#spanne_metadata_2008&#34;&gt;&lt;span class=&#34;visually-hidden&#34;&gt;Citation: &lt;/span&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;meta itemprop=&#34;givenName&#34; content=&#34;Joan&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Spanne&lt;/span&gt;&lt;/span&gt;,&amp;#32;
+      &lt;span itemprop=&#34;datePublished&#34;&gt;2008&lt;/span&gt;&lt;/a&gt;)
+    &lt;span class=&#34;hugo-cite-citation&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/CreativeWork&#34;
+      data-type=&#34;speech&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Spanne&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Joan&#34; /&gt;
+    J.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2008&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;
+    &lt;i&gt;Metadata: Why, What and How (the “Who” is You)&lt;/i&gt;&lt;/span&gt;.
+  &lt;meta itemprop=&#34;contentLocation&#34;
+        content=&#34;Dallas, Texas, USA, Graduate Institute of Applied Linguistics&#34;&gt;&lt;/span&gt;
+
+&lt;/span&gt;&lt;/span&gt;
+.&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Situational&lt;/strong&gt;: this is metadata which describes the events around the creation of the work. Asking questions about the social setting, or the precursory events. It follows ideas put forward by 
+
+
+
+
+
+
+
+&lt;span class=&#34;hugo-cite-intext&#34;
+        itemprop=&#34;citation&#34;&gt;(&lt;a href=&#34;#bergqvist_role_2007&#34;&gt;&lt;span class=&#34;visually-hidden&#34;&gt;Citation: &lt;/span&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;meta itemprop=&#34;givenName&#34; content=&#34;Henrik&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Bergqvist&lt;/span&gt;&lt;/span&gt;,&amp;#32;
+      &lt;span itemprop=&#34;datePublished&#34;&gt;2007&lt;/span&gt;&lt;/a&gt;)
+    &lt;span class=&#34;hugo-cite-citation&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Bergqvist&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Henrik&#34; /&gt;
+    H.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2007&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;The role of metadata for translation and pragmatics in language documentation&lt;/span&gt;.&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;Language Documentation and Description&lt;/span&gt;,&amp;#32;4&lt;/i&gt;.&amp;#32;&lt;span itemprop=&#34;pagination&#34;&gt;163–173&lt;/span&gt;.&amp;#32;Retrieved from&amp;#32;
+  &lt;a href=&#34;http://www.elpublishing.org/PID/055&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;http://www.elpublishing.org/PID/055&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/span&gt;&lt;/span&gt;
+.&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Use metadata&lt;/strong&gt;: metadata collected from or about the users themselves (e.g. user annotations, number of people accessing a particular resource) 
+
+
+
+
+
+
+
+&lt;span class=&#34;hugo-cite-intext&#34;
+        itemprop=&#34;citation&#34;&gt;(&lt;a href=&#34;#joint_information_systems_committee_jisc_cross-media_2010&#34;&gt;&lt;span class=&#34;visually-hidden&#34;&gt;Citation: &lt;/span&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Joint Information Systems Committee (JISC)&lt;/span&gt;&lt;/span&gt;,&amp;#32;
+      &lt;span itemprop=&#34;datePublished&#34;&gt;2010&lt;/span&gt;&lt;/a&gt;)
+    &lt;span class=&#34;hugo-cite-citation&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/WebPage&#34;
+      data-type=&#34;webpage&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Joint Information Systems Committee (JISC)&lt;/span&gt;&lt;/span&gt;(&lt;span itemprop=&#34;datePublished&#34;&gt;2010,&amp;#32;3/14&lt;/span&gt;).&amp;#32;Retrieved from&amp;#32;
+  &lt;a href=&#34;http://www.jiscdigitalmedia.ac.uk/crossmedia/advice/an-introduction-to-metadata/&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;http://www.jiscdigitalmedia.ac.uk/crossmedia/advice/an-introduction-to-metadata/&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I think it is only fair to point out to archivist and to librarians that linguists and language documenters do not see a difference between descriptive and non-descriptive metadata in their workflows. That is sometimes we want to search all the corpora by licenses or by a technical attribute. This elevates the these attributes to the function of discovery metadata. It does not remove the function of descriptive metadata from its role in finding things but it does functionally mean that the other metadata is also viable as discovery metadata.&lt;/p&gt;
+&lt;h3 id=&#34;bibliography&#34;&gt;Bibliography&lt;/h3&gt;
+
+  
+
+  
+
+
+
+
+
+
+
+
+
+
+&lt;section class=&#34;hugo-cite-bibliography&#34;&gt;
+  &lt;dl&gt;
+    
+
+      &lt;div id=&#34;bergqvist_role_2007&#34;&gt;
+        &lt;dt&gt;
+          Bergqvist
+
+          
+          (2007)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Bergqvist&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Henrik&#34; /&gt;
+    H.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2007&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;The role of metadata for translation and pragmatics in language documentation&lt;/span&gt;.&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;Language Documentation and Description&lt;/span&gt;,&amp;#32;4&lt;/i&gt;.&amp;#32;&lt;span itemprop=&#34;pagination&#34;&gt;163–173&lt;/span&gt;.&amp;#32;Retrieved from&amp;#32;
+  &lt;a href=&#34;http://www.elpublishing.org/PID/055&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;http://www.elpublishing.org/PID/055&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;joint_information_systems_committee_jisc_audio_2010&#34;&gt;
+        &lt;dt&gt;
+          
+
+          
+          (2010)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/WebPage&#34;
+      data-type=&#34;webpage&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;/span&gt;(&lt;span itemprop=&#34;datePublished&#34;&gt;2010,&amp;#32;1/25&lt;/span&gt;).&amp;#32;Retrieved from&amp;#32;
+  &lt;a href=&#34;http://www.jiscdigitalmedia.ac.uk/audio/advice/metadata-and-audio-resources/&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;http://www.jiscdigitalmedia.ac.uk/audio/advice/metadata-and-audio-resources/&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;joint_information_systems_committee_jisc_cross-media_2010&#34;&gt;
+        &lt;dt&gt;
+          Joint Information Systems Committee (JISC)
+
+          
+          (2010)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/WebPage&#34;
+      data-type=&#34;webpage&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Joint Information Systems Committee (JISC)&lt;/span&gt;&lt;/span&gt;(&lt;span itemprop=&#34;datePublished&#34;&gt;2010,&amp;#32;3/14&lt;/span&gt;).&amp;#32;Retrieved from&amp;#32;
+  &lt;a href=&#34;http://www.jiscdigitalmedia.ac.uk/crossmedia/advice/an-introduction-to-metadata/&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;http://www.jiscdigitalmedia.ac.uk/crossmedia/advice/an-introduction-to-metadata/&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;spanne_metadata_2008&#34;&gt;
+        &lt;dt&gt;
+          Spanne
+
+          
+          (2008)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/CreativeWork&#34;
+      data-type=&#34;speech&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Spanne&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Joan&#34; /&gt;
+    J.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2008&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;
+    &lt;i&gt;Metadata: Why, What and How (the “Who” is You)&lt;/i&gt;&lt;/span&gt;.
+  &lt;meta itemprop=&#34;contentLocation&#34;
+        content=&#34;Dallas, Texas, USA, Graduate Institute of Applied Linguistics&#34;&gt;&lt;/span&gt;
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;stock_artists_alliance_meta_2009&#34;&gt;
+        &lt;dt&gt;
+          &amp;#32;&amp;amp;&amp;#32;
+
+          
+          (2009)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/WebPage&#34;
+      data-type=&#34;webpage&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;/span&gt;(&lt;span itemprop=&#34;datePublished&#34;&gt;2009&lt;/span&gt;).&amp;#32;Retrieved from&amp;#32;
+  &lt;a href=&#34;http://www.photometadata.org/node/46&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;http://www.photometadata.org/node/46&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+  &lt;/dl&gt;
+&lt;/section&gt;
+
+
+
+&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;What was not well defined in the workshop was what the distinction is between a &lt;em&gt;language documentation corpus&lt;/em&gt; and a &lt;em&gt;sociolinguistics corpus&lt;/em&gt;. It seems to me as a new practitioner that the chief difference between these two types of corpora is the self identifying quality of researcher. That is does the researcher self-identify as a Sociolinguist or as a Language Documenter. Both types of corpora attempt to get at the vernacular, and both types of corpora collect sociolinguistic facts. It would seem that both corpora are essentially the same (give or take a few metadata attributes). &lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/section&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
