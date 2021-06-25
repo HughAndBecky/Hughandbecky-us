@@ -5,12 +5,27 @@
     <link>https://hughandbecky.us/Hugh-CV/tag/archival/</link>
       <atom:link href="https://hughandbecky.us/Hugh-CV/tag/archival/index.xml" rel="self" type="application/rss+xml" />
     <description>Archival</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2021</copyright><lastBuildDate>Mon, 18 Jan 2021 01:41:38 -0700</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2021</copyright><lastBuildDate>Wed, 21 Apr 2021 17:00:12 -0700</lastBuildDate>
     <image>
       <url>https://hughandbecky.us/Hugh-CV/media/HughPaterson.jpg</url>
       <title>Archival</title>
       <link>https://hughandbecky.us/Hugh-CV/tag/archival/</link>
     </image>
+    
+    <item>
+      <title>Language Archive Records: Interoperability of Referencing Practices and Metadata Models</title>
+      <link>https://hughandbecky.us/Hugh-CV/talk/2021-language-archive-records-interoperability-of-referencing-practices-and-metadata-models/</link>
+      <pubDate>Wed, 21 Apr 2021 17:00:12 -0700</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/talk/2021-language-archive-records-interoperability-of-referencing-practices-and-metadata-models/</guid>
+      <description>&lt;div id=&#34;watch&#34;&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/uzKGPXjAjvA&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+</description>
+    </item>
     
     <item>
       <title>Corpora, Collections, and Datasets</title>
@@ -1352,6 +1367,22 @@
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;/section&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Audio artifacts in language archives: From cataloguing to referencing and citation</title>
+      <link>https://hughandbecky.us/Hugh-CV/talk/2021-audio-artifacts-in-language-archives/</link>
+      <pubDate>Sat, 19 Dec 2020 17:00:12 -0700</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/talk/2021-audio-artifacts-in-language-archives/</guid>
+      <description>&lt;p&gt;Cataloging metadata for audio artifacts has many secondary uses. How cataloguing practice impacts artifact reference and citation strategies is often overlooked. Within academic publishing contexts, the referencing of “data”, the evidentiary record, has recently been the subject of much debate (e.g., FORCE11, The Austin Principles, among others). Historically, within linguistic publishing, editors have not required reference sections to include overt links to the artifacts being discussed in scholarly publications. However, many scholars now recognize that if these artifacts are referenced, they can affect metric-based assessments of their influence in scholarly discussions. Reference counts, including those pointing to the evidentiary record housed in archives, play a significant role in establishing quantitative baseline metrics for scholars. That is, archived audio artifacts which are well-referenced as evidence can be components of portfolios submitted during tenure negotiations.&lt;/p&gt;
+&lt;p&gt;However, the curation practices of audio, such as the arrangement and description of the artifacts, and the user-interface, which allows interaction  with the artifacts, both play a role in how artifacts are experienced, cited, and referenced.&lt;/p&gt;
+&lt;p&gt;I show audio-artifact examples from three language archives and discuss how the various curation practices at each archive impact the artifact record. The result is two fold: first, the record is often confusing; and second, there are limited opportunities for automating metadata interoperability to reference managers such as Zotero. These factors impact how scholars approach audio artifacts.&lt;/p&gt;
+&lt;p&gt;For each case, I present some comments on how the artifact record could be clarified to facilitate better interoperability with authorship-referencing tools, which manage bibliographic metadata for use across publishing style sheets.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Martone M. (ed.). 2014. Data Citation Synthesis Group: Joint Declaration of Data Citation Principles. San Diego CA: FORCE11. &lt;a href=&#34;https://doi.org/10.25490/a97f-egyk&#34;&gt;https://doi.org/10.25490/a97f-egyk&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;The Austin Principles of Data Citation in Linguistics. 2018. &lt;a href=&#34;https://site.uit.no/linguisticsdatacitation/austinprinciples&#34;&gt;https://site.uit.no/linguisticsdatacitation/austinprinciples&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     

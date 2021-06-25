@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>International Association of Sound and Audiovisual Archives | Hugh&#39;s Curriculum Vitae</title>
+    <link>https://hughandbecky.us/Hugh-CV/institutions/international-association-of-sound-and-audiovisual-archives/</link>
+      <atom:link href="https://hughandbecky.us/Hugh-CV/institutions/international-association-of-sound-and-audiovisual-archives/index.xml" rel="self" type="application/rss+xml" />
+    <description>International Association of Sound and Audiovisual Archives</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2021</copyright><lastBuildDate>Sat, 19 Dec 2020 17:00:12 -0700</lastBuildDate>
+    <image>
+      <url>https://hughandbecky.us/Hugh-CV/media/HughPaterson.jpg</url>
+      <title>International Association of Sound and Audiovisual Archives</title>
+      <link>https://hughandbecky.us/Hugh-CV/institutions/international-association-of-sound-and-audiovisual-archives/</link>
+    </image>
+    
+    <item>
+      <title>Audio artifacts in language archives: From cataloguing to referencing and citation</title>
+      <link>https://hughandbecky.us/Hugh-CV/talk/2021-audio-artifacts-in-language-archives/</link>
+      <pubDate>Sat, 19 Dec 2020 17:00:12 -0700</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/talk/2021-audio-artifacts-in-language-archives/</guid>
+      <description>&lt;p&gt;Cataloging metadata for audio artifacts has many secondary uses. How cataloguing practice impacts artifact reference and citation strategies is often overlooked. Within academic publishing contexts, the referencing of “data”, the evidentiary record, has recently been the subject of much debate (e.g., FORCE11, The Austin Principles, among others). Historically, within linguistic publishing, editors have not required reference sections to include overt links to the artifacts being discussed in scholarly publications. However, many scholars now recognize that if these artifacts are referenced, they can affect metric-based assessments of their influence in scholarly discussions. Reference counts, including those pointing to the evidentiary record housed in archives, play a significant role in establishing quantitative baseline metrics for scholars. That is, archived audio artifacts which are well-referenced as evidence can be components of portfolios submitted during tenure negotiations.&lt;/p&gt;
+&lt;p&gt;However, the curation practices of audio, such as the arrangement and description of the artifacts, and the user-interface, which allows interaction  with the artifacts, both play a role in how artifacts are experienced, cited, and referenced.&lt;/p&gt;
+&lt;p&gt;I show audio-artifact examples from three language archives and discuss how the various curation practices at each archive impact the artifact record. The result is two fold: first, the record is often confusing; and second, there are limited opportunities for automating metadata interoperability to reference managers such as Zotero. These factors impact how scholars approach audio artifacts.&lt;/p&gt;
+&lt;p&gt;For each case, I present some comments on how the artifact record could be clarified to facilitate better interoperability with authorship-referencing tools, which manage bibliographic metadata for use across publishing style sheets.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Martone M. (ed.). 2014. Data Citation Synthesis Group: Joint Declaration of Data Citation Principles. San Diego CA: FORCE11. &lt;a href=&#34;https://doi.org/10.25490/a97f-egyk&#34;&gt;https://doi.org/10.25490/a97f-egyk&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;The Austin Principles of Data Citation in Linguistics. 2018. &lt;a href=&#34;https://site.uit.no/linguisticsdatacitation/austinprinciples&#34;&gt;https://site.uit.no/linguisticsdatacitation/austinprinciples&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
