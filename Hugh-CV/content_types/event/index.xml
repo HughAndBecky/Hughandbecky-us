@@ -5,12 +5,28 @@
     <link>https://hughandbecky.us/Hugh-CV/content_types/event/</link>
       <atom:link href="https://hughandbecky.us/Hugh-CV/content_types/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Event</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2021</copyright><lastBuildDate>Fri, 06 Aug 2021 17:00:12 -0700</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2021</copyright><lastBuildDate>Mon, 27 Sep 2021 17:00:12 -0100</lastBuildDate>
     <image>
       <url>https://hughandbecky.us/Hugh-CV/media/HughPaterson.jpg</url>
       <title>Event</title>
       <link>https://hughandbecky.us/Hugh-CV/content_types/event/</link>
     </image>
+    
+    <item>
+      <title>Audio Artifacts in Language Archives: From Cataloguing to Referencing and Citation</title>
+      <link>https://hughandbecky.us/Hugh-CV/talk/2021-audio-artifacts-in-language-archives/</link>
+      <pubDate>Mon, 27 Sep 2021 17:00:12 -0100</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/talk/2021-audio-artifacts-in-language-archives/</guid>
+      <description>&lt;p&gt;Cataloging metadata for audio artifacts has many secondary uses. How cataloging practice impacts artifact reference and citation strategies is often overlooked. Within academic publishing contexts, the referencing of “data”, the evidentiary record, has recently been the subject of much debate (e.g., FORCE11, The Austin Principles, among others). Historically, within linguistic publishing, editors have not required reference sections to include overt links to the artifacts being discussed in scholarly publications. However, many scholars now recognize that if these artifacts are referenced, they can affect metric-based assessments of their influence in scholarly discussions. Reference counts, including those pointing to the evidentiary record housed in archives, play a significant role in establishing quantitative baseline metrics for scholars. That is, archived audio artifacts which are well-referenced as evidence can be components of portfolios submitted during tenure negotiations.&lt;/p&gt;
+&lt;p&gt;However, the curation practices of audio, such as the arrangement and description of the artifacts, and the user-interface, which allows interaction  with the artifacts, both play a role in how artifacts are experienced, cited, and referenced.&lt;/p&gt;
+&lt;p&gt;I show audio-artifact examples from three language archives and discuss how the various curation practices at each archive impact the artifact record. The result is two fold: first, the record is often confusing; and second, there are limited opportunities for automating metadata interoperability to reference managers such as Zotero. These factors impact how scholars approach audio artifacts.&lt;/p&gt;
+&lt;p&gt;For each case, I present some comments on how the artifact record could be clarified to facilitate better interoperability with authorship-referencing tools, which manage bibliographic metadata for use across publishing style sheets.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Martone M. (ed.). 2014. Data Citation Synthesis Group: Joint Declaration of Data Citation Principles. San Diego CA: FORCE11. &lt;a href=&#34;https://doi.org/10.25490/a97f-egyk&#34;&gt;https://doi.org/10.25490/a97f-egyk&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;The Austin Principles of Data Citation in Linguistics. 2018. &lt;a href=&#34;https://site.uit.no/linguisticsdatacitation/austinprinciples&#34;&gt;https://site.uit.no/linguisticsdatacitation/austinprinciples&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>XLingPaper’s use of TeX Technologies</title>
@@ -24,7 +40,7 @@
     <item>
       <title>Reported Speech in Western Subanon</title>
       <link>https://hughandbecky.us/Hugh-CV/talk/2021-reported-speech-in-western-subanon/</link>
-      <pubDate>Thu, 01 Jul 2021 11:30:00 -0100</pubDate>
+      <pubDate>Wed, 30 Jun 2021 11:30:00 -0100</pubDate>
       <guid>https://hughandbecky.us/Hugh-CV/talk/2021-reported-speech-in-western-subanon/</guid>
       <description>&lt;h3 id=&#34;abstract-bibliography&#34;&gt;Abstract Bibliography&lt;/h3&gt;
 
@@ -816,22 +832,6 @@
 &lt;/div&gt;
 
 &lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Audio artifacts in language archives: From cataloguing to referencing and citation</title>
-      <link>https://hughandbecky.us/Hugh-CV/talk/2021-audio-artifacts-in-language-archives/</link>
-      <pubDate>Sat, 19 Dec 2020 17:00:12 -0700</pubDate>
-      <guid>https://hughandbecky.us/Hugh-CV/talk/2021-audio-artifacts-in-language-archives/</guid>
-      <description>&lt;p&gt;Cataloging metadata for audio artifacts has many secondary uses. How cataloguing practice impacts artifact reference and citation strategies is often overlooked. Within academic publishing contexts, the referencing of “data”, the evidentiary record, has recently been the subject of much debate (e.g., FORCE11, The Austin Principles, among others). Historically, within linguistic publishing, editors have not required reference sections to include overt links to the artifacts being discussed in scholarly publications. However, many scholars now recognize that if these artifacts are referenced, they can affect metric-based assessments of their influence in scholarly discussions. Reference counts, including those pointing to the evidentiary record housed in archives, play a significant role in establishing quantitative baseline metrics for scholars. That is, archived audio artifacts which are well-referenced as evidence can be components of portfolios submitted during tenure negotiations.&lt;/p&gt;
-&lt;p&gt;However, the curation practices of audio, such as the arrangement and description of the artifacts, and the user-interface, which allows interaction  with the artifacts, both play a role in how artifacts are experienced, cited, and referenced.&lt;/p&gt;
-&lt;p&gt;I show audio-artifact examples from three language archives and discuss how the various curation practices at each archive impact the artifact record. The result is two fold: first, the record is often confusing; and second, there are limited opportunities for automating metadata interoperability to reference managers such as Zotero. These factors impact how scholars approach audio artifacts.&lt;/p&gt;
-&lt;p&gt;For each case, I present some comments on how the artifact record could be clarified to facilitate better interoperability with authorship-referencing tools, which manage bibliographic metadata for use across publishing style sheets.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Martone M. (ed.). 2014. Data Citation Synthesis Group: Joint Declaration of Data Citation Principles. San Diego CA: FORCE11. &lt;a href=&#34;https://doi.org/10.25490/a97f-egyk&#34;&gt;https://doi.org/10.25490/a97f-egyk&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;The Austin Principles of Data Citation in Linguistics. 2018. &lt;a href=&#34;https://site.uit.no/linguisticsdatacitation/austinprinciples&#34;&gt;https://site.uit.no/linguisticsdatacitation/austinprinciples&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
 </description>
     </item>
     
