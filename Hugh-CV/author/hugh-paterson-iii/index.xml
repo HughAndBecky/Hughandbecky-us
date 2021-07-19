@@ -33,7 +33,251 @@
       <link>https://hughandbecky.us/Hugh-CV/talk/2021-xlingpapers-use-of-tex-technologies/</link>
       <pubDate>Fri, 06 Aug 2021 17:00:12 -0700</pubDate>
       <guid>https://hughandbecky.us/Hugh-CV/talk/2021-xlingpapers-use-of-tex-technologies/</guid>
-      <description>&lt;p&gt;XLingPaper is a plugin to XMLMind, an XML editor designed for publishers. XLingPaper does three things: 1) controls the user interface of a powerful tool only allowing valid document sections to be inserted into a document — reducing user friction in the document production process. 2) it provides a constrained number of document sections which are relevant in the production of linguistically oriented publications, e.g., grammars, dissertations, thesis, journal articles, edited volumes, etc. 3) it exports documents to a variety of formats, e.g, PDFs, ePUB, Open Office Writer, HTML. We describe XLingPaper’s development history and its dependencies on TeX packages for PDF creation.&lt;/p&gt;
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Where Have All the Collections Gone?</title>
+      <link>https://hughandbecky.us/Hugh-CV/publication/2021-where-have-all-the-collections-gone/</link>
+      <pubDate>Wed, 21 Jul 2021 17:00:12 -0700</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/publication/2021-where-have-all-the-collections-gone/</guid>
+      <description>&lt;h3 id=&#34;abstract-bibliography&#34;&gt;Abstract Bibliography&lt;/h3&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+&lt;section class=&#34;hugo-cite-bibliography&#34;&gt;
+  &lt;dl&gt;
+    
+
+      &lt;div id=&#34;burke_descriptive_2020&#34;&gt;
+        &lt;dt&gt;
+          Burke&amp;#32;&amp;amp;&amp;#32;Zavalina
+
+          
+          (2020)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Burke&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Mary&#34; /&gt;
+    M.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Zavalina&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Oksana L.&#34; /&gt;
+    O.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2020&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;Descriptive richness of free‐text metadata: A comparative analysis of three language archives&lt;/span&gt;.&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;Proceedings of the Association for Information Science and Technology&lt;/span&gt;,&amp;#32;57(1)&lt;/i&gt;.
+  &lt;a href=&#34;https://doi.org/10.1002/pra2.429&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://doi.org/10.1002/pra2.429&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;burke_exploration_2019&#34;&gt;
+        &lt;dt&gt;
+          Burke&amp;#32;&amp;amp;&amp;#32;Zavalina
+
+          
+          (2019)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Burke&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Mary&#34; /&gt;
+    M.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Zavalina&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Oksana&#34; /&gt;
+    O.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2019&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;Exploration of information organization in language archives&lt;/span&gt;.&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;Proceedings of the Association for Information Science and Technology&lt;/span&gt;,&amp;#32;56(1)&lt;/i&gt;.&amp;#32;&lt;span itemprop=&#34;pagination&#34;&gt;364–367&lt;/span&gt;.
+  &lt;a href=&#34;https://doi.org/10.1002/pra2.30&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://doi.org/10.1002/pra2.30&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;wasson_bringing_2016&#34;&gt;
+        &lt;dt&gt;
+          Wasson,&amp;#32;
+          Holton&amp;#32;&amp;amp;&amp;#32;Roth
+
+          
+          (2016)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Wasson&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Christina&#34; /&gt;
+    C.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Holton&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Gary&#34; /&gt;
+    G.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Roth&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Heather S.&#34; /&gt;
+    H.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2016&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;Bringing User-Centered Design to the Field of Language Archives&lt;/span&gt;.&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;Language Documentation &amp;amp; Conservation&lt;/span&gt;,&amp;#32;10&lt;/i&gt;.&amp;#32;&lt;span itemprop=&#34;pagination&#34;&gt;641–681&lt;/span&gt;.&amp;#32;Retrieved from&amp;#32;
+  &lt;a href=&#34;http://hdl.handle.net/10125/24721&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;http://hdl.handle.net/10125/24721&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;zavalina_contextual_2011-1&#34;&gt;
+        &lt;dt&gt;
+          Zavalina
+
+          
+          (2011)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Zavalina&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Oksana L.&#34; /&gt;
+    O.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2011&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;Contextual Metadata in Digital Aggregations: Application of Collection-Level Subject Metadata and Its Role in User Interactions and Information Retrieval&lt;/span&gt;.&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;Journal of Library Metadata&lt;/span&gt;,&amp;#32;11(3-4)&lt;/i&gt;.&amp;#32;&lt;span itemprop=&#34;pagination&#34;&gt;104–128&lt;/span&gt;.
+  &lt;a href=&#34;https://doi.org/10.1080/19386389.2011.629957&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://doi.org/10.1080/19386389.2011.629957&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+  &lt;/dl&gt;
+&lt;/section&gt;
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/publication/2021-where-have-all-the-collections-gone/Where-have-all-the-Collections-Gone_hubee254452cc2b7ded0f237c542931053_864615_2000x2000_fit_lanczos_2.png&#34; &gt;
+
+
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/publication/2021-where-have-all-the-collections-gone/Where-have-all-the-Collections-Gone_hubee254452cc2b7ded0f237c542931053_864615_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;Image of Poster&#34; width=&#34;2678&#34; height=&#34;3041&#34;&gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+&lt;/p&gt;
 </description>
     </item>
     
@@ -1641,8 +1885,75 @@ Within the Dan example Eastern Dan has a history of 5 writing system versions, s
       <link>https://hughandbecky.us/Hugh-CV/publication/2021-language-archive-records/</link>
       <pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate>
       <guid>https://hughandbecky.us/Hugh-CV/publication/2021-language-archive-records/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Referencable as&lt;/strong&gt;:&lt;/p&gt;
-&lt;p&gt;Hugh Paterson III (2021) Language Archive Records: Interoperability of Referencing Practices and Metadata Models. M.A. Thesis University of North Dakota: Grand Forks.&lt;/p&gt;
+      <description>&lt;h3 id=&#34;abstract-bibliography&#34;&gt;Abstract Bibliography&lt;/h3&gt;
+
+
+
+
+
+
+
+
+
+
+
+&lt;section class=&#34;hugo-cite-bibliography&#34;&gt;
+  &lt;dl&gt;
+    
+
+      &lt;div id=&#34;http//zotero.org/users/local/qswd5pn6/items/aqieqndf&#34;&gt;
+        &lt;dt&gt;
+          Chang
+
+          
+          (2010)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Thesis&#34;
+      data-type=&#34;thesis&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Chang&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Debbie&#34; /&gt;
+    D.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2010&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;
+    &lt;i&gt;TAPS: Checklist for Responsible Archiving of Digital Language Resources&lt;/i&gt;
+  &lt;/span&gt;&lt;span itemprop=&#34;inSupportOf&#34;&gt;&amp;nbsp;(M.A. Thesis)&lt;/span&gt;.&amp;nbsp;
+&lt;meta itemprop=&#34;contentLocation&#34;
+        value=&#34;Dallas, Texas&#34;&gt;&amp;#32;
+  &lt;span itemprop=&#34;publisher&#34;
+             itemtype=&#34;http://schema.org/EducationalOrganization&#34;
+             itemscope&gt;
+    &lt;span itemprop=&#34;name&#34;&gt;Graduate Institute of Applied Linguistics&lt;/span&gt;, &amp;#32; &lt;span itemprop=&#34;location&#34;&gt;Dallas, Texas&lt;/span&gt;&lt;/span&gt;.&amp;#32;Retrieved from&amp;#32;
+  &lt;a href=&#34;https://web.archive.org/web/20130617120932/http://www.gial.edu/images/theses/Chang_Debbie-thesis.pdf&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://web.archive.org/web/20130617120932/http://www.gial.edu/images/theses/Chang_Debbie-thesis.pdf&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+  &lt;/dl&gt;
+&lt;/section&gt;
+
+
+
 </description>
     </item>
     
@@ -19577,9 +19888,7 @@ U.S. Census Bureau, Geography Division
 
 &lt;/figure&gt;
 
-&lt;p&gt;&lt;strong&gt;Referenceable as&lt;/strong&gt;:&lt;/p&gt;
-&lt;p&gt;Hugh J. Paterson III and Jeremy Nordmoe (2013) Challenges of implementing a tool to extract metadata from linguists: the use case of RAMP. Poster presented at &lt;a href=&#34;http://nflrc.hawaii.edu/ICLDC/2013/&#34; title=&#34;3rd International Conference on Language Documentation and Conservation&#34;&gt;3rd International Conference on Language Documentation and Conservation&lt;/a&gt;, at the University of Hawai&amp;rsquo;i Mānoa, Honolulu, HI. February 28 - March 3rd. &lt;ul&gt;&lt;/p&gt;
-&lt;h4 id=&#34;bibliography-for-poster&#34;&gt;Bibliography for Poster&lt;/h4&gt;
+&lt;h3 id=&#34;bibliography-for-poster&#34;&gt;Bibliography for Poster&lt;/h3&gt;
 &lt;ol&gt;
 &lt;li&gt;Anderson, Stephen P. 2006. Creating Pleasurable interfaces: Getting from Tasks to Experiences (Poster). &lt;Accessed: 18 February 2013&gt; &lt;a href=&#34;http://www.artificialindustry.com/uploads/inspiratie/1295515106from-task-to-experience.png&#34; title=&#34;Getting from Tasks to Experiences&#34;&gt;http://www.artificialindustry.com/uploads/inspiratie/1295515106from-task-to-experience.png&lt;/a&gt; &lt;/li&gt;
 &lt;li&gt;Anderson, Stephen P. 2009. Fundamentals of Experience Design (Poster). &lt;Accessed: 18 February 2013&gt;  &lt;a href=&#34;http://www.poetpainter.com/thoughts/files/Fundamentals-of-Experience-Design-stephenpa.pdf&#34; title=&#34;Fundamentals of Experience Design&#34;&gt;http://www.poetpainter.com/thoughts/files/Fundamentals-of-Experience-Design-stephenpa.pdf&lt;/a&gt;&lt;/li&gt;

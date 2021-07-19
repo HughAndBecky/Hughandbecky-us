@@ -17,8 +17,7 @@
       <link>https://hughandbecky.us/Hugh-CV/talk/2021-xlingpapers-use-of-tex-technologies/</link>
       <pubDate>Fri, 06 Aug 2021 17:00:12 -0700</pubDate>
       <guid>https://hughandbecky.us/Hugh-CV/talk/2021-xlingpapers-use-of-tex-technologies/</guid>
-      <description>&lt;p&gt;XLingPaper is a plugin to XMLMind, an XML editor designed for publishers. XLingPaper does three things: 1) controls the user interface of a powerful tool only allowing valid document sections to be inserted into a document — reducing user friction in the document production process. 2) it provides a constrained number of document sections which are relevant in the production of linguistically oriented publications, e.g., grammars, dissertations, thesis, journal articles, edited volumes, etc. 3) it exports documents to a variety of formats, e.g, PDFs, ePUB, Open Office Writer, HTML. We describe XLingPaper’s development history and its dependencies on TeX packages for PDF creation.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
   </channel>

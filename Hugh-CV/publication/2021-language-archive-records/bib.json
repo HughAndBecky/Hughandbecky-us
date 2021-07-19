@@ -1,0 +1,38 @@
+[
+	{
+		"id": "http://zotero.org/users/local/qSwD5PN6/items/AQIEQNDF",
+		"type": "thesis",
+		"archive": "The Internet Archive",
+		"event-place": "Dallas, Texas",
+		"genre": "M.A. Thesis",
+		"language": "en",
+		"number-of-pages": "208",
+		"publisher": "Graduate Institute of Applied Linguistics",
+		"publisher-place": "Dallas, Texas",
+		"source": "Dallas International University Library",
+		"title": "TAPS: Checklist for Responsible Archiving of Digital Language Resources",
+		"URL": "https://web.archive.org/web/20130617120932/http://www.gial.edu/images/theses/Chang_Debbie-thesis.pdf",
+		"author": [
+			{
+				"family": "Chang",
+				"given": "Debbie"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					7,
+					28
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2010"
+				]
+			]
+		}
+	}
+]
