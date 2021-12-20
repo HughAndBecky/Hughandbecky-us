@@ -5,12 +5,30 @@
     <link>https://hughandbecky.us/Hugh-CV/project/</link>
       <atom:link href="https://hughandbecky.us/Hugh-CV/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2021</copyright><lastBuildDate>Sun, 27 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2021</copyright><lastBuildDate>Wed, 27 Oct 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://hughandbecky.us/Hugh-CV/media/HughPaterson.jpg</url>
       <title>Projects</title>
       <link>https://hughandbecky.us/Hugh-CV/project/</link>
     </image>
+    
+    <item>
+      <title>NFT Description</title>
+      <link>https://hughandbecky.us/Hugh-CV/project/2021-nft-description/</link>
+      <pubDate>Wed, 27 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/project/2021-nft-description/</guid>
+      <description>&lt;p&gt;In this project I looked at a variety of NFT collections and at the developing requirements of an NFT gaming company to produce some recomendations for preserving NFT descriptions when NFTs are ported across chains. NFT descriptions were also designed to make NFTs of interest across independent games within the same &amp;ldquo;arcade&amp;rdquo;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Privacy Policy Framework</title>
+      <link>https://hughandbecky.us/Hugh-CV/project/2021-oregon-privacy-research/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/project/2021-oregon-privacy-research/</guid>
+      <description>&lt;p&gt;In this project with collaborators, I looked at U.S. national, U.S. state level, and other international privacy policy legal frameworks. Our work is still in progress.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Language Documentation Collections: Assessment and Recognition</title>

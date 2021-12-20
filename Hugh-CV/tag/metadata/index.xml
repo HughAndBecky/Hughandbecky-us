@@ -5,12 +5,21 @@
     <link>https://hughandbecky.us/Hugh-CV/tag/metadata/</link>
       <atom:link href="https://hughandbecky.us/Hugh-CV/tag/metadata/index.xml" rel="self" type="application/rss+xml" />
     <description>Metadata</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2021</copyright><lastBuildDate>Mon, 27 Sep 2021 17:00:12 -0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2021</copyright><lastBuildDate>Wed, 27 Oct 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://hughandbecky.us/Hugh-CV/media/HughPaterson.jpg</url>
       <title>Metadata</title>
       <link>https://hughandbecky.us/Hugh-CV/tag/metadata/</link>
     </image>
+    
+    <item>
+      <title>NFT Description</title>
+      <link>https://hughandbecky.us/Hugh-CV/project/2021-nft-description/</link>
+      <pubDate>Wed, 27 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/project/2021-nft-description/</guid>
+      <description>&lt;p&gt;In this project I looked at a variety of NFT collections and at the developing requirements of an NFT gaming company to produce some recomendations for preserving NFT descriptions when NFTs are ported across chains. NFT descriptions were also designed to make NFTs of interest across independent games within the same &amp;ldquo;arcade&amp;rdquo;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Audio Artifacts in Language Archives: From Cataloguing to Referencing and Citation</title>

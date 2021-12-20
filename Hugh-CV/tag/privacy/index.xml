@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Privacy | Hugh&#39;s Curriculum Vitae</title>
+    <link>https://hughandbecky.us/Hugh-CV/tag/privacy/</link>
+      <atom:link href="https://hughandbecky.us/Hugh-CV/tag/privacy/index.xml" rel="self" type="application/rss+xml" />
+    <description>Privacy</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2021</copyright><lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://hughandbecky.us/Hugh-CV/media/HughPaterson.jpg</url>
+      <title>Privacy</title>
+      <link>https://hughandbecky.us/Hugh-CV/tag/privacy/</link>
+    </image>
+    
+    <item>
+      <title>Privacy Policy Framework</title>
+      <link>https://hughandbecky.us/Hugh-CV/project/2021-oregon-privacy-research/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/project/2021-oregon-privacy-research/</guid>
+      <description>&lt;p&gt;In this project with collaborators, I looked at U.S. national, U.S. state level, and other international privacy policy legal frameworks. Our work is still in progress.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

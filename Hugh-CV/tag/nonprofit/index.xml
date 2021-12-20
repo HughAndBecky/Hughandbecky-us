@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nonprofit | Hugh&#39;s Curriculum Vitae</title>
+    <link>https://hughandbecky.us/Hugh-CV/tag/nonprofit/</link>
+      <atom:link href="https://hughandbecky.us/Hugh-CV/tag/nonprofit/index.xml" rel="self" type="application/rss+xml" />
+    <description>Nonprofit</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2021</copyright><lastBuildDate>Sun, 19 Dec 2021 17:00:12 -0700</lastBuildDate>
+    <image>
+      <url>https://hughandbecky.us/Hugh-CV/media/HughPaterson.jpg</url>
+      <title>Nonprofit</title>
+      <link>https://hughandbecky.us/Hugh-CV/tag/nonprofit/</link>
+    </image>
+    
+    <item>
+      <title>Media Rights for Organizations</title>
+      <link>https://hughandbecky.us/Hugh-CV/publication/2021-copyright-whitepaper/</link>
+      <pubDate>Sun, 19 Dec 2021 17:00:12 -0700</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/publication/2021-copyright-whitepaper/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
