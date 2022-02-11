@@ -6,18 +6,18 @@
 <xsd:appinfo>
 <olac-extension>
 <shortName>zotero-items</shortName>
-<longName>Itemtypes for Zotero</longName>
-<versionDate>2021-02-08</versionDate>
-<description>Provides a controlled vocabulary for identifying the type of types according to the types found in Zotero.</description>
-<appliesTo>dc:contributor</appliesTo>
+<longName>Itemtypes from Zotero</longName>
+<versionDate>2022-02-10</versionDate>
+<description>Provides a controlled vocabulary for identifying the creative work types according to the typology of items found in Zotero (v5.x).</description>
+<appliesTo>dc:type</appliesTo>
 <documentation>https://aurimasv.github.io/z2csl/typeMap.xml</documentation>
 </olac-extension>
 </xsd:appinfo>
 </xsd:annotation>
-<xsd:complexType name="role">
+<xsd:complexType name="ztype">
 <xsd:complexContent mixed="true">
 <xsd:extension base="dc:SimpleLiteral">
-<xsd:attribute name="code" type="itemType" use="optional"/>
+<xsd:attribute name="zname" type="itemType" use="optional"/>
 </xsd:extension>
 </xsd:complexContent>
 </xsd:complexType>
