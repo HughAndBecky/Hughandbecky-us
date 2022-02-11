@@ -16,6 +16,7 @@
                                 http://dublincore.org/schemas/xmls/qdc/2006/01/06/dcterms.xsd
                                 https://hughandbecky.us/Becky-CV/schemas/zotero/
                                 https://hughandbecky.us/Becky-CV/schemas/zotero/zotero-items.xsd">
+
 <Identify>
     <oai:repositoryName>Rebecca Paterson&#39;s Interactive Research Portfolio</oai:repositoryName>
     <oai:baseURL>https://hughandbecky.us/Becky-CV/olac/oai.xml</oai:baseURL>
@@ -39,7 +40,7 @@
     <oai:description>
    <olac-archive 
    type="personal" 
-   currentAsOf="2021-05-27" 
+   currentAsOf="2022-02-10" 
          xmlns="http://www.language-archives.org/OLAC/1.1/olac-archive"
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://www.language-archives.org/OLAC/1.1/olac-archive http://www.language-archives.org/OLAC/1.1/olac-archive.xsd">
@@ -69,71 +70,35 @@
 <oai:record>
  <oai:header>
   <oai:identifier>oai:hughandbecky.us:0001</oai:identifier>
-  <oai:datestamp>2021-05-27</oai:datestamp>
+  <oai:datestamp>2022-02-10</oai:datestamp>
  </oai:header>
  <oai:metadata>
   <olac:olac>
-    <dc:title>An unattested person alignment u̱t‑Maꞌin with possible logophoric function</dc:title>
-    <dcterms:abstract>This study examines the distribution of Reported Speaker and Reported Addressee pronouns in a corpus of u̱t‑Maꞌin narrative spoken texts to understand what motivates the shift in pronouns between 2SG and 3SG for Reported Addressees.</dcterms:abstract>
-    <dc:description>u̱t‑Maꞌin (Kainji, Benue-Congo) does not have dedicated logophoric pronouns. In fact, if you only analyzed some speech reports, you might dismiss u̱t‑Maꞌin as a categorically non-logophoric language (Culy, 1994). In many narratives, the reported speaker (RS) is referenced within the speech report by the 1SG pronoun, ɘ̄m, and the reported addressee (RA) by the 2SG pronoun, bɔ̄, just as in a non-speech-report. However, in one narrative text both 2SG and 3SG pronouns are used to reference the same RA, within a reported speech event. The RS is referenced by the 1SG pronoun ɘ̄m as we expect, but the RA is referenced by a 3SG form wá ‘C1.OBJ’.  (There is ambiguity in translation when encountering these 3SG forms in a speech report.) This use of 1SG for RS and 3SG for RA within a speech report is unattested by Nikitina’s (2012: 256) typology of person alignment. This study examines the distribution of RS and RA pronouns in a corpus of u̱t‑Maꞌin narrative spoken texts in an effort to understand the extent of this unattested person alignment and what motivates the shift in pronouns between 2SG and 3SG for RAs.</dc:description>
-    <dc:identifier xsi:type="dcterms:URI">https://hughandbecky.us/Becky-CV/talk/2021-an-unattested-person-alignment-utmain-with-possible-logophoric-function/</dc:identifier><dc:contributor xsi:type="olac:role" olac:code="speaker">Rebecca Paterson</dc:contributor><dc:contributor xsi:type="olac:role" olac:code="researcher">Rebecca Paterson</dc:contributor>
+    <dc:title>Reported Speech in Western Subanon</dc:title>
+    <dcterms:abstract>We analysed several texts of Western Subanon and presented their results.</dcterms:abstract>
+    <dc:description>Reported speech is claimed to be its own syntactic domain deserving special attention (Spronck &amp; Nikitina 2019). Recent work focusing on West African languages has produced a set of proposed typologies or patterns around the introduction of units of reported speech (ERC grant: Discourse reporting in African storytelling No758232). One output of that project is an ELAN-CorpA (Chanard 2015, 2019) template for marking reported speech as reported on by Paterson, Hantgan and Chanard (2021). We take the typologies presented in the template and investigate how they align with patterns of reported speech events in several texts of Western Subanon, a language of the southern Philippines. We situate our analysis in the context of reported speech typological patterns presented and developed through cross-linguistic work in other language families. Finally, we discuss some general reported speech patterns across the Western Subanon texts.</dc:description>
+    <dc:identifier xsi:type="dcterms:URI">https://hughandbecky.us/Becky-CV/talk/2021-reported-speech-in-western-subanon/</dc:identifier><dc:contributor xsi:type="olac:role" olac:code="author">William Hall</dc:contributor><dc:contributor xsi:type="olac:role" olac:code="speaker">William Hall</dc:contributor>
     <dc:type xsi:type="olac:linguistic-type" olac:code="language_description">language_description</dc:type>
-    <dc:subject xsi:type="olac:linguistic-field" olac:code="general_linguistics">general_linguistics</dc:subject>
-            <dc:subject xsi:type="olac:linguistic-field" olac:code="morphology">morphology</dc:subject>
-            <dc:subject xsi:type="olac:linguistic-field" olac:code="syntax">syntax</dc:subject>
+    <dc:subject xsi:type="olac:linguistic-field" olac:code="syntax">syntax</dc:subject>
+            <dc:subject xsi:type="olac:linguistic-field" olac:code="discourse_analysis">discourse_analysis</dc:subject>
             
             <dc:subject>Reported Speech</dc:subject>
-            <dc:subject>Grammar</dc:subject>
-            <dc:subject>u̱t‑MaꞌRor</dc:subject>
-        
-    <dc:language xsi:type="olac:language" olac:code="eng">English</dc:language>
-<dc:subject xsi:type="olac:language" olac:code="gel">ut-Ma'in</dc:subject>
+            <dc:subject>Discourse</dc:subject>
+            <dc:subject>Philippine Languages</dc:subject><dc:language xsi:type="olac:language" olac:code="eng">English</dc:language>
 <dc:type xsi:type="dcterms:DCMIType">Event</dc:type>
 <dcterms:accessRights>Open Access</dcterms:accessRights>
-    <dcterms:created>2021-09-22</dcterms:created>
+    <dcterms:created>2021-06-30</dcterms:created>
     <dcterms:dateCopyrighted>2021</dcterms:dateCopyrighted>
-    <dcterms:modified>2021-09-22</dcterms:modified>
+    <dcterms:modified>2021-06-30</dcterms:modified>
 
-<dcterms:bibliographicCitation>Paterson, Rebecca Dow. 2021. An unattested person alignment u̱t‑Maꞌin with possible logophoric function. Presented in the panel on  “Exploring the logophoric continuum” at the 4th Symposium on West African Languages (Sep 22-24). Università degli Studi di Napoli “L’Orientale”</dcterms:bibliographicCitation>
+<dcterms:bibliographicCitation>Hugh J. Paterson III, William Hall, Rebecca Paterson (2021) Reported Speech in Western Subanon. Paper presented at the 15th International Conference on Austronesian Languages. Palacký University, Olomouc, Czech Republic.</dcterms:bibliographicCitation>
 </olac:olac>
  </oai:metadata>
 </oai:record>
 <oai:record>
  <oai:header>
   <oai:identifier>oai:hughandbecky.us:0002</oai:identifier>
-  <oai:datestamp>2021-05-27</oai:datestamp>
- </oai:header>
- <oai:metadata>
-  <olac:olac>
-    <dc:title>Exploring the logophoric continuum</dc:title>
-    <dcterms:abstract>On logophoric phenomena across West Africa, including grammatical marking of both reported speaker and reported addressee, how logophoric forms fit into language systems, and extensions of logophoric forms to related functions.</dcterms:abstract>
-    <dc:description>Logophoricity has been discussed in the literature for nearly half a century (Hagège, 1974; Clements, 1975). However, as stated by Nikitina (2019), the phenomenon of logophoricity is not yet well understood. We contend that only through comprehensive studies of spoken language corpora from West African languages will we achieve an accurate conceptualization of logophoric languages: forms, functions, and distribution. By separating logophoric functions from logophoric forms, we can look beyond the expected uses of logophorics in discourse reports to other constructions within and across languages. Preliminary results from a corpus of West African languages show that so-called “pure logophoric languages” (Culy, 1994: 1060) with fully dedicated logophoric pronouns are rare, if they even exist. Rather, those depicted as being “mixed” are frequent. For instance, Tikar, one of Culy’s examples of a pure language, is shown by Voll (in prep) to have pronouns of logophoric function that have “other” non-logophoric uses. Furthermore, even in a language like Wan which has a fully-dedicated singular logophoric pronoun, we see that the plural logophoric pronoun is used anaphorically in subordinate clauses. Curnow (2002) also challenges Culy’s delineation of pure versus mixed logophoric languages; in this panel we expand upon this notion of logophoric in opposition to nonlogophoric functions. Figure 1 approximates four of the languages included in our corpus with their relative positions along a newly proposed continuum: For this panel, we invite papers on logophoric phenomena, including grammatical marking of both reported speaker and reported addressee. We encourage potential participants to discuss how logophoric forms fit into the language as a whole. Additionally, papers of interest might discuss possible sources for and/or extensions of logophoric forms to related functions, such as anaphora, reflexives, co-reference, emphatics, clausal complements, number asymmetry, or demonstratives.</dc:description>
-    <dc:identifier xsi:type="dcterms:URI">https://hughandbecky.us/Becky-CV/talk/2021-exploring-the-logophoric-continuum/</dc:identifier><dc:contributor xsi:type="olac:role" olac:code="speaker">Rebecca Paterson</dc:contributor><dc:contributor xsi:type="olac:role" olac:code="researcher">Rebecca Paterson</dc:contributor><dc:contributor xsi:type="olac:role" olac:code="researcher">Abbie Hantgan-Sanko</dc:contributor><dc:contributor xsi:type="olac:role" olac:code="researcher">Rebecca Voll</dc:contributor>
-    <dc:type xsi:type="olac:linguistic-type" olac:code="language_description">language_description</dc:type>
-    <dc:subject xsi:type="olac:linguistic-field" olac:code="general_linguistics">general_linguistics</dc:subject>
-            <dc:subject xsi:type="olac:linguistic-field" olac:code="morphology">morphology</dc:subject>
-            <dc:subject xsi:type="olac:linguistic-field" olac:code="syntax">syntax</dc:subject>
-            
-            <dc:subject>Reported Speech</dc:subject>
-            <dc:subject>Grammar</dc:subject>
-            <dc:subject>u̱t‑MaꞌRor</dc:subject>
-        
-    <dc:language xsi:type="olac:language" olac:code="eng">English</dc:language>
-<dc:subject xsi:type="olac:language" olac:code="gel">ut-Ma'in</dc:subject>
-<dc:type xsi:type="dcterms:DCMIType">Event</dc:type>
-<dcterms:accessRights>Open Access</dcterms:accessRights>
-    <dcterms:created>2021-09-22</dcterms:created>
-    <dcterms:dateCopyrighted>2021</dcterms:dateCopyrighted>
-    <dcterms:modified>2021-09-22</dcterms:modified>
-
-<dcterms:bibliographicCitation>Paterson, Rebecca Dow, Abbie Hantgan-Sanko &amp; Rebecca Voll. (Panel co-organizers) 2021. “Exploring the logophoric continuum” special panel at the 4th Symposium on West African Languages (Sep 22–24). Università degli Studi di Napoli “L’Orientale”. Originally scheduled for 23–25 September 2020; postponed due to Covid-19.</dcterms:bibliographicCitation>
-</olac:olac>
- </oai:metadata>
-</oai:record>
-<oai:record>
- <oai:header>
-  <oai:identifier>oai:hughandbecky.us:0003</oai:identifier>
-  <oai:datestamp>2021-05-27</oai:datestamp>
+  <oai:datestamp>2022-02-10</oai:datestamp>
  </oai:header>
  <oai:metadata>
   <olac:olac>
@@ -163,8 +128,8 @@
 </oai:record>
 <oai:record>
  <oai:header>
-  <oai:identifier>oai:hughandbecky.us:0004</oai:identifier>
-  <oai:datestamp>2021-05-27</oai:datestamp>
+  <oai:identifier>oai:hughandbecky.us:0003</oai:identifier>
+  <oai:datestamp>2022-02-10</oai:datestamp>
  </oai:header>
  <oai:metadata>
   <olac:olac>
@@ -192,8 +157,8 @@
 </oai:record>
 <oai:record>
  <oai:header>
-  <oai:identifier>oai:hughandbecky.us:0005</oai:identifier>
-  <oai:datestamp>2021-05-27</oai:datestamp>
+  <oai:identifier>oai:hughandbecky.us:0004</oai:identifier>
+  <oai:datestamp>2022-02-10</oai:datestamp>
  </oai:header>
  <oai:metadata>
   <olac:olac>
@@ -224,8 +189,8 @@
 </oai:record>
 <oai:record>
  <oai:header>
-  <oai:identifier>oai:hughandbecky.us:0006</oai:identifier>
-  <oai:datestamp>2021-05-27</oai:datestamp>
+  <oai:identifier>oai:hughandbecky.us:0005</oai:identifier>
+  <oai:datestamp>2022-02-10</oai:datestamp>
  </oai:header>
  <oai:metadata>
   <olac:olac>
@@ -257,8 +222,8 @@
 </oai:record>
 <oai:record>
  <oai:header>
-  <oai:identifier>oai:hughandbecky.us:0007</oai:identifier>
-  <oai:datestamp>2021-05-27</oai:datestamp>
+  <oai:identifier>oai:hughandbecky.us:0006</oai:identifier>
+  <oai:datestamp>2022-02-10</oai:datestamp>
  </oai:header>
  <oai:metadata>
   <olac:olac>
@@ -292,8 +257,8 @@
 </oai:record>
 <oai:record>
  <oai:header>
-  <oai:identifier>oai:hughandbecky.us:0008</oai:identifier>
-  <oai:datestamp>2021-05-27</oai:datestamp>
+  <oai:identifier>oai:hughandbecky.us:0007</oai:identifier>
+  <oai:datestamp>2022-02-10</oai:datestamp>
  </oai:header>
  <oai:metadata>
   <olac:olac>
@@ -323,8 +288,8 @@
 </oai:record>
 <oai:record>
  <oai:header>
-  <oai:identifier>oai:hughandbecky.us:0009</oai:identifier>
-  <oai:datestamp>2021-05-27</oai:datestamp>
+  <oai:identifier>oai:hughandbecky.us:0008</oai:identifier>
+  <oai:datestamp>2022-02-10</oai:datestamp>
  </oai:header>
  <oai:metadata>
   <olac:olac>
@@ -353,8 +318,8 @@
 </oai:record>
 <oai:record>
  <oai:header>
-  <oai:identifier>oai:hughandbecky.us:0010</oai:identifier>
-  <oai:datestamp>2021-05-27</oai:datestamp>
+  <oai:identifier>oai:hughandbecky.us:0009</oai:identifier>
+  <oai:datestamp>2022-02-10</oai:datestamp>
  </oai:header>
  <oai:metadata>
   <olac:olac>
@@ -386,8 +351,8 @@
 </oai:record>
 <oai:record>
  <oai:header>
-  <oai:identifier>oai:hughandbecky.us:0011</oai:identifier>
-  <oai:datestamp>2021-05-27</oai:datestamp>
+  <oai:identifier>oai:hughandbecky.us:0010</oai:identifier>
+  <oai:datestamp>2022-02-10</oai:datestamp>
  </oai:header>
  <oai:metadata>
   <olac:olac>
@@ -421,8 +386,8 @@
 </oai:record>
 <oai:record>
  <oai:header>
-  <oai:identifier>oai:hughandbecky.us:0012</oai:identifier>
-  <oai:datestamp>2021-05-27</oai:datestamp>
+  <oai:identifier>oai:hughandbecky.us:0011</oai:identifier>
+  <oai:datestamp>2022-02-10</oai:datestamp>
  </oai:header>
  <oai:metadata>
   <olac:olac>
@@ -455,8 +420,8 @@
 </oai:record>
 <oai:record>
  <oai:header>
-  <oai:identifier>oai:hughandbecky.us:0013</oai:identifier>
-  <oai:datestamp>2021-05-27</oai:datestamp>
+  <oai:identifier>oai:hughandbecky.us:0012</oai:identifier>
+  <oai:datestamp>2022-02-10</oai:datestamp>
  </oai:header>
  <oai:metadata>
   <olac:olac>
@@ -489,8 +454,8 @@
 </oai:record>
 <oai:record>
  <oai:header>
-  <oai:identifier>oai:hughandbecky.us:0014</oai:identifier>
-  <oai:datestamp>2021-05-27</oai:datestamp>
+  <oai:identifier>oai:hughandbecky.us:0013</oai:identifier>
+  <oai:datestamp>2022-02-10</oai:datestamp>
  </oai:header>
  <oai:metadata>
   <olac:olac>
@@ -518,8 +483,8 @@
 </oai:record>
 <oai:record>
  <oai:header>
-  <oai:identifier>oai:hughandbecky.us:0015</oai:identifier>
-  <oai:datestamp>2021-05-27</oai:datestamp>
+  <oai:identifier>oai:hughandbecky.us:0014</oai:identifier>
+  <oai:datestamp>2022-02-10</oai:datestamp>
  </oai:header>
  <oai:metadata>
   <olac:olac>
@@ -549,8 +514,8 @@
 </oai:record>
 <oai:record>
  <oai:header>
-  <oai:identifier>oai:hughandbecky.us:0016</oai:identifier>
-  <oai:datestamp>2021-05-27</oai:datestamp>
+  <oai:identifier>oai:hughandbecky.us:0015</oai:identifier>
+  <oai:datestamp>2022-02-10</oai:datestamp>
  </oai:header>
  <oai:metadata>
   <olac:olac>
@@ -575,8 +540,8 @@
 </oai:record>
 <oai:record>
  <oai:header>
-  <oai:identifier>oai:hughandbecky.us:0017</oai:identifier>
-  <oai:datestamp>2021-05-27</oai:datestamp>
+  <oai:identifier>oai:hughandbecky.us:0016</oai:identifier>
+  <oai:datestamp>2022-02-10</oai:datestamp>
  </oai:header>
  <oai:metadata>
   <olac:olac>
@@ -609,8 +574,8 @@
 </oai:record>
 <oai:record>
  <oai:header>
-  <oai:identifier>oai:hughandbecky.us:0018</oai:identifier>
-  <oai:datestamp>2021-05-27</oai:datestamp>
+  <oai:identifier>oai:hughandbecky.us:0017</oai:identifier>
+  <oai:datestamp>2022-02-10</oai:datestamp>
  </oai:header>
  <oai:metadata>
   <olac:olac>
@@ -632,8 +597,8 @@
 </oai:record>
 <oai:record>
  <oai:header>
-  <oai:identifier>oai:hughandbecky.us:0019</oai:identifier>
-  <oai:datestamp>2021-05-27</oai:datestamp>
+  <oai:identifier>oai:hughandbecky.us:0018</oai:identifier>
+  <oai:datestamp>2022-02-10</oai:datestamp>
  </oai:header>
  <oai:metadata>
   <olac:olac>
@@ -654,8 +619,8 @@
 </oai:record>
 <oai:record>
  <oai:header>
-  <oai:identifier>oai:hughandbecky.us:0020</oai:identifier>
-  <oai:datestamp>2021-05-27</oai:datestamp>
+  <oai:identifier>oai:hughandbecky.us:0019</oai:identifier>
+  <oai:datestamp>2022-02-10</oai:datestamp>
  </oai:header>
  <oai:metadata>
   <olac:olac>
@@ -678,8 +643,8 @@
 </oai:record>
 <oai:record>
  <oai:header>
-  <oai:identifier>oai:hughandbecky.us:0021</oai:identifier>
-  <oai:datestamp>2021-05-27</oai:datestamp>
+  <oai:identifier>oai:hughandbecky.us:0020</oai:identifier>
+  <oai:datestamp>2022-02-10</oai:datestamp>
  </oai:header>
  <oai:metadata>
   <olac:olac>
@@ -706,8 +671,8 @@
 </oai:record>
 <oai:record>
  <oai:header>
-  <oai:identifier>oai:hughandbecky.us:0022</oai:identifier>
-  <oai:datestamp>2021-05-27</oai:datestamp>
+  <oai:identifier>oai:hughandbecky.us:0021</oai:identifier>
+  <oai:datestamp>2022-02-10</oai:datestamp>
  </oai:header>
  <oai:metadata>
   <olac:olac>
@@ -733,8 +698,8 @@
 </oai:record>
 <oai:record>
  <oai:header>
-  <oai:identifier>oai:hughandbecky.us:0023</oai:identifier>
-  <oai:datestamp>2021-05-27</oai:datestamp>
+  <oai:identifier>oai:hughandbecky.us:0022</oai:identifier>
+  <oai:datestamp>2022-02-10</oai:datestamp>
  </oai:header>
  <oai:metadata>
   <olac:olac>
@@ -768,8 +733,8 @@
 </oai:record>
 <oai:record>
  <oai:header>
-  <oai:identifier>oai:hughandbecky.us:0024</oai:identifier>
-  <oai:datestamp>2021-05-27</oai:datestamp>
+  <oai:identifier>oai:hughandbecky.us:0023</oai:identifier>
+  <oai:datestamp>2022-02-10</oai:datestamp>
  </oai:header>
  <oai:metadata>
   <olac:olac>
@@ -803,8 +768,8 @@
 </oai:record>
 <oai:record>
  <oai:header>
-  <oai:identifier>oai:hughandbecky.us:0025</oai:identifier>
-  <oai:datestamp>2021-05-27</oai:datestamp>
+  <oai:identifier>oai:hughandbecky.us:0024</oai:identifier>
+  <oai:datestamp>2022-02-10</oai:datestamp>
  </oai:header>
  <oai:metadata>
   <olac:olac>
@@ -835,8 +800,8 @@
 </oai:record>
 <oai:record>
  <oai:header>
-  <oai:identifier>oai:hughandbecky.us:0026</oai:identifier>
-  <oai:datestamp>2021-05-27</oai:datestamp>
+  <oai:identifier>oai:hughandbecky.us:0025</oai:identifier>
+  <oai:datestamp>2022-02-10</oai:datestamp>
  </oai:header>
  <oai:metadata>
   <olac:olac>
@@ -867,8 +832,8 @@
 </oai:record>
 <oai:record>
  <oai:header>
-  <oai:identifier>oai:hughandbecky.us:0027</oai:identifier>
-  <oai:datestamp>2021-05-27</oai:datestamp>
+  <oai:identifier>oai:hughandbecky.us:0026</oai:identifier>
+  <oai:datestamp>2022-02-10</oai:datestamp>
  </oai:header>
  <oai:metadata>
   <olac:olac>
@@ -899,8 +864,8 @@
 </oai:record>
 <oai:record>
  <oai:header>
-  <oai:identifier>oai:hughandbecky.us:0028</oai:identifier>
-  <oai:datestamp>2021-05-27</oai:datestamp>
+  <oai:identifier>oai:hughandbecky.us:0027</oai:identifier>
+  <oai:datestamp>2022-02-10</oai:datestamp>
  </oai:header>
  <oai:metadata>
   <olac:olac>
@@ -931,8 +896,8 @@
 </oai:record>
 <oai:record>
  <oai:header>
-  <oai:identifier>oai:hughandbecky.us:0029</oai:identifier>
-  <oai:datestamp>2021-05-27</oai:datestamp>
+  <oai:identifier>oai:hughandbecky.us:0028</oai:identifier>
+  <oai:datestamp>2022-02-10</oai:datestamp>
  </oai:header>
  <oai:metadata>
   <olac:olac>
@@ -966,8 +931,8 @@
 </oai:record>
 <oai:record>
  <oai:header>
-  <oai:identifier>oai:hughandbecky.us:0030</oai:identifier>
-  <oai:datestamp>2021-05-27</oai:datestamp>
+  <oai:identifier>oai:hughandbecky.us:0029</oai:identifier>
+  <oai:datestamp>2022-02-10</oai:datestamp>
  </oai:header>
  <oai:metadata>
   <olac:olac>
@@ -1000,8 +965,8 @@
 </oai:record>
 <oai:record>
  <oai:header>
-  <oai:identifier>oai:hughandbecky.us:0031</oai:identifier>
-  <oai:datestamp>2021-05-27</oai:datestamp>
+  <oai:identifier>oai:hughandbecky.us:0030</oai:identifier>
+  <oai:datestamp>2022-02-10</oai:datestamp>
  </oai:header>
  <oai:metadata>
   <olac:olac>
@@ -1035,8 +1000,8 @@
 </oai:record>
 <oai:record>
  <oai:header>
-  <oai:identifier>oai:hughandbecky.us:0032</oai:identifier>
-  <oai:datestamp>2021-05-27</oai:datestamp>
+  <oai:identifier>oai:hughandbecky.us:0031</oai:identifier>
+  <oai:datestamp>2022-02-10</oai:datestamp>
  </oai:header>
  <oai:metadata>
   <olac:olac>
@@ -1070,8 +1035,8 @@
 </oai:record>
 <oai:record>
  <oai:header>
-  <oai:identifier>oai:hughandbecky.us:0033</oai:identifier>
-  <oai:datestamp>2021-05-27</oai:datestamp>
+  <oai:identifier>oai:hughandbecky.us:0032</oai:identifier>
+  <oai:datestamp>2022-02-10</oai:datestamp>
  </oai:header>
  <oai:metadata>
   <olac:olac>
@@ -1104,8 +1069,8 @@
 </oai:record>
 <oai:record>
  <oai:header>
-  <oai:identifier>oai:hughandbecky.us:0034</oai:identifier>
-  <oai:datestamp>2021-05-27</oai:datestamp>
+  <oai:identifier>oai:hughandbecky.us:0033</oai:identifier>
+  <oai:datestamp>2022-02-10</oai:datestamp>
  </oai:header>
  <oai:metadata>
   <olac:olac>
@@ -1138,8 +1103,8 @@
 </oai:record>
 <oai:record>
  <oai:header>
-  <oai:identifier>oai:hughandbecky.us:0035</oai:identifier>
-  <oai:datestamp>2021-05-27</oai:datestamp>
+  <oai:identifier>oai:hughandbecky.us:0034</oai:identifier>
+  <oai:datestamp>2022-02-10</oai:datestamp>
  </oai:header>
  <oai:metadata>
   <olac:olac>
@@ -1168,8 +1133,8 @@
 </oai:record>
 <oai:record>
  <oai:header>
-  <oai:identifier>oai:hughandbecky.us:0036</oai:identifier>
-  <oai:datestamp>2021-05-27</oai:datestamp>
+  <oai:identifier>oai:hughandbecky.us:0035</oai:identifier>
+  <oai:datestamp>2022-02-10</oai:datestamp>
  </oai:header>
  <oai:metadata>
   <olac:olac>
