@@ -5,7 +5,7 @@
     <link>https://hughandbecky.us/Hugh-CV/category/bibliography/</link>
       <atom:link href="https://hughandbecky.us/Hugh-CV/category/bibliography/index.xml" rel="self" type="application/rss+xml" />
     <description>Bibliography</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2021</copyright><lastBuildDate>Sun, 23 May 2021 14:35:45 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2022</copyright><lastBuildDate>Sun, 23 May 2021 14:35:45 +0100</lastBuildDate>
     <image>
       <url>https://hughandbecky.us/Hugh-CV/media/HughPaterson.jpg</url>
       <title>Bibliography</title>
@@ -331,9 +331,17 @@
       <link>https://hughandbecky.us/Hugh-CV/post/describing-serials-in-dublin-core/</link>
       <pubDate>Mon, 05 Apr 2021 14:35:45 +0100</pubDate>
       <guid>https://hughandbecky.us/Hugh-CV/post/describing-serials-in-dublin-core/</guid>
-      <description>&lt;p&gt;The Open Language Archives Community (OLAC) metadata profile is built on Dublin Core and OAI. Essentially OLAC feeds (to the OLAC aggregator) are modified OAI-PMH feeds. The profile was originally assumed to be describing archived language resources. However, there is a portion of the OLAC schema which allows the describer of a resource to indicate that the resource is a description of the resource rather than a language resource. This is useful for describing things like grammars and journal articles.&lt;/p&gt;
+      <description>&lt;p&gt;The 
+&lt;a href=&#34;http://www.language-archives.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Open Language Archives Community (OLAC)&lt;/a&gt; metadata profile is built on 
+&lt;a href=&#34;https://www.dublincore.org/specifications/dublin-core/dcmi-terms&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dublin Core&lt;/a&gt; and 
+&lt;a href=&#34;http://www.openarchives.org/OAI/openarchivesprotocol.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OAI&lt;/a&gt;. Essentially OLAC feeds (to the OLAC aggregator) are modified (or &amp;ldquo;enhanced&amp;rdquo;) OAI-PMH feeds. The profile was originally assumed to be describing archived language resources. However, there is a portion of the OLAC schema which allows the describer of a resource to indicate that the resource is a description of the resource rather than a language resource. This is useful for describing things like grammars and journal articles.&lt;/p&gt;
 &lt;p&gt;My question is: &lt;em&gt;How might journal articles be best described?&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;There are at least &amp;ldquo;archives&amp;rdquo; pushing journal articles to OLAC: the University of Hawaiʻi. pushes all of the journal &lt;em&gt;Language Documentation &amp;amp; Conservation&lt;/em&gt; to OLAC (but does not use ISO 639-3 codes in the records); the SIL Language &amp;amp; Culture Archive has records for many journal articles published by SIL and others. The GIAL/DIU library also has pushed records for journal articles or serials.&lt;/p&gt;
+&lt;p&gt;There are at least three data providers pushing journal articles to OLAC:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;The University of Hawaiʻi. pushes all of the journal &lt;em&gt;Language Documentation &amp;amp; Conservation&lt;/em&gt; to OLAC (but does not use ISO 639-3 codes in the records);&lt;/li&gt;
+&lt;li&gt;The SIL Language &amp;amp; Culture Archive has records for many journal articles published by SIL and others;&lt;/li&gt;
+&lt;li&gt;The GIAL/DIU library also has pushed records for journal articles or serials.&lt;/li&gt;
+&lt;/ol&gt;
 &lt;p&gt;Records from these three entites can serve as a baseline for current practice. However, how should journal articles, or even whole journals be described in Dublin Core? To this end I have started looking at the literature discussing how journal articles are described in the library science journals. The following bibliography is a compliation of the works consulted so far.&lt;/p&gt;
 &lt;h3 id=&#34;bibliography&#34;&gt;Bibliography&lt;/h3&gt;
 
@@ -5567,9 +5575,9 @@ One approach would be to multiply 450 by 1700 and estimate the number of article
                itemtype=&#34;http://schema.org/Organization&#34;
                itemscope=&#34;&#34;&gt;
       &lt;span itemprop=&#34;name&#34;&gt;Lexical Computing CZ s.r.o&lt;/span&gt;&lt;/span&gt;.&amp;#32;Retrieved from&amp;#32;
-  &lt;a href=&#34;https://elex.link/elex2017/proceedings-download/%20%e2%80%8e&#34;
+  &lt;a href=&#34;https://elex.link/elex2017/proceedings-download&#34;
      itemprop=&#34;identifier&#34;
-     itemtype=&#34;https://schema.org/URL&#34;&gt;https://elex.link/elex2017/proceedings-download/ ‎&lt;/a&gt;&lt;/span&gt;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://elex.link/elex2017/proceedings-download&lt;/a&gt;&lt;/span&gt;
 
 
 
@@ -6008,9 +6016,9 @@ One approach would be to multiply 450 by 1700 and estimate the number of article
                itemtype=&#34;http://schema.org/Organization&#34;
                itemscope=&#34;&#34;&gt;
       &lt;span itemprop=&#34;name&#34;&gt;Kyung Hee University&lt;/span&gt;&lt;/span&gt;.&amp;#32;Retrieved from&amp;#32;
-  &lt;a href=&#34;http://www.aclweb.org/anthology/papers/Y/Y96/Y96-1023/&#34;
+  &lt;a href=&#34;http://www.aclweb.org/anthology/papers/Y/Y96/Y96-1023&#34;
      itemprop=&#34;identifier&#34;
-     itemtype=&#34;https://schema.org/URL&#34;&gt;http://www.aclweb.org/anthology/papers/Y/Y96/Y96-1023/&lt;/a&gt;&lt;/span&gt;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;http://www.aclweb.org/anthology/papers/Y/Y96/Y96-1023&lt;/a&gt;&lt;/span&gt;
 
 
 
@@ -6447,9 +6455,9 @@ One approach would be to multiply 450 by 1700 and estimate the number of article
     (&lt;span itemprop=&#34;datePublished&#34;&gt;2008&lt;/span&gt;).
   &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;Lexicon Schemas and Related Data Models:when Standards Meet Users&lt;/span&gt;.&lt;i&gt;
     &lt;span itemprop=&#34;about&#34;&gt;Proceedings of the Sixth International Conference on Language Resources and Evaluation (LREC&amp;#39;08)&lt;/span&gt;&lt;/i&gt;.&amp;#32;&lt;span itemprop=&#34;pagination&#34;&gt;3205–3212&lt;/span&gt;.&amp;#32;Retrieved from&amp;#32;
-  &lt;a href=&#34;www.lrec-conf.org/proceedings/lrec2008/pdf/812_paper.pdf&#34;
+  &lt;a href=&#34;https://www.lrec-conf.org/proceedings/lrec2008/pdf/812_paper.pdf&#34;
      itemprop=&#34;identifier&#34;
-     itemtype=&#34;https://schema.org/URL&#34;&gt;www.lrec-conf.org/proceedings/lrec2008/pdf/812_paper.pdf&lt;/a&gt;&lt;/span&gt;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://www.lrec-conf.org/proceedings/lrec2008/pdf/812_paper.pdf&lt;/a&gt;&lt;/span&gt;
 
 
 

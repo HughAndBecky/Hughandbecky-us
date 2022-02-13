@@ -5,7 +5,7 @@
     <link>https://hughandbecky.us/Hugh-CV/tag/osx/</link>
       <atom:link href="https://hughandbecky.us/Hugh-CV/tag/osx/index.xml" rel="self" type="application/rss+xml" />
     <description>OSX</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2021</copyright><lastBuildDate>Tue, 17 Apr 2018 14:35:45 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2022</copyright><lastBuildDate>Tue, 17 Apr 2018 14:35:45 +0100</lastBuildDate>
     <image>
       <url>https://hughandbecky.us/Hugh-CV/media/HughPaterson.jpg</url>
       <title>OSX</title>
@@ -68,7 +68,7 @@
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;del datetime=&#34;2011-02-24T16:23:52+00:00&#34;&gt;Can not sort by custom field&lt;/del&gt;:
-&lt;em&gt;I think you can do this in the interface. Though it was not obvious on how to do it.&lt;/em&gt; 
+&lt;em&gt;I think you can do this in the interface. Though it was not obvious on how to do it&lt;/em&gt;. 
 
 
 
@@ -145,7 +145,7 @@ Hugh Paterson III
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Can not create a smart list based on a constant in the Issue data part.
-&lt;em&gt;I have Volume and Issue Data. Some of the citation data pulled in for some items has the issue set as 02, 03, etc. I want to be able to find all the issues which start with a zero so I can remove the zeros. Most stylesheets do not remove the zeros and also do not allow for them&lt;/em&gt;.
+&lt;em&gt;I have Volume and Issue Data. Some of the citation data pulled in for some items has the issue set as 02, 03, etc. I want to be able to find all the issues which start with a zero so I can remove the zeros. Most stylesheets do not remove the zeros and also do not allow for them&lt;/em&gt;. 
 
 
 
@@ -204,10 +204,7 @@ Hugh Paterson III
 &lt;p&gt;Can not export PDFs with embedded metadata in the PDF.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Can not open the folder which contains a PDF included in an Endnote Library.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-
+&lt;p&gt;Can not open the folder which contains a PDF included in an Endnote Library. 
 
 
 
@@ -260,7 +257,9 @@ Hugh Paterson III
 
 
 &lt;/figure&gt;
-
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
 
 
 
@@ -335,10 +334,7 @@ This is in the Help Menus I was expecting it on the producers website or in a bo
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;There is no way to create a smart group based off of a subset of items in a normal group.
-i.e. I want to create a smart group of all the references with a PDF attached but I only want it to pull from the items in a particular group (or set of groups).&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-
+i.e. I want to create a smart group of all the references with a PDF attached but I only want it to pull from the items in a particular group (or set of groups). 
 
 
 
@@ -391,11 +387,10 @@ Hugh Paterson III
 
 
 &lt;/figure&gt;
-
-&lt;ol start=&#34;17&#34;&gt;
-&lt;li&gt;There is no PDF Preview within the application. The existing Preview is for seeing the current citation in the selected citation style. (Preview of the output.) It would be helpful if there was also a preview pane for viewing the PDF or the attached file.&lt;/li&gt;
-&lt;/ol&gt;
-
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;There is no PDF Preview within the application. The existing Preview is for seeing the current citation in the selected citation style. (Preview of the output.) It would be helpful if there was also a preview pane for viewing the PDF or the attached file. 
 
 
 
@@ -448,7 +443,9 @@ Hugh Paterson III
 
 
 &lt;/figure&gt;
-
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
 &lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
 &lt;hr&gt;
 &lt;ol&gt;

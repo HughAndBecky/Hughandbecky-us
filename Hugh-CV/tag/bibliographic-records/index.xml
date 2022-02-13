@@ -5,7 +5,7 @@
     <link>https://hughandbecky.us/Hugh-CV/tag/bibliographic-records/</link>
       <atom:link href="https://hughandbecky.us/Hugh-CV/tag/bibliographic-records/index.xml" rel="self" type="application/rss+xml" />
     <description>Bibliographic Records</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2021</copyright><lastBuildDate>Mon, 05 Apr 2021 14:35:45 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2022</copyright><lastBuildDate>Mon, 05 Apr 2021 14:35:45 +0100</lastBuildDate>
     <image>
       <url>https://hughandbecky.us/Hugh-CV/media/HughPaterson.jpg</url>
       <title>Bibliographic Records</title>
@@ -17,9 +17,17 @@
       <link>https://hughandbecky.us/Hugh-CV/post/describing-serials-in-dublin-core/</link>
       <pubDate>Mon, 05 Apr 2021 14:35:45 +0100</pubDate>
       <guid>https://hughandbecky.us/Hugh-CV/post/describing-serials-in-dublin-core/</guid>
-      <description>&lt;p&gt;The Open Language Archives Community (OLAC) metadata profile is built on Dublin Core and OAI. Essentially OLAC feeds (to the OLAC aggregator) are modified OAI-PMH feeds. The profile was originally assumed to be describing archived language resources. However, there is a portion of the OLAC schema which allows the describer of a resource to indicate that the resource is a description of the resource rather than a language resource. This is useful for describing things like grammars and journal articles.&lt;/p&gt;
+      <description>&lt;p&gt;The 
+&lt;a href=&#34;http://www.language-archives.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Open Language Archives Community (OLAC)&lt;/a&gt; metadata profile is built on 
+&lt;a href=&#34;https://www.dublincore.org/specifications/dublin-core/dcmi-terms&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dublin Core&lt;/a&gt; and 
+&lt;a href=&#34;http://www.openarchives.org/OAI/openarchivesprotocol.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OAI&lt;/a&gt;. Essentially OLAC feeds (to the OLAC aggregator) are modified (or &amp;ldquo;enhanced&amp;rdquo;) OAI-PMH feeds. The profile was originally assumed to be describing archived language resources. However, there is a portion of the OLAC schema which allows the describer of a resource to indicate that the resource is a description of the resource rather than a language resource. This is useful for describing things like grammars and journal articles.&lt;/p&gt;
 &lt;p&gt;My question is: &lt;em&gt;How might journal articles be best described?&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;There are at least &amp;ldquo;archives&amp;rdquo; pushing journal articles to OLAC: the University of Hawaiʻi. pushes all of the journal &lt;em&gt;Language Documentation &amp;amp; Conservation&lt;/em&gt; to OLAC (but does not use ISO 639-3 codes in the records); the SIL Language &amp;amp; Culture Archive has records for many journal articles published by SIL and others. The GIAL/DIU library also has pushed records for journal articles or serials.&lt;/p&gt;
+&lt;p&gt;There are at least three data providers pushing journal articles to OLAC:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;The University of Hawaiʻi. pushes all of the journal &lt;em&gt;Language Documentation &amp;amp; Conservation&lt;/em&gt; to OLAC (but does not use ISO 639-3 codes in the records);&lt;/li&gt;
+&lt;li&gt;The SIL Language &amp;amp; Culture Archive has records for many journal articles published by SIL and others;&lt;/li&gt;
+&lt;li&gt;The GIAL/DIU library also has pushed records for journal articles or serials.&lt;/li&gt;
+&lt;/ol&gt;
 &lt;p&gt;Records from these three entites can serve as a baseline for current practice. However, how should journal articles, or even whole journals be described in Dublin Core? To this end I have started looking at the literature discussing how journal articles are described in the library science journals. The following bibliography is a compliation of the works consulted so far.&lt;/p&gt;
 &lt;h3 id=&#34;bibliography&#34;&gt;Bibliography&lt;/h3&gt;
 

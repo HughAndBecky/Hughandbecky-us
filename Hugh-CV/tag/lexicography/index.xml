@@ -5,7 +5,7 @@
     <link>https://hughandbecky.us/Hugh-CV/tag/lexicography/</link>
       <atom:link href="https://hughandbecky.us/Hugh-CV/tag/lexicography/index.xml" rel="self" type="application/rss+xml" />
     <description>Lexicography</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2021</copyright><lastBuildDate>Sun, 03 Mar 2019 00:00:00 +1100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2022</copyright><lastBuildDate>Sun, 03 Mar 2019 00:00:00 +1100</lastBuildDate>
     <image>
       <url>https://hughandbecky.us/Hugh-CV/media/HughPaterson.jpg</url>
       <title>Lexicography</title>
@@ -184,9 +184,9 @@
                itemtype=&#34;http://schema.org/Organization&#34;
                itemscope=&#34;&#34;&gt;
       &lt;span itemprop=&#34;name&#34;&gt;Lexical Computing CZ s.r.o&lt;/span&gt;&lt;/span&gt;.&amp;#32;Retrieved from&amp;#32;
-  &lt;a href=&#34;https://elex.link/elex2017/proceedings-download/%20%e2%80%8e&#34;
+  &lt;a href=&#34;https://elex.link/elex2017/proceedings-download&#34;
      itemprop=&#34;identifier&#34;
-     itemtype=&#34;https://schema.org/URL&#34;&gt;https://elex.link/elex2017/proceedings-download/ ‎&lt;/a&gt;&lt;/span&gt;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://elex.link/elex2017/proceedings-download&lt;/a&gt;&lt;/span&gt;
 
 
 
@@ -625,9 +625,9 @@
                itemtype=&#34;http://schema.org/Organization&#34;
                itemscope=&#34;&#34;&gt;
       &lt;span itemprop=&#34;name&#34;&gt;Kyung Hee University&lt;/span&gt;&lt;/span&gt;.&amp;#32;Retrieved from&amp;#32;
-  &lt;a href=&#34;http://www.aclweb.org/anthology/papers/Y/Y96/Y96-1023/&#34;
+  &lt;a href=&#34;http://www.aclweb.org/anthology/papers/Y/Y96/Y96-1023&#34;
      itemprop=&#34;identifier&#34;
-     itemtype=&#34;https://schema.org/URL&#34;&gt;http://www.aclweb.org/anthology/papers/Y/Y96/Y96-1023/&lt;/a&gt;&lt;/span&gt;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;http://www.aclweb.org/anthology/papers/Y/Y96/Y96-1023&lt;/a&gt;&lt;/span&gt;
 
 
 
@@ -1064,9 +1064,9 @@
     (&lt;span itemprop=&#34;datePublished&#34;&gt;2008&lt;/span&gt;).
   &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;Lexicon Schemas and Related Data Models:when Standards Meet Users&lt;/span&gt;.&lt;i&gt;
     &lt;span itemprop=&#34;about&#34;&gt;Proceedings of the Sixth International Conference on Language Resources and Evaluation (LREC&amp;#39;08)&lt;/span&gt;&lt;/i&gt;.&amp;#32;&lt;span itemprop=&#34;pagination&#34;&gt;3205–3212&lt;/span&gt;.&amp;#32;Retrieved from&amp;#32;
-  &lt;a href=&#34;www.lrec-conf.org/proceedings/lrec2008/pdf/812_paper.pdf&#34;
+  &lt;a href=&#34;https://www.lrec-conf.org/proceedings/lrec2008/pdf/812_paper.pdf&#34;
      itemprop=&#34;identifier&#34;
-     itemtype=&#34;https://schema.org/URL&#34;&gt;www.lrec-conf.org/proceedings/lrec2008/pdf/812_paper.pdf&lt;/a&gt;&lt;/span&gt;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://www.lrec-conf.org/proceedings/lrec2008/pdf/812_paper.pdf&lt;/a&gt;&lt;/span&gt;
 
 
 
@@ -1280,7 +1280,12 @@
 
 
 
+  
 
+
+
+  
+  
 
 
 
@@ -1300,10 +1305,10 @@
 &lt;figure id=&#34;figure-a-work-flow-for-evaluating-and-categorizing-responses-related-to-archived-lexical-data-sets&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;&#34; data-caption=&#34;A work-flow for evaluating and categorizing responses related to archived lexical data sets.&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/process-for-evaluating-the-archiving-of-lexica-datasets/Lexical-Database-Explination-public_hu1f42cb37e1842396c0670ff6101a09bb_209777_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;A work-flow for evaluating and categorizing responses related to archived lexical data sets.&#34;&gt;
 
 
-  &lt;img src=&#34;&#34; alt=&#34;A work-flow for evaluating and categorizing responses related to archived lexical data sets.&#34;  &gt;
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/process-for-evaluating-the-archiving-of-lexica-datasets/Lexical-Database-Explination-public_hu1f42cb37e1842396c0670ff6101a09bb_209777_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;A work-flow for evaluating and categorizing responses related to archived lexical data sets.&#34; width=&#34;1130&#34; height=&#34;1466&#34;&gt;
 &lt;/a&gt;
 
 

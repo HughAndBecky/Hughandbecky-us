@@ -5,7 +5,7 @@
     <link>https://hughandbecky.us/Hugh-CV/tag/typing/</link>
       <atom:link href="https://hughandbecky.us/Hugh-CV/tag/typing/index.xml" rel="self" type="application/rss+xml" />
     <description>typing</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2021</copyright><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2022</copyright><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://hughandbecky.us/Hugh-CV/media/HughPaterson.jpg</url>
       <title>typing</title>
@@ -19,7 +19,7 @@
       <guid>https://hughandbecky.us/Hugh-CV/project/2014-typing-experience/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Previous work&lt;/strong&gt;:&lt;/p&gt;
 &lt;p&gt;This project follows and builds upon the project where 
-&lt;a href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/project/2012-mexico-keyboards/&#34;&gt;keyboard layouts for Meꞌphaa and Sochiapam Chinantec&lt;/a&gt; were produced. This project uses data from Meꞌphaa and Sochiapam Chinantec but purposely extends the scope of the analysis to include Latin and Cyrillic script languages, particularly focusing on those with diacritics which express tone.&lt;/p&gt;
+&lt;a href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/project/2011-mexico-keyboards/&#34;&gt;keyboard layouts for Meꞌphaa and Sochiapam Chinantec&lt;/a&gt; were produced. This project uses data from Meꞌphaa and Sochiapam Chinantec but purposely extends the scope of the analysis to include Latin and Cyrillic script languages, particularly focusing on those with diacritics which express tone.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Goals&lt;/strong&gt;:&lt;/p&gt;
 &lt;p&gt;The goal of this project is to bring &amp;lsquo;natural&amp;rsquo;, intuitive, and easy to use typing experiences in the form of keyboard layout designs to minority language users. These language users often do not type in their own languages, but rather experience technology through languages other than their first language. This is in part because of the perception that their language is complex or not easy to type, which is often not an invalid observation. However, with these languages which have different and sometimes more characters than English, what does a good layout look like?
 The objectives of this project are threefold:&lt;/p&gt;
@@ -59,7 +59,7 @@ The application providing the best fit solution needs to be able to suggest a be
 &lt;a href=&#34;https://web.archive.org/web/20170202084913/https://msdn.microsoft.com/en-us/globalization/keyboardlayouts.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Microsoft Keyboard Layout Creator (MSKLC)&lt;/a&gt; to create the Windows keyboards.&lt;/p&gt;
 &lt;p&gt;Upon hearing of my new found skills, language users from the Sochiapam Chinantec community asked me to make an OS X keyboard for their language. In both cases existing keyboard layouts were matched to synchronize the user experience across the OSes.&lt;/p&gt;
 &lt;p&gt;Some of the design choices in the original layouts did not make sense to me. Hence the birth of the 
-&lt;a href=&#34;https://hughandbecky.us/Hugh-CV/project/2014-typing-expereince/&#34;&gt;The minority language typing experience&lt;/a&gt; project.&lt;/p&gt;
+&lt;a href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/project/2014-typing-expereince/&#34;&gt;The minority language typing experience&lt;/a&gt; project.&lt;/p&gt;
 </description>
     </item>
     

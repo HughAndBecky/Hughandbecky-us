@@ -5,7 +5,7 @@
     <link>https://hughandbecky.us/Hugh-CV/tag/library/</link>
       <atom:link href="https://hughandbecky.us/Hugh-CV/tag/library/index.xml" rel="self" type="application/rss+xml" />
     <description>Library</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2021</copyright><lastBuildDate>Tue, 17 Apr 2018 14:35:45 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2022</copyright><lastBuildDate>Tue, 17 Apr 2018 14:35:45 +0100</lastBuildDate>
     <image>
       <url>https://hughandbecky.us/Hugh-CV/media/HughPaterson.jpg</url>
       <title>Library</title>
@@ -33,6 +33,75 @@
 &lt;li&gt;For me, EndNote, when importing citations which contain a relative link to a PDF on my machine, does not actually import the PDF to an endnote managed folder. I want all my PDFs in one place. And if they are not in the EndNote managed folder I want a visual indication that they are outside the EndNote data folder.&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;These are my observations as I try and work with EndNote (and have over the last few months). For me, Papers2 (I haven&amp;rsquo;t bought Papers3) nailed the interaction around PDF management and citation management, from a User Experience perspective. Papers2 just didn&amp;rsquo;t have the custom fields necessary for me, So I was never able to completly rid myself of EndNote.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Grants being aggregated in OLAC Search results</title>
+      <link>https://hughandbecky.us/Hugh-CV/post/olac-grant-aggregator/</link>
+      <pubDate>Fri, 18 May 2012 23:45:45 +0100</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/post/olac-grant-aggregator/</guid>
+      <description>&lt;p&gt;I have been doing some thinking about what would make 
+&lt;a href=&#34;http://search.language-archives.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OLAC search&lt;/a&gt; more valuable to its current users and to its targeted users. One of the things which would make it more useful would be if the NSF, a partial funder for 
+&lt;a href=&#34;http://www.language-archives.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OLAC&lt;/a&gt; and OLAC search, would aggregate its language related grants, scholarships, fellowships and awards through OLAC.&lt;/p&gt;
+&lt;p&gt;Some of these Grant proposals are really well written, and well cited documents which explain a certain snapshot of the language situation. Even the announcements that a grants like 
+&lt;a href=&#34;http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=0966411&amp;amp;WT.z_pims_id=12816&#34; title=&#34;Douglas Whalen Grant&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;From Endangered Language Documentation to Phonetic Documentation&lt;/a&gt; has been awarded would allow other researchers to know that someone has applied or been awarded a block of funding to work on a particular language situation.&lt;/p&gt;
+
+
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-notice-of-nsf-grant-award&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/olac-grant-aggregator/NSF-Grant_hue2c2cdacdb65db441481dd609fada4c1_318924_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Notice of NSF Grant award&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/olac-grant-aggregator/NSF-Grant_hue2c2cdacdb65db441481dd609fada4c1_318924_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;Notice of NSF Grant award&#34; width=&#34;1436&#34; height=&#34;881&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;p&gt;Notice of NSF Grant award
+      
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=0966411&amp;amp;WT.z_pims_id=12816&#34;&gt; 
+NSF
+&lt;/a&gt; &lt;/span&gt;
+&lt;/p&gt;
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;I was particularly happy to find that NSF does have a &lt;em&gt;grant offering&lt;/em&gt; and &lt;em&gt;grant awarded&lt;/em&gt; 
+&lt;a href=&#34;http://www.nsf.gov/awardsearch/progSearch.do?WT.si_n=ClickedAbstractsRecentAwards&amp;amp;WT.si_x=1&amp;amp;WT.si_cs=1&amp;amp;WT.z_pims_id=12816&amp;amp;SearchType=progSearch&amp;amp;page=2&amp;amp;QueryText=&amp;amp;ProgOrganization=&amp;amp;ProgOfficer=&amp;amp;ProgEleCode=7719&amp;amp;BooleanElement=true&amp;amp;ProgRefCode=&amp;amp;BooleanRef=true&amp;amp;ProgProgram=&amp;amp;ProgFoaCode=&amp;amp;RestrictActive=on&amp;amp;Search=Search#results&#34; title=&#34;NSF Grants&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;search section&lt;/a&gt;. But aggregating this knowledge with prior research would really give interested parties in particular languages the integrated perspective of how funding has impacted the development and research of minority languages.&lt;/p&gt;
 </description>
     </item>
     
@@ -92,7 +161,7 @@ I am not sure how this is done exactly… but here is the link: &lt;a href=&#34;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;del datetime=&#34;2011-02-24T16:23:52+00:00&#34;&gt;Can not sort by custom field&lt;/del&gt;:
-&lt;em&gt;I think you can do this in the interface. Though it was not obvious on how to do it.&lt;/em&gt; 
+&lt;em&gt;I think you can do this in the interface. Though it was not obvious on how to do it&lt;/em&gt;. 
 
 
 
@@ -169,7 +238,7 @@ Hugh Paterson III
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Can not create a smart list based on a constant in the Issue data part.
-&lt;em&gt;I have Volume and Issue Data. Some of the citation data pulled in for some items has the issue set as 02, 03, etc. I want to be able to find all the issues which start with a zero so I can remove the zeros. Most stylesheets do not remove the zeros and also do not allow for them&lt;/em&gt;.
+&lt;em&gt;I have Volume and Issue Data. Some of the citation data pulled in for some items has the issue set as 02, 03, etc. I want to be able to find all the issues which start with a zero so I can remove the zeros. Most stylesheets do not remove the zeros and also do not allow for them&lt;/em&gt;. 
 
 
 
@@ -228,10 +297,7 @@ Hugh Paterson III
 &lt;p&gt;Can not export PDFs with embedded metadata in the PDF.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Can not open the folder which contains a PDF included in an Endnote Library.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-
+&lt;p&gt;Can not open the folder which contains a PDF included in an Endnote Library. 
 
 
 
@@ -284,7 +350,9 @@ Hugh Paterson III
 
 
 &lt;/figure&gt;
-
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
 
 
 
@@ -359,10 +427,7 @@ This is in the Help Menus I was expecting it on the producers website or in a bo
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;There is no way to create a smart group based off of a subset of items in a normal group.
-i.e. I want to create a smart group of all the references with a PDF attached but I only want it to pull from the items in a particular group (or set of groups).&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-
+i.e. I want to create a smart group of all the references with a PDF attached but I only want it to pull from the items in a particular group (or set of groups). 
 
 
 
@@ -415,11 +480,10 @@ Hugh Paterson III
 
 
 &lt;/figure&gt;
-
-&lt;ol start=&#34;17&#34;&gt;
-&lt;li&gt;There is no PDF Preview within the application. The existing Preview is for seeing the current citation in the selected citation style. (Preview of the output.) It would be helpful if there was also a preview pane for viewing the PDF or the attached file.&lt;/li&gt;
-&lt;/ol&gt;
-
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;There is no PDF Preview within the application. The existing Preview is for seeing the current citation in the selected citation style. (Preview of the output.) It would be helpful if there was also a preview pane for viewing the PDF or the attached file. 
 
 
 
@@ -472,7 +536,9 @@ Hugh Paterson III
 
 
 &lt;/figure&gt;
-
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
 &lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
 &lt;hr&gt;
 &lt;ol&gt;
