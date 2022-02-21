@@ -105,6 +105,19 @@
     </item>
     
     <item>
+      <title>OLAC Extenstion for Zotero Types</title>
+      <link>https://hughandbecky.us/Hugh-CV/post/olac-extensions/</link>
+      <pubDate>Sun, 07 Feb 2021 14:35:45 +0100</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/post/olac-extensions/</guid>
+      <description>&lt;p&gt;The OLAC documentation discusses the option to add an 
+&lt;a href=&#34;http://www.language-archives.org/REC/olac-extensions.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;extenstion to OLAC&lt;/a&gt; and further refine various content. As far as I know no-one has attempted this, although all of the OLAC metadata is implemented as extenstoins to the XSD file for the Qualified Dublin Core.&lt;/p&gt;
+&lt;p&gt;Below is my attempt to write an OLAC Extension. It is current as of Zotero 5.x versions.&lt;/p&gt;
+&lt;script type=&#34;application/javascript&#34; src=&#34;https://gist.github.com/HughP/37b0fdde55465ba3452d5695d197478a.js&#34;&gt;&lt;/script&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Reference Types in Zotero, BibTeX, and XLingPaper</title>
       <link>https://hughandbecky.us/Hugh-CV/post/reference-types-in-zotero-bibtex-and-xlingpaper/</link>
       <pubDate>Sat, 10 Oct 2020 14:35:45 +0100</pubDate>
