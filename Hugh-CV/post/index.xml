@@ -5,12 +5,84 @@
     <link>https://hughandbecky.us/Hugh-CV/post/</link>
       <atom:link href="https://hughandbecky.us/Hugh-CV/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2022</copyright><lastBuildDate>Thu, 21 Oct 2021 14:35:45 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2022</copyright><lastBuildDate>Sat, 26 Feb 2022 14:14:38 -0700</lastBuildDate>
     <image>
       <url>https://hughandbecky.us/Hugh-CV/media/HughPaterson.jpg</url>
       <title>Posts</title>
       <link>https://hughandbecky.us/Hugh-CV/post/</link>
     </image>
+    
+    <item>
+      <title>Some thoughts on an Aggregator for Library Science Articles</title>
+      <link>https://hughandbecky.us/Hugh-CV/post/library-journals/</link>
+      <pubDate>Sat, 26 Feb 2022 14:14:38 -0700</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/post/library-journals/</guid>
+      <description>&lt;p&gt;As I go through various Library Science issues related OLAC and language documentation deposit descriptions, I have begun to wonder if there is any aggregator for Library Science Journals and their content. If there were such an aggregator what might the facets be? Here is a partial list:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Serials&lt;/li&gt;
+&lt;li&gt;Monographs&lt;/li&gt;
+&lt;li&gt;Maps (cartography)&lt;/li&gt;
+&lt;li&gt;ETDs (Thesis and Dissertation Collections)&lt;/li&gt;
+&lt;li&gt;Software&lt;/li&gt;
+&lt;li&gt;Video Games&lt;/li&gt;
+&lt;li&gt;Collections&lt;/li&gt;
+&lt;li&gt;Aggregates&lt;/li&gt;
+&lt;li&gt;Video&lt;/li&gt;
+&lt;li&gt;Images&lt;/li&gt;
+&lt;li&gt;Audio&lt;/li&gt;
+&lt;li&gt;Copyright&lt;/li&gt;
+&lt;li&gt;Cataloging Standards (Practices)&lt;/li&gt;
+&lt;li&gt;Metadata Standards&lt;/li&gt;
+&lt;li&gt;Digitization&lt;/li&gt;
+&lt;li&gt;Portals (IU/UX)&lt;/li&gt;
+&lt;li&gt;Scholarly Communications&lt;/li&gt;
+&lt;li&gt;Learning Resources (any thing could be a LR, but I specifically mean things designed as curriculum)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Note: &lt;em&gt;I did not put &amp;ldquo;cultural heritage&amp;rdquo; or &amp;ldquo;indigenous materials&amp;rdquo; on the list as everything could be these — it depends on the perspective. I am looking for the broad areas of practice that librarians deal with.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;So far here is my list of Library Science Journals from which I have read articles:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Library Hi Tech&lt;/li&gt;
+&lt;li&gt;The Electronic Library&lt;/li&gt;
+&lt;li&gt;International Information &amp;amp; Library Review&lt;/li&gt;
+&lt;li&gt;International Journal on Digital Libraries&lt;/li&gt;
+&lt;li&gt;International Journal of Digital Curation&lt;/li&gt;
+&lt;li&gt;Library Philosophy and Practice&lt;/li&gt;
+&lt;li&gt;Library Resources &amp;amp; Technical Services&lt;/li&gt;
+&lt;li&gt;LIBER Quarterly: The Journal of the Association of European Research Libraries&lt;/li&gt;
+&lt;li&gt;Law Library Journal&lt;/li&gt;
+&lt;li&gt;Library Review&lt;/li&gt;
+&lt;li&gt;Cataloging &amp;amp; Classification Quarterly&lt;/li&gt;
+&lt;li&gt;Evidence Based Library and Information Practice&lt;/li&gt;
+&lt;li&gt;The Journal of Academic Librarianship&lt;/li&gt;
+&lt;li&gt;Information Technology and Libraries&lt;/li&gt;
+&lt;li&gt;The Serials Librarian&lt;/li&gt;
+&lt;li&gt;Journal of Documentation&lt;/li&gt;
+&lt;li&gt;Journal of Web Librarianship&lt;/li&gt;
+&lt;li&gt;Journal of Library Metadata&lt;/li&gt;
+&lt;li&gt;Journal of Internet Cataloging&lt;/li&gt;
+&lt;li&gt;Australian Academic &amp;amp; Research Libraries&lt;/li&gt;
+&lt;li&gt;Reference Services Review&lt;/li&gt;
+&lt;li&gt;Information and Learning Science&lt;/li&gt;
+&lt;li&gt;Curator: The Museum Journal&lt;/li&gt;
+&lt;li&gt;Learned Publishing&lt;/li&gt;
+&lt;li&gt;School of Information Student Research Journal&lt;/li&gt;
+&lt;li&gt;Archival Science&lt;/li&gt;
+&lt;li&gt;The Code4Lib Journal&lt;/li&gt;
+&lt;li&gt;D-Lib Magazine&lt;/li&gt;
+&lt;li&gt;International Journal of Metadata, Semantics and Ontologies&lt;/li&gt;
+&lt;li&gt;Ariadne&lt;/li&gt;
+&lt;li&gt;New Library World&lt;/li&gt;
+&lt;li&gt;American Libraries&lt;/li&gt;
+&lt;li&gt;Bulletin of the Association for Information Science and Technology&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Of course there are more in MIAR:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://miar.ub.edu/lista/TITOL/Library&#34;&gt;http://miar.ub.edu/lista/TITOL/Library&lt;/a&gt; (143)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://miar.ub.edu/lista/TITOL/archival&#34;&gt;http://miar.ub.edu/lista/TITOL/archival&lt;/a&gt; (6)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://miar.ub.edu/lista/TITOL/Information%20science&#34;&gt;http://miar.ub.edu/lista/TITOL/Information%20science&lt;/a&gt; (49)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Child Sponsorship Nonprofits</title>
