@@ -5,12 +5,118 @@
     <link>https://hughandbecky.us/Hugh-CV/tag/archives/</link>
       <atom:link href="https://hughandbecky.us/Hugh-CV/tag/archives/index.xml" rel="self" type="application/rss+xml" />
     <description>Archives</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2022</copyright><lastBuildDate>Fri, 23 Apr 2021 17:00:12 -0700</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2022</copyright><lastBuildDate>Tue, 08 Mar 2022 14:35:45 +0100</lastBuildDate>
     <image>
       <url>https://hughandbecky.us/Hugh-CV/media/HughPaterson.jpg</url>
       <title>Archives</title>
       <link>https://hughandbecky.us/Hugh-CV/tag/archives/</link>
     </image>
+    
+    <item>
+      <title>Diversity and typology across OLAC providers</title>
+      <link>https://hughandbecky.us/Hugh-CV/post/diversity-and-typology-across-olac-providers/</link>
+      <pubDate>Tue, 08 Mar 2022 14:35:45 +0100</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/post/diversity-and-typology-across-olac-providers/</guid>
+      <description>&lt;p&gt;Are all data providers to OLAC archives as some in the literature seem to imply, or are these implications an artifact of some other framing mechanism?&lt;/p&gt;
+&lt;p&gt;The 
+&lt;a href=&#34;http://www.language-archives.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Open Language Archives Community (OLAC)&lt;/a&gt; metadata profile is built on 
+&lt;a href=&#34;https://www.dublincore.org/specifications/dublin-core/dcmi-terms&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dublin Core&lt;/a&gt; and 
+&lt;a href=&#34;http://www.openarchives.org/OAI/openarchivesprotocol.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OAI&lt;/a&gt;. Essentially OLAC OAI feeds (to the OLAC aggregator) are modified (or &amp;ldquo;enhanced&amp;rdquo; using the XML attribute &lt;code&gt;xsi:type=&amp;quot; &amp;quot;&lt;/code&gt;) OAI-PMH feeds. The OAI protocol was originally developed to be used by repository software to communicate with other repositories—in an effort to make a network of repositories. The OAI protocol works well as designed. The OLAC implementation of OAI inherits some of the OAI provided terms and concepts. When OLAC was first created, the profile was originally assumed to be describing archived language resources, and archives were assumed to be repositories—at least in the OAI sense. Many, including recent publications talk about &amp;ldquo;archives&amp;rdquo; providing records to the OLAC aggregator. These claims and references are interesting, confusing, and inaccurate—though if the sense of archive, is really and OAI repository, then I seen the connection. However, that is not what most people think of when they hear &lt;em&gt;language archive&lt;/em&gt; or &lt;em&gt;archive&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;The framing of terms from the OAI context is laid out in the 
+&lt;a href=&#34;http://www.openarchives.org/OAI/openarchivesprotocol.html#Introduction&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;introduction to the OAI-PMH standard&lt;/a&gt;. The following definitions are given.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Data Providers&lt;/em&gt; administer systems that support the OAI-PMH as a means of exposing metadata; and&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Service Providers&lt;/em&gt; use metadata harvested via the OAI-PMH as a basis for building value-added services.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;A &lt;em&gt;repository&lt;/em&gt; is a network accessible server that can process the 6 OAI-PMH requests in the manner described in this document.&lt;/strong&gt; A repository is managed by a data provider to expose metadata to harvesters. To allow various repository configurations, the OAI-PMH distinguishes between three distinct entities related to the metadata made accessible by the OAI-PMH.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The distinction here is that the corporate entity implementing data sharing technology is the &lt;em&gt;Data Provider&lt;/em&gt;. While the server technology implementing the access is call the &lt;em&gt;repository&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;However, within the OLAC documentation and academic literature presenting OLAC further conceptualization of terms occurs.&lt;/p&gt;
+&lt;p&gt;The use of the term &amp;ldquo;archive&amp;rdquo; to mean all data providers to OLAC is  &lt;em&gt;interesting&lt;/em&gt; from a linguistic point of view because by calling &lt;em&gt;Data Providers&lt;/em&gt; (in the OAI sense) &amp;ldquo;archives&amp;rdquo; authors use the language of inclusion which maps well to the concepts of &amp;ldquo;open&amp;rdquo; and &amp;ldquo;community&amp;rdquo; which can be found in the OLAC name, but the language of inclusion here does not acknowledge the diversity of the kinds of data providers. While inclusion and an under representation of diversity are the impacts, there may be other factors as well. If we look at the OLAC documentation, the documentation in the examples and in the XML elements calls things &amp;ldquo;archives&amp;rdquo;. Consider the 
+&lt;a href=&#34;http://www.language-archives.org/OLAC/protocol.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OLAC Protocol&lt;/a&gt; which is an extension of the basic OAI-PMH protocol. Specifically, in 
+&lt;a href=&#34;http://www.language-archives.org/OLAC/protocol.html#OLAC%20archive%20description&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;section 3&lt;/a&gt; where OLAC data providers are required to return a specific element when the OAI-PMH verb &lt;code&gt;Identify&lt;/code&gt; is used. The title of the XML element is &lt;code&gt;olac-archive&lt;/code&gt;.  It has two possible attribute values &lt;code&gt;personal&lt;/code&gt; or &lt;code&gt;institutional&lt;/code&gt;. The example given is as follows:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;&amp;lt;olac-archive
+      xmlns=&amp;quot;http://www.language-archives.org/OLAC/1.0/&amp;quot;
+      xmlns:xsi=&amp;quot;http://www.w3.org/2001/XMLSchema-instance&amp;quot;
+      xsi:schemaLocation=&amp;quot;http://www.language-archives.org/OLAC/1.0/
+                 http://www.language-archives.org/OLAC/1.0/olac-archive.xsd&amp;quot;
+      type=&amp;quot;institutional&amp;quot;&amp;gt;
+   &amp;lt;archiveURL&amp;gt;http://www.ethnologue.com&amp;lt;/archiveURL&amp;gt;
+   &amp;lt;curator&amp;gt;Raymond G. Gordon, Jr.&amp;lt;/curator&amp;gt;
+   &amp;lt;curatorTitle&amp;gt;Ethnologue Editor&amp;lt;/curatorTitle&amp;gt;
+   &amp;lt;curatorEmail&amp;gt;mailto:editor_ethnologue@sil.org&amp;lt;/curatorEmail&amp;gt;
+   &amp;lt;institution&amp;gt;SIL International&amp;lt;/institution&amp;gt;
+   &amp;lt;institutionURL&amp;gt;http://www.sil.org&amp;lt;/institutionURL&amp;gt;
+   &amp;lt;shortLocation&amp;gt;Dallas, USA&amp;lt;/shortLocation&amp;gt;
+   &amp;lt;location&amp;gt;7500 W. Camp Wisdom Rd., Dallas, TX 75236, U.S.A.&amp;lt;/location&amp;gt;
+   &amp;lt;synopsis&amp;gt;The Ethnologue data provider gives a metadata record for every
+   language entry in the Web edition of the Ethnologue.  The latter provides
+   basic information about each of the 7,000+ modern language of the world
+   (both living and recently extinct).&amp;lt;/synopsis&amp;gt;
+   &amp;lt;access&amp;gt;Every resource described by the Ethnologue data provider is a
+   public Web page that may be accessed without restriction. Reuse of 
+   material on the site is subject to the Terms of Use that are
+   posted.&amp;lt;/access&amp;gt;
+&amp;lt;/olac-archive&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;As we see in the above example, the &lt;code&gt;olac-archive&lt;/code&gt; or OAI &lt;em&gt;repository&lt;/em&gt; is the Ethnologue. It is typed as an &lt;em&gt;institutional&lt;/em&gt; OLAC archive. However, is the Ethnologue actually a language archive? What language resource can you go to the archive and get? It seems to me to be more like a typological database about socio-linguistic topics. While it might be too late now to do anything about it, the OLAC schema could have used the XML element &lt;code&gt;olac-provider&lt;/code&gt; as a more neutral term.&lt;/p&gt;
+&lt;p&gt;The use of the term &amp;ldquo;archive&amp;rdquo; to mean all data providers to OLAC is &lt;em&gt;confusing&lt;/em&gt; because the language of academic discourse around language archives and OLAC data providers is not discrete. That is, the language does not provide distinct categories where categories would be helpful. The OLAC protocol distinguishes between organizations and personal data providers, but OLAC doesn&amp;rsquo;t make any further distinction. Research which uses OLAC records as a dataset should take the diversity of data providers into account as analyses present observations and claims—especially about the description of artifacts, or percentages of Dublin Core Element use.&lt;/p&gt;
+&lt;p&gt;Finally the claims that all data providers are &amp;ldquo;archives&amp;rdquo; is &lt;em&gt;inaccurate&lt;/em&gt;—or careless at best. In my assessment I find that there is a mix of provider types which does not neatly fit into the &lt;code&gt;personal&lt;/code&gt; / &lt;code&gt;institutional&lt;/code&gt; dichotomy. In part that is because the &lt;code&gt;personal&lt;/code&gt; / &lt;code&gt;institutional&lt;/code&gt; dichotomy describes the &lt;em&gt;OAI Data provider&lt;/em&gt;, not the &lt;em&gt;OAI repository&lt;/em&gt;. As I evaluate the diversity of OAI repositories I find the dimension of &lt;code&gt;personal&lt;/code&gt; / &lt;code&gt;institutional&lt;/code&gt; less useful than one which included the terms: &lt;em&gt;Archive, Repository, Museum, Gallery, Special Collection, Personal Portfolio, Lab or Department Portfolio, Project Portfolio, Typological Database, &lt;em&gt;and&lt;/em&gt; Bibliography&lt;/em&gt;. The following diagram puts these terms on a gradient of a data provider which is highly likely to have an advertised resource and be able to provide access to that resource to a provider which is likely not able to provide access to an advertised resource.&lt;/p&gt;
+
+
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-types-of-olac-data-providers&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/diversity-and-typology-across-olac-providers/Data_contributors_hu8da133b01ff086a7adb712d959fc9935_89197_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Types of OLAC Data Providers.&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/diversity-and-typology-across-olac-providers/Data_contributors_hu8da133b01ff086a7adb712d959fc9935_89197_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;Types of OLAC Data Providers.&#34; width=&#34;2318&#34; height=&#34;840&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;p&gt;Types of OLAC Data Providers.
+      
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: 
+Hugh Paterson III
+&lt;/span&gt;
+&lt;/p&gt;
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Introduction to the JOHD special collection “Language Documentation: Assessment and Recognition”</title>

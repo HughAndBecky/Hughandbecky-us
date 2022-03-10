@@ -5,12 +5,1354 @@
     <link>https://hughandbecky.us/Hugh-CV/content_types/text/</link>
       <atom:link href="https://hughandbecky.us/Hugh-CV/content_types/text/index.xml" rel="self" type="application/rss+xml" />
     <description>Text</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2022</copyright><lastBuildDate>Sun, 21 Mar 2021 01:41:38 -0700</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2022</copyright><lastBuildDate>Tue, 08 Mar 2022 14:35:45 +0100</lastBuildDate>
     <image>
       <url>https://hughandbecky.us/Hugh-CV/media/HughPaterson.jpg</url>
       <title>Text</title>
       <link>https://hughandbecky.us/Hugh-CV/content_types/text/</link>
     </image>
+    
+    <item>
+      <title>Diversity and typology across OLAC providers</title>
+      <link>https://hughandbecky.us/Hugh-CV/post/diversity-and-typology-across-olac-providers/</link>
+      <pubDate>Tue, 08 Mar 2022 14:35:45 +0100</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/post/diversity-and-typology-across-olac-providers/</guid>
+      <description>&lt;p&gt;Are all data providers to OLAC archives as some in the literature seem to imply, or are these implications an artifact of some other framing mechanism?&lt;/p&gt;
+&lt;p&gt;The 
+&lt;a href=&#34;http://www.language-archives.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Open Language Archives Community (OLAC)&lt;/a&gt; metadata profile is built on 
+&lt;a href=&#34;https://www.dublincore.org/specifications/dublin-core/dcmi-terms&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dublin Core&lt;/a&gt; and 
+&lt;a href=&#34;http://www.openarchives.org/OAI/openarchivesprotocol.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OAI&lt;/a&gt;. Essentially OLAC OAI feeds (to the OLAC aggregator) are modified (or &amp;ldquo;enhanced&amp;rdquo; using the XML attribute &lt;code&gt;xsi:type=&amp;quot; &amp;quot;&lt;/code&gt;) OAI-PMH feeds. The OAI protocol was originally developed to be used by repository software to communicate with other repositories—in an effort to make a network of repositories. The OAI protocol works well as designed. The OLAC implementation of OAI inherits some of the OAI provided terms and concepts. When OLAC was first created, the profile was originally assumed to be describing archived language resources, and archives were assumed to be repositories—at least in the OAI sense. Many, including recent publications talk about &amp;ldquo;archives&amp;rdquo; providing records to the OLAC aggregator. These claims and references are interesting, confusing, and inaccurate—though if the sense of archive, is really and OAI repository, then I seen the connection. However, that is not what most people think of when they hear &lt;em&gt;language archive&lt;/em&gt; or &lt;em&gt;archive&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;The framing of terms from the OAI context is laid out in the 
+&lt;a href=&#34;http://www.openarchives.org/OAI/openarchivesprotocol.html#Introduction&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;introduction to the OAI-PMH standard&lt;/a&gt;. The following definitions are given.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Data Providers&lt;/em&gt; administer systems that support the OAI-PMH as a means of exposing metadata; and&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Service Providers&lt;/em&gt; use metadata harvested via the OAI-PMH as a basis for building value-added services.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;A &lt;em&gt;repository&lt;/em&gt; is a network accessible server that can process the 6 OAI-PMH requests in the manner described in this document.&lt;/strong&gt; A repository is managed by a data provider to expose metadata to harvesters. To allow various repository configurations, the OAI-PMH distinguishes between three distinct entities related to the metadata made accessible by the OAI-PMH.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The distinction here is that the corporate entity implementing data sharing technology is the &lt;em&gt;Data Provider&lt;/em&gt;. While the server technology implementing the access is call the &lt;em&gt;repository&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;However, within the OLAC documentation and academic literature presenting OLAC further conceptualization of terms occurs.&lt;/p&gt;
+&lt;p&gt;The use of the term &amp;ldquo;archive&amp;rdquo; to mean all data providers to OLAC is  &lt;em&gt;interesting&lt;/em&gt; from a linguistic point of view because by calling &lt;em&gt;Data Providers&lt;/em&gt; (in the OAI sense) &amp;ldquo;archives&amp;rdquo; authors use the language of inclusion which maps well to the concepts of &amp;ldquo;open&amp;rdquo; and &amp;ldquo;community&amp;rdquo; which can be found in the OLAC name, but the language of inclusion here does not acknowledge the diversity of the kinds of data providers. While inclusion and an under representation of diversity are the impacts, there may be other factors as well. If we look at the OLAC documentation, the documentation in the examples and in the XML elements calls things &amp;ldquo;archives&amp;rdquo;. Consider the 
+&lt;a href=&#34;http://www.language-archives.org/OLAC/protocol.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OLAC Protocol&lt;/a&gt; which is an extension of the basic OAI-PMH protocol. Specifically, in 
+&lt;a href=&#34;http://www.language-archives.org/OLAC/protocol.html#OLAC%20archive%20description&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;section 3&lt;/a&gt; where OLAC data providers are required to return a specific element when the OAI-PMH verb &lt;code&gt;Identify&lt;/code&gt; is used. The title of the XML element is &lt;code&gt;olac-archive&lt;/code&gt;.  It has two possible attribute values &lt;code&gt;personal&lt;/code&gt; or &lt;code&gt;institutional&lt;/code&gt;. The example given is as follows:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;&amp;lt;olac-archive
+      xmlns=&amp;quot;http://www.language-archives.org/OLAC/1.0/&amp;quot;
+      xmlns:xsi=&amp;quot;http://www.w3.org/2001/XMLSchema-instance&amp;quot;
+      xsi:schemaLocation=&amp;quot;http://www.language-archives.org/OLAC/1.0/
+                 http://www.language-archives.org/OLAC/1.0/olac-archive.xsd&amp;quot;
+      type=&amp;quot;institutional&amp;quot;&amp;gt;
+   &amp;lt;archiveURL&amp;gt;http://www.ethnologue.com&amp;lt;/archiveURL&amp;gt;
+   &amp;lt;curator&amp;gt;Raymond G. Gordon, Jr.&amp;lt;/curator&amp;gt;
+   &amp;lt;curatorTitle&amp;gt;Ethnologue Editor&amp;lt;/curatorTitle&amp;gt;
+   &amp;lt;curatorEmail&amp;gt;mailto:editor_ethnologue@sil.org&amp;lt;/curatorEmail&amp;gt;
+   &amp;lt;institution&amp;gt;SIL International&amp;lt;/institution&amp;gt;
+   &amp;lt;institutionURL&amp;gt;http://www.sil.org&amp;lt;/institutionURL&amp;gt;
+   &amp;lt;shortLocation&amp;gt;Dallas, USA&amp;lt;/shortLocation&amp;gt;
+   &amp;lt;location&amp;gt;7500 W. Camp Wisdom Rd., Dallas, TX 75236, U.S.A.&amp;lt;/location&amp;gt;
+   &amp;lt;synopsis&amp;gt;The Ethnologue data provider gives a metadata record for every
+   language entry in the Web edition of the Ethnologue.  The latter provides
+   basic information about each of the 7,000+ modern language of the world
+   (both living and recently extinct).&amp;lt;/synopsis&amp;gt;
+   &amp;lt;access&amp;gt;Every resource described by the Ethnologue data provider is a
+   public Web page that may be accessed without restriction. Reuse of 
+   material on the site is subject to the Terms of Use that are
+   posted.&amp;lt;/access&amp;gt;
+&amp;lt;/olac-archive&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;As we see in the above example, the &lt;code&gt;olac-archive&lt;/code&gt; or OAI &lt;em&gt;repository&lt;/em&gt; is the Ethnologue. It is typed as an &lt;em&gt;institutional&lt;/em&gt; OLAC archive. However, is the Ethnologue actually a language archive? What language resource can you go to the archive and get? It seems to me to be more like a typological database about socio-linguistic topics. While it might be too late now to do anything about it, the OLAC schema could have used the XML element &lt;code&gt;olac-provider&lt;/code&gt; as a more neutral term.&lt;/p&gt;
+&lt;p&gt;The use of the term &amp;ldquo;archive&amp;rdquo; to mean all data providers to OLAC is &lt;em&gt;confusing&lt;/em&gt; because the language of academic discourse around language archives and OLAC data providers is not discrete. That is, the language does not provide distinct categories where categories would be helpful. The OLAC protocol distinguishes between organizations and personal data providers, but OLAC doesn&amp;rsquo;t make any further distinction. Research which uses OLAC records as a dataset should take the diversity of data providers into account as analyses present observations and claims—especially about the description of artifacts, or percentages of Dublin Core Element use.&lt;/p&gt;
+&lt;p&gt;Finally the claims that all data providers are &amp;ldquo;archives&amp;rdquo; is &lt;em&gt;inaccurate&lt;/em&gt;—or careless at best. In my assessment I find that there is a mix of provider types which does not neatly fit into the &lt;code&gt;personal&lt;/code&gt; / &lt;code&gt;institutional&lt;/code&gt; dichotomy. In part that is because the &lt;code&gt;personal&lt;/code&gt; / &lt;code&gt;institutional&lt;/code&gt; dichotomy describes the &lt;em&gt;OAI Data provider&lt;/em&gt;, not the &lt;em&gt;OAI repository&lt;/em&gt;. As I evaluate the diversity of OAI repositories I find the dimension of &lt;code&gt;personal&lt;/code&gt; / &lt;code&gt;institutional&lt;/code&gt; less useful than one which included the terms: &lt;em&gt;Archive, Repository, Museum, Gallery, Special Collection, Personal Portfolio, Lab or Department Portfolio, Project Portfolio, Typological Database, &lt;em&gt;and&lt;/em&gt; Bibliography&lt;/em&gt;. The following diagram puts these terms on a gradient of a data provider which is highly likely to have an advertised resource and be able to provide access to that resource to a provider which is likely not able to provide access to an advertised resource.&lt;/p&gt;
+
+
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-types-of-olac-data-providers&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/diversity-and-typology-across-olac-providers/Data_contributors_hu8da133b01ff086a7adb712d959fc9935_89197_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Types of OLAC Data Providers.&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/diversity-and-typology-across-olac-providers/Data_contributors_hu8da133b01ff086a7adb712d959fc9935_89197_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;Types of OLAC Data Providers.&#34; width=&#34;2318&#34; height=&#34;840&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;p&gt;Types of OLAC Data Providers.
+      
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: 
+Hugh Paterson III
+&lt;/span&gt;
+&lt;/p&gt;
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Describing Serials in Dublin Core</title>
+      <link>https://hughandbecky.us/Hugh-CV/post/describing-serials-in-dublin-core/</link>
+      <pubDate>Mon, 05 Apr 2021 14:35:45 +0100</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/post/describing-serials-in-dublin-core/</guid>
+      <description>&lt;p&gt;The 
+&lt;a href=&#34;http://www.language-archives.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Open Language Archives Community (OLAC)&lt;/a&gt; metadata profile is built on 
+&lt;a href=&#34;https://www.dublincore.org/specifications/dublin-core/dcmi-terms&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dublin Core&lt;/a&gt; and 
+&lt;a href=&#34;http://www.openarchives.org/OAI/openarchivesprotocol.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OAI&lt;/a&gt;. Essentially OLAC feeds (to the OLAC aggregator) are modified (or &amp;ldquo;enhanced&amp;rdquo;) OAI-PMH feeds. The profile was originally assumed to be describing archived language resources. However, there is a portion of the OLAC schema which allows the describer of a resource to indicate that the resource is a description of the resource rather than a language resource. This is useful for describing things like grammars and journal articles.&lt;/p&gt;
+&lt;p&gt;My question is: &lt;em&gt;How might journal articles be best described?&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;There are at least three data providers pushing journal articles to OLAC:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;The University of Hawaiʻi. pushes all of the journal &lt;em&gt;Language Documentation &amp;amp; Conservation&lt;/em&gt; to OLAC (but does not use ISO 639-3 codes in the records);&lt;/li&gt;
+&lt;li&gt;The SIL Language &amp;amp; Culture Archive has records for many journal articles published by SIL and others;&lt;/li&gt;
+&lt;li&gt;The GIAL/DIU library also has pushed records for journal articles or serials.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Records from these three entites can serve as a baseline for current practice. However, how should journal articles, or even whole journals be described in Dublin Core? To this end I have started looking at the literature discussing how journal articles are described in the library science journals. The following bibliography is a compliation of the works consulted so far.&lt;/p&gt;
+&lt;h3 id=&#34;bibliography&#34;&gt;Bibliography&lt;/h3&gt;
+
+
+
+
+
+
+
+
+
+
+
+&lt;section class=&#34;hugo-cite-bibliography&#34;&gt;
+  &lt;dl&gt;
+    
+
+      &lt;div id=&#34;aalberg_value_2013-1&#34;&gt;
+        &lt;dt&gt;
+          Aalberg&amp;#32;&amp;amp;&amp;#32;Žumer
+
+          
+          (2013)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Aalberg&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Trond&#34; /&gt;
+    T.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Žumer&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Maja&#34; /&gt;
+    M.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2013&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;The value of MARC data, or, challenges of frbrisation&lt;/span&gt;.&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;Journal of Documentation&lt;/span&gt;,&amp;#32;69(6)&lt;/i&gt;.&amp;#32;&lt;span itemprop=&#34;pagination&#34;&gt;851–872&lt;/span&gt;.
+  &lt;a href=&#34;https://doi.org/10.1108/JD-05-2012-0053&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://doi.org/10.1108/JD-05-2012-0053&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;apps_zetoc_2001&#34;&gt;
+        &lt;dt&gt;
+          Apps&amp;#32;&amp;amp;&amp;#32;MacIntyre
+
+          
+          (2001)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Apps&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Ann&#34; /&gt;
+    A.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;MacIntyre&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Ross&#34; /&gt;
+    R.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2001&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;zetoc: a Dublin Core Based Current Awareness Service&lt;/span&gt;.&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;DC-2001--Tokyo Proceedings&lt;/span&gt;&lt;/i&gt;.&amp;#32;Retrieved from&amp;#32;
+  &lt;a href=&#34;https://dcpapers.dublincore.org/pubs/article/view/663&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://dcpapers.dublincore.org/pubs/article/view/663&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;apps_zetoc_2002&#34;&gt;
+        &lt;dt&gt;
+          Apps
+
+          
+          (2002)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/WebPage&#34;
+      data-type=&#34;webpage&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Apps&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Ann&#34; /&gt;
+    A.&lt;/span&gt;(&lt;span itemprop=&#34;datePublished&#34;&gt;2002,&amp;#32;8/12&lt;/span&gt;).&amp;#32;Retrieved from&amp;#32;
+  &lt;a href=&#34;http://eprints.rclis.org/12183/1/appsmacecdl2000_full.html&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;http://eprints.rclis.org/12183/1/appsmacecdl2000_full.html&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;beall_dublin_2014&#34;&gt;
+        &lt;dt&gt;
+          Beall
+
+          
+          (2014)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Beall&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Jeffrey&#34; /&gt;
+    J.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2014&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;Dublin Core is still dead&lt;/span&gt;.&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;Library Hi Tech News&lt;/span&gt;,&amp;#32;31(9)&lt;/i&gt;.&amp;#32;&lt;span itemprop=&#34;pagination&#34;&gt;11–13&lt;/span&gt;.
+  &lt;a href=&#34;https://doi.org/10.1108/LHTN-07-2014-0058&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://doi.org/10.1108/LHTN-07-2014-0058&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;borbinha_dublin_2000&#34;&gt;
+        &lt;dt&gt;
+          Apps&amp;#32;&amp;amp;&amp;#32;MacIntyre
+
+          
+          (2000)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Chapter&#34;
+      data-type=&#34;chapter&#34;&gt;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Apps&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Ann&#34; /&gt;
+    A.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;MacIntyre&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Ross&#34; /&gt;
+    R.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2000&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;Dublin Core Metadata for Electronic Journals&lt;/span&gt;.&amp;#32;In&amp;#32;&lt;span itemprop=&#34;editor&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Borbinha&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;José&#34; /&gt;
+    J.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;editor&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Baker&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Thomas&#34; /&gt;
+    T.&lt;/span&gt; (Eds.),&amp;#32;&lt;span itemprop=&#34;about&#34;&gt;
+    &lt;i&gt;Proceedings of the 4th European Conference on Research and Advanced Technology for Digital Libraries.  ECDL 2000.&lt;/i&gt;&lt;/span&gt;.&amp;#32;(&lt;span&gt;pp.&amp;#32;93–102&lt;/span&gt;).
+  &lt;meta itemprop=&#34;contentLocation&#34;
+        value=&#34;Berlin, Heidelberg&#34;&gt;&amp;#32;&lt;span itemprop=&#34;publisher&#34;
+               itemtype=&#34;http://schema.org/Organization&#34;
+               itemscope=&#34;&#34;&gt;
+      &lt;span itemprop=&#34;name&#34;&gt;Springer Berlin Heidelberg&lt;/span&gt;&lt;/span&gt;.
+  &lt;a href=&#34;https://doi.org/10.1007/3-540-45268-0_9&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://doi.org/10.1007/3-540-45268-0_9&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;caplan_dublin_2003&#34;&gt;
+        &lt;dt&gt;
+          Caplan
+
+          
+          (2003)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Chapter&#34;
+      data-type=&#34;chapter&#34;&gt;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Caplan&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Priscilla&#34; /&gt;
+    P.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2003&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;The Dublin Core&lt;/span&gt;.&amp;#32;In&lt;span itemprop=&#34;about&#34;&gt;
+    &lt;i&gt;Metadata Fundamentals for All Librarians&lt;/i&gt;&lt;/span&gt;.&amp;#32;(&lt;span&gt;pp.&amp;#32;76–87&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;publisher&#34;
+               itemtype=&#34;http://schema.org/Organization&#34;
+               itemscope=&#34;&#34;&gt;
+      &lt;span itemprop=&#34;name&#34;&gt;The American Library Association&lt;/span&gt;&lt;/span&gt;.&amp;#32;Retrieved from&amp;#32;
+  &lt;a href=&#34;http://www.ala.org/aboutala/sites/ala.org.aboutala/files/content/publishing/editions/samplers/caplan_MF.pdf&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;http://www.ala.org/aboutala/sites/ala.org.aboutala/files/content/publishing/editions/samplers/caplan_MF.pdf&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;caplan_reference_1999&#34;&gt;
+        &lt;dt&gt;
+          Caplan&amp;#32;&amp;amp;&amp;#32;Arms
+
+          
+          (1999)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Caplan&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Priscilla&#34; /&gt;
+    P.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Arms&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;William Y.&#34; /&gt;
+    W.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;1999&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;Reference Linking for Journal Articles&lt;/span&gt;.&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;D-Lib Magazine&lt;/span&gt;,&amp;#32;5(7/8)&lt;/i&gt;.
+  &lt;a href=&#34;https://doi.org/10.1045/july99-caplan&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://doi.org/10.1045/july99-caplan&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;cheby_open_2016&#34;&gt;
+        &lt;dt&gt;
+          Cheby
+
+          
+          (2016)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Cheby&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Lisa E&#34; /&gt;
+    L.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2016&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;Open Access Metadata for Journals in Directory of Open Access Journals: Who, How, and What Scheme?&lt;/span&gt;.&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;School of Information Student Research Journal&lt;/span&gt;,&amp;#32;6(1)&lt;/i&gt;.
+  &lt;a href=&#34;https://doi.org/10.31979/2575-2499.060104&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://doi.org/10.31979/2575-2499.060104&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;estivill_use_2005&#34;&gt;
+        &lt;dt&gt;
+          Estivill,&amp;#32;
+          Abadal,&amp;#32;
+          Franganillo,&amp;#32;
+          Gascón&amp;#32;&amp;amp;&amp;#32;Gairín
+
+          
+          (2005)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Estivill&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Assumpció&#34; /&gt;
+    A.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Abadal&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Ernest&#34; /&gt;
+    E.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Franganillo&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Jorge&#34; /&gt;
+    J.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Gascón&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Jesús&#34; /&gt;
+    J.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Gairín&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;J. M. Rodríguez&#34; /&gt;
+    J.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2005&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;Use of Dublin Core metadata for describing and retrieving digital journals&lt;/span&gt;.&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;International Conference on Dublin Core and Metadata Applications&lt;/span&gt;,&amp;#32;0(0)&lt;/i&gt;.&amp;#32;&lt;span itemprop=&#34;pagination&#34;&gt;137–140&lt;/span&gt;.&amp;#32;Retrieved from&amp;#32;
+  &lt;a href=&#34;https://dcpapers.dublincore.org/pubs/article/view/812&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://dcpapers.dublincore.org/pubs/article/view/812&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;estivill_use_2005-1&#34;&gt;
+        &lt;dt&gt;
+          Estivill,&amp;#32;
+          Abadal,&amp;#32;
+          Franganillo,&amp;#32;
+          Gascón&amp;#32;&amp;amp;&amp;#32;Gairín
+
+          
+          (2005)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Estivill&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Assumpció&#34; /&gt;
+    A.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Abadal&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Ernest&#34; /&gt;
+    E.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Franganillo&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Jorge&#34; /&gt;
+    J.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Gascón&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Jesús&#34; /&gt;
+    J.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Gairín&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Josep Manuel Rodríguez&#34; /&gt;
+    J.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2005&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;Use of Dublin Core metadata for describing and retrieving digital journals&lt;/span&gt;.&amp;#32;Retrieved from&amp;#32;
+  &lt;a href=&#34;https://dcpapers.dublincore.org/pubs/article/view/812&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://dcpapers.dublincore.org/pubs/article/view/812&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;jones_dublin_2001&#34;&gt;
+        &lt;dt&gt;
+          Jones
+
+          
+          (2001)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Jones&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Wayne&#34; /&gt;
+    W.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2001&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;Dublin Core and Serials&lt;/span&gt;.&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;Journal of Internet Cataloging&lt;/span&gt;,&amp;#32;4(1-2)&lt;/i&gt;.&amp;#32;&lt;span itemprop=&#34;pagination&#34;&gt;143–148&lt;/span&gt;.
+  &lt;a href=&#34;https://doi.org/10.1300/J141v04n01_13&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://doi.org/10.1300/J141v04n01_13&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;keenan_why_2010&#34;&gt;
+        &lt;dt&gt;
+          Keenan
+
+          
+          (2010)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Keenan&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Teressa M.&#34; /&gt;
+    T.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2010&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;Why Purchase When You Can Repurpose? Using Crosswalks to Enhance User Access&lt;/span&gt;.&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;The Code4Lib Journal&lt;/span&gt;(11)&lt;/i&gt;.&amp;#32;Retrieved from&amp;#32;
+  &lt;a href=&#34;https://journal.code4lib.org/articles/3604&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://journal.code4lib.org/articles/3604&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;kunze_dublin_nodate&#34;&gt;
+        &lt;dt&gt;
+          Kunze,&amp;#32;
+          Lagoze&amp;#32;&amp;amp;&amp;#32;Weibel
+
+          
+          (n.d.)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/WebPage&#34;
+      data-type=&#34;webpage&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Kunze&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;John A.&#34; /&gt;
+    J.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Lagoze&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Carl&#34; /&gt;
+    C.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Weibel&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Stuart L.&#34; /&gt;
+    S.&lt;/span&gt;
+  (s.d.).&amp;#32;Retrieved from&amp;#32;
+  &lt;a href=&#34;https://tools.ietf.org/html/draft-kunze-dc-01&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://tools.ietf.org/html/draft-kunze-dc-01&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;martin_descriptive_1997&#34;&gt;
+        &lt;dt&gt;
+          Martin&amp;#32;&amp;amp;&amp;#32;Bide
+
+          
+          (1997)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Book&#34;
+      data-type=&#34;book&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Martin&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;David&#34; /&gt;
+    D.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Bide&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Mark&#34; /&gt;
+    M.&lt;/span&gt;&amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;1997&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;
+    &lt;i&gt;Descriptive Standards for Serials Metadata and Standards for Terms of Availability Metadata&lt;/i&gt;&lt;/span&gt;.
+  &amp;#32;
+  &lt;span itemprop=&#34;publisher&#34;
+             itemtype=&#34;http://schema.org/Organization&#34;
+             itemscope&gt;
+    &lt;span itemprop=&#34;name&#34;&gt;Book Industry Communication&lt;/span&gt;&lt;/span&gt;.&amp;#32;Retrieved from&amp;#32;
+  &lt;a href=&#34;http://www.ukoln.ac.uk/services/elib/papers/supporting/pdf/serials-metadata-toa.pdf&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;http://www.ukoln.ac.uk/services/elib/papers/supporting/pdf/serials-metadata-toa.pdf&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;nasig_representing_nodate&#34;&gt;
+        &lt;dt&gt;
+          NASIG
+
+          
+          (n.d.)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/CreativeWork&#34;
+      data-type=&#34;speech&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;NASIG&lt;/span&gt;&lt;/span&gt;
+  &amp;#32;
+  (n.d.).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;
+    &lt;i&gt;Representing Serials Metadata in Institutional Repositories&lt;/i&gt;&lt;/span&gt;.
+  &amp;#32;Retrieved from&amp;#32;
+  &lt;a href=&#34;https://www.slideshare.net/NASIG/representing-serials-metadata-in-institutional-repositories&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://www.slideshare.net/NASIG/representing-serials-metadata-in-institutional-repositories&lt;/a&gt;&lt;/span&gt;
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;nelson_frbrizing_2010&#34;&gt;
+        &lt;dt&gt;
+          Nelson&amp;#32;&amp;amp;&amp;#32;Cleary
+
+          
+          (2010)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Nelson&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Jeremy&#34; /&gt;
+    J.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Cleary&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Alan&#34; /&gt;
+    A.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2010&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;FRBRizing an E-Library : Migrating from Dublin Core to FRBR and MODS&lt;/span&gt;.&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;The Code4Lib Journal&lt;/span&gt;(12)&lt;/i&gt;.&amp;#32;Retrieved from&amp;#32;
+  &lt;a href=&#34;https://journal.code4lib.org/articles/4357&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://journal.code4lib.org/articles/4357&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;noauthor_dcmi_nodate-2&#34;&gt;
+        &lt;dt&gt;
+          
+          (N.A.)
+
+          
+          (n.d.)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/WebPage&#34;
+      data-type=&#34;webpage&#34;&gt;
+  (N.A.).
+  (s.d.).&amp;#32;Retrieved from&amp;#32;
+  &lt;a href=&#34;https://www.dublincore.org/specifications/dublin-core/dc-citation-guidelines/&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://www.dublincore.org/specifications/dublin-core/dc-citation-guidelines/&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;noauthor_dcmi_nodate-7&#34;&gt;
+        &lt;dt&gt;
+          
+          (N.A.)
+
+          
+          (n.d.)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/WebPage&#34;
+      data-type=&#34;webpage&#34;&gt;
+  (N.A.).
+  (s.d.).&amp;#32;Retrieved from&amp;#32;
+  &lt;a href=&#34;https://www.dublincore.org/specifications/dublin-core/dc-citation-guidelines/&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://www.dublincore.org/specifications/dublin-core/dc-citation-guidelines/&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;noauthor_directory_nodate&#34;&gt;
+        &lt;dt&gt;
+          
+          (N.A.)
+
+          
+          (n.d.)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/WebPage&#34;
+      data-type=&#34;webpage&#34;&gt;
+  (N.A.).
+  (s.d.).&amp;#32;Retrieved from&amp;#32;
+  &lt;a href=&#34;https://doaj.org&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://doaj.org&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;noauthor_dublin_nodate&#34;&gt;
+        &lt;dt&gt;
+          
+          (N.A.)
+
+          
+          (n.d.)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/WebPage&#34;
+      data-type=&#34;webpage&#34;&gt;
+  (N.A.).
+  (s.d.).&amp;#32;Retrieved from&amp;#32;
+  &lt;a href=&#34;https://www.libraries.psu.edu/tas/jca/dublin/dcreport.html&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://www.libraries.psu.edu/tas/jca/dublin/dcreport.html&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;noauthor_openurl_nodate&#34;&gt;
+        &lt;dt&gt;
+          
+          (N.A.)
+
+          
+          (n.d.)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/WebPage&#34;
+      data-type=&#34;webpage&#34;&gt;
+  (N.A.).
+  (s.d.).&amp;#32;Retrieved from&amp;#32;
+  &lt;a href=&#34;https://helpful.knobs-dials.com/index.php/OpenURL_notes&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://helpful.knobs-dials.com/index.php/OpenURL_notes&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;noauthor_serial_nodate&#34;&gt;
+        &lt;dt&gt;
+          
+          (N.A.)
+
+          
+          (n.d.)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/WebPage&#34;
+      data-type=&#34;webpage&#34;&gt;
+  (N.A.).
+  (s.d.).&amp;#32;Retrieved from&amp;#32;
+  &lt;a href=&#34;https://cadatpitt.github.io/documentation/data-dictionary/serial-collections.html&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://cadatpitt.github.io/documentation/data-dictionary/serial-collections.html&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;noauthor_superjournal_2002&#34;&gt;
+        &lt;dt&gt;
+          
+          (N.A.)
+
+          
+          (2002)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/WebPage&#34;
+      data-type=&#34;webpage&#34;&gt;
+  (N.A.).(&lt;span itemprop=&#34;datePublished&#34;&gt;2002,&amp;#32;8/20&lt;/span&gt;).&amp;#32;Retrieved from&amp;#32;
+  &lt;a href=&#34;http://www.superjournal.ac.uk/sj/sjmc141.htm&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;http://www.superjournal.ac.uk/sj/sjmc141.htm&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;penalvo_qualified_2010&#34;&gt;
+        &lt;dt&gt;
+          Peñalvo,&amp;#32;
+          Vega,&amp;#32;
+          Fernández,&amp;#32;
+          Peña,&amp;#32;
+          Aso&amp;#32;&amp;amp;&amp;#32;Díaz
+
+          
+          (2010)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Peñalvo&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Francisco José García&#34; /&gt;
+    F.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Vega&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;José Antonio Merlo&#34; /&gt;
+    J.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Fernández&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Tránsito Ferreras&#34; /&gt;
+    T.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Peña&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Abel Casaus&#34; /&gt;
+    A.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Aso&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Lorenzo Albás&#34; /&gt;
+    L.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Díaz&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Ma Luisa Atienza&#34; /&gt;
+    M.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2010&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;Qualified Dublin Core Metadata Best Practices for GREDOS&lt;/span&gt;.&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;Journal of Library Metadata&lt;/span&gt;,&amp;#32;10(1)&lt;/i&gt;.&amp;#32;&lt;span itemprop=&#34;pagination&#34;&gt;13–36&lt;/span&gt;.
+  &lt;a href=&#34;https://doi.org/10.1080/19386380903546976&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://doi.org/10.1080/19386380903546976&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;powell_metadata_2001&#34;&gt;
+        &lt;dt&gt;
+          Powell&amp;#32;&amp;amp;&amp;#32;Apps
+
+          
+          (2001)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Powell&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Andy&#34; /&gt;
+    A.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Apps&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Ann&#34; /&gt;
+    A.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2001&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;Metadata (1): Encoding OpenURLs in DC Metadata&lt;/span&gt;.&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;Ariadne&lt;/span&gt;(27)&lt;/i&gt;.&amp;#32;Retrieved from&amp;#32;
+  &lt;a href=&#34;http://www.ariadne.ac.uk/issue/27/metadata/&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;http://www.ariadne.ac.uk/issue/27/metadata/&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;taylor_bibliographic_2010&#34;&gt;
+        &lt;dt&gt;
+          Taylor
+
+          
+          (2010)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/BlogPosting&#34;
+      data-type=&#34;blog&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Taylor&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Mike&#34; /&gt;
+    M.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2010&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;Bibliographic data, part 1: MARC and its vile progeny&lt;/span&gt;.&amp;nbsp;&lt;span itemprop=&#34;isPartOf&#34;&gt;The Reinvigorated Programmer&lt;/span&gt;.&amp;#32;Retrieved from&amp;#32;
+  &lt;a href=&#34;https://reprog.wordpress.com/2010/09/02/bibliographic-data-part-1-marc-and-its-vile-progeny-2/&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://reprog.wordpress.com/2010/09/02/bibliographic-data-part-1-marc-and-its-vile-progeny-2/&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;taylor_bibliographic_2010-1&#34;&gt;
+        &lt;dt&gt;
+          Taylor
+
+          
+          (2010)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/BlogPosting&#34;
+      data-type=&#34;blog&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Taylor&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Mike&#34; /&gt;
+    M.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2010&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;Bibliographic data, part 2: Dublin Core’s dirty little secret&lt;/span&gt;.&amp;nbsp;&lt;span itemprop=&#34;isPartOf&#34;&gt;The Reinvigorated Programmer&lt;/span&gt;.&amp;#32;Retrieved from&amp;#32;
+  &lt;a href=&#34;https://reprog.wordpress.com/2010/09/03/bibliographic-data-part-2-dublin-cores-dirty-little-secret/&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://reprog.wordpress.com/2010/09/03/bibliographic-data-part-2-dublin-cores-dirty-little-secret/&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;taylor_bibliographic_2010-2&#34;&gt;
+        &lt;dt&gt;
+          Taylor
+
+          
+          (2010)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/BlogPosting&#34;
+      data-type=&#34;blog&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Taylor&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Mike&#34; /&gt;
+    M.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2010&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;Bibliographic data, part 3: Has anyone, anywhere, ever read the whole of the RDA specification?&lt;/span&gt;.&amp;nbsp;&lt;span itemprop=&#34;isPartOf&#34;&gt;The Reinvigorated Programmer&lt;/span&gt;.&amp;#32;Retrieved from&amp;#32;
+  &lt;a href=&#34;https://reprog.wordpress.com/2010/09/05/bibliographic-data-part-3-has-anyone-anywhere-ever-read-the-whole-of-the-rda-specification/&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://reprog.wordpress.com/2010/09/05/bibliographic-data-part-3-has-anyone-anywhere-ever-read-the-whole-of-the-rda-specification/&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+  &lt;/dl&gt;
+&lt;/section&gt;
+
+
+
+</description>
+    </item>
     
     <item>
       <title>Presenting Oral Texts with Transcriptions Online</title>
