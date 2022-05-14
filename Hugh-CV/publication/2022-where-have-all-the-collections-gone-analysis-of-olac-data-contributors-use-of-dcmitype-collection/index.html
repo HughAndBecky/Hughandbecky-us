@@ -1,0 +1,4862 @@
+<!DOCTYPE html><html lang="en-us" >
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Source Themes Academic 4.8.0"><meta name="author" content="Hugh Paterson III">
+
+  
+    
+  <meta name="description" content="Language materials, as commonly conceptualized by academics, are resources which specifically exhibit or provide evidence of a naturally spoken language. The modern area of academic practice known as language documentation has its roots in anthropological linguistics but maintains a strong adherence to ideals which call for the archiving of source materials. The purpose for archiving is to benefit the many stakeholders involved in language development activities. Language archives, hosting language resources, have by and large adopted Dublin Core as a metadata standard along with the additional metadata terms of the Open Language Archive Community (OLAC) application profile as described in Bird and Simons (2001, 2003). This study is a first look at how the DCMIType &#39;Collection&#39; is used across aggregated records from language archives. This study finds that current practices of arrangement and description at language resource preservation institutions participating in OLAC do not currently follow archival best practices in arrangement and description as described in frameworks like Describing Archives: A Content Standard including honoring principles like respect des fonds. This has multiple impacts including consequences in web-based navigation and discoverability.">
+
+  <link rel="alternate" hreflang="en-us" href="https://hughandbecky.us/Hugh-CV/publication/2022-where-have-all-the-collections-gone-analysis-of-olac-data-contributors-use-of-dcmitype-collection/">
+
+  
+
+
+
+
+
+
+
+  
+
+
+
+
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <meta name="theme-color" content="#456587">
+  
+
+  
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.9.0/css/academicons.min.css" integrity="sha512-W4yqoT1+8NLkinBLBZko+dFB2ZbHsYLDdr50VElllRcNt2Q4/GSs6u71UHKxB7S6JEMCp5Ve4xjh3eGQl/HRvg==" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css" integrity="sha256-FMvZuGapsJLjouA6k7Eo2lusoAX9i0ShlWFG6qt7SLc=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous">
+
+    
+    
+    
+      
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/leaflet.min.css" integrity="sha512-1xoFisiGdy9nvho8EgXuXvnpR5GAMSjFwp40gSRE3NwdUdIMIKuPa7bqoUhLD0O/5tPNhteAsE5XyyMi5reQVA==" crossorigin="anonymous">
+    
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/lazysizes/5.2.2/lazysizes.min.js" integrity="sha512-TmDwFLhg3UA4ZG0Eb4MIyT1O1Mb+Oww5kFG0uHqXsdbyZz9DcvYQhKpGgNkamAI6h2lGGZq2X8ftOJvF/XjTUg==" crossorigin="anonymous" async></script>
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+        
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+  
+  
+    
+      
+      
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:400,700%7CRoboto+Mono%7CCharis+SIL&display=swap">
+    
+  
+
+  
+  
+  
+  
+  <link rel="stylesheet" href="/Hugh-CV/css/academic.css">
+
+  
+
+
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-31042070-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-31042070-2', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
+  
+
+
+  
+  
+
+  
+
+  <link rel="manifest" href="/Hugh-CV/index.webmanifest">
+  <link rel="icon" type="image/png" href="/Hugh-CV/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_32x32_fill_lanczos_center_2.png">
+  <link rel="apple-touch-icon" type="image/png" href="/Hugh-CV/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_192x192_fill_lanczos_center_2.png">
+
+  <link rel="canonical" href="https://hughandbecky.us/Hugh-CV/publication/2022-where-have-all-the-collections-gone-analysis-of-olac-data-contributors-use-of-dcmitype-collection/">
+
+  
+  
+  
+  
+  
+  
+  
+    
+  
+  
+  <meta property="twitter:card" content="summary_large_image">
+  
+  <meta property="twitter:site" content="@thejourneyler">
+  <meta property="twitter:creator" content="@thejourneyler">
+  
+  <meta property="og:site_name" content="Hugh&#39;s Curriculum Vitae">
+  <meta property="og:url" content="https://hughandbecky.us/Hugh-CV/publication/2022-where-have-all-the-collections-gone-analysis-of-olac-data-contributors-use-of-dcmitype-collection/">
+  <meta property="og:title" content="Where Have All the Collections Gone?: Analysis of OLAC Data Contributors&#39; use of DCMIType &#39;Collection&#39; | Hugh&#39;s Curriculum Vitae">
+  <meta property="og:description" content="Language materials, as commonly conceptualized by academics, are resources which specifically exhibit or provide evidence of a naturally spoken language. The modern area of academic practice known as language documentation has its roots in anthropological linguistics but maintains a strong adherence to ideals which call for the archiving of source materials. The purpose for archiving is to benefit the many stakeholders involved in language development activities. Language archives, hosting language resources, have by and large adopted Dublin Core as a metadata standard along with the additional metadata terms of the Open Language Archive Community (OLAC) application profile as described in Bird and Simons (2001, 2003). This study is a first look at how the DCMIType &#39;Collection&#39; is used across aggregated records from language archives. This study finds that current practices of arrangement and description at language resource preservation institutions participating in OLAC do not currently follow archival best practices in arrangement and description as described in frameworks like Describing Archives: A Content Standard including honoring principles like respect des fonds. This has multiple impacts including consequences in web-based navigation and discoverability.">
+  
+  <meta property="og:image" content="https://hughandbecky.us/Hugh-CV/media/HughPaterson.jpg">
+  <meta property="twitter:image" content="https://hughandbecky.us/Hugh-CV/media/HughPaterson.jpg">
+  
+  <meta property="og:locale" content="en-us">
+  <meta property="article:published_time" content="2020-12-19T17:00:12-07:00"><meta property="article:modified_time" content="2022-05-12T17:00:12-07:00">
+
+
+    
+
+
+
+
+
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://hughandbecky.us/Hugh-CV/publication/2022-where-have-all-the-collections-gone-analysis-of-olac-data-contributors-use-of-dcmitype-collection/"
+  },
+  "headline": "Where Have All the Collections Gone?: Analysis of OLAC Data Contributors' use of DCMIType 'Collection'",
+  
+  "datePublished": "2020-12-19T17:00:12-07:00",
+  "dateModified": "2022-05-12T17:00:12-07:00",
+  
+  "author": {
+    "@type": "Person",
+    "name": "Hugh Paterson III"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Hugh's Curriculum Vitae",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://hughandbecky.us/Hugh-CV/images/logo.svg"
+    }
+  },
+  "description": "Language materials, as commonly conceptualized by academics, are resources which specifically exhibit or provide evidence of a naturally spoken language. The modern area of academic practice known as language documentation has its roots in anthropological linguistics but maintains a strong adherence to ideals which call for the archiving of source materials. The purpose for archiving is to benefit the many stakeholders involved in language development activities. Language archives, hosting language resources, have by and large adopted Dublin Core as a metadata standard along with the additional metadata terms of the Open Language Archive Community (OLAC) application profile as described in Bird and Simons (2001, 2003). This study is a first look at how the DCMIType 'Collection' is used across aggregated records from language archives. This study finds that current practices of arrangement and description at language resource preservation institutions participating in OLAC do not currently follow archival best practices in arrangement and description as described in frameworks like Describing Archives: A Content Standard including honoring principles like respect des fonds. This has multiple impacts including consequences in web-based navigation and discoverability."
+}
+</script>
+
+  
+
+  
+
+
+
+
+
+
+<link rel="stylesheet" type="text/css" href="/Hugh-CV/css/custom.css" />
+
+<link rel="stylesheet" type="text/css" href="/Hugh-CV/css/hugo-cite.css" />
+
+
+<meta name="pinterest" content="nopin">
+
+
+<meta name="keywords" content="Archive, OLAC, Metadata, DCMIType, Collection">
+
+
+
+
+<link rel="schema.dc" href="http://purl.org/dc/elements/1.1/">
+
+<link rel="schema.DCTERMS" href="http://purl.org/dc/terms/">
+
+
+
+
+<meta name="DC.Title" content="Where Have All the Collections Gone?: Analysis of OLAC Data Contributors&amp;rsquo; use of DCMIType &amp;lsquo;Collection&amp;rsquo;">
+<meta name="citation_title" content="Where Have All the Collections Gone?: Analysis of OLAC Data Contributors&amp;rsquo; use of DCMIType &amp;lsquo;Collection&amp;rsquo;">
+<meta name="eprints.title" content="Where Have All the Collections Gone?: Analysis of OLAC Data Contributors&amp;rsquo; use of DCMIType &amp;lsquo;Collection&amp;rsquo;">
+<meta name="dcterms.title" content="Where Have All the Collections Gone?: Analysis of OLAC Data Contributors&amp;rsquo; use of DCMIType &amp;lsquo;Collection&amp;rsquo;">
+<meta name="DC.Creator" content="admin">
+<meta name="citation_author" content="admin">
+<meta name="DC.Subject" content="Archive">
+<meta name="DC.Subject" content="OLAC">
+<meta name="DC.Subject" content="Metadata">
+<meta name="DC.Subject" content="DCMIType">
+<meta name="DC.Subject" content="Collection">
+<meta name="DC.Description" content="Language materials, as commonly conceptualized by academics, are resources which specifically exhibit or provide evidence of a naturally spoken language. The modern area of academic practice known as language documentation has its roots in anthropological linguistics but maintains a strong adherence to ideals which call for the archiving of source materials. The purpose for archiving is to benefit the many stakeholders involved in language development activities. Language archives, hosting language resources, have by and large adopted Dublin Core as a metadata standard along with the additional metadata terms of the Open Language Archive Community (OLAC) application profile as described in Bird and Simons (2001, 2003). This study is a first look at how the DCMIType &amp;lsquo;Collection&amp;rsquo; is used across aggregated records from language archives. This study finds that current practices of arrangement and description at language resource preservation institutions participating in OLAC do not currently follow archival best practices in arrangement and description as described in frameworks like Describing Archives: A Content Standard including honoring principles like respect des fonds. This has multiple impacts including consequences in web-based navigation and discoverability.">
+<meta name="dcterms.abstract" content="Language materials, as commonly conceptualized by academics, are resources which specifically exhibit or provide evidence of a naturally spoken language. The modern area of academic practice known as language documentation has its roots in anthropological linguistics but maintains a strong adherence to ideals which call for the archiving of source materials. The purpose for archiving is to benefit the many stakeholders involved in language development activities. Language archives, hosting language resources, have by and large adopted Dublin Core as a metadata standard along with the additional metadata terms of the Open Language Archive Community (OLAC) application profile as described in Bird and Simons (2001, 2003). This study is a first look at how the DCMIType &amp;lsquo;Collection&amp;rsquo; is used across aggregated records from language archives. This study finds that current practices of arrangement and description at language resource preservation institutions participating in OLAC do not currently follow archival best practices in arrangement and description as described in frameworks like Describing Archives: A Content Standard including honoring principles like respect des fonds. This has multiple impacts including consequences in web-based navigation and discoverability.">
+<meta name="eprints.abstract" content="Language materials, as commonly conceptualized by academics, are resources which specifically exhibit or provide evidence of a naturally spoken language. The modern area of academic practice known as language documentation has its roots in anthropological linguistics but maintains a strong adherence to ideals which call for the archiving of source materials. The purpose for archiving is to benefit the many stakeholders involved in language development activities. Language archives, hosting language resources, have by and large adopted Dublin Core as a metadata standard along with the additional metadata terms of the Open Language Archive Community (OLAC) application profile as described in Bird and Simons (2001, 2003). This study is a first look at how the DCMIType &amp;lsquo;Collection&amp;rsquo; is used across aggregated records from language archives. This study finds that current practices of arrangement and description at language resource preservation institutions participating in OLAC do not currently follow archival best practices in arrangement and description as described in frameworks like Describing Archives: A Content Standard including honoring principles like respect des fonds. This has multiple impacts including consequences in web-based navigation and discoverability.">
+
+
+
+<meta name="dcterms.bibliographicCitation" content="Paterson III, Hugh J. (2022) “Analysis of OLAC Data Contributors&amp;rsquo; use of DCMIType &amp;lsquo;Collection&amp;rsquo;” In the proeedings of the  15th Annual Society of American Archivists Research Forum. 21 July, 2021.">
+<meta name="eprints.citation" content="Paterson III, Hugh J. (2022) “Analysis of OLAC Data Contributors&amp;rsquo; use of DCMIType &amp;lsquo;Collection&amp;rsquo;” In the proeedings of the  15th Annual Society of American Archivists Research Forum. 21 July, 2021.">
+<meta name="dcterms.issued" content="2022-05-12">
+<meta name="DC.Date" content="2022-05-12">
+<meta name="citation_publication_date" content="2022">
+
+
+<meta name="DC.Rights" content="Copyright 2022">
+<meta name="citation_online_date" content="2020/12/19">
+
+<meta name="citation_keywords" content="Archive, OLAC, Metadata, DCMIType, Collection">
+
+
+
+
+
+
+
+
+
+<meta name="eprints.type" content="conferenceitem">
+<meta name="citation_issn" content="">
+<meta name="dcterms.extent" content="">
+<meta name="citation_num_pages" content="">
+<meta name="citation_publisher" content="">
+<meta name="citation_firstpage" content="">
+<meta name="citation_lastpage" content="">
+<meta name="citation_arxiv_id" content="">
+<meta name="eprints.ispublished" content="pub">
+<meta name="eprints.pagerange" content="–">
+<meta name="citation_conference_title" content="">
+
+<meta name=" DC.relation.ispartof " content="">
+<meta name="DC.citation.spage" content="">
+<meta name="DC.citation.epage" content="">
+
+<meta name="DC.Type" content="Text">
+
+<meta name="DC.Format" content="text/pdf">
+<meta name="eprints.ispublished" content="pub">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<title>Where Have All the Collections Gone?: Analysis of OLAC Data Contributors&#39; use of DCMIType &#39;Collection&#39; | Hugh&#39;s Curriculum Vitae</title>
+
+</head>
+
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class=" ">
+
+  
+  
+  
+  
+    <script>const isSiteThemeDark = false;</script>
+  
+  
+  <script src="/Hugh-CV/js/load-theme.js"></script>
+
+  <aside class="search-results" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control">
+        
+      </div>
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+  <div class="container">
+
+    
+    <div class="d-none d-lg-inline-flex">
+      <a class="navbar-brand" href="/Hugh-CV/"><img src="/Hugh-CV/images/logo.svg" alt="Hugh&#39;s Curriculum Vitae"></a>
+    </div>
+    
+
+    
+    <button type="button" class="navbar-toggler" data-toggle="collapse"
+            data-target="#navbar-content" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+    <span><i class="fas fa-bars"></i></span>
+    </button>
+    
+
+    
+    <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+      <a class="navbar-brand" href="/Hugh-CV/"><img src="/Hugh-CV/images/logo.svg" alt="Hugh&#39;s Curriculum Vitae"></a>
+    </div>
+    
+
+    
+    
+    <div class="navbar-collapse main-menu-item collapse justify-content-end" id="navbar-content">
+
+      
+      <ul class="navbar-nav d-md-inline-flex">
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/Hugh-CV/#about"><span>Home</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/Hugh-CV/#featured"><span>Publications</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/Hugh-CV/#talks"><span>Talks</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/Hugh-CV/#projects"><span>Projects</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/Hugh-CV/#teaching"><span>Teaching</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/Hugh-CV/#experience"><span>Experience</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/Hugh-CV/#posts"><span>Notes</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/Hugh-CV/#contact"><span>Contact</span></a>
+        </li>
+
+        
+        
+
+      
+
+        
+      </ul>
+    </div>
+
+    <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+      
+      <li class="nav-item">
+        <a class="nav-link js-search" href="#" aria-label="Search"><i class="fas fa-search" aria-hidden="true"></i></a>
+      </li>
+      
+
+      
+      
+
+      
+
+    </ul>
+
+  </div>
+</nav>
+
+
+
+  <div class="pub">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+  
+  
+<div class="article-container pt-3">
+  <h1>Where Have All the Collections Gone?: Analysis of OLAC Data Contributors&#39; use of DCMIType &#39;Collection&#39;</h1>
+
+  
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+  
+  <span ><a href="/Hugh-CV/author/hugh-paterson-iii/">Hugh Paterson III</a></span>
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    May 2022
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+
+  
+  
+
+</div>
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1" href="https://www2.archivists.org/am2021/research-forum-2021/agenda#peer" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+  
+  <a class="btn btn-outline-primary my-1 mr-1" href="/Hugh-CV/project/2012-archive-usability/">
+    Project
+  </a>
+  
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+
+  
+</div>
+
+
+
+  <div class="article-container">
+
+    
+    <h3>Abstract</h3>
+    <p class="pub-abstract">Language materials, as commonly conceptualized by academics, are resources which specifically exhibit or provide evidence of a naturally spoken language. The modern area of academic practice known as language documentation has its roots in anthropological linguistics but maintains a strong adherence to ideals which call for the archiving of source materials. The purpose for archiving is to benefit the many stakeholders involved in language development activities. Language archives, hosting language resources, have by and large adopted Dublin Core as a metadata standard along with the additional metadata terms of the Open Language Archive Community (OLAC) application profile as described in Bird and Simons (2001, 2003). This study is a first look at how the DCMIType &lsquo;Collection&rsquo; is used across aggregated records from language archives. This study finds that current practices of arrangement and description at language resource preservation institutions participating in OLAC do not currently follow archival best practices in arrangement and description as described in frameworks like Describing Archives: A Content Standard including honoring principles like respect des fonds. This has multiple impacts including consequences in web-based navigation and discoverability.</p>
+    
+    
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Title</div>
+          <div class="col-12 col-md-9">Where Have All the Collections Gone?: Analysis of OLAC Data Contributors&rsquo; use of DCMIType &lsquo;Collection&rsquo;</div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+    
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Type</div>
+          <div class="col-12 col-md-9">
+            
+            
+            <a href="/Hugh-CV/publication/#1">
+              Conference paper
+            </a>
+            
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Publication</div>
+          <div class="col-12 col-md-9">In <em>Proceedings of the 15th Annual Society of American Archivists Research Forum</em>.</div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+    
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Date</div>
+          <div class="col-12 col-md-9">May 2022</div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Links</div>
+          <div class="col-12 col-md-9"> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1" href="https://www2.archivists.org/am2021/research-forum-2021/agenda#peer" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+  
+  <a class="btn btn-outline-primary my-1 mr-1" href="/Hugh-CV/project/2012-archive-usability/">
+    Project
+  </a>
+  
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+</div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+
+
+
+    
+
+    <div class="d-md-none space-below"></div>
+
+
+
+
+<div class="space-below"></div>
+
+  <h3>Citable as</h3>
+  <p class="pub-abstract" itemprop="text">Paterson III, Hugh J. (2022) “Analysis of OLAC Data Contributors&rsquo; use of DCMIType &lsquo;Collection&rsquo;” In the proeedings of the  15th Annual Society of American Archivists Research Forum. 21 July, 2021.</p>
+  
+
+       
+    <div class="space-below"></div>
+
+    <div class="article-style"><h3 id="paper-bibliography">Paper Bibliography</h3>
+
+
+
+
+
+
+
+
+
+
+
+<section class="hugo-cite-bibliography">
+  <dl>
+    
+
+      <div id="http//zotero.org/groups/2527038/items/mcax9uj7">
+        <dt>
+          Hale,&#32;
+          Krauss,&#32;
+          Watahomigie,&#32;
+          Yamamoto,&#32;
+          Craig,&#32;
+          Jeanne&#32;&amp;&#32;England
+
+          
+          (1992)</dt>
+
+        <dd>
+          
+
+
+
+
+
+
+
+
+
+
+
+
+<span itemscope
+      itemtype="https://schema.org/Article"
+      data-type="article"><span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Hale</span>,&#32;
+    <meta itemprop="givenName" content="Ken" />
+    K.</span>,&#32;
+  <span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Krauss</span>,&#32;
+    <meta itemprop="givenName" content="Michael" />
+    M.</span>,&#32;
+  <span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Watahomigie</span>,&#32;
+    <meta itemprop="givenName" content="Lucille J." />
+    L.</span>,&#32;
+  <span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Yamamoto</span>,&#32;
+    <meta itemprop="givenName" content="Akira Y." />
+    A.</span>,&#32;
+  <span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Craig</span>,&#32;
+    <meta itemprop="givenName" content="Colette" />
+    C.</span>,&#32;
+  <span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Jeanne</span>,&#32;
+    <meta itemprop="givenName" content="LaVerne Masayesva" />
+    L.</span>&#32;&amp;&#32;<span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">England</span>,&#32;
+    <meta itemprop="givenName" content="Nora C." />
+    N.</span>
+  &#32;
+    (<span itemprop="datePublished">1992</span>).
+  &#32;<span itemprop="name">Endangered Languages</span>.<i>
+    <span itemprop="about">Language</span>,&#32;68(1)</i>.&#32;<span itemprop="pagination">1–42</span>.
+  <a href="https://doi.org/10.2307/416368"
+     itemprop="identifier"
+     itemtype="https://schema.org/URL">https://doi.org/10.2307/416368</a></span>
+
+
+
+
+</dd>
+
+      </div>
+
+      <div id="http//zotero.org/groups/2527038/items/we7bxtl8">
+        <dt>
+          Bird&#32;&amp;&#32;Simons
+
+          
+          (2001)</dt>
+
+        <dd>
+          
+
+
+
+
+
+
+
+
+
+
+
+
+<span itemscope
+      itemtype="https://schema.org/Chapter"
+      data-type="chapter">
+  <span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Bird</span>,&#32;
+    <meta itemprop="givenName" content="Steven" />
+    S.</span>&#32;&amp;&#32;<span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Simons</span>,&#32;
+    <meta itemprop="givenName" content="Gary F." />
+    G.</span>
+  &#32;
+    (<span itemprop="datePublished">2001</span>).
+  &#32;<span itemprop="name">The OLAC metadata set and controlled vocabularies</span>.&#32;In&#32;<span itemprop="editor" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">DeClerck</span>,&#32;
+    <meta itemprop="givenName" content="Thierry" />
+    T.</span>,&#32;
+  <span itemprop="editor" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Krauwer</span>,&#32;
+    <meta itemprop="givenName" content="Steven" />
+    S.</span>&#32;&amp;&#32;<span itemprop="editor" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Rosner</span>,&#32;
+    <meta itemprop="givenName" content="Mike" />
+    M.</span> (Eds.),&#32;<span itemprop="about">
+    <i>Proceedings of ACL/EACL Workshop on Sharing Tools and Resources for Research and Education</i></span>.&#32;(<span>pp.&#32;7–18</span>).
+  <meta itemprop="contentLocation"
+        value="Université de Toulouse, France">&#32;<span itemprop="publisher"
+               itemtype="http://schema.org/Organization"
+               itemscope="">
+      <span itemprop="name">EACL-ACL; elsnet</span></span>.&#32;Retrieved from&#32;
+  <a href="https://www.aclweb.org/anthology/W01-1506"
+     itemprop="identifier"
+     itemtype="https://schema.org/URL">https://www.aclweb.org/anthology/W01-1506</a></span>
+
+
+
+
+</dd>
+
+      </div>
+
+      <div id="http//zotero.org/groups/2527038/items/2rvrgg2b">
+        <dt>
+          Nordmoe
+
+          
+          (2018)</dt>
+
+        <dd>
+          
+
+
+
+
+
+
+
+
+
+
+
+
+<span itemscope
+      itemtype="https://schema.org/CreativeWork"
+      data-type="speech"><span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Nordmoe</span>,&#32;
+    <meta itemprop="givenName" content="Jeremy" />
+    J.</span>
+  &#32;
+    (<span itemprop="datePublished">2018</span>).
+  &#32;<span itemprop="name">
+    <i>SIL International Language and Culture Archives</i></span>.
+  <meta itemprop="contentLocation"
+        content="Philadelphia, PA">&#32;Retrieved from&#32;
+  <a href="https://www.ldc.upenn.edu/sites/www.ldc.upenn.edu/files/nordmoe.pdf"
+     itemprop="identifier"
+     itemtype="https://schema.org/URL">https://www.ldc.upenn.edu/sites/www.ldc.upenn.edu/files/nordmoe.pdf</a></span>
+
+</dd>
+
+      </div>
+
+      <div id="http//zotero.org/groups/2527038/items/7mad62hm">
+        <dt>
+          Woodbury
+
+          
+          (2014)</dt>
+
+        <dd>
+          
+
+
+
+
+
+
+
+
+
+
+
+
+<span itemscope
+      itemtype="https://schema.org/Chapter"
+      data-type="chapter">
+  <span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Woodbury</span>,&#32;
+    <meta itemprop="givenName" content="Anthony C" />
+    A.</span>
+  &#32;
+    (<span itemprop="datePublished">2014</span>).
+  &#32;<span itemprop="name">Archives and audiences: Toward making endangered language documentations people can read, use, understand, and admire</span>.&#32;In&#32;<span itemprop="editor" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Nathan</span>,&#32;
+    <meta itemprop="givenName" content="David" />
+    D.</span>&#32;&amp;&#32;<span itemprop="editor" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Austin</span>,&#32;
+    <meta itemprop="givenName" content="Peter K." />
+    P.</span> (Eds.),&#32;<span itemprop="about">
+    <i>Special Issue on Language Documentation and Archiving</i></span>.&#32;(<span>pp.&#32;19–36</span>).
+  <meta itemprop="contentLocation"
+        value="London">&#32;<span itemprop="publisher"
+               itemtype="http://schema.org/Organization"
+               itemscope="">
+      <span itemprop="name">SOAS</span></span>.&#32;Retrieved from&#32;
+  <a href="http://www.elpublishing.org/PID/135"
+     itemprop="identifier"
+     itemtype="https://schema.org/URL">http://www.elpublishing.org/PID/135</a></span>
+
+
+
+
+</dd>
+
+      </div>
+
+      <div id="http//zotero.org/groups/2527038/items/ch8el3f9">
+        <dt>
+          Holton
+
+          
+          (2012)</dt>
+
+        <dd>
+          
+
+
+
+
+
+
+
+
+
+
+
+
+<span itemscope
+      itemtype="https://schema.org/Chapter"
+      data-type="chapter">
+  <span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Holton</span>,&#32;
+    <meta itemprop="givenName" content="Gary" />
+    G.</span>
+  &#32;
+    (<span itemprop="datePublished">2012</span>).
+  &#32;<span itemprop="name">Language archives: They’re not just for linguists any more</span>.&#32;In&#32;<span itemprop="editor" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Seifart</span>,&#32;
+    <meta itemprop="givenName" content="Frank" />
+    F.</span>,&#32;
+  <span itemprop="editor" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Haig</span>,&#32;
+    <meta itemprop="givenName" content="Geoffrey" />
+    G.</span>,&#32;
+  <span itemprop="editor" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Himmelmann</span>,&#32;
+    <meta itemprop="givenName" content="Nikolaus P." />
+    N.</span>,&#32;
+  <span itemprop="editor" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Jung</span>,&#32;
+    <meta itemprop="givenName" content="Dagmar" />
+    D.</span>,&#32;
+  <span itemprop="editor" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Margetts</span>,&#32;
+    <meta itemprop="givenName" content="Anna" />
+    A.</span>&#32;&amp;&#32;<span itemprop="editor" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Trilsbeek</span>,&#32;
+    <meta itemprop="givenName" content="Paul" />
+    P.</span> (Eds.),&#32;<span itemprop="about">
+    <i>Potentials of Language Documentation: Methods, Analyses, and Utilization</i></span>.&#32;(<span>pp.&#32;111–117</span>).
+  <meta itemprop="contentLocation"
+        value="Honolulu, Hawai&#39;i">&#32;<span itemprop="publisher"
+               itemtype="http://schema.org/Organization"
+               itemscope="">
+      <span itemprop="name">University of Hawai&#39;i Press</span></span>.&#32;Retrieved from&#32;
+  <a href="http://scholarspace.manoa.hawaii.edu/handle/10125/4523"
+     itemprop="identifier"
+     itemtype="https://schema.org/URL">http://scholarspace.manoa.hawaii.edu/handle/10125/4523</a></span>
+
+
+
+
+</dd>
+
+      </div>
+
+      <div id="http//zotero.org/groups/2527038/items/tg27x7hw">
+        <dt>
+          Žumer,&#32;
+          Zeng&#32;&amp;&#32;Salaba
+
+          
+          (2010)</dt>
+
+        <dd>
+          
+
+
+
+
+
+
+
+
+
+
+
+
+<span itemscope
+      itemtype="https://schema.org/CreativeWork"
+      data-type="paper-conference"><span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Žumer</span>,&#32;
+    <meta itemprop="givenName" content="Maja" />
+    M.</span>,&#32;
+  <span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Zeng</span>,&#32;
+    <meta itemprop="givenName" content="Marcia Lei" />
+    M.</span>&#32;&amp;&#32;<span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Salaba</span>,&#32;
+    <meta itemprop="givenName" content="Athena" />
+    A.</span>
+  &#32;
+    (<span itemprop="datePublished">2010</span>).
+  &#32;<span itemprop="name">
+    <i>FRBR: A Generalized Approach to Dublin Core Application Profiles</i></span>.
+  <meta itemprop="contentLocation"
+        content="Pittsburgh, Pennsylvania">&#32;
+  <span itemprop="publisher" itemtype="http://schema.org/Organization" itemscope="">
+    <span itemprop="name">Dublin Core Metadata Initiative</span></span>.&#32;Retrieved from&#32;
+  <a href="https://dcpapers.dublincore.org/pubs/article/view/1024"
+     itemprop="identifier"
+     itemtype="https://schema.org/URL">https://dcpapers.dublincore.org/pubs/article/view/1024</a></span>
+
+</dd>
+
+      </div>
+
+      <div id="http//zotero.org/groups/2527038/items/ffw6xr38">
+        <dt>
+          Wijesundara&#32;&amp;&#32;Sugimoto
+
+          
+          (2018)</dt>
+
+        <dd>
+          
+
+
+
+
+
+
+
+
+
+
+
+
+<span itemscope
+      itemtype="https://schema.org/Article"
+      data-type="article"><span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Wijesundara</span>,&#32;
+    <meta itemprop="givenName" content="Chathurangani" />
+    C.</span>&#32;&amp;&#32;<span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Sugimoto</span>,&#32;
+    <meta itemprop="givenName" content="Shigeo" />
+    S.</span>
+  &#32;
+    (<span itemprop="datePublished">2018</span>).
+  &#32;<span itemprop="name">Metadata model for organizing digital archives of tangible and intangible cultural heritage, and linking cultural heritage information in digital space</span>.<i>
+    <span itemprop="about">Libres</span>,&#32;28(2)</i>.&#32;<span itemprop="pagination">58–80</span>.</span>
+
+
+
+
+</dd>
+
+      </div>
+
+      <div id="http//zotero.org/groups/2527038/items/ll8nig75">
+        <dt>
+          Tillett
+
+          
+          (2004)</dt>
+
+        <dd>
+          
+
+
+
+
+
+
+
+
+
+
+
+
+<span itemscope
+      itemtype="https://schema.org/Book"
+      data-type="book"><span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Tillett</span>,&#32;
+    <meta itemprop="givenName" content="Barbara" />
+    B.</span>&#32;
+    (<span itemprop="datePublished">2004</span>).
+  &#32;<span itemprop="name">
+    <i>What is FRBR? — A Conceptual Model for the Bibliographic Universe</i></span>.
+  <meta itemprop="locationCreated"
+        value="Washington, D.C.">&#32;
+  <span itemprop="publisher"
+             itemtype="http://schema.org/Organization"
+             itemscope>
+    <span itemprop="name">Library of Congress Cataloging Distribution Service</span></span>.&#32;Retrieved from&#32;
+  <a href="https://www.loc.gov/cds/downloads/FRBR.PDF"
+     itemprop="identifier"
+     itemtype="https://schema.org/URL">https://www.loc.gov/cds/downloads/FRBR.PDF</a></span>
+
+
+
+
+</dd>
+
+      </div>
+
+      <div id="http//zotero.org/groups/2527038/items/ajk9hyuw">
+        <dt>
+          Kurtz
+
+          
+          (2010)</dt>
+
+        <dd>
+          
+
+
+
+
+
+
+
+
+
+
+
+
+<span itemscope
+      itemtype="https://schema.org/Article"
+      data-type="article"><span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Kurtz</span>,&#32;
+    <meta itemprop="givenName" content="Mary" />
+    M.</span>
+  &#32;
+    (<span itemprop="datePublished">2010</span>).
+  &#32;<span itemprop="name">Dublin Core, DSpace, and a Brief Analysis of Three University Repositories</span>.<i>
+    <span itemprop="about">Information Technology and Libraries</span>,&#32;29(1)</i>.&#32;<span itemprop="pagination">40–46</span>.
+  <a href="https://doi.org/10.6017/ital.v29i1.3157"
+     itemprop="identifier"
+     itemtype="https://schema.org/URL">https://doi.org/10.6017/ital.v29i1.3157</a></span>
+
+
+
+
+</dd>
+
+      </div>
+
+      <div id="http//zotero.org/groups/2527038/items/tgwrpwwq">
+        <dt>
+          Brown
+
+          
+          (1998)</dt>
+
+        <dd>
+          
+
+
+
+
+
+
+
+
+
+
+
+
+<span itemscope
+      itemtype="https://schema.org/Article"
+      data-type="article"><span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Brown</span>,&#32;
+    <meta itemprop="givenName" content="Michael F." />
+    M.</span>
+  &#32;
+    (<span itemprop="datePublished">1998</span>).
+  &#32;<span itemprop="name">Can Culture Be Copyrighted?</span>.<i>
+    <span itemprop="about">Current Anthropology</span>,&#32;39(2)</i>.&#32;<span itemprop="pagination">193–222</span>.
+  <a href="https://doi.org/10.1086/204721"
+     itemprop="identifier"
+     itemtype="https://schema.org/URL">https://doi.org/10.1086/204721</a></span>
+
+
+
+
+</dd>
+
+      </div>
+
+      <div id="http//zotero.org/groups/2527038/items/m2r62bxw">
+        <dt>
+          Seyfeddinipur,&#32;
+          Ameka,&#32;
+          Bolton,&#32;
+          Blumtritt,&#32;
+          Carpenter,&#32;
+          Cruz,&#32;
+          Drude,&#32;
+          Epps,&#32;
+          Ferreira,&#32;
+          Galucio,&#32;
+          Hellwig,&#32;
+          Hinte,&#32;
+          Holton,&#32;
+          Jung,&#32;
+          Buddeberg,&#32;
+          Krifka,&#32;
+          Kung,&#32;
+          Monroig,&#32;
+          Neba,&#32;
+          Nordhoff,&#32;
+          Pakendorf,&#32;
+          Prince,&#32;
+          Rau,&#32;
+          Rice,&#32;
+          Riessler,&#32;
+          Szoelloesi Brenig,&#32;
+          Thieberger,&#32;
+          Trilsbeek,&#32;
+          Voort&#32;&amp;&#32;Woodbury
+
+          
+          (2019)</dt>
+
+        <dd>
+          
+
+
+
+
+
+
+
+
+
+
+
+
+<span itemscope
+      itemtype="https://schema.org/Article"
+      data-type="article"><span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Seyfeddinipur</span>,&#32;
+    <meta itemprop="givenName" content="Mandana" />
+    M.</span>,&#32;
+  <span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Ameka</span>,&#32;
+    <meta itemprop="givenName" content="Felix" />
+    F.</span>,&#32;
+  <span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Bolton</span>,&#32;
+    <meta itemprop="givenName" content="Lissant" />
+    L.</span>,&#32;
+  <span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Blumtritt</span>,&#32;
+    <meta itemprop="givenName" content="Jonathan" />
+    J.</span>,&#32;
+  <span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Carpenter</span>,&#32;
+    <meta itemprop="givenName" content="Brian" />
+    B.</span>,&#32;
+  <span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Cruz</span>,&#32;
+    <meta itemprop="givenName" content="Hilaria" />
+    H.</span>,&#32;
+  <span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Drude</span>,&#32;
+    <meta itemprop="givenName" content="Sebastian" />
+    S.</span>,&#32;
+  <span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Epps</span>,&#32;
+    <meta itemprop="givenName" content="Patience L." />
+    P.</span>,&#32;
+  <span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Ferreira</span>,&#32;
+    <meta itemprop="givenName" content="Vera" />
+    V.</span>,&#32;
+  <span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Galucio</span>,&#32;
+    <meta itemprop="givenName" content="Ana Vilacy" />
+    A.</span>,&#32;
+  <span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Hellwig</span>,&#32;
+    <meta itemprop="givenName" content="Brigit" />
+    B.</span>,&#32;
+  <span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Hinte</span>,&#32;
+    <meta itemprop="givenName" content="Oliver" />
+    O.</span>,&#32;
+  <span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Holton</span>,&#32;
+    <meta itemprop="givenName" content="Gary" />
+    G.</span>,&#32;
+  <span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Jung</span>,&#32;
+    <meta itemprop="givenName" content="Dagmar" />
+    D.</span>,&#32;
+  <span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Buddeberg</span>,&#32;
+    <meta itemprop="givenName" content="Irmgarda Kasinskaite" />
+    I.</span>,&#32;
+  <span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Krifka</span>,&#32;
+    <meta itemprop="givenName" content="Manfred" />
+    M.</span>,&#32;
+  <span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Kung</span>,&#32;
+    <meta itemprop="givenName" content="Susan" />
+    S.</span>,&#32;
+  <span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Monroig</span>,&#32;
+    <meta itemprop="givenName" content="Miyuki" />
+    M.</span>,&#32;
+  <span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Neba</span>,&#32;
+    <meta itemprop="givenName" content="Ayu&#39;nwi Ngwabe" />
+    A.</span>,&#32;
+  <span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Nordhoff</span>,&#32;
+    <meta itemprop="givenName" content="Sebastian" />
+    S.</span>,&#32;
+  <span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Pakendorf</span>,&#32;
+    <meta itemprop="givenName" content="Brigitte" />
+    B.</span>,&#32;
+  <span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Prince</span>,&#32;
+    <meta itemprop="givenName" content="Kilu" />
+    K.</span>,&#32;
+  <span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Rau</span>,&#32;
+    <meta itemprop="givenName" content="Felix" />
+    F.</span>,&#32;
+  <span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Rice</span>,&#32;
+    <meta itemprop="givenName" content="Keren" />
+    K.</span>,&#32;
+  <span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Riessler</span>,&#32;
+    <meta itemprop="givenName" content="Michael" />
+    M.</span>,&#32;
+  <span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Szoelloesi Brenig</span>,&#32;
+    <meta itemprop="givenName" content="Vera" />
+    V.</span>,&#32;
+  <span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Thieberger</span>,&#32;
+    <meta itemprop="givenName" content="Nick" />
+    N.</span>,&#32;
+  <span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Trilsbeek</span>,&#32;
+    <meta itemprop="givenName" content="Paul" />
+    P.</span>,&#32;
+  <span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Voort</span>,&#32;
+    <meta itemprop="givenName" content="Hein" />
+    H.</span>&#32;&amp;&#32;<span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Woodbury</span>,&#32;
+    <meta itemprop="givenName" content="Tony" />
+    T.</span>
+  &#32;
+    (<span itemprop="datePublished">2019</span>).
+  &#32;<span itemprop="name">Public access to research data in language documentation: Challenges and possible strategies</span>.<i>
+    <span itemprop="about">Language Documentation &amp; Conservation</span>,&#32;13</i>.&#32;<span itemprop="pagination">545–563</span>.&#32;Retrieved from&#32;
+  <a href="http://scholarspace.manoa.hawaii.edu/handle/10125/24901"
+     itemprop="identifier"
+     itemtype="https://schema.org/URL">http://scholarspace.manoa.hawaii.edu/handle/10125/24901</a></span>
+
+
+
+
+</dd>
+
+      </div>
+
+      <div id="http//zotero.org/groups/2527038/items/tifs7n3s">
+        <dt>
+          Patrick
+
+          
+          (2008)</dt>
+
+        <dd>
+          
+
+
+
+
+
+
+
+
+
+
+
+
+<span itemscope
+      itemtype="https://schema.org/Chapter"
+      data-type="chapter">
+  <span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Patrick</span>,&#32;
+    <meta itemprop="givenName" content="Peter L." />
+    P.</span>
+  &#32;
+    (<span itemprop="datePublished">2008</span>).
+  &#32;<span itemprop="name">The Speech Community</span>.&#32;In&#32;<span itemprop="editor" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Chambers</span>,&#32;
+    <meta itemprop="givenName" content="J. K." />
+    J.</span>,&#32;
+  <span itemprop="editor" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Trudgill</span>,&#32;
+    <meta itemprop="givenName" content="Peter" />
+    P.</span>&#32;&amp;&#32;<span itemprop="editor" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Schilling-Estes</span>,&#32;
+    <meta itemprop="givenName" content="Natalie" />
+    N.</span> (Eds.),&#32;<span itemprop="about">
+    <i>The Handbook of Language Variation and Change</i></span>.&#32;(<span>pp.&#32;573–597</span>).
+  <meta itemprop="contentLocation"
+        value="Malden, MA">&#32;<span itemprop="publisher"
+               itemtype="http://schema.org/Organization"
+               itemscope="">
+      <span itemprop="name">Blackwell Publishing Ltd</span></span>.</span>
+
+
+
+
+</dd>
+
+      </div>
+
+      <div id="http//zotero.org/groups/2527038/items/vaqclu2c">
+        <dt>
+          
+
+          
+          (2013)</dt>
+
+        <dd>
+          
+
+
+
+
+
+
+
+
+
+
+
+
+<span itemscope
+      itemtype="https://schema.org/Book"
+      data-type="book"><span itemprop="author" itemscope itemtype="https://schema.org/Person"></span>&#32;
+    (<span itemprop="datePublished">2013</span>).
+  &#32;<span itemprop="name">
+    <i>Describing archives: a content standard</i></span> (<span>2nd</span>).
+  <meta itemprop="locationCreated"
+        value="Chicago, Illinois">&#32;
+  <span itemprop="publisher"
+             itemtype="http://schema.org/Organization"
+             itemscope>
+    <span itemprop="name">Society of American Archivists</span></span>.&#32;Retrieved from&#32;
+  <a href="http://files.archivists.org/pubs/DACS2E-2013_v0315.pdf"
+     itemprop="identifier"
+     itemtype="https://schema.org/URL">http://files.archivists.org/pubs/DACS2E-2013_v0315.pdf</a></span>
+
+
+
+
+</dd>
+
+      </div>
+
+      <div id="http//zotero.org/groups/2527038/items/idkc38nh">
+        <dt>
+          Palmer,&#32;
+          Zavalina&#32;&amp;&#32;Fenlon
+
+          
+          (2010)</dt>
+
+        <dd>
+          
+
+
+
+
+
+
+
+
+
+
+
+
+<span itemscope
+      itemtype="https://schema.org/Article"
+      data-type="article"><span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Palmer</span>,&#32;
+    <meta itemprop="givenName" content="Carole L." />
+    C.</span>,&#32;
+  <span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Zavalina</span>,&#32;
+    <meta itemprop="givenName" content="Oksana L." />
+    O.</span>&#32;&amp;&#32;<span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Fenlon</span>,&#32;
+    <meta itemprop="givenName" content="Katrina" />
+    K.</span>
+  &#32;
+    (<span itemprop="datePublished">2010</span>).
+  &#32;<span itemprop="name">Beyond size and search: Building contextual mass in digital aggregations for scholarly use</span>.<i>
+    <span itemprop="about">Proceedings of the American Society for Information Science and Technology</span>,&#32;47(1)</i>.&#32;<span itemprop="pagination">1–10</span>.
+  <a href="https://doi.org/10.1002/meet.14504701213"
+     itemprop="identifier"
+     itemtype="https://schema.org/URL">https://doi.org/10.1002/meet.14504701213</a></span>
+
+
+
+
+</dd>
+
+      </div>
+
+      <div id="http//zotero.org/groups/2527038/items/h5f7mspq">
+        <dt>
+          Wickett,&#32;
+          Isaac,&#32;
+          Doerr,&#32;
+          Fenlon,&#32;
+          Meghini&#32;&amp;&#32;Palmer
+
+          
+          (2014)</dt>
+
+        <dd>
+          
+
+
+
+
+
+
+
+
+
+
+
+
+<span itemscope
+      itemtype="https://schema.org/Article"
+      data-type="article"><span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Wickett</span>,&#32;
+    <meta itemprop="givenName" content="Karen M." />
+    K.</span>,&#32;
+  <span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Isaac</span>,&#32;
+    <meta itemprop="givenName" content="Antoine" />
+    A.</span>,&#32;
+  <span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Doerr</span>,&#32;
+    <meta itemprop="givenName" content="Martin" />
+    M.</span>,&#32;
+  <span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Fenlon</span>,&#32;
+    <meta itemprop="givenName" content="Katrina" />
+    K.</span>,&#32;
+  <span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Meghini</span>,&#32;
+    <meta itemprop="givenName" content="Carlo" />
+    C.</span>&#32;&amp;&#32;<span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Palmer</span>,&#32;
+    <meta itemprop="givenName" content="Carole" />
+    C.</span>
+  &#32;
+    (<span itemprop="datePublished">2014</span>).
+  &#32;<span itemprop="name">Representing Cultural Collections in Digital Aggregation and Exchange Environments</span>.<i>
+    <span itemprop="about">D-Lib Magazine</span>,&#32;20(5/6)</i>.
+  <a href="https://doi.org/10.1045/may2014-wickett"
+     itemprop="identifier"
+     itemtype="https://schema.org/URL">https://doi.org/10.1045/may2014-wickett</a></span>
+
+
+
+
+</dd>
+
+      </div>
+
+      <div id="http//zotero.org/groups/2527038/items/6fkueqva">
+        <dt>
+          Riva,&#32;
+          Le Bœuf&#32;&amp;&#32;Žumer
+
+          
+          (2017)</dt>
+
+        <dd>
+          
+
+
+
+
+
+
+
+
+
+
+
+
+<span itemscope
+      itemtype="https://schema.org/Book"
+      data-type="book"><span itemprop="editor" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Riva</span>,&#32;
+    <meta itemprop="givenName" content="Pat" />
+    P.</span>,&#32;
+  <span itemprop="editor" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Le Bœuf</span>,&#32;
+    <meta itemprop="givenName" content="Patrick" />
+    P.</span>&#32;&amp;&#32;<span itemprop="editor" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Žumer</span>,&#32;
+    <meta itemprop="givenName" content="Maja" />
+    M.</span>&#32;
+    (<span itemprop="datePublished">2017</span>).
+  &#32;<span itemprop="name">
+    <i>IFLA Library Reference Model A Conceptual Model for Bibliographic Information</i></span> (<span>December 2017</span>).
+  <meta itemprop="locationCreated"
+        value="Den Haag, Netherlands">&#32;
+  <span itemprop="publisher"
+             itemtype="http://schema.org/Organization"
+             itemscope>
+    <span itemprop="name">International Federation of Library Associations and Institutions (IFLA)</span></span>.&#32;Retrieved from&#32;
+  <a href="https://www.ifla.org/publications/node/11412"
+     itemprop="identifier"
+     itemtype="https://schema.org/URL">https://www.ifla.org/publications/node/11412</a></span>
+
+
+
+
+</dd>
+
+      </div>
+
+      <div id="http//zotero.org/groups/2527038/items/j6czrkua">
+        <dt>
+          Nathan
+
+          
+          (2013)</dt>
+
+        <dd>
+          
+
+
+
+
+
+
+
+
+
+
+
+
+<span itemscope
+      itemtype="https://schema.org/Chapter"
+      data-type="chapter">
+  <span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Nathan</span>,&#32;
+    <meta itemprop="givenName" content="David" />
+    D.</span>
+  &#32;
+    (<span itemprop="datePublished">2013</span>).
+  &#32;<span itemprop="name">Access and Accessibility at ELAR, a Social Networking Archive for Endangered Languages Documentation</span>.&#32;In&#32;<span itemprop="editor" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Turin</span>,&#32;
+    <meta itemprop="givenName" content="Mark" />
+    M.</span>,&#32;
+  <span itemprop="editor" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Wheeler</span>,&#32;
+    <meta itemprop="givenName" content="Claire" />
+    C.</span>&#32;&amp;&#32;<span itemprop="editor" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Wilkinson</span>,&#32;
+    <meta itemprop="givenName" content="Eleanor" />
+    E.</span> (Eds.),&#32;<span itemprop="about">
+    <i>Oral Literature in the Digital Age</i></span>.&#32;(<span>pp.&#32;21–41</span>).
+  <meta itemprop="contentLocation"
+        value="Cambridge, England">&#32;<span itemprop="publisher"
+               itemtype="http://schema.org/Organization"
+               itemscope="">
+      <span itemprop="name">Open Book Publishers</span></span>.</span>
+
+
+
+
+</dd>
+
+      </div>
+
+      <div id="http//zotero.org/groups/2527038/items/yevyt7s2">
+        <dt>
+          Munro&#32;&amp;&#32;Nathan
+
+          
+          (2005)</dt>
+
+        <dd>
+          
+
+
+
+
+
+
+
+
+
+
+
+
+<span itemscope
+      itemtype="https://schema.org/CreativeWork"
+      data-type="speech"><span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Munro</span>,&#32;
+    <meta itemprop="givenName" content="Robert" />
+    R.</span>&#32;&amp;&#32;<span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Nathan</span>,&#32;
+    <meta itemprop="givenName" content="David" />
+    D.</span>
+  &#32;
+    (<span itemprop="datePublished">2005</span>).
+  &#32;<span itemprop="name">
+    <i>Introducing the ELAR information system architecture</i></span>.
+  <meta itemprop="contentLocation"
+        content="University of Texas at Austin 21-22 November">&#32;Retrieved from&#32;
+  <a href="http://www.robertmunro.com/research/munro05elar.pdf"
+     itemprop="identifier"
+     itemtype="https://schema.org/URL">http://www.robertmunro.com/research/munro05elar.pdf</a></span>
+
+</dd>
+
+      </div>
+
+      <div id="http//zotero.org/groups/2527038/items/26sb49g5">
+        <dt>
+          Barwick
+
+          
+          (2003)</dt>
+
+        <dd>
+          
+
+
+
+
+
+
+
+
+
+
+
+
+<span itemscope
+      itemtype="https://schema.org/CreativeWork"
+      data-type="speech"><span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Barwick</span>,&#32;
+    <meta itemprop="givenName" content="Linda" />
+    L.</span>
+  &#32;
+    (<span itemprop="datePublished">2003</span>).
+  &#32;<span itemprop="name">
+    <i>Planning for PARADISEC: The Pacific And Regional Archive for Digital Sources in Endangered Cultures</i></span>.
+  <meta itemprop="contentLocation"
+        content="Brisbane, Australia">&#32;Retrieved from&#32;
+  <a href="https://web.archive.org/web/20080815073730/http://www.acn.net.au/conference3/barwick/barwick.pdf"
+     itemprop="identifier"
+     itemtype="https://schema.org/URL">https://web.archive.org/web/20080815073730/http://www.acn.net.au/conference3/barwick/barwick.pdf</a></span>
+
+</dd>
+
+      </div>
+
+      <div id="http//zotero.org/groups/2527038/items/vi9v7qmq">
+        <dt>
+          Thieberger&#32;&amp;&#32;Jacobson
+
+          
+          (2010)</dt>
+
+        <dd>
+          
+
+
+
+
+
+
+
+
+
+
+
+
+<span itemscope
+      itemtype="https://schema.org/Chapter"
+      data-type="chapter">
+  <span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Thieberger</span>,&#32;
+    <meta itemprop="givenName" content="Nicholas" />
+    N.</span>&#32;&amp;&#32;<span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Jacobson</span>,&#32;
+    <meta itemprop="givenName" content="Michel" />
+    M.</span>
+  &#32;
+    (<span itemprop="datePublished">2010</span>).
+  &#32;<span itemprop="name">Sharing data in small and endangered languages: Cataloging and metadata, formats, and encodings</span>.&#32;In&#32;<span itemprop="editor" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Grenoble</span>,&#32;
+    <meta itemprop="givenName" content="Lenore A." />
+    L.</span>&#32;&amp;&#32;<span itemprop="editor" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Furbee</span>,&#32;
+    <meta itemprop="givenName" content="N. Louanna" />
+    N.</span> (Eds.),&#32;<span itemprop="about">
+    <i>Language Documentation: Practice and Values</i></span>.&#32;(<span>pp.&#32;147–158</span>).
+  <meta itemprop="contentLocation"
+        value="Amsterdam; Philadelphia, PA">&#32;<span itemprop="publisher"
+               itemtype="http://schema.org/Organization"
+               itemscope="">
+      <span itemprop="name">John Benjamins Publishing Company</span></span>.&#32;Retrieved from&#32;
+  <a href="https://benjamins.com/catalog/z.158.15thi"
+     itemprop="identifier"
+     itemtype="https://schema.org/URL">https://benjamins.com/catalog/z.158.15thi</a></span>
+
+
+
+
+</dd>
+
+      </div>
+
+      <div id="http//zotero.org/groups/2527038/items/cuk6x5af">
+        <dt>
+          Burke&#32;&amp;&#32;Zavalina
+
+          
+          (2020)</dt>
+
+        <dd>
+          
+
+
+
+
+
+
+
+
+
+
+
+
+<span itemscope
+      itemtype="https://schema.org/Article"
+      data-type="article"><span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Burke</span>,&#32;
+    <meta itemprop="givenName" content="Mary" />
+    M.</span>&#32;&amp;&#32;<span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Zavalina</span>,&#32;
+    <meta itemprop="givenName" content="Oksana L." />
+    O.</span>
+  &#32;
+    (<span itemprop="datePublished">2020</span>).
+  &#32;<span itemprop="name">Descriptive richness of free‐text metadata: A comparative analysis of three language archives</span>.<i>
+    <span itemprop="about">Proceedings of the Association for Information Science and Technology</span>,&#32;57(1)</i>.
+  <a href="https://doi.org/10.1002/pra2.429"
+     itemprop="identifier"
+     itemtype="https://schema.org/URL">https://doi.org/10.1002/pra2.429</a></span>
+
+
+
+
+</dd>
+
+      </div>
+
+      <div id="http//zotero.org/groups/2527038/items/g9r2pp23">
+        <dt>
+          Park
+
+          
+          (2009)</dt>
+
+        <dd>
+          
+
+
+
+
+
+
+
+
+
+
+
+
+<span itemscope
+      itemtype="https://schema.org/Article"
+      data-type="article"><span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Park</span>,&#32;
+    <meta itemprop="givenName" content="Jung-Ran" />
+    J.</span>
+  &#32;
+    (<span itemprop="datePublished">2009</span>).
+  &#32;<span itemprop="name">Metadata Quality in Digital Repositories: A Survey of the Current State of the Art</span>.<i>
+    <span itemprop="about">Cataloging &amp; Classification Quarterly</span>,&#32;47(3-4)</i>.&#32;<span itemprop="pagination">213–228</span>.
+  <a href="https://doi.org/10.1080/01639370902737240"
+     itemprop="identifier"
+     itemtype="https://schema.org/URL">https://doi.org/10.1080/01639370902737240</a></span>
+
+
+
+
+</dd>
+
+      </div>
+
+      <div id="http//zotero.org/groups/2527038/items/zdp9y8p2">
+        <dt>
+          Park&#32;&amp;&#32;Tosaka
+
+          
+          (2010)</dt>
+
+        <dd>
+          
+
+
+
+
+
+
+
+
+
+
+
+
+<span itemscope
+      itemtype="https://schema.org/Article"
+      data-type="article"><span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Park</span>,&#32;
+    <meta itemprop="givenName" content="Jung-ran" />
+    J.</span>&#32;&amp;&#32;<span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Tosaka</span>,&#32;
+    <meta itemprop="givenName" content="Yuji" />
+    Y.</span>
+  &#32;
+    (<span itemprop="datePublished">2010</span>).
+  &#32;<span itemprop="name">Metadata Creation Practices in Digital Repositories and Collections: Schemata, Selection Criteria, and Interoperability</span>.<i>
+    <span itemprop="about">Information Technology and Libraries</span>,&#32;29(3)</i>.&#32;<span itemprop="pagination">104–116</span>.
+  <a href="https://doi.org/10.6017/ital.v29i3.3136"
+     itemprop="identifier"
+     itemtype="https://schema.org/URL">https://doi.org/10.6017/ital.v29i3.3136</a></span>
+
+
+
+
+</dd>
+
+      </div>
+
+      <div id="http//zotero.org/groups/2527038/items/tasmeue9">
+        <dt>
+          Heery&#32;&amp;&#32;Patel
+
+          
+          (2000)</dt>
+
+        <dd>
+          
+
+
+
+
+
+
+
+
+
+
+
+
+<span itemscope
+      itemtype="https://schema.org/Article"
+      data-type="article"><span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Heery</span>,&#32;
+    <meta itemprop="givenName" content="Rachel" />
+    R.</span>&#32;&amp;&#32;<span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Patel</span>,&#32;
+    <meta itemprop="givenName" content="Manjula" />
+    M.</span>
+  &#32;
+    (<span itemprop="datePublished">2000</span>).
+  &#32;<span itemprop="name">Application Profiles: Mixing and Matching Metadata Schemas</span>.<i>
+    <span itemprop="about">Ariadne</span>,&#32;25</i>.&#32;Retrieved from&#32;
+  <a href="http://www.ariadne.ac.uk/issue/25/app-profiles/"
+     itemprop="identifier"
+     itemtype="https://schema.org/URL">http://www.ariadne.ac.uk/issue/25/app-profiles/</a></span>
+
+
+
+
+</dd>
+
+      </div>
+
+      <div id="http//zotero.org/groups/2527038/items/nfnp4qcp">
+        <dt>
+          Sugimoto,&#32;
+          Kiryakos,&#32;
+          Wijesundara,&#32;
+          Monika,&#32;
+          Mihara&#32;&amp;&#32;Nagamori
+
+          
+          (2018)</dt>
+
+        <dd>
+          
+
+
+
+
+
+
+
+
+
+
+
+
+<span itemscope
+      itemtype="https://schema.org/Chapter"
+      data-type="chapter">
+  <span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Sugimoto</span>,&#32;
+    <meta itemprop="givenName" content="Shigeo" />
+    S.</span>,&#32;
+  <span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Kiryakos</span>,&#32;
+    <meta itemprop="givenName" content="Senan" />
+    S.</span>,&#32;
+  <span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Wijesundara</span>,&#32;
+    <meta itemprop="givenName" content="Chiranthi" />
+    C.</span>,&#32;
+  <span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Monika</span>,&#32;
+    <meta itemprop="givenName" content="Winda" />
+    W.</span>,&#32;
+  <span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Mihara</span>,&#32;
+    <meta itemprop="givenName" content="Tetsuya" />
+    T.</span>&#32;&amp;&#32;<span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Nagamori</span>,&#32;
+    <meta itemprop="givenName" content="Mitsuharu" />
+    M.</span>
+  &#32;
+    (<span itemprop="datePublished">2018</span>).
+  &#32;<span itemprop="name">Metadata Models for Organizing Digital Archives on the Web: Metadata-Centric Projects at Tsukuba and Lessons Learned</span>.&#32;In<span itemprop="about">
+    <i>DC-2018--The Porto, Portugal Proceedings</i></span>.&#32;(<span>pp.&#32;95–105</span>).
+  <meta itemprop="contentLocation"
+        value="Dublin, Ohio">&#32;<span itemprop="publisher"
+               itemtype="http://schema.org/Organization"
+               itemscope="">
+      <span itemprop="name">Dublin Core Metadata Initiative</span></span>.&#32;Retrieved from&#32;
+  <a href="https://dcpapers.dublincore.org/pubs/article/view/3968/"
+     itemprop="identifier"
+     itemtype="https://schema.org/URL">https://dcpapers.dublincore.org/pubs/article/view/3968/</a></span>
+
+
+
+
+</dd>
+
+      </div>
+
+      <div id="http//zotero.org/groups/2527038/items/6rpgsza4">
+        <dt>
+          Zavalina,&#32;
+          Palmer,&#32;
+          Jackson&#32;&amp;&#32;Han
+
+          
+          (2009)</dt>
+
+        <dd>
+          
+
+
+
+
+
+
+
+
+
+
+
+
+<span itemscope
+      itemtype="https://schema.org/Article"
+      data-type="article"><span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Zavalina</span>,&#32;
+    <meta itemprop="givenName" content="Oksana L." />
+    O.</span>,&#32;
+  <span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Palmer</span>,&#32;
+    <meta itemprop="givenName" content="Carole L." />
+    C.</span>,&#32;
+  <span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Jackson</span>,&#32;
+    <meta itemprop="givenName" content="Amy S." />
+    A.</span>&#32;&amp;&#32;<span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Han</span>,&#32;
+    <meta itemprop="givenName" content="Myung-Ja" />
+    M.</span>
+  &#32;
+    (<span itemprop="datePublished">2009</span>).
+  &#32;<span itemprop="name">Evaluating Descriptive Richness in Collection-Level Metadata</span>.<i>
+    <span itemprop="about">Journal of Library Metadata</span>,&#32;8(4)</i>.&#32;<span itemprop="pagination">263–292</span>.
+  <a href="https://doi.org/10.1080/19386380802627109"
+     itemprop="identifier"
+     itemtype="https://schema.org/URL">https://doi.org/10.1080/19386380802627109</a></span>
+
+
+
+
+</dd>
+
+      </div>
+
+      <div id="http//zotero.org/groups/2527038/items/psediegj">
+        <dt>
+          Tillett
+
+          
+          (2001)</dt>
+
+        <dd>
+          
+
+
+
+
+
+
+
+
+
+
+
+
+<span itemscope
+      itemtype="https://schema.org/Chapter"
+      data-type="chapter">
+  <span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Tillett</span>,&#32;
+    <meta itemprop="givenName" content="Barbara B." />
+    B.</span>
+  &#32;
+    (<span itemprop="datePublished">2001</span>).
+  &#32;<span itemprop="name">Bibliographic Relationships</span>.&#32;In&#32;<span itemprop="editor" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Bean</span>,&#32;
+    <meta itemprop="givenName" content="Carol A." />
+    C.</span>&#32;&amp;&#32;<span itemprop="editor" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Green</span>,&#32;
+    <meta itemprop="givenName" content="Rebecca" />
+    R.</span> (Eds.),&#32;<span itemprop="about">
+    <i>Relationships in the Organization of Knowledge</i></span>.&#32;(<span>pp.&#32;19–35</span>).
+  <meta itemprop="contentLocation"
+        value="Dordrecht">&#32;<span itemprop="publisher"
+               itemtype="http://schema.org/Organization"
+               itemscope="">
+      <span itemprop="name">Springer Netherlands</span></span>.&#32;Retrieved from&#32;
+  <a href="http://link.springer.com/10.1007/978-94-015-9696-1_2"
+     itemprop="identifier"
+     itemtype="https://schema.org/URL">http://link.springer.com/10.1007/978-94-015-9696-1_2</a></span>
+
+
+
+
+</dd>
+
+      </div>
+
+      <div id="http//zotero.org/groups/2527038/items/a79krwlv">
+        <dt>
+          Christen,&#32;
+          Merrill&#32;&amp;&#32;Wynne
+
+          
+          (2017)</dt>
+
+        <dd>
+          
+
+
+
+
+
+
+
+
+
+
+
+
+<span itemscope
+      itemtype="https://schema.org/Article"
+      data-type="article"><span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Christen</span>,&#32;
+    <meta itemprop="givenName" content="Kimberly" />
+    K.</span>,&#32;
+  <span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Merrill</span>,&#32;
+    <meta itemprop="givenName" content="Alex" />
+    A.</span>&#32;&amp;&#32;<span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Wynne</span>,&#32;
+    <meta itemprop="givenName" content="Michael" />
+    M.</span>
+  &#32;
+    (<span itemprop="datePublished">2017</span>).
+  &#32;<span itemprop="name">A Community of Relations: Mukurtu Hubs and Spokes</span>.<i>
+    <span itemprop="about">D-Lib Magazine</span>,&#32;23(5/6)</i>.
+  <a href="https://doi.org/10.1045/may2017-christen"
+     itemprop="identifier"
+     itemtype="https://schema.org/URL">https://doi.org/10.1045/may2017-christen</a></span>
+
+
+
+
+</dd>
+
+      </div>
+
+      <div id="http//zotero.org/groups/2527038/items/bxbpd95j">
+        <dt>
+          Burke&#32;&amp;&#32;Zavalina
+
+          
+          (2020)</dt>
+
+        <dd>
+          
+
+
+
+
+
+
+
+
+
+
+
+
+<span itemscope
+      itemtype="https://schema.org/Chapter"
+      data-type="chapter">
+  <span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Burke</span>,&#32;
+    <meta itemprop="givenName" content="Mary" />
+    M.</span>&#32;&amp;&#32;<span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Zavalina</span>,&#32;
+    <meta itemprop="givenName" content="Oksana L." />
+    O.</span>
+  &#32;
+    (<span itemprop="datePublished">2020</span>).
+  &#32;<span itemprop="name">Identifying Challenges for Information Organization in Language Archives: Preliminary Findings</span>.&#32;In&#32;<span itemprop="editor" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Sundqvist</span>,&#32;
+    <meta itemprop="givenName" content="Anneli" />
+    A.</span>,&#32;
+  <span itemprop="editor" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Berget</span>,&#32;
+    <meta itemprop="givenName" content="Gerd" />
+    G.</span>,&#32;
+  <span itemprop="editor" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Nolin</span>,&#32;
+    <meta itemprop="givenName" content="Jan" />
+    J.</span>&#32;&amp;&#32;<span itemprop="editor" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Skjerdingstad</span>,&#32;
+    <meta itemprop="givenName" content="Kjell Ivar" />
+    K.</span> (Eds.),&#32;<span itemprop="about">
+    <i>Sustainable digital communities: Proceedings of the 15th international conference, iConference 2020, Böras, Sweden, March 23–26, 2020</i></span>.&#32;(<span>pp.&#32;622–629</span>).
+  <meta itemprop="contentLocation"
+        value="Cham, Switzerland">&#32;<span itemprop="publisher"
+               itemtype="http://schema.org/Organization"
+               itemscope="">
+      <span itemprop="name">Springer International Publishing</span></span>.&#32;Retrieved from&#32;
+  <a href="http://link.springer.com/10.1007/978-3-030-43687-2_52"
+     itemprop="identifier"
+     itemtype="https://schema.org/URL">http://link.springer.com/10.1007/978-3-030-43687-2_52</a></span>
+
+
+
+
+</dd>
+
+      </div>
+
+      <div id="http//zotero.org/groups/2527038/items/d5c2pw9x">
+        <dt>
+          Hughes
+
+          
+          (2004)</dt>
+
+        <dd>
+          
+
+
+
+
+
+
+
+
+
+
+
+
+<span itemscope
+      itemtype="https://schema.org/Chapter"
+      data-type="chapter">
+  <span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Hughes</span>,&#32;
+    <meta itemprop="givenName" content="Baden" />
+    B.</span>
+  &#32;
+    (<span itemprop="datePublished">2004</span>).
+  &#32;<span itemprop="name">Metadata Quality Evaluation: Experience from the Open Language Archives Community</span>.&#32;In&#32;<span itemprop="editor" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Chen</span>,&#32;
+    <meta itemprop="givenName" content="Zhaoneng" />
+    Z.</span>,&#32;
+  <span itemprop="editor" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Chen</span>,&#32;
+    <meta itemprop="givenName" content="Hsinchun" />
+    H.</span>,&#32;
+  <span itemprop="editor" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Miao</span>,&#32;
+    <meta itemprop="givenName" content="Qihao" />
+    Q.</span>,&#32;
+  <span itemprop="editor" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Fu</span>,&#32;
+    <meta itemprop="givenName" content="Yuxi" />
+    Y.</span>,&#32;
+  <span itemprop="editor" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Fox</span>,&#32;
+    <meta itemprop="givenName" content="Edward" />
+    E.</span>&#32;&amp;&#32;<span itemprop="editor" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Lim</span>,&#32;
+    <meta itemprop="givenName" content="Ee-peng" />
+    E.</span> (Eds.),&#32;<span itemprop="about">
+    <i>Digital Libraries: International Collaboration and Cross-Fertilization</i></span>.&#32;(<span>pp.&#32;320–329</span>).
+  <meta itemprop="contentLocation"
+        value="Berlin, Heidelberg">&#32;<span itemprop="publisher"
+               itemtype="http://schema.org/Organization"
+               itemscope="">
+      <span itemprop="name">Springer Berlin Heidelberg</span></span>.&#32;Retrieved from&#32;
+  <a href="http://link.springer.com/10.1007/978-3-540-30544-6_34"
+     itemprop="identifier"
+     itemtype="https://schema.org/URL">http://link.springer.com/10.1007/978-3-540-30544-6_34</a></span>
+
+
+
+
+</dd>
+
+      </div>
+
+      <div id="http//zotero.org/groups/2527038/items/2rk6js46">
+        <dt>
+          Sullivant
+
+          
+          (2020)</dt>
+
+        <dd>
+          
+
+
+
+
+
+
+
+
+
+
+
+
+<span itemscope
+      itemtype="https://schema.org/Article"
+      data-type="article"><span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Sullivant</span>,&#32;
+    <meta itemprop="givenName" content="Ryan" />
+    R.</span>
+  &#32;
+    (<span itemprop="datePublished">2020</span>).
+  &#32;<span itemprop="name">Archival description for language documentation collections</span>.<i>
+    <span itemprop="about">Language Documentation &amp; Conservation</span>,&#32;14</i>.&#32;<span itemprop="pagination">520–578</span>.&#32;Retrieved from&#32;
+  <a href="http://hdl.handle.net/10125/24949"
+     itemprop="identifier"
+     itemtype="https://schema.org/URL">http://hdl.handle.net/10125/24949</a></span>
+
+
+
+
+</dd>
+
+      </div>
+
+      <div id="http//zotero.org/groups/2527038/items/mukyyfdz">
+        <dt>
+          Zavalina
+
+          
+          (2011)</dt>
+
+        <dd>
+          
+
+
+
+
+
+
+
+
+
+
+
+
+<span itemscope
+      itemtype="https://schema.org/Article"
+      data-type="article"><span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Zavalina</span>,&#32;
+    <meta itemprop="givenName" content="Oksana L." />
+    O.</span>
+  &#32;
+    (<span itemprop="datePublished">2011</span>).
+  &#32;<span itemprop="name">Contextual Metadata in Digital Aggregations: Application of Collection-Level Subject Metadata and Its Role in User Interactions and Information Retrieval</span>.<i>
+    <span itemprop="about">Journal of Library Metadata</span>,&#32;11(3-4)</i>.&#32;<span itemprop="pagination">104–128</span>.
+  <a href="https://doi.org/10.1080/19386389.2011.629957"
+     itemprop="identifier"
+     itemtype="https://schema.org/URL">https://doi.org/10.1080/19386389.2011.629957</a></span>
+
+
+
+
+</dd>
+
+      </div>
+
+      <div id="http//zotero.org/groups/2527038/items/twukim3q">
+        <dt>
+          Bird&#32;&amp;&#32;Simons
+
+          
+          (2003)</dt>
+
+        <dd>
+          
+
+
+
+
+
+
+
+
+
+
+
+
+<span itemscope
+      itemtype="https://schema.org/Article"
+      data-type="article"><span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Bird</span>,&#32;
+    <meta itemprop="givenName" content="Steven" />
+    S.</span>&#32;&amp;&#32;<span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Simons</span>,&#32;
+    <meta itemprop="givenName" content="Gary" />
+    G.</span>
+  &#32;
+    (<span itemprop="datePublished">2003</span>).
+  &#32;<span itemprop="name">Extending Dublin Core Metadata to Support the Description and Discovery of Language Resources</span>.<i>
+    <span itemprop="about">Computers and the Humanities</span>,&#32;37(4)</i>.&#32;<span itemprop="pagination">375–388</span>.
+  <a href="https://doi.org/10.1023/A:1025720518994"
+     itemprop="identifier"
+     itemtype="https://schema.org/URL">https://doi.org/10.1023/A:1025720518994</a></span>
+
+
+
+
+</dd>
+
+      </div>
+
+      <div id="http//zotero.org/groups/2527038/items/mpi7ur4a">
+        <dt>
+          Hillmann&#32;&amp;&#32;Phipps
+
+          
+          (2007)</dt>
+
+        <dd>
+          
+
+
+
+
+
+
+
+
+
+
+
+
+<span itemscope
+      itemtype="https://schema.org/CreativeWork"
+      data-type="paper-conference"><span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Hillmann</span>,&#32;
+    <meta itemprop="givenName" content="Diane I." />
+    D.</span>&#32;&amp;&#32;<span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Phipps</span>,&#32;
+    <meta itemprop="givenName" content="Jon" />
+    J.</span>
+  &#32;
+    (<span itemprop="datePublished">2007</span>).
+  &#32;<span itemprop="name">
+    <i>Application Profiles: Exposing and Enforcing Metadata Quality</i></span>.
+  <meta itemprop="contentLocation"
+        content="Singapore; Dublin, Ohio, USA">&#32;
+  <span itemprop="publisher" itemtype="http://schema.org/Organization" itemscope="">
+    <span itemprop="name">Dublin Core Metadata Initiative &amp; National Library Board Singapore</span></span>.&#32;Retrieved from&#32;
+  <a href="https://dcpapers.dublincore.org/pubs/article/view/866"
+     itemprop="identifier"
+     itemtype="https://schema.org/URL">https://dcpapers.dublincore.org/pubs/article/view/866</a></span>
+
+</dd>
+
+      </div>
+
+      <div id="http//zotero.org/groups/2527038/items/twbb75rq">
+        <dt>
+          Hirt,&#32;
+          Simons&#32;&amp;&#32;Spanne
+
+          
+          (2009)</dt>
+
+        <dd>
+          
+
+
+
+
+
+
+
+
+
+
+
+
+<span itemscope
+      itemtype="https://schema.org/CreativeWork"
+      data-type="paper-conference"><span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Hirt</span>,&#32;
+    <meta itemprop="givenName" content="Christopher" />
+    C.</span>,&#32;
+  <span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Simons</span>,&#32;
+    <meta itemprop="givenName" content="Gary" />
+    G.</span>&#32;&amp;&#32;<span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Spanne</span>,&#32;
+    <meta itemprop="givenName" content="Joan" />
+    J.</span>
+  &#32;
+    (<span itemprop="datePublished">2009</span>).
+  &#32;<span itemprop="name">
+    <i>Building a MARC-to-OLAC crosswalk: repurposing library catalog data for the language resources community</i></span>.
+  <meta itemprop="contentLocation"
+        content="Austin, Texas">&#32;
+  <span itemprop="publisher" itemtype="http://schema.org/Organization" itemscope="">
+    <span itemprop="name">ACM Press</span></span>.
+  <a href="https://doi.org/10.1145/1555400.1555479"
+     itemprop="identifier"
+     itemtype="https://schema.org/URL">https://doi.org/10.1145/1555400.1555479</a></span>
+
+</dd>
+
+      </div>
+
+      <div id="http//zotero.org/groups/2527038/items/2j46eh9m">
+        <dt>
+          Park
+
+          
+          (2006)</dt>
+
+        <dd>
+          
+
+
+
+
+
+
+
+
+
+
+
+
+<span itemscope
+      itemtype="https://schema.org/Article"
+      data-type="article"><span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Park</span>,&#32;
+    <meta itemprop="givenName" content="Jung-ran" />
+    J.</span>
+  &#32;
+    (<span itemprop="datePublished">2006</span>).
+  &#32;<span itemprop="name">Semantic Interoperability and Metadata Quality: An Analysis of Metadata Item Records of Digital Image Collections</span>.<i>
+    <span itemprop="about">Knowledge Organization</span>,&#32;31(1)</i>.&#32;<span itemprop="pagination">20–34</span>.</span>
+
+
+
+
+</dd>
+
+      </div>
+
+      <div id="http//zotero.org/groups/2527038/items/3wdlmyz3">
+        <dt>
+          Simons&#32;&amp;&#32;Bird
+
+          
+          (2003)</dt>
+
+        <dd>
+          
+
+
+
+
+
+
+
+
+
+
+
+
+<span itemscope
+      itemtype="https://schema.org/Article"
+      data-type="article"><span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Simons</span>,&#32;
+    <meta itemprop="givenName" content="Gary" />
+    G.</span>&#32;&amp;&#32;<span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Bird</span>,&#32;
+    <meta itemprop="givenName" content="Steven" />
+    S.</span>
+  &#32;
+    (<span itemprop="datePublished">2003</span>).
+  &#32;<span itemprop="name">Building an Open Language Archives Community on the OAI foundation</span>.<i>
+    <span itemprop="about">Library Hi Tech</span>,&#32;21(2)</i>.&#32;<span itemprop="pagination">210–218</span>.
+  <a href="https://doi.org/10.1108/07378830310479848"
+     itemprop="identifier"
+     itemtype="https://schema.org/URL">https://doi.org/10.1108/07378830310479848</a></span>
+
+
+
+
+</dd>
+
+      </div>
+
+      <div id="http//zotero.org/groups/2527038/items/t38razlh">
+        <dt>
+          
+
+          
+          (2020)</dt>
+
+        <dd>
+          
+
+
+
+
+
+
+
+
+
+
+
+
+<span itemscope
+      itemtype="https://schema.org/Book"
+      data-type="book"><span itemprop="author" itemscope itemtype="https://schema.org/Person"></span>&#32;
+    (<span itemprop="datePublished">2020</span>).
+  &#32;<span itemprop="name">
+    <i>Dublin Core Metadata Guide—Indiana Memory Project</i></span>.
+  <meta itemprop="locationCreated"
+        value="Indianapolis, Indiana">&#32;
+  <span itemprop="publisher"
+             itemtype="http://schema.org/Organization"
+             itemscope>
+    <span itemprop="name">Indiana University Perdue University Indianapolis</span></span>.&#32;Retrieved from&#32;
+  <a href="https://www.in.gov/library/files/IndianaMemoryMetadata2020.pdf"
+     itemprop="identifier"
+     itemtype="https://schema.org/URL">https://www.in.gov/library/files/IndianaMemoryMetadata2020.pdf</a></span>
+
+
+
+
+</dd>
+
+      </div>
+
+      <div id="http//zotero.org/groups/2527038/items/ccmwf87i">
+        <dt>
+          Simons
+
+          
+          (2016)</dt>
+
+        <dd>
+          
+
+
+
+
+
+
+
+
+
+
+
+
+<span itemscope
+      itemtype="https://schema.org/CreativeWork"
+      data-type="speech"><span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Simons</span>,&#32;
+    <meta itemprop="givenName" content="Gary F" />
+    G.</span>
+  &#32;
+    (<span itemprop="datePublished">2016</span>).
+  &#32;<span itemprop="name">
+    <i>From Linguistic Data Type to Language Resource Type: Laying the groundwork for a metadata application profile</i></span>.
+  <meta itemprop="contentLocation"
+        content="Austin, TX">&#32;Retrieved from&#32;
+  <a href="https://scholars.sil.org/sites/scholars/files/gary_f_simons/presentation/simons-language_resource_type_vocabulary.pdf"
+     itemprop="identifier"
+     itemtype="https://schema.org/URL">https://scholars.sil.org/sites/scholars/files/gary_f_simons/presentation/simons-language_resource_type_vocabulary.pdf</a></span>
+
+</dd>
+
+      </div>
+
+      <div id="http//zotero.org/groups/2527038/items/kmhyrhbn">
+        <dt>
+          Wasson,&#32;
+          Holton&#32;&amp;&#32;Roth
+
+          
+          (2016)</dt>
+
+        <dd>
+          
+
+
+
+
+
+
+
+
+
+
+
+
+<span itemscope
+      itemtype="https://schema.org/Article"
+      data-type="article"><span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Wasson</span>,&#32;
+    <meta itemprop="givenName" content="Christina" />
+    C.</span>,&#32;
+  <span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Holton</span>,&#32;
+    <meta itemprop="givenName" content="Gary" />
+    G.</span>&#32;&amp;&#32;<span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Roth</span>,&#32;
+    <meta itemprop="givenName" content="Heather S." />
+    H.</span>
+  &#32;
+    (<span itemprop="datePublished">2016</span>).
+  &#32;<span itemprop="name">Bringing User-Centered Design to the Field of Language Archives</span>.<i>
+    <span itemprop="about">Language Documentation &amp; Conservation</span>,&#32;10</i>.&#32;<span itemprop="pagination">641–681</span>.&#32;Retrieved from&#32;
+  <a href="http://hdl.handle.net/10125/24721"
+     itemprop="identifier"
+     itemtype="https://schema.org/URL">http://hdl.handle.net/10125/24721</a></span>
+
+
+
+
+</dd>
+
+      </div>
+
+      <div id="http//zotero.org/groups/2527038/items/qjln8np2">
+        <dt>
+          Park&#32;&amp;&#32;Childress
+
+          
+          (2009)</dt>
+
+        <dd>
+          
+
+
+
+
+
+
+
+
+
+
+
+
+<span itemscope
+      itemtype="https://schema.org/Article"
+      data-type="article"><span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Park</span>,&#32;
+    <meta itemprop="givenName" content="Jung-ran" />
+    J.</span>&#32;&amp;&#32;<span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Childress</span>,&#32;
+    <meta itemprop="givenName" content="Eric" />
+    E.</span>
+  &#32;
+    (<span itemprop="datePublished">2009</span>).
+  &#32;<span itemprop="name">Dublin Core metadata semantics: an analysis of the perspectives of information professionals</span>.<i>
+    <span itemprop="about">Journal of Information Science</span>,&#32;35(6)</i>.&#32;<span itemprop="pagination">727–739</span>.
+  <a href="https://doi.org/10.1177/0165551509337871"
+     itemprop="identifier"
+     itemtype="https://schema.org/URL">https://doi.org/10.1177/0165551509337871</a></span>
+
+
+
+
+</dd>
+
+      </div>
+
+      <div id="http//zotero.org/groups/2527038/items/s8pnkfaq">
+        <dt>
+          Paterson III
+
+          
+          (2021)</dt>
+
+        <dd>
+          
+
+
+
+
+
+
+
+
+
+
+
+
+<span itemscope
+      itemtype="https://schema.org/Article"
+      data-type="article"><span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Paterson III</span>,&#32;
+    <meta itemprop="givenName" content="Hugh J" />
+    H.</span>
+  &#32;
+    (<span itemprop="datePublished">2021</span>).
+  &#32;<span itemprop="name">OLAC Nightly Data Dump (XML) from 18 July 2021</span>.&#32;Retrieved from&#32;
+  <a href="https://zenodo.org/record/5112131"
+     itemprop="identifier"
+     itemtype="https://schema.org/URL">https://zenodo.org/record/5112131</a></span>
+
+
+
+
+</dd>
+
+      </div>
+
+      <div id="http//zotero.org/groups/2527038/items/f88knlpg">
+        <dt>
+          Paterson III
+
+          
+          (2021)</dt>
+
+        <dd>
+          
+
+
+
+
+
+
+
+
+
+
+
+
+<span itemscope
+      itemtype="https://schema.org/CreativeWork"
+      data-type="speech"><span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Paterson III</span>,&#32;
+    <meta itemprop="givenName" content="Hugh J" />
+    H.</span>
+  &#32;
+    (<span itemprop="datePublished">2021</span>).
+  &#32;<span itemprop="name">
+    <i>Where Have All the Collections Gone?</i></span>.
+  <meta itemprop="contentLocation"
+        content="Hosted Virtually">&#32;Retrieved from&#32;
+  <a href="https://www2.archivists.org/am2021/research-forum-2021/agenda#posters"
+     itemprop="identifier"
+     itemtype="https://schema.org/URL">https://www2.archivists.org/am2021/research-forum-2021/agenda#posters</a></span>
+
+</dd>
+
+      </div>
+
+      <div id="http//zotero.org/groups/2527038/items/33idwn87">
+        <dt>
+          Paterson III
+
+          
+          (2021)</dt>
+
+        <dd>
+          
+
+
+
+
+
+
+
+
+
+
+
+
+<span itemscope
+      itemtype="https://schema.org/Thesis"
+      data-type="thesis"><span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Paterson III</span>,&#32;
+    <meta itemprop="givenName" content="Hugh J." />
+    H.</span>
+  &#32;
+    (<span itemprop="datePublished">2021</span>).
+  &#32;<span itemprop="name">
+    <i>Language Archive Records:  Interoperability of Referencing Practices and Metadata Models</i>
+  </span><span itemprop="inSupportOf">&nbsp;(M.A. Thesis)</span>.&nbsp;
+<meta itemprop="contentLocation"
+        value="Grand Forks, North Dakota">&#32;
+  <span itemprop="publisher"
+             itemtype="http://schema.org/EducationalOrganization"
+             itemscope>
+    <span itemprop="name">University of North Dakota</span>, &#32; <span itemprop="location">Grand Forks, North Dakota</span></span>.&#32;Retrieved from&#32;
+  <a href="https://commons.und.edu/theses/3937/"
+     itemprop="identifier"
+     itemtype="https://schema.org/URL">https://commons.und.edu/theses/3937/</a></span>
+
+
+
+
+
+</dd>
+
+      </div>
+
+      <div id="http//zotero.org/groups/2527038/items/fv9plq7y">
+        <dt>
+          Stvilia,&#32;
+          Gasser,&#32;
+          Twidale,&#32;
+          Shreeves&#32;&amp;&#32;Cole
+
+          
+          (2004)</dt>
+
+        <dd>
+          
+
+
+
+
+
+
+
+
+
+
+
+
+<span itemscope
+      itemtype="https://schema.org/Chapter"
+      data-type="chapter">
+  <span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Stvilia</span>,&#32;
+    <meta itemprop="givenName" content="Besiki" />
+    B.</span>,&#32;
+  <span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Gasser</span>,&#32;
+    <meta itemprop="givenName" content="Les" />
+    L.</span>,&#32;
+  <span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Twidale</span>,&#32;
+    <meta itemprop="givenName" content="Michael B" />
+    M.</span>,&#32;
+  <span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Shreeves</span>,&#32;
+    <meta itemprop="givenName" content="Sarah L" />
+    S.</span>&#32;&amp;&#32;<span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Cole</span>,&#32;
+    <meta itemprop="givenName" content="Tim W" />
+    T.</span>
+  &#32;
+    (<span itemprop="datePublished">2004</span>).
+  &#32;<span itemprop="name">Metadata Quality for Federated Collections</span>.&#32;In<span itemprop="about">
+    <i>Proceedings of the Ninth International Conference on Information Quality (ICIQ-04)</i></span>.&#32;(<span>pp.&#32;111–125</span>).
+  &#32;Retrieved from&#32;
+  <a href="https://www.ideals.illinois.edu/handle/2142/721"
+     itemprop="identifier"
+     itemtype="https://schema.org/URL">https://www.ideals.illinois.edu/handle/2142/721</a></span>
+
+
+
+
+</dd>
+
+      </div>
+
+      <div id="http//zotero.org/groups/2527038/items/qrwy79zj">
+        <dt>
+          Burke&#32;&amp;&#32;Zavalina
+
+          
+          (2019)</dt>
+
+        <dd>
+          
+
+
+
+
+
+
+
+
+
+
+
+
+<span itemscope
+      itemtype="https://schema.org/Article"
+      data-type="article"><span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Burke</span>,&#32;
+    <meta itemprop="givenName" content="Mary" />
+    M.</span>&#32;&amp;&#32;<span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Zavalina</span>,&#32;
+    <meta itemprop="givenName" content="Oksana" />
+    O.</span>
+  &#32;
+    (<span itemprop="datePublished">2019</span>).
+  &#32;<span itemprop="name">Exploration of information organization in language archives</span>.<i>
+    <span itemprop="about">Proceedings of the Association for Information Science and Technology</span>,&#32;56(1)</i>.&#32;<span itemprop="pagination">364–367</span>.
+  <a href="https://doi.org/10.1002/pra2.30"
+     itemprop="identifier"
+     itemtype="https://schema.org/URL">https://doi.org/10.1002/pra2.30</a></span>
+
+
+
+
+</dd>
+
+      </div>
+
+      <div id="http//zotero.org/groups/2527038/items/3qd53t2u">
+        <dt>
+          Bow,&#32;
+          Christie&#32;&amp;&#32;Devlin
+
+          
+          (2014)</dt>
+
+        <dd>
+          
+
+
+
+
+
+
+
+
+
+
+
+
+<span itemscope
+      itemtype="https://schema.org/Article"
+      data-type="article"><span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Bow</span>,&#32;
+    <meta itemprop="givenName" content="Catherine" />
+    C.</span>,&#32;
+  <span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Christie</span>,&#32;
+    <meta itemprop="givenName" content="Michael J." />
+    M.</span>&#32;&amp;&#32;<span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Devlin</span>,&#32;
+    <meta itemprop="givenName" content="Brian" />
+    B.</span>
+  &#32;
+    (<span itemprop="datePublished">2014</span>).
+  &#32;<span itemprop="name">Developing a Living Archive of Aboriginal Languages</span>.<i>
+    <span itemprop="about">Language Documentation and Conservation</span>,&#32;8</i>.&#32;<span itemprop="pagination">345–360</span>.&#32;Retrieved from&#32;
+  <a href="https://espace.cdu.edu.au/view/cdu:42475"
+     itemprop="identifier"
+     itemtype="https://schema.org/URL">https://espace.cdu.edu.au/view/cdu:42475</a></span>
+
+
+
+
+</dd>
+
+      </div>
+
+      <div id="http//zotero.org/groups/2527038/items/7txhae2g">
+        <dt>
+          Bird&#32;&amp;&#32;Simons
+
+          
+          (2021)</dt>
+
+        <dd>
+          
+
+
+
+
+
+
+
+
+
+
+
+
+<span itemscope
+      itemtype="https://schema.org/CreativeWork"
+      data-type="paper-conference"><span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Bird</span>,&#32;
+    <meta itemprop="givenName" content="Steven" />
+    S.</span>&#32;&amp;&#32;<span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Simons</span>,&#32;
+    <meta itemprop="givenName" content="Gary" />
+    G.</span>
+  &#32;
+    (<span itemprop="datePublished">2021</span>).
+  &#32;<span itemprop="name">
+    <i>Towards an Agenda for Open Language Archiving</i></span>.
+  <meta itemprop="contentLocation"
+        content="Denton, Texas">&#32;
+  <span itemprop="publisher" itemtype="http://schema.org/Organization" itemscope="">
+    <span itemprop="name">University of North Texas</span></span>.
+  <a href="https://doi.org/10.12794/langarc1851171"
+     itemprop="identifier"
+     itemtype="https://schema.org/URL">https://doi.org/10.12794/langarc1851171</a></span>
+
+</dd>
+
+      </div>
+
+      <div id="http//zotero.org/groups/2527038/items/nvfbgt62">
+        <dt>
+          Miller
+
+          
+          (2010)</dt>
+
+        <dd>
+          
+
+
+
+
+
+
+
+
+
+
+
+
+<span itemscope
+      itemtype="https://schema.org/CreativeWork"
+      data-type="paper-conference"><span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Miller</span>,&#32;
+    <meta itemprop="givenName" content="Steven J" />
+    S.</span>
+  &#32;
+    (<span itemprop="datePublished">2010</span>).
+  &#32;<span itemprop="name">
+    <i>The One-To-One Principle: Challenges in Current Practice</i></span>.
+  <meta itemprop="contentLocation"
+        content="Pittsburgh, Pennsylvania">&#32;
+  <span itemprop="publisher" itemtype="http://schema.org/Organization" itemscope="">
+    <span itemprop="name">Dublin Core Metadata Initiative</span></span>.&#32;Retrieved from&#32;
+  <a href="https://dcpapers.dublincore.org/pubs/article/view/1043.html"
+     itemprop="identifier"
+     itemtype="https://schema.org/URL">https://dcpapers.dublincore.org/pubs/article/view/1043.html</a></span>
+
+</dd>
+
+      </div>
+
+      <div id="http//zotero.org/groups/2527038/items/xkqg28l7">
+        <dt>
+          Hutt&#32;&amp;&#32;Riley
+
+          
+          (2005)</dt>
+
+        <dd>
+          
+
+
+
+
+
+
+
+
+
+
+
+
+<span itemscope
+      itemtype="https://schema.org/CreativeWork"
+      data-type="paper-conference"><span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Hutt</span>,&#32;
+    <meta itemprop="givenName" content="Arwen" />
+    A.</span>&#32;&amp;&#32;<span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Riley</span>,&#32;
+    <meta itemprop="givenName" content="Jenn" />
+    J.</span>
+  &#32;
+    (<span itemprop="datePublished">2005</span>).
+  &#32;<span itemprop="name">
+    <i>Semantics and Syntax of Dublin Core Usage in Open Archives Initiative Data Providers of Cultural Heritage Materials</i></span>.
+  <meta itemprop="contentLocation"
+        content="Denver, CO, USA">&#32;
+  <span itemprop="publisher" itemtype="http://schema.org/Organization" itemscope="">
+    <span itemprop="name">ACM Press</span></span>.
+  <a href="https://doi.org/10.1145/1065385.1065447"
+     itemprop="identifier"
+     itemtype="https://schema.org/URL">https://doi.org/10.1145/1065385.1065447</a></span>
+
+</dd>
+
+      </div>
+
+      <div id="http//zotero.org/groups/2527038/items/ustbk66f">
+        <dt>
+          Yi,&#32;
+          Lake,&#32;
+          Kim,&#32;
+          Haakman,&#32;
+          Jewell,&#32;
+          Babinski&#32;&amp;&#32;Bowern
+
+          
+          (2022)</dt>
+
+        <dd>
+          
+
+
+
+
+
+
+
+
+
+
+
+
+<span itemscope
+      itemtype="https://schema.org/Article"
+      data-type="article"><span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Yi</span>,&#32;
+    <meta itemprop="givenName" content="Irene" />
+    I.</span>,&#32;
+  <span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Lake</span>,&#32;
+    <meta itemprop="givenName" content="Amelia" />
+    A.</span>,&#32;
+  <span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Kim</span>,&#32;
+    <meta itemprop="givenName" content="Juhyae" />
+    J.</span>,&#32;
+  <span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Haakman</span>,&#32;
+    <meta itemprop="givenName" content="Kassandra" />
+    K.</span>,&#32;
+  <span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Jewell</span>,&#32;
+    <meta itemprop="givenName" content="Jeremiah" />
+    J.</span>,&#32;
+  <span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Babinski</span>,&#32;
+    <meta itemprop="givenName" content="Sarah" />
+    S.</span>&#32;&amp;&#32;<span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Bowern</span>,&#32;
+    <meta itemprop="givenName" content="Claire" />
+    C.</span>
+  &#32;
+    (<span itemprop="datePublished">2022</span>).
+  &#32;<span itemprop="name">Accessibility, Discoverability, and Functionality: An Audit of and Recommendations for Digital Language Archives</span>.<i>
+    <span itemprop="about">Journal of Open Humanities Data</span>,&#32;8(10)</i>.&#32;<span itemprop="pagination">1–19</span>.
+  <a href="https://doi.org/10.5334/johd.59"
+     itemprop="identifier"
+     itemtype="https://schema.org/URL">https://doi.org/10.5334/johd.59</a></span>
+
+
+
+
+</dd>
+
+      </div>
+
+      <div id="http//zotero.org/groups/2527038/items/74kgkvv6">
+        <dt>
+          Thieberger&#32;&amp;&#32;Harris
+
+          
+          (2022)</dt>
+
+        <dd>
+          
+
+
+
+
+
+
+
+
+
+
+
+
+<span itemscope
+      itemtype="https://schema.org/Article"
+      data-type="article"><span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Thieberger</span>,&#32;
+    <meta itemprop="givenName" content="Nick" />
+    N.</span>&#32;&amp;&#32;<span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Harris</span>,&#32;
+    <meta itemprop="givenName" content="Amanda" />
+    A.</span>
+  &#32;
+    (<span itemprop="datePublished">2022</span>).
+  &#32;<span itemprop="name">When Your Data is My Grandparents Singing. Digitisation and Access for Cultural Records, the Pacific and Regional Archive for Digital Sources in Endangered Cultures (PARADISEC)</span>.<i>
+    <span itemprop="about">Data Science Journal</span>,&#32;21(9)</i>.&#32;<span itemprop="pagination">1–7</span>.
+  <a href="https://doi.org/10.5334/dsj-2022-009"
+     itemprop="identifier"
+     itemtype="https://schema.org/URL">https://doi.org/10.5334/dsj-2022-009</a></span>
+
+
+
+
+</dd>
+
+      </div>
+
+      <div id="http//zotero.org/groups/2527038/items/fy7mtck4">
+        <dt>
+          Roy,&#32;
+          Bhasin&#32;&amp;&#32;Arriaga
+
+          
+          (2011)</dt>
+
+        <dd>
+          
+
+
+
+
+
+
+
+
+
+
+
+
+<span itemscope
+      itemtype="https://schema.org/Book"
+      data-type="book"><span itemprop="editor" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Roy</span>,&#32;
+    <meta itemprop="givenName" content="Loriene" />
+    L.</span>,&#32;
+  <span itemprop="editor" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Bhasin</span>,&#32;
+    <meta itemprop="givenName" content="Anjali" />
+    A.</span>&#32;&amp;&#32;<span itemprop="editor" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Arriaga</span>,&#32;
+    <meta itemprop="givenName" content="Sarah K." />
+    S.</span>&#32;
+    (<span itemprop="datePublished">2011</span>).
+  &#32;<span itemprop="name">
+    <i>Tribal Libraries, Archives, and Museums: Preserving Our Language, Memory, and Lifeways</i></span>.
+  <meta itemprop="locationCreated"
+        value="Lanham">&#32;
+  <span itemprop="publisher"
+             itemtype="http://schema.org/Organization"
+             itemscope>
+    <span itemprop="name">Scarecrow Press</span></span>.</span>
+
+
+
+
+</dd>
+
+      </div>
+
+      <div id="http//zotero.org/groups/2527038/items/wdhru2ri">
+        <dt>
+          Elliott
+
+          
+          (2001)</dt>
+
+        <dd>
+          
+
+
+
+
+
+
+
+
+
+
+
+
+<span itemscope
+      itemtype="https://schema.org/Article"
+      data-type="article"><span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Elliott</span>,&#32;
+    <meta itemprop="givenName" content="Mark C." />
+    M.</span>
+  &#32;
+    (<span itemprop="datePublished">2001</span>).
+  &#32;<span itemprop="name">The Manchu-Language Archives of the Qing Dynasty and the Origins of the Palace Memorial System</span>.<i>
+    <span itemprop="about">Late Imperial China</span>,&#32;22(1)</i>.&#32;<span itemprop="pagination">1–70</span>.
+  <a href="https://doi.org/10.1353/late.2001.0002"
+     itemprop="identifier"
+     itemtype="https://schema.org/URL">https://doi.org/10.1353/late.2001.0002</a></span>
+
+
+
+
+</dd>
+
+      </div>
+
+      <div id="http//zotero.org/groups/2527038/items/3scr4vfl">
+        <dt>
+          Bartlett
+
+          
+          (1992)</dt>
+
+        <dd>
+          
+
+
+
+
+
+
+
+
+
+
+
+
+<span itemscope
+      itemtype="https://schema.org/Article"
+      data-type="article"><span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Bartlett</span>,&#32;
+    <meta itemprop="givenName" content="Nancy" />
+    N.</span>
+  &#32;
+    (<span itemprop="datePublished">1992</span>).
+  &#32;<span itemprop="name">Respect des Fonds: The Origins of the Modern Archival Principle of Provenance</span>.<i>
+    <span itemprop="about">Primary Sources &amp; Original Works</span>,&#32;1(1-2)</i>.&#32;<span itemprop="pagination">107–115</span>.
+  <a href="https://doi.org/10.1300/J269V01N01_07"
+     itemprop="identifier"
+     itemtype="https://schema.org/URL">https://doi.org/10.1300/J269V01N01_07</a></span>
+
+
+
+
+</dd>
+
+      </div>
+
+      <div id="http//zotero.org/groups/2527038/items/fedjx8bq">
+        <dt>
+          Haworth
+
+          
+          (2001)</dt>
+
+        <dd>
+          
+
+
+
+
+
+
+
+
+
+
+
+
+<span itemscope
+      itemtype="https://schema.org/Article"
+      data-type="article"><span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Haworth</span>,&#32;
+    <meta itemprop="givenName" content="Kent M." />
+    K.</span>
+  &#32;
+    (<span itemprop="datePublished">2001</span>).
+  &#32;<span itemprop="name">Archival Description: Content and Context in Search of Structure</span>.<i>
+    <span itemprop="about">Journal of Internet Cataloging</span>,&#32;4(3-4)</i>.&#32;<span itemprop="pagination">7–26</span>.
+  <a href="https://doi.org/10.1300/J141v04n03_02"
+     itemprop="identifier"
+     itemtype="https://schema.org/URL">https://doi.org/10.1300/J141v04n03_02</a></span>
+
+
+
+
+</dd>
+
+      </div>
+
+      <div id="http//zotero.org/groups/2527038/items/ba3m2spw">
+        <dt>
+          Urban
+
+          
+          (2010)</dt>
+
+        <dd>
+          
+
+
+
+
+
+
+
+
+
+
+
+
+<span itemscope
+      itemtype="https://schema.org/CreativeWork"
+      data-type="paper-conference"><span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Urban</span>,&#32;
+    <meta itemprop="givenName" content="Richard J." />
+    R.</span>
+  &#32;
+    (<span itemprop="datePublished">2010</span>).
+  &#32;<span itemprop="name">
+    <i>Principle violations: Revisiting the Dublin Core 1:1 Principle</i></span>.
+  <meta itemprop="contentLocation"
+        content="Pittsburgh, PA, USA">&#32;
+  <span itemprop="publisher" itemtype="http://schema.org/Organization" itemscope="">
+    <span itemprop="name">American Society for Information Science</span></span>.</span>
+
+</dd>
+
+      </div>
+
+      <div id="http//zotero.org/groups/2527038/items/h6x7cs3n">
+        <dt>
+          Ferreira,&#32;
+          Lukschy,&#32;
+          Watyam,&#32;
+          Ungsitipoonpor&#32;&amp;&#32;Seyfeddinipur
+
+          
+          (2021)</dt>
+
+        <dd>
+          
+
+
+
+
+
+
+
+
+
+
+
+
+<span itemscope
+      itemtype="https://schema.org/CreativeWork"
+      data-type="paper-conference"><span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Ferreira</span>,&#32;
+    <meta itemprop="givenName" content="Vera" />
+    V.</span>,&#32;
+  <span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Lukschy</span>,&#32;
+    <meta itemprop="givenName" content="Leonore" />
+    L.</span>,&#32;
+  <span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Watyam</span>,&#32;
+    <meta itemprop="givenName" content="Buachut" />
+    B.</span>,&#32;
+  <span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Ungsitipoonpor</span>,&#32;
+    <meta itemprop="givenName" content="Siripen" />
+    S.</span>&#32;&amp;&#32;<span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Seyfeddinipur</span>,&#32;
+    <meta itemprop="givenName" content="Mandana" />
+    M.</span>
+  &#32;
+    (<span itemprop="datePublished">2021</span>).
+  &#32;<span itemprop="name">
+    <i>A Website Is a Website Is a Website: Why Trusted Repositories Are Needed More Than Ever</i></span>.
+  <meta itemprop="contentLocation"
+        content="Denton, Texas">&#32;
+  <span itemprop="publisher" itemtype="http://schema.org/Organization" itemscope="">
+    <span itemprop="name">University of North Texas</span></span>.
+  <a href="https://doi.org/10.12794/langarc1851176"
+     itemprop="identifier"
+     itemtype="https://schema.org/URL">https://doi.org/10.12794/langarc1851176</a></span>
+
+</dd>
+
+      </div>
+
+      <div id="http//zotero.org/groups/2527038/items/vncm8wxb">
+        <dt>
+          Clayphan,&#32;
+          Charles&#32;&amp;&#32;Wynne
+
+          
+          (2017)</dt>
+
+        <dd>
+          
+
+
+
+
+
+
+
+
+
+
+
+
+<span itemscope
+      itemtype="https://schema.org/Book"
+      data-type="book"><span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Clayphan</span>,&#32;
+    <meta itemprop="givenName" content="Robina" />
+    R.</span>,&#32;
+  <span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Charles</span>,&#32;
+    <meta itemprop="givenName" content="Valentine" />
+    V.</span>&#32;&amp;&#32;<span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Wynne</span>,&#32;
+    <meta itemprop="givenName" content="Michael" />
+    M.</span>&#32;
+    (<span itemprop="datePublished">2017</span>).
+  &#32;<span itemprop="name">
+    <i>Europeana Data Model – Mapping Guidelines</i></span> (<span>2.4</span>).
+  <meta itemprop="locationCreated"
+        value="Netherlands">&#32;
+  <span itemprop="publisher"
+             itemtype="http://schema.org/Organization"
+             itemscope>
+    <span itemprop="name">Europeana Foundation</span></span>.&#32;Retrieved from&#32;
+  <a href="https://pro.europeana.eu/files/Europeana_Professional/Share_your_data/Technical_requirements/EDM_Documentation/EDM_Mapping_Guidelines_v2.4_102017.pdf"
+     itemprop="identifier"
+     itemtype="https://schema.org/URL">https://pro.europeana.eu/files/Europeana_Professional/Share_your_data/Technical_requirements/EDM_Documentation/EDM_Mapping_Guidelines_v2.4_102017.pdf</a></span>
+
+
+
+
+</dd>
+
+      </div>
+
+      <div id="http//zotero.org/groups/2527038/items/wpskeujy">
+        <dt>
+          Bardi,&#32;
+          Kupietzky,&#32;
+          Isaac,&#32;
+          Matei,&#32;
+          Weber,&#32;
+          Arnold,&#32;
+          Martinez Conde,&#32;
+          Fingerhut,&#32;
+          Clayphan,&#32;
+          Bailly,&#32;
+          Rühle,&#32;
+          Charles&#32;&amp;&#32;Agenjo
+
+          
+          (2014)</dt>
+
+        <dd>
+          
+
+
+
+
+
+
+
+
+
+
+
+
+<span itemscope
+      itemtype="https://schema.org/CreativeWork"
+      data-type="report"><span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Bardi</span>,&#32;
+    <meta itemprop="givenName" content="Alessia" />
+    A.</span>,&#32;
+  <span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Kupietzky</span>,&#32;
+    <meta itemprop="givenName" content="Allison" />
+    A.</span>,&#32;
+  <span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Isaac</span>,&#32;
+    <meta itemprop="givenName" content="Antoine" />
+    A.</span>,&#32;
+  <span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Matei</span>,&#32;
+    <meta itemprop="givenName" content="Dan" />
+    D.</span>,&#32;
+  <span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Weber</span>,&#32;
+    <meta itemprop="givenName" content="Donald" />
+    D.</span>,&#32;
+  <span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Arnold</span>,&#32;
+    <meta itemprop="givenName" content="Kerstin" />
+    K.</span>,&#32;
+  <span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Martinez Conde</span>,&#32;
+    <meta itemprop="givenName" content="Maria Luisa" />
+    M.</span>,&#32;
+  <span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Fingerhut</span>,&#32;
+    <meta itemprop="givenName" content="Michael" />
+    M.</span>,&#32;
+  <span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Clayphan</span>,&#32;
+    <meta itemprop="givenName" content="Robina" />
+    R.</span>,&#32;
+  <span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Bailly</span>,&#32;
+    <meta itemprop="givenName" content="Rodolphe" />
+    R.</span>,&#32;
+  <span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Rühle</span>,&#32;
+    <meta itemprop="givenName" content="Stefanie" />
+    S.</span>,&#32;
+  <span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Charles</span>,&#32;
+    <meta itemprop="givenName" content="Valentine" />
+    V.</span>&#32;&amp;&#32;<span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Agenjo</span>,&#32;
+    <meta itemprop="givenName" content="Xavier" />
+    X.</span>
+  &#32;
+    (<span itemprop="datePublished">2014</span>).
+  &#32;<span itemprop="name">
+    <i>Recommendations for the representation of hierarchical objects in Europeana</i></span>.
+  <meta itemprop="contentLocation"
+        content="Netherlands">&#32;
+  <span itemprop="publisher" itemtype="http://schema.org/Organization" itemscope="">
+    <span itemprop="name">Europeana Foundation</span></span>.&#32;Retrieved from&#32;
+  <a href="https://pro.europeana.eu/project/hierarchical-objects"
+     itemprop="identifier"
+     itemtype="https://schema.org/URL">https://pro.europeana.eu/project/hierarchical-objects</a></span>
+
+</dd>
+
+      </div>
+
+      <div id="http//zotero.org/groups/2527038/items/wu4cpkyl">
+        <dt>
+          
+
+          
+          (2017)</dt>
+
+        <dd>
+          
+
+
+
+
+
+
+
+
+
+
+
+
+<span itemscope
+      itemtype="https://schema.org/Book"
+      data-type="book"><span itemprop="author" itemscope itemtype="https://schema.org/Person"></span>&#32;
+    (<span itemprop="datePublished">2017</span>).
+  &#32;<span itemprop="name">
+    <i>Introduction to the DPLA Metadata Model</i></span> (<span>5</span>).
+  <meta itemprop="locationCreated"
+        value="Boston, MA">&#32;
+  <span itemprop="publisher"
+             itemtype="http://schema.org/Organization"
+             itemscope>
+    <span itemprop="name">Digital Public Library of America</span></span>.&#32;Retrieved from&#32;
+  <a href="https://pro.dp.la/hubs/metadata-application-profile"
+     itemprop="identifier"
+     itemtype="https://schema.org/URL">https://pro.dp.la/hubs/metadata-application-profile</a></span>
+
+
+
+
+</dd>
+
+      </div>
+
+      <div id="http//zotero.org/groups/2527038/items/skdiarnm">
+        <dt>
+          
+
+          
+          (2021)</dt>
+
+        <dd>
+          
+
+
+
+
+
+
+
+
+
+
+
+
+<span itemscope
+      itemtype="https://schema.org/Book"
+      data-type="book"><span itemprop="author" itemscope itemtype="https://schema.org/Person"></span>&#32;
+    (<span itemprop="datePublished">2021</span>).
+  &#32;<span itemprop="name">
+    <i>Ohio Digital Network Metadata Application Profile</i></span> (<span>1.6</span>).
+  &#32;
+  <span itemprop="publisher"
+             itemtype="http://schema.org/Organization"
+             itemscope>
+    <span itemprop="name">Ohio DPLA Project</span></span>.&#32;Retrieved from&#32;
+  <a href="http://ohiodigitalnetwork.org/wp-content/uploads/metadata-application-profile-v1-6.pdf"
+     itemprop="identifier"
+     itemtype="https://schema.org/URL">http://ohiodigitalnetwork.org/wp-content/uploads/metadata-application-profile-v1-6.pdf</a></span>
+
+
+
+
+</dd>
+
+      </div>
+
+      <div id="http//zotero.org/groups/2527038/items/69gkmnbg">
+        <dt>
+          Wasson,&#32;
+          Medina,&#32;
+          Chong,&#32;
+          LeMay,&#32;
+          Nalin&#32;&amp;&#32;Saintonge
+
+          
+          (2018)</dt>
+
+        <dd>
+          
+
+
+
+
+
+
+
+
+
+
+
+
+<span itemscope
+      itemtype="https://schema.org/Article"
+      data-type="article"><span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Wasson</span>,&#32;
+    <meta itemprop="givenName" content="Christina" />
+    C.</span>,&#32;
+  <span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Medina</span>,&#32;
+    <meta itemprop="givenName" content="Melanie" />
+    M.</span>,&#32;
+  <span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Chong</span>,&#32;
+    <meta itemprop="givenName" content="Miyoung" />
+    M.</span>,&#32;
+  <span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">LeMay</span>,&#32;
+    <meta itemprop="givenName" content="Brittany" />
+    B.</span>,&#32;
+  <span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Nalin</span>,&#32;
+    <meta itemprop="givenName" content="Emma" />
+    E.</span>&#32;&amp;&#32;<span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Saintonge</span>,&#32;
+    <meta itemprop="givenName" content="Kenneth" />
+    K.</span>
+  &#32;
+    (<span itemprop="datePublished">2018</span>).
+  &#32;<span itemprop="name">Designing for Diverse User Groups: Case Study of a Language Archive</span>.<i>
+    <span itemprop="about">Journal of Business Anthropology</span>,&#32;7(2)</i>.&#32;<span itemprop="pagination">235–267</span>.
+  <a href="https://doi.org/10.22439/jba.v7i2.5605"
+     itemprop="identifier"
+     itemtype="https://schema.org/URL">https://doi.org/10.22439/jba.v7i2.5605</a></span>
+
+
+
+
+</dd>
+
+      </div>
+
+      <div id="http//zotero.org/groups/2527038/items/c97ivjnk">
+        <dt>
+          Albarillo&#32;&amp;&#32;Thieberger
+
+          
+          (2009)</dt>
+
+        <dd>
+          
+
+
+
+
+
+
+
+
+
+
+
+
+<span itemscope
+      itemtype="https://schema.org/Article"
+      data-type="article"><span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Albarillo</span>,&#32;
+    <meta itemprop="givenName" content="Emily E." />
+    E.</span>&#32;&amp;&#32;<span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Thieberger</span>,&#32;
+    <meta itemprop="givenName" content="Nicholas" />
+    N.</span>
+  &#32;
+    (<span itemprop="datePublished">2009</span>).
+  &#32;<span itemprop="name">Kaipuleohone, the University of Hawaiʻi’s Ethnographic Archive</span>.<i>
+    <span itemprop="about">Language Documentation &amp; Conservation</span>,&#32;3(1)</i>.&#32;<span itemprop="pagination">154–181</span>.&#32;Retrieved from&#32;
+  <a href="http://hdl.handle.net/10125/4422"
+     itemprop="identifier"
+     itemtype="https://schema.org/URL">http://hdl.handle.net/10125/4422</a></span>
+
+
+
+
+</dd>
+
+      </div>
+
+      <div id="http//zotero.org/groups/2527038/items/9uagbtme">
+        <dt>
+          Wiberg
+
+          
+          (2014)</dt>
+
+        <dd>
+          
+
+
+
+
+
+
+
+
+
+
+
+
+<span itemscope
+      itemtype="https://schema.org/CreativeWork"
+      data-type="speech"><span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Wiberg</span>,&#32;
+    <meta itemprop="givenName" content="Andrew" />
+    A.</span>
+  &#32;
+    (<span itemprop="datePublished">2014</span>).
+  &#32;<span itemprop="name">
+    <i>Mukurtu: Information Retrieval System Engineered for Indigenous Individuals and Communities</i></span>.
+  <meta itemprop="contentLocation"
+        content="Lyon, France">&#32;Retrieved from&#32;
+  <a href="http://ifla-test.eprints-hosting.org/id/eprint/922"
+     itemprop="identifier"
+     itemtype="https://schema.org/URL">http://ifla-test.eprints-hosting.org/id/eprint/922</a></span>
+
+</dd>
+
+      </div>
+
+      <div id="http//zotero.org/groups/2527038/items/if83nb9l">
+        <dt>
+          Burke,&#32;
+          Zavalina,&#32;
+          Chelliah&#32;&amp;&#32;Phillips
+
+          
+          (2022)</dt>
+
+        <dd>
+          
+
+
+
+
+
+
+
+
+
+
+
+
+<span itemscope
+      itemtype="https://schema.org/Article"
+      data-type="article"><span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Burke</span>,&#32;
+    <meta itemprop="givenName" content="Mary" />
+    M.</span>,&#32;
+  <span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Zavalina</span>,&#32;
+    <meta itemprop="givenName" content="Oksana L." />
+    O.</span>,&#32;
+  <span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Chelliah</span>,&#32;
+    <meta itemprop="givenName" content="Shobhana Lakshmi" />
+    S.</span>&#32;&amp;&#32;<span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Phillips</span>,&#32;
+    <meta itemprop="givenName" content="Mark E." />
+    M.</span>
+  &#32;
+    (<span itemprop="datePublished">2022</span>).
+  &#32;<span itemprop="name">User needs in language archives: Findings from interviews with language archive managers, depositors, and end-users</span>.<i>
+    <span itemprop="about">Language Documentation &amp; Conservation</span>,&#32;16</i>.&#32;<span itemprop="pagination">1–24</span>.&#32;Retrieved from&#32;
+  <a href="http://hdl.handle.net/10125/74669"
+     itemprop="identifier"
+     itemtype="https://schema.org/URL">http://hdl.handle.net/10125/74669</a></span>
+
+
+
+
+</dd>
+
+      </div>
+
+      <div id="http//zotero.org/groups/2527038/items/mgt6m2b7">
+        <dt>
+          Kipp
+
+          
+          (2007)</dt>
+
+        <dd>
+          
+
+
+
+
+
+
+
+
+
+
+
+
+<span itemscope
+      itemtype="https://schema.org/Article"
+      data-type="article"><span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Kipp</span>,&#32;
+    <meta itemprop="givenName" content="Darrell" />
+    D.</span>
+  &#32;
+    (<span itemprop="datePublished">2007</span>).
+  &#32;<span itemprop="name">Swimming in Words</span>.<i>
+    <span itemprop="about">Cultural Survival Quarterly</span>,&#32;31(2)</i>.&#32;<span itemprop="pagination">36–43</span>.&#32;Retrieved from&#32;
+  <a href="https://www.culturalsurvival.org/publications/cultural-survival-%20quarterly/swimming-words"
+     itemprop="identifier"
+     itemtype="https://schema.org/URL">https://www.culturalsurvival.org/publications/cultural-survival- quarterly/swimming-words</a></span>
+
+
+
+
+</dd>
+
+      </div>
+
+      <div id="http//zotero.org/groups/2527038/items/ur52lql2">
+        <dt>
+          Weber
+
+          
+          (2021)</dt>
+
+        <dd>
+          
+
+
+
+
+
+
+
+
+
+
+
+
+<span itemscope
+      itemtype="https://schema.org/Article"
+      data-type="article"><span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Weber</span>,&#32;
+    <meta itemprop="givenName" content="Tobias" />
+    T.</span>
+  &#32;
+    (<span itemprop="datePublished">2021</span>).
+  &#32;<span itemprop="name">The Curation of Language Data as a Distinct Academic Activity: A Call to Action for Researchers, Educators, Funders, and Policymakers</span>.<i>
+    <span itemprop="about">Journal of Open Humanities Data</span>,&#32;7(28)</i>.&#32;<span itemprop="pagination">1–10</span>.
+  <a href="https://doi.org/10.5334/johd.51"
+     itemprop="identifier"
+     itemtype="https://schema.org/URL">https://doi.org/10.5334/johd.51</a></span>
+
+
+
+
+</dd>
+
+      </div>
+  </dl>
+</section>
+
+
+
+</div>
+    
+
+
+
+
+
+  
+    <span><em>Tags</em>:</span>    
+
+<span class="article-tags">
+  
+  <a class="badge badge-light" href="/Hugh-CV/tag/archive/">Archive</a>
+  
+  <a class="badge badge-light" href="/Hugh-CV/tag/olac/">OLAC</a>
+  
+  <a class="badge badge-light" href="/Hugh-CV/tag/metadata/">Metadata</a>
+  
+  <a class="badge badge-light" href="/Hugh-CV/tag/dcmitype/">DCMIType</a>
+  
+  <a class="badge badge-light" href="/Hugh-CV/tag/collection/">Collection</a>
+  
+</span>
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    
+
+
+
+
+
+  
+    
+    
+    
+      
+    
+    
+    
+    <div class="media author-card content-widget-hr">
+      
+        
+        <img class="avatar mr-3 avatar-circle" src="/Hugh-CV/author/hugh-paterson-iii/avatar_huf06207d43952fcec4f010d643d581cb5_33859_270x270_fill_q90_lanczos_center.jpg" alt="Hugh Paterson III">
+      
+
+      <div class="media-body">
+        <h5 class="card-title"><a href="https://hughandbecky.us/Hugh-CV/">Hugh Paterson III</a></h5>
+        <h6 class="card-subtitle">Collaborative Scholar</h6>
+        <p class="card-text">My research interests include typological patterns in articulatory phonetics; User Experience design in language tools; and graph theory applied to language and linguistic resource discovery.</p>
+        <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="//scholar.google.com/citations?user=b3KeFqkAAAAJ" >
+        <i class="ai ai-google-scholar"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="//publons.com/author/1264484/hugh-paterson-iii#profile" >
+        <i class="ai ai-publons"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="//github.com/HughP" >
+        <i class="fab fa-github"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="//und.academia.edu/HughPaterson" >
+        <i class="ai ai-academia"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="//twitter.com/thejourneyler" >
+        <i class="fab fa-twitter"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="/Hugh-CV/cv/2022_04_HughPaterson_CV.pdf" >
+        <i class="ai ai-cv"></i>
+      </a>
+    </li>
+  
+</ul>
+
+      </div>
+    </div>
+  
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  <div class="article-widget content-widget-hr">
+    <h3>Related</h3>
+    <ul>
+      
+      <li><a href="/Hugh-CV/publication/2021-where-have-all-the-collections-gone/">Where Have All the Collections Gone?</a>&nbsp;&nbsp;<span class="badge badge-light" style="font-size: 0.6em; vertical-align: middle;">publication</span></li>
+      
+      <li><a href="/Hugh-CV/post/diversity-and-typology-across-olac-providers/">Diversity and Typology Across OLAC Providers</a>&nbsp;&nbsp;<span class="badge badge-light" style="font-size: 0.6em; vertical-align: middle;">post</span></li>
+      
+      <li><a href="/Hugh-CV/post/olac-subject-terms/">OLAC Subject Terms and Their Equivalents</a>&nbsp;&nbsp;<span class="badge badge-light" style="font-size: 0.6em; vertical-align: middle;">post</span></li>
+      
+      <li><a href="/Hugh-CV/publication/2021-language-archive-records/">Language Archive Records: Interoperability of Referencing Practices and Metadata Models</a>&nbsp;&nbsp;<span class="badge badge-light" style="font-size: 0.6em; vertical-align: middle;">publication</span></li>
+      
+      <li><a href="/Hugh-CV/post/corpora-collections-dataset/">Corpora, Collections, and Datasets</a>&nbsp;&nbsp;<span class="badge badge-light" style="font-size: 0.6em; vertical-align: middle;">post</span></li>
+      
+    </ul>
+  </div>
+  
+
+
+
+
+  </div>
+</div>
+
+      
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js" integrity="sha256-yt2kYMy0w8AbtF89WXb2P1rfjcP/HTHLT7097U8Y5b8=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/instant.page/5.1.0/instantpage.min.js" integrity="sha512-1+qUtKoh9XZW7j+6LhRMAyOrgSQKenQ4mluTR+cvxXjP1Z54RxZuzstR/H9kgPXQsVB8IW7DMDFUJpzLjvhGSQ==" crossorigin="anonymous"></script>
+
+      
+
+      
+
+    
+
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/leaflet.min.js" integrity="sha512-SeiQaaDh73yrb56sTW/RgVdi/mMqNeM2oBwubFHagc5BkixSpP1fvqF47mKzPGWYSSy4RwbBunrJBQ4Co8fRWA==" crossorigin="anonymous"></script>
+    
+
+    
+    
+    <script>const code_highlighting = false;</script>
+    
+
+    
+    
+    
+    
+    
+    
+    <script>
+      const search_config = {"indexURI":"/Hugh-CV/index.json","minLength":1,"threshold":0.3};
+      const i18n = {"no_results":"No results found","placeholder":"Search...","results":"results found"};
+      const content_type = {
+        'post': "Marginalia",
+        'project': "Projects",
+        'publication' : "Publications",
+        'talk' : "Talks",
+        'slides' : "Slides"
+        };
+    </script>
+    
+
+    
+    
+
+    
+    
+    <script id="search-hit-fuse-template" type="text/x-template">
+      <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{ snippet }}</p>
+        </div>
+      </div>
+      </div>
+    </script>
+    
+
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+    
+
+    
+    
+
+    
+    
+
+    
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+    
+    
+    <script src="/Hugh-CV/js/academic.min.3b2b658c61ebd725bd5fc606c89fe44c.js"></script>
+
+    
+
+
+
+
+
+
+  
+  
+  <div class="container">
+    <footer class="site-footer">
+  
+  <p class="powered-by">
+    
+      <a href="/Hugh-CV/tag/privacy-policy/">Privacy Policy</a>
+    
+    
+  </p>
+  
+
+  <p class="powered-by">
+    Hugh Paterson III © 2022
+  </p>
+
+  
+  
+
+
+
+
+
+
+  <p class="powered-by">
+    
+
+    
+    <span class="float-right" aria-hidden="true">
+      <a href="#" class="back-to-top">
+        <span class="button_icon">
+          <i class="fas fa-chevron-up fa-2x"></i>
+        </span>
+      </a>
+    </span>
+    
+  </p>
+</footer>
+
+  </div>
+  
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>

@@ -1,0 +1,2959 @@
+[
+	{
+		"id": "http://zotero.org/groups/2527038/items/MCAX9UJ7",
+		"type": "article-journal",
+		"container-title": "Language",
+		"DOI": "10.2307/416368",
+		"ISSN": "00978507",
+		"issue": "1",
+		"journalAbbreviation": "Language",
+		"language": "English",
+		"page": "1-42",
+		"title": "Endangered Languages",
+		"volume": "68",
+		"author": [
+			{
+				"family": "Hale",
+				"given": "Ken"
+			},
+			{
+				"family": "Krauss",
+				"given": "Michael"
+			},
+			{
+				"family": "Watahomigie",
+				"given": "Lucille J."
+			},
+			{
+				"family": "Yamamoto",
+				"given": "Akira Y."
+			},
+			{
+				"family": "Craig",
+				"given": "Colette"
+			},
+			{
+				"family": "Jeanne",
+				"given": "LaVerne Masayesva"
+			},
+			{
+				"family": "England",
+				"given": "Nora C."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1992"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2527038/items/WE7BXTL8",
+		"type": "chapter",
+		"abstract": "As language data and associated technologies proliferate and as the language resources community rapidly expands, it has become difficult to locate and reuse existing resources. Are there any lexical resources for such-and-such a language? What tool can work with transcripts in this particular format? What is a good format to use for linguistic data of this type? Questions like these dominate many mailing lists, since web search engines are an unreliable way to find language resources. This paper describes a new digital infrastructure for language resource discovery, based on the Open Archives Initiative, and called OLAC -- the Open Language Archives Community. The OLAC Metadata Set and the associated controlled vocabularies facilitate consistent description and focussed searching. We report progress on the metadata set and controlled vocabularies, describing current issues and soliciting input from the language resources community.",
+		"container-title": "Proceedings of ACL/EACL Workshop on Sharing Tools and Resources for Research and Education",
+		"event-place": "Université de Toulouse, France",
+		"language": "English",
+		"page": "7-18",
+		"publisher": "EACL-ACL; elsnet",
+		"publisher-place": "Université de Toulouse, France",
+		"title": "The OLAC metadata set and controlled vocabularies",
+		"URL": "https://www.aclweb.org/anthology/W01-1506",
+		"author": [
+			{
+				"family": "Bird",
+				"given": "Steven"
+			},
+			{
+				"family": "Simons",
+				"given": "Gary F."
+			}
+		],
+		"editor": [
+			{
+				"family": "DeClerck",
+				"given": "Thierry"
+			},
+			{
+				"family": "Krauwer",
+				"given": "Steven"
+			},
+			{
+				"family": "Rosner",
+				"given": "Mike"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2001"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2527038/items/2RVRGG2B",
+		"type": "speech",
+		"event": "Planning Workshop on Data Archives and Languages of the Americas,  February 8th-9th,",
+		"event-place": "Philadelphia, PA",
+		"genre": "Presentation Slides",
+		"language": "en",
+		"publisher-place": "Philadelphia, PA",
+		"title": "SIL International Language and Culture Archives",
+		"URL": "https://www.ldc.upenn.edu/sites/www.ldc.upenn.edu/files/nordmoe.pdf",
+		"author": [
+			{
+				"family": "Nordmoe",
+				"given": "Jeremy"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2018"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2527038/items/7MAD62HM",
+		"type": "chapter",
+		"collection-number": "12",
+		"collection-title": "Language Documentation and Description",
+		"container-title": "Special Issue on Language Documentation and Archiving",
+		"event-place": "London",
+		"language": "en",
+		"page": "19–36",
+		"publisher": "SOAS",
+		"publisher-place": "London",
+		"source": "Zotero",
+		"title": "Archives and audiences: Toward making endangered language documentations people can read, use, understand, and admire",
+		"URL": "http://www.elpublishing.org/PID/135",
+		"author": [
+			{
+				"family": "Woodbury",
+				"given": "Anthony C"
+			}
+		],
+		"editor": [
+			{
+				"family": "Nathan",
+				"given": "David"
+			},
+			{
+				"family": "Austin",
+				"given": "Peter K."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2014"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2527038/items/CH8EL3F9",
+		"type": "chapter",
+		"abstract": "While many language archives were originally conceived for the purpose of preserving linguistic data, these data have the potential to inform knowledge beyond the narrow field of linguistics. Today language archives are being used by people without formal linguistic training for purposes not necessarily envisioned by the original creators of the language documentation. The DoBeS Archive is particularly well-placed to become an important resource for cultural documentation, since many of the DoBeS projects have been interdisciplinary in nature, documenting language within its broader social and cultural context. In this paper I present a perspective from a legacy archive created well before the modern era of digital language documentation exemplified by the DoBeS program. In particular, I describe two types of non-linguistic uses which are becoming increasingly important at the Alaska Native Language Archive.",
+		"collection-number": "3",
+		"collection-title": "Language Documentation & Conservation Special Publication",
+		"container-title": "Potentials of Language Documentation: Methods, Analyses, and Utilization",
+		"event-place": "Honolulu, Hawai'i",
+		"ISBN": "978-0-9856211-0-0",
+		"language": "en",
+		"page": "111-117",
+		"publisher": "University of Hawai'i Press",
+		"publisher-place": "Honolulu, Hawai'i",
+		"source": "scholarspace.manoa.hawaii.edu",
+		"title": "Language archives: They’re not just for linguists any more",
+		"URL": "http://scholarspace.manoa.hawaii.edu/handle/10125/4523",
+		"author": [
+			{
+				"family": "Holton",
+				"given": "Gary"
+			}
+		],
+		"editor": [
+			{
+				"family": "Seifart",
+				"given": "Frank"
+			},
+			{
+				"family": "Haig",
+				"given": "Geoffrey"
+			},
+			{
+				"family": "Himmelmann",
+				"given": "Nikolaus P."
+			},
+			{
+				"family": "Jung",
+				"given": "Dagmar"
+			},
+			{
+				"family": "Margetts",
+				"given": "Anna"
+			},
+			{
+				"family": "Trilsbeek",
+				"given": "Paul"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					4,
+					20
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2012"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2527038/items/TG27X7HW",
+		"type": "paper-conference",
+		"abstract": "According to the Singapore Framework, any development of a Dublin Core Application Profile (DCAP) has to include the creation of a domain model.  DC Scholarly Works Application Profile (SWAP) was the first one explicitly using Functional Requirements for Bibliographic Records (FRBR) model in creating its domain model. FRBR has recently been extended with Functional Requirements for Authority Data (FRAD) and Functional Requirement for Subject Authority Data (FRSAD) thus forming the so-called FRBR family. This paper first further develops the SWAP domain model to incorporate the FRBR family models.  Then a generalized FRBR-family-based DCAP domain model is presented to be used as the basis for specific domain application profiles.",
+		"container-title": "DCMI '10: Proceedings of the 2010 International Conference on Dublin Core and Metadata Applications",
+		"event": "DC-2010--Pittsburgh",
+		"event-place": "Pittsburgh, Pennsylvania",
+		"language": "en",
+		"note": "ISSN:",
+		"page": "21–30",
+		"publisher": "Dublin Core Metadata Initiative",
+		"publisher-place": "Pittsburgh, Pennsylvania",
+		"source": "dcpapers.dublincore.org",
+		"title": "FRBR: A Generalized Approach to Dublin Core Application Profiles",
+		"title-short": "FRBR",
+		"URL": "https://dcpapers.dublincore.org/pubs/article/view/1024",
+		"author": [
+			{
+				"family": "Žumer",
+				"given": "Maja"
+			},
+			{
+				"family": "Zeng",
+				"given": "Marcia Lei"
+			},
+			{
+				"family": "Salaba",
+				"given": "Athena"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					1,
+					23
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2010",
+					9,
+					20
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2527038/items/FFW6XR38",
+		"type": "article-journal",
+		"abstract": "Background. There are many digital archives in cultural domains, but there is no well-established metadata model which covers both tangible and intangible cultural heritage. Neither is there a well-established metadata model applicable to building digital archives by aggregating existing cultural heritage information. Objectives. The objective of this study is to develop a metadata model for digital archives of diverse cultural resources and dispersed communities, where metadata aggregation from different sources is required. This paper presents a model called Cultural Heritage in Digital Environment (CHDE) for organizing various digital CHI organized as a digital archive. Methods. The CHDE model is created as a generalized metadata model. It clearly distinguishes an intangible cultural heritage entity and its instantiation to model digital archives for intangible cultural heritage like those for tangible cultural heritage. The CHDE model is defined using the One-to-One Principle of metadata, and is used to clearly identify the relationships between metadata and the entities described by the metadata. Finally, this paper shows the application of the CHDE with use cases of cultural heritage objects. Results. CHDE enables the organization of digital cultural heritage information related to tangible and intangible cultural heritage. It identifies the physical and digital information environment of cultural heritage, and further supports the modeling of digital archives built by aggregating cultural heritage information on the Web. Contributions. This novel approach will benefit memory institutions which have insufficient resources to create digital resources such as those in South and Southeast Asia. Also, intangible cultural heritage organization through instantiation is a useful approach.",
+		"container-title": "Libres",
+		"issue": "2",
+		"journalAbbreviation": "Libres",
+		"page": "58-80",
+		"source": "ResearchGate",
+		"title": "Metadata model for organizing digital archives of tangible and intangible cultural heritage, and linking cultural heritage information in digital space",
+		"volume": "28",
+		"author": [
+			{
+				"family": "Wijesundara",
+				"given": "Chathurangani"
+			},
+			{
+				"family": "Sugimoto",
+				"given": "Shigeo"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2018",
+					12,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2527038/items/LL8NIG75",
+		"type": "book",
+		"event-place": "Washington, D.C.",
+		"language": "en",
+		"publisher": "Library of Congress Cataloging Distribution Service",
+		"publisher-place": "Washington, D.C.",
+		"source": "Zotero",
+		"title": "What is FRBR? — A Conceptual Model for the Bibliographic Universe",
+		"URL": "https://www.loc.gov/cds/downloads/FRBR.PDF",
+		"author": [
+			{
+				"family": "Tillett",
+				"given": "Barbara"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2004"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2527038/items/AJK9HYUW",
+		"type": "article-journal",
+		"abstract": "This paper provides an overview of Dublin Core (DC) and DSpace together with an examination of the institutional repositories of three public research universities. The universities all use DC and DSpace to create and manage their repositories. I drew a sampling of records from each repository and examined them for metadata quality using the criteria of completeness, accuracy, and consistency. I also examined the quality of records with reference to the methods of educating repository users. One repository used librarians to oversee the archiving process, while the other two employed two different strategies as part of the selfarchiving process. The librarian-overseen archive had the most complete and accurate records for DSpace entries.",
+		"container-title": "Information Technology and Libraries",
+		"DOI": "10.6017/ital.v29i1.3157",
+		"ISSN": "2163-5226, 0730-9295",
+		"issue": "1",
+		"journalAbbreviation": "ITAL",
+		"language": "en",
+		"note": "number: 1",
+		"page": "40-46",
+		"source": "ejournals.bc.edu",
+		"title": "Dublin Core, DSpace, and a Brief Analysis of Three University Repositories",
+		"URL": "https://ejournals.bc.edu/index.php/ital/article/view/3157",
+		"volume": "29",
+		"author": [
+			{
+				"family": "Kurtz",
+				"given": "Mary"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					1,
+					27
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2010",
+					3,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2527038/items/TGWRPWWQ",
+		"type": "article-journal",
+		"container-title": "Current Anthropology",
+		"DOI": "10.1086/204721",
+		"ISSN": "0011-3204, 1537-5382",
+		"issue": "2",
+		"language": "en",
+		"page": "193–222",
+		"source": "Crossref",
+		"title": "Can Culture Be Copyrighted?",
+		"URL": "https://www.journals.uchicago.edu/doi/10.1086/204721",
+		"volume": "39",
+		"author": [
+			{
+				"family": "Brown",
+				"given": "Michael F."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2018",
+					9,
+					3
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1998",
+					4
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2527038/items/M2R62BXW",
+		"type": "article-journal",
+		"abstract": "The Open Access Movement promotes free and unfettered access to research publications and, increasingly, to the primary data which underly those publications. As the field of documentary linguistics seeks to record and preserve culturally and linguistically relevant materials, the question of how openly accessible these materials should be becomes increasingly important. This paper aims to guide researchers and other stakeholders in finding an appropriate balance between accessibility and confidentiality of data, addressing community questions and legal, institutional, and intellectual issues that pose challenges to accessible data.",
+		"container-title": "Language Documentation & Conservation",
+		"ISSN": "1934-5275",
+		"language": "en-US",
+		"note": "Accepted: 2019-10-05T02:05:15Z\npublisher: University of Hawaii Press",
+		"page": "545-563",
+		"source": "scholarspace.manoa.hawaii.edu",
+		"title": "Public access to research data in language documentation: Challenges and possible strategies",
+		"title-short": "Public access to research data in language documentation",
+		"URL": "http://scholarspace.manoa.hawaii.edu/handle/10125/24901",
+		"volume": "13",
+		"author": [
+			{
+				"family": "Seyfeddinipur",
+				"given": "Mandana"
+			},
+			{
+				"family": "Ameka",
+				"given": "Felix"
+			},
+			{
+				"family": "Bolton",
+				"given": "Lissant"
+			},
+			{
+				"family": "Blumtritt",
+				"given": "Jonathan"
+			},
+			{
+				"family": "Carpenter",
+				"given": "Brian"
+			},
+			{
+				"family": "Cruz",
+				"given": "Hilaria"
+			},
+			{
+				"family": "Drude",
+				"given": "Sebastian"
+			},
+			{
+				"family": "Epps",
+				"given": "Patience L."
+			},
+			{
+				"family": "Ferreira",
+				"given": "Vera"
+			},
+			{
+				"family": "Galucio",
+				"given": "Ana Vilacy"
+			},
+			{
+				"family": "Hellwig",
+				"given": "Brigit"
+			},
+			{
+				"family": "Hinte",
+				"given": "Oliver"
+			},
+			{
+				"family": "Holton",
+				"given": "Gary"
+			},
+			{
+				"family": "Jung",
+				"given": "Dagmar"
+			},
+			{
+				"family": "Buddeberg",
+				"given": "Irmgarda Kasinskaite"
+			},
+			{
+				"family": "Krifka",
+				"given": "Manfred"
+			},
+			{
+				"family": "Kung",
+				"given": "Susan"
+			},
+			{
+				"family": "Monroig",
+				"given": "Miyuki"
+			},
+			{
+				"family": "Neba",
+				"given": "Ayu'nwi Ngwabe"
+			},
+			{
+				"family": "Nordhoff",
+				"given": "Sebastian"
+			},
+			{
+				"family": "Pakendorf",
+				"given": "Brigitte"
+			},
+			{
+				"family": "Prince",
+				"given": "Kilu",
+				"non-dropping-particle": "von"
+			},
+			{
+				"family": "Rau",
+				"given": "Felix"
+			},
+			{
+				"family": "Rice",
+				"given": "Keren"
+			},
+			{
+				"family": "Riessler",
+				"given": "Michael"
+			},
+			{
+				"family": "Szoelloesi Brenig",
+				"given": "Vera"
+			},
+			{
+				"family": "Thieberger",
+				"given": "Nick"
+			},
+			{
+				"family": "Trilsbeek",
+				"given": "Paul"
+			},
+			{
+				"family": "Voort",
+				"given": "Hein",
+				"non-dropping-particle": "van der"
+			},
+			{
+				"family": "Woodbury",
+				"given": "Tony"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					2,
+					15
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2019",
+					10
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2527038/items/TIFS7N3S",
+		"type": "chapter",
+		"abstract": "This chapter contains sections titled: * General Problems with Speech Community as a Concept * History of the Speech Community: Principal Theorists * The Speech Community and Models of Society * Other Developments in the Speech Community Concept",
+		"container-title": "The Handbook of Language Variation and Change",
+		"event-place": "Malden, MA",
+		"ISBN": "978-0-470-75659-1",
+		"language": "English",
+		"note": "DOI: 10.1002/9780470756591.ch23",
+		"page": "573–597",
+		"publisher": "Blackwell Publishing Ltd",
+		"publisher-place": "Malden, MA",
+		"title": "The Speech Community",
+		"author": [
+			{
+				"family": "Patrick",
+				"given": "Peter L."
+			}
+		],
+		"editor": [
+			{
+				"family": "Chambers",
+				"given": "J. K."
+			},
+			{
+				"family": "Trudgill",
+				"given": "Peter"
+			},
+			{
+				"family": "Schilling-Estes",
+				"given": "Natalie"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2008"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2527038/items/VAQCLU2C",
+		"type": "book",
+		"edition": "2nd",
+		"event-place": "Chicago, Illinois",
+		"language": "en",
+		"publisher": "Society of American Archivists",
+		"publisher-place": "Chicago, Illinois",
+		"title": "Describing archives: a content standard",
+		"URL": "http://files.archivists.org/pubs/DACS2E-2013_v0315.pdf",
+		"author": [
+			{
+				"literal": "Society of American Archivists"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2013"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2527038/items/IDKC38NH",
+		"type": "article-journal",
+		"abstract": "At present there are no established collection development methods for building large-scale digital aggregations. However, to realize the potential of the collective base of digital content and advance scholarship, aggregations must do more than provide search of sizable bodies of content. Informed by empirical understanding of scholarly information practices, the IMLS Digital Collections and Content project developed an aggregation strategy for building Opening History, one of the largest digital cultural heritage aggregations in the country. The strategy applied policy-driven collecting, based on the principle of contextual mass, and conspectus-style evaluation of collection-level metadata to identify strong subject areas within the aggregation. Analysis of density, interconnectedness, diversity, and small/large collection complementarity determined subject concentrations and thematic strengths to be prioritized for future collection development and used as organizational structures for browsing and visualization. The approach models how scholars build their own personal research collections, as they follow leads from collection to collection across institutions near and far, and adds value that cannot be achieved through conventional retrieval and browsing at the item-level.",
+		"container-title": "Proceedings of the American Society for Information Science and Technology",
+		"DOI": "10.1002/meet.14504701213",
+		"ISSN": "00447870",
+		"issue": "1",
+		"journalAbbreviation": "Proc. Am. Soc. Info. Sci. Tech.",
+		"language": "en",
+		"page": "1-10",
+		"source": "DOI.org (Crossref)",
+		"title": "Beyond size and search: Building contextual mass in digital aggregations for scholarly use",
+		"title-short": "Beyond size and search",
+		"URL": "http://doi.wiley.com/10.1002/meet.14504701213",
+		"volume": "47",
+		"author": [
+			{
+				"family": "Palmer",
+				"given": "Carole L."
+			},
+			{
+				"family": "Zavalina",
+				"given": "Oksana L."
+			},
+			{
+				"family": "Fenlon",
+				"given": "Katrina"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					3,
+					5
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2010",
+					11
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2527038/items/H5F7MSPQ",
+		"type": "article-journal",
+		"container-title": "D-Lib Magazine",
+		"DOI": "10.1045/may2014-wickett",
+		"ISSN": "1082-9873",
+		"issue": "5/6",
+		"journalAbbreviation": "D-Lib Magazine",
+		"language": "en",
+		"source": "DOI.org (Crossref)",
+		"title": "Representing Cultural Collections in Digital Aggregation and Exchange Environments",
+		"URL": "http://www.dlib.org/dlib/may14/wickett/05wickett.html",
+		"volume": "20",
+		"author": [
+			{
+				"family": "Wickett",
+				"given": "Karen M."
+			},
+			{
+				"family": "Isaac",
+				"given": "Antoine"
+			},
+			{
+				"family": "Doerr",
+				"given": "Martin"
+			},
+			{
+				"family": "Fenlon",
+				"given": "Katrina"
+			},
+			{
+				"family": "Meghini",
+				"given": "Carlo"
+			},
+			{
+				"family": "Palmer",
+				"given": "Carole"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					3,
+					5
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2014",
+					5
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2527038/items/6FKUEQVA",
+		"type": "book",
+		"edition": "December 2017",
+		"event-place": "Den Haag, Netherlands",
+		"language": "en",
+		"publisher": "International Federation of Library Associations and Institutions (IFLA)",
+		"publisher-place": "Den Haag, Netherlands",
+		"source": "Zotero",
+		"title": "IFLA Library Reference Model A Conceptual Model for Bibliographic Information",
+		"URL": "https://www.ifla.org/publications/node/11412",
+		"editor": [
+			{
+				"family": "Riva",
+				"given": "Pat"
+			},
+			{
+				"family": "Le Bœuf",
+				"given": "Patrick"
+			},
+			{
+				"family": "Žumer",
+				"given": "Maja"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2527038/items/J6CZRKUA",
+		"type": "chapter",
+		"collection-number": "2",
+		"collection-title": "World Oral Literature Series",
+		"container-title": "Oral Literature in the Digital Age",
+		"event-place": "Cambridge, England",
+		"language": "en",
+		"note": "DOI: 10.111647/OBP.0032.03",
+		"page": "21–41",
+		"publisher": "Open Book Publishers",
+		"publisher-place": "Cambridge, England",
+		"source": "Zotero",
+		"title": "Access and Accessibility at ELAR, a Social Networking Archive for Endangered Languages Documentation",
+		"editor": [
+			{
+				"family": "Turin",
+				"given": "Mark"
+			},
+			{
+				"family": "Wheeler",
+				"given": "Claire"
+			},
+			{
+				"family": "Wilkinson",
+				"given": "Eleanor"
+			}
+		],
+		"author": [
+			{
+				"family": "Nathan",
+				"given": "David"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2013"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2527038/items/YEVYT7S2",
+		"type": "speech",
+		"event": "DELAMAN III",
+		"event-place": "University of Texas at Austin 21-22 November",
+		"genre": "Presentation Paper",
+		"language": "en",
+		"publisher-place": "University of Texas at Austin 21-22 November",
+		"title": "Introducing the ELAR information system architecture",
+		"URL": "http://www.robertmunro.com/research/munro05elar.pdf",
+		"author": [
+			{
+				"family": "Munro",
+				"given": "Robert"
+			},
+			{
+				"family": "Nathan",
+				"given": "David"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2005"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2527038/items/26SB49G5",
+		"type": "speech",
+		"event": "Ozeculture conference, Brisbane Powerhouse, 31 July",
+		"event-place": "Brisbane, Australia",
+		"genre": "Presentation Paper",
+		"publisher-place": "Brisbane, Australia",
+		"title": "Planning for PARADISEC: The Pacific And Regional Archive for Digital Sources in Endangered Cultures",
+		"URL": "https://web.archive.org/web/20080815073730/http://www.acn.net.au/conference3/barwick/barwick.pdf",
+		"author": [
+			{
+				"family": "Barwick",
+				"given": "Linda"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					3,
+					7
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2003"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2527038/items/VI9V7QMQ",
+		"type": "chapter",
+		"collection-number": "158",
+		"container-title": "Language Documentation: Practice and Values",
+		"event-place": "Amsterdam; Philadelphia, PA",
+		"ISBN": "978-90-272-1175-0",
+		"language": "en",
+		"note": "tex.ids= grenoble_sharing_2010-1, thieberger_sharing_2010, thieberger_sharing_2010-1, thieberger_sharing_2010-2\nDOI: 10.1075/z.158.15thi\nURL: http://minerva-access.unimelb.edu.au/handle/11343/31220",
+		"page": "147-158",
+		"publisher": "John Benjamins Publishing Company",
+		"publisher-place": "Amsterdam; Philadelphia, PA",
+		"source": "DOI.org (Crossref)",
+		"title": "Sharing data in small and endangered languages: Cataloging and metadata, formats, and encodings",
+		"title-short": "Sharing data in small and endangered languages",
+		"URL": "https://benjamins.com/catalog/z.158.15thi",
+		"editor": [
+			{
+				"family": "Grenoble",
+				"given": "Lenore A."
+			},
+			{
+				"family": "Furbee",
+				"given": "N. Louanna"
+			}
+		],
+		"author": [
+			{
+				"family": "Thieberger",
+				"given": "Nicholas"
+			},
+			{
+				"family": "Jacobson",
+				"given": "Michel"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					3,
+					8
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2010"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2527038/items/CUK6X5AF",
+		"type": "article-journal",
+		"container-title": "Proceedings of the Association for Information Science and Technology",
+		"DOI": "10.1002/pra2.429",
+		"ISSN": "2373-9231, 2373-9231",
+		"issue": "1",
+		"journalAbbreviation": "Proc Assoc Inf Sci Technol",
+		"language": "en",
+		"source": "DOI.org (Crossref)",
+		"title": "Descriptive richness of free‐text metadata: A comparative analysis of three language archives",
+		"title-short": "Descriptive richness of free‐text metadata",
+		"URL": "https://onlinelibrary.wiley.com/doi/10.1002/pra2.429",
+		"volume": "57",
+		"author": [
+			{
+				"family": "Burke",
+				"given": "Mary"
+			},
+			{
+				"family": "Zavalina",
+				"given": "Oksana L."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					3,
+					8
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2020",
+					10
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2527038/items/G9R2PP23",
+		"type": "article-journal",
+		"abstract": "This study presents the current state of research and practice on metadata quality through focus on the functional perspective on metadata quality, measurement, and evaluation criteria coupled with mechanisms for improving metadata quality. Quality metadata reflect the degree to which the metadata in question perform the core bibliographic functions of discovery, use, provenance, currency, authentication, and administration. The functional perspective is closely tied to the criteria and measurements used for assessing metadata quality. Accuracy, completeness, and consistency are the most common criteria used in measuring metadata quality in the literature. Guidelines embedded within a Web form or template perform a valuable function in improving the quality of the metadata. Results of the study indicate a pressing need for the building of a common data model that is interoperable across digital repositories.",
+		"container-title": "Cataloging & Classification Quarterly",
+		"DOI": "10.1080/01639370902737240",
+		"ISSN": "0163-9374, 1544-4554",
+		"issue": "3-4",
+		"journalAbbreviation": "Cataloging & Classification Quarterly",
+		"language": "en",
+		"note": "_eprint: https://doi.org/10.1080/01639370902737240\ntex.ids= park_metadata_2009-1, park_metadata_2009-2\npublisher: Routledge",
+		"page": "213-228",
+		"source": "Taylor and Francis+NEJM",
+		"title": "Metadata Quality in Digital Repositories: A Survey of the Current State of the Art",
+		"title-short": "Metadata Quality in Digital Repositories",
+		"URL": "http://www.tandfonline.com/doi/abs/10.1080/01639370902737240",
+		"volume": "47",
+		"author": [
+			{
+				"family": "Park",
+				"given": "Jung-Ran"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					3,
+					8
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2009",
+					4,
+					9
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2527038/items/ZDP9Y8P2",
+		"type": "article-journal",
+		"abstract": "This study explores the current state of metadata-creation practices across digital repositories and collections by using data collected from a nationwide survey of mostly cataloging and metadata professionals. Results show that MARC, AACR2, and LCSH are the most widely used metadata schema, content standard, and subjectcontrolled vocabulary, respectively. Dublin Core (DC) is the second most widely used metadata schema, followed by EAD, MODS, VRA, and TEI. Qualified DC’s wider use vis-à-vis Unqualified DC (40.6 percent versus 25.4 percent) is noteworthy. The leading criteria in selecting metadata and controlled-vocabulary schemata are collection-specific considerations, such as the types of resources, nature of the collection, and needs of primary users and communities. Existing technological infrastructure and staff expertise also are significant factors contributing to the current use of metadata schemata and controlled vocabularies for subject access across distributed digital repositories and collections. Metadata interoperability remains a major challenge. There is a lack of exposure of locally created metadata and metadata guidelines beyond the local environments. Homegrown locally added metadata elements may also hinder metadata interoperability across digital repositories and collections when there is a lack of sharable mechanisms for locally defined extensions and variants.",
+		"container-title": "Information Technology and Libraries",
+		"DOI": "10.6017/ital.v29i3.3136",
+		"ISSN": "2163-5226",
+		"issue": "3",
+		"language": "en",
+		"note": "number: 3",
+		"page": "104-116",
+		"source": "ejournals.bc.edu",
+		"title": "Metadata Creation Practices in Digital Repositories and Collections: Schemata, Selection Criteria, and Interoperability",
+		"title-short": "Metadata Creation Practices in Digital Repositories and Collections",
+		"URL": "https://ejournals.bc.edu/index.php/ital/article/view/3136",
+		"volume": "29",
+		"author": [
+			{
+				"family": "Park",
+				"given": "Jung-ran"
+			},
+			{
+				"family": "Tosaka",
+				"given": "Yuji"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					3,
+					8
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2010",
+					9,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2527038/items/TASMEUE9",
+		"type": "article-journal",
+		"container-title": "Ariadne",
+		"ISSN": "1361-3200",
+		"language": "en",
+		"source": "www.ariadne.ac.uk",
+		"title": "Application Profiles: Mixing and Matching Metadata Schemas",
+		"title-short": "Application Profiles",
+		"URL": "http://www.ariadne.ac.uk/issue/25/app-profiles/",
+		"volume": "25",
+		"author": [
+			{
+				"family": "Heery",
+				"given": "Rachel"
+			},
+			{
+				"family": "Patel",
+				"given": "Manjula"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					3,
+					11
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2000"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2527038/items/NFNP4QCP",
+		"type": "chapter",
+		"abstract": "There exist many digital collections of cultural and historical resources, referred to as digital archives in this paper. Domains of digital archives are expanding from traditional cultural heritage objects to new areas such as popular culture and intangible entities. Though it is known that metadata models and authority records, such as subject vocabularies, are essential in building digital archives, they are not yet well established in these new domains. Another crucial issue is semantic linking among resources within a digital archive and across digital archives. Metadata aggregation is an essential aspect for the resource linking. This paper overviews three metadatacentric on-going research projects by the authors and discusses some lessons learned from them. The subject domains of these research projects are disaster records of the 2011 Great East Japan Earthquake, Japanese popular culture such as Manga, Anime and Games, and cultural heritage resources in South and Southeast Asia. The main goal of this paper is not to report on these projects as completed research, but to discuss issues of metadata models and aggregation which are important in organizing digital archives in the web-based information environment.",
+		"collection-title": "DCMI 2018: Proceedings of the International Conference on Dublin Core and Metadata Applications",
+		"container-title": "DC-2018--The Porto, Portugal Proceedings",
+		"event-place": "Dublin, Ohio",
+		"language": "en",
+		"page": "95–105",
+		"publisher": "Dublin Core Metadata Initiative",
+		"publisher-place": "Dublin, Ohio",
+		"source": "Zotero",
+		"title": "Metadata Models for Organizing Digital Archives on the Web: Metadata-Centric Projects at Tsukuba and Lessons Learned",
+		"URL": "https://dcpapers.dublincore.org/pubs/article/view/3968/",
+		"author": [
+			{
+				"family": "Sugimoto",
+				"given": "Shigeo"
+			},
+			{
+				"family": "Kiryakos",
+				"given": "Senan"
+			},
+			{
+				"family": "Wijesundara",
+				"given": "Chiranthi"
+			},
+			{
+				"family": "Monika",
+				"given": "Winda"
+			},
+			{
+				"family": "Mihara",
+				"given": "Tetsuya"
+			},
+			{
+				"family": "Nagamori",
+				"given": "Mitsuharu"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2018"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2527038/items/6RPGSZA4",
+		"type": "article-journal",
+		"container-title": "Journal of Library Metadata",
+		"DOI": "10.1080/19386380802627109",
+		"ISSN": "1938-6389, 1937-5034",
+		"issue": "4",
+		"journalAbbreviation": "Journal of Library Metadata",
+		"language": "en",
+		"page": "263-292",
+		"source": "DOI.org (Crossref)",
+		"title": "Evaluating Descriptive Richness in Collection-Level Metadata",
+		"URL": "http://www.tandfonline.com/doi/abs/10.1080/19386380802627109",
+		"volume": "8",
+		"author": [
+			{
+				"family": "Zavalina",
+				"given": "Oksana L."
+			},
+			{
+				"family": "Palmer",
+				"given": "Carole L."
+			},
+			{
+				"family": "Jackson",
+				"given": "Amy S."
+			},
+			{
+				"family": "Han",
+				"given": "Myung-Ja"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					3,
+					14
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2009",
+					1,
+					30
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2527038/items/PSEDIEGJ",
+		"type": "chapter",
+		"collection-number": "2",
+		"collection-title": "Information Science and Knowledge Management",
+		"container-title": "Relationships in the Organization of Knowledge",
+		"event-place": "Dordrecht",
+		"ISBN": "978-90-481-5652-8",
+		"note": "collection-title: Information Science and Knowledge Management\nDOI: 10.1007/978-94-015-9696-1_2",
+		"page": "19-35",
+		"publisher": "Springer Netherlands",
+		"publisher-place": "Dordrecht",
+		"source": "DOI.org (Crossref)",
+		"title": "Bibliographic Relationships",
+		"URL": "http://link.springer.com/10.1007/978-94-015-9696-1_2",
+		"collection-editor": [
+			{
+				"family": "Owen",
+				"given": "J. Mackenzie"
+			}
+		],
+		"editor": [
+			{
+				"family": "Bean",
+				"given": "Carol A."
+			},
+			{
+				"family": "Green",
+				"given": "Rebecca"
+			}
+		],
+		"author": [
+			{
+				"family": "Tillett",
+				"given": "Barbara B."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					3,
+					14
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2001"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2527038/items/A79KRWLV",
+		"type": "article-journal",
+		"container-title": "D-Lib Magazine",
+		"DOI": "10.1045/may2017-christen",
+		"ISSN": "1082-9873",
+		"issue": "5/6",
+		"journalAbbreviation": "D-Lib Magazine",
+		"language": "en",
+		"source": "DOI.org (Crossref)",
+		"title": "A Community of Relations: Mukurtu Hubs and Spokes",
+		"title-short": "A Community of Relations",
+		"URL": "http://www.dlib.org/dlib/may17/christen/05christen.html",
+		"volume": "23",
+		"author": [
+			{
+				"family": "Christen",
+				"given": "Kimberly"
+			},
+			{
+				"family": "Merrill",
+				"given": "Alex"
+			},
+			{
+				"family": "Wynne",
+				"given": "Michael"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					3,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2017",
+					5
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2527038/items/BXBPD95J",
+		"type": "chapter",
+		"abstract": "Language archives are repositories of linguistic data about a selected set of languages, typically including recordings, transcripts, translations, and linguistic annotations. Digital accessibility of primary language data, particularly that of endangered languages, has long been recognized as necessary for research reproducibility, production of pedagogical materials, and typological discovery, though their potential currently lies dormant because these resources are rarely accessed by linguists or language communities. Reasons for the under-utilization of language archives include the lack of data standardization and decreased focus on metadata quality. The present work seeks to elucidate the issues facing language archive managers and users through two steps: content analysis of information organization in language archives, and semi-structured interviews with language archive managers and users. Primary challenges identified include lacking institutional support and a range of factors which impact authority control in language archives.",
+		"collection-number": "12051",
+		"collection-title": "Lecture Notes in Computer Science",
+		"container-title": "Sustainable digital communities: Proceedings of the 15th international conference, iConference 2020, Böras, Sweden, March 23–26, 2020",
+		"event-place": "Cham, Switzerland",
+		"ISBN": "978-3-030-43686-5",
+		"language": "en",
+		"note": "collection-title: Lecture Notes in Computer Science\nDOI: 10.1007/978-3-030-43687-2_52",
+		"page": "622-629",
+		"publisher": "Springer International Publishing",
+		"publisher-place": "Cham, Switzerland",
+		"source": "DOI.org (Crossref)",
+		"title": "Identifying Challenges for Information Organization in Language Archives: Preliminary Findings",
+		"title-short": "Identifying Challenges for Information Organization in Language Archives",
+		"URL": "http://link.springer.com/10.1007/978-3-030-43687-2_52",
+		"editor": [
+			{
+				"family": "Sundqvist",
+				"given": "Anneli"
+			},
+			{
+				"family": "Berget",
+				"given": "Gerd"
+			},
+			{
+				"family": "Nolin",
+				"given": "Jan"
+			},
+			{
+				"family": "Skjerdingstad",
+				"given": "Kjell Ivar"
+			}
+		],
+		"author": [
+			{
+				"family": "Burke",
+				"given": "Mary"
+			},
+			{
+				"family": "Zavalina",
+				"given": "Oksana L."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					3,
+					21
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2020"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2527038/items/D5C2PW9X",
+		"type": "chapter",
+		"abstract": "We describe the motivation, design and implementation of an infrastructure to support metadata quality assessment within a specialised Open Archives Initiative (OAI) sub-domain, the Open Language Archives Community (OLAC). While services for structural validation of metadata are widely used, there is little corresponding work regarding services which evaluate the semantic and syntactic content of metadata from a qualitative perspective. We posit that any measure of metadata quality benefits from both contextual and referential assessment - metadata on a per record and per collection basis is legitimately assessed against the baseline of broader community practice, as well as for compliance to any external standard. In this paper we describe the implementation of a metadata quality assessment scheme, and the corresponding interfaces to the evaluation tool.",
+		"collection-number": "3334",
+		"collection-title": "Lecture Notes in Computer Science",
+		"container-title": "Digital Libraries: International Collaboration and Cross-Fertilization",
+		"event-place": "Berlin, Heidelberg",
+		"ISBN": "978-3-540-24030-3",
+		"language": "en",
+		"note": "collection-title: Lecture Notes in Computer Science\nDOI: 10.1007/978-3-540-30544-6_34",
+		"page": "320-329",
+		"publisher": "Springer Berlin Heidelberg",
+		"publisher-place": "Berlin, Heidelberg",
+		"source": "DOI.org (Crossref)",
+		"title": "Metadata Quality Evaluation: Experience from the Open Language Archives Community",
+		"title-short": "Metadata Quality Evaluation",
+		"URL": "http://link.springer.com/10.1007/978-3-540-30544-6_34",
+		"collection-editor": [
+			{
+				"family": "Hutchison",
+				"given": "David"
+			},
+			{
+				"family": "Kanade",
+				"given": "Takeo"
+			},
+			{
+				"family": "Kittler",
+				"given": "Josef"
+			},
+			{
+				"family": "Kleinberg",
+				"given": "Jon M."
+			},
+			{
+				"family": "Mattern",
+				"given": "Friedemann"
+			},
+			{
+				"family": "Mitchell",
+				"given": "John C."
+			},
+			{
+				"family": "Naor",
+				"given": "Moni"
+			},
+			{
+				"family": "Nierstrasz",
+				"given": "Oscar"
+			},
+			{
+				"family": "Pandu Rangan",
+				"given": "C."
+			},
+			{
+				"family": "Steffen",
+				"given": "Bernhard"
+			},
+			{
+				"family": "Sudan",
+				"given": "Madhu"
+			},
+			{
+				"family": "Terzopoulos",
+				"given": "Demetri"
+			},
+			{
+				"family": "Tygar",
+				"given": "Dough"
+			},
+			{
+				"family": "Vardi",
+				"given": "Moshe Y."
+			},
+			{
+				"family": "Weikum",
+				"given": "Gerhard"
+			}
+		],
+		"editor": [
+			{
+				"family": "Chen",
+				"given": "Zhaoneng"
+			},
+			{
+				"family": "Chen",
+				"given": "Hsinchun"
+			},
+			{
+				"family": "Miao",
+				"given": "Qihao"
+			},
+			{
+				"family": "Fu",
+				"given": "Yuxi"
+			},
+			{
+				"family": "Fox",
+				"given": "Edward"
+			},
+			{
+				"family": "Lim",
+				"given": "Ee-peng"
+			}
+		],
+		"author": [
+			{
+				"family": "Hughes",
+				"given": "Baden"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					3,
+					21
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2004"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2527038/items/2RK6JS46",
+		"type": "article-journal",
+		"abstract": "Users of digital language archives face a number of barriers when trying to discover and reuse the materials preserved in the digital collections created by current language documentation projects. These barriers include sparse descriptive metadata throughout many collections and the prevalence of audio-video materials that are impervious to text-based search. Users could more easily evaluate, navigate, and use such a collection if it contained a guide that contextualized it, summarized its contents, and helped users identify and locate items within it. This article will discuss the importance of thorough collection descriptions and finding aids by synthesizing guidelines and best practices for archival description created for traditional archives and adapting these to the structure and makeup of today’s digital language documentation collections. To facilitate the iterative description of growing collections, the checklist of information to include is presented in three groups of descending priority.",
+		"container-title": "Language Documentation & Conservation",
+		"ISSN": "1934-5275",
+		"language": "en-US",
+		"note": "Accepted: 2020-09-09T18:48:51Z\ntex.ids: sullivant_archival_2020-1\npublisher: University of Hawaii Press",
+		"page": "520–578",
+		"source": "scholarspace.manoa.hawaii.edu",
+		"title": "Archival description for language documentation collections",
+		"URL": "http://hdl.handle.net/10125/24949",
+		"volume": "14",
+		"author": [
+			{
+				"family": "Sullivant",
+				"given": "Ryan"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					11,
+					16
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2020"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2527038/items/MUKYYFDZ",
+		"type": "article-journal",
+		"abstract": "A number of digital libraries that aggregate multiple digital collections are now generating subject metadata to describe intellectual content of entire digital collections as integrated wholes and to provide context for individual digital objects within them. However, the utility of this important contextual metadata has not been empirically evaluated. The exploratory study reported in this article examined and compared collection-level subject metadata in three large-scale aggregations of cultural heritage digital collections in the United States and the European Union and analyzed the role of collection-level metadata in information retrieval in digital aggregations based on user search queries derived from transaction logs. A small-scale targeted user study, which combined interviews and observations of users interacting with an aggregation, was undertaken to complement evidence-based content analysis data. The study revealed considerable variability in two indicators: consistency of applying controlled-vocabulary collection-level subject metadata elements beyond topical and value length of metadata elements. Both free-text and controlled-vocabulary subject metadata were found vital in answering search queries of aggregation users. Users also expressed preference for viewing complete structured collection-level metadata records, which include subject metadata. Results of this study prove importance of provision of collection-level metadata in general and subject metadata in particular to enhance user experiences and information retrieval in digital libraries.",
+		"container-title": "Journal of Library Metadata",
+		"DOI": "10.1080/19386389.2011.629957",
+		"ISSN": "1938-6389",
+		"issue": "3-4",
+		"note": "publisher: Routledge\n_eprint: https://doi.org/10.1080/19386389.2011.629957",
+		"page": "104-128",
+		"source": "Taylor and Francis+NEJM",
+		"title": "Contextual Metadata in Digital Aggregations: Application of Collection-Level Subject Metadata and Its Role in User Interactions and Information Retrieval",
+		"title-short": "Contextual Metadata in Digital Aggregations",
+		"URL": "https://doi.org/10.1080/19386389.2011.629957",
+		"volume": "11",
+		"author": [
+			{
+				"family": "Zavalina",
+				"given": "Oksana L."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					4,
+					14
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2011",
+					7,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2527038/items/TWUKIM3Q",
+		"type": "article-journal",
+		"abstract": "As language data and associated technologies proliferate and as the language resources community expands, it is becoming increasingly difﬁcult to locate and reuse existing resources. Are there any lexical resources for such-and-such a language? What tool works with transcripts in this particular format? What is a good format to use for linguistic data of this type? Questions like these dominate many mailing lists, since web search engines are an unreliable way to ﬁnd language resources. This paper reports on a new digital infrastructure for discovering language resources being developed by the Open Language Archives Community (OLAC). At the core of OLAC is its metadata format, which is designed to facilitate description and discovery of all kinds of language resources, including data, tools, or advice. The paper describes OLAC metadata, its relationship to Dublin Core metadata, and its dissemination using the metadata harvesting protocol of the Open Archives Initiative.",
+		"container-title": "Computers and the Humanities",
+		"DOI": "10.1023/A:1025720518994",
+		"ISSN": "0010-4817",
+		"issue": "4",
+		"language": "en",
+		"note": "tex.ids: bird_extending_2003-1",
+		"page": "375-388",
+		"title": "Extending Dublin Core Metadata to Support the Description and Discovery of Language Resources",
+		"volume": "37",
+		"author": [
+			{
+				"family": "Bird",
+				"given": "Steven"
+			},
+			{
+				"family": "Simons",
+				"given": "Gary"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2003"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2527038/items/MPI7UR4A",
+		"type": "paper-conference",
+		"abstract": "In this paper, we explore a range of issues yet to be addressed in the large-scale use of application profiles. While considerable attention has been paid to human-readable application profiles, there is a growing need for machine-readable application profiles that can support quality control mechanisms including, but not limited to, data validation. We examine these issues in the context of the evolving Semantic Web and the DCMI commitment to RDF and the challenges presented. We frame the discussion in terms of select functions to be served by application profiles and our notion of data profiles. While much remains to be done to address these issues, positive movement toward solutions is dependent on the appropriate framing of those issues in terms of the needs of large-scale applications such as metadata aggregators.",
+		"container-title": "DC-2007--Singapore Proceedings",
+		"event": "DCMI International Conference on Dublin Core and Metadata Applications (DC-2007)",
+		"event-place": "Singapore; Dublin, Ohio, USA",
+		"ISBN": "978-981-05-8796-3",
+		"language": "English",
+		"note": "URL: http://hdl.handle.net/1813/9371\nISSN: 1939-1366",
+		"page": "52–62",
+		"publisher": "Dublin Core Metadata Initiative & National Library Board Singapore",
+		"publisher-place": "Singapore; Dublin, Ohio, USA",
+		"title": "Application Profiles: Exposing and Enforcing Metadata Quality",
+		"URL": "https://dcpapers.dublincore.org/pubs/article/view/866",
+		"author": [
+			{
+				"family": "Hillmann",
+				"given": "Diane I."
+			},
+			{
+				"family": "Phipps",
+				"given": "Jon"
+			}
+		],
+		"editor": [
+			{
+				"family": "Sutton",
+				"given": "Stuart A."
+			},
+			{
+				"family": "Chaudhry",
+				"given": "Abdus Sattar"
+			},
+			{
+				"family": "Khoo",
+				"given": "Christopher"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2007"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2527038/items/TWBB75RQ",
+		"type": "paper-conference",
+		"container-title": "Proceedings of the 2009 joint international conference on Digital libraries - JCDL '09",
+		"DOI": "10.1145/1555400.1555479",
+		"event": "the 2009 joint international conference",
+		"event-place": "Austin, Texas",
+		"ISBN": "978-1-60558-322-8",
+		"language": "en",
+		"page": "393-394",
+		"publisher": "ACM Press",
+		"publisher-place": "Austin, Texas",
+		"source": "DOI.org (Crossref)",
+		"title": "Building a MARC-to-OLAC crosswalk: repurposing library catalog data for the language resources community",
+		"title-short": "Building a MARC-to-OLAC crosswalk",
+		"URL": "http://portal.acm.org/citation.cfm?doid=1555400.1555479",
+		"author": [
+			{
+				"family": "Hirt",
+				"given": "Christopher"
+			},
+			{
+				"family": "Simons",
+				"given": "Gary"
+			},
+			{
+				"family": "Spanne",
+				"given": "Joan"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					5,
+					12
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2009"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2527038/items/2J46EH9M",
+		"type": "article-journal",
+		"abstract": "This paper is a current assessment of the status of metadata creation and mapping between cataloger-defined field names and Dublin Core (DC) metadata elements across three digital image collections. The metadata elements that evince the most frequently inaccurate, inconsistent and incomplete DC metadata application are identified. As well, the most frequently occurring locally added metadata elements and associated pattern development are examined. For this, a randomly collected sample of 659 metadata item records from three digital image collections is analyzed. Implications and issues drawn from the evaluation of the current status of metadata creation and mapping are also discussed in relation to the issue of semantic interoperability of concept representation across digital image collections. The findings of the study suggest that conceptual ambiguities and semantic overlaps inherent among some DC metadata elements hinder semantic interoperability. The DC metadata scheme needs to be refined in order to disambiguate semantic relations of certain DC metadata elements that present semantic overlaps and conceptual ambiguities between element names and their corresponding definitions. The findings of the study also suggest that the development of mediation mechanisms such as concept networks that facilitate the metadata creation and mapping process are critically needed for enhancing metadata quality.",
+		"container-title": "Knowledge Organization",
+		"issue": "1",
+		"language": "en",
+		"page": "20-34",
+		"source": "Zotero",
+		"title": "Semantic Interoperability and Metadata Quality: An Analysis of Metadata Item Records of Digital Image Collections",
+		"volume": "31",
+		"author": [
+			{
+				"family": "Park",
+				"given": "Jung-ran"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2006"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2527038/items/3WDLMYZ3",
+		"type": "article-journal",
+		"container-title": "Library Hi Tech",
+		"DOI": "10.1108/07378830310479848",
+		"ISSN": "0737-8831",
+		"issue": "2",
+		"journalAbbreviation": "Library Hi Tech",
+		"language": "en",
+		"page": "210-218",
+		"source": "DOI.org (Crossref)",
+		"title": "Building an Open Language Archives Community on the OAI foundation",
+		"URL": "https://www.emerald.com/insight/content/doi/10.1108/07378830310479848/full/html",
+		"volume": "21",
+		"author": [
+			{
+				"family": "Simons",
+				"given": "Gary"
+			},
+			{
+				"family": "Bird",
+				"given": "Steven"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					4,
+					18
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2003",
+					6
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2527038/items/T38RAZLH",
+		"type": "book",
+		"event-place": "Indianapolis, Indiana",
+		"publisher": "Indiana University Perdue University Indianapolis",
+		"publisher-place": "Indianapolis, Indiana",
+		"title": "Dublin Core Metadata Guide—Indiana Memory Project",
+		"URL": "https://www.in.gov/library/files/IndianaMemoryMetadata2020.pdf",
+		"author": [
+			{
+				"literal": "Indiana Memory Project"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					5,
+					8
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2020"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2527038/items/CCMWF87I",
+		"type": "speech",
+		"event": "OLAC / DELAMAN Workshop",
+		"event-place": "Austin, TX",
+		"genre": "Presentation Slides",
+		"publisher-place": "Austin, TX",
+		"title": "From Linguistic Data Type to Language Resource Type: Laying the groundwork for a metadata application profile",
+		"URL": "https://scholars.sil.org/sites/scholars/files/gary_f_simons/presentation/simons-language_resource_type_vocabulary.pdf",
+		"author": [
+			{
+				"family": "Simons",
+				"given": "Gary F"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					6,
+					22
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2016"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2527038/items/KMHYRHBN",
+		"type": "article-journal",
+		"abstract": "This article describes findings from a workshop that initiated a dialogue between the fields of user-centered design (UCD) and language archives. One of the challenges facing language archives is the fact that they typically have multiple user groups with significantly different information needs, as well as varying cultural practices of data sharing, access and use. UCD, informed by design anthropology, can help developers of language archives identify the main user groups of a particular archive; work with those user groups to map their needs and cultural practices; and translate those insights into archive design. The article describes findings from the workshop on User-Centered Design of Language Archives in February 2016. It reviews relevant aspects of language archiving and user-centered design to construct the rationale for the workshop, relates key insights produced during the workshop, and outlines next steps in the larger research trajectory initiated by this workshop. One major insight from the workshop was the discovery that at present, most language archives are not meeting the needs of most users. Representatives from all user groups expressed frustration at the current design of most language archives. This discovery points to the value of introducing a user-centered approach, so that the design of language archives can be better informed by the needs of users.",
+		"container-title": "Language Documentation & Conservation",
+		"ISSN": "1934-5275",
+		"language": "en-US",
+		"note": "Accepted: 2017-04-03T22:15:13Z\npublisher: University of Hawaii Press",
+		"page": "641-681",
+		"source": "scholarspace.manoa.hawaii.edu",
+		"title": "Bringing User-Centered Design to the Field of Language Archives",
+		"URL": "http://hdl.handle.net/10125/24721",
+		"volume": "10",
+		"author": [
+			{
+				"family": "Wasson",
+				"given": "Christina"
+			},
+			{
+				"family": "Holton",
+				"given": "Gary"
+			},
+			{
+				"family": "Roth",
+				"given": "Heather S."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					7,
+					6
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2016",
+					12
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2527038/items/QJLN8NP2",
+		"type": "article-journal",
+		"abstract": "This study examines Dublin Core (DC) metadata semantics drawn from the perspectives and experiences of cataloguing and metadata professionals. The study ascertains the extent of difficulty in applying the DC metadata elements encountered by these professionals and examines factors engendering such difficulties during the metadata application process. Comments drawn from the survey participants ( n = 141) show that conceptual ambiguities (41%) and semantic overlaps (45%) of the surveyed DC metadata elements are the most frequently cited factors causing difficulty and confusion, in turn leading to variant interpretations of DC metadata elements. This has the potential to bring forth inconsistent and inaccurate applications and implementation of the DC standard across institutions which can directly affect semantic interoperability across digital repositories. The high degree of difficulty (55.3%) engendered by the Relation field indicates that further examination of this element is needed.",
+		"container-title": "Journal of Information Science",
+		"DOI": "10.1177/0165551509337871",
+		"ISSN": "0165-5515, 1741-6485",
+		"issue": "6",
+		"journalAbbreviation": "Journal of Information Science",
+		"language": "en",
+		"page": "727-739",
+		"source": "DOI.org (Crossref)",
+		"title": "Dublin Core metadata semantics: an analysis of the perspectives of information professionals",
+		"title-short": "Dublin Core metadata semantics",
+		"URL": "http://journals.sagepub.com/doi/10.1177/0165551509337871",
+		"volume": "35",
+		"author": [
+			{
+				"family": "Park",
+				"given": "Jung-ran"
+			},
+			{
+				"family": "Childress",
+				"given": "Eric"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					7,
+					10
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2009",
+					12
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2527038/items/S8PNKFAQ",
+		"type": "article",
+		"abstract": "Open Language Archive Community (OLAC) Nightly Data Dump (XML) from 18 July 2021. Downloaded on July 18th, therefore likely the nightly compiled on the 17th. OLAC does uniquely name the nightly downloads, nor persist them.",
+		"archive": "Zenodo",
+		"note": "type: dataset\nDOI: 10.5281/ZENODO.5112131",
+		"publisher": "OLAC: Open Language Archives Community",
+		"source": "DOI.org (Datacite)",
+		"title": "OLAC Nightly Data Dump (XML) from 18 July 2021",
+		"URL": "https://zenodo.org/record/5112131",
+		"author": [
+			{
+				"family": "Paterson III",
+				"given": "Hugh J"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					7,
+					18
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2021",
+					7,
+					18
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2527038/items/F88KNLPG",
+		"type": "speech",
+		"event": "15th Annual Society of American Archivists Research Forum",
+		"event-place": "Hosted Virtually",
+		"genre": "Poster",
+		"publisher-place": "Hosted Virtually",
+		"title": "Where Have All the Collections Gone?",
+		"URL": "https://www2.archivists.org/am2021/research-forum-2021/agenda#posters",
+		"author": [
+			{
+				"family": "Paterson III",
+				"given": "Hugh J"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2021"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2527038/items/33IDWN87",
+		"type": "thesis",
+		"archive": "University of North Dakota Scholarly Commons",
+		"archive_location": "Theses and Dissertations. 3937",
+		"event-place": "Grand Forks, North Dakota",
+		"genre": "M.A. Thesis",
+		"publisher": "University of North Dakota",
+		"publisher-place": "Grand Forks, North Dakota",
+		"title": "Language Archive Records:  Interoperability of Referencing Practices and Metadata Models",
+		"URL": "https://commons.und.edu/theses/3937/",
+		"author": [
+			{
+				"family": "Paterson III",
+				"given": "Hugh J."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2021"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2527038/items/FV9PLQ7Y",
+		"type": "chapter",
+		"abstract": "This paper presents early results from our empirical studies of metadata quality in large corpuses of metadata harvested under Open Archives Initiative (OAI)1 protocols. Along with some discussion of why and how metadata quality is important, an approach to conceptualizing, measuring, and assessing metadata quality is presented. The approach given in this paper is based on a more general model of information quality (IQ) for many kinds of information beyond just metadata. A key feature of the general model is its ability to condition quality assessments by context of information use, such as the types of activities that use the information, and the typified norms and values of relevant information-using communities. The paper presents a number of statistical characterizations of analyzed samples of metadata from a large corpus built as part of the Institute of Museum and Library Services Digital Collections and Contents (IMLS DCC)2 project containing OAI-harvested metadata and links these statistical assessments to the quality measures, and interprets them. Finally the paper discusses several approaches to quality improvement for metadata based on the study findings.",
+		"container-title": "Proceedings of the Ninth International Conference on Information Quality (ICIQ-04)",
+		"language": "en",
+		"page": "111–125",
+		"source": "Zotero",
+		"title": "Metadata Quality for Federated Collections",
+		"URL": "https://www.ideals.illinois.edu/handle/2142/721",
+		"author": [
+			{
+				"family": "Stvilia",
+				"given": "Besiki"
+			},
+			{
+				"family": "Gasser",
+				"given": "Les"
+			},
+			{
+				"family": "Twidale",
+				"given": "Michael B"
+			},
+			{
+				"family": "Shreeves",
+				"given": "Sarah L"
+			},
+			{
+				"family": "Cole",
+				"given": "Tim W"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2004"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2527038/items/QRWY79ZJ",
+		"type": "article-journal",
+		"abstract": "This submission reports preliminary results of the first stage of a research project that seeks to identify the information organization methods and techniques currently offered in the language data archives and the gaps between the tools and techniques available and the needs of actual and potential users of language data archives. We conducted an exploratory content analysis of the websites of the language archives (LAs) hosted by the institutions located in the United States and several other countries. The focus of our exploratory content analysis is on the information organization, including documentation on metadata standards, displaying of individual metadata records and availability of harvesting sets of metadata records, provision of advanced discovery and navigation options powered by metadata such as availability of adaptive and personalized search or social tagging functionality. Here, we report our preliminary findings and describe our plan for Stage 2 of the.",
+		"container-title": "Proceedings of the Association for Information Science and Technology",
+		"DOI": "10.1002/pra2.30",
+		"ISSN": "2373-9231",
+		"issue": "1",
+		"language": "en",
+		"note": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1002/pra2.30",
+		"page": "364-367",
+		"source": "Wiley Online Library",
+		"title": "Exploration of information organization in language archives",
+		"URL": "https://onlinelibrary.wiley.com/doi/abs/10.1002/pra2.30",
+		"volume": "56",
+		"author": [
+			{
+				"family": "Burke",
+				"given": "Mary"
+			},
+			{
+				"family": "Zavalina",
+				"given": "Oksana"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					2,
+					3
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2019"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2527038/items/3QD53T2U",
+		"type": "article-journal",
+		"abstract": "The fluctuating fortunes of Northern Territory bilingual education programs in Australian languages and English have put at risk thousands of books developed for these programs in remote schools. In an effort to preserve such a rich cultural and linguistic heritage, the Living Archive of Aboriginal Languages project is establishing an open access, online repository comprising digital versions of these materials. Using web technologies to store and access the resources makes them accessible to the communities of origin, the wider academic community, and the general public. The process of creating, populating, and implementing such an archive has posed many interesting technical, cultural and linguistic challenges, some of which are explored in this paper.",
+		"container-title": "Language Documentation and Conservation",
+		"ISSN": "1934-5275",
+		"language": "English",
+		"note": "publisher: University of Hawaii * Department of Linguistics",
+		"page": "345-360",
+		"source": "espace.cdu.edu.au",
+		"title": "Developing a Living Archive of Aboriginal Languages",
+		"URL": "https://espace.cdu.edu.au/view/cdu:42475",
+		"volume": "8",
+		"author": [
+			{
+				"family": "Bow",
+				"given": "Catherine"
+			},
+			{
+				"family": "Christie",
+				"given": "Michael J."
+			},
+			{
+				"family": "Devlin",
+				"given": "Brian"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					2,
+					8
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2014"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2527038/items/7TXHAE2G",
+		"type": "paper-conference",
+		"abstract": "The Open Language Archives Community (OLAC) provides a comprehensive infrastructure that has allowed our community to index and discover language resources over the past 20 years. However, OLAC infrastructure has fallen behind as the digital libraries community has continued to evolve. New investment is required in order to move OLAC into the digital libraries mainstream. This paper reports on the first 20 years of OLAC and on an agenda leading to a more sustainable future for open language archiving.",
+		"container-title": "Proceedings of the International Workshop on Digital Language Archives: LangArc 2021",
+		"DOI": "10.12794/langarc1851171",
+		"event": "International Workshop on Digital Language Archives",
+		"event-place": "Denton, Texas",
+		"language": "en",
+		"page": "25-28",
+		"publisher": "University of North Texas",
+		"publisher-place": "Denton, Texas",
+		"source": "DOI.org (Crossref)",
+		"title": "Towards an Agenda for Open Language Archiving",
+		"URL": "https://digital.library.unt.edu/ark:/67531/metadc1851171/",
+		"author": [
+			{
+				"family": "Bird",
+				"given": "Steven"
+			},
+			{
+				"family": "Simons",
+				"given": "Gary"
+			}
+		],
+		"editor": [
+			{
+				"family": "Oksana",
+				"given": "Zavalina"
+			},
+			{
+				"family": "Chelliah",
+				"given": "Shobhana Lakshmi"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					2,
+					22
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2021",
+					10,
+					7
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2527038/items/NVFBGT62",
+		"type": "paper-conference",
+		"abstract": "The DCMI One-to-One Principle holds that related but conceptually different entities, such as a photograph and a digital image of that photograph, should be represented by separate metadata records. In practice, however, large numbers of practitioners do not adhere to this principle and commonly mix elements representing two related entities in a single metadata record. This paper explores reasons why this is the case, why it is problematic, how the principle itself would benefit from greater clarity, some practical options for maintaining the principle in current systems, with advantages and disadvantages of each, and suggests a possible compromise option. The paper focuses on the widespread application context of small to medium-sized cultural heritage institutions digitizing unique local resources, creating metadata using digital collection software packages such as CONTENTdm, and exposing only simple Dublin Core metadata for OAI harvesting and aggregating.",
+		"container-title": "DCMI '10: Proceedings of the 2010 International Conference on Dublin Core and Metadata Applications",
+		"event": "DC-2010--Pittsburgh",
+		"event-place": "Pittsburgh, Pennsylvania",
+		"language": "en",
+		"page": "150–164",
+		"publisher": "Dublin Core Metadata Initiative",
+		"publisher-place": "Pittsburgh, Pennsylvania",
+		"source": "Zotero",
+		"title": "The One-To-One Principle: Challenges in Current Practice",
+		"title-short": "The One-To-One Principle",
+		"URL": "https://dcpapers.dublincore.org/pubs/article/view/1043.html",
+		"author": [
+			{
+				"family": "Miller",
+				"given": "Steven J"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2010"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2527038/items/XKQG28L7",
+		"type": "paper-conference",
+		"container-title": "Proceedings of the 5th ACM/IEEE-CS joint conference on Digital libraries  - JCDL '05",
+		"DOI": "10.1145/1065385.1065447",
+		"event": "the 5th ACM/IEEE-CS joint conference",
+		"event-place": "Denver, CO, USA",
+		"ISBN": "978-1-58113-876-4",
+		"language": "en",
+		"page": "262–270",
+		"publisher": "ACM Press",
+		"publisher-place": "Denver, CO, USA",
+		"source": "DOI.org (Crossref)",
+		"title": "Semantics and Syntax of Dublin Core Usage in Open Archives Initiative Data Providers of Cultural Heritage Materials",
+		"URL": "http://portal.acm.org/citation.cfm?doid=1065385.1065447",
+		"author": [
+			{
+				"family": "Hutt",
+				"given": "Arwen"
+			},
+			{
+				"family": "Riley",
+				"given": "Jenn"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					2,
+					28
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2005"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2527038/items/USTBK66F",
+		"type": "article-journal",
+		"container-title": "Journal of Open Humanities Data",
+		"DOI": "10.5334/johd.59",
+		"ISSN": "2059-481X",
+		"issue": "10",
+		"journalAbbreviation": "JOHD",
+		"page": "1–19",
+		"source": "DOI.org (Crossref)",
+		"title": "Accessibility, Discoverability, and Functionality: An Audit of and Recommendations for Digital Language Archives",
+		"title-short": "Accessibility, Discoverability, and Functionality",
+		"URL": "https://openhumanitiesdata.metajnl.com/article/10.5334/johd.59/",
+		"volume": "8",
+		"author": [
+			{
+				"family": "Yi",
+				"given": "Irene"
+			},
+			{
+				"family": "Lake",
+				"given": "Amelia"
+			},
+			{
+				"family": "Kim",
+				"given": "Juhyae"
+			},
+			{
+				"family": "Haakman",
+				"given": "Kassandra"
+			},
+			{
+				"family": "Jewell",
+				"given": "Jeremiah"
+			},
+			{
+				"family": "Babinski",
+				"given": "Sarah"
+			},
+			{
+				"family": "Bowern",
+				"given": "Claire"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					4,
+					13
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2022",
+					3,
+					24
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2527038/items/74KGKVV6",
+		"type": "article-journal",
+		"container-title": "Data Science Journal",
+		"DOI": "10.5334/dsj-2022-009",
+		"ISSN": "1683-1470",
+		"issue": "9",
+		"language": "en",
+		"page": "1–7",
+		"source": "DOI.org (Crossref)",
+		"title": "When Your Data is My Grandparents Singing. Digitisation and Access for Cultural Records, the Pacific and Regional Archive for Digital Sources in Endangered Cultures (PARADISEC)",
+		"URL": "http://datascience.codata.org/articles/10.5334/dsj-2022-009/",
+		"volume": "21",
+		"author": [
+			{
+				"family": "Thieberger",
+				"given": "Nick"
+			},
+			{
+				"family": "Harris",
+				"given": "Amanda"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					4,
+					13
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2022",
+					4,
+					4
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2527038/items/FY7MTCK4",
+		"type": "book",
+		"call-number": "E97.8 .T75 2011",
+		"event-place": "Lanham",
+		"ISBN": "978-0-8108-8194-5",
+		"number-of-pages": "247",
+		"publisher": "Scarecrow Press",
+		"publisher-place": "Lanham",
+		"source": "Library of Congress ISBN",
+		"title": "Tribal Libraries, Archives, and Museums: Preserving Our Language, Memory, and Lifeways",
+		"title-short": "Tribal Libraries, Archives, and Museums",
+		"editor": [
+			{
+				"family": "Roy",
+				"given": "Loriene"
+			},
+			{
+				"family": "Bhasin",
+				"given": "Anjali"
+			},
+			{
+				"family": "Arriaga",
+				"given": "Sarah K."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2011"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2527038/items/WDHRU2RI",
+		"type": "article-journal",
+		"container-title": "Late Imperial China",
+		"DOI": "10.1353/late.2001.0002",
+		"ISSN": "1086-3257",
+		"issue": "1",
+		"journalAbbreviation": "Late Imperial China",
+		"language": "en",
+		"page": "1-70",
+		"source": "DOI.org (Crossref)",
+		"title": "The Manchu-Language Archives of the Qing Dynasty and the Origins of the Palace Memorial System",
+		"URL": "http://muse.jhu.edu/content/crossref/journals/late_imperial_china/v022/22.1elliott.pdf",
+		"volume": "22",
+		"author": [
+			{
+				"family": "Elliott",
+				"given": "Mark C."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					4,
+					16
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2001"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2527038/items/3SCR4VFL",
+		"type": "article-journal",
+		"container-title": "Primary Sources & Original Works",
+		"DOI": "10.1300/J269V01N01_07",
+		"ISSN": "1042-8216",
+		"issue": "1-2",
+		"journalAbbreviation": "Primary Sources & Original Works",
+		"language": "en",
+		"page": "107-115",
+		"source": "DOI.org (Crossref)",
+		"title": "Respect des Fonds: The Origins of the Modern Archival Principle of Provenance",
+		"title-short": "Respect des Fonds",
+		"URL": "http://www.tandfonline.com/doi/abs/10.1300/J269V01N01_07",
+		"volume": "1",
+		"author": [
+			{
+				"family": "Bartlett",
+				"given": "Nancy"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					4,
+					16
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1992",
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2527038/items/FEDJX8BQ",
+		"type": "article-journal",
+		"container-title": "Journal of Internet Cataloging",
+		"DOI": "10.1300/J141v04n03_02",
+		"ISSN": "1091-1367",
+		"issue": "3-4",
+		"journalAbbreviation": "Journal of Internet Cataloging",
+		"language": "en",
+		"page": "7-26",
+		"source": "DOI.org (Crossref)",
+		"title": "Archival Description: Content and Context in Search of Structure",
+		"title-short": "Archival Description",
+		"URL": "http://www.tandfonline.com/doi/abs/10.1300/J141v04n03_02",
+		"volume": "4",
+		"author": [
+			{
+				"family": "Haworth",
+				"given": "Kent M."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					4,
+					16
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2001",
+					11,
+					27
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2527038/items/BA3M2SPW",
+		"type": "paper-conference",
+		"abstract": "Although many best practice documents encourage Dublin Core metadata creators to \"obey the 1:1 Principle,\" this recommendation has proven \"extremely confusing\" in practice. The impact of this confusion is widespread violations of the Principle that inhibit the ability of large-scale metadata aggregations to provide useful services. A preliminary operational definition of the 1:1 Principle that identifies of non-conformant descriptions is explored.",
+		"collection-title": "ASIS&T '10",
+		"container-title": "Proceedings of the 73rd ASIS&T Annual Meeting on Navigating Streams in an Information Ecosystem - Volume 47",
+		"event": "73rd ASIS&T Annual Meeting",
+		"event-place": "Pittsburgh, PA, USA",
+		"page": "Article: 173, pp.1–2",
+		"publisher": "American Society for Information Science",
+		"publisher-place": "Pittsburgh, PA, USA",
+		"source": "ACM Digital Library",
+		"title": "Principle violations: Revisiting the Dublin Core 1:1 Principle",
+		"title-short": "Principle violations revisiting the Dublin Core 1",
+		"author": [
+			{
+				"family": "Urban",
+				"given": "Richard J."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					4,
+					20
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2010",
+					10,
+					22
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2527038/items/H6X7CS3N",
+		"type": "paper-conference",
+		"abstract": "Over the last two decades there has been a surge in activists, linguists, anthropologists, documenters digitally recording endangered language use. These unique records often are uploaded to corporate social media sites or to privately run websites. Despite popular belief, uploading these materials to a server does not mean they are archived and preserved for future generations. In this paper we discuss the differences between professional archiving systems and content management system (CMS) based approaches to making language materials accessible. Looking at the example of the Archive of Languages and Cultures of Ethnic Groups of Thailand we discuss the benefits of a Mukurtu based community website, and how linking it to a professional archive can ensure long-term preservation of precious and unique language materials.",
+		"container-title": "Proceedings of the International Workshop on Digital Language Archives: LangArc 2021",
+		"DOI": "10.12794/langarc1851176",
+		"event": "International Workshop on Digital Language Archives",
+		"event-place": "Denton, Texas",
+		"page": "1–4",
+		"publisher": "University of North Texas",
+		"publisher-place": "Denton, Texas",
+		"source": "DOI.org (Crossref)",
+		"title": "A Website Is a Website Is a Website: Why Trusted Repositories Are Needed More Than Ever",
+		"title-short": "A Website Is a Website Is a Website",
+		"URL": "https://digital.library.unt.edu/ark:/67531/metadc1851176/",
+		"author": [
+			{
+				"family": "Ferreira",
+				"given": "Vera"
+			},
+			{
+				"family": "Lukschy",
+				"given": "Leonore"
+			},
+			{
+				"family": "Watyam",
+				"given": "Buachut"
+			},
+			{
+				"family": "Ungsitipoonpor",
+				"given": "Siripen"
+			},
+			{
+				"family": "Seyfeddinipur",
+				"given": "Mandana"
+			}
+		],
+		"editor": [
+			{
+				"family": "Zavalina",
+				"given": "Oksana L."
+			},
+			{
+				"family": "Chelliah",
+				"given": "Shobhana Lakshmi"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					4,
+					24
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2021",
+					10,
+					7
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2527038/items/VNCM8WXB",
+		"type": "book",
+		"edition": "2.4",
+		"event-place": "Netherlands",
+		"note": "URL: https://pro.europeana.eu/page/edm-documentation",
+		"publisher": "Europeana Foundation",
+		"publisher-place": "Netherlands",
+		"title": "Europeana Data Model – Mapping Guidelines",
+		"URL": "https://pro.europeana.eu/files/Europeana_Professional/Share_your_data/Technical_requirements/EDM_Documentation/EDM_Mapping_Guidelines_v2.4_102017.pdf",
+		"author": [
+			{
+				"family": "Clayphan",
+				"given": "Robina"
+			},
+			{
+				"family": "Charles",
+				"given": "Valentine"
+			},
+			{
+				"family": "Wynne",
+				"given": "Michael"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					4,
+					25
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2017"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2527038/items/WPSKEUJY",
+		"type": "report",
+		"collection-title": "Tech",
+		"event-place": "Netherlands",
+		"publisher": "Europeana Foundation",
+		"publisher-place": "Netherlands",
+		"title": "Recommendations for the representation of hierarchical objects in Europeana",
+		"URL": "https://pro.europeana.eu/project/hierarchical-objects",
+		"author": [
+			{
+				"family": "Bardi",
+				"given": "Alessia"
+			},
+			{
+				"family": "Kupietzky",
+				"given": "Allison"
+			},
+			{
+				"family": "Isaac",
+				"given": "Antoine"
+			},
+			{
+				"family": "Matei",
+				"given": "Dan"
+			},
+			{
+				"family": "Weber",
+				"given": "Donald"
+			},
+			{
+				"family": "Arnold",
+				"given": "Kerstin"
+			},
+			{
+				"family": "Martinez Conde",
+				"given": "Maria Luisa"
+			},
+			{
+				"family": "Fingerhut",
+				"given": "Michael"
+			},
+			{
+				"family": "Clayphan",
+				"given": "Robina"
+			},
+			{
+				"family": "Bailly",
+				"given": "Rodolphe"
+			},
+			{
+				"family": "Rühle",
+				"given": "Stefanie"
+			},
+			{
+				"family": "Charles",
+				"given": "Valentine"
+			},
+			{
+				"family": "Agenjo",
+				"given": "Xavier"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2014"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2527038/items/WU4CPKYL",
+		"type": "book",
+		"edition": "5",
+		"event-place": "Boston, MA",
+		"publisher": "Digital Public Library of America",
+		"publisher-place": "Boston, MA",
+		"title": "Introduction to the DPLA Metadata Model",
+		"URL": "https://pro.dp.la/hubs/metadata-application-profile",
+		"author": [
+			{
+				"literal": "DPLA MAP Working Group"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2527038/items/SKDIARNM",
+		"type": "book",
+		"edition": "1.6",
+		"note": "https://ohiodigitalnetwork.org/contributors/getting-started/map/",
+		"publisher": "Ohio DPLA Project",
+		"title": "Ohio Digital Network Metadata Application Profile",
+		"URL": "http://ohiodigitalnetwork.org/wp-content/uploads/metadata-application-profile-v1-6.pdf",
+		"author": [
+			{
+				"literal": "Ohio Digital Network"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					4,
+					25
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2021"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2527038/items/69GKMNBG",
+		"type": "article-journal",
+		"abstract": "This article explores the challenges of designing large-scale computing systems for multiple, diverse user groups. Such computing systems house large, complex datasets, and often provide analytic tools to interpret the data. They are increasingly central to activities in industry, science, and government agencies, and are often associated with “big data,” data warehousing, and/or scientific “cyberinfrastructure”.  A key characteristic of these systems is the diversity and multiplicity of their intended user groups, which may range from various scientific disciplines, to assorted business functions, to government officials and citizen groups. These user groups occupy structurally different positions in local and global political economies, and bring different forms of expertise to the data housed in the computing system. We argue that design anthropologists can contribute to the usefulness of such systems by engaging in collaborative ethnographic research with the targeted user groups, and communicating findings to the designers and developers creating these systems.",
+		"container-title": "Journal of Business Anthropology",
+		"DOI": "10.22439/jba.v7i2.5605",
+		"ISSN": "2245-4217",
+		"issue": "2",
+		"language": "en",
+		"page": "235-267",
+		"source": "DOI.org (Crossref)",
+		"title": "Designing for Diverse User Groups: Case Study of a Language Archive",
+		"title-short": "Designing for Diverse User Groups",
+		"URL": "https://rauli.cbs.dk/index.php/jba/article/view/5605",
+		"volume": "7",
+		"author": [
+			{
+				"family": "Wasson",
+				"given": "Christina"
+			},
+			{
+				"family": "Medina",
+				"given": "Melanie"
+			},
+			{
+				"family": "Chong",
+				"given": "Miyoung"
+			},
+			{
+				"family": "LeMay",
+				"given": "Brittany"
+			},
+			{
+				"family": "Nalin",
+				"given": "Emma"
+			},
+			{
+				"family": "Saintonge",
+				"given": "Kenneth"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					4,
+					24
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2018",
+					11,
+					12
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2527038/items/C97IVJNK",
+		"type": "article-journal",
+		"container-title": "Language Documentation & Conservation",
+		"issue": "1",
+		"page": "154–181",
+		"title": "Kaipuleohone, the University of Hawaiʻi’s Ethnographic Archive",
+		"URL": "http://hdl.handle.net/10125/4422",
+		"volume": "3",
+		"author": [
+			{
+				"family": "Albarillo",
+				"given": "Emily E."
+			},
+			{
+				"family": "Thieberger",
+				"given": "Nicholas"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2009"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2527038/items/9UAGBTME",
+		"type": "speech",
+		"event": "IFLA WLIC 2014 - Libraries, Citizens, Societies: Confluence for Knowledge in Session 118 - Indigenous Matters Special Interest Group, 16-22 August 2014",
+		"event-place": "Lyon, France",
+		"genre": "Paper",
+		"publisher-place": "Lyon, France",
+		"title": "Mukurtu: Information Retrieval System Engineered for Indigenous Individuals and Communities",
+		"URL": "http://ifla-test.eprints-hosting.org/id/eprint/922",
+		"author": [
+			{
+				"family": "Wiberg",
+				"given": "Andrew"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2014"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2527038/items/IF83NB9L",
+		"type": "article-journal",
+		"container-title": "Language Documentation & Conservation",
+		"page": "1–24",
+		"title": "User needs in language archives: Findings from interviews with language archive managers, depositors, and end-users",
+		"URL": "http://hdl.handle.net/10125/74669",
+		"volume": "16",
+		"author": [
+			{
+				"family": "Burke",
+				"given": "Mary"
+			},
+			{
+				"family": "Zavalina",
+				"given": "Oksana L."
+			},
+			{
+				"family": "Chelliah",
+				"given": "Shobhana Lakshmi"
+			},
+			{
+				"family": "Phillips",
+				"given": "Mark E."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2022"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2527038/items/MGT6M2B7",
+		"type": "article-journal",
+		"container-title": "Cultural Survival Quarterly",
+		"issue": "2",
+		"page": "36–43",
+		"title": "Swimming in Words",
+		"URL": "https://www.culturalsurvival.org/publications/cultural-survival- quarterly/swimming-words",
+		"volume": "31",
+		"author": [
+			{
+				"family": "Kipp",
+				"given": "Darrell"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2007"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2527038/items/UR52LQL2",
+		"type": "article-journal",
+		"container-title": "Journal of Open Humanities Data",
+		"DOI": "10.5334/johd.51",
+		"ISSN": "2059-481X",
+		"issue": "28",
+		"language": "en",
+		"page": "1–10",
+		"source": "DOI.org (Crossref)",
+		"title": "The Curation of Language Data as a Distinct Academic Activity: A Call to Action for Researchers, Educators, Funders, and Policymakers",
+		"title-short": "The Curation of Language Data as a Distinct Academic Activity",
+		"URL": "http://openhumanitiesdata.metajnl.com/articles/10.5334/johd.51/",
+		"volume": "7",
+		"author": [
+			{
+				"family": "Weber",
+				"given": "Tobias"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					4,
+					27
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2021",
+					11,
+					30
+				]
+			]
+		}
+	}
+]
