@@ -20,19 +20,5 @@
       <description></description>
     </item>
     
-    <item>
-      <title>Automatic Speech Recognition</title>
-      <link>https://hughandbecky.us/Hugh-CV/project/2019-automatic-speech-recognition/</link>
-      <pubDate>Tue, 12 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://hughandbecky.us/Hugh-CV/project/2019-automatic-speech-recognition/</guid>
-      <description>&lt;p&gt;Currently I am working with easy-to-get speech data. This includes a language of Nepal, a language of Nigeria, and a language of Tanzania.&lt;/p&gt;
-&lt;p&gt;Tools I use or have found interesting are:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://github.com/dmort27/epitran&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Epitran&lt;/a&gt; - A tool for transcribing orthographic text as IPA (International Phonetic Alphabet) &lt;!-- the team building it is working out of this doc: https://docs.google.com/spreadsheets/d/1Z0pz22DXYw5CIp2Eo6ODbrTojqfq3e4jGjguZjbGqWE/edit#gid=1782468899 --&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
   </channel>
 </rss>
