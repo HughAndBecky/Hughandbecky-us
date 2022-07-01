@@ -5,12 +5,20 @@
     <link>https://hughandbecky.us/Hugh-CV/content_types/print/</link>
       <atom:link href="https://hughandbecky.us/Hugh-CV/content_types/print/index.xml" rel="self" type="application/rss+xml" />
     <description>Print</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2022</copyright><lastBuildDate>Wed, 30 Jun 2021 11:30:00 -0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2022</copyright><lastBuildDate>Fri, 31 Dec 2021 17:00:12 -0700</lastBuildDate>
     <image>
       <url>https://hughandbecky.us/Hugh-CV/media/HughPaterson.jpg</url>
       <title>Print</title>
       <link>https://hughandbecky.us/Hugh-CV/content_types/print/</link>
     </image>
+    
+    <item>
+      <title>TUG 2021 Abstracts</title>
+      <link>https://hughandbecky.us/Hugh-CV/publication/2021-xlingpapers-use-of-tex-technologies/</link>
+      <pubDate>Fri, 31 Dec 2021 17:00:12 -0700</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/publication/2021-xlingpapers-use-of-tex-technologies/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Reported Speech in Western Subanon</title>
