@@ -1,0 +1,2169 @@
+<!DOCTYPE html><html lang="en-us" >
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Source Themes Academic 4.8.0"><meta name="author" content="Hugh Paterson III">
+
+  
+    
+  <meta name="description" content="A look at indexing serials in OLAC.">
+
+  <link rel="alternate" hreflang="en-us" href="https://hughandbecky.us/Hugh-CV/talk/2022-olac-collections-the-case-of-serials/">
+
+  
+
+
+
+
+
+
+
+  
+
+
+
+
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <meta name="theme-color" content="#456587">
+  
+
+  
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.9.0/css/academicons.min.css" integrity="sha512-W4yqoT1+8NLkinBLBZko+dFB2ZbHsYLDdr50VElllRcNt2Q4/GSs6u71UHKxB7S6JEMCp5Ve4xjh3eGQl/HRvg==" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css" integrity="sha256-FMvZuGapsJLjouA6k7Eo2lusoAX9i0ShlWFG6qt7SLc=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous">
+
+    
+    
+    
+      
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/leaflet.min.css" integrity="sha512-1xoFisiGdy9nvho8EgXuXvnpR5GAMSjFwp40gSRE3NwdUdIMIKuPa7bqoUhLD0O/5tPNhteAsE5XyyMi5reQVA==" crossorigin="anonymous">
+    
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/lazysizes/5.2.2/lazysizes.min.js" integrity="sha512-TmDwFLhg3UA4ZG0Eb4MIyT1O1Mb+Oww5kFG0uHqXsdbyZz9DcvYQhKpGgNkamAI6h2lGGZq2X8ftOJvF/XjTUg==" crossorigin="anonymous" async></script>
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+        
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+  
+  
+    
+      
+      
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:400,700%7CRoboto+Mono%7CCharis+SIL&display=swap">
+    
+  
+
+  
+  
+  
+  
+  <link rel="stylesheet" href="/Hugh-CV/css/academic.css">
+
+  
+
+
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-31042070-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-31042070-2', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
+  
+
+
+  
+  
+
+  
+
+  <link rel="manifest" href="/Hugh-CV/index.webmanifest">
+  <link rel="icon" type="image/png" href="/Hugh-CV/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_32x32_fill_lanczos_center_2.png">
+  <link rel="apple-touch-icon" type="image/png" href="/Hugh-CV/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_192x192_fill_lanczos_center_2.png">
+
+  <link rel="canonical" href="https://hughandbecky.us/Hugh-CV/talk/2022-olac-collections-the-case-of-serials/">
+
+  
+  
+  
+  
+  
+  
+  
+    
+  
+  
+  <meta property="twitter:card" content="summary_large_image">
+  
+  <meta property="twitter:site" content="@thejourneyler">
+  <meta property="twitter:creator" content="@thejourneyler">
+  
+  <meta property="og:site_name" content="Hugh&#39;s Curriculum Vitae">
+  <meta property="og:url" content="https://hughandbecky.us/Hugh-CV/talk/2022-olac-collections-the-case-of-serials/">
+  <meta property="og:title" content="OLAC Collections: The Case of Serials | Hugh&#39;s Curriculum Vitae">
+  <meta property="og:description" content="A look at indexing serials in OLAC.">
+  
+  <meta property="og:image" content="https://hughandbecky.us/Hugh-CV/media/HughPaterson.jpg">
+  <meta property="twitter:image" content="https://hughandbecky.us/Hugh-CV/media/HughPaterson.jpg">
+  
+  <meta property="og:locale" content="en-us">
+  <meta property="article:published_time" content="2020-12-19T17:00:12-07:00"><meta property="article:modified_time" content="2022-10-03T11:30:00-01:00">
+
+
+
+  
+    
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Event",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://hughandbecky.us/Hugh-CV/talk/2022-olac-collections-the-case-of-serials/"
+  },
+  "name": "OLAC Collections: The Case of Serials",
+  
+  "location": {
+    "@type": "Place",
+    "name": "Berlin-Brandenburgische Akademie der Wissenschaften, Berlin, Germany"
+  },
+  
+  
+  "startDate": "2022-10-03T11:30:00-01:00",
+  
+  
+  "performer": {
+    "@type": "Person",
+    "name": "Hugh Paterson III"
+  },
+  
+  "description": "A look at indexing serials in OLAC."
+}
+</script>
+
+  
+
+
+
+
+
+
+<link rel="stylesheet" type="text/css" href="/Hugh-CV/css/custom.css" />
+
+<link rel="stylesheet" type="text/css" href="/Hugh-CV/css/hugo-cite.css" />
+
+
+<meta name="pinterest" content="nopin">
+
+
+<meta name="keywords" content="OLAC, Serials, Dublin Core">
+
+
+
+
+<link rel="schema.dc" href="http://purl.org/dc/elements/1.1/">
+
+<link rel="schema.DCTERMS" href="http://purl.org/dc/terms/">
+
+
+
+
+<meta name="DC.Title" content="OLAC Collections: The Case of Serials">
+<meta name="citation_title" content="OLAC Collections: The Case of Serials">
+<meta name="eprints.title" content="OLAC Collections: The Case of Serials">
+<meta name="dcterms.title" content="OLAC Collections: The Case of Serials">
+<meta name="DC.Creator" content="admin">
+<meta name="citation_author" content="admin">
+<meta name="DC.Subject" content="OLAC">
+<meta name="DC.Subject" content="Serials">
+<meta name="DC.Subject" content="Dublin Core">
+<meta name="DC.Subject" content="language_documentation">
+<meta name="DC.Subject" content="olac_ls_language-documentation">
+<meta name="DC.Description" content="Successful language archives provide meaningful links between their holdings and existing scholarly resources elsewhere including language-documentation evidence, language-descriptions, and language-development materials. The Open Language Archiving Community aggregator is one community-based approach to solving the related-resources and resource-discovery challenge. Language descriptions come in many forms, including journal articles, which are published in serials. Serials are increasing in their relevance to the audiences of language archives because many language archive collections have collection descriptions which are now being published as peer-reviewed articles (Sullivant 2020; Fitzgerald 2021). This leads to interesting questions about how collection descriptions and journal articles ought to be indexed in OLAC which follows Dublin Core conventions (Bird &amp;amp; Simons 2003). Currently, at least four OLAC data providers submit records for journal articles, with many more data providers mentioning articles in the description fields of artifact records. Each of these data providers has a unique way of using the OLAC application profile to provide metadata about articles. This creates an inconsistent user experience in a metadata-driven website such as OLAC. We present a template for describing journals and their content, based on well established Dublin Core conventions in the field of library science (Jones W. 2001; Cole 2002; Riva 2004; Shadle 2006; Allinson 2008; Jones E. 2018). The template is designed for OLAC data contributors as they index journal- and serial-typed artifacts within their holdings. We propose that journals are analogous to collections, and that articles are analogous to items in the well-known collection/item framework used by archives (Wickett 2012). The template is inclusive of best-practice library modeling applying insights from Functional Requirements of Bibliographic Records (FRBR) to OLAC records. FRBR is helpful when considering relationships between pre-prints, off-prints, and versions of record, i.e., publisher versions (Tillett 2001, 2005; Žumer et al 2010).">
+<meta name="dcterms.abstract" content="Successful language archives provide meaningful links between their holdings and existing scholarly resources elsewhere including language-documentation evidence, language-descriptions, and language-development materials. The Open Language Archiving Community aggregator is one community-based approach to solving the related-resources and resource-discovery challenge. Language descriptions come in many forms, including journal articles, which are published in serials. Serials are increasing in their relevance to the audiences of language archives because many language archive collections have collection descriptions which are now being published as peer-reviewed articles (Sullivant 2020; Fitzgerald 2021). This leads to interesting questions about how collection descriptions and journal articles ought to be indexed in OLAC which follows Dublin Core conventions (Bird &amp;amp; Simons 2003). Currently, at least four OLAC data providers submit records for journal articles, with many more data providers mentioning articles in the description fields of artifact records. Each of these data providers has a unique way of using the OLAC application profile to provide metadata about articles. This creates an inconsistent user experience in a metadata-driven website such as OLAC. We present a template for describing journals and their content, based on well established Dublin Core conventions in the field of library science (Jones W. 2001; Cole 2002; Riva 2004; Shadle 2006; Allinson 2008; Jones E. 2018). The template is designed for OLAC data contributors as they index journal- and serial-typed artifacts within their holdings. We propose that journals are analogous to collections, and that articles are analogous to items in the well-known collection/item framework used by archives (Wickett 2012). The template is inclusive of best-practice library modeling applying insights from Functional Requirements of Bibliographic Records (FRBR) to OLAC records. FRBR is helpful when considering relationships between pre-prints, off-prints, and versions of record, i.e., publisher versions (Tillett 2001, 2005; Žumer et al 2010).">
+<meta name="eprints.abstract" content="Successful language archives provide meaningful links between their holdings and existing scholarly resources elsewhere including language-documentation evidence, language-descriptions, and language-development materials. The Open Language Archiving Community aggregator is one community-based approach to solving the related-resources and resource-discovery challenge. Language descriptions come in many forms, including journal articles, which are published in serials. Serials are increasing in their relevance to the audiences of language archives because many language archive collections have collection descriptions which are now being published as peer-reviewed articles (Sullivant 2020; Fitzgerald 2021). This leads to interesting questions about how collection descriptions and journal articles ought to be indexed in OLAC which follows Dublin Core conventions (Bird &amp;amp; Simons 2003). Currently, at least four OLAC data providers submit records for journal articles, with many more data providers mentioning articles in the description fields of artifact records. Each of these data providers has a unique way of using the OLAC application profile to provide metadata about articles. This creates an inconsistent user experience in a metadata-driven website such as OLAC. We present a template for describing journals and their content, based on well established Dublin Core conventions in the field of library science (Jones W. 2001; Cole 2002; Riva 2004; Shadle 2006; Allinson 2008; Jones E. 2018). The template is designed for OLAC data contributors as they index journal- and serial-typed artifacts within their holdings. We propose that journals are analogous to collections, and that articles are analogous to items in the well-known collection/item framework used by archives (Wickett 2012). The template is inclusive of best-practice library modeling applying insights from Functional Requirements of Bibliographic Records (FRBR) to OLAC records. FRBR is helpful when considering relationships between pre-prints, off-prints, and versions of record, i.e., publisher versions (Tillett 2001, 2005; Žumer et al 2010).">
+
+
+
+<meta name="dcterms.bibliographicCitation" content="Paterson III, Hugh J. 2022. OLAC Collections: The Case of Serials. Paper presented at the Language Documentation and Archiving Conference. Berlin-Brandenburgische Akademie der Wissenschaften, Berlin, Germany. October 5th–7th.">
+<meta name="eprints.citation" content="Paterson III, Hugh J. 2022. OLAC Collections: The Case of Serials. Paper presented at the Language Documentation and Archiving Conference. Berlin-Brandenburgische Akademie der Wissenschaften, Berlin, Germany. October 5th–7th.">
+<meta name="dcterms.language" content="ISO639-3:eng">
+
+<meta name="eprints.languages_3char" content="eng">
+<meta name="dcterms.issued" content="2022-10-03">
+<meta name="DC.Date" content="2022-10-03">
+<meta name="citation_publication_date" content="2022">
+
+
+<meta name="DC.Rights" content="Copyright 2022">
+<meta name="citation_online_date" content="2020/12/19">
+
+<meta name="citation_keywords" content="OLAC, Serials, Dublin Core">
+
+
+
+
+
+
+  
+
+
+<title>OLAC Collections: The Case of Serials | Hugh&#39;s Curriculum Vitae</title>
+
+</head>
+
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class=" ">
+
+  
+  
+  
+  
+    <script>const isSiteThemeDark = false;</script>
+  
+  
+  <script src="/Hugh-CV/js/load-theme.js"></script>
+
+  <aside class="search-results" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control">
+        
+      </div>
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+  <div class="container">
+
+    
+    <div class="d-none d-lg-inline-flex">
+      <a class="navbar-brand" href="/Hugh-CV/"><img src="/Hugh-CV/images/logo.svg" alt="Hugh&#39;s Curriculum Vitae"></a>
+    </div>
+    
+
+    
+    <button type="button" class="navbar-toggler" data-toggle="collapse"
+            data-target="#navbar-content" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+    <span><i class="fas fa-bars"></i></span>
+    </button>
+    
+
+    
+    <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+      <a class="navbar-brand" href="/Hugh-CV/"><img src="/Hugh-CV/images/logo.svg" alt="Hugh&#39;s Curriculum Vitae"></a>
+    </div>
+    
+
+    
+    
+    <div class="navbar-collapse main-menu-item collapse justify-content-end" id="navbar-content">
+
+      
+      <ul class="navbar-nav d-md-inline-flex">
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/Hugh-CV/#about"><span>Home</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/Hugh-CV/#featured"><span>Publications</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/Hugh-CV/#talks"><span>Talks</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/Hugh-CV/#projects"><span>Projects</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/Hugh-CV/#teaching"><span>Teaching</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/Hugh-CV/#experience"><span>Experience</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/Hugh-CV/#posts"><span>Notes</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/Hugh-CV/#contact"><span>Contact</span></a>
+        </li>
+
+        
+        
+
+      
+
+        
+      </ul>
+    </div>
+
+    <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+      
+      <li class="nav-item">
+        <a class="nav-link js-search" href="#" aria-label="Search"><i class="fas fa-search" aria-hidden="true"></i></a>
+      </li>
+      
+
+      
+      
+
+      
+
+    </ul>
+
+  </div>
+</nav>
+
+
+
+  <div class="pub">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+  
+  
+<div class="article-container pt-3">
+  <h1>OLAC Collections: The Case of Serials</h1>
+
+  
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+  
+  <span ><a href="/Hugh-CV/author/hugh-paterson-iii/">Hugh Paterson III</a></span>
+  </div>
+  
+  
+
+  
+
+  
+
+  
+
+  
+  
+  
+
+  
+  
+  <span class="middot-divider"></span>
+  <span class="article-categories">
+    <i class="fas fa-folder mr-1"></i><a href="/Hugh-CV/category/peer-reviewed/">Peer Reviewed</a>, <a href="/Hugh-CV/category/conference/">Conference</a></span>
+  
+
+</div>
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1" href="https://docs.google.com/presentation/d/1PVG4xsf2TEwvUJxtexPQm0HFvRrgEUhfTk9dQGB_2HY/edit?usp=sharing" target="_blank" rel="noopener">
+  Slides
+</a>
+
+
+
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+    
+      
+    
+  
+  <a class="btn btn-outline-primary my-1 mr-1" href="/Hugh-CV/talk/2022-olac-collections-the-case-of-serials/OLAC-Collections_The-Case-of-Serials-submitted.pdf" >
+    
+    Conference Abstract
+  </a>
+
+
+</div>
+
+
+  
+</div>
+
+
+
+  <div class="article-container">
+
+    
+      <h3>Abstract</h3>
+      <p class="pub-abstract">Successful language archives provide meaningful links between their holdings and existing scholarly resources elsewhere including language-documentation evidence, language-descriptions, and language-development materials. The Open Language Archiving Community aggregator is one community-based approach to solving the related-resources and resource-discovery challenge. Language descriptions come in many forms, including journal articles, which are published in serials. Serials are increasing in their relevance to the audiences of language archives because many language archive collections have collection descriptions which are now being published as peer-reviewed articles (Sullivant 2020; Fitzgerald 2021). This leads to interesting questions about how collection descriptions and journal articles ought to be indexed in OLAC which follows Dublin Core conventions (Bird &amp; Simons 2003). Currently, at least four OLAC data providers submit records for journal articles, with many more data providers mentioning articles in the description fields of artifact records. Each of these data providers has a unique way of using the OLAC application profile to provide metadata about articles. This creates an inconsistent user experience in a metadata-driven website such as OLAC. We present a template for describing journals and their content, based on well established Dublin Core conventions in the field of library science (Jones W. 2001; Cole 2002; Riva 2004; Shadle 2006; Allinson 2008; Jones E. 2018). The template is designed for OLAC data contributors as they index journal- and serial-typed artifacts within their holdings. We propose that journals are analogous to collections, and that articles are analogous to items in the well-known collection/item framework used by archives (Wickett 2012). The template is inclusive of best-practice library modeling applying insights from Functional Requirements of Bibliographic Records (FRBR) to OLAC records. FRBR is helpful when considering relationships between pre-prints, off-prints, and versions of record, i.e., publisher versions (Tillett 2001, 2005; Žumer et al 2010).</p>
+    
+
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Date</div>
+          <div class="col-12 col-md-9">
+            3 Oct, 2022 11:30
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Event</div>
+          <div class="col-12 col-md-9">
+            <a href="https://langdoc.org" target="_blank" rel="noopener">
+            The Language Documentation and Archiving Conference
+            </a>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Location</div>
+          <div class="col-12 col-md-9">Berlin-Brandenburgische Akademie der Wissenschaften, Berlin, Germany</div>
+          
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    <div class="space-below"></div>
+
+    <div class="article-style">
+      <h3 id="bibliography">Bibliography</h3>
+
+
+
+
+
+
+
+
+
+
+
+<section class="hugo-cite-bibliography">
+  <dl>
+    
+
+      <div id="http//zotero.org/groups/2527038/items/tg27x7hw">
+        <dt>
+          Žumer,&#32;
+          Zeng&#32;&amp;&#32;Salaba
+
+          
+          (2010)</dt>
+
+        <dd>
+          
+
+
+
+
+
+
+
+
+
+
+
+
+<span itemscope
+      itemtype="https://schema.org/CreativeWork"
+      data-type="paper-conference"><span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Žumer</span>,&#32;
+    <meta itemprop="givenName" content="Maja" />
+    M.</span>,&#32;
+  <span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Zeng</span>,&#32;
+    <meta itemprop="givenName" content="Marcia Lei" />
+    M.</span>&#32;&amp;&#32;<span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Salaba</span>,&#32;
+    <meta itemprop="givenName" content="Athena" />
+    A.</span>
+  &#32;
+    (<span itemprop="datePublished">2010</span>).
+  &#32;<span itemprop="name">
+    <i>FRBR: A Generalized Approach to Dublin Core Application Profiles</i></span>.
+  <meta itemprop="contentLocation"
+        content="Pittsburgh, Pennsylvania">&#32;
+  <span itemprop="publisher" itemtype="http://schema.org/Organization" itemscope="">
+    <span itemprop="name">Dublin Core Metadata Initiative</span></span>.&#32;Retrieved from&#32;
+  <a href="https://dcpapers.dublincore.org/pubs/article/view/1024"
+     itemprop="identifier"
+     itemtype="https://schema.org/URL">https://dcpapers.dublincore.org/pubs/article/view/1024</a></span>
+
+</dd>
+
+      </div>
+
+      <div id="http//zotero.org/groups/2527038/items/6fkueqva">
+        <dt>
+          Riva,&#32;
+          Le Bœuf&#32;&amp;&#32;Žumer
+
+          
+          (2017)</dt>
+
+        <dd>
+          
+
+
+
+
+
+
+
+
+
+
+
+
+<span itemscope
+      itemtype="https://schema.org/Book"
+      data-type="book"><span itemprop="editor" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Riva</span>,&#32;
+    <meta itemprop="givenName" content="Pat" />
+    P.</span>,&#32;
+  <span itemprop="editor" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Le Bœuf</span>,&#32;
+    <meta itemprop="givenName" content="Patrick" />
+    P.</span>&#32;&amp;&#32;<span itemprop="editor" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Žumer</span>,&#32;
+    <meta itemprop="givenName" content="Maja" />
+    M.</span>&#32;
+    (<span itemprop="datePublished">2017</span>).
+  &#32;<span itemprop="name">
+    <i>IFLA Library Reference Model A Conceptual Model for Bibliographic Information</i></span> (<span>December 2017</span>).
+  <meta itemprop="locationCreated"
+        value="Den Haag, Netherlands">&#32;
+  <span itemprop="publisher"
+             itemtype="http://schema.org/Organization"
+             itemscope>
+    <span itemprop="name">International Federation of Library Associations and Institutions (IFLA)</span></span>.&#32;Retrieved from&#32;
+  <a href="https://www.ifla.org/publications/node/11412"
+     itemprop="identifier"
+     itemtype="https://schema.org/URL">https://www.ifla.org/publications/node/11412</a></span>
+
+
+
+
+</dd>
+
+      </div>
+
+      <div id="http//zotero.org/groups/2527038/items/2s77vb7f">
+        <dt>
+          Riva
+
+          
+          (2004)</dt>
+
+        <dd>
+          
+
+
+
+
+
+
+
+
+
+
+
+
+<span itemscope
+      itemtype="https://schema.org/Article"
+      data-type="article"><span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Riva</span>,&#32;
+    <meta itemprop="givenName" content="Pat" />
+    P.</span>
+  &#32;
+    (<span itemprop="datePublished">2004</span>).
+  &#32;<span itemprop="name">Defining the Boundaries: FRBR, AACR and the Serial</span>.<i>
+    <span itemprop="about">The Serials Librarian</span>,&#32;45(3)</i>.&#32;<span itemprop="pagination">15–21</span>.
+  <a href="https://doi.org/10.1300/J123v45n03_02"
+     itemprop="identifier"
+     itemtype="https://schema.org/URL">https://doi.org/10.1300/J123v45n03_02</a></span>
+
+
+
+
+</dd>
+
+      </div>
+
+      <div id="http//zotero.org/groups/2527038/items/psediegj">
+        <dt>
+          Tillett
+
+          
+          (2001)</dt>
+
+        <dd>
+          
+
+
+
+
+
+
+
+
+
+
+
+
+<span itemscope
+      itemtype="https://schema.org/Chapter"
+      data-type="chapter">
+  <span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Tillett</span>,&#32;
+    <meta itemprop="givenName" content="Barbara B." />
+    B.</span>
+  &#32;
+    (<span itemprop="datePublished">2001</span>).
+  &#32;<span itemprop="name">Bibliographic Relationships</span>.&#32;In&#32;<span itemprop="editor" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Bean</span>,&#32;
+    <meta itemprop="givenName" content="Carol A." />
+    C.</span>&#32;&amp;&#32;<span itemprop="editor" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Green</span>,&#32;
+    <meta itemprop="givenName" content="Rebecca" />
+    R.</span> (Eds.),&#32;<span itemprop="about">
+    <i>Relationships in the Organization of Knowledge</i></span>.&#32;(<span>pp.&#32;19–35</span>).
+  <meta itemprop="contentLocation"
+        value="Dordrecht">&#32;<span itemprop="publisher"
+               itemtype="http://schema.org/Organization"
+               itemscope="">
+      <span itemprop="name">Springer Netherlands</span></span>.&#32;Retrieved from&#32;
+  <a href="http://link.springer.com/10.1007/978-94-015-9696-1_2"
+     itemprop="identifier"
+     itemtype="https://schema.org/URL">http://link.springer.com/10.1007/978-94-015-9696-1_2</a></span>
+
+
+
+
+</dd>
+
+      </div>
+
+      <div id="http//zotero.org/groups/2527038/items/2rk6js46">
+        <dt>
+          Sullivant
+
+          
+          (2020)</dt>
+
+        <dd>
+          
+
+
+
+
+
+
+
+
+
+
+
+
+<span itemscope
+      itemtype="https://schema.org/Article"
+      data-type="article"><span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Sullivant</span>,&#32;
+    <meta itemprop="givenName" content="Ryan" />
+    R.</span>
+  &#32;
+    (<span itemprop="datePublished">2020</span>).
+  &#32;<span itemprop="name">Archival description for language documentation collections</span>.<i>
+    <span itemprop="about">Language Documentation &amp; Conservation</span>,&#32;14</i>.&#32;<span itemprop="pagination">520–578</span>.&#32;Retrieved from&#32;
+  <a href="http://hdl.handle.net/10125/24949"
+     itemprop="identifier"
+     itemtype="https://schema.org/URL">http://hdl.handle.net/10125/24949</a></span>
+
+
+
+
+</dd>
+
+      </div>
+
+      <div id="http//zotero.org/groups/2527038/items/8ktvtieu">
+        <dt>
+          Fitzgerald
+
+          
+          (2021)</dt>
+
+        <dd>
+          
+
+
+
+
+
+
+
+
+
+
+
+
+<span itemscope
+      itemtype="https://schema.org/Article"
+      data-type="article"><span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Fitzgerald</span>,&#32;
+    <meta itemprop="givenName" content="Colleen M." />
+    C.</span>
+  &#32;
+    (<span itemprop="datePublished">2021</span>).
+  &#32;<span itemprop="name">A framework for Language Revitalization and Documentation</span>.<i>
+    <span itemprop="about">Language</span>,&#32;97(1)</i>.&#32;<span itemprop="pagination">e1–e11</span>.&#32;Retrieved from&#32;
+  <a href="https://muse.jhu.edu/article/785544"
+     itemprop="identifier"
+     itemtype="https://schema.org/URL">https://muse.jhu.edu/article/785544</a></span>
+
+
+
+
+</dd>
+
+      </div>
+
+      <div id="http//zotero.org/groups/2527038/items/twukim3q">
+        <dt>
+          Bird&#32;&amp;&#32;Simons
+
+          
+          (2003)</dt>
+
+        <dd>
+          
+
+
+
+
+
+
+
+
+
+
+
+
+<span itemscope
+      itemtype="https://schema.org/Article"
+      data-type="article"><span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Bird</span>,&#32;
+    <meta itemprop="givenName" content="Steven" />
+    S.</span>&#32;&amp;&#32;<span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Simons</span>,&#32;
+    <meta itemprop="givenName" content="Gary F." />
+    G.</span>
+  &#32;
+    (<span itemprop="datePublished">2003</span>).
+  &#32;<span itemprop="name">Extending Dublin Core Metadata to Support the Description and Discovery of Language Resources</span>.<i>
+    <span itemprop="about">Computers and the Humanities</span>,&#32;37(4)</i>.&#32;<span itemprop="pagination">375–388</span>.
+  <a href="https://doi.org/10.1023/A:1025720518994"
+     itemprop="identifier"
+     itemtype="https://schema.org/URL">https://doi.org/10.1023/A:1025720518994</a></span>
+
+
+
+
+</dd>
+
+      </div>
+
+      <div id="http//zotero.org/groups/2527038/items/la6ks4ib">
+        <dt>
+          Allinson
+
+          
+          (2008)</dt>
+
+        <dd>
+          
+
+
+
+
+
+
+
+
+
+
+
+
+<span itemscope
+      itemtype="https://schema.org/Article"
+      data-type="article"><span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Allinson</span>,&#32;
+    <meta itemprop="givenName" content="Julie" />
+    J.</span>
+  &#32;
+    (<span itemprop="datePublished">2008</span>).
+  &#32;<span itemprop="name">Describing Scholarly Works with Dublin Core: A Functional Approach</span>.<i>
+    <span itemprop="about">Library Trends</span>,&#32;57(2)</i>.&#32;<span itemprop="pagination">221–243</span>.
+  <a href="https://doi.org/10.1353/lib.0.0034"
+     itemprop="identifier"
+     itemtype="https://schema.org/URL">https://doi.org/10.1353/lib.0.0034</a></span>
+
+
+
+
+</dd>
+
+      </div>
+
+      <div id="http//zotero.org/groups/2527038/items/n4t2sa77">
+        <dt>
+          Cole
+
+          
+          (2002)</dt>
+
+        <dd>
+          
+
+
+
+
+
+
+
+
+
+
+
+
+<span itemscope
+      itemtype="https://schema.org/Article"
+      data-type="article"><span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Cole</span>,&#32;
+    <meta itemprop="givenName" content="Timothy W." />
+    T.</span>
+  &#32;
+    (<span itemprop="datePublished">2002</span>).
+  &#32;<span itemprop="name">Qualified Dublin Core metadata for online journal articles</span>.<i>
+    <span itemprop="about">OCLC Systems &amp; Services: International digital library perspectives</span>,&#32;18(2)</i>.&#32;<span itemprop="pagination">79–87</span>.
+  <a href="https://doi.org/10.1108/10650750210430141"
+     itemprop="identifier"
+     itemtype="https://schema.org/URL">https://doi.org/10.1108/10650750210430141</a></span>
+
+
+
+
+</dd>
+
+      </div>
+
+      <div id="http//zotero.org/groups/2527038/items/wjtgfftw">
+        <dt>
+          Tillett
+
+          
+          (2005)</dt>
+
+        <dd>
+          
+
+
+
+
+
+
+
+
+
+
+
+
+<span itemscope
+      itemtype="https://schema.org/Article"
+      data-type="article"><span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Tillett</span>,&#32;
+    <meta itemprop="givenName" content="Barbara" />
+    B.</span>
+  &#32;
+    (<span itemprop="datePublished">2005</span>).
+  &#32;<span itemprop="name">What is FRBR? A conceptual model for the bibliographic universe</span>.<i>
+    <span itemprop="about">The Australian Library Journal</span>,&#32;54(1)</i>.&#32;<span itemprop="pagination">24–30</span>.
+  <a href="https://doi.org/10.1080/00049670.2005.10721710"
+     itemprop="identifier"
+     itemtype="https://schema.org/URL">https://doi.org/10.1080/00049670.2005.10721710</a></span>
+
+
+
+
+</dd>
+
+      </div>
+
+      <div id="http//zotero.org/groups/2527038/items/mgl77ahf">
+        <dt>
+          Wickett
+
+          
+          (2012)</dt>
+
+        <dd>
+          
+
+
+
+
+
+
+
+
+
+
+
+
+<span itemscope
+      itemtype="https://schema.org/Thesis"
+      data-type="thesis"><span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Wickett</span>,&#32;
+    <meta itemprop="givenName" content="Karen M." />
+    K.</span>
+  &#32;
+    (<span itemprop="datePublished">2012</span>).
+  &#32;<span itemprop="name">
+    <i>Collection/item metadata relationships</i>
+  </span><span itemprop="inSupportOf">&nbsp;(text)</span>.&nbsp;
+&#32;
+  <span itemprop="publisher"
+             itemtype="http://schema.org/EducationalOrganization"
+             itemscope>
+    <span itemprop="name">University of Illinois at Urbana-Champaign</span>, &#32;Retrieved from&#32;
+  <a href="https://www.ideals.illinois.edu/handle/2142/42198"
+     itemprop="identifier"
+     itemtype="https://schema.org/URL">https://www.ideals.illinois.edu/handle/2142/42198</a></span>
+
+
+
+
+
+</dd>
+
+      </div>
+
+      <div id="http//zotero.org/groups/2527038/items/dd8letqm">
+        <dt>
+          Jones
+
+          
+          (2018)</dt>
+
+        <dd>
+          
+
+
+
+
+
+
+
+
+
+
+
+
+<span itemscope
+      itemtype="https://schema.org/Article"
+      data-type="article"><span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Jones</span>,&#32;
+    <meta itemprop="givenName" content="Edgar" />
+    E.</span>
+  &#32;
+    (<span itemprop="datePublished">2018</span>).
+  &#32;<span itemprop="name">The Evolution of the Serial Work, the FRBR Conceptual Model, and RDA</span>.<i>
+    <span itemprop="about">Cataloging &amp; Classification Quarterly</span>,&#32;56(2-3)</i>.&#32;<span itemprop="pagination">128–145</span>.
+  <a href="https://doi.org/10.1080/01639374.2017.1388325"
+     itemprop="identifier"
+     itemtype="https://schema.org/URL">https://doi.org/10.1080/01639374.2017.1388325</a></span>
+
+
+
+
+</dd>
+
+      </div>
+
+      <div id="http//zotero.org/groups/2527038/items/8jdqxf8q">
+        <dt>
+          Shadle
+
+          
+          (2006)</dt>
+
+        <dd>
+          
+
+
+
+
+
+
+
+
+
+
+
+
+<span itemscope
+      itemtype="https://schema.org/Article"
+      data-type="article"><span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Shadle</span>,&#32;
+    <meta itemprop="givenName" content="Steve" />
+    S.</span>
+  &#32;
+    (<span itemprop="datePublished">2006</span>).
+  &#32;<span itemprop="name">FRBR and Serials: An Overview and Analysis</span>.<i>
+    <span itemprop="about">The Serials Librarian</span>,&#32;50(1-2)</i>.&#32;<span itemprop="pagination">83–103</span>.
+  <a href="https://doi.org/10.1300/J123v50n01_09"
+     itemprop="identifier"
+     itemtype="https://schema.org/URL">https://doi.org/10.1300/J123v50n01_09</a></span>
+
+
+
+
+</dd>
+
+      </div>
+
+      <div id="http//zotero.org/groups/2527038/items/gyy8prnw">
+        <dt>
+          
+          (N.A.)
+
+          
+          (1942)</dt>
+
+        <dd>
+          
+
+
+
+
+
+
+
+
+
+
+
+
+<span itemscope
+      itemtype="https://schema.org/WebPage"
+      data-type="webpage">
+  (N.A.).(<span itemprop="datePublished">1942</span>).&#32;Retrieved from&#32;
+  <a href="http://www.language-archives.org/item/oai:anla.uaf.edu:KO936S1942"
+     itemprop="identifier"
+     itemtype="https://schema.org/URL">http://www.language-archives.org/item/oai:anla.uaf.edu:KO936S1942</a></span>
+
+
+
+
+</dd>
+
+      </div>
+
+      <div id="http//zotero.org/groups/2527038/items/j7wvqyhk">
+        <dt>
+          Higgins
+
+          
+          (2017)</dt>
+
+        <dd>
+          
+
+
+
+
+
+
+
+
+
+
+
+
+<span itemscope
+      itemtype="https://schema.org/WebPage"
+      data-type="webpage"><span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Higgins</span>,&#32;
+    <meta itemprop="givenName" content="Christina" />
+    C.</span>(<span itemprop="datePublished">2017,&#32;3/4</span>).&#32;Retrieved from&#32;
+  <a href="http://www.language-archives.org/item/oai:scholarspace.manoa.hawaii.edu:10125/41999"
+     itemprop="identifier"
+     itemtype="https://schema.org/URL">http://www.language-archives.org/item/oai:scholarspace.manoa.hawaii.edu:10125/41999</a></span>
+
+
+
+
+</dd>
+
+      </div>
+
+      <div id="http//zotero.org/groups/2527038/items/x4tzsvq9">
+        <dt>
+          Benjamin&#32;&amp;&#32;Noone
+
+          
+          (1936)</dt>
+
+        <dd>
+          
+
+
+
+
+
+
+
+
+
+
+
+
+<span itemscope
+      itemtype="https://schema.org/WebPage"
+      data-type="webpage"><span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Benjamin</span>,&#32;
+    <meta itemprop="givenName" content="Geoffrey" />
+    G.</span>&#32;&amp;&#32;<span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Noone</span>,&#32;
+    <meta itemprop="givenName" content="H. D." />
+    H.</span>(<span itemprop="datePublished">1936</span>).&#32;Retrieved from&#32;
+  <a href="http://www.language-archives.org/item/oai:humlab.lu.se:hdl:10050/00-0000-0000-0004-1513-4"
+     itemprop="identifier"
+     itemtype="https://schema.org/URL">http://www.language-archives.org/item/oai:humlab.lu.se:hdl:10050/00-0000-0000-0004-1513-4</a></span>
+
+
+
+
+</dd>
+
+      </div>
+
+      <div id="http//zotero.org/groups/2527038/items/vnl3sva2">
+        <dt>
+          King
+
+          
+          (2005)</dt>
+
+        <dd>
+          
+
+
+
+
+
+
+
+
+
+
+
+
+<span itemscope
+      itemtype="https://schema.org/WebPage"
+      data-type="webpage"><span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">King</span>,&#32;
+    <meta itemprop="givenName" content="Phil" />
+    P.</span>(<span itemprop="datePublished">2005</span>).&#32;Retrieved from&#32;
+  <a href="http://www.language-archives.org/item/oai:sil.org:40239"
+     itemprop="identifier"
+     itemtype="https://schema.org/URL">http://www.language-archives.org/item/oai:sil.org:40239</a></span>
+
+
+
+
+</dd>
+
+      </div>
+
+      <div id="http//zotero.org/groups/2527038/items/lg3kmmsb">
+        <dt>
+          Ferreira&#32;&amp;&#32;Rodríguez
+
+          
+          (n.d.)</dt>
+
+        <dd>
+          
+
+
+
+
+
+
+
+
+
+
+
+
+<span itemscope
+      itemtype="https://schema.org/WebPage"
+      data-type="webpage"><span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Ferreira</span>,&#32;
+    <meta itemprop="givenName" content="Vera" />
+    V.</span>&#32;&amp;&#32;<span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Rodríguez</span>,&#32;
+    <meta itemprop="givenName" content="Ramón" />
+    R.</span>
+  (s.d.).&#32;Retrieved from&#32;
+  <a href="http://www.language-archives.org/item/oai:www.mpi.nl:tla_1839_00_0000_0000_0016_4F8F_E"
+     itemprop="identifier"
+     itemtype="https://schema.org/URL">http://www.language-archives.org/item/oai:www.mpi.nl:tla_1839_00_0000_0000_0016_4F8F_E</a></span>
+
+
+
+
+</dd>
+
+      </div>
+
+      <div id="http//zotero.org/groups/2527038/items/ngc97s54">
+        <dt>
+          Brockett
+
+          
+          (1985)</dt>
+
+        <dd>
+          
+
+
+
+
+
+
+
+
+
+
+
+
+<span itemscope
+      itemtype="https://schema.org/WebPage"
+      data-type="webpage"><span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Brockett</span>,&#32;
+    <meta itemprop="givenName" content="A. A." />
+    A.</span>(<span itemprop="datePublished">1985</span>).&#32;Retrieved from&#32;
+  <a href="http://www.language-archives.org/item/oai:rosettaproject.org:rosettaproject_acx_contents-1"
+     itemprop="identifier"
+     itemtype="https://schema.org/URL">http://www.language-archives.org/item/oai:rosettaproject.org:rosettaproject_acx_contents-1</a></span>
+
+
+
+
+</dd>
+
+      </div>
+  </dl>
+</section>
+
+
+
+
+    </div>
+
+    
+
+
+
+
+
+  
+    <span><em>Tags</em>:</span>    
+
+<span class="article-tags">
+  
+  <a class="badge badge-light" href="/Hugh-CV/tag/olac/">OLAC</a>
+  
+  <a class="badge badge-light" href="/Hugh-CV/tag/serials/">Serials</a>
+  
+  <a class="badge badge-light" href="/Hugh-CV/tag/dublin-core/">Dublin Core</a>
+  
+</span>
+
+
+  
+
+
+
+  
+    <br><span><em>Categories</em>:</span>   
+
+<span class="article-tags">
+  
+  <a class="badge badge-light" href="/Hugh-CV/category/peer-reviewed/">Peer Reviewed</a>
+  
+  <a class="badge badge-light" href="/Hugh-CV/category/conference/">Conference</a>
+  
+</span>
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    <br><span><em>Content Mediums</em>:</span>   
+
+<span class="article-tags">
+  
+  <a class="badge badge-light" href="/Hugh-CV/content_types/video/">Video</a>
+  
+  <a class="badge badge-light" href="/Hugh-CV/content_types/print/">Print</a>
+  
+  <a class="badge badge-light" href="/Hugh-CV/content_types/event/">Event</a>
+  
+</span>
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    
+
+
+
+
+
+  
+    
+    
+    
+      
+    
+    
+    
+    <div class="media author-card content-widget-hr">
+      
+        
+        <img class="avatar mr-3 avatar-circle" src="/Hugh-CV/author/hugh-paterson-iii/avatar_huf06207d43952fcec4f010d643d581cb5_33859_270x270_fill_q90_lanczos_center.jpg" alt="Hugh Paterson III">
+      
+
+      <div class="media-body">
+        <h5 class="card-title"><a href="https://hughandbecky.us/Hugh-CV/">Hugh Paterson III</a></h5>
+        <h6 class="card-subtitle">Collaborative Scholar</h6>
+        <p class="card-text">My research interests include typological patterns in articulatory phonetics; User Experience design in language tools; and graph theory applied to language and linguistic resource discovery.</p>
+        <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="//scholar.google.com/citations?user=b3KeFqkAAAAJ" >
+        <i class="ai ai-google-scholar"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="//github.com/HughP" >
+        <i class="fab fa-github"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="//twitter.com/thejourneyler" >
+        <i class="fab fa-twitter"></i>
+      </a>
+    </li>
+  
+</ul>
+
+      </div>
+    </div>
+  
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  <div class="article-widget content-widget-hr">
+    <h3>Related</h3>
+    <ul>
+      
+      <li><a href="/Hugh-CV/post/describing-serials-in-dublin-core/">Describing Serials in Dublin Core</a>&nbsp;&nbsp;<span class="badge badge-light" style="font-size: 0.6em; vertical-align: middle;">post</span></li>
+      
+      <li><a href="/Hugh-CV/talk/2021-from-cv-to-olac/">From CV to OLAC</a>&nbsp;&nbsp;<span class="badge badge-light" style="font-size: 0.6em; vertical-align: middle;">talk</span></li>
+      
+      <li><a href="/Hugh-CV/talk/2022-the-open-language-archives-community-olac-for-ethnolinguistic-collections/">The Open Language Archives Community (OLAC) for Ethnolinguistic Collections</a>&nbsp;&nbsp;<span class="badge badge-light" style="font-size: 0.6em; vertical-align: middle;">talk</span></li>
+      
+      <li><a href="/Hugh-CV/talk/2021-audio-artifacts-in-language-archives/">Audio Artifacts in Language Archives: From Cataloguing to Referencing and Citation</a>&nbsp;&nbsp;<span class="badge badge-light" style="font-size: 0.6em; vertical-align: middle;">talk</span></li>
+      
+      <li><a href="/Hugh-CV/talk/2021-from-archive-to-citation/">From Archive to Citation</a>&nbsp;&nbsp;<span class="badge badge-light" style="font-size: 0.6em; vertical-align: middle;">talk</span></li>
+      
+    </ul>
+  </div>
+  
+
+
+
+
+
+  </div>
+</div>
+
+      
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js" integrity="sha256-yt2kYMy0w8AbtF89WXb2P1rfjcP/HTHLT7097U8Y5b8=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/instant.page/5.1.0/instantpage.min.js" integrity="sha512-1+qUtKoh9XZW7j+6LhRMAyOrgSQKenQ4mluTR+cvxXjP1Z54RxZuzstR/H9kgPXQsVB8IW7DMDFUJpzLjvhGSQ==" crossorigin="anonymous"></script>
+
+      
+
+      
+
+    
+
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/leaflet.min.js" integrity="sha512-SeiQaaDh73yrb56sTW/RgVdi/mMqNeM2oBwubFHagc5BkixSpP1fvqF47mKzPGWYSSy4RwbBunrJBQ4Co8fRWA==" crossorigin="anonymous"></script>
+    
+
+    
+    
+    <script>const code_highlighting = false;</script>
+    
+
+    
+    
+    
+    
+    
+    
+    <script>
+      const search_config = {"indexURI":"/Hugh-CV/index.json","minLength":1,"threshold":0.3};
+      const i18n = {"no_results":"No results found","placeholder":"Search...","results":"results found"};
+      const content_type = {
+        'post': "Marginalia",
+        'project': "Projects",
+        'publication' : "Publications",
+        'talk' : "Talks",
+        'slides' : "Slides"
+        };
+    </script>
+    
+
+    
+    
+
+    
+    
+    <script id="search-hit-fuse-template" type="text/x-template">
+      <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{ snippet }}</p>
+        </div>
+      </div>
+      </div>
+    </script>
+    
+
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+    
+
+    
+    
+
+    
+    
+
+    
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+    
+    
+    <script src="/Hugh-CV/js/academic.min.3b2b658c61ebd725bd5fc606c89fe44c.js"></script>
+
+    
+
+
+
+
+
+
+  
+  
+  <div class="container">
+    <footer class="site-footer">
+  
+  <p class="powered-by">
+    
+      <a href="/Hugh-CV/tag/privacy-policy/">Privacy Policy</a>
+    
+    
+  </p>
+  
+
+  <p class="powered-by">
+    Hugh Paterson III © 2022
+  </p>
+
+  
+  
+
+
+
+
+
+
+  <p class="powered-by">
+    
+
+    
+    <span class="float-right" aria-hidden="true">
+      <a href="#" class="back-to-top">
+        <span class="button_icon">
+          <i class="fas fa-chevron-up fa-2x"></i>
+        </span>
+      </a>
+    </span>
+    
+  </p>
+</footer>
+
+  </div>
+  
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>

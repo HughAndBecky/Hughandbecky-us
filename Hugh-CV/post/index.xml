@@ -5,12 +5,26 @@
     <link>https://hughandbecky.us/Hugh-CV/post/</link>
       <atom:link href="https://hughandbecky.us/Hugh-CV/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2022</copyright><lastBuildDate>Tue, 08 Mar 2022 14:35:45 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2022</copyright><lastBuildDate>Wed, 17 Aug 2022 14:35:45 +0100</lastBuildDate>
     <image>
       <url>https://hughandbecky.us/Hugh-CV/media/HughPaterson.jpg</url>
       <title>Posts</title>
       <link>https://hughandbecky.us/Hugh-CV/post/</link>
     </image>
+    
+    <item>
+      <title>OAI-Sets for OLAC</title>
+      <link>https://hughandbecky.us/Hugh-CV/post/oai-sets-for-olac/</link>
+      <pubDate>Wed, 17 Aug 2022 14:35:45 +0100</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/post/oai-sets-for-olac/</guid>
+      <description>&lt;p&gt;In a passing conversation Steven Bird and I were discussing the options for displaying collection metadata in OLAC. For a long time the assumption has been that OLAC records are flat on the basis of Dublin Core constraints. This is not completely true with the presence of the DCMIType value &lt;code&gt;Collection&lt;/code&gt; and the relationship &lt;code&gt;hasPart&lt;/code&gt; or &lt;code&gt;isPartOf&lt;/code&gt;. That is through these mechanisms a hierarchy can be infered.&lt;/p&gt;
+&lt;p&gt;In a while brain storming for other options Steven mentioned the OAI value for 
+&lt;a href=&#34;http://www.openarchives.org/OAI/openarchivesprotocol.html#Set&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;sets&lt;/a&gt; (and also 
+&lt;a href=&#34;http://www.openarchives.org/OAI/openarchivesprotocol.html#Set&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;the historical documentation in OAI version 1.0&lt;/a&gt;), which is an interesting part of the OAI protocol. Basically it is a way to establish classes that the OAI verbs will respect. How these classes are set up is completely dependent on the data source manager. So, unless an OLAC recomendation document established a set of classes which it expected OLAC data providers to implement I don&amp;rsquo;t see how this actually resolves or lowers complexity related to setting up an OAI service for OLAC to harvest from. However, classes can be useful if an OAI provider has several different clients it is seeking to facilitate but only wants to provide a single OAI endpoint.&lt;/p&gt;
+&lt;p&gt;OpenEditions, the publisher in France, has an 
+&lt;a href=&#34;https://oai-openedition.readthedocs.io/en/latest/sets.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;example of documentation where the OAI provider defines the sets they make available&lt;/a&gt;. They chose &lt;em&gt;books&lt;/em&gt;, &lt;em&gt;journals&lt;/em&gt;, &lt;em&gt;blogs&lt;/em&gt;, and &lt;em&gt;events&lt;/em&gt; as their sets. In some ways this could be navigated with DCMITypes and complex queries, but maybe some of thier clients OAI harvesters are only interested in certain sets (for example DOAJ is only interested in the journals). In the OLAC case, the harvester generally wants everything. So these specific classes doesn&amp;rsquo;t make much sense. I don&amp;rsquo;t redily see how OAI classes fit the proposed use case of establishing hierarchical structures for the description of collections. But perhaps another useful application can be thought of. The one case I can think of is if an OLAC data provider indexes resources which it doesn&amp;rsquo;t actually have a copy of and also indexes items it &lt;em&gt;does&lt;/em&gt; have a copy of then these might be of interest to divide into two sets, but OLAC would harvest them both anyway.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Diversity and Typology Across OLAC Providers</title>
