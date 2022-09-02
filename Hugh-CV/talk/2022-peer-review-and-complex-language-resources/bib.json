@@ -1,0 +1,170 @@
+[
+	{
+		"id": "http://zotero.org/groups/2527038/items/KDFUJULI",
+		"type": "article-journal",
+		"container-title": "Australian Journal of Linguistics",
+		"DOI": "10.1080/07268602.2016.1109428",
+		"ISSN": "0726-8602, 1469-2996",
+		"issue": "1",
+		"language": "English",
+		"note": "number: 1",
+		"page": "1–21",
+		"source": "DOI.org (Crossref)",
+		"title": "Assessing Annotated Corpora as Research Output",
+		"URL": "http://www.tandfonline.com/doi/full/10.1080/07268602.2016.1109428",
+		"volume": "36",
+		"author": [
+			{
+				"family": "Thieberger",
+				"given": "Nick"
+			},
+			{
+				"family": "Margetts",
+				"given": "Anna"
+			},
+			{
+				"family": "Morey",
+				"given": "Stephen"
+			},
+			{
+				"family": "Musgrave",
+				"given": "Simon"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					4,
+					24
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2016",
+					1,
+					2
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2527038/items/QWIFVNUC",
+		"type": "article-journal",
+		"abstract": "Aggregates have been a frequent topic of discussion between library science researchers. This study seeks to better understand aggregates through the analysis of a sample of bibliographic records and review of the cataloging treatment of aggregates. The study focuses on determining how common aggregates are in library collections, what types of aggregates exist, how aggregates are described in bibliographic records, and the criteria for identifying aggregates from the information in bibliographic records. A sample of bibliographic records representing textual resources was taken from OCLC’s WorldCat database. More than 20 percent of the sampled records represented aggregates and more works were embodied in aggregates than were embodied in single work manifestations. A variety of issues, including cataloging practices and the varying definitions of aggregates, made it difficult to accurately identify and quantify the presence of aggregates using only the information from bibliographic records.",
+		"container-title": "Library Resources & Technical Services",
+		"DOI": "10.5860/lrts.59n3.120",
+		"ISSN": "2159-9610",
+		"issue": "3",
+		"language": "en",
+		"note": "tex.ids= oneill_frbr_2015-2, oneill_frbr_2015-3\nnumber: 3",
+		"page": "120-129",
+		"source": "journals.ala.org",
+		"title": "FRBR Aggregates: Their Types and Frequency in Library Collections",
+		"title-short": "FRBR Aggregates",
+		"URL": "https://journals.ala.org/index.php/lrts/article/view/5753",
+		"volume": "59",
+		"author": [
+			{
+				"family": "O’Neill",
+				"given": "Edward"
+			},
+			{
+				"family": "Žumer",
+				"given": "Maja"
+			},
+			{
+				"family": "Mixter",
+				"given": "Jeffrey"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					3,
+					5
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2015",
+					7,
+					21
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2527038/items/APFG6MXU",
+		"type": "speech",
+		"event": "FRBR Review Group",
+		"event-place": "Washington, D.C.",
+		"genre": "Presentation Paper",
+		"publisher-place": "Washington, D.C.",
+		"title": "Definition of Aggregates as Works: Tillett Proposal",
+		"URL": "https://www.ifla.org/files/assets/cataloguing/frbrrg/aggregates-as-works.pdf",
+		"author": [
+			{
+				"family": "Tillett",
+				"given": "Barbara"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					3,
+					5
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2009"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2527038/items/2RK6JS46",
+		"type": "article-journal",
+		"abstract": "Users of digital language archives face a number of barriers when trying to discover and reuse the materials preserved in the digital collections created by current language documentation projects. These barriers include sparse descriptive metadata throughout many collections and the prevalence of audio-video materials that are impervious to text-based search. Users could more easily evaluate, navigate, and use such a collection if it contained a guide that contextualized it, summarized its contents, and helped users identify and locate items within it. This article will discuss the importance of thorough collection descriptions and finding aids by synthesizing guidelines and best practices for archival description created for traditional archives and adapting these to the structure and makeup of today’s digital language documentation collections. To facilitate the iterative description of growing collections, the checklist of information to include is presented in three groups of descending priority.",
+		"container-title": "Language Documentation & Conservation",
+		"ISSN": "1934-5275",
+		"language": "en-US",
+		"note": "Accepted: 2020-09-09T18:48:51Z\ntex.ids: sullivant_archival_2020-1\npublisher: University of Hawaii Press",
+		"page": "520–578",
+		"source": "scholarspace.manoa.hawaii.edu",
+		"title": "Archival description for language documentation collections",
+		"URL": "http://hdl.handle.net/10125/24949",
+		"volume": "14",
+		"author": [
+			{
+				"family": "Sullivant",
+				"given": "Ryan"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					11,
+					16
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2020"
+				]
+			]
+		}
+	}
+]

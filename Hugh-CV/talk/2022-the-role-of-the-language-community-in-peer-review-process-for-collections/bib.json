@@ -1,0 +1,151 @@
+[
+	{
+		"id": "http://zotero.org/groups/2527038/items/KDFUJULI",
+		"type": "article-journal",
+		"container-title": "Australian Journal of Linguistics",
+		"DOI": "10.1080/07268602.2016.1109428",
+		"ISSN": "0726-8602, 1469-2996",
+		"issue": "1",
+		"language": "English",
+		"note": "number: 1",
+		"page": "1–21",
+		"source": "DOI.org (Crossref)",
+		"title": "Assessing Annotated Corpora as Research Output",
+		"URL": "http://www.tandfonline.com/doi/full/10.1080/07268602.2016.1109428",
+		"volume": "36",
+		"author": [
+			{
+				"family": "Thieberger",
+				"given": "Nick"
+			},
+			{
+				"family": "Margetts",
+				"given": "Anna"
+			},
+			{
+				"family": "Morey",
+				"given": "Stephen"
+			},
+			{
+				"family": "Musgrave",
+				"given": "Simon"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					4,
+					24
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2016",
+					1,
+					2
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2527038/items/JSFRPBVZ",
+		"type": "report",
+		"note": "DOI: 10.24318/cope.2019.1.9",
+		"publisher": "Committee on Publication Ethics",
+		"source": "DOI.org (Crossref)",
+		"title": "Ethical guidelines for peer reviewers (English)",
+		"URL": "https://publicationethics.org/node/19886",
+		"author": [
+			{
+				"literal": "COPE"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					4,
+					23
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2013",
+					3,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2527038/items/5H9CE8UY",
+		"type": "webpage",
+		"title": "General and Ethical Guidelines for Reviewers",
+		"URL": "https://authorservices.wiley.com/Reviewers/journal-reviewers/how-to-perform-a-peer-review/general-and-ethical-guidelines.html",
+		"author": [
+			{
+				"literal": "Wiley"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					4,
+					23
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2527038/items/EQBCPZBY",
+		"type": "article",
+		"note": "The Role of the Language Community in Peer-Review process for Collections\nThe Role of the Language Community in Peer-Review process for Collections",
+		"title": "Independent Peer Review Manifesto",
+		"author": [
+			{
+				"literal": "Open Scholar"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2014"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2527038/items/MCKBCFX8",
+		"type": "article",
+		"publisher": "Journal of Open Humanities Data",
+		"title": "Language Documentation Collections: Assessment and Recognition [Full call for papers]",
+		"URL": "https://docs.google.com/document/u/1/d/e/2PACX-1vRvSJHMnWln0rlBsjmGeid9H9nJj a05NdG82M_yDHOdn6-EiU5RC6t7qPSIfnGamTfIFolAlhPDuxT_/pub",
+		"author": [
+			{
+				"family": "Griscom",
+				"given": "Richard"
+			},
+			{
+				"family": "Collister",
+				"given": "Lauren B."
+			},
+			{
+				"family": "Paterson III",
+				"given": "Hugh J."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2021"
+				]
+			]
+		}
+	}
+]
