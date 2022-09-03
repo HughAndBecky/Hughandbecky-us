@@ -5,12 +5,21 @@
     <link>https://hughandbecky.us/Hugh-CV/tag/dcmitype/</link>
       <atom:link href="https://hughandbecky.us/Hugh-CV/tag/dcmitype/index.xml" rel="self" type="application/rss+xml" />
     <description>DCMIType</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2022</copyright><lastBuildDate>Thu, 12 May 2022 17:00:12 -0700</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2022</copyright><lastBuildDate>Mon, 03 Oct 2022 13:00:00 -0100</lastBuildDate>
     <image>
       <url>https://hughandbecky.us/Hugh-CV/media/HughPaterson.jpg</url>
       <title>DCMIType</title>
       <link>https://hughandbecky.us/Hugh-CV/tag/dcmitype/</link>
     </image>
+    
+    <item>
+      <title>An OLAC Perspective on Services: The Forgotten Language Resources</title>
+      <link>https://hughandbecky.us/Hugh-CV/talk/2022-services-the-forgotten-language-resources/</link>
+      <pubDate>Mon, 03 Oct 2022 13:00:00 -0100</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/talk/2022-services-the-forgotten-language-resources/</guid>
+      <description>&lt;p&gt;There is a full published paper in addition to the presentation.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Where Have All the Collections Gone?: Analysis of OLAC Data Contributors&#39; use of DCMIType &#39;Collection&#39;</title>

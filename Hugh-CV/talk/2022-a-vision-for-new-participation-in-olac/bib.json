@@ -1,0 +1,99 @@
+[
+	{
+		"id": "http://zotero.org/groups/2527038/items/TW8PCW6Z",
+		"type": "article-journal",
+		"abstract": "The Illinois Digital Heritage Hub (IDHH) gathers and enhances metadata from contributing institutions around the state of Illinois and provides this metadata to the Digital Public Library of America (DPLA) for greater access. The IDHH helps contributors shape their metadata to the standards recommended and required by the DPLA in part by analyzing and enhancing aggregated metadata. In late 2018, the IDHH undertook a project to address a particularly problematic field, Type metadata. This paper walks through the project, detailing the process of gathering and analyzing metadata using the DPLA API and OpenRefine, data remediation through XSL transformations in conjunction with local improvements by contributing institutions, and the DPLA ingestion system’s quality controls.",
+		"container-title": "The Code4Lib Journal",
+		"ISSN": "1940-5758",
+		"source": "Code4Lib Journal",
+		"title": "Analyzing and Normalizing Type Metadata for a Large Aggregated Digital Library",
+		"URL": "https://journal.code4lib.org/articles/14995",
+		"volume": "47",
+		"author": [
+			{
+				"family": "Lynch",
+				"given": "Joshua D."
+			},
+			{
+				"family": "Gibson",
+				"given": "Jessica"
+			},
+			{
+				"family": "Han",
+				"given": "Myung-Ja"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					4,
+					16
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2020",
+					2,
+					17
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2527038/items/7TXHAE2G",
+		"type": "paper-conference",
+		"abstract": "The Open Language Archives Community (OLAC) provides a comprehensive infrastructure that has allowed our community to index and discover language resources over the past 20 years. However, OLAC infrastructure has fallen behind as the digital libraries community has continued to evolve. New investment is required in order to move OLAC into the digital libraries mainstream. This paper reports on the first 20 years of OLAC and on an agenda leading to a more sustainable future for open language archiving.",
+		"container-title": "Proceedings of the International Workshop on Digital Language Archives: LangArc 2021",
+		"DOI": "10.12794/langarc1851171",
+		"event": "International Workshop on Digital Language Archives",
+		"event-place": "Denton, Texas",
+		"language": "en",
+		"page": "25-28",
+		"publisher": "University of North Texas",
+		"publisher-place": "Denton, Texas",
+		"source": "DOI.org (Crossref)",
+		"title": "Towards an Agenda for Open Language Archiving",
+		"URL": "https://digital.library.unt.edu/ark:/67531/metadc1851171/",
+		"author": [
+			{
+				"family": "Bird",
+				"given": "Steven"
+			},
+			{
+				"family": "Simons",
+				"given": "Gary"
+			}
+		],
+		"editor": [
+			{
+				"family": "Zavalina",
+				"given": "Oksana"
+			},
+			{
+				"family": "Chelliah",
+				"given": "Shobhana Lakshmi"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					2,
+					22
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2021",
+					10,
+					7
+				]
+			]
+		}
+	}
+]
