@@ -1,0 +1,117 @@
+[
+	{
+		"id": "http://zotero.org/users/5512940/items/C65NF5MZ",
+		"type": "article-journal",
+		"abstract": "Now that we live in the period of the Third Wave, we need to reconsider how we do writing and publishing in the “Information Age.” Our mental models of publishing tend to align with the Second Wave (or “Industrial Age”) approach in which the product of writing is formatted pages that are mass-produced in printed books and journals. But the product of Third Wave writing is actionable information that may be published in print or published in multiple digital forms with just-in-time customization. We show that a Third Wave approach has several other advantages, including supporting archiving in a form that offers long term repurposability, allowing us to “work smarter” to increase quality and productivity, and making an incredible publishing impact possible. We also give examples which show that it is possible to write and publish in a Third Wave style today",
+		"container-title": "SIL Forum for Language Fieldwork",
+		"issue": "005",
+		"language": "English",
+		"page": "1-15",
+		"title": "Third Wave Writing and Publishing",
+		"URL": "https://www.sil.org/resources/publications/entry/7783",
+		"volume": "2009",
+		"author": [
+			{
+				"family": "Simons",
+				"given": "Gary F"
+			},
+			{
+				"family": "Black",
+				"given": "H. Andrew"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2008"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5512940/items/KI9FL25P",
+		"type": "chapter",
+		"abstract": "The task of documenting the minority languages of the world, many of them endangered, is daunting. Further, it is most likely impossible to expect that linguists can go to every language and write a reference grammar for it. At the same time, the indigenous people are becoming more educated and more interested in working on their own languages. This paper describes a computational tool that teaches native speakers about various linguistic constructions, has them enter data from their language and answer simple questions about it, and then produces a draft of a practical grammar of the language. This grammar can be edited for publishing electronically and/or on paper and is useful for the people themselves as well as by linguists. \n\nThe underlying XML technology allows much of the complexity to be hidden from the user, while providing multiple views and outputs possible from the same data. The marked-up XML files are archivable and usable by many XML editors. Localization and customization are also possible.",
+		"collection-number": "4",
+		"collection-title": "LD&C Special Publication",
+		"container-title": "Electronic Grammaticography",
+		"event-place": "Honolulu, Hawai'i",
+		"ISBN": "978-0-9856211-1-7",
+		"language": "en",
+		"note": "Accepted: 2012-10-19T19:54:46Z\npage: 103-128",
+		"page": "103-128",
+		"publisher": "University of Hawai'i Press",
+		"publisher-place": "Honolulu, Hawai'i",
+		"source": "scholarspace.manoa.hawaii.edu",
+		"title": "Grammars for the people, by the people, made easier using PAWS and XlingPaper",
+		"URL": "http://hdl.handle.net/10125/4532",
+		"author": [
+			{
+				"family": "Black",
+				"given": "Cheryl A."
+			},
+			{
+				"family": "Black",
+				"given": "H. Andrew"
+			}
+		],
+		"editor": [
+			{
+				"family": "Nordhoff",
+				"given": "Sebastian"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					7,
+					4
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2012",
+					10
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5512940/items/VXP4XZDI",
+		"type": "article-journal",
+		"abstract": "This article introduces a method to write linguistic articles and books that addresses most, if not all, of the frustrations authors often face when writing linguistic articles and books. This method follows a Third Wave approach as described in Simons and Black (2008). As Simons and Black note, we need to “work smarter” rather than work harder. One of the key notions is to produce “actionable” knowledge. They also note the role that XML technologies can play in enabling us to “work smarter.” In this article I explain a way we can “work smarter” when it comes to writing linguistic papers and books. The method uses several things:\n\n* the mark-up language called XML\n* an XML package designed for authoring and even archiving linguistic papers (XLingPaper)\n* an XML Editor program that makes it much easier to write XML documents (XMLmind XML Editor).",
+		"container-title": "SIL Forum for Language Fieldwork",
+		"issue": "004",
+		"language": "en",
+		"note": "tex.ids: black_writing_nodate",
+		"page": "11 pages",
+		"title": "Writing Linguistic Papers in the Third Wave",
+		"URL": "https://www.sil.org/resources/publications/entry/7790",
+		"volume": "2009",
+		"author": [
+			{
+				"family": "Black",
+				"given": "H. Andrew"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					7,
+					4
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2009"
+				]
+			]
+		}
+	}
+]
