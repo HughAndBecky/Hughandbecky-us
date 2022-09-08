@@ -5,12 +5,30 @@
     <link>https://hughandbecky.us/Hugh-CV/tag/library-science/</link>
       <atom:link href="https://hughandbecky.us/Hugh-CV/tag/library-science/index.xml" rel="self" type="application/rss+xml" />
     <description>Library Science</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2022</copyright><lastBuildDate>Sat, 26 Feb 2022 14:14:38 -0700</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2022</copyright><lastBuildDate>Tue, 06 Sep 2022 14:35:45 +0100</lastBuildDate>
     <image>
       <url>https://hughandbecky.us/Hugh-CV/media/HughPaterson.jpg</url>
       <title>Library Science</title>
       <link>https://hughandbecky.us/Hugh-CV/tag/library-science/</link>
     </image>
+    
+    <item>
+      <title>References in the IFLA-LRM Model</title>
+      <link>https://hughandbecky.us/Hugh-CV/post/ifla-references/</link>
+      <pubDate>Tue, 06 Sep 2022 14:35:45 +0100</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/post/ifla-references/</guid>
+      <description>&lt;p&gt;The 
+&lt;a href=&#34;https://www.ifla.org/wp-content/uploads/2019/05/assets/cataloguing/frbr-lrm/ifla-lrm-august-2017_rev201712.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IFLA-LRM model&lt;/a&gt; does not currently have an overt relationship for linking two works together which is characterized by or labled: &lt;em&gt;references/isReferencedBy&lt;/em&gt;. Such an overt relatinship would support the user interaction task &amp;ldquo;Explore&amp;rdquo;. There are other work-to-work relationships such as the broadly scoped &lt;em&gt;isInspirationFor/isInspiredBy&lt;/em&gt; relationship (LRM R-21). I wonder how this relationship was overlooked or if it wasn&amp;rsquo;t (as in it was intentionally ommited), then why was it ommited?&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>OLAC — Bottom-up and Top-down </title>
+      <link>https://hughandbecky.us/Hugh-CV/post/olac-social-perspective/</link>
+      <pubDate>Sat, 26 Feb 2022 14:14:38 -0700</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/post/olac-social-perspective/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Some Thoughts on an Aggregator for Library Science Articles</title>
