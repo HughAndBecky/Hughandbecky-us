@@ -1,0 +1,387 @@
+[
+	{
+		"id": "http://zotero.org/groups/2527038/items/WE7BXTL8",
+		"type": "chapter",
+		"abstract": "As language data and associated technologies proliferate and as the language resources community rapidly expands, it has become difficult to locate and reuse existing resources. Are there any lexical resources for such-and-such a language? What tool can work with transcripts in this particular format? What is a good format to use for linguistic data of this type? Questions like these dominate many mailing lists, since web search engines are an unreliable way to find language resources. This paper describes a new digital infrastructure for language resource discovery, based on the Open Archives Initiative, and called OLAC -- the Open Language Archives Community. The OLAC Metadata Set and the associated controlled vocabularies facilitate consistent description and focussed searching. We report progress on the metadata set and controlled vocabularies, describing current issues and soliciting input from the language resources community.",
+		"container-title": "Proceedings of ACL/EACL Workshop on Sharing Tools and Resources for Research and Education",
+		"event-place": "Université de Toulouse, France",
+		"language": "English",
+		"page": "7-18",
+		"publisher": "EACL-ACL; elsnet",
+		"publisher-place": "Université de Toulouse, France",
+		"title": "The OLAC metadata set and controlled vocabularies",
+		"URL": "https://www.aclweb.org/anthology/W01-1506",
+		"author": [
+			{
+				"family": "Bird",
+				"given": "Steven"
+			},
+			{
+				"family": "Simons",
+				"given": "Gary F."
+			}
+		],
+		"editor": [
+			{
+				"family": "DeClerck",
+				"given": "Thierry"
+			},
+			{
+				"family": "Krauwer",
+				"given": "Steven"
+			},
+			{
+				"family": "Rosner",
+				"given": "Mike"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2001"
+				]
+			]
+		}
+	},
+	{
+		"id": "TWUKIM3Q",
+		"type": "article-journal",
+		"abstract": "As language data and associated technologies proliferate and as the language resources community expands, it is becoming increasingly difﬁcult to locate and reuse existing resources. Are there any lexical resources for such-and-such a language? What tool works with transcripts in this particular format? What is a good format to use for linguistic data of this type? Questions like these dominate many mailing lists, since web search engines are an unreliable way to ﬁnd language resources. This paper reports on a new digital infrastructure for discovering language resources being developed by the Open Language Archives Community (OLAC). At the core of OLAC is its metadata format, which is designed to facilitate description and discovery of all kinds of language resources, including data, tools, or advice. The paper describes OLAC metadata, its relationship to Dublin Core metadata, and its dissemination using the metadata harvesting protocol of the Open Archives Initiative.",
+		"container-title": "Computers and the Humanities",
+		"DOI": "10.1023/A:1025720518994",
+		"ISSN": "0010-4817",
+		"issue": "4",
+		"language": "en",
+		"page": "375-388",
+		"title": "Extending Dublin Core Metadata to Support the Description and Discovery of Language Resources",
+		"volume": "37",
+		"author": [
+			{
+				"family": "Bird",
+				"given": "Steven"
+			},
+			{
+				"family": "Simons",
+				"given": "Gary F."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2003"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2527038/items/V85QMTTM",
+		"type": "chapter",
+		"abstract": "The Open Language Archives Community is an international partnership of institutions and individualsthat is creating a worldwide virtual library of language resources. We report on the development of OLAC metadata as a specialization of Dublin Core metadata and then describe the interoperability framework in which the metadata is validated, disseminated and aggregated. We also discuss the community-centered process by which OLAC standards and practices are created and maintained. In each of these three areas, metadata, interoperability, and process, we show how OLAC began with a model that was too cumbersome to implement then found a new formulation which worked in practice. By reporting on this experience of metadata in practice, we hope to show how a specialist community can address its resource discovery needs by building on the Dublin Core foundation.",
+		"container-title": "Metadata in practice",
+		"event-place": "Chicago",
+		"ISBN": "0-8389-0882-9",
+		"language": "English",
+		"publisher": "American Library Association",
+		"publisher-place": "Chicago",
+		"source": "/z-wcorg/",
+		"title": "Building an Open Language Archives Community on the DC Foundation",
+		"author": [
+			{
+				"family": "Bird",
+				"given": "Steven"
+			},
+			{
+				"family": "Simons",
+				"given": "Gary F."
+			}
+		],
+		"editor": [
+			{
+				"family": "Hillmann",
+				"given": "Diane"
+			},
+			{
+				"family": "Westbrooks",
+				"given": "Elaine L."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2004"
+				]
+			]
+		}
+	},
+	{
+		"id": "AUE3S4BV",
+		"type": "paper-conference",
+		"abstract": "META-SHARE is an infrastructure for sharing Language Resources (LRs) where significant effort has been made into providing carefully curated metadata about LRs. However, in the face of the flood of data that is used in computational linguistics, a manual approach cannot suffice. We present the development of the META-SHARE ontology, which transforms the metadata schema used by META-SHARE into ontology in the Web Ontology Language (OWL) that can better handle the diversity of metadata found in legacy and crowd-sourced resources. We show how this model can interface with other more general purpose vocabularies for online datasets and licensing, and apply this model to the CLARIN VLO, a large source of legacy metadata about LRs. Furthermore, we demonstrate the usefulness of this approach in two public metadata portals for information about language resources.",
+		"collection-title": "Lecture Notes in Computer Science",
+		"container-title": "The Semantic Web: ESWC 2015 Satellite Events",
+		"DOI": "10.1007/978-3-319-25639-9_42",
+		"event-place": "Cham",
+		"ISBN": "978-3-319-25639-9",
+		"language": "en",
+		"page": "271-282",
+		"publisher": "Springer International Publishing",
+		"publisher-place": "Cham",
+		"source": "Springer Link",
+		"title": "One Ontology to Bind Them All: The META-SHARE OWL Ontology for the Interoperability of Linguistic Datasets on the Web",
+		"title-short": "One Ontology to Bind Them All",
+		"author": [
+			{
+				"family": "McCrae",
+				"given": "John P."
+			},
+			{
+				"family": "Labropoulou",
+				"given": "Penny"
+			},
+			{
+				"family": "Gracia",
+				"given": "Jorge"
+			},
+			{
+				"family": "Villegas",
+				"given": "Marta"
+			},
+			{
+				"family": "Rodríguez-Doncel",
+				"given": "Víctor"
+			},
+			{
+				"family": "Cimiano",
+				"given": "Philipp"
+			}
+		],
+		"editor": [
+			{
+				"family": "Gandon",
+				"given": "Fabien"
+			},
+			{
+				"family": "Guéret",
+				"given": "Christophe"
+			},
+			{
+				"family": "Villata",
+				"given": "Serena"
+			},
+			{
+				"family": "Breslin",
+				"given": "John"
+			},
+			{
+				"family": "Faron-Zucker",
+				"given": "Catherine"
+			},
+			{
+				"family": "Zimmermann",
+				"given": "Antoine"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2015"
+				]
+			]
+		}
+	},
+	{
+		"id": "39C629A4",
+		"type": "article-journal",
+		"abstract": "[PDF]",
+		"container-title": "Library Hi Tech",
+		"DOI": "10.1108/07378830310479848",
+		"issue": "2",
+		"language": "English",
+		"note": "number: 2",
+		"page": "210-218",
+		"title": "Building an Open Language Archives Community on the OAI foundation",
+		"volume": "21",
+		"author": [
+			{
+				"family": "Simons",
+				"given": "Gary F."
+			},
+			{
+				"family": "Bird",
+				"given": "Steven"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2003"
+				]
+			]
+		}
+	},
+	{
+		"id": "YQC25HSJ",
+		"type": "chapter",
+		"abstract": "\"Many of the world's languages have diminishing numbers of speakers and are in danger of falling silent. Around the globe, a large body of linguists are collaborating with members of indigenous communities to keep these languages alive. Mindful that their work will be used by future speech communities to learn, teach and revitalise their languages, scholars face new challenges in the way they gather materials and in the way they present their findings. This volume discusses current efforts to record, collect and archive endangered languages in traditional and new media that will support future language learners and speakers. Chapters are written by academics working in the field of language endangerment and also by indigenous people working 'at the coalface' of language support and maintenance. Keeping Languages Alive is a must-read for researchers in language documentation, language typology and linguistic anthropology\"--",
+		"call-number": "P40.5.E53 K44 2013",
+		"container-title": "Keeping Languages Alive: Documentation, Pedagogy and Revitalization",
+		"event-place": "Cambridge, UK; New York",
+		"ISBN": "978-1-107-02906-4",
+		"language": "en",
+		"note": "tex.ids= jones_language_2013\nDOI: 10.1017/CBO9781139245890.003",
+		"page": "3–15",
+		"publisher": "Cambridge University Press",
+		"publisher-place": "Cambridge, UK; New York",
+		"source": "Library of Congress ISBN",
+		"title": "Language documentation and meta-documentation",
+		"URL": "http://ebooks.cambridge.org/ref/id/CBO9781139245890",
+		"author": [
+			{
+				"family": "Austin",
+				"given": "Peter K."
+			}
+		],
+		"editor": [
+			{
+				"family": "Jones",
+				"given": "Mari C."
+			},
+			{
+				"family": "Ogilvie",
+				"given": "Sarah"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2013"
+				]
+			]
+		}
+	},
+	{
+		"id": "3CQUCUVR",
+		"type": "paper-conference",
+		"container-title": "Proceedings of the Eighth International Conference on Language Resources and Evaluation (LREC'12)",
+		"event": "LREC 2012: 8th International Conference on Language Resources and Evaluation",
+		"event-place": "Istanbul, Turkey",
+		"language": "eng",
+		"page": "1029-1034",
+		"publisher": "European Language Resources Association (ELRA)",
+		"publisher-place": "Istanbul, Turkey",
+		"source": "MPG PuRe",
+		"title": "Semantic metadata mapping in practice: The Virtual Language Observatory",
+		"title-short": "Semantic metadata mapping in practice",
+		"URL": "http://www.lrec-conf.org/proceedings/lrec2012/pdf/437_Paper.pdf",
+		"author": [
+			{
+				"family": "Van Uytvanck",
+				"given": "Dieter"
+			},
+			{
+				"family": "Stehouwer",
+				"given": "Herman"
+			},
+			{
+				"family": "Lampen",
+				"given": "Lari"
+			}
+		],
+		"editor": [
+			{
+				"family": "Calzolari",
+				"given": "Nicoletta"
+			},
+			{
+				"family": "Choukri",
+				"given": "Khalid"
+			},
+			{
+				"family": "Declerck",
+				"given": "Thierry"
+			},
+			{
+				"family": "Uğur Doğan",
+				"given": "Mehmet"
+			},
+			{
+				"family": "Maegaard",
+				"given": "Bente"
+			},
+			{
+				"family": "Mariani",
+				"given": "Joseph"
+			},
+			{
+				"family": "Moreno",
+				"given": "Asuncion"
+			},
+			{
+				"family": "Odijk",
+				"given": "Jan"
+			},
+			{
+				"family": "Piperidis",
+				"given": "Stelios"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					1,
+					9
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2012"
+				]
+			]
+		}
+	},
+	{
+		"id": "6T78XD4R",
+		"type": "paper-conference",
+		"container-title": "Proceedings of Describing LRs with Metadata: Towards Flexibility and Interoperability in the Documentation of LR (A Worshop at LERC 2012)",
+		"event": "Describing LRs with Metadata: Towards Flexibility and Interoperability in the Documentation of LR (Worshop 87 at LERC 2012)",
+		"event-place": "Istanbul, Turkey",
+		"page": "1-4",
+		"publisher": "European Language Resources Association (ELRA)",
+		"publisher-place": "Istanbul, Turkey",
+		"title": "CMDI: a Component Metadata Infrastructure",
+		"URL": "http://www.lrec-conf.org/proceedings/lrec2012/index.html",
+		"author": [
+			{
+				"family": "Broeder",
+				"given": "Daan"
+			},
+			{
+				"family": "Windhouwer",
+				"given": "Menzo"
+			},
+			{
+				"family": "Uytvanck",
+				"given": "Dieter",
+				"non-dropping-particle": "van"
+			},
+			{
+				"family": "Trippel",
+				"given": "Thorsten"
+			},
+			{
+				"family": "Goosen",
+				"given": "Twan"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2012"
+				]
+			]
+		}
+	}
+]

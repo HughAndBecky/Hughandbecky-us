@@ -27,7 +27,788 @@
       <link>https://hughandbecky.us/Hugh-CV/post/olac-social-perspective/</link>
       <pubDate>Sat, 26 Feb 2022 14:14:38 -0700</pubDate>
       <guid>https://hughandbecky.us/Hugh-CV/post/olac-social-perspective/</guid>
-      <description></description>
+      <description>&lt;p&gt;Several remarks in the literature characterize OLAC and its metadata schema. Many of these remarks are by linguists rather than persons from the tradition of information science. Therefore, it is hard to know how to evaluate these comments. For example, as a system the OLAC aggregator serves linguists as a user-group. So, should these remarks be classified as user-feedback, or should these comments be understood in the context of professional critique from information science professionals.&lt;/p&gt;
+&lt;p&gt;Additionally, there is the matter of perspective bias. By perspective bias I mean the difference between looking at OLAC&amp;rsquo;s metadata independently from the breadth of Dublin Core, versus looking at the breadth of Dublin Core and looking at how OLAC provides additional augmentation to the power of Dublin Core. In a way this is the difference between a Bottom-Up perspective, and a Top-Down perspective. Contrasting examples of this include 
+
+
+
+
+
+
+
+&lt;span class=&#34;hugo-cite-intext&#34;
+        itemprop=&#34;citation&#34;&gt;(&lt;a href=&#34;#yqc25hsj&#34;&gt;&lt;span class=&#34;visually-hidden&#34;&gt;Citation: &lt;/span&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;meta itemprop=&#34;givenName&#34; content=&#34;Peter K.&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Austin&lt;/span&gt;&lt;/span&gt;,&amp;#32;
+      &lt;span itemprop=&#34;datePublished&#34;&gt;2013&lt;/span&gt;&lt;/a&gt;)
+    &lt;span class=&#34;hugo-cite-citation&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Chapter&#34;
+      data-type=&#34;chapter&#34;&gt;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Austin&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Peter K.&#34; /&gt;
+    P.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2013&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;Language documentation and meta-documentation&lt;/span&gt;.&amp;#32;In&amp;#32;&lt;span itemprop=&#34;editor&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Jones&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Mari C.&#34; /&gt;
+    M.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;editor&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Ogilvie&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Sarah&#34; /&gt;
+    S.&lt;/span&gt; (Eds.),&amp;#32;&lt;span itemprop=&#34;about&#34;&gt;
+    &lt;i&gt;Keeping Languages Alive: Documentation, Pedagogy and Revitalization&lt;/i&gt;&lt;/span&gt;.&amp;#32;(&lt;span&gt;pp.&amp;#32;3–15&lt;/span&gt;).
+  &lt;meta itemprop=&#34;contentLocation&#34;
+        value=&#34;Cambridge, UK; New York&#34;&gt;&amp;#32;&lt;span itemprop=&#34;publisher&#34;
+               itemtype=&#34;http://schema.org/Organization&#34;
+               itemscope=&#34;&#34;&gt;
+      &lt;span itemprop=&#34;name&#34;&gt;Cambridge University Press&lt;/span&gt;&lt;/span&gt;.&amp;#32;Retrieved from&amp;#32;
+  &lt;a href=&#34;http://ebooks.cambridge.org/ref/id/CBO9781139245890&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;http://ebooks.cambridge.org/ref/id/CBO9781139245890&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/span&gt;&lt;/span&gt;
+ and 
+
+
+
+
+
+
+
+&lt;span class=&#34;hugo-cite-intext&#34;
+        itemprop=&#34;citation&#34;&gt;(&lt;a href=&#34;#twukim3q&#34;&gt;&lt;span class=&#34;visually-hidden&#34;&gt;Citation: &lt;/span&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;meta itemprop=&#34;givenName&#34; content=&#34;Steven&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Bird&lt;/span&gt;&lt;/span&gt;
+      &lt;em&gt;et al.&lt;/em&gt;,&amp;#32;
+      &lt;span itemprop=&#34;datePublished&#34;&gt;2003&lt;/span&gt;&lt;/a&gt;)
+    &lt;span class=&#34;hugo-cite-citation&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Bird&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Steven&#34; /&gt;
+    S.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Simons&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Gary F.&#34; /&gt;
+    G.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2003&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;Extending Dublin Core Metadata to Support the Description and Discovery of Language Resources&lt;/span&gt;.&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;Computers and the Humanities&lt;/span&gt;,&amp;#32;37(4)&lt;/i&gt;.&amp;#32;&lt;span itemprop=&#34;pagination&#34;&gt;375–388&lt;/span&gt;.
+  &lt;a href=&#34;https://doi.org/10.1023/A:1025720518994&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://doi.org/10.1023/A:1025720518994&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/span&gt;&lt;/span&gt;
+.&lt;/p&gt;
+
+
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/olac-social-perspective/Views-on-OLAC_hu2f05db6142d27c16357970e88be38e2a_76599_2000x2000_fit_lanczos_2.png&#34; &gt;
+
+
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/olac-social-perspective/Views-on-OLAC_hu2f05db6142d27c16357970e88be38e2a_76599_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;Topdown vs Bottomup view on OLAC.&#34; width=&#34;1162&#34; height=&#34;816&#34;&gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;In this case several articles in the literature make it clear that there is a systematic foundation of technologies which form the capabilities of OLAC 
+
+
+
+
+
+
+
+&lt;span class=&#34;hugo-cite-intext&#34;
+        itemprop=&#34;citation&#34;&gt;(&lt;a href=&#34;#twukim3q&#34;&gt;&lt;span class=&#34;visually-hidden&#34;&gt;Citation: &lt;/span&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;meta itemprop=&#34;givenName&#34; content=&#34;Steven&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Bird&lt;/span&gt;&lt;/span&gt;
+      &lt;em&gt;et al.&lt;/em&gt;,&amp;#32;
+      &lt;span itemprop=&#34;datePublished&#34;&gt;2003&lt;/span&gt;&lt;/a&gt;)
+    &lt;span class=&#34;hugo-cite-citation&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Bird&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Steven&#34; /&gt;
+    S.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Simons&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Gary F.&#34; /&gt;
+    G.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2003&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;Extending Dublin Core Metadata to Support the Description and Discovery of Language Resources&lt;/span&gt;.&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;Computers and the Humanities&lt;/span&gt;,&amp;#32;37(4)&lt;/i&gt;.&amp;#32;&lt;span itemprop=&#34;pagination&#34;&gt;375–388&lt;/span&gt;.
+  &lt;a href=&#34;https://doi.org/10.1023/A:1025720518994&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://doi.org/10.1023/A:1025720518994&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/span&gt;&lt;/span&gt;
+ and 
+
+
+
+
+
+
+
+&lt;span class=&#34;hugo-cite-intext&#34;
+        itemprop=&#34;citation&#34;&gt;(&lt;a href=&#34;#39c629a4&#34;&gt;&lt;span class=&#34;visually-hidden&#34;&gt;Citation: &lt;/span&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;meta itemprop=&#34;givenName&#34; content=&#34;Gary F.&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Simons&lt;/span&gt;&lt;/span&gt;
+      &lt;em&gt;et al.&lt;/em&gt;,&amp;#32;
+      &lt;span itemprop=&#34;datePublished&#34;&gt;2003&lt;/span&gt;&lt;/a&gt;)
+    &lt;span class=&#34;hugo-cite-citation&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Simons&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Gary F.&#34; /&gt;
+    G.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Bird&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Steven&#34; /&gt;
+    S.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2003&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;Building an Open Language Archives Community on the OAI foundation&lt;/span&gt;.&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;Library Hi Tech&lt;/span&gt;,&amp;#32;21(2)&lt;/i&gt;.&amp;#32;&lt;span itemprop=&#34;pagination&#34;&gt;210–218&lt;/span&gt;.
+  &lt;a href=&#34;https://doi.org/10.1108/07378830310479848&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://doi.org/10.1108/07378830310479848&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/span&gt;&lt;/span&gt;
+. However, these layers in the technology protocol are generally ignored by critics who see only the specific elements of the additions to Dublin Core.&lt;/p&gt;
+
+
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/olac-social-perspective/OLAC-Observer-Bias_hu1bc84dd011562a4046a66942a09923ab_109295_2000x2000_fit_lanczos_2.png&#34; &gt;
+
+
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/olac-social-perspective/OLAC-Observer-Bias_hu1bc84dd011562a4046a66942a09923ab_109295_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;Q: What is the difference between a microscope and a telescope? A: The side of the lens that the analyst sits on.&#34; width=&#34;960&#34; height=&#34;540&#34;&gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;I have collected several critiques of OLAC and present them below. I then discuss the perspective bias and why I think these critiques are understandable, but not well grounded.&lt;/p&gt;
+&lt;p&gt;In 2013 Peter Austin wrote:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Since its establishment in the late 1990s language documentation has been dominated by declarative deductive approaches to recommendations for creating
+metadata which have been primarily influenced by library concepts (e.g. Dublin Core). Key metadata notions have been interoperability, standardization, discovery, and access (OLAC, 4 E-MELD, Good 2002, Farrar &amp;amp; Lewis 2007). However, the wider goals of language documentation (including the wider social goals relating to
+speaker community involvement) mean this is not powerful enough and we need, &amp;hellip;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;In his work, Austin incompletely presents the metadata available via OLAC through Dublin Core.&lt;/p&gt;
+&lt;p&gt;The sentiment that OLAC&amp;rsquo;s descriptive power is less than what language resource users desire is also mentioned by several authors working at CLARIN, TLA, or MPI including
+
+
+
+
+
+
+
+
+&lt;span class=&#34;hugo-cite-intext&#34;
+        itemprop=&#34;citation&#34;&gt;(&lt;a href=&#34;#3cqucuvr&#34;&gt;&lt;span class=&#34;visually-hidden&#34;&gt;Citation: &lt;/span&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;meta itemprop=&#34;givenName&#34; content=&#34;Dieter&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Van Uytvanck&lt;/span&gt;&lt;/span&gt;
+      &lt;em&gt;et al.&lt;/em&gt;,&amp;#32;
+      &lt;span itemprop=&#34;datePublished&#34;&gt;2012&lt;/span&gt;&lt;/a&gt;)
+    &lt;span class=&#34;hugo-cite-citation&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/CreativeWork&#34;
+      data-type=&#34;paper-conference&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Van Uytvanck&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Dieter&#34; /&gt;
+    D.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Stehouwer&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Herman&#34; /&gt;
+    H.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Lampen&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Lari&#34; /&gt;
+    L.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2012&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;
+    &lt;i&gt;Semantic metadata mapping in practice: The Virtual Language Observatory&lt;/i&gt;&lt;/span&gt;.
+  &lt;meta itemprop=&#34;contentLocation&#34;
+        content=&#34;Istanbul, Turkey&#34;&gt;&amp;#32;
+  &lt;span itemprop=&#34;publisher&#34; itemtype=&#34;http://schema.org/Organization&#34; itemscope=&#34;&#34;&gt;
+    &lt;span itemprop=&#34;name&#34;&gt;European Language Resources Association (ELRA)&lt;/span&gt;&lt;/span&gt;.&amp;#32;Retrieved from&amp;#32;
+  &lt;a href=&#34;http://www.lrec-conf.org/proceedings/lrec2012/pdf/437_Paper.pdf&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;http://www.lrec-conf.org/proceedings/lrec2012/pdf/437_Paper.pdf&lt;/a&gt;&lt;/span&gt;
+
+&lt;/span&gt;&lt;/span&gt;
+ where they say:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Traditionally the format used for metadata is OLAC, an extension of the ubiquitous Dublin Core schema, targeted towards the linguistic community. Although
+useful, OLAC lacks a deep semantic definition and relies mostly on best practice guidelines.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Van Uytvanck et al. are correct in that several of the Dublin Core fields such as description are left open for interpretation by the data provider. This is normal for Dublin Core use-cases because the communication protocol is used for bringing together diverse information sources from multiple independent institutions where practices may diverge significantly. However, they miss that several of the modifier terms within the OLAC vocabularies are defined as being equivalent to linked data items such as Library of Congress Subject Heading terms. By looking for deep semantics from OLAC&amp;rsquo;s fields it ignores the purpose of its Dublin Core foundation — high level compatibility. Deep congruent semantics in the records found in OLAC will only come as OLAC data providers agree to a common practice of institutional curation and description of their holdings.&lt;/p&gt;
+&lt;p&gt;At the same conference 
+
+
+
+
+
+
+
+&lt;span class=&#34;hugo-cite-intext&#34;
+        itemprop=&#34;citation&#34;&gt;(&lt;a href=&#34;#6t78xd4r&#34;&gt;&lt;span class=&#34;visually-hidden&#34;&gt;Citation: &lt;/span&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;meta itemprop=&#34;givenName&#34; content=&#34;Daan&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Broeder&lt;/span&gt;&lt;/span&gt;
+      &lt;em&gt;et al.&lt;/em&gt;,&amp;#32;
+      &lt;span itemprop=&#34;datePublished&#34;&gt;2012&lt;/span&gt;&lt;/a&gt;)
+    &lt;span class=&#34;hugo-cite-citation&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/CreativeWork&#34;
+      data-type=&#34;paper-conference&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Broeder&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Daan&#34; /&gt;
+    D.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Windhouwer&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Menzo&#34; /&gt;
+    M.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Uytvanck&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Dieter&#34; /&gt;
+    D.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Trippel&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Thorsten&#34; /&gt;
+    T.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Goosen&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Twan&#34; /&gt;
+    T.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2012&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;
+    &lt;i&gt;CMDI: a Component Metadata Infrastructure&lt;/i&gt;&lt;/span&gt;.
+  &lt;meta itemprop=&#34;contentLocation&#34;
+        content=&#34;Istanbul, Turkey&#34;&gt;&amp;#32;
+  &lt;span itemprop=&#34;publisher&#34; itemtype=&#34;http://schema.org/Organization&#34; itemscope=&#34;&#34;&gt;
+    &lt;span itemprop=&#34;name&#34;&gt;European Language Resources Association (ELRA)&lt;/span&gt;&lt;/span&gt;.&amp;#32;Retrieved from&amp;#32;
+  &lt;a href=&#34;http://www.lrec-conf.org/proceedings/lrec2012/index.html&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;http://www.lrec-conf.org/proceedings/lrec2012/index.html&lt;/a&gt;&lt;/span&gt;
+
+&lt;/span&gt;&lt;/span&gt;
+ say the following:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Since 2000 we have seen the rise of new LR &lt;em&gt;[Language Resource]&lt;/em&gt; metadata schema as IMDI, IMDI [2003], IMDI [2009] and OLAC but application and uptake of these schema has been limited. Although OLAC is now used more or less as a standard for information exchange between LR archives, it is still delivering low specificity.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Again &lt;em&gt;low specificity&lt;/em&gt; seems to be leveraged at OLAC&amp;rsquo;s vocabulaires without taking into account that spcificty can be enhanced through avariety of mechanims including the use of Library of Congress Subject Heading terms and other Dublin Core linked vocabulaires.&lt;/p&gt;
+&lt;p&gt;Then 
+
+
+
+
+
+
+
+&lt;span class=&#34;hugo-cite-intext&#34;
+        itemprop=&#34;citation&#34;&gt;(&lt;a href=&#34;#aue3s4bv&#34;&gt;&lt;span class=&#34;visually-hidden&#34;&gt;Citation: &lt;/span&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;meta itemprop=&#34;givenName&#34; content=&#34;John P.&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;McCrae&lt;/span&gt;&lt;/span&gt;
+      &lt;em&gt;et al.&lt;/em&gt;,&amp;#32;
+      &lt;span itemprop=&#34;datePublished&#34;&gt;2015&lt;/span&gt;&lt;/a&gt;)
+    &lt;span class=&#34;hugo-cite-citation&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/CreativeWork&#34;
+      data-type=&#34;paper-conference&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;McCrae&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;John P.&#34; /&gt;
+    J.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Labropoulou&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Penny&#34; /&gt;
+    P.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Gracia&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Jorge&#34; /&gt;
+    J.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Villegas&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Marta&#34; /&gt;
+    M.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Rodríguez-Doncel&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Víctor&#34; /&gt;
+    V.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Cimiano&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Philipp&#34; /&gt;
+    P.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2015&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;
+    &lt;i&gt;One Ontology to Bind Them All: The META-SHARE OWL Ontology for the Interoperability of Linguistic Datasets on the Web&lt;/i&gt;&lt;/span&gt;.
+  &lt;meta itemprop=&#34;contentLocation&#34;
+        content=&#34;Cham&#34;&gt;&amp;#32;
+  &lt;span itemprop=&#34;publisher&#34; itemtype=&#34;http://schema.org/Organization&#34; itemscope=&#34;&#34;&gt;
+    &lt;span itemprop=&#34;name&#34;&gt;Springer International Publishing&lt;/span&gt;&lt;/span&gt;.
+  &lt;a href=&#34;https://doi.org/10.1007/978-3-319-25639-9_42&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://doi.org/10.1007/978-3-319-25639-9_42&lt;/a&gt;&lt;/span&gt;
+
+&lt;/span&gt;&lt;/span&gt;
+ say:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;This lack of consensus resides also in the description of LRs, even for non-linguistic concepts. In fact, there are as many metadata schema for their descriptions as catalogs and repositories for their presentation (e.g. those used by ELRA and the LDC) and communities describing them (e.g. TEI [14] or CES [13]). The most widely used schema for the exchange of LRs is the one suggested by the Open Language Archives Community [1, OLAC], which builds on the Dublin Core metadata and has been criticized as being too reductionistic. Differences between the schema lie in the range of features used and their labels and datatypes.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;While McCrae et al. summarize the literature, they also do not realize that the general perspective in the literature is top-down; first looking at the OLAC vocabluaries and then (mostly missing) other kinds of modifying capabilites that Dublin Core and OAI provide to the OLAC applicaiton profile.&lt;/p&gt;
+&lt;p&gt;It is my opinion that important research can be conducted to look for relevant concepts to linguistics and language documentation in the various linked vocabularies natively occuring in Dublin Core.&lt;/p&gt;
+&lt;h2 id=&#34;bibliography&#34;&gt;Bibliography&lt;/h2&gt;
+
+  
+
+  
+
+
+
+
+
+
+
+
+
+
+&lt;section class=&#34;hugo-cite-bibliography&#34;&gt;
+  &lt;dl&gt;
+    
+
+      &lt;div id=&#34;39c629a4&#34;&gt;
+        &lt;dt&gt;
+          Simons&amp;#32;&amp;amp;&amp;#32;Bird
+
+          
+          (2003)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Simons&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Gary F.&#34; /&gt;
+    G.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Bird&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Steven&#34; /&gt;
+    S.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2003&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;Building an Open Language Archives Community on the OAI foundation&lt;/span&gt;.&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;Library Hi Tech&lt;/span&gt;,&amp;#32;21(2)&lt;/i&gt;.&amp;#32;&lt;span itemprop=&#34;pagination&#34;&gt;210–218&lt;/span&gt;.
+  &lt;a href=&#34;https://doi.org/10.1108/07378830310479848&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://doi.org/10.1108/07378830310479848&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;3cqucuvr&#34;&gt;
+        &lt;dt&gt;
+          Van Uytvanck,&amp;#32;
+          Stehouwer&amp;#32;&amp;amp;&amp;#32;Lampen
+
+          
+          (2012)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/CreativeWork&#34;
+      data-type=&#34;paper-conference&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Van Uytvanck&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Dieter&#34; /&gt;
+    D.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Stehouwer&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Herman&#34; /&gt;
+    H.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Lampen&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Lari&#34; /&gt;
+    L.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2012&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;
+    &lt;i&gt;Semantic metadata mapping in practice: The Virtual Language Observatory&lt;/i&gt;&lt;/span&gt;.
+  &lt;meta itemprop=&#34;contentLocation&#34;
+        content=&#34;Istanbul, Turkey&#34;&gt;&amp;#32;
+  &lt;span itemprop=&#34;publisher&#34; itemtype=&#34;http://schema.org/Organization&#34; itemscope=&#34;&#34;&gt;
+    &lt;span itemprop=&#34;name&#34;&gt;European Language Resources Association (ELRA)&lt;/span&gt;&lt;/span&gt;.&amp;#32;Retrieved from&amp;#32;
+  &lt;a href=&#34;http://www.lrec-conf.org/proceedings/lrec2012/pdf/437_Paper.pdf&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;http://www.lrec-conf.org/proceedings/lrec2012/pdf/437_Paper.pdf&lt;/a&gt;&lt;/span&gt;
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;6t78xd4r&#34;&gt;
+        &lt;dt&gt;
+          Broeder,&amp;#32;
+          Windhouwer,&amp;#32;
+          Uytvanck,&amp;#32;
+          Trippel&amp;#32;&amp;amp;&amp;#32;Goosen
+
+          
+          (2012)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/CreativeWork&#34;
+      data-type=&#34;paper-conference&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Broeder&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Daan&#34; /&gt;
+    D.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Windhouwer&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Menzo&#34; /&gt;
+    M.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Uytvanck&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Dieter&#34; /&gt;
+    D.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Trippel&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Thorsten&#34; /&gt;
+    T.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Goosen&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Twan&#34; /&gt;
+    T.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2012&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;
+    &lt;i&gt;CMDI: a Component Metadata Infrastructure&lt;/i&gt;&lt;/span&gt;.
+  &lt;meta itemprop=&#34;contentLocation&#34;
+        content=&#34;Istanbul, Turkey&#34;&gt;&amp;#32;
+  &lt;span itemprop=&#34;publisher&#34; itemtype=&#34;http://schema.org/Organization&#34; itemscope=&#34;&#34;&gt;
+    &lt;span itemprop=&#34;name&#34;&gt;European Language Resources Association (ELRA)&lt;/span&gt;&lt;/span&gt;.&amp;#32;Retrieved from&amp;#32;
+  &lt;a href=&#34;http://www.lrec-conf.org/proceedings/lrec2012/index.html&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;http://www.lrec-conf.org/proceedings/lrec2012/index.html&lt;/a&gt;&lt;/span&gt;
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;aue3s4bv&#34;&gt;
+        &lt;dt&gt;
+          McCrae,&amp;#32;
+          Labropoulou,&amp;#32;
+          Gracia,&amp;#32;
+          Villegas,&amp;#32;
+          Rodríguez-Doncel&amp;#32;&amp;amp;&amp;#32;Cimiano
+
+          
+          (2015)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/CreativeWork&#34;
+      data-type=&#34;paper-conference&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;McCrae&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;John P.&#34; /&gt;
+    J.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Labropoulou&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Penny&#34; /&gt;
+    P.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Gracia&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Jorge&#34; /&gt;
+    J.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Villegas&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Marta&#34; /&gt;
+    M.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Rodríguez-Doncel&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Víctor&#34; /&gt;
+    V.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Cimiano&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Philipp&#34; /&gt;
+    P.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2015&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;
+    &lt;i&gt;One Ontology to Bind Them All: The META-SHARE OWL Ontology for the Interoperability of Linguistic Datasets on the Web&lt;/i&gt;&lt;/span&gt;.
+  &lt;meta itemprop=&#34;contentLocation&#34;
+        content=&#34;Cham&#34;&gt;&amp;#32;
+  &lt;span itemprop=&#34;publisher&#34; itemtype=&#34;http://schema.org/Organization&#34; itemscope=&#34;&#34;&gt;
+    &lt;span itemprop=&#34;name&#34;&gt;Springer International Publishing&lt;/span&gt;&lt;/span&gt;.
+  &lt;a href=&#34;https://doi.org/10.1007/978-3-319-25639-9_42&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://doi.org/10.1007/978-3-319-25639-9_42&lt;/a&gt;&lt;/span&gt;
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;twukim3q&#34;&gt;
+        &lt;dt&gt;
+          Bird&amp;#32;&amp;amp;&amp;#32;Simons
+
+          
+          (2003)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Bird&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Steven&#34; /&gt;
+    S.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Simons&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Gary F.&#34; /&gt;
+    G.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2003&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;Extending Dublin Core Metadata to Support the Description and Discovery of Language Resources&lt;/span&gt;.&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;Computers and the Humanities&lt;/span&gt;,&amp;#32;37(4)&lt;/i&gt;.&amp;#32;&lt;span itemprop=&#34;pagination&#34;&gt;375–388&lt;/span&gt;.
+  &lt;a href=&#34;https://doi.org/10.1023/A:1025720518994&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://doi.org/10.1023/A:1025720518994&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;yqc25hsj&#34;&gt;
+        &lt;dt&gt;
+          Austin
+
+          
+          (2013)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Chapter&#34;
+      data-type=&#34;chapter&#34;&gt;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Austin&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Peter K.&#34; /&gt;
+    P.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2013&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;Language documentation and meta-documentation&lt;/span&gt;.&amp;#32;In&amp;#32;&lt;span itemprop=&#34;editor&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Jones&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Mari C.&#34; /&gt;
+    M.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;editor&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Ogilvie&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Sarah&#34; /&gt;
+    S.&lt;/span&gt; (Eds.),&amp;#32;&lt;span itemprop=&#34;about&#34;&gt;
+    &lt;i&gt;Keeping Languages Alive: Documentation, Pedagogy and Revitalization&lt;/i&gt;&lt;/span&gt;.&amp;#32;(&lt;span&gt;pp.&amp;#32;3–15&lt;/span&gt;).
+  &lt;meta itemprop=&#34;contentLocation&#34;
+        value=&#34;Cambridge, UK; New York&#34;&gt;&amp;#32;&lt;span itemprop=&#34;publisher&#34;
+               itemtype=&#34;http://schema.org/Organization&#34;
+               itemscope=&#34;&#34;&gt;
+      &lt;span itemprop=&#34;name&#34;&gt;Cambridge University Press&lt;/span&gt;&lt;/span&gt;.&amp;#32;Retrieved from&amp;#32;
+  &lt;a href=&#34;http://ebooks.cambridge.org/ref/id/CBO9781139245890&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;http://ebooks.cambridge.org/ref/id/CBO9781139245890&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+  &lt;/dl&gt;
+&lt;/section&gt;
+
+
+
+</description>
     </item>
     
     <item>
