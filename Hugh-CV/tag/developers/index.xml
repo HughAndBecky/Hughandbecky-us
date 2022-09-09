@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Developers | Hugh&#39;s Curriculum Vitae</title>
+    <link>https://hughandbecky.us/Hugh-CV/tag/developers/</link>
+      <atom:link href="https://hughandbecky.us/Hugh-CV/tag/developers/index.xml" rel="self" type="application/rss+xml" />
+    <description>Developers</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2022</copyright><lastBuildDate>Fri, 09 Sep 2022 14:35:45 +0100</lastBuildDate>
+    <image>
+      <url>https://hughandbecky.us/Hugh-CV/media/HughPaterson.jpg</url>
+      <title>Developers</title>
+      <link>https://hughandbecky.us/Hugh-CV/tag/developers/</link>
+    </image>
+    
+    <item>
+      <title>OLAC Social Network</title>
+      <link>https://hughandbecky.us/Hugh-CV/post/olac-social-network/</link>
+      <pubDate>Fri, 09 Sep 2022 14:35:45 +0100</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/post/olac-social-network/</guid>
+      <description>&lt;p&gt;In their 2021 paper 
+
+
+
+
+
+
+
+&lt;span class=&#34;hugo-cite-intext&#34;
+        itemprop=&#34;citation&#34;&gt;(&lt;a href=&#34;#7txhae2g&#34;&gt;&lt;span class=&#34;visually-hidden&#34;&gt;Citation: &lt;/span&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;meta itemprop=&#34;givenName&#34; content=&#34;Steven&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Bird&lt;/span&gt;&lt;/span&gt;
+      &lt;em&gt;et al.&lt;/em&gt;,&amp;#32;
+      &lt;span itemprop=&#34;datePublished&#34;&gt;2021&lt;/span&gt;&lt;/a&gt;)
+    &lt;span class=&#34;hugo-cite-citation&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/CreativeWork&#34;
+      data-type=&#34;paper-conference&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Bird&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Steven&#34; /&gt;
+    S.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Simons&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Gary&#34; /&gt;
+    G.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2021&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;
+    &lt;i&gt;Towards an Agenda for Open Language Archiving&lt;/i&gt;&lt;/span&gt;.
+  &lt;meta itemprop=&#34;contentLocation&#34;
+        content=&#34;Denton, Texas&#34;&gt;&amp;#32;
+  &lt;span itemprop=&#34;publisher&#34; itemtype=&#34;http://schema.org/Organization&#34; itemscope=&#34;&#34;&gt;
+    &lt;span itemprop=&#34;name&#34;&gt;University of North Texas&lt;/span&gt;&lt;/span&gt;.
+  &lt;a href=&#34;https://doi.org/10.12794/langarc1851171&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://doi.org/10.12794/langarc1851171&lt;/a&gt;&lt;/span&gt;
+
+&lt;/span&gt;&lt;/span&gt;
+ Bird and Simons disucss the health of the network of OLAC data providers. They state:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;of the 62 registered archives, 27 have not been updated in the past five years, and an overlapping 19 archives are failing to harvest.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Having been an long-time OLAC observer, I can attest that OLAC data providers both come and go, and some refresh their feeds. For example, the SIL Language &amp;amp; Culture Archive did not have an active OLAC feed between 2013 and 2021. But this has been fixed in 2022.&lt;/p&gt;
+
+
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/olac-social-network/Screenshot-from-2021-05-21-16-29-57_hu8f117742bdb43334962e5f6d9dc61581_86953_2000x2000_fit_lanczos_2.png&#34; &gt;
+
+
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/olac-social-network/Screenshot-from-2021-05-21-16-29-57_hu8f117742bdb43334962e5f6d9dc61581_86953_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;SIL Language and Culture Archive history&#34; width=&#34;557&#34; height=&#34;651&#34;&gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;Another way to look at the issues which beset the network of OLAC data providers is to look at the network of technologiest responsibile for the data feed. To do this is challenging. Exact roles are not specified in the OLAC documentation. These roles appear in the OAI header for each data provider and the aggregation of these can be found in two places on the the OLAC website 
+&lt;a href=&#34;http://www.language-archives.org/archives&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt; (along with the deatil pages) and 
+&lt;a href=&#34;http://www.language-archives.org/register/archive_list.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;When we look at the set of the data providers and we see the extent of providers which do not maintain their OLAC feeds we could interpret that as the death of nodes or part of the network. This might be better understood with a network diagram. So I made one.&lt;/p&gt;
+
+
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/olac-social-network/OLAC-Social-Network_hu72b1b19ca22bcc3417d6156e773f683c_1334877_2000x2000_fit_lanczos_2.png&#34; &gt;
+
+
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/olac-social-network/OLAC-Social-Network_hu72b1b19ca22bcc3417d6156e773f683c_1334877_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;SIL Language and Culture Archive history&#34; width=&#34;5589&#34; height=&#34;2403&#34;&gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;While conducting this analysis it became apparant that there were several clades of providers which developed. Those are indicated in this image. The image is incomplete with regard to the total number of data providers. It lacks the following data providers which were left out for visual space contraint reasons (and no other reason):&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Language resources at the Text Laboratory&lt;/li&gt;
+&lt;li&gt;LINDAT/CLARIAH-CZ digital library at the Institute of Formal and Applied Linguistics (ÚFAL), Faculty of Mathematics and Physics, Charles University&lt;/li&gt;
+&lt;li&gt;IULA UPF OAI Archive&lt;/li&gt;
+&lt;li&gt;ODIN - The Online Database of Interlinear Text&lt;/li&gt;
+&lt;li&gt;Cornell Language Acquisition Lab&lt;/li&gt;
+&lt;li&gt;Living Archive of Aboriginal Languages&lt;/li&gt;
+&lt;li&gt;Lund University Humanities Lab corpusserver&lt;/li&gt;
+&lt;li&gt;Magoria Books&amp;rsquo; Carib and Romani Archive&lt;/li&gt;
+&lt;li&gt;Multimodal Learning and teaching Corpora Exchange&lt;/li&gt;
+&lt;li&gt;Perseus digital library&lt;/li&gt;
+&lt;li&gt;The LINGUIST List Language Resources&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;It is my hope that a better understanding of where in the network and why network death occurs will contribute to a healthier social practice and healthier network.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
