@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Crosswalks | Hugh&#39;s Curriculum Vitae</title>
+    <link>https://hughandbecky.us/Hugh-CV/tag/crosswalks/</link>
+      <atom:link href="https://hughandbecky.us/Hugh-CV/tag/crosswalks/index.xml" rel="self" type="application/rss+xml" />
+    <description>Crosswalks</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2022</copyright><lastBuildDate>Sat, 31 Mar 2012 14:35:45 +0100</lastBuildDate>
+    <image>
+      <url>https://hughandbecky.us/Hugh-CV/media/HughPaterson.jpg</url>
+      <title>Crosswalks</title>
+      <link>https://hughandbecky.us/Hugh-CV/tag/crosswalks/</link>
+    </image>
+    
+    <item>
+      <title>Metadata and the Target Audience</title>
+      <link>https://hughandbecky.us/Hugh-CV/post/metadata-and-the-target-audience/</link>
+      <pubDate>Sat, 31 Mar 2012 14:35:45 +0100</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/post/metadata-and-the-target-audience/</guid>
+      <description>&lt;p&gt;I have been reviewing applications for library, research and citation metadata. Things like 
+&lt;a href=&#34;http://www.w3.org/RDF/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RDF&lt;/a&gt;, 
+&lt;a href=&#34;http://www.loc.gov/standards/mets/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;METS&lt;/a&gt;, 
+&lt;a href=&#34;http://dublincore.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dublin Core&lt;/a&gt;, 
+&lt;a href=&#34;http://en.wikipedia.org/wiki/RIS_%28file_format%29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;.ris&lt;/a&gt; and 
+&lt;a href=&#34;http://en.wikipedia.org/wiki/BibTeX&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BibTeX&lt;/a&gt;. In some ways these things are related – they are metadata. But in other ways they are different animals.&lt;/p&gt;
+&lt;p&gt;In my search I have found two very different classes of metadata schemes based on two different kinds of end users.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;End users who are machines (Metadata for interoperability or resource discovery).&lt;/li&gt;
+&lt;li&gt;End users who are human.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;End Users who are machines are usually concerned with the interoperability of metadata for search, storage, and advertisement. These kinds of systems usually are engineered to use metadata schemes like Dublin Core, MODS and METS. Often these systems are able to communicate high level metadata in generic categories.&lt;/p&gt;
+&lt;p&gt;However, &lt;em&gt;End Users&lt;/em&gt; who are human are usually concerned with purposing the metadata in creative processes. And in general, desire to use and appropriate more specific elements of metadata. This is especially true with citation metadata. Students and researchers want to be able to build bibliographies with the data. Additionally, Many of the more detaied metadata elements, that is, overly detailed from a &lt;em&gt;Dublin Core&lt;/em&gt; perspective (i.e. can include geo-location name, or a Latitude value or an Altitude value), could be classified as technical metadata according to the first listing below. However, technical metadata is especially relevant for users of audio objects and graphic objects (photos and moving picture objects).&lt;/p&gt;
+&lt;p&gt;Of those users looking to use metadata to construct bibliographies and citations, they are often looking for that metadata in the interchange formats of either &lt;em&gt;BibTeX&lt;/em&gt;, &lt;em&gt;Endnote XML&lt;/em&gt; or &lt;em&gt;.ris&lt;/em&gt;. Of those users interested in finding things based on technical metadata, such as audio technicians, linguists, ethnographers, and ethnomusicologists, they are looking to use the metadata and the object it describes in a workflow. And in order to purpose that media object as they need to, those users need to make sure that the digital object fits their workflow criteria.&lt;/p&gt;
+&lt;p&gt;This discrepancy between &lt;em&gt;Metadata for System to System transmission&lt;/em&gt; and &lt;em&gt;Metadata for End Users&lt;/em&gt; creates a bit of a complext situation, in that delivery systems need to consider both sets of users.&lt;/p&gt;
+&lt;h2 id=&#34;which-information-to-record&#34;&gt;Which information to record?&lt;/h2&gt;
+&lt;p&gt;Often times no single metadata schema (set of contoled vocabularies and fields) will fill all the kinds of information a project or managment practice requires to be recorded. This means that project staff will need to choose which metadata fields best fit their situation from a variety of schemas. The result is a home-grown schema called an &lt;em&gt;application profile&lt;/em&gt;. JISC Digital Media from the UK has a really good article on what how to select elements and their purpose in your application profile and workflow.&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; In general though one needs to work through the following catagories and ask questions in each phase to determine if which information needs to be retained in each step. In this sense then, structured metadata is divided into four broad categories that contain information which is defined by the schemas or extension schemas being used:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Structural metadata&lt;/strong&gt;. This is information about the structural relationship with other parent or family files and how the metadata relates to the file.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Descriptive metadata&lt;/strong&gt;. This is information about the content of the digital file. The information recorded here is more curatorial than technical, and is the primary portal for users to access your resource. Data including File name, creator, associated dates, description, summary, locations etc should be standardised using a interoperable schema such as Simple &lt;abbr title=&#34;Dublin Core&#34;&gt;DC&lt;/abbr&gt; or &lt;abbr title=&#34;Metadata Object Description Schema&#34;&gt;MODS&lt;/abbr&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Administrative metadata&lt;/strong&gt;. This contains information about the analogue source material, the rights of the content and any preservation information. Information here provides support to the managerial team of the collection and researchers in organising and providing access to the resource. Information about rights, ownership and usage restrictions is also kept within the administrative metadata.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Technical metadata&lt;/strong&gt;. To make good use of the digital object data is required which describes the technical qualities of the physical and/or digital object. This includes information such as channel number, bit-depth, sampling rate, and the unique file identifier. AudioMD, is an &lt;abbr title=&#34;Extensible Mark-up Language&#34;&gt;XML&lt;/abbr&gt; based schema that has been designed primarily for this purpose. It is soon to be superseded by AES-X098, developed by the Audio Engineering Society, upon its formal release.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Though it is possible to separate out some finer grained metadata categories. Consider the differences from above and those below which were part of my post about 
+&lt;a href=&#34;https://hughandbecky.us/Hugh-CV/post/metadata-dynamics-for-linguistic-and-sociolinguistic-corpora/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Metadata for Socio-linguistic Corpora&lt;/a&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Descriptive meta-data&lt;/strong&gt;: supports discovery, attribution and identification of resources created.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Administrative meta-data&lt;/strong&gt;: supports management, preservation, and appropriate usage of resources created.
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Technical&lt;/strong&gt;: About the machinery used to create the resource and the technical aspects of the resource.&lt;!--Make sure these two are supoints --&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Use and Rights&lt;/strong&gt;: Copyright, license and moral ownership of the items.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Structural meta-data&lt;/strong&gt;: maintains relationships between the parts of complex, multi-part resources 
+
+
+
+
+
+
+
+&lt;span class=&#34;hugo-cite-intext&#34;
+        itemprop=&#34;citation&#34;&gt;(&lt;a href=&#34;#spanne_metadata_2008&#34;&gt;&lt;span class=&#34;visually-hidden&#34;&gt;Citation: &lt;/span&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;meta itemprop=&#34;givenName&#34; content=&#34;Joan&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Spanne&lt;/span&gt;&lt;/span&gt;,&amp;#32;
+      &lt;span itemprop=&#34;datePublished&#34;&gt;2008&lt;/span&gt;&lt;/a&gt;)
+    &lt;span class=&#34;hugo-cite-citation&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/CreativeWork&#34;
+      data-type=&#34;speech&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Spanne&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Joan&#34; /&gt;
+    J.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2008&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;
+    &lt;i&gt;Metadata: Why, What and How (the “Who” is You)&lt;/i&gt;&lt;/span&gt;.
+  &lt;meta itemprop=&#34;contentLocation&#34;
+        content=&#34;Dallas, Texas, USA, Graduate Institute of Applied Linguistics&#34;&gt;&lt;/span&gt;
+
+&lt;/span&gt;&lt;/span&gt;
+.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Situational&lt;/strong&gt;: this is metadata which describes the events around the creation of the work. Asking questions about the social setting, or the precursory events. It follows ideas put forward by 
+
+
+
+
+
+
+
+&lt;span class=&#34;hugo-cite-intext&#34;
+        itemprop=&#34;citation&#34;&gt;(&lt;a href=&#34;#bergqvist_role_2007&#34;&gt;&lt;span class=&#34;visually-hidden&#34;&gt;Citation: &lt;/span&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;meta itemprop=&#34;givenName&#34; content=&#34;Henrik&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Bergqvist&lt;/span&gt;&lt;/span&gt;,&amp;#32;
+      &lt;span itemprop=&#34;datePublished&#34;&gt;2007&lt;/span&gt;&lt;/a&gt;)
+    &lt;span class=&#34;hugo-cite-citation&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Bergqvist&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Henrik&#34; /&gt;
+    H.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2007&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;The role of metadata for translation and pragmatics in language documentation&lt;/span&gt;.&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;Language Documentation and Description&lt;/span&gt;,&amp;#32;4&lt;/i&gt;.&amp;#32;&lt;span itemprop=&#34;pagination&#34;&gt;163–173&lt;/span&gt;.&amp;#32;Retrieved from&amp;#32;
+  &lt;a href=&#34;http://www.elpublishing.org/PID/055&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;http://www.elpublishing.org/PID/055&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/span&gt;&lt;/span&gt;
+.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Use metadata&lt;/strong&gt;: metadata collected from or about the users themselves (e.g. user annotations, number of people accessing a particular resource) 
+
+
+
+
+
+
+
+&lt;span class=&#34;hugo-cite-intext&#34;
+        itemprop=&#34;citation&#34;&gt;(&lt;a href=&#34;#joint_information_systems_committee_jisc_cross-media_2010&#34;&gt;&lt;span class=&#34;visually-hidden&#34;&gt;Citation: &lt;/span&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Joint Information Systems Committee (JISC)&lt;/span&gt;&lt;/span&gt;,&amp;#32;
+      &lt;span itemprop=&#34;datePublished&#34;&gt;2010&lt;/span&gt;&lt;/a&gt;)
+    &lt;span class=&#34;hugo-cite-citation&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/WebPage&#34;
+      data-type=&#34;webpage&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Joint Information Systems Committee (JISC)&lt;/span&gt;&lt;/span&gt;(&lt;span itemprop=&#34;datePublished&#34;&gt;2010,&amp;#32;3/14&lt;/span&gt;).&amp;#32;Retrieved from&amp;#32;
+  &lt;a href=&#34;http://www.jiscdigitalmedia.ac.uk/crossmedia/advice/an-introduction-to-metadata/&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;http://www.jiscdigitalmedia.ac.uk/crossmedia/advice/an-introduction-to-metadata/&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;In that post I also said:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;I think it is only fair to point out to archivist and to librarians that linguists and language documenters do not see a difference between descriptive and non-descriptive metadata in their workflows. That is sometimes we want to search all the corpora by licenses or by a technical attribute. This elevates the these attributes to the function of discovery metadata. It does not remove the function of descriptive metadata from its role in finding things but it does functionally mean that the other metadata is also viable as discovery metadata.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;compare-and-match-three&#34;&gt;Compare and match three&lt;/h2&gt;
+&lt;p&gt;My goal here is to compare 
+&lt;a href=&#34;https://www.dublincore.org/specifications/dublin-core/dcmi-terms/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Doublin Core&lt;/a&gt; with 
+&lt;a href=&#34;http://en.wikipedia.org/wiki/BibTeX&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BibTeX&lt;/a&gt;. There is a nice cross-walk technology for BibTex resources 
+&lt;a href=&#34;http://bibtexml.sourceforge.net/details.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;in source-forge&lt;/a&gt; with some 
+&lt;a href=&#34;http://en.wikipedia.org/wiki/RIS_%28file_format%29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;.ris&lt;/a&gt; support.&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt; In terms of resources there is a list of mappings&lt;sup id=&#34;fnref:3&#34;&gt;&lt;a href=&#34;#fn:3&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;3&lt;/a&gt;&lt;/sup&gt; not .ris or Bibtex to DC but many other crosswalks. I started my own Crosswalk work in Google Spreadsheets 
+&lt;a href=&#34;https://docs.google.com/spreadsheets/d/15giGn4vL3yhV1gdbnfSfUH5vJfg9Wux9s0AZQZztZD8/edit?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;. I started with roles but also have an interest in item types for use in XLingPaper.&lt;/p&gt;
+&lt;h2 id=&#34;bibliography&#34;&gt;Bibliography&lt;/h2&gt;
+
+  
+
+  
+
+
+
+
+
+
+
+
+
+
+&lt;section class=&#34;hugo-cite-bibliography&#34;&gt;
+  &lt;dl&gt;
+    
+
+      &lt;div id=&#34;bergqvist_role_2007&#34;&gt;
+        &lt;dt&gt;
+          Bergqvist
+
+          
+          (2007)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Bergqvist&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Henrik&#34; /&gt;
+    H.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2007&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;The role of metadata for translation and pragmatics in language documentation&lt;/span&gt;.&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;Language Documentation and Description&lt;/span&gt;,&amp;#32;4&lt;/i&gt;.&amp;#32;&lt;span itemprop=&#34;pagination&#34;&gt;163–173&lt;/span&gt;.&amp;#32;Retrieved from&amp;#32;
+  &lt;a href=&#34;http://www.elpublishing.org/PID/055&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;http://www.elpublishing.org/PID/055&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;joint_information_systems_committee_jisc_cross-media_2010&#34;&gt;
+        &lt;dt&gt;
+          Joint Information Systems Committee (JISC)
+
+          
+          (2010)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/WebPage&#34;
+      data-type=&#34;webpage&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Joint Information Systems Committee (JISC)&lt;/span&gt;&lt;/span&gt;(&lt;span itemprop=&#34;datePublished&#34;&gt;2010,&amp;#32;3/14&lt;/span&gt;).&amp;#32;Retrieved from&amp;#32;
+  &lt;a href=&#34;http://www.jiscdigitalmedia.ac.uk/crossmedia/advice/an-introduction-to-metadata/&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;http://www.jiscdigitalmedia.ac.uk/crossmedia/advice/an-introduction-to-metadata/&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;spanne_metadata_2008&#34;&gt;
+        &lt;dt&gt;
+          Spanne
+
+          
+          (2008)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/CreativeWork&#34;
+      data-type=&#34;speech&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Spanne&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Joan&#34; /&gt;
+    J.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2008&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;
+    &lt;i&gt;Metadata: Why, What and How (the “Who” is You)&lt;/i&gt;&lt;/span&gt;.
+  &lt;meta itemprop=&#34;contentLocation&#34;
+        content=&#34;Dallas, Texas, USA, Graduate Institute of Applied Linguistics&#34;&gt;&lt;/span&gt;
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+  &lt;/dl&gt;
+&lt;/section&gt;
+
+
+
+&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;JISC Digital Media. 07 January 2010. Metadata and Audio Resources. &lt;a href=&#34;http://www.jiscdigitalmedia.ac.uk/audio/advice/metadata-and-audio-resources&#34;&gt;http://www.jiscdigitalmedia.ac.uk/audio/advice/metadata-and-audio-resources&lt;/a&gt; 
+&lt;a href=&#34;http://web.archive.org/web/20120125214611/http://www.jiscdigitalmedia.ac.uk/audio/advice/metadata-and-audio-resources&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link&lt;/a&gt; [Accessed: 19 March 2012] &lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://www.feedforall.com/dublin-core.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Feed for All has a nice list view of Dublin Core&lt;/a&gt; and a buch of resources for making different kinds of feeds—especially good for PodCast or RSS feed building. &lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:3&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;Michael Day. August 1996, Last updated: 22-May-2002. Metadata: Mapping between metadata formats. UKOLN: The UK Office for Library and Information Networking, University of Bath, Bath, BA2 7AY, United Kingdom. &lt;a href=&#34;http://www.ukoln.ac.uk/metadata/interoperability/&#34;&gt;http://www.ukoln.ac.uk/metadata/interoperability/&lt;/a&gt;
+
+&lt;a href=&#34;http://www.ukoln.ac.uk/metadata/interoperability/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link&lt;/a&gt; [Accessed: 19 March 2012] &lt;a href=&#34;#fnref:3&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/section&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

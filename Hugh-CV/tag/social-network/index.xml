@@ -62,7 +62,7 @@
      itemtype=&#34;https://schema.org/URL&#34;&gt;https://doi.org/10.12794/langarc1851171&lt;/a&gt;&lt;/span&gt;
 
 &lt;/span&gt;&lt;/span&gt;
- Bird and Simons disucss the health of the network of OLAC data providers. They state:&lt;/p&gt;
+ Bird and Simons discuss the health of the network of OLAC data providers. They state:&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;of the 62 registered archives, 27 have not been updated in the past five years, and an overlapping 19 archives are failing to harvest.&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -110,8 +110,8 @@
 
 &lt;/figure&gt;
 
-&lt;p&gt;Another way to look at the issues which beset the network of OLAC data providers is to look at the network of technologiest responsibile for the data feed. To do this is challenging. Exact roles are not specified in the OLAC documentation. These roles appear in the OAI header for each data provider and the aggregation of these can be found in two places on the the OLAC website 
-&lt;a href=&#34;http://www.language-archives.org/archives&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt; (along with the deatil pages) and 
+&lt;p&gt;Another way to look at the issues which beset the network of OLAC data providers is to look at the network of technologies responsible for the data feed. To do this is challenging. Exact roles are not specified in the OLAC documentation. These roles appear in the OAI header for each data provider and the aggregation of these can be found in two places on the the OLAC website 
+&lt;a href=&#34;http://www.language-archives.org/archives&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt; (along with the detail pages) and 
 &lt;a href=&#34;http://www.language-archives.org/register/archive_list.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;When we look at the set of the data providers and we see the extent of providers which do not maintain their OLAC feeds we could interpret that as the death of nodes or part of the network. This might be better understood with a network diagram. So I made one.&lt;/p&gt;
 
@@ -147,20 +147,21 @@
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/olac-social-network/OLAC-Social-Network_hu72b1b19ca22bcc3417d6156e773f683c_1334877_2000x2000_fit_lanczos_2.png&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/olac-social-network/OLAC-Social-Network_hu72b1b19ca22bcc3417d6156e773f683c_1373076_2000x2000_fit_lanczos_2.png&#34; &gt;
 
 
-  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/olac-social-network/OLAC-Social-Network_hu72b1b19ca22bcc3417d6156e773f683c_1334877_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;SIL Language and Culture Archive history&#34; width=&#34;5589&#34; height=&#34;2403&#34;&gt;
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/olac-social-network/OLAC-Social-Network_hu72b1b19ca22bcc3417d6156e773f683c_1373076_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;SIL Language and Culture Archive history&#34; width=&#34;5589&#34; height=&#34;2403&#34;&gt;
 &lt;/a&gt;
 
 
 
 &lt;/figure&gt;
 
-&lt;p&gt;While conducting this analysis it became apparant that there were several clades of providers which developed. Those are indicated in this image. The image is incomplete with regard to the total number of data providers. It lacks the following data providers which were left out for visual space contraint reasons (and no other reason):&lt;/p&gt;
+&lt;p&gt;While conducting this analysis it became apparent that there were several clades of providers which developed. By clade I mean a group of data providers which evolved together sharing an exposure to OLAC metadata and a technologist. Those clades are indicated in this image. The indicated clades are to be treated as suspect, but I think there is reason to believe that there is a great amount of sociological influence which permits these clades to form. For example, I know that at one time Gary Simons assisted AILLIA with their OLAC feed, so perhaps that archive might belong in a common clade with the entities within the SIL clade. If that is the case then maybe the SIL clade ought to be renamed as the Gary Simons clade. I also suspect there might be a CLARIN clade, but I don&amp;rsquo;t know for sure or how these relationships are or were structured. I also suspect that there might be or was an Australian clade in which 
+&lt;a href=&#34;https://nthieberger.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nick Thieberger&lt;/a&gt; would have been influential. If this is the case then the Hawaii clade may be suspect and rather than two clades (Hawaii and Australia) there may only be one which would include those entities assisted or guided by Professor Thieberger.&lt;/p&gt;
+&lt;p&gt;The image is incomplete with regard to the total number of data providers. It lacks the following data providers which were left out for visual space constraint reasons (and no other reason):&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Language resources at the Text Laboratory&lt;/li&gt;
-&lt;li&gt;LINDAT/CLARIAH-CZ digital library at the Institute of Formal and Applied Linguistics (ÚFAL), Faculty of Mathematics and Physics, Charles University&lt;/li&gt;
 &lt;li&gt;IULA UPF OAI Archive&lt;/li&gt;
 &lt;li&gt;ODIN - The Online Database of Interlinear Text&lt;/li&gt;
 &lt;li&gt;Cornell Language Acquisition Lab&lt;/li&gt;
