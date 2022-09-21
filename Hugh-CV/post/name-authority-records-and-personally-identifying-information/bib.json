@@ -1,0 +1,168 @@
+[
+	{
+		"id": "Billey2019",
+		"type": "article-journal",
+		"abstract": "Neutrality is a core tenet of librarianship, although it is widely accepted that cataloging is not a neutral act. In 1876, Charles Ammi Cutter outlined the model for a library catalog. That model remained largely unchanged for over 120 years; however the publication and adoption of Functional Requirements for Bibliographic Records (FRBR), Functional Requirements for Authority Data (FRAD), and Functional Requirements for Subject Authority Data (FRSAD) by the international cataloging community in the late 1990s and early 2000s ushered in new models for organizing and describing bibliographic resources. Although the “FRBR Family” of models remains true to Cutter’s guiding principles at their core, they explicitly introduced specific attributes for describing bibliographic entity groups. In particular, FRAD greatly expanded the attributes to record about Persons, and these attributes were codified in the contemporary cataloging standard Resource Description and Access (RDA). As a result, catalogers now capture much more information about people in authority records than ever before. The contribution of all this new additional metadata into authority files has the potential to harm the actual people we are now cataloging by misidentifying or censoring information through cataloger bias or by capturing personally identifying information that could be used against the person. This has great ramifications in the linked data environment when the metadata is reused and can no longer be controlled by the individuals or institutions who created the original data. The risks are too great and we have yet to see the results in our discovery systems to rationalize adding so much personal information about people in library authority records. This paper argues that we should return to a simpler, pre-RDA authority record. However, the likelihood of changing RDA is slim, but we can adjust our cataloging practice to record only the most necessary information in authority records to curb catalog bias and insure personal data privacy for authors and contributors in our authority files.",
+		"container-title": "Journal of Library Metadata",
+		"DOI": "10.1080/19386389.2019.1589684",
+		"ISSN": "1938-6389",
+		"issue": "1-2",
+		"note": "publisher: Routledge\n_eprint: https://doi.org/10.1080/19386389.2019.1589684",
+		"page": "1-17",
+		"source": "Taylor and Francis+NEJM",
+		"title": "Just Because We Can, Doesn’t Mean We Should: An Argument for Simplicity and Data Privacy With Name Authority Work in the Linked Data Environment",
+		"title-short": "Just Because We Can, Doesn’t Mean We Should",
+		"URL": "https://doi.org/10.1080/19386389.2019.1589684",
+		"volume": "19",
+		"author": [
+			{
+				"family": "Billey",
+				"given": "Amber"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					9,
+					7
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2019",
+					4,
+					3
+				]
+			]
+		}
+	},
+	{
+		"id": "Serra2020",
+		"type": "article-journal",
+		"abstract": "This article discusses how libraries can include person identifiers in the MARC format. It suggests using URIs in fields and subfields to help transition the data to an RDF model, and to help prepare the catalog for a Linked Data. It analyzes the selection of URIs and Real-World Objects, and the use of tag 024 to describe person identifiers in authority records. When a creator or collaborator is identified in a work, the identifiers are transferred from authority to the bibliographic record. The article concludes that URI-based descriptions can provide a better experience for users, offering other methods of discovery.",
+		"container-title": "Cataloging & Classification Quarterly",
+		"DOI": "10.1080/01639374.2020.1771499",
+		"ISSN": "0163-9374",
+		"issue": "5",
+		"note": "publisher: Routledge\n_eprint: https://doi.org/10.1080/01639374.2020.1771499",
+		"page": "505-519",
+		"source": "Taylor and Francis+NEJM",
+		"title": "Person Identifiers in MARC 21 Records in a Semantic Environment",
+		"URL": "https://doi.org/10.1080/01639374.2020.1771499",
+		"volume": "58",
+		"author": [
+			{
+				"family": "Serra",
+				"given": "Liliana Giusti"
+			},
+			{
+				"family": "Schneider",
+				"given": "Jodi A."
+			},
+			{
+				"family": "Segundo",
+				"given": "José Eduardo Santarém"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					9,
+					7
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2020",
+					7,
+					3
+				]
+			]
+		}
+	},
+{
+		"id": "Thompson2016",
+		"type": "article-journal",
+		"abstract": "With the adoption of FRAD and RDA, the scope of name authority records has broadened from a record supporting an authorized heading to a fuller description of a creator. Meant to help user discovery of resources, these practices are problematic when the record describes an author who self-identifies as trans. In this research, name authority records (NARs) for self-identified trans creators were analyzed. This analysis examined the 375 field for “gender,” the contents of that field, and other representations of (trans)gender identities throughout the record. Name authority record creation practices should be examined to ensure that an author’s agency to self-disclose their identities is respected.",
+		"container-title": "Library Resources & Technical Services",
+		"DOI": "10.5860/lrts.60n3.140",
+		"ISSN": "2159-9610",
+		"issue": "3",
+		"journalAbbreviation": "LRTS",
+		"page": "140-155",
+		"source": "DOI.org (Crossref)",
+		"title": "More Than a Name: A Content Analysis of Name Authority Records for Authors Who Self-Identify as Trans",
+		"title-short": "More Than a Name",
+		"URL": "https://journals.ala.org/index.php/lrts/article/view/6036",
+		"volume": "60",
+		"author": [
+			{
+				"family": "Thompson",
+				"given": "Kelly J."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					9,
+					20
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2016",
+					7,
+					28
+				]
+			]
+		}
+	},
+{
+		"id": "Habibzadeh2020",
+		"type": "article-journal",
+		"abstract": "Summary\n            Background: Over the last decade, Web sites (URLs) have been increasingly cited in scientific articles. However, the contents of the page of interest may change over the time.\n            Objective: To investigate the trend of citation to URLs in five general medical journals since January 2006 to June 2013 and to compare the trends in mainstream journals with small journals.\n            Methods: References of all original articles and review articles published between January 2006 and June 2013 in three regional journals – Archives of Iranian Medicine (AIM), Eastern Mediterranean Health Journal (EMHJ), and Journal of Postgraduate Medical Institute (JPMI) – and two mainstream journals – The Lancet and British Medical Journal (BMJ) – were reviewed. The references were checked to determine the frequency of citation to URLs as well as the rate of accessibility of the URLs cited.\n            Results: A total of 2822 articles was studied. Since January 2006 onward, the number of citations to URLs increased in the journals (doubling time ranged from 4.2 years in EMHJ to 13.9 years in AIM). Overall, the percentage of articles citing at least one URL has increased from 24% in 2006 to 48.5% in 2013. Accessibility to URLs decayed as the references got old (half life ranged from 2.2 years in EMHJ to 5.3 years in BMJ). The ratio of citation to URLs in the studied mainstream journals, as well as the ratio of URLs accessible were significantly (p<0.001) higher than the small medical journals.\n            Conclusion: URLs are increasingly cited, but their contents decay with time. The trend of citing and decaying URLs are different in mainstream journals compared to small medical journals. Decay of URL contents would jeopardize the accuracy of the references and thus, the body of evidence. One way to tackle this important obstacle is to archive URLs permanently.\n            Citation: Habibzadeh P. Decay of references to web sites in articles published in general medical journals: Mainstream vs small journals. Appl Clin Inf 2013; 4: 455–464\n            http://dx.doi.org/10.4338/ACI-2013-07-RA-0055",
+		"container-title": "Applied Clinical Informatics",
+		"DOI": "10.4338/ACI-2013-07-RA-0055",
+		"ISSN": "1869-0327",
+		"issue": "4",
+		"journalAbbreviation": "Appl Clin Inform",
+		"language": "en",
+		"page": "455-464",
+		"source": "DOI.org (Crossref)",
+		"title": "Decay of References to Web sites in Articles Published in General Medical Journals: Mainstream vs Small Journals",
+		"title-short": "Decay of References to Web sites in Articles Published in General Medical Journals",
+		"URL": "http://www.thieme-connect.de/DOI/DOI?10.4338/ACI-2013-07-RA-0055",
+		"volume": "4",
+		"author": [
+			{
+				"family": "Habibzadeh",
+				"given": "Parham"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					7,
+					15
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2013"
+				]
+			]
+		}
+	}
+]

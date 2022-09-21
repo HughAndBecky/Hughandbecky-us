@@ -27,6 +27,145 @@
     </item>
     
     <item>
+      <title>Digital Literacy vs. Literacy in a Digital Medium</title>
+      <link>https://hughandbecky.us/Hugh-CV/post/digital-literacy-vs-literacy-in-a-digital-medium/</link>
+      <pubDate>Tue, 01 May 2012 14:35:45 +0100</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/post/digital-literacy-vs-literacy-in-a-digital-medium/</guid>
+      <description>&lt;p&gt;While working on a description of the Eastern Dan writing system I found it challenging to keep track of all the different writing system evolutions and the various materials produced in each writing system. As I listen to the challenges faced in various linguistic projects (archiving, OCR, language revitalization, corpus creation) around the world, which work with written linguistic materials I find that they also often have the same basic problems. That is, the same language may be written with different transcription systems. There is currently no clear and concise way to create an identifier for language transcription systems. Some have turned to the ISO 639-3 to say &amp;ldquo;the writing system of &lt;em&gt;x&lt;/em&gt; language&amp;rdquo;, however this is often not descriptive enough. The 
+&lt;a href=&#34;https://tools.ietf.org/rfc/bcp/bcp47&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BCP47 identifier&lt;/a&gt; is much more descriptive and useful in this context.&lt;/p&gt;
+&lt;p&gt;I use the term writing system rather than orthography because orthography is narrowly construed in technological contexts. That is, &lt;em&gt;orthography&lt;/em&gt; applies to spelling, while &lt;em&gt;writing system&lt;/em&gt; applies to the characters used to communicate in a given language 
+
+
+
+
+
+
+
+
+. Sometimes a writing system revision implies or necessitates an orthography change, sometimes it doesn&amp;rsquo;t. When an orthography change adds or removes a character (Unicode character) from the language it also implies a writing system change.&lt;/p&gt;
+&lt;p&gt;These relationships are illustrated in the following graph replicated from 
+
+
+
+
+
+
+
+
+.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;constable2003.png&#34; &gt;
+
+
+  &lt;img src=&#34;constable2003.png&#34; alt=&#34;Orthography and writing system relationship diagram&#34;  &gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;For example the following languages and their writing system histories demonstrate some of the complexities which a catalog of writing system evolutions would need to consider.&lt;/p&gt;
+&lt;h3 id=&#34;tarok&#34;&gt;Tarok&lt;/h3&gt;
+&lt;p&gt;The Tarok orthography falls in the category of an SIL revision in 1976 of a missionary orthography first produced in 1919. Tarok people did a comprehensive revision in 2018, covering alphabets and rules of the writing system. Tarok  [ISO 639-3: yer] is spoken Central Nigeria.&lt;/p&gt;
+&lt;h3 id=&#34;dan&#34;&gt;Dan&lt;/h3&gt;
+&lt;p&gt;Dan is a language of Liberia and the Ivory coast [ISO 639-3: dnj]. It requires three BCP47 codes to distinguish the language-writing system combinations, because there are three writing systems one in Liberia, one for Eastern Dan, one for Western Dan. Historically, Dan-Kla [ISO 639-3: lda] now recognized as a separate language, was also lumped in with Dan, the ISO 639-3 registrar addressed this in 2013.&lt;/p&gt;
+&lt;h4 id=&#34;eastern-dan&#34;&gt;Eastern Dan&lt;/h4&gt;
+&lt;p&gt;Within the Dan example Eastern Dan has a history of 5 writing system versions, some with SIL involvement, some without. These are writing system revisions, not orthography revisions because the glyphs used in each case were different. It wasn’t just the spelling system that changed, it what the character repertoire needed to write the language.&lt;/p&gt;
+&lt;h3 id=&#34;mephaa&#34;&gt;Me&amp;rsquo;phaa&lt;/h3&gt;
+&lt;p&gt;Me&amp;rsquo;phaa is a set of 4 ISO 639-3 languages but the Mexican government acknowledges something like 7 unique languages. They all share one writing system but spell words how they pronounce them in their respective regions. This means that there is one writing system, but several orthographies. As far as I know no orthography is standardized.&lt;/p&gt;
+&lt;h3 id=&#34;german&#34;&gt;German&lt;/h3&gt;
+&lt;p&gt;Four countries, various different writing systems (glyphs), countries have discrete version histories, but conceded that they have one language.&lt;/p&gt;
+&lt;h3 id=&#34;tem&#34;&gt;Tem&lt;/h3&gt;
+&lt;p&gt;A language which uses both Ajami and Latin scripts.&lt;/p&gt;
+&lt;p&gt;With these kinds of issues in mind, I crafted the following fictitious statement which exemplifies some of the things for which a good catalog of writing system versions would account.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;Basic-Business-Metrics-in-Writing-System-Evolution-Management.png&#34; &gt;
+
+
+  &lt;img src=&#34;Basic-Business-Metrics-in-Writing-System-Evolution-Management.png&#34; alt=&#34;Database Categories&#34;  &gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+&lt;h2 id=&#34;bibliography&#34;&gt;Bibliography&lt;/h2&gt;
+
+  
+
+  
+
+
+
+
+
+
+
+
+
+
+Bibliography called, but no references
+
+
+
+</description>
+    </item>
+    
+    <item>
       <title>EGIDS, SIL, and Language Documentation</title>
       <link>https://hughandbecky.us/Hugh-CV/post/egids-sil-and-language-documentation/</link>
       <pubDate>Fri, 01 Apr 2011 01:41:38 -0700</pubDate>

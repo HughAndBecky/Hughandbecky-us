@@ -410,7 +410,7 @@ useful, OLAC lacks a deep semantic definition and relies mostly on best practice
 &lt;blockquote&gt;
 &lt;p&gt;Since 2000 we have seen the rise of new LR &lt;em&gt;[Language Resource]&lt;/em&gt; metadata schema as IMDI, IMDI [2003], IMDI [2009] and OLAC but application and uptake of these schema has been limited. Although OLAC is now used more or less as a standard for information exchange between LR archives, it is still delivering low specificity.&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;Again &lt;em&gt;low specificity&lt;/em&gt; seems to be leveraged at OLAC&amp;rsquo;s vocabulaires without taking into account that spcificty can be enhanced through avariety of mechanims including the use of Library of Congress Subject Heading terms and other Dublin Core linked vocabulaires.&lt;/p&gt;
+&lt;p&gt;Again &lt;em&gt;low specificity&lt;/em&gt; seems to be leveraged at OLAC&amp;rsquo;s vocabularies without taking into account that specify can be enhanced through a variety of mechanisms including the use of Library of Congress Subject Heading terms and other Dublin Core linked vocabularies.&lt;/p&gt;
 &lt;p&gt;Then 
 
 
@@ -472,8 +472,8 @@ useful, OLAC lacks a deep semantic definition and relies mostly on best practice
 &lt;blockquote&gt;
 &lt;p&gt;This lack of consensus resides also in the description of LRs, even for non-linguistic concepts. In fact, there are as many metadata schema for their descriptions as catalogs and repositories for their presentation (e.g. those used by ELRA and the LDC) and communities describing them (e.g. TEI [14] or CES [13]). The most widely used schema for the exchange of LRs is the one suggested by the Open Language Archives Community [1, OLAC], which builds on the Dublin Core metadata and has been criticized as being too reductionistic. Differences between the schema lie in the range of features used and their labels and datatypes.&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;While McCrae et al. summarize the literature, they also do not realize that the general perspective in the literature is top-down; first looking at the OLAC vocabluaries and then (mostly missing) other kinds of modifying capabilites that Dublin Core and OAI provide to the OLAC applicaiton profile.&lt;/p&gt;
-&lt;p&gt;It is my opinion that important research can be conducted to look for relevant concepts to linguistics and language documentation in the various linked vocabularies natively occuring in Dublin Core.&lt;/p&gt;
+&lt;p&gt;While McCrae et al. summarize the literature, they also do not realize that the general perspective in the literature is top-down; first looking at the OLAC vocabularies and then (mostly missing) other kinds of modifying capabilities that Dublin Core and OAI provide to the OLAC application profile.&lt;/p&gt;
+&lt;p&gt;It is my opinion that important research can be conducted to look for relevant concepts to linguistics and language documentation in the various linked vocabularies natively occurring in Dublin Core.&lt;/p&gt;
 &lt;h2 id=&#34;bibliography&#34;&gt;Bibliography&lt;/h2&gt;
 
   

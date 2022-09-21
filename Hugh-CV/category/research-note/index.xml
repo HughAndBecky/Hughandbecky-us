@@ -410,7 +410,7 @@ useful, OLAC lacks a deep semantic definition and relies mostly on best practice
 &lt;blockquote&gt;
 &lt;p&gt;Since 2000 we have seen the rise of new LR &lt;em&gt;[Language Resource]&lt;/em&gt; metadata schema as IMDI, IMDI [2003], IMDI [2009] and OLAC but application and uptake of these schema has been limited. Although OLAC is now used more or less as a standard for information exchange between LR archives, it is still delivering low specificity.&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;Again &lt;em&gt;low specificity&lt;/em&gt; seems to be leveraged at OLAC&amp;rsquo;s vocabulaires without taking into account that spcificty can be enhanced through avariety of mechanims including the use of Library of Congress Subject Heading terms and other Dublin Core linked vocabulaires.&lt;/p&gt;
+&lt;p&gt;Again &lt;em&gt;low specificity&lt;/em&gt; seems to be leveraged at OLAC&amp;rsquo;s vocabularies without taking into account that specify can be enhanced through a variety of mechanisms including the use of Library of Congress Subject Heading terms and other Dublin Core linked vocabularies.&lt;/p&gt;
 &lt;p&gt;Then 
 
 
@@ -472,8 +472,8 @@ useful, OLAC lacks a deep semantic definition and relies mostly on best practice
 &lt;blockquote&gt;
 &lt;p&gt;This lack of consensus resides also in the description of LRs, even for non-linguistic concepts. In fact, there are as many metadata schema for their descriptions as catalogs and repositories for their presentation (e.g. those used by ELRA and the LDC) and communities describing them (e.g. TEI [14] or CES [13]). The most widely used schema for the exchange of LRs is the one suggested by the Open Language Archives Community [1, OLAC], which builds on the Dublin Core metadata and has been criticized as being too reductionistic. Differences between the schema lie in the range of features used and their labels and datatypes.&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;While McCrae et al. summarize the literature, they also do not realize that the general perspective in the literature is top-down; first looking at the OLAC vocabluaries and then (mostly missing) other kinds of modifying capabilites that Dublin Core and OAI provide to the OLAC applicaiton profile.&lt;/p&gt;
-&lt;p&gt;It is my opinion that important research can be conducted to look for relevant concepts to linguistics and language documentation in the various linked vocabularies natively occuring in Dublin Core.&lt;/p&gt;
+&lt;p&gt;While McCrae et al. summarize the literature, they also do not realize that the general perspective in the literature is top-down; first looking at the OLAC vocabularies and then (mostly missing) other kinds of modifying capabilities that Dublin Core and OAI provide to the OLAC application profile.&lt;/p&gt;
+&lt;p&gt;It is my opinion that important research can be conducted to look for relevant concepts to linguistics and language documentation in the various linked vocabularies natively occurring in Dublin Core.&lt;/p&gt;
 &lt;h2 id=&#34;bibliography&#34;&gt;Bibliography&lt;/h2&gt;
 
   
@@ -1460,7 +1460,7 @@ useful, OLAC lacks a deep semantic definition and relies mostly on best practice
 &lt;h3 id=&#34;tarok&#34;&gt;Tarok&lt;/h3&gt;
 &lt;p&gt;The Tarok orthography falls in the category of an SIL revision in 1976 of a missionary orthography first produced in 1919. Tarok people did a comprehensive revision in 2018, covering alphabets and rules of the writing system. Tarok  [ISO 639-3: yer] is spoken Central Nigeria.&lt;/p&gt;
 &lt;h3 id=&#34;dan&#34;&gt;Dan&lt;/h3&gt;
-&lt;p&gt;Dan is a language of Liberia and the Ivory coast [ISO 639-3: dnj]. It requires three BCP47 codes to distinguish the language-writing system combinations, because there are three writing systems one in Liberia, one for Eastern Dan, one for Western Dan. Historically, Dan-Kla [ISO 639-3: lda] now recognized as a separate language, was also lumped in with Dan, the ISO 639-3 registrar addressed this in 2013.&lt;/p&gt;
+&lt;p&gt;Dan is a language of Liberia and the Ivory coast [ISO 639-3: dnj]. It requires three BCP47 tags to distinguish the language-writing system combinations, because there are three writing systems one in Liberia, one for Eastern Dan, one for Western Dan. Historically, Dan-Kla [ISO 639-3: lda] now recognized as a separate language, was also lumped in with Dan, the ISO 639-3 registrar addressed this in 2013.&lt;/p&gt;
 &lt;h4 id=&#34;eastern-dan&#34;&gt;Eastern Dan&lt;/h4&gt;
 &lt;p&gt;Within the Dan example Eastern Dan has a history of 5 writing system versions, some with SIL involvement, some without. These are writing system revisions, not orthography revisions because the glyphs used in each case were different. It wasn’t just the spelling system that changed, it what the character repertoire needed to write the language.&lt;/p&gt;
 &lt;h3 id=&#34;mephaa&#34;&gt;Me&amp;rsquo;phaa&lt;/h3&gt;
@@ -4686,7 +4686,7 @@ Note: This workflow would later be used in both:&lt;/p&gt;
 &lt;p&gt;An ongoing criticism of OLAC’s engagement architecture is that it has specifically targeted Institutions, to aggregate their knowledge of their holdings, rather than directly engaging individuals to share what they know.&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; In terms of the total number of people who know about resources which pertain to language (or language artifacts), there are a lot more people who know about language artifacts than institutions who know about the location of language artifacts. This is evident by the results of the 
 &lt;a href=&#34;http://glottolog.org/langdoc/langdocinformation&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LangDoc Project&lt;/a&gt;.&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt; In this project several contributors pooled their collective knowledge and produced a bibliography of 252,923 resources, which is available to other researchers, and sortable by language.&lt;/p&gt;
 &lt;p&gt;There are three classes of important entities to target for participation in OLAC, the &lt;em&gt;institutional repository&lt;/em&gt; (and their administration policies, not just collection curators), the &lt;em&gt;individual&lt;/em&gt;, and the &lt;em&gt;publishing house&lt;/em&gt;. With the 
-&lt;a href=&#34;http://www.sil.org/resources/publications/entry/7783&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;third wave of publishing&lt;/a&gt; now well underway, the distinctions between these three classes are sometimes confused. Individuals are important because it is through individuals that opinion and usefulness is determined. Individuals are the movers and shakers, not institutions - even if they are part of an institution, but it is the institutions which bring stability. Publishers are important because many new items are first released by them (defining publishers broadly as conferences, institutionally hosted CVs, as well as more traditional publishers). Archives, and digital repositories,  play an important role, but translationally, their frequency of use is lower than that of publishers. Archives are rapidly becoming the publishers of academic multi-media artifacts. Yet Archive collections are generally large and very lucrative for the effort to make their indexes available.&lt;/p&gt;
+&lt;a href=&#34;http://www.sil.org/resources/publications/entry/7783&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;third wave of publishing&lt;/a&gt; now well underway, the distinctions between these three classes are sometimes confused. Individuals are important because it is through individuals that opinion and usefulness is determined. Individuals are the movers and shakers, not institutions - even if they are part of an institution, but it is the institutions which bring stability. Publishers are important because many new items are first released by them (defining publishers broadly as conferences, institutionally hosted CVs, as well as more traditional publishers). Archives, and digital repositories,  play an important role, but transactionally, their frequency of use is lower than that of publishers. Archives are rapidly becoming the publishers of academic multi-media artifacts. Yet Archive collections are generally large and very lucrative for the effort to make their indexes available.&lt;/p&gt;
 &lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
 &lt;hr&gt;
 &lt;ol&gt;
@@ -4713,6 +4713,145 @@ Note: This workflow would later be used in both:&lt;/p&gt;
 &lt;a href=&#34;https://hughandbecky.us/Hugh-CV/publication/2013-challenges-ramp&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;an upcoming presentation&lt;/a&gt;, therefore I sketched out the interactions various SIL staff might have with the archive to see if I could diagram the social interactions around language data in SIL’s two sided market. To my surprise, the two sided nature of access to data in the archive is not supported, thereby blocking a data-centric archiving service. It makes me wonder what the perceived value of the archive really is, and if the perceived value is low, then why bother? What is the return on investment (ROI) for users on either side of the market?&lt;/p&gt;
 &lt;p&gt;I tried to summarize the relationships between the various clients of the archive in the following image.
 &lt;img src=&#34;https://hughandbecky.us/Hugh-CV/post/the-sil-archive-and-its-two-sided-markets/SIL-Archive-and-its-two-sided-markets.jpg&#34; alt=&#34;SIL Archive and its two multi-sided market representation&#34; title=&#34;SIL Archive and its two multi-sided market representation&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Digital Literacy vs. Literacy in a Digital Medium</title>
+      <link>https://hughandbecky.us/Hugh-CV/post/digital-literacy-vs-literacy-in-a-digital-medium/</link>
+      <pubDate>Tue, 01 May 2012 14:35:45 +0100</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/post/digital-literacy-vs-literacy-in-a-digital-medium/</guid>
+      <description>&lt;p&gt;While working on a description of the Eastern Dan writing system I found it challenging to keep track of all the different writing system evolutions and the various materials produced in each writing system. As I listen to the challenges faced in various linguistic projects (archiving, OCR, language revitalization, corpus creation) around the world, which work with written linguistic materials I find that they also often have the same basic problems. That is, the same language may be written with different transcription systems. There is currently no clear and concise way to create an identifier for language transcription systems. Some have turned to the ISO 639-3 to say &amp;ldquo;the writing system of &lt;em&gt;x&lt;/em&gt; language&amp;rdquo;, however this is often not descriptive enough. The 
+&lt;a href=&#34;https://tools.ietf.org/rfc/bcp/bcp47&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BCP47 identifier&lt;/a&gt; is much more descriptive and useful in this context.&lt;/p&gt;
+&lt;p&gt;I use the term writing system rather than orthography because orthography is narrowly construed in technological contexts. That is, &lt;em&gt;orthography&lt;/em&gt; applies to spelling, while &lt;em&gt;writing system&lt;/em&gt; applies to the characters used to communicate in a given language 
+
+
+
+
+
+
+
+
+. Sometimes a writing system revision implies or necessitates an orthography change, sometimes it doesn&amp;rsquo;t. When an orthography change adds or removes a character (Unicode character) from the language it also implies a writing system change.&lt;/p&gt;
+&lt;p&gt;These relationships are illustrated in the following graph replicated from 
+
+
+
+
+
+
+
+
+.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;constable2003.png&#34; &gt;
+
+
+  &lt;img src=&#34;constable2003.png&#34; alt=&#34;Orthography and writing system relationship diagram&#34;  &gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;For example the following languages and their writing system histories demonstrate some of the complexities which a catalog of writing system evolutions would need to consider.&lt;/p&gt;
+&lt;h3 id=&#34;tarok&#34;&gt;Tarok&lt;/h3&gt;
+&lt;p&gt;The Tarok orthography falls in the category of an SIL revision in 1976 of a missionary orthography first produced in 1919. Tarok people did a comprehensive revision in 2018, covering alphabets and rules of the writing system. Tarok  [ISO 639-3: yer] is spoken Central Nigeria.&lt;/p&gt;
+&lt;h3 id=&#34;dan&#34;&gt;Dan&lt;/h3&gt;
+&lt;p&gt;Dan is a language of Liberia and the Ivory coast [ISO 639-3: dnj]. It requires three BCP47 codes to distinguish the language-writing system combinations, because there are three writing systems one in Liberia, one for Eastern Dan, one for Western Dan. Historically, Dan-Kla [ISO 639-3: lda] now recognized as a separate language, was also lumped in with Dan, the ISO 639-3 registrar addressed this in 2013.&lt;/p&gt;
+&lt;h4 id=&#34;eastern-dan&#34;&gt;Eastern Dan&lt;/h4&gt;
+&lt;p&gt;Within the Dan example Eastern Dan has a history of 5 writing system versions, some with SIL involvement, some without. These are writing system revisions, not orthography revisions because the glyphs used in each case were different. It wasn’t just the spelling system that changed, it what the character repertoire needed to write the language.&lt;/p&gt;
+&lt;h3 id=&#34;mephaa&#34;&gt;Me&amp;rsquo;phaa&lt;/h3&gt;
+&lt;p&gt;Me&amp;rsquo;phaa is a set of 4 ISO 639-3 languages but the Mexican government acknowledges something like 7 unique languages. They all share one writing system but spell words how they pronounce them in their respective regions. This means that there is one writing system, but several orthographies. As far as I know no orthography is standardized.&lt;/p&gt;
+&lt;h3 id=&#34;german&#34;&gt;German&lt;/h3&gt;
+&lt;p&gt;Four countries, various different writing systems (glyphs), countries have discrete version histories, but conceded that they have one language.&lt;/p&gt;
+&lt;h3 id=&#34;tem&#34;&gt;Tem&lt;/h3&gt;
+&lt;p&gt;A language which uses both Ajami and Latin scripts.&lt;/p&gt;
+&lt;p&gt;With these kinds of issues in mind, I crafted the following fictitious statement which exemplifies some of the things for which a good catalog of writing system versions would account.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;Basic-Business-Metrics-in-Writing-System-Evolution-Management.png&#34; &gt;
+
+
+  &lt;img src=&#34;Basic-Business-Metrics-in-Writing-System-Evolution-Management.png&#34; alt=&#34;Database Categories&#34;  &gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+&lt;h2 id=&#34;bibliography&#34;&gt;Bibliography&lt;/h2&gt;
+
+  
+
+  
+
+
+
+
+
+
+
+
+
+
+Bibliography called, but no references
+
+
+
 </description>
     </item>
     
