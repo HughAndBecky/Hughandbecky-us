@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Business Model Canvas | Hugh&#39;s Curriculum Vitae</title>
+    <link>https://hughandbecky.us/Hugh-CV/tag/business-model-canvas/</link>
+      <atom:link href="https://hughandbecky.us/Hugh-CV/tag/business-model-canvas/index.xml" rel="self" type="application/rss+xml" />
+    <description>Business Model Canvas</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2022</copyright><lastBuildDate>Fri, 09 Sep 2022 14:35:45 +0100</lastBuildDate>
+    <image>
+      <url>https://hughandbecky.us/Hugh-CV/media/HughPaterson.jpg</url>
+      <title>Business Model Canvas</title>
+      <link>https://hughandbecky.us/Hugh-CV/tag/business-model-canvas/</link>
+    </image>
+    
+    <item>
+      <title>OLAC Customer Segments</title>
+      <link>https://hughandbecky.us/Hugh-CV/post/olac-customer-segments/</link>
+      <pubDate>Fri, 09 Sep 2022 14:35:45 +0100</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/post/olac-customer-segments/</guid>
+      <description>&lt;p&gt;There are several paths to website development. Behind every website is an idea, behind successful websites are ideas which have undergone testing and experimentation. The first step in creating a testable hypothesis is to document that proposal and then to set out to test it. Websites can embody business ideas and in some cases business tools like the business model canvas can give a &amp;ldquo;first stab&amp;rdquo; look at how different constituents might engage with different components of a website. Eventually, for a well tested website one would want to create user cards and define user pathways through the website as they accomplish user interaction goals on the website. This is generally accepted as good practice in user experience design. Once these pathways are documented and the user actions documented and enabled then testing with real users can commence.&lt;/p&gt;
+&lt;p&gt;What follows here is my first stab at the types of users which are assumed to use the Open Language Archives Community aggregator website. My breakdown of users here will differ Bird and Simon&amp;rsquo;s 2022 article: &lt;em&gt;The Open Language Archives Community: A 20-year update&lt;/em&gt; published in &lt;em&gt;The Electronic Library&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;I present my diagrams using the 
+&lt;a href=&#34;https://www.strategyzer.com/canvas/business-model-canvas&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Business Model Canvas&lt;/a&gt; tool, but I am only addressing the basic constituents which can also be found in the simpler 
+&lt;a href=&#34;https://www.strategyzer.com/canvas/value-proposition-canvas&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Value Proposition Canvas&lt;/a&gt;. With regard to these basic constituents some of the points made in Bird and Simons 2022 article fit well with some of the &amp;ldquo;gains&amp;rdquo; type statements expected on that canvas. I&amp;rsquo;m not interested in those statements at this time, but they are important. Rather I want to sus-out how many different classes of constituents there actually are engaging with the website.&lt;/p&gt;
+&lt;p&gt;My inital guess is that there are at least five clear constituenties which are interested in interactions on the OLAC website. I outline these as follows:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;em&gt;End-User Browser People&lt;/em&gt; These are real people who come to the site looking to access resources from data providers.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Submitter Technologists People&lt;/em&gt; These are real people who come to the site to work with the tools to check their data feeds and submit data to the website.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Data Researchers&lt;/em&gt; These are real people who come to the site to research the status of resource availability. They are not looking to acquire resources, only to answer questions regarding the nature of the existance of things.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Data Harvesters&lt;/em&gt; These are machines which pull from select data points advertised. One example of this is how Worldcat (OCLC) harvests from OLAC via OAI.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Search Engines — SEO&lt;/em&gt; These are machines which are programmed to crawl the webpages of OLAC&amp;rsquo;s web interface and index it for some purpose — generally for aggregation in another search interface. An example of this might be Google via the googlebot.&lt;/li&gt;
+&lt;/ol&gt;
+
+
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-the-five-classes-of-constituents&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/olac-customer-segments/basic-constituents_hu4f6154890ea88ac09b021b2d314d85e2_38565_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;The five classes of constituents&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/olac-customer-segments/basic-constituents_hu4f6154890ea88ac09b021b2d314d85e2_38565_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;The five classes of constituents on a buisess model canvas&#34; width=&#34;837&#34; height=&#34;606&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;p&gt;The five classes of constituents
+      
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;https://hugh4.us&#34;&gt; 
+Hugh Paterson III
+&lt;/a&gt; &lt;/span&gt;
+&lt;/p&gt;
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;If we were to draw users pathways for this web experience we would want to identify each of the tasks of each person and then map that to feature and URLs. In this post I am only going to be looking at data types. That is, the kinds of data that each of the constituents desires to interact with or obtain.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Currently End-user engage with a web-interface which is written in HTML 3.2.&lt;/li&gt;
+&lt;li&gt;Submitter technologists also engage with HTML 3.2 based forms.&lt;/li&gt;
+&lt;li&gt;Data researchers can engage with and download the XML original, the XML OLAC version, they can also download some RDF style version of the data. These &amp;ldquo;data dumps&amp;rdquo; then also support programatic access.&lt;/li&gt;
+&lt;li&gt;Unique for programatic access is the OAI interface.&lt;/li&gt;
+&lt;li&gt;Search engines currently must use HTTP and encounter HTML 3.2.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-data-expressions-in-indicated-as-channels-in-the-bmc&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/olac-customer-segments/Channels_hua2e42e196fdfbe41d08fa11c77e312ed_42619_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Data Expressions in indicated as channels in the BMC&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/olac-customer-segments/Channels_hua2e42e196fdfbe41d08fa11c77e312ed_42619_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;Data Expressions in indicated as channels in the BMC.&#34; width=&#34;836&#34; height=&#34;616&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;p&gt;Data Expressions in indicated as channels in the BMC
+      
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;https://hugh4.us&#34;&gt; 
+Hugh Paterson III
+&lt;/a&gt; &lt;/span&gt;
+&lt;/p&gt;
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;In the next image I write down some of the positive reasons that people come to the website. That is, the value they come to the site to recieve.&lt;/p&gt;
+
+
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-value-proposition-statements&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/olac-customer-segments/vps_hu94d96e08112c6484dbebdf8709e4b64a_54817_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Value Proposition Statements&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/olac-customer-segments/vps_hu94d96e08112c6484dbebdf8709e4b64a_54817_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;Value Proposition Statements in the BMC.&#34; width=&#34;827&#34; height=&#34;610&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;p&gt;Value Proposition Statements
+      
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;https://hugh4.us&#34;&gt; 
+Hugh Paterson III
+&lt;/a&gt; &lt;/span&gt;
+&lt;/p&gt;
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-where-technology-needs-to-change-to-continue-to-deliver-value&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/olac-customer-segments/OLAC-full_hu7e050f84c9d8e6228ce72f09cd6a63c3_68467_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Where technology needs to change to continue to deliver value&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/olac-customer-segments/OLAC-full_hu7e050f84c9d8e6228ce72f09cd6a63c3_68467_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;Technology changes needed.&#34; width=&#34;1090&#34; height=&#34;612&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;p&gt;Where technology needs to change to continue to deliver value
+      
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;https://hugh4.us&#34;&gt; 
+Hugh Paterson III
+&lt;/a&gt; &lt;/span&gt;
+&lt;/p&gt;
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>

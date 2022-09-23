@@ -466,6 +466,252 @@ used instead, thereby fulfilling the promise of linked data. Both Billey and Ser
     </item>
     
     <item>
+      <title>OLAC Customer Segments</title>
+      <link>https://hughandbecky.us/Hugh-CV/post/olac-customer-segments/</link>
+      <pubDate>Fri, 09 Sep 2022 14:35:45 +0100</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/post/olac-customer-segments/</guid>
+      <description>&lt;p&gt;There are several paths to website development. Behind every website is an idea, behind successful websites are ideas which have undergone testing and experimentation. The first step in creating a testable hypothesis is to document that proposal and then to set out to test it. Websites can embody business ideas and in some cases business tools like the business model canvas can give a &amp;ldquo;first stab&amp;rdquo; look at how different constituents might engage with different components of a website. Eventually, for a well tested website one would want to create user cards and define user pathways through the website as they accomplish user interaction goals on the website. This is generally accepted as good practice in user experience design. Once these pathways are documented and the user actions documented and enabled then testing with real users can commence.&lt;/p&gt;
+&lt;p&gt;What follows here is my first stab at the types of users which are assumed to use the Open Language Archives Community aggregator website. My breakdown of users here will differ Bird and Simon&amp;rsquo;s 2022 article: &lt;em&gt;The Open Language Archives Community: A 20-year update&lt;/em&gt; published in &lt;em&gt;The Electronic Library&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;I present my diagrams using the 
+&lt;a href=&#34;https://www.strategyzer.com/canvas/business-model-canvas&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Business Model Canvas&lt;/a&gt; tool, but I am only addressing the basic constituents which can also be found in the simpler 
+&lt;a href=&#34;https://www.strategyzer.com/canvas/value-proposition-canvas&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Value Proposition Canvas&lt;/a&gt;. With regard to these basic constituents some of the points made in Bird and Simons 2022 article fit well with some of the &amp;ldquo;gains&amp;rdquo; type statements expected on that canvas. I&amp;rsquo;m not interested in those statements at this time, but they are important. Rather I want to sus-out how many different classes of constituents there actually are engaging with the website.&lt;/p&gt;
+&lt;p&gt;My inital guess is that there are at least five clear constituenties which are interested in interactions on the OLAC website. I outline these as follows:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;em&gt;End-User Browser People&lt;/em&gt; These are real people who come to the site looking to access resources from data providers.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Submitter Technologists People&lt;/em&gt; These are real people who come to the site to work with the tools to check their data feeds and submit data to the website.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Data Researchers&lt;/em&gt; These are real people who come to the site to research the status of resource availability. They are not looking to acquire resources, only to answer questions regarding the nature of the existance of things.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Data Harvesters&lt;/em&gt; These are machines which pull from select data points advertised. One example of this is how Worldcat (OCLC) harvests from OLAC via OAI.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Search Engines — SEO&lt;/em&gt; These are machines which are programmed to crawl the webpages of OLAC&amp;rsquo;s web interface and index it for some purpose — generally for aggregation in another search interface. An example of this might be Google via the googlebot.&lt;/li&gt;
+&lt;/ol&gt;
+
+
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-the-five-classes-of-constituents&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/olac-customer-segments/basic-constituents_hu4f6154890ea88ac09b021b2d314d85e2_38565_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;The five classes of constituents&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/olac-customer-segments/basic-constituents_hu4f6154890ea88ac09b021b2d314d85e2_38565_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;The five classes of constituents on a buisess model canvas&#34; width=&#34;837&#34; height=&#34;606&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;p&gt;The five classes of constituents
+      
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;https://hugh4.us&#34;&gt; 
+Hugh Paterson III
+&lt;/a&gt; &lt;/span&gt;
+&lt;/p&gt;
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;If we were to draw users pathways for this web experience we would want to identify each of the tasks of each person and then map that to feature and URLs. In this post I am only going to be looking at data types. That is, the kinds of data that each of the constituents desires to interact with or obtain.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Currently End-user engage with a web-interface which is written in HTML 3.2.&lt;/li&gt;
+&lt;li&gt;Submitter technologists also engage with HTML 3.2 based forms.&lt;/li&gt;
+&lt;li&gt;Data researchers can engage with and download the XML original, the XML OLAC version, they can also download some RDF style version of the data. These &amp;ldquo;data dumps&amp;rdquo; then also support programatic access.&lt;/li&gt;
+&lt;li&gt;Unique for programatic access is the OAI interface.&lt;/li&gt;
+&lt;li&gt;Search engines currently must use HTTP and encounter HTML 3.2.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-data-expressions-in-indicated-as-channels-in-the-bmc&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/olac-customer-segments/Channels_hua2e42e196fdfbe41d08fa11c77e312ed_42619_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Data Expressions in indicated as channels in the BMC&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/olac-customer-segments/Channels_hua2e42e196fdfbe41d08fa11c77e312ed_42619_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;Data Expressions in indicated as channels in the BMC.&#34; width=&#34;836&#34; height=&#34;616&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;p&gt;Data Expressions in indicated as channels in the BMC
+      
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;https://hugh4.us&#34;&gt; 
+Hugh Paterson III
+&lt;/a&gt; &lt;/span&gt;
+&lt;/p&gt;
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;In the next image I write down some of the positive reasons that people come to the website. That is, the value they come to the site to recieve.&lt;/p&gt;
+
+
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-value-proposition-statements&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/olac-customer-segments/vps_hu94d96e08112c6484dbebdf8709e4b64a_54817_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Value Proposition Statements&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/olac-customer-segments/vps_hu94d96e08112c6484dbebdf8709e4b64a_54817_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;Value Proposition Statements in the BMC.&#34; width=&#34;827&#34; height=&#34;610&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;p&gt;Value Proposition Statements
+      
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;https://hugh4.us&#34;&gt; 
+Hugh Paterson III
+&lt;/a&gt; &lt;/span&gt;
+&lt;/p&gt;
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-where-technology-needs-to-change-to-continue-to-deliver-value&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/olac-customer-segments/OLAC-full_hu7e050f84c9d8e6228ce72f09cd6a63c3_68467_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Where technology needs to change to continue to deliver value&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/olac-customer-segments/OLAC-full_hu7e050f84c9d8e6228ce72f09cd6a63c3_68467_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;Technology changes needed.&#34; width=&#34;1090&#34; height=&#34;612&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;p&gt;Where technology needs to change to continue to deliver value
+      
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;https://hugh4.us&#34;&gt; 
+Hugh Paterson III
+&lt;/a&gt; &lt;/span&gt;
+&lt;/p&gt;
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>OLAC Social Network</title>
       <link>https://hughandbecky.us/Hugh-CV/post/olac-social-network/</link>
       <pubDate>Fri, 09 Sep 2022 14:35:45 +0100</pubDate>
@@ -19657,6 +19903,183 @@ Audrey Smith
     </item>
     
     <item>
+      <title>Website License vs. Content License</title>
+      <link>https://hughandbecky.us/Hugh-CV/post/website-license-vs-content-license/</link>
+      <pubDate>Mon, 24 Apr 2017 14:14:38 -0700</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/post/website-license-vs-content-license/</guid>
+      <description>&lt;p&gt;When considering internet publishing attribution and proper licensing is very important. One important context to make clear is the distinction between the HTML and visual presentation/content layer of a website, the code of a website, and any downloadable objects in a website such as PDFs. Today I was looking at the &lt;em&gt;Rapid Words&lt;/em&gt; website. &lt;em&gt;Rapid Words&lt;/em&gt; is an SIL product and methodology which facilitates a multi-party conversation to quickly discover many words in a language. SIL developed a specific website to promote this methodology and its associated downloadable content. As I review the website, I am wondering several things about the licenses advertised on the RapidWords site. The web-page I am looking at: &lt;a href=&#34;http://www.rapidwords.net/resources/files/rwc-questionnaire&#34;&gt;http://www.rapidwords.net/resources/files/rwc-questionnaire&lt;/a&gt; Screen shots are presented here for ease of access (and permanence).&lt;/p&gt;
+
+
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-bottom-of-page&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/website-license-vs-content-license/Bottom-of-page_hu6da07655c86f6ebcd4582582f273570d_233266_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Bottom of Page&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/website-license-vs-content-license/Bottom-of-page_hu6da07655c86f6ebcd4582582f273570d_233266_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;Image of webpage footer&#34; width=&#34;1920&#34; height=&#34;1080&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;p&gt;Bottom of Page
+      
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;http://www.rapidwords.net/resources/files/rwc-questionnaire&#34;&gt; 
+rapidwords.net (SIL International)
+&lt;/a&gt; &lt;/span&gt;
+&lt;/p&gt;
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-bottom-of-page&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/website-license-vs-content-license/Top-of-page_hu92947ba777579ad27f0550a26096e373_491839_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Bottom of Page&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/website-license-vs-content-license/Top-of-page_hu92947ba777579ad27f0550a26096e373_491839_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;Image of webpage footer&#34; width=&#34;1920&#34; height=&#34;1080&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;p&gt;Bottom of Page
+      
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;http://www.rapidwords.net/resources/files/rwc-questionnaire&#34;&gt; 
+rapidwords.net (SIL International)
+&lt;/a&gt; &lt;/span&gt;
+&lt;/p&gt;
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;In the footer, I see a copyright statement and then a CC-BY-SA license. Many websites who choose to put copyright and license material in the footer are really only referencing the Theme files of their web-page, or the immediately on-screen content. This is very common for open-source themes for WordPress, Drupal, and Joomla. It is unclear to me if this is the case on the RapidWords website. Or is the footer referring to the entire content of the website inclusive of the downloadable content? If it is referring to the theme files, then they ought to be licensed as code not as a creative work according to the Creative Commons Foundation. (The Creative Commons Foundation recommends not using Creative Commons Licenses for code base projects and points to other more appropriate licenses.)&lt;/p&gt;
+&lt;p&gt;When I go the content of the web-page link above (see screens shot), there is a CC license field in the middel of the page. This field is empty and in lieu of a license, I find a copyright statement saying all &amp;ldquo;rights are reserved&amp;rdquo;. So which is it? CC-BY-SA or All rights reserved?&lt;/p&gt;
+
+
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-close-up-of-screen-content&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/website-license-vs-content-license/decalkfgkndojdgc_huf9c93931f5b10e522981e6221644a41f_12481_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Close-up of screen content&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/website-license-vs-content-license/decalkfgkndojdgc_huf9c93931f5b10e522981e6221644a41f_12481_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;Close-up of screen content&#34; width=&#34;518&#34; height=&#34;211&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;p&gt;Close-up of screen content
+      
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;http://www.rapidwords.net/resources/files/rwc-questionnaire&#34;&gt; 
+rapidwords.net (SIL International)
+&lt;/a&gt; &lt;/span&gt;
+&lt;/p&gt;
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;Then when I download the PDF of the content via the PDF button provided the content of the PDF only contains the copyright statement not the CC-BY-SA statement. Further adding confusion because the website is offering a PDF to me but then saying that the PDF is &amp;ldquo;all rights reserved&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;Also, when one downloads the resources under the resource section the resources do not have a license statement in them (I would have expected a copyright and a license statement in the footer of each printable page in the downloaded document).
+Because there is a footer on the web-page with a CC license, is the website user to assume that these download able resources are CC-BY-SA?&lt;/p&gt;
+&lt;p&gt;Organizations can avoid sending mixed messages to their constituency by clearly marking who is the copyright holder, on websites &lt;em&gt;and&lt;/em&gt; the content those websites contain. Organizational policies related to web-publishing should include editorial checks for these sorts of issues.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Language Survey</title>
       <link>https://hughandbecky.us/Hugh-CV/post/language-survey/</link>
       <pubDate>Sat, 27 Aug 2016 18:20:45 +0100</pubDate>
@@ -20249,6 +20672,16 @@ Note: This workflow would later be used in both:&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;/section&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Which license and why?</title>
+      <link>https://hughandbecky.us/Hugh-CV/post/and-why-that-license/</link>
+      <pubDate>Sun, 22 Dec 2013 14:35:45 +0100</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/post/and-why-that-license/</guid>
+      <description>&lt;p&gt;Part of organizational growth is the ability to project consistency while still retaining felxibility. However, in cases of institutional learning, especially where staff are cyclical, the context of organizational choices must be made clear for memory.&lt;/p&gt;
+&lt;p&gt;Over the years SIL International has published many pieces of software. Often under liberal licenses. In the case of fonts, no suitable license existed and so SIL developed the &lt;em&gt;Open Font License&lt;/em&gt;, which went on to become an de facto standard within the font producing community. In reflection, it occurs to me that every time a new license is produced it is done as a response to a social context. That is, society has delivered a certain set of norms or reactions to existing ownership and licensing practices. It also occurs to me that with each new license created that there is an increased availability of licensing options to potential license users. I was recently reading over SIL International&amp;rsquo;s LSDev&amp;rsquo;s &amp;ldquo;literature&amp;rdquo; or summary on why they are licensing their products a certain way (LSDev is a different sub-organizational group than the one which developed the &lt;em&gt;Open Font License&lt;/em&gt;). I repeatedly found the phrase (or something like it): &amp;ldquo;This was the best license to meet SIL&amp;rsquo;s goals&amp;hellip;&amp;rdquo; the bone I have to pick is that as a social group or organization, SIL&amp;rsquo;s &amp;ldquo;goals&amp;rdquo; are going to change and have changed. Rather than point to vague referencing terminology (which face being interpreted differently over time, even though the words might not change), these goals should be outlined in such documents. This is the same kind of linking to business reasons that are required (but often missing) for UX documentation. Often times our documentation includes what was done, but not why we did it. When writing documentation we out to strive to include enough of the context to make it clear for organizational learning as well as to determine at some future time if the social context and/or goals of our business has changed enough to warrant a reassessment of our past actions.&lt;/p&gt;
 </description>
     </item>
     
@@ -23663,35 +24096,6 @@ Hugh Paterson III
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;/section&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://hughandbecky.us/Hugh-CV/post/drafts-first-order/a-new-look-at-sil-relationships-with-academics/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://hughandbecky.us/Hugh-CV/post/drafts-first-order/a-new-look-at-sil-relationships-with-academics/</guid>
-      <description>&lt;p&gt;SIL has traditionally been very involved with language communities. SIL has even developed statements like:&lt;/p&gt;
-&lt;p&gt;SIL serves language communities worldwide, building their capacity for sustainable language development, by means of research, translation, training and materials development.&lt;/p&gt;
-&lt;p&gt;When I worked on the staff of the Americas Area (2010-2012), there was a concerted effort to move out of directly working with minority language groups (communities), and to rather focus on developing organizations which will directly engage with language communities. This was not just a by product of our (AMA) operations, it was a strategic management decision. It means moving the mentality of SIL staff from thinking about products and services for language communities to thinking about engaging and delivering products and services to organizations and individuals who will then engage language communities.&lt;/p&gt;
-&lt;p&gt;SIL has long had a relationship with the academic community, that relationship has been both challenging and fruitful at the same time. Today, many SIL consultants are grown through the consultant&amp;rsquo;s participation in the academic community (Ph.D. studies, M.A. Studies, post doc fellowships, NSF Fellowships, etc.). As these linguistic professionals enter service as SIL staff, they also bring with them much learned perspective from academia (be that processes like research methods, or social governance, or worldview, or a learned taste for perfectionism). This has often resulted in products which are &amp;ldquo;academic&amp;rdquo; in nature, be they grammars, dictionaries, or papers. It often falls to SIL administrators to balance the drives of these academia oriented staff with the goals of SIL as a Language Development Organization, and the goals of SIL&amp;rsquo;s primary funders which are Bible Translation sponsors. Sometimes this puts academia in a certain &amp;ldquo;box&amp;rdquo; for how SIL relates to the academic word at an organizational level. That is, individual SIL staff are open (and encouraged) to have working relationships with other academics, but neither academics nor academia have not a major focus for influencing the language development activities at a global scale.&lt;/p&gt;
-&lt;p&gt;I wonder, if not treating academia as a community with targeted impact is a liability for SIL. That is, by not attempting to provide services to academics, does SIL run the risk of making itself irrelevant or unknown to one of the most globally active networks of language development persons. I think this means that SIL needs to consider academics not in the light that it has in the past, but rather as an amebic partner, which will though SIL&amp;rsquo;s direct engagement with their community indirectly impact the communities SIL has historically endeavored to impact.&lt;/p&gt;
-&lt;p&gt;So we (in SIL Services) need to not only think about our professional acquaintances who are academics, but to think about academia as a community which if we engage directly will cause desired impacts in our traditionally impacted language communities.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://hughandbecky.us/Hugh-CV/post/drafts-first-order/and-why-that-license/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://hughandbecky.us/Hugh-CV/post/drafts-first-order/and-why-that-license/</guid>
-      <description>&lt;p&gt;Blog 2013 December 22
-Skip to end of banner
-Analytics
-Go to start of banner
-Which license and why?&lt;/p&gt;
-&lt;p&gt;ori: &lt;a href=&#34;https://gateway.sil.org/pages/viewpage.action?pageId=125010906&#34;&gt;https://gateway.sil.org/pages/viewpage.action?pageId=125010906&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;It occurs to me that every time a new license is produced it is done as a response to a social context. That is, Society has delivered a certain set of norms or reactions to existing ownership and licensing practices. It also occurs to me that with each new license created that there is an increased availability of licensing options to potential license users. I was recently reading over LSDev&amp;rsquo;s &amp;ldquo;literature&amp;rdquo; or summary on why they are licensing their products a certain way. I repeatedly found the phrase (or something like it): &amp;ldquo;This was the best license to meet SIL&amp;rsquo;s goals&amp;rdquo;&amp;hellip; the bone I have to pick is that as a social group or organization, SIL&amp;rsquo;s &amp;ldquo;goals&amp;rdquo; are going to change and have changed. Rather than point to vague referencing terminology (which face being interpreted differently over time, even though the words might change), these goals should be outlined in such documents. This is the same kind of linking to business reasons that are required (but often missing) for UX documentation. Often times our documentation includes what was done, but not why we did it.&lt;/p&gt;
 </description>
     </item>
     
