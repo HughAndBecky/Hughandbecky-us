@@ -5,12 +5,530 @@
     <link>https://hughandbecky.us/Hugh-CV/post/</link>
       <atom:link href="https://hughandbecky.us/Hugh-CV/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2022</copyright><lastBuildDate>Tue, 20 Sep 2022 14:35:45 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2022</copyright><lastBuildDate>Sat, 24 Sep 2022 14:35:45 +0100</lastBuildDate>
     <image>
       <url>https://hughandbecky.us/Hugh-CV/media/HughPaterson.jpg</url>
       <title>Posts</title>
       <link>https://hughandbecky.us/Hugh-CV/post/</link>
     </image>
+    
+    <item>
+      <title>OLAC Term Consolidation</title>
+      <link>https://hughandbecky.us/Hugh-CV/post/olac-term-consolidation/</link>
+      <pubDate>Sat, 24 Sep 2022 14:35:45 +0100</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/post/olac-term-consolidation/</guid>
+      <description>&lt;p&gt;Today I was reminded of a situation in OLAC where DCMITypes terms, which ought to be members of a controlled vocabulary are showing up in OLAC with variations. This is due to data providers providing different variations or performing different text transformations on the metadata sent to OLAC. This variation presents challenges to users because the metadata does not pattern correctly in faceted searches. This problem can be solved with server side data consistency checks and normalization transformations. This is demonstrated by 
+
+
+
+
+
+
+
+&lt;span class=&#34;hugo-cite-intext&#34;
+        itemprop=&#34;citation&#34;&gt;(&lt;a href=&#34;#lynch_2020&#34;&gt;&lt;span class=&#34;visually-hidden&#34;&gt;Citation: &lt;/span&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;meta itemprop=&#34;givenName&#34; content=&#34;Joshua D.&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Lynch&lt;/span&gt;&lt;/span&gt;
+      &lt;em&gt;et al.&lt;/em&gt;,&amp;#32;
+      &lt;span itemprop=&#34;datePublished&#34;&gt;2020&lt;/span&gt;&lt;/a&gt;)
+    &lt;span class=&#34;hugo-cite-citation&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Lynch&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Joshua D.&#34; /&gt;
+    J.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Gibson&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Jessica&#34; /&gt;
+    J.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Han&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Myung-Ja&#34; /&gt;
+    M.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2020&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;Analyzing and Normalizing Type Metadata for a Large Aggregated Digital Library&lt;/span&gt;.&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;The Code4Lib Journal&lt;/span&gt;,&amp;#32;47&lt;/i&gt;.&amp;#32;Retrieved from&amp;#32;
+  &lt;a href=&#34;https://journal.code4lib.org/articles/14995&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://journal.code4lib.org/articles/14995&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/span&gt;&lt;/span&gt;
+.&lt;/p&gt;
+&lt;p&gt;The following table taken from OLAC aggregated metadata shows the degree of variation in the following terms: &lt;em&gt;Image&lt;/em&gt;, &lt;em&gt;MovingImage&lt;/em&gt;, &lt;em&gt;Sound&lt;/em&gt;, and &lt;em&gt;Text&lt;/em&gt;.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;center&#34;&gt;DCMIType&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;Count&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;Problem&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Collection ‎&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;(843)&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Dataset&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;‎(5919)&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Event&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;(54)&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Image&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;(1605)&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;image&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;‎(63)&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Lacks upper-case initial letter&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;InteractiveResource&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;‎(13)&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Moving Image&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;(1)&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Should be a single word&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;MovingImage&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;‎(63055)&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;movingimage&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;(4)&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Lacks upper-case initial letter in each lexical component&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;PhysicalObject&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;(16)&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Software&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;(526)&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Sound&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;(134923)&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;sound&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;(4)&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Lacks upper-case initial letter&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;StillImage&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;(7692)&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Text ‎&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;(198870)&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;text&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;(65)&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Lacks upper-case initial letter&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-screenshot-of-dcmitype-metadata&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/olac-term-consolidation/OLAC-DCMITypes_hu4186249c5d4dbeb42df841edc39557cb_38035_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Screenshot of DCMIType metadata&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/olac-term-consolidation/OLAC-DCMITypes_hu4186249c5d4dbeb42df841edc39557cb_38035_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;Screenshot of DCMIType metadata&#34; width=&#34;713&#34; height=&#34;387&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;p&gt;Screenshot of DCMIType metadata
+      
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;http://dla.library.upenn.edu/dla/olac/browse.html?browse=dcmi_type_facet&amp;amp;&#34;&gt; 
+OLAC metadata screenshot on 24 September 2022 by Hugh Paterson III
+&lt;/a&gt; &lt;/span&gt;
+&lt;/p&gt;
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;h2 id=&#34;bibliography&#34;&gt;Bibliography&lt;/h2&gt;
+
+  
+
+  
+
+
+
+
+
+
+
+
+
+
+&lt;section class=&#34;hugo-cite-bibliography&#34;&gt;
+  &lt;dl&gt;
+    
+
+      &lt;div id=&#34;lynch_2020&#34;&gt;
+        &lt;dt&gt;
+          Lynch,&amp;#32;
+          Gibson&amp;#32;&amp;amp;&amp;#32;Han
+
+          
+          (2020)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Lynch&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Joshua D.&#34; /&gt;
+    J.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Gibson&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Jessica&#34; /&gt;
+    J.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Han&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Myung-Ja&#34; /&gt;
+    M.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2020&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;Analyzing and Normalizing Type Metadata for a Large Aggregated Digital Library&lt;/span&gt;.&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;The Code4Lib Journal&lt;/span&gt;,&amp;#32;47&lt;/i&gt;.&amp;#32;Retrieved from&amp;#32;
+  &lt;a href=&#34;https://journal.code4lib.org/articles/14995&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://journal.code4lib.org/articles/14995&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+  &lt;/dl&gt;
+&lt;/section&gt;
+
+
+
+</description>
+    </item>
+    
+    <item>
+      <title>OLAC Customer Segments</title>
+      <link>https://hughandbecky.us/Hugh-CV/post/olac-customer-segments/</link>
+      <pubDate>Wed, 21 Sep 2022 14:35:45 +0100</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/post/olac-customer-segments/</guid>
+      <description>&lt;p&gt;There are several paths to website development. Behind every website is an idea, behind successful websites are ideas which have undergone testing and experimentation. The first step in creating a testable hypothesis is to document that proposal and then to set out to test it. Websites can embody business ideas and in some cases business tools like the business model canvas can give a &amp;ldquo;first stab&amp;rdquo; look at how different constituents might engage with different components of a website. Eventually, for a well tested website one would want to create user cards and define user pathways through the website as they accomplish user interaction goals on the website. This is generally accepted as good practice in user experience design. Once these pathways are documented and the user actions documented and enabled then testing with real users can commence.&lt;/p&gt;
+&lt;p&gt;What follows here is my first stab at the types of users which are assumed to use the Open Language Archives Community aggregator website. My breakdown of users here will differ Bird and Simon&amp;rsquo;s 2022 article: &lt;em&gt;The Open Language Archives Community: A 20-year update&lt;/em&gt; published in &lt;em&gt;The Electronic Library&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;I present my diagrams using the 
+&lt;a href=&#34;https://www.strategyzer.com/canvas/business-model-canvas&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Business Model Canvas&lt;/a&gt; tool, but I am only addressing the basic constituents which can also be found in the simpler 
+&lt;a href=&#34;https://www.strategyzer.com/canvas/value-proposition-canvas&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Value Proposition Canvas&lt;/a&gt;. With regard to these basic constituents some of the points made in Bird and Simons 2022 article fit well with some of the &amp;ldquo;gains&amp;rdquo; type statements expected on that canvas. I&amp;rsquo;m not interested in those statements at this time, but they are important. Rather I want to sus-out how many different classes of constituents there actually are engaging with the website.&lt;/p&gt;
+&lt;p&gt;My inital guess is that there are at least five clear constituenties which are interested in interactions on the OLAC website. I outline these as follows:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;em&gt;End-User Browser People&lt;/em&gt; These are real people who come to the site looking to access resources from data providers.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Submitter Technologists People&lt;/em&gt; These are real people who come to the site to work with the tools to check their data feeds and submit data to the website.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Data Researchers&lt;/em&gt; These are real people who come to the site to research the status of resource availability. They are not looking to acquire resources, only to answer questions regarding the nature of the existance of things.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Data Harvesters&lt;/em&gt; These are machines which pull from select data points advertised. One example of this is how Worldcat (OCLC) harvests from OLAC via OAI.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Search Engines — SEO&lt;/em&gt; These are machines which are programmed to crawl the webpages of OLAC&amp;rsquo;s web interface and index it for some purpose — generally for aggregation in another search interface. An example of this might be Google via the googlebot.&lt;/li&gt;
+&lt;/ol&gt;
+
+
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-the-five-classes-of-constituents&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/olac-customer-segments/basic-constituents_hu4f6154890ea88ac09b021b2d314d85e2_38565_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;The five classes of constituents&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/olac-customer-segments/basic-constituents_hu4f6154890ea88ac09b021b2d314d85e2_38565_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;The five classes of constituents on a buisess model canvas&#34; width=&#34;837&#34; height=&#34;606&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;p&gt;The five classes of constituents
+      
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;https://hugh4.us&#34;&gt; 
+Hugh Paterson III
+&lt;/a&gt; &lt;/span&gt;
+&lt;/p&gt;
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;If we were to draw users pathways for this web experience we would want to identify each of the tasks of each person and then map that to feature and URLs. In this post I am only going to be looking at data types. That is, the kinds of data that each of the constituents desires to interact with or obtain.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Currently End-user engage with a web-interface which is written in HTML 3.2.&lt;/li&gt;
+&lt;li&gt;Submitter technologists also engage with HTML 3.2 based forms.&lt;/li&gt;
+&lt;li&gt;Data researchers can engage with and download the XML original, the XML OLAC version, they can also download some RDF style version of the data. These &amp;ldquo;data dumps&amp;rdquo; then also support programatic access.&lt;/li&gt;
+&lt;li&gt;Unique for programatic access is the OAI interface.&lt;/li&gt;
+&lt;li&gt;Search engines currently must use HTTP and encounter HTML 3.2.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-data-expressions-in-indicated-as-channels-in-the-bmc&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/olac-customer-segments/Channels_hua2e42e196fdfbe41d08fa11c77e312ed_42619_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Data Expressions in indicated as channels in the BMC&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/olac-customer-segments/Channels_hua2e42e196fdfbe41d08fa11c77e312ed_42619_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;Data Expressions in indicated as channels in the BMC.&#34; width=&#34;836&#34; height=&#34;616&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;p&gt;Data Expressions in indicated as channels in the BMC
+      
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;https://hugh4.us&#34;&gt; 
+Hugh Paterson III
+&lt;/a&gt; &lt;/span&gt;
+&lt;/p&gt;
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;In the next image I write down some of the positive reasons that people come to the website. That is, the value they come to the site to recieve. My interpretation is that the following reasons exist for each of the constituenties:&lt;/p&gt;
+
+
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-value-proposition-statements&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/olac-customer-segments/vps_hu94d96e08112c6484dbebdf8709e4b64a_54817_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Value Proposition Statements&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/olac-customer-segments/vps_hu94d96e08112c6484dbebdf8709e4b64a_54817_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;Value Proposition Statements in the BMC.&#34; width=&#34;827&#34; height=&#34;610&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;p&gt;Value Proposition Statements
+      
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;https://hugh4.us&#34;&gt; 
+Hugh Paterson III
+&lt;/a&gt; &lt;/span&gt;
+&lt;/p&gt;
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-where-technology-needs-to-change-to-continue-to-deliver-value&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/olac-customer-segments/OLAC-full_hu7e050f84c9d8e6228ce72f09cd6a63c3_68467_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Where technology needs to change to continue to deliver value&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/olac-customer-segments/OLAC-full_hu7e050f84c9d8e6228ce72f09cd6a63c3_68467_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;Technology changes needed.&#34; width=&#34;1090&#34; height=&#34;612&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;p&gt;Where technology needs to change to continue to deliver value
+      
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;https://hugh4.us&#34;&gt; 
+Hugh Paterson III
+&lt;/a&gt; &lt;/span&gt;
+&lt;/p&gt;
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Name Authority Records and Personally Identifying Information</title>
@@ -461,252 +979,6 @@ used instead, thereby fulfilling the promise of linked data. Both Billey and Ser
 &lt;/section&gt;
 
 
-
-</description>
-    </item>
-    
-    <item>
-      <title>OLAC Customer Segments</title>
-      <link>https://hughandbecky.us/Hugh-CV/post/olac-customer-segments/</link>
-      <pubDate>Fri, 09 Sep 2022 14:35:45 +0100</pubDate>
-      <guid>https://hughandbecky.us/Hugh-CV/post/olac-customer-segments/</guid>
-      <description>&lt;p&gt;There are several paths to website development. Behind every website is an idea, behind successful websites are ideas which have undergone testing and experimentation. The first step in creating a testable hypothesis is to document that proposal and then to set out to test it. Websites can embody business ideas and in some cases business tools like the business model canvas can give a &amp;ldquo;first stab&amp;rdquo; look at how different constituents might engage with different components of a website. Eventually, for a well tested website one would want to create user cards and define user pathways through the website as they accomplish user interaction goals on the website. This is generally accepted as good practice in user experience design. Once these pathways are documented and the user actions documented and enabled then testing with real users can commence.&lt;/p&gt;
-&lt;p&gt;What follows here is my first stab at the types of users which are assumed to use the Open Language Archives Community aggregator website. My breakdown of users here will differ Bird and Simon&amp;rsquo;s 2022 article: &lt;em&gt;The Open Language Archives Community: A 20-year update&lt;/em&gt; published in &lt;em&gt;The Electronic Library&lt;/em&gt;.&lt;/p&gt;
-&lt;p&gt;I present my diagrams using the 
-&lt;a href=&#34;https://www.strategyzer.com/canvas/business-model-canvas&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Business Model Canvas&lt;/a&gt; tool, but I am only addressing the basic constituents which can also be found in the simpler 
-&lt;a href=&#34;https://www.strategyzer.com/canvas/value-proposition-canvas&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Value Proposition Canvas&lt;/a&gt;. With regard to these basic constituents some of the points made in Bird and Simons 2022 article fit well with some of the &amp;ldquo;gains&amp;rdquo; type statements expected on that canvas. I&amp;rsquo;m not interested in those statements at this time, but they are important. Rather I want to sus-out how many different classes of constituents there actually are engaging with the website.&lt;/p&gt;
-&lt;p&gt;My inital guess is that there are at least five clear constituenties which are interested in interactions on the OLAC website. I outline these as follows:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;em&gt;End-User Browser People&lt;/em&gt; These are real people who come to the site looking to access resources from data providers.&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Submitter Technologists People&lt;/em&gt; These are real people who come to the site to work with the tools to check their data feeds and submit data to the website.&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Data Researchers&lt;/em&gt; These are real people who come to the site to research the status of resource availability. They are not looking to acquire resources, only to answer questions regarding the nature of the existance of things.&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Data Harvesters&lt;/em&gt; These are machines which pull from select data points advertised. One example of this is how Worldcat (OCLC) harvests from OLAC via OAI.&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Search Engines — SEO&lt;/em&gt; These are machines which are programmed to crawl the webpages of OLAC&amp;rsquo;s web interface and index it for some purpose — generally for aggregation in another search interface. An example of this might be Google via the googlebot.&lt;/li&gt;
-&lt;/ol&gt;
-
-
-
-
-
-
-
-
-  
-
-
-
-  
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure id=&#34;figure-the-five-classes-of-constituents&#34;&gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/olac-customer-segments/basic-constituents_hu4f6154890ea88ac09b021b2d314d85e2_38565_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;The five classes of constituents&#34;&gt;
-
-
-  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/olac-customer-segments/basic-constituents_hu4f6154890ea88ac09b021b2d314d85e2_38565_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;The five classes of constituents on a buisess model canvas&#34; width=&#34;837&#34; height=&#34;606&#34;&gt;
-&lt;/a&gt;
-
-
-  
-  
-  &lt;figcaption&gt;
-    &lt;p&gt;The five classes of constituents
-      
-&lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;https://hugh4.us&#34;&gt; 
-Hugh Paterson III
-&lt;/a&gt; &lt;/span&gt;
-&lt;/p&gt;
-  &lt;/figcaption&gt;
-
-
-&lt;/figure&gt;
-
-&lt;p&gt;If we were to draw users pathways for this web experience we would want to identify each of the tasks of each person and then map that to feature and URLs. In this post I am only going to be looking at data types. That is, the kinds of data that each of the constituents desires to interact with or obtain.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Currently End-user engage with a web-interface which is written in HTML 3.2.&lt;/li&gt;
-&lt;li&gt;Submitter technologists also engage with HTML 3.2 based forms.&lt;/li&gt;
-&lt;li&gt;Data researchers can engage with and download the XML original, the XML OLAC version, they can also download some RDF style version of the data. These &amp;ldquo;data dumps&amp;rdquo; then also support programatic access.&lt;/li&gt;
-&lt;li&gt;Unique for programatic access is the OAI interface.&lt;/li&gt;
-&lt;li&gt;Search engines currently must use HTTP and encounter HTML 3.2.&lt;/li&gt;
-&lt;/ul&gt;
-
-
-
-
-
-
-
-
-  
-
-
-
-  
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure id=&#34;figure-data-expressions-in-indicated-as-channels-in-the-bmc&#34;&gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/olac-customer-segments/Channels_hua2e42e196fdfbe41d08fa11c77e312ed_42619_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Data Expressions in indicated as channels in the BMC&#34;&gt;
-
-
-  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/olac-customer-segments/Channels_hua2e42e196fdfbe41d08fa11c77e312ed_42619_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;Data Expressions in indicated as channels in the BMC.&#34; width=&#34;836&#34; height=&#34;616&#34;&gt;
-&lt;/a&gt;
-
-
-  
-  
-  &lt;figcaption&gt;
-    &lt;p&gt;Data Expressions in indicated as channels in the BMC
-      
-&lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;https://hugh4.us&#34;&gt; 
-Hugh Paterson III
-&lt;/a&gt; &lt;/span&gt;
-&lt;/p&gt;
-  &lt;/figcaption&gt;
-
-
-&lt;/figure&gt;
-
-&lt;p&gt;In the next image I write down some of the positive reasons that people come to the website. That is, the value they come to the site to recieve.&lt;/p&gt;
-
-
-
-
-
-
-
-
-  
-
-
-
-  
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure id=&#34;figure-value-proposition-statements&#34;&gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/olac-customer-segments/vps_hu94d96e08112c6484dbebdf8709e4b64a_54817_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Value Proposition Statements&#34;&gt;
-
-
-  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/olac-customer-segments/vps_hu94d96e08112c6484dbebdf8709e4b64a_54817_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;Value Proposition Statements in the BMC.&#34; width=&#34;827&#34; height=&#34;610&#34;&gt;
-&lt;/a&gt;
-
-
-  
-  
-  &lt;figcaption&gt;
-    &lt;p&gt;Value Proposition Statements
-      
-&lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;https://hugh4.us&#34;&gt; 
-Hugh Paterson III
-&lt;/a&gt; &lt;/span&gt;
-&lt;/p&gt;
-  &lt;/figcaption&gt;
-
-
-&lt;/figure&gt;
-
-
-
-
-
-
-
-
-
-  
-
-
-
-  
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure id=&#34;figure-where-technology-needs-to-change-to-continue-to-deliver-value&#34;&gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/olac-customer-segments/OLAC-full_hu7e050f84c9d8e6228ce72f09cd6a63c3_68467_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Where technology needs to change to continue to deliver value&#34;&gt;
-
-
-  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/olac-customer-segments/OLAC-full_hu7e050f84c9d8e6228ce72f09cd6a63c3_68467_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;Technology changes needed.&#34; width=&#34;1090&#34; height=&#34;612&#34;&gt;
-&lt;/a&gt;
-
-
-  
-  
-  &lt;figcaption&gt;
-    &lt;p&gt;Where technology needs to change to continue to deliver value
-      
-&lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;https://hugh4.us&#34;&gt; 
-Hugh Paterson III
-&lt;/a&gt; &lt;/span&gt;
-&lt;/p&gt;
-  &lt;/figcaption&gt;
-
-
-&lt;/figure&gt;
 
 </description>
     </item>
@@ -3038,6 +3310,322 @@ Mine was located at: &lt;code&gt;/opt/xxe-perso-7_6_0/bin/saxon.jar&lt;/code&gt;
 &lt;p&gt;I then needed to change where I told Saxon the files were located. In my case I coppied the &lt;code&gt;.xsl&lt;/code&gt; files to their own folder within my project folder for simpler operation.&lt;/p&gt;
 &lt;p&gt;There are other &lt;code&gt;.xsl&lt;/code&gt; files for transforming FLExTexts to interlinear files in XLingPaper. These can be seen by using &lt;code&gt;locate&lt;/code&gt; or in the official repo:
 Check for the other files in the official FLEx repo at: &lt;a href=&#34;https://gerrit.lsdev.sil.org/admin/repos/FieldWorks,&#34;&gt;https://gerrit.lsdev.sil.org/admin/repos/FieldWorks,&lt;/a&gt; or specifically look at XLingPaper export xsl transforms as discussed in their origional merge into the FLEx project: &lt;a href=&#34;https://gerrit.lsdev.sil.org/c/FieldWorks/+/1961&#34;&gt;https://gerrit.lsdev.sil.org/c/FieldWorks/+/1961&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Roles for Learning Resources</title>
+      <link>https://hughandbecky.us/Hugh-CV/post/learning-resources-roles/</link>
+      <pubDate>Wed, 21 Apr 2021 01:41:38 -0700</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/post/learning-resources-roles/</guid>
+      <description>&lt;p&gt;Via the 
+&lt;a href=&#34;https://groups.google.com/g/lrmi/c/H9RWX7xWjoE/m/hLOL6414AQAJ?utm_medium=email&amp;amp;utm_source=footer&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LRMI mailing list&lt;/a&gt; the point was made that, in cases where the Open Educational Resources are made by a larger team it is important to distinguish who is the illustrator, who is the editor, who is responsible for the writing, who is the translator and so on. Right now there is no vocabulary existing usable for learning resources (at least not at LRMI). LRMI for roles when expressed in schema.org can rely on role declaration strategies in schama.org. (One such strategy is 
+&lt;a href=&#34;https://github.com/ESIPFed/science-on-schema.org/blob/master/guides/Dataset.md#roles-of-people&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;used by science-on-schema&lt;/a&gt;.) However, it is a great question whether LRMI should declare its own roles. Following the discussion on the mailing list I put together this chart. Still to be added to this chart are concepts from 
+
+
+
+
+
+
+
+&lt;span class=&#34;hugo-cite-intext&#34;
+        itemprop=&#34;citation&#34;&gt;(&lt;a href=&#34;#johnson_1998&#34;&gt;&lt;span class=&#34;visually-hidden&#34;&gt;Citation: &lt;/span&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;meta itemprop=&#34;givenName&#34; content=&#34;Francis&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Johnson&lt;/span&gt;&lt;/span&gt;
+      &lt;em&gt;et al.&lt;/em&gt;,&amp;#32;
+      &lt;span itemprop=&#34;datePublished&#34;&gt;1998&lt;/span&gt;&lt;/a&gt;)
+    &lt;span class=&#34;hugo-cite-citation&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Johnson&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Francis&#34; /&gt;
+    F.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Delarche&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Marion&#34; /&gt;
+    M.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Marshall&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Nicholas&#34; /&gt;
+    N.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Wurr&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Adrian&#34; /&gt;
+    A.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Edwards&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Jeffrey&#34; /&gt;
+    J.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;1998&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;Changing Teacher Roles in the Foreign Language Classroom&lt;/span&gt;.&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;Texas Papers in Foreign Language Education&lt;/span&gt;,&amp;#32;3(2)&lt;/i&gt;.&amp;#32;&lt;span itemprop=&#34;pagination&#34;&gt;71–89&lt;/span&gt;.&amp;#32;Retrieved from&amp;#32;
+  &lt;a href=&#34;https://eric.ed.gov/?id=ED423676&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://eric.ed.gov/?id=ED423676&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/span&gt;&lt;/span&gt;
+.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;LOM:&lt;/li&gt;
+&lt;li&gt;MARC: &lt;a href=&#34;https://www.loc.gov/marc/relators/relaterm.html&#34;&gt;https://www.loc.gov/marc/relators/relaterm.html&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Dublin Core: &lt;a href=&#34;https://www.dublincore.org/specifications/dublin-core/relators/&#34;&gt;https://www.dublincore.org/specifications/dublin-core/relators/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;CRediT: &lt;a href=&#34;https://credit.niso.org/&#34;&gt;https://credit.niso.org/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Schema.org:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;center&#34;&gt;&lt;strong&gt;LOM&lt;/strong&gt;&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;&lt;strong&gt;MARC&lt;/strong&gt;&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;&lt;strong&gt;DC&lt;/strong&gt;&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;&lt;strong&gt;CRediT&lt;/strong&gt;&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;&lt;strong&gt;Schema.org&lt;/strong&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;author&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Author [aut]&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Writing (original draft)&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;publisher&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Publisher [pbl]&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;unknown&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;initiator&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Conceptualization (?)&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;terminator&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;validator&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;editor&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Editor [edt]&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Writing (review and editing)&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;graphical designer&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Artist [art] / Illustrator&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;visualization&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;technical implementer&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Typographer [tyg]&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;content provider&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;technical validator&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;educational validator&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Validation (scope is wider)&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;script writer&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Author of dialog [aud]&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;instructional designer&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;subject matter expert&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Expert [exp]&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Project administrator&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Data curation&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;software&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;investigation&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;supervision&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;translator&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Metadata contact&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;bibliography&#34;&gt;Bibliography&lt;/h2&gt;
+
+  
+
+  
+
+
+
+
+
+
+
+
+
+
+&lt;section class=&#34;hugo-cite-bibliography&#34;&gt;
+  &lt;dl&gt;
+    
+
+      &lt;div id=&#34;johnson_1998&#34;&gt;
+        &lt;dt&gt;
+          Johnson,&amp;#32;
+          Delarche,&amp;#32;
+          Marshall,&amp;#32;
+          Wurr&amp;#32;&amp;amp;&amp;#32;Edwards
+
+          
+          (1998)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Johnson&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Francis&#34; /&gt;
+    F.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Delarche&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Marion&#34; /&gt;
+    M.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Marshall&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Nicholas&#34; /&gt;
+    N.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Wurr&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Adrian&#34; /&gt;
+    A.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Edwards&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Jeffrey&#34; /&gt;
+    J.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;1998&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;Changing Teacher Roles in the Foreign Language Classroom&lt;/span&gt;.&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;Texas Papers in Foreign Language Education&lt;/span&gt;,&amp;#32;3(2)&lt;/i&gt;.&amp;#32;&lt;span itemprop=&#34;pagination&#34;&gt;71–89&lt;/span&gt;.&amp;#32;Retrieved from&amp;#32;
+  &lt;a href=&#34;https://eric.ed.gov/?id=ED423676&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://eric.ed.gov/?id=ED423676&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+  &lt;/dl&gt;
+&lt;/section&gt;
+
+
+
 </description>
     </item>
     
@@ -21505,6 +22093,394 @@ Hugh Paterson III
 
 
 &lt;/figure&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Socio-linguistic Profiles for Language Documentation</title>
+      <link>https://hughandbecky.us/Hugh-CV/post/socio-linguistic-profiles-for-language-documentation/</link>
+      <pubDate>Thu, 23 Aug 2012 01:41:38 -0700</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/post/socio-linguistic-profiles-for-language-documentation/</guid>
+      <description>&lt;p&gt;Some researchers in linguistics (in my acquaintance) have been less than excited about the notion of asking for socio-linguistic data or socio-personal data from language informants. The objection has been that it is just bad form. While I am a great advocate of personal privacy (especially in digital formats), I see that one of the most informative parts of the language documentation process is understanding who the speakers being recording or being worked with are. Language variation is fundamentally connected with identity. While crucial elements of how a community segments itself along identity lines may not be known for several years, having a robust socio-cultural or socio-personal questionnaire about the language informants will later help place the documentation data in perspective of the larger waves of variation in the community.&lt;/p&gt;
+&lt;p&gt;This is to say, I am thoroughly convinced that a socio-linguistic questionnaire is important as part of the language documentation process. It might not need to be done first, but it will help researchers and future users of archived material understand where to place these speech samples in context of that speakers society.&lt;/p&gt;
+&lt;p&gt;One outstanding question, and one with a variable answer is how to appropriately approach the questions in the questionnaire. &lt;em&gt;Should the questionnaire be approached formally? Or should it be asked in conversational format? Should it be elicited digitally?&lt;/em&gt; One of the interesting things about eliciting things digitally is that they may have the appearance to be less intrusive because they are appear less formal. While I have no empirical evidence based on years of cross-cultural work, I do have the Facebook phenomena. That is, minority-language users all over the world are using Facebook. And Facebook is collection (and allowing the users to volunteer) and then verifying the users&amp;rsquo; provided data. Granted it is completly probable that many of these minority-language users do not understand or appreciate the impact of Facebook&amp;rsquo;s data elicitation scheme. So while the fact that Facebook is collectiong personally identifying information about people and their online habbits doesn&amp;rsquo;t mean that the field of language documentation doesn&amp;rsquo;t need to grapple with this issue, it does reset the social understanding of what is &amp;ldquo;normal&amp;rdquo;.&lt;/p&gt;
+
+
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-facebook-user-base-graph-from-2010&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/socio-linguistic-profiles-for-language-documentation/Facebook-mapping-image_hu0aef8681ee99a41516320eb7e1527399_2066885_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Facebook User Base Graph from 2010&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/socio-linguistic-profiles-for-language-documentation/Facebook-mapping-image_hu0aef8681ee99a41516320eb7e1527399_2066885_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;Facebook User Base Graph from 2010&#34; width=&#34;1600&#34; height=&#34;797&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;p&gt;Facebook User Base Graph from 2010
+      
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: 
+Facebook
+&lt;/span&gt;
+&lt;/p&gt;
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;Below is a list of elements which Facebook is collecting (it is also collecting log-in locations and times). So, some of these questions are certainly in-scope of what language documenters would minimally like to know about their indigenous language speaking informants and collaborators. Others of these questions are certainly not in-scope for the recommended socio-linguistic profile from language documenters or socio-linguists.&lt;/p&gt;
+&lt;h3 id=&#34;facebook-data-catagories-on-user-profiles&#34;&gt;FaceBook data catagories on user profiles&lt;/h3&gt;
+&lt;p&gt;Data Facebook Collects about users through their profile and activities. from: &lt;a href=&#34;https://www.facebook.com/help/326826564067688&#34;&gt;&lt;a href=&#34;https://www.facebook.com/help/326826564067688&#34;&gt;https://www.facebook.com/help/326826564067688&lt;/a&gt;&lt;/a&gt; on 23 August 2012.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;center&#34;&gt;&lt;strong&gt;What info is available?&lt;/strong&gt;&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;&lt;strong&gt;What is it?&lt;/strong&gt;&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;&lt;strong&gt;Where can I find it?&lt;/strong&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;About Me&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Information you added to the About section of your timeline like relationships, work, education, where you live and more. It includes any updates or changes you made in the past and what’s currently in the About section of your timeline.&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Activity Log&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Account Status History&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;The dates when your account was reactivated, deactivated, disabled or deleted.&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Expanded Archive&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Address&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Your current address or any past addresses you had on your account.&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Expanded Archive&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Alternate Name&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Any alternate names you have on your account (ex: a maiden name or a nickname).&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Expanded Archive&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Apps&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;All of the apps you subscribe to.&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Expanded Archive&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Birthday Visibility&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;How your birthday appears on your timeline.&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Expanded Archive&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Chat&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;A history of the conversations you’ve had on Facebook Chat.&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Downloaded Info&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Check-ins&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;All of the places you’ve checked into.&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Downloaded Info  Activity Log&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Connections&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;The people who have liked your Page or Place, RSVPed to your event, installed your app or checked in to your advertised place within 24 hours of viewing or clicking on an ad or Sponsored Story.&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Activity Log&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Currency&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Your preferred currency on Facebook. If you use Facebook Payments, this will be used to display prices and charge your credit cards.&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Expanded Archive&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Current City&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;The city you added to the About section of your timeline.&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Downloaded Info&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Date of Birth&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;The date you added to Birthday in the About section of your timeline.&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Downloaded Info&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Deleted Friends&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;The people you’ve unfriended.&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Expanded Archive&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Education&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Any information you added to Education in the About section of your timeline.&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Downloaded Info&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Emails&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Email addresses added to your account (even those you may have removed).&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Expanded Archive&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Events&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Events you’ve joined or been invited to.&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Activity Log&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Family&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Friends you’ve indicated are family members.&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Expanded Archive&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Favorite Quotes&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Information you’ve added to the Favorite Quotes section of the About section of your timeline.&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Downloaded Info&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Friend Requests&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Pending sent and received friend requests.&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Expanded Archive&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Friends&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;A list of your friends.&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Downloaded Info&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Gender&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;The gender you added to the About section of your timeline.&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Downloaded Info&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Groups&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;A list of groups you belong to on Facebook.&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Downloaded Info&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Hidden from News Feed&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Any friends, apps or pages you’ve hidden from your News Feed.&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Expanded Archive&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Hometown&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;The place you added to hometown in the About section of your timeline (profile).&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Downloaded Info&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;IP Addresses&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;A list of addresses where you’ve logged into your Facebook account.&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Expanded Archive&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Last Location&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;The last location associated with an update.&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Activity Log&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Likes on Other’s Posts&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Posts, photos or other content you’ve liked.&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Activity Log&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Likes on Your Posts from others&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Likes on your own posts, photos or other content.&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Activity Log&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Likes on Other Sites&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Likes you’ve made on other sites off of Facebook.&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Activity Log&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Locale&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;The language you see on Facebook is based on where you’re located.&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Expanded Archive&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Logins&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;IP address, date and time associated with logins to your Facebook account.&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Expanded Archive&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Logouts&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;IP address, date and time associated with logouts from your Facebook account.&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Expanded Archive&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Messages&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Archive of messages you’ve sent and received on Facebook.&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Downloaded Info&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Name&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;The name on your Facebook account.&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Downloaded Info&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Name Changes&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Any changes you’ve made to the original name you used when you signed up for Facebook.&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Expanded Archive&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Networks&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Networks (affiliations with schools or workplaces) that you belong to on Facebook.&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Expanded Archive&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Notes&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Any notes you’ve written and published to your account.&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Activity Log&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Notification Settings&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;A list of all your notifications and whether you have email and text enabled or disabled for each.&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Expanded Archive&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Pages You Admin&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;A list of pages you admin.&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Expanded Archive&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Phone Numbers&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Mobile phone numbers you’ve added to your account.&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Expanded Archive&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Photos&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Any photos you’ve uploaded to your account.&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Downloaded Info&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Physical Tokens&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Badges you’ve added to your account.&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Expanded Archive&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Pokes&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;A list of who’s poked you and who you’ve poked.&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Expanded Archive&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Political Views&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Any information you added to Political Views in the About section of timeline.&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Downloaded Info&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Your Posts&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Anything you posted to your own timeline, like photos, videos and status updates.&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Activity Log&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Posts by Others&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Anything you posted to someone else’s timeline (profile), like photos, videos and status updates.&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Activity Log&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Recent Activities&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Actions you’ve taken and interactions you’ve recently had.&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Activity Log&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Registration Date&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;The date you joined Facebook.&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Activity Log&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Religious Views&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;The information you added to Religious Views in the About section of your timeline.&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Downloaded Info&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Screen Names&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;The screen names you’ve added to your account, and the service they’re associated with. You can also see if they’re hidden or visible on your account.&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Expanded Archive&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Searches&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Searches you’ve made on Facebook.&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Activity Log&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Spoken Languages&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;The languages you added to Spoken Languages in the About section of your timeline.&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Expanded Archive&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Status Updates&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Any status updates you’ve posted.&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Activity Log&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Subscribers&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;A list of people who are subscribed to you.&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Expanded Archive&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Subscriptions&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;A list of people you subscribe to.&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Activity Log&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Tag Suggestions Template&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;A unique number based on a comparison of the photos you&amp;rsquo;re tagged in. We use this template to help your friends tag you in the photos they upload.&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Expanded Archive&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Work&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Any information you’ve added to Work in the About section of your timeline.&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Downloaded Info&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Videos&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Videos you’ve posted.&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Activity Log&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;bibliography&#34;&gt;Bibliography&lt;/h2&gt;
+
+  
+
+  
+
+
+
+
+
+
+
+
+
+
+Bibliography called, but no references
+
+
 
 </description>
     </item>

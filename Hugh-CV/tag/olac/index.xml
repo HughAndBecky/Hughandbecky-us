@@ -980,9 +980,281 @@
     </item>
     
     <item>
+      <title>OLAC Term Consolidation</title>
+      <link>https://hughandbecky.us/Hugh-CV/post/olac-term-consolidation/</link>
+      <pubDate>Sat, 24 Sep 2022 14:35:45 +0100</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/post/olac-term-consolidation/</guid>
+      <description>&lt;p&gt;Today I was reminded of a situation in OLAC where DCMITypes terms, which ought to be members of a controlled vocabulary are showing up in OLAC with variations. This is due to data providers providing different variations or performing different text transformations on the metadata sent to OLAC. This variation presents challenges to users because the metadata does not pattern correctly in faceted searches. This problem can be solved with server side data consistency checks and normalization transformations. This is demonstrated by 
+
+
+
+
+
+
+
+&lt;span class=&#34;hugo-cite-intext&#34;
+        itemprop=&#34;citation&#34;&gt;(&lt;a href=&#34;#lynch_2020&#34;&gt;&lt;span class=&#34;visually-hidden&#34;&gt;Citation: &lt;/span&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;meta itemprop=&#34;givenName&#34; content=&#34;Joshua D.&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Lynch&lt;/span&gt;&lt;/span&gt;
+      &lt;em&gt;et al.&lt;/em&gt;,&amp;#32;
+      &lt;span itemprop=&#34;datePublished&#34;&gt;2020&lt;/span&gt;&lt;/a&gt;)
+    &lt;span class=&#34;hugo-cite-citation&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Lynch&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Joshua D.&#34; /&gt;
+    J.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Gibson&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Jessica&#34; /&gt;
+    J.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Han&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Myung-Ja&#34; /&gt;
+    M.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2020&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;Analyzing and Normalizing Type Metadata for a Large Aggregated Digital Library&lt;/span&gt;.&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;The Code4Lib Journal&lt;/span&gt;,&amp;#32;47&lt;/i&gt;.&amp;#32;Retrieved from&amp;#32;
+  &lt;a href=&#34;https://journal.code4lib.org/articles/14995&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://journal.code4lib.org/articles/14995&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/span&gt;&lt;/span&gt;
+.&lt;/p&gt;
+&lt;p&gt;The following table taken from OLAC aggregated metadata shows the degree of variation in the following terms: &lt;em&gt;Image&lt;/em&gt;, &lt;em&gt;MovingImage&lt;/em&gt;, &lt;em&gt;Sound&lt;/em&gt;, and &lt;em&gt;Text&lt;/em&gt;.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;center&#34;&gt;DCMIType&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;Count&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;Problem&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Collection ‎&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;(843)&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Dataset&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;‎(5919)&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Event&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;(54)&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Image&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;(1605)&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;image&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;‎(63)&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Lacks upper-case initial letter&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;InteractiveResource&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;‎(13)&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Moving Image&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;(1)&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Should be a single word&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;MovingImage&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;‎(63055)&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;movingimage&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;(4)&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Lacks upper-case initial letter in each lexical component&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;PhysicalObject&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;(16)&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Software&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;(526)&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Sound&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;(134923)&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;sound&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;(4)&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Lacks upper-case initial letter&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;StillImage&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;(7692)&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Text ‎&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;(198870)&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;text&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;(65)&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Lacks upper-case initial letter&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-screenshot-of-dcmitype-metadata&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/olac-term-consolidation/OLAC-DCMITypes_hu4186249c5d4dbeb42df841edc39557cb_38035_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Screenshot of DCMIType metadata&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/olac-term-consolidation/OLAC-DCMITypes_hu4186249c5d4dbeb42df841edc39557cb_38035_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;Screenshot of DCMIType metadata&#34; width=&#34;713&#34; height=&#34;387&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;p&gt;Screenshot of DCMIType metadata
+      
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;http://dla.library.upenn.edu/dla/olac/browse.html?browse=dcmi_type_facet&amp;amp;&#34;&gt; 
+OLAC metadata screenshot on 24 September 2022 by Hugh Paterson III
+&lt;/a&gt; &lt;/span&gt;
+&lt;/p&gt;
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;h2 id=&#34;bibliography&#34;&gt;Bibliography&lt;/h2&gt;
+
+  
+
+  
+
+
+
+
+
+
+
+
+
+
+&lt;section class=&#34;hugo-cite-bibliography&#34;&gt;
+  &lt;dl&gt;
+    
+
+      &lt;div id=&#34;lynch_2020&#34;&gt;
+        &lt;dt&gt;
+          Lynch,&amp;#32;
+          Gibson&amp;#32;&amp;amp;&amp;#32;Han
+
+          
+          (2020)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Lynch&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Joshua D.&#34; /&gt;
+    J.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Gibson&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Jessica&#34; /&gt;
+    J.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Han&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Myung-Ja&#34; /&gt;
+    M.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2020&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;Analyzing and Normalizing Type Metadata for a Large Aggregated Digital Library&lt;/span&gt;.&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;The Code4Lib Journal&lt;/span&gt;,&amp;#32;47&lt;/i&gt;.&amp;#32;Retrieved from&amp;#32;
+  &lt;a href=&#34;https://journal.code4lib.org/articles/14995&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://journal.code4lib.org/articles/14995&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+  &lt;/dl&gt;
+&lt;/section&gt;
+
+
+
+</description>
+    </item>
+    
+    <item>
       <title>OLAC Customer Segments</title>
       <link>https://hughandbecky.us/Hugh-CV/post/olac-customer-segments/</link>
-      <pubDate>Fri, 09 Sep 2022 14:35:45 +0100</pubDate>
+      <pubDate>Wed, 21 Sep 2022 14:35:45 +0100</pubDate>
       <guid>https://hughandbecky.us/Hugh-CV/post/olac-customer-segments/</guid>
       <description>&lt;p&gt;There are several paths to website development. Behind every website is an idea, behind successful websites are ideas which have undergone testing and experimentation. The first step in creating a testable hypothesis is to document that proposal and then to set out to test it. Websites can embody business ideas and in some cases business tools like the business model canvas can give a &amp;ldquo;first stab&amp;rdquo; look at how different constituents might engage with different components of a website. Eventually, for a well tested website one would want to create user cards and define user pathways through the website as they accomplish user interaction goals on the website. This is generally accepted as good practice in user experience design. Once these pathways are documented and the user actions documented and enabled then testing with real users can commence.&lt;/p&gt;
 &lt;p&gt;What follows here is my first stab at the types of users which are assumed to use the Open Language Archives Community aggregator website. My breakdown of users here will differ Bird and Simon&amp;rsquo;s 2022 article: &lt;em&gt;The Open Language Archives Community: A 20-year update&lt;/em&gt; published in &lt;em&gt;The Electronic Library&lt;/em&gt;.&lt;/p&gt;
@@ -1113,7 +1385,7 @@ Hugh Paterson III
 
 &lt;/figure&gt;
 
-&lt;p&gt;In the next image I write down some of the positive reasons that people come to the website. That is, the value they come to the site to recieve.&lt;/p&gt;
+&lt;p&gt;In the next image I write down some of the positive reasons that people come to the website. That is, the value they come to the site to recieve. My interpretation is that the following reasons exist for each of the constituenties:&lt;/p&gt;
 
 
 

@@ -1,0 +1,1410 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Personally Identifing Information in Language Documentation | Hugh&#39;s Curriculum Vitae</title>
+    <link>https://hughandbecky.us/Hugh-CV/tag/personally-identifing-information-in-language-documentation/</link>
+      <atom:link href="https://hughandbecky.us/Hugh-CV/tag/personally-identifing-information-in-language-documentation/index.xml" rel="self" type="application/rss+xml" />
+    <description>Personally Identifing Information in Language Documentation</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2022</copyright><lastBuildDate>Tue, 20 Sep 2022 14:35:45 +0100</lastBuildDate>
+    <image>
+      <url>https://hughandbecky.us/Hugh-CV/media/HughPaterson.jpg</url>
+      <title>Personally Identifing Information in Language Documentation</title>
+      <link>https://hughandbecky.us/Hugh-CV/tag/personally-identifing-information-in-language-documentation/</link>
+    </image>
+    
+    <item>
+      <title>Name Authority Records and Personally Identifying Information</title>
+      <link>https://hughandbecky.us/Hugh-CV/post/name-authority-records-and-personally-identifying-information/</link>
+      <pubDate>Tue, 20 Sep 2022 14:35:45 +0100</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/post/name-authority-records-and-personally-identifying-information/</guid>
+      <description>&lt;p&gt;The 
+&lt;a href=&#34;https://www.ifla.org/wp-content/uploads/2019/05/assets/cataloguing/frbr-lrm/ifla-lrm-august-2017_rev201712.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IFLA-LRM model&lt;/a&gt; and 
+&lt;a href=&#34;https://www.ifla.org/references/best-practice-for-national-bibliographic-agencies-in-a-digital-age/resource-description-and-standards/bibliographic-control/functional-requirements-the-frbr-family-of-models/functional-requirements-for-authority-data-frad/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FRAD (Functional Requirements for Authority Data)&lt;/a&gt; before it call for, from the perspective of library catalogers, an expanded collection of personal data about the contributors to works. This was brought to my attention via the work of 
+
+
+
+
+
+
+
+&lt;span class=&#34;hugo-cite-intext&#34;
+        itemprop=&#34;citation&#34;&gt;(&lt;a href=&#34;#billey2019&#34;&gt;&lt;span class=&#34;visually-hidden&#34;&gt;Citation: &lt;/span&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;meta itemprop=&#34;givenName&#34; content=&#34;Amber&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Billey&lt;/span&gt;&lt;/span&gt;,&amp;#32;
+      &lt;span itemprop=&#34;datePublished&#34;&gt;2019&lt;/span&gt;&lt;/a&gt;)
+    &lt;span class=&#34;hugo-cite-citation&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Billey&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Amber&#34; /&gt;
+    A.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2019&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;Just Because We Can, Doesn’t Mean We Should: An Argument for Simplicity and Data Privacy With Name Authority Work in the Linked Data Environment&lt;/span&gt;.&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;Journal of Library Metadata&lt;/span&gt;,&amp;#32;19(1-2)&lt;/i&gt;.&amp;#32;&lt;span itemprop=&#34;pagination&#34;&gt;1–17&lt;/span&gt;.
+  &lt;a href=&#34;https://doi.org/10.1080/19386389.2019.1589684&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://doi.org/10.1080/19386389.2019.1589684&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/span&gt;&lt;/span&gt;
+ and 
+
+
+
+
+
+
+
+&lt;span class=&#34;hugo-cite-intext&#34;
+        itemprop=&#34;citation&#34;&gt;(&lt;a href=&#34;#serra2020&#34;&gt;&lt;span class=&#34;visually-hidden&#34;&gt;Citation: &lt;/span&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;meta itemprop=&#34;givenName&#34; content=&#34;Liliana Giusti&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Serra&lt;/span&gt;&lt;/span&gt;
+      &lt;em&gt;et al.&lt;/em&gt;,&amp;#32;
+      &lt;span itemprop=&#34;datePublished&#34;&gt;2020&lt;/span&gt;&lt;/a&gt;)
+    &lt;span class=&#34;hugo-cite-citation&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Serra&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Liliana Giusti&#34; /&gt;
+    L.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Schneider&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Jodi A.&#34; /&gt;
+    J.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Segundo&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;José Eduardo Santarém&#34; /&gt;
+    J.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2020&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;Person Identifiers in MARC 21 Records in a Semantic Environment&lt;/span&gt;.&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;Cataloging &amp;amp; Classification Quarterly&lt;/span&gt;,&amp;#32;58(5)&lt;/i&gt;.&amp;#32;&lt;span itemprop=&#34;pagination&#34;&gt;505–519&lt;/span&gt;.
+  &lt;a href=&#34;https://doi.org/10.1080/01639374.2020.1771499&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://doi.org/10.1080/01639374.2020.1771499&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/span&gt;&lt;/span&gt;
+. Billey encourages a thoughtful response of caution and abstinence from the onslaught of the RDA practice, while Serra and colleagues discuss the technical details of how personal identifiers are entered into MARC records.s&lt;/p&gt;
+&lt;h3 id=&#34;institutional-morals&#34;&gt;Institutional Morals&lt;/h3&gt;
+&lt;p&gt;The work of Amber Billey is especially thought provoking at several levels because of the various kinds of assumptions that it makes and how it situates its arguments in the socio-political context. For example, at one level it argues from the 
+&lt;a href=&#34;https://wheatonlibrary.org/policies/code-ethics-american-library-association#:~:text=We%20provide%20the%20highest%20level,courteous%20responses%20to%20all%20requests.&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ethics statement of the American Libraries Association&lt;/a&gt;. The author makes reference to statements number 1 and number 7:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;ol&gt;
+&lt;li&gt;We provide the highest level of service to all library users through appropriate and usefully organized resources; equitable service policies; equitable access; and accurate, unbiased, and courteous responses to all requests.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;ol start=&#34;7&#34;&gt;
+&lt;li&gt;We distinguish between our personal convictions and professional duties and do not allow our personal beliefs to interfere with fair representation of the aims of our institutions or the provision of access to their information resources.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;I particularly am interested in statement seven because, in this case institutions become the moral conviction holders rather than individuals. Institutions within the American legal context are designed to be the legal liability absorbers and as such are able agents of action shielding individuals from legal liability, socio-political blow-back, and negotiating interpersonal relationships at the moral level. The sociology of institutions change and to the degree that institutions have an open member-driven articulation of their moral convictions, the representation of institutional morals appears to represent the collective of institutional staff. However, homogeneity should never be assumed. The fact remains, catalogers hired by organizations are workers-for-hire and are not given the liberty to express (all) their opinions on (all) topics. In capitalistic societies such as the United States, it is legally required that these institutions (both for-profit and non-profit) make decisions which sustain the organization. This may at times come at the cost of individuals within the organization, but talk to HR—talent is replaceable. So as I read this article the framing of the argument is that organizations such as the 
+&lt;a href=&#34;https://www.loc.gov/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Library of Congress&lt;/a&gt; and 
+&lt;a href=&#34;https://www.ifla.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IFLA&lt;/a&gt; members have determined that for the benefit of their future sustainability that the identification of personally identifying information within the Name Authority Records is important. To limit their liability and blow-back they conveniently allow the American Library Association (ALA) to steward 
+&lt;a href=&#34;https://www.rdatoolkit.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Resource Description and Access (RDA)&lt;/a&gt;, and then the ALA tells information professionals that they should not interfere with these policies or practices.&lt;/p&gt;
+&lt;h3 id=&#34;content-in-the-name-authority-record&#34;&gt;Content in the Name Authority Record&lt;/h3&gt;
+&lt;p&gt;The attributes under consideration and provided for by the Resource Description and Access guidelines include the following:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Name of the Person&lt;/li&gt;
+&lt;li&gt;Dates Associated with the Person&lt;/li&gt;
+&lt;li&gt;Title of the Person&lt;/li&gt;
+&lt;li&gt;Fuller Form of Name&lt;/li&gt;
+&lt;li&gt;Other Designation Associated with the Person&lt;/li&gt;
+&lt;li&gt;Gender&lt;/li&gt;
+&lt;li&gt;Place of Birth&lt;/li&gt;
+&lt;li&gt;Place of Death&lt;/li&gt;
+&lt;li&gt;Country Associated with the Person&lt;/li&gt;
+&lt;li&gt;Place of Residence, Etc.&lt;/li&gt;
+&lt;li&gt;Address of Person&lt;/li&gt;
+&lt;li&gt;Affiliation&lt;/li&gt;
+&lt;li&gt;Language of Person&lt;/li&gt;
+&lt;li&gt;Field of Activity of the Person&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;To me, as a privacy policy and privacy law researcher, I see some definite overlaps with &lt;em&gt;Personally Identifying Information&lt;/em&gt; in a variety of Legal Frameworks (
+&lt;a href=&#34;https://en.wikipedia.org/wiki/General_Data_Protection_Regulation&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GDPR&lt;/a&gt;, 
+&lt;a href=&#34;https://en.wikipedia.org/wiki/California_Consumer_Privacy_Act&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CCPA&lt;/a&gt;, etc.)&lt;/p&gt;
+&lt;p&gt;While I am interested in wider applications of RDA and Name Authority Files, my thoughts immediately pull me in the direction of so-called &amp;ldquo;language archives&amp;rdquo; or institutions which steward language resources. There are ample examples where personally identifying information is kept out of the record within the domains of anthropological linguistics, language documentation, along with records produced for resource preservation and stewardship supporting these areas of praxis (including language development—language revitalization). There is some degree of overlap in the reasons for not identifying these attributes of named entities in stewarded resources with those articulated by Billey, but there are others as well.&lt;/p&gt;
+&lt;p&gt;From a personal perspective I don&amp;rsquo;t see how the following are necessary for library purposes:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Gender&lt;/li&gt;
+&lt;li&gt;Place of birth&lt;/li&gt;
+&lt;li&gt;Place of death&lt;/li&gt;
+&lt;li&gt;Country associated with the person&lt;/li&gt;
+&lt;li&gt;Place of residence&lt;/li&gt;
+&lt;li&gt;Address of person&lt;/li&gt;
+&lt;li&gt;Language of person&lt;/li&gt;
+&lt;li&gt;Field of activity&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;For example, the language of a person may change over time, and who is to define (limit) a person&amp;rsquo;s field of activity by the use of discrete categories? My initial reaction is that to add these things to the library record in a definitive way is over-reach and invasive. This is not the same as adding these details to a collection description within a the context of an archival collection or a corpus where-about the contributors are described. The contrast is this: in a &lt;em&gt;Name Authority Record&lt;/em&gt;, the fields are permanent and describe the entity (person) across the entire range of their existence, where as in an archival collection or a corpus, they describe the person at the point (or range) of the collection&amp;rsquo;s creation. Name Authority Records are unbounded with regards to the number of resources they are applied to, where as within the context of a collection description or a corpus description there is a scoping of the number of resources to-which the description applies.&lt;/p&gt;
+&lt;p&gt;Within the context of language science research many have vocalized the need to be able to search across collection descriptions and corpus descriptions which include things like &lt;em&gt;language used in a resource&lt;/em&gt;, or &lt;em&gt;people of a place&lt;/em&gt;, or &lt;em&gt;an age range of a broader population&lt;/em&gt; (for examples of dynamics of corpora sorting see some of the topics discussed in my 2012 post 
+&lt;a href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/metadata-dynamics-for-linguistic-and-sociolinguistic-corpora/&#34;&gt;Metadata Dynamics for Linguistic and Sociolinguistic Corpora&lt;/a&gt;). That is, re-users of language resources do want these types of constructs available to them to search by, even if coverage is inconsistent or low. However, attaching these attributes to a person rather than a resources is un-discussed by Billey in this article.&lt;/p&gt;
+&lt;h3 id=&#34;records-user-interfaces-and-linked-data&#34;&gt;Records, User Interfaces, and Linked Data&lt;/h3&gt;
+&lt;p&gt;While libraries continue to build the traditional authority file, there are other external identity management sources of linked data that could be
+used instead, thereby fulfilling the promise of linked data. Both Billey and Serra et al., discusses this but from different perspectives. Billey discusses the distribution of and social proliferation of authority data as linked data, while Serra and colleges discuss the technical implementation in and impact on 
+&lt;a href=&#34;https://www.loc.gov/marc/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MARC&lt;/a&gt; records.&lt;/p&gt;
+&lt;p&gt;Billey writes in favor of including less information in Name Authority Records supporting her argument with the following statement (page 11):&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;With linked data, this information travels far beyond the servers at OCLC and the Library of Congress.  Regardless of data in the authority records, we still do not have a catalog or discovery layer that facilitates a search or browse experience that utilizes the RDA elements being recorded about persons. &amp;hellip; Only a fraction of authority records contain the new elements, so the query results would not be accurate or reliable enough to be helpful to users.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Rather than arguing against inclusion of new RDA supported MARC fields it seems that this &lt;em&gt;argues for&lt;/em&gt; an abstraction layer to resource discovery which only uses part of the record in deciding relevance for IFLA recognized end-user discovery and exploring tasks. In this context privacy is not really an issue because other data providers in the linked data &amp;ldquo;cloud&amp;rdquo; can provide additional facets by which information can be sorted. I find that the argument for not providing data in a record due to the lack of a User Interface support for the data field, to be circular, as User Interface development often looks at which data is present to determine User Interface development goals. Additionally, Both Billey and Serra et. al seem to assume that URIs related to a person (such as 
+&lt;a href=&#34;https://orcid.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ORCID&lt;/a&gt;, 
+&lt;a href=&#34;https://viaf.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;VIAF&lt;/a&gt;, or 
+&lt;a href=&#34;https://isni.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ISNI identifiers&lt;/a&gt;) are stable. They seem to easily forget that even 
+&lt;a href=&#34;https://purl.archive.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PURLs&lt;/a&gt; have had interruptions to resolving and 
+&lt;a href=&#34;https://www.doi.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DOIs&lt;/a&gt; suffer from link rot 
+
+
+
+
+
+
+
+&lt;span class=&#34;hugo-cite-intext&#34;
+        itemprop=&#34;citation&#34;&gt;(&lt;a href=&#34;#habibzadeh2020&#34;&gt;&lt;span class=&#34;visually-hidden&#34;&gt;Citation: &lt;/span&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;meta itemprop=&#34;givenName&#34; content=&#34;Parham&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Habibzadeh&lt;/span&gt;&lt;/span&gt;,&amp;#32;
+      &lt;span itemprop=&#34;datePublished&#34;&gt;2013&lt;/span&gt;&lt;/a&gt;)
+    &lt;span class=&#34;hugo-cite-citation&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Habibzadeh&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Parham&#34; /&gt;
+    P.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2013&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;Decay of References to Web sites in Articles Published in General Medical Journals: Mainstream vs Small Journals&lt;/span&gt;.&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;Applied Clinical Informatics&lt;/span&gt;,&amp;#32;4(4)&lt;/i&gt;.&amp;#32;&lt;span itemprop=&#34;pagination&#34;&gt;455–464&lt;/span&gt;.
+  &lt;a href=&#34;https://doi.org/10.4338/ACI-2013-07-RA-0055&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://doi.org/10.4338/ACI-2013-07-RA-0055&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/span&gt;&lt;/span&gt;
+.&lt;/p&gt;
+&lt;h3 id=&#34;privacy-considerations&#34;&gt;Privacy Considerations&lt;/h3&gt;
+&lt;p&gt;I find Billey&amp;rsquo;s privacy discussion interesting and uncompelling. Not that I think the author&amp;rsquo;s assertions are invalid, but rather they are not well supported. The author asks catalogers and policy makers to think about the following by quoting questions from 
+
+
+
+
+
+
+
+&lt;span class=&#34;hugo-cite-intext&#34;
+        itemprop=&#34;citation&#34;&gt;(&lt;a href=&#34;#thompson2016&#34;&gt;&lt;span class=&#34;visually-hidden&#34;&gt;Citation: &lt;/span&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;meta itemprop=&#34;givenName&#34; content=&#34;Kelly J.&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Thompson&lt;/span&gt;&lt;/span&gt;,&amp;#32;
+      &lt;span itemprop=&#34;datePublished&#34;&gt;2016&lt;/span&gt;&lt;/a&gt;)
+    &lt;span class=&#34;hugo-cite-citation&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Thompson&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Kelly J.&#34; /&gt;
+    K.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2016&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;More Than a Name: A Content Analysis of Name Authority Records for Authors Who Self-Identify as Trans&lt;/span&gt;.&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;Library Resources &amp;amp; Technical Services&lt;/span&gt;,&amp;#32;60(3)&lt;/i&gt;.&amp;#32;&lt;span itemprop=&#34;pagination&#34;&gt;140–155&lt;/span&gt;.
+  &lt;a href=&#34;https://doi.org/10.5860/lrts.60n3.140&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://doi.org/10.5860/lrts.60n3.140&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/span&gt;&lt;/span&gt;
+:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Is there potential for this information to harm the [person] through outing or violating the right to privacy?&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Yet the author has yet to identify any legal rights framework under-which this question may be answered. Within the United States privacy is not a universal &lt;em&gt;right&lt;/em&gt; acknowledged and granted by a government, but rather a transactionally regulated issue in consumer law. Only some organizations and some types of transactions at certain volumes qualify. With the European Union the right to privacy is inalienable, but there is no private right of action to &amp;ldquo;sue&amp;rdquo; violators, hence consequences and liability of violations are limited by the capacity of the prosecutors who would have legal authority to bring action. For libraries or organizations to assume that individuals have these rights is errant. Organization may see it as beneficial to their ongoing relationships with their constituencies with respect and codify that respect in policy, but they are not &lt;em&gt;rights&lt;/em&gt;. However, with regard to the RDA based fields, an interesting question arises as to if the death of a person affects what ought to be included in the Name Authority Record.&lt;/p&gt;
+&lt;p&gt;The author further goes on quoting Thompson asking:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Is there an indication that the [person] consents to having this information shared publicly?&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;The problem here is one of the use of positive evidence. Positive evidence does not mean that it is in the best interest of society at large. For example, if Google had waited to scan books rather than seeking out fair-use options in new social contexts we might not have the rich set of resources we know as 
+&lt;a href=&#34;https://www.hathitrust.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;HaithiTrust&lt;/a&gt;. Waiting for positive evidence is the best way to argue for inaction. In action may not be the best way to provide privacy in a linked data world as holes in the network of data can be just as revealing or even more so than actual data.&lt;/p&gt;
+&lt;h2 id=&#34;bibliography&#34;&gt;Bibliography&lt;/h2&gt;
+
+  
+
+  
+
+
+
+
+
+
+
+
+
+
+&lt;section class=&#34;hugo-cite-bibliography&#34;&gt;
+  &lt;dl&gt;
+    
+
+      &lt;div id=&#34;billey2019&#34;&gt;
+        &lt;dt&gt;
+          Billey
+
+          
+          (2019)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Billey&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Amber&#34; /&gt;
+    A.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2019&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;Just Because We Can, Doesn’t Mean We Should: An Argument for Simplicity and Data Privacy With Name Authority Work in the Linked Data Environment&lt;/span&gt;.&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;Journal of Library Metadata&lt;/span&gt;,&amp;#32;19(1-2)&lt;/i&gt;.&amp;#32;&lt;span itemprop=&#34;pagination&#34;&gt;1–17&lt;/span&gt;.
+  &lt;a href=&#34;https://doi.org/10.1080/19386389.2019.1589684&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://doi.org/10.1080/19386389.2019.1589684&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;habibzadeh2020&#34;&gt;
+        &lt;dt&gt;
+          Habibzadeh
+
+          
+          (2013)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Habibzadeh&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Parham&#34; /&gt;
+    P.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2013&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;Decay of References to Web sites in Articles Published in General Medical Journals: Mainstream vs Small Journals&lt;/span&gt;.&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;Applied Clinical Informatics&lt;/span&gt;,&amp;#32;4(4)&lt;/i&gt;.&amp;#32;&lt;span itemprop=&#34;pagination&#34;&gt;455–464&lt;/span&gt;.
+  &lt;a href=&#34;https://doi.org/10.4338/ACI-2013-07-RA-0055&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://doi.org/10.4338/ACI-2013-07-RA-0055&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;serra2020&#34;&gt;
+        &lt;dt&gt;
+          Serra,&amp;#32;
+          Schneider&amp;#32;&amp;amp;&amp;#32;Segundo
+
+          
+          (2020)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Serra&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Liliana Giusti&#34; /&gt;
+    L.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Schneider&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Jodi A.&#34; /&gt;
+    J.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Segundo&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;José Eduardo Santarém&#34; /&gt;
+    J.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2020&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;Person Identifiers in MARC 21 Records in a Semantic Environment&lt;/span&gt;.&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;Cataloging &amp;amp; Classification Quarterly&lt;/span&gt;,&amp;#32;58(5)&lt;/i&gt;.&amp;#32;&lt;span itemprop=&#34;pagination&#34;&gt;505–519&lt;/span&gt;.
+  &lt;a href=&#34;https://doi.org/10.1080/01639374.2020.1771499&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://doi.org/10.1080/01639374.2020.1771499&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;thompson2016&#34;&gt;
+        &lt;dt&gt;
+          Thompson
+
+          
+          (2016)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Thompson&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Kelly J.&#34; /&gt;
+    K.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2016&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;More Than a Name: A Content Analysis of Name Authority Records for Authors Who Self-Identify as Trans&lt;/span&gt;.&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;Library Resources &amp;amp; Technical Services&lt;/span&gt;,&amp;#32;60(3)&lt;/i&gt;.&amp;#32;&lt;span itemprop=&#34;pagination&#34;&gt;140–155&lt;/span&gt;.
+  &lt;a href=&#34;https://doi.org/10.5860/lrts.60n3.140&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://doi.org/10.5860/lrts.60n3.140&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+  &lt;/dl&gt;
+&lt;/section&gt;
+
+
+
+</description>
+    </item>
+    
+    <item>
+      <title>Socio-linguistic Profiles for Language Documentation</title>
+      <link>https://hughandbecky.us/Hugh-CV/post/socio-linguistic-profiles-for-language-documentation/</link>
+      <pubDate>Thu, 23 Aug 2012 01:41:38 -0700</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/post/socio-linguistic-profiles-for-language-documentation/</guid>
+      <description>&lt;p&gt;Some researchers in linguistics (in my acquaintance) have been less than excited about the notion of asking for socio-linguistic data or socio-personal data from language informants. The objection has been that it is just bad form. While I am a great advocate of personal privacy (especially in digital formats), I see that one of the most informative parts of the language documentation process is understanding who the speakers being recording or being worked with are. Language variation is fundamentally connected with identity. While crucial elements of how a community segments itself along identity lines may not be known for several years, having a robust socio-cultural or socio-personal questionnaire about the language informants will later help place the documentation data in perspective of the larger waves of variation in the community.&lt;/p&gt;
+&lt;p&gt;This is to say, I am thoroughly convinced that a socio-linguistic questionnaire is important as part of the language documentation process. It might not need to be done first, but it will help researchers and future users of archived material understand where to place these speech samples in context of that speakers society.&lt;/p&gt;
+&lt;p&gt;One outstanding question, and one with a variable answer is how to appropriately approach the questions in the questionnaire. &lt;em&gt;Should the questionnaire be approached formally? Or should it be asked in conversational format? Should it be elicited digitally?&lt;/em&gt; One of the interesting things about eliciting things digitally is that they may have the appearance to be less intrusive because they are appear less formal. While I have no empirical evidence based on years of cross-cultural work, I do have the Facebook phenomena. That is, minority-language users all over the world are using Facebook. And Facebook is collection (and allowing the users to volunteer) and then verifying the users&amp;rsquo; provided data. Granted it is completly probable that many of these minority-language users do not understand or appreciate the impact of Facebook&amp;rsquo;s data elicitation scheme. So while the fact that Facebook is collectiong personally identifying information about people and their online habbits doesn&amp;rsquo;t mean that the field of language documentation doesn&amp;rsquo;t need to grapple with this issue, it does reset the social understanding of what is &amp;ldquo;normal&amp;rdquo;.&lt;/p&gt;
+
+
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-facebook-user-base-graph-from-2010&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/socio-linguistic-profiles-for-language-documentation/Facebook-mapping-image_hu0aef8681ee99a41516320eb7e1527399_2066885_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Facebook User Base Graph from 2010&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/socio-linguistic-profiles-for-language-documentation/Facebook-mapping-image_hu0aef8681ee99a41516320eb7e1527399_2066885_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;Facebook User Base Graph from 2010&#34; width=&#34;1600&#34; height=&#34;797&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;p&gt;Facebook User Base Graph from 2010
+      
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: 
+Facebook
+&lt;/span&gt;
+&lt;/p&gt;
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;Below is a list of elements which Facebook is collecting (it is also collecting log-in locations and times). So, some of these questions are certainly in-scope of what language documenters would minimally like to know about their indigenous language speaking informants and collaborators. Others of these questions are certainly not in-scope for the recommended socio-linguistic profile from language documenters or socio-linguists.&lt;/p&gt;
+&lt;h3 id=&#34;facebook-data-catagories-on-user-profiles&#34;&gt;FaceBook data catagories on user profiles&lt;/h3&gt;
+&lt;p&gt;Data Facebook Collects about users through their profile and activities. from: &lt;a href=&#34;https://www.facebook.com/help/326826564067688&#34;&gt;&lt;a href=&#34;https://www.facebook.com/help/326826564067688&#34;&gt;https://www.facebook.com/help/326826564067688&lt;/a&gt;&lt;/a&gt; on 23 August 2012.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;center&#34;&gt;&lt;strong&gt;What info is available?&lt;/strong&gt;&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;&lt;strong&gt;What is it?&lt;/strong&gt;&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;&lt;strong&gt;Where can I find it?&lt;/strong&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;About Me&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Information you added to the About section of your timeline like relationships, work, education, where you live and more. It includes any updates or changes you made in the past and what’s currently in the About section of your timeline.&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Activity Log&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Account Status History&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;The dates when your account was reactivated, deactivated, disabled or deleted.&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Expanded Archive&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Address&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Your current address or any past addresses you had on your account.&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Expanded Archive&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Alternate Name&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Any alternate names you have on your account (ex: a maiden name or a nickname).&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Expanded Archive&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Apps&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;All of the apps you subscribe to.&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Expanded Archive&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Birthday Visibility&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;How your birthday appears on your timeline.&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Expanded Archive&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Chat&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;A history of the conversations you’ve had on Facebook Chat.&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Downloaded Info&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Check-ins&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;All of the places you’ve checked into.&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Downloaded Info  Activity Log&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Connections&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;The people who have liked your Page or Place, RSVPed to your event, installed your app or checked in to your advertised place within 24 hours of viewing or clicking on an ad or Sponsored Story.&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Activity Log&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Currency&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Your preferred currency on Facebook. If you use Facebook Payments, this will be used to display prices and charge your credit cards.&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Expanded Archive&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Current City&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;The city you added to the About section of your timeline.&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Downloaded Info&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Date of Birth&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;The date you added to Birthday in the About section of your timeline.&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Downloaded Info&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Deleted Friends&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;The people you’ve unfriended.&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Expanded Archive&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Education&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Any information you added to Education in the About section of your timeline.&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Downloaded Info&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Emails&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Email addresses added to your account (even those you may have removed).&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Expanded Archive&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Events&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Events you’ve joined or been invited to.&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Activity Log&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Family&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Friends you’ve indicated are family members.&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Expanded Archive&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Favorite Quotes&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Information you’ve added to the Favorite Quotes section of the About section of your timeline.&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Downloaded Info&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Friend Requests&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Pending sent and received friend requests.&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Expanded Archive&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Friends&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;A list of your friends.&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Downloaded Info&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Gender&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;The gender you added to the About section of your timeline.&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Downloaded Info&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Groups&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;A list of groups you belong to on Facebook.&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Downloaded Info&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Hidden from News Feed&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Any friends, apps or pages you’ve hidden from your News Feed.&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Expanded Archive&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Hometown&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;The place you added to hometown in the About section of your timeline (profile).&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Downloaded Info&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;IP Addresses&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;A list of addresses where you’ve logged into your Facebook account.&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Expanded Archive&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Last Location&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;The last location associated with an update.&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Activity Log&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Likes on Other’s Posts&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Posts, photos or other content you’ve liked.&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Activity Log&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Likes on Your Posts from others&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Likes on your own posts, photos or other content.&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Activity Log&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Likes on Other Sites&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Likes you’ve made on other sites off of Facebook.&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Activity Log&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Locale&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;The language you see on Facebook is based on where you’re located.&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Expanded Archive&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Logins&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;IP address, date and time associated with logins to your Facebook account.&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Expanded Archive&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Logouts&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;IP address, date and time associated with logouts from your Facebook account.&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Expanded Archive&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Messages&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Archive of messages you’ve sent and received on Facebook.&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Downloaded Info&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Name&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;The name on your Facebook account.&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Downloaded Info&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Name Changes&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Any changes you’ve made to the original name you used when you signed up for Facebook.&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Expanded Archive&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Networks&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Networks (affiliations with schools or workplaces) that you belong to on Facebook.&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Expanded Archive&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Notes&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Any notes you’ve written and published to your account.&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Activity Log&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Notification Settings&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;A list of all your notifications and whether you have email and text enabled or disabled for each.&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Expanded Archive&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Pages You Admin&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;A list of pages you admin.&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Expanded Archive&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Phone Numbers&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Mobile phone numbers you’ve added to your account.&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Expanded Archive&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Photos&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Any photos you’ve uploaded to your account.&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Downloaded Info&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Physical Tokens&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Badges you’ve added to your account.&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Expanded Archive&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Pokes&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;A list of who’s poked you and who you’ve poked.&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Expanded Archive&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Political Views&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Any information you added to Political Views in the About section of timeline.&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Downloaded Info&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Your Posts&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Anything you posted to your own timeline, like photos, videos and status updates.&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Activity Log&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Posts by Others&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Anything you posted to someone else’s timeline (profile), like photos, videos and status updates.&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Activity Log&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Recent Activities&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Actions you’ve taken and interactions you’ve recently had.&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Activity Log&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Registration Date&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;The date you joined Facebook.&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Activity Log&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Religious Views&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;The information you added to Religious Views in the About section of your timeline.&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Downloaded Info&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Screen Names&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;The screen names you’ve added to your account, and the service they’re associated with. You can also see if they’re hidden or visible on your account.&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Expanded Archive&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Searches&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Searches you’ve made on Facebook.&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Activity Log&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Spoken Languages&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;The languages you added to Spoken Languages in the About section of your timeline.&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Expanded Archive&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Status Updates&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Any status updates you’ve posted.&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Activity Log&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Subscribers&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;A list of people who are subscribed to you.&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Expanded Archive&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Subscriptions&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;A list of people you subscribe to.&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Activity Log&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Tag Suggestions Template&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;A unique number based on a comparison of the photos you&amp;rsquo;re tagged in. We use this template to help your friends tag you in the photos they upload.&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Expanded Archive&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Work&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Any information you’ve added to Work in the About section of your timeline.&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Downloaded Info&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Videos&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Videos you’ve posted.&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Activity Log&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;bibliography&#34;&gt;Bibliography&lt;/h2&gt;
+
+  
+
+  
+
+
+
+
+
+
+
+
+
+
+Bibliography called, but no references
+
+
+
+</description>
+    </item>
+    
+    <item>
+      <title>Metadata Dynamics for Linguistic and Sociolinguistic Corpora </title>
+      <link>https://hughandbecky.us/Hugh-CV/post/metadata-dynamics-for-linguistic-and-sociolinguistic-corpora/</link>
+      <pubDate>Wed, 11 Jan 2012 01:41:38 -0700</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/post/metadata-dynamics-for-linguistic-and-sociolinguistic-corpora/</guid>
+      <description>&lt;p&gt;January 4-5, 2012, I had the opportunity to participate in the LSA&amp;rsquo;s &lt;a href=&#34;https://web.archive.org/web/20120210164309/https://lsadc.org/info/meet-annual12-sociolinguistic.cfm&#34; title=&#34;Link to Workshop website&#34;&gt;Satellite Workshop for Sociolinguistic Archival Preparation&lt;/a&gt; in Portland, Oregon. There were a great many things I learned there. So here are only a few thoughts.
+Part of the discussion at the workshop was on how we can make corpora which are collected by Sociolinguists available to the larger Sociolinguistic community. In particular the discussion I am referencing revolved around the standardisation of metadata in the corpora. (In the discussion it was established that are two levels of metadata, &amp;ldquo;event level&amp;rdquo; and &amp;ldquo;corpus level&amp;rdquo;.) While OLAC gives us some standardization about the corpus level metadata, the event metadata is still unique to each investigation, and arguably this is necessary. However, it was also pointed out that not all &amp;ldquo;event level&amp;rdquo; metadata need to be encoded or tracked uniquely. That is, data like date of recording, name of participants, location of recording, gender (male/female) of participant, can all be regularized across the community.&lt;/p&gt;
+&lt;p&gt;With the above as preface, it is important to realize that we do need to understand that there are still various kinds of metadata which need to be collected. In the workshop it was acknowledged that the field of &lt;em&gt;language documentation&lt;/em&gt; was about 10 years ahead of this community of sociolinguists.&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; So, I will take an example from the metadata write-up I did for the Meꞌphaa language documentation project. In that project we collected metadata about:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;People&lt;/li&gt;
+&lt;li&gt;Equipment
+&lt;ul&gt;
+&lt;li&gt;Equipment settings during recording&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Locations&lt;/li&gt;
+&lt;li&gt;Recording Environments
+&lt;ul&gt;
+&lt;li&gt;Times&lt;/li&gt;
+&lt;li&gt;Situations&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Linguistic Dynamics&lt;/li&gt;
+&lt;li&gt;Sociolinguistic Attitudes&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;In the following diagram I illustrate the cross cutting of a corpus with these &amp;ldquo;kinds&amp;rdquo; of metadata. The heavier, darker line represents the corpus, while the medium heavy lines represent the &amp;ldquo;kinds&amp;rdquo; of metadata. Finally, the lighter lines represent the sub-kinds of metadata, where the sub-kinds might be the latitude, longitude, altitude, datum, country, and place name of the &lt;em&gt;location&lt;/em&gt;.&lt;/p&gt;
+
+
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-things-to-measure&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/metadata-dynamics-for-linguistic-and-sociolinguistic-corpora/Things-to-measure_hudb2aa5fdfc77cb2a5f1c164e530bcf5c_100561_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Things to measure&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/metadata-dynamics-for-linguistic-and-sociolinguistic-corpora/Things-to-measure_hudb2aa5fdfc77cb2a5f1c164e530bcf5c_100561_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;Things to measure in a socio-linguistic corpus&#34; width=&#34;756&#34; height=&#34;553&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;p&gt;Things to measure
+      
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: 
+Hugh Paterson III
+&lt;/span&gt;
+&lt;/p&gt;
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;This does not mean that the corpus does not also need to be cross cut with these other &amp;ldquo;sub-kinds&amp;rdquo;. However, these sub-kinds are significantly more in number and will very from project to project. Some of these metadata kinds will be collected in a speaker profile questionnaire. But some of these metadata can only be provided with reflection on the event. To demonstrate the cross cutting of these metadata elements on a corpus I have provided the following diagram. It uses categories which were mentioned in the workshop and is not intended to be comprehensive. In this second diagram, the cross cutting elements might themselves be taxonomies. They may have controlled vocabularies or they may have an open set of possible values, they may also represent a scale.&lt;/p&gt;
+
+
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-taxonomies-for-social-demographics-and-social-dynamics-for-speakers-in-corpora&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/metadata-dynamics-for-linguistic-and-sociolinguistic-corpora/Explaining-tiers_huce82558c4b604cd77d6c5fee429274c5_107158_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Taxonomies for social demographics and social dynamics for speakers in corpora.&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/metadata-dynamics-for-linguistic-and-sociolinguistic-corpora/Explaining-tiers_huce82558c4b604cd77d6c5fee429274c5_107158_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;Taxonomies for social demographics and social dynamics for speakers in corpora&#34; width=&#34;756&#34; height=&#34;553&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;p&gt;Taxonomies for social demographics and social dynamics for speakers in corpora.
+      
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: 
+Hugh Paterson III
+&lt;/span&gt;
+&lt;/p&gt;
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;Both of these diagrams tend to illustrate what in this workshop were referred to a &amp;ldquo;event level&amp;rdquo; metadata, rather than &amp;ldquo;corpus level&amp;rdquo; metadata.&lt;/p&gt;
+&lt;h3 id=&#34;a-note-on-corpus-level-metadata-vs-descriptive-metadata&#34;&gt;A note on corpus level metadata v.s. descriptive metadata&lt;/h3&gt;
+&lt;p&gt;There is one more thing which I would like to say about &amp;ldquo;corpus level&amp;rdquo; metadata. Metadata is often separated out by function.  That is &lt;em&gt;what does the metadata allow us to do&lt;/em&gt;, or &lt;em&gt;why is the metadata there&lt;/em&gt;?
+I have been exposed to the following taxonomy of metadata types though course work and in working with photographs and images 
+
+
+
+
+
+
+
+&lt;span class=&#34;hugo-cite-intext&#34;
+        itemprop=&#34;citation&#34;&gt;(&lt;a href=&#34;#stock_artists_alliance_meta_2009&#34;&gt;&lt;span class=&#34;visually-hidden&#34;&gt;Citation: &lt;/span&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;/span&gt;
+      &lt;em&gt;et al.&lt;/em&gt;,&amp;#32;
+      &lt;span itemprop=&#34;datePublished&#34;&gt;2009&lt;/span&gt;&lt;/a&gt;)
+    &lt;span class=&#34;hugo-cite-citation&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/WebPage&#34;
+      data-type=&#34;webpage&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;/span&gt;(&lt;span itemprop=&#34;datePublished&#34;&gt;2009&lt;/span&gt;).&amp;#32;Retrieved from&amp;#32;
+  &lt;a href=&#34;http://www.photometadata.org/node/46&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;http://www.photometadata.org/node/46&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/span&gt;&lt;/span&gt;
+. These classes of metadata are also similar to those posted by JISC Digital Media as they approach issues with Metadata for digital audio 
+
+
+
+
+
+
+
+&lt;span class=&#34;hugo-cite-intext&#34;
+        itemprop=&#34;citation&#34;&gt;(&lt;a href=&#34;#joint_information_systems_committee_jisc_audio_2010&#34;&gt;&lt;span class=&#34;visually-hidden&#34;&gt;Citation: &lt;/span&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;/span&gt;,&amp;#32;
+      &lt;span itemprop=&#34;datePublished&#34;&gt;2010&lt;/span&gt;&lt;/a&gt;)
+    &lt;span class=&#34;hugo-cite-citation&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/WebPage&#34;
+      data-type=&#34;webpage&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;/span&gt;(&lt;span itemprop=&#34;datePublished&#34;&gt;2010,&amp;#32;1/25&lt;/span&gt;).&amp;#32;Retrieved from&amp;#32;
+  &lt;a href=&#34;http://www.jiscdigitalmedia.ac.uk/audio/advice/metadata-and-audio-resources/&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;http://www.jiscdigitalmedia.ac.uk/audio/advice/metadata-and-audio-resources/&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/span&gt;&lt;/span&gt;
+.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Descriptive meta-data&lt;/strong&gt;: supports discovery, attribution and identification of resources created.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Administrative meta-data&lt;/strong&gt;: supports management, preservation, and appropriate usage of resources created.
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Technical&lt;/strong&gt;: About the machinery used to create the resource and the technical aspects of the resource.&lt;!--Make sure these two are supoints --&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Use and Rights&lt;/strong&gt;: Copyright, license and moral ownership of the items.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Structural meta-data&lt;/strong&gt;: maintains relationships between the parts of complex, multi-part resources 
+
+
+
+
+
+
+
+&lt;span class=&#34;hugo-cite-intext&#34;
+        itemprop=&#34;citation&#34;&gt;(&lt;a href=&#34;#spanne_metadata_2008&#34;&gt;&lt;span class=&#34;visually-hidden&#34;&gt;Citation: &lt;/span&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;meta itemprop=&#34;givenName&#34; content=&#34;Joan&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Spanne&lt;/span&gt;&lt;/span&gt;,&amp;#32;
+      &lt;span itemprop=&#34;datePublished&#34;&gt;2008&lt;/span&gt;&lt;/a&gt;)
+    &lt;span class=&#34;hugo-cite-citation&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/CreativeWork&#34;
+      data-type=&#34;speech&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Spanne&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Joan&#34; /&gt;
+    J.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2008&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;
+    &lt;i&gt;Metadata: Why, What and How (the “Who” is You)&lt;/i&gt;&lt;/span&gt;.
+  &lt;meta itemprop=&#34;contentLocation&#34;
+        content=&#34;Dallas, Texas, USA, Graduate Institute of Applied Linguistics&#34;&gt;&lt;/span&gt;
+
+&lt;/span&gt;&lt;/span&gt;
+.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Situational&lt;/strong&gt;: this is metadata which describes the events around the creation of the work. Asking questions about the social setting, or the precursory events. It follows ideas put forward by 
+
+
+
+
+
+
+
+&lt;span class=&#34;hugo-cite-intext&#34;
+        itemprop=&#34;citation&#34;&gt;(&lt;a href=&#34;#bergqvist_role_2007&#34;&gt;&lt;span class=&#34;visually-hidden&#34;&gt;Citation: &lt;/span&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;meta itemprop=&#34;givenName&#34; content=&#34;Henrik&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Bergqvist&lt;/span&gt;&lt;/span&gt;,&amp;#32;
+      &lt;span itemprop=&#34;datePublished&#34;&gt;2007&lt;/span&gt;&lt;/a&gt;)
+    &lt;span class=&#34;hugo-cite-citation&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Bergqvist&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Henrik&#34; /&gt;
+    H.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2007&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;The role of metadata for translation and pragmatics in language documentation&lt;/span&gt;.&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;Language Documentation and Description&lt;/span&gt;,&amp;#32;4&lt;/i&gt;.&amp;#32;&lt;span itemprop=&#34;pagination&#34;&gt;163–173&lt;/span&gt;.&amp;#32;Retrieved from&amp;#32;
+  &lt;a href=&#34;http://www.elpublishing.org/PID/055&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;http://www.elpublishing.org/PID/055&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/span&gt;&lt;/span&gt;
+.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Use metadata&lt;/strong&gt;: metadata collected from or about the users themselves (e.g. user annotations, number of people accessing a particular resource) 
+
+
+
+
+
+
+
+&lt;span class=&#34;hugo-cite-intext&#34;
+        itemprop=&#34;citation&#34;&gt;(&lt;a href=&#34;#joint_information_systems_committee_jisc_cross-media_2010&#34;&gt;&lt;span class=&#34;visually-hidden&#34;&gt;Citation: &lt;/span&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Joint Information Systems Committee (JISC)&lt;/span&gt;&lt;/span&gt;,&amp;#32;
+      &lt;span itemprop=&#34;datePublished&#34;&gt;2010&lt;/span&gt;&lt;/a&gt;)
+    &lt;span class=&#34;hugo-cite-citation&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/WebPage&#34;
+      data-type=&#34;webpage&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Joint Information Systems Committee (JISC)&lt;/span&gt;&lt;/span&gt;(&lt;span itemprop=&#34;datePublished&#34;&gt;2010,&amp;#32;3/14&lt;/span&gt;).&amp;#32;Retrieved from&amp;#32;
+  &lt;a href=&#34;http://www.jiscdigitalmedia.ac.uk/crossmedia/advice/an-introduction-to-metadata/&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;http://www.jiscdigitalmedia.ac.uk/crossmedia/advice/an-introduction-to-metadata/&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I think it is only fair to point out to archivist and to librarians that linguists and language documenters do not see a difference between descriptive and non-descriptive metadata in their workflows. That is sometimes we want to search all the corpora by licenses or by a technical attribute. This elevates the these attributes to the function of discovery metadata. It does not remove the function of descriptive metadata from its role in finding things but it does functionally mean that the other metadata is also viable as discovery metadata.&lt;/p&gt;
+&lt;h3 id=&#34;bibliography&#34;&gt;Bibliography&lt;/h3&gt;
+
+  
+
+  
+
+
+
+
+
+
+
+
+
+
+&lt;section class=&#34;hugo-cite-bibliography&#34;&gt;
+  &lt;dl&gt;
+    
+
+      &lt;div id=&#34;bergqvist_role_2007&#34;&gt;
+        &lt;dt&gt;
+          Bergqvist
+
+          
+          (2007)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Bergqvist&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Henrik&#34; /&gt;
+    H.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2007&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;The role of metadata for translation and pragmatics in language documentation&lt;/span&gt;.&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;Language Documentation and Description&lt;/span&gt;,&amp;#32;4&lt;/i&gt;.&amp;#32;&lt;span itemprop=&#34;pagination&#34;&gt;163–173&lt;/span&gt;.&amp;#32;Retrieved from&amp;#32;
+  &lt;a href=&#34;http://www.elpublishing.org/PID/055&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;http://www.elpublishing.org/PID/055&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;joint_information_systems_committee_jisc_audio_2010&#34;&gt;
+        &lt;dt&gt;
+          
+
+          
+          (2010)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/WebPage&#34;
+      data-type=&#34;webpage&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;/span&gt;(&lt;span itemprop=&#34;datePublished&#34;&gt;2010,&amp;#32;1/25&lt;/span&gt;).&amp;#32;Retrieved from&amp;#32;
+  &lt;a href=&#34;http://www.jiscdigitalmedia.ac.uk/audio/advice/metadata-and-audio-resources/&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;http://www.jiscdigitalmedia.ac.uk/audio/advice/metadata-and-audio-resources/&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;joint_information_systems_committee_jisc_cross-media_2010&#34;&gt;
+        &lt;dt&gt;
+          Joint Information Systems Committee (JISC)
+
+          
+          (2010)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/WebPage&#34;
+      data-type=&#34;webpage&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Joint Information Systems Committee (JISC)&lt;/span&gt;&lt;/span&gt;(&lt;span itemprop=&#34;datePublished&#34;&gt;2010,&amp;#32;3/14&lt;/span&gt;).&amp;#32;Retrieved from&amp;#32;
+  &lt;a href=&#34;http://www.jiscdigitalmedia.ac.uk/crossmedia/advice/an-introduction-to-metadata/&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;http://www.jiscdigitalmedia.ac.uk/crossmedia/advice/an-introduction-to-metadata/&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;spanne_metadata_2008&#34;&gt;
+        &lt;dt&gt;
+          Spanne
+
+          
+          (2008)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/CreativeWork&#34;
+      data-type=&#34;speech&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Spanne&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Joan&#34; /&gt;
+    J.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2008&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;
+    &lt;i&gt;Metadata: Why, What and How (the “Who” is You)&lt;/i&gt;&lt;/span&gt;.
+  &lt;meta itemprop=&#34;contentLocation&#34;
+        content=&#34;Dallas, Texas, USA, Graduate Institute of Applied Linguistics&#34;&gt;&lt;/span&gt;
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;stock_artists_alliance_meta_2009&#34;&gt;
+        &lt;dt&gt;
+          &amp;#32;&amp;amp;&amp;#32;
+
+          
+          (2009)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/WebPage&#34;
+      data-type=&#34;webpage&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;/span&gt;(&lt;span itemprop=&#34;datePublished&#34;&gt;2009&lt;/span&gt;).&amp;#32;Retrieved from&amp;#32;
+  &lt;a href=&#34;http://www.photometadata.org/node/46&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;http://www.photometadata.org/node/46&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+  &lt;/dl&gt;
+&lt;/section&gt;
+
+
+
+&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;What was not well defined in the workshop was what the distinction is between a &lt;em&gt;language documentation corpus&lt;/em&gt; and a &lt;em&gt;sociolinguistics corpus&lt;/em&gt;. It seems to me as a new practitioner that the chief difference between these two types of corpora is the self identifying quality of researcher. That is does the researcher self-identify as a Sociolinguist or as a Language Documenter. Both types of corpora attempt to get at the vernacular, and both types of corpora collect sociolinguistic facts. It would seem that both corpora are essentially the same (give or take a few metadata attributes). &lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/section&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

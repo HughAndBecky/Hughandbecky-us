@@ -1,0 +1,45 @@
+[
+	{
+		"id": "Lynch_2020",
+		"type": "article-journal",
+		"abstract": "The Illinois Digital Heritage Hub (IDHH) gathers and enhances metadata from contributing institutions around the state of Illinois and provides this metadata to the Digital Public Library of America (DPLA) for greater access. The IDHH helps contributors shape their metadata to the standards recommended and required by the DPLA in part by analyzing and enhancing aggregated metadata. In late 2018, the IDHH undertook a project to address a particularly problematic field, Type metadata. This paper walks through the project, detailing the process of gathering and analyzing metadata using the DPLA API and OpenRefine, data remediation through XSL transformations in conjunction with local improvements by contributing institutions, and the DPLA ingestion system’s quality controls.",
+		"container-title": "The Code4Lib Journal",
+		"ISSN": "1940-5758",
+		"source": "Code4Lib Journal",
+		"title": "Analyzing and Normalizing Type Metadata for a Large Aggregated Digital Library",
+		"URL": "https://journal.code4lib.org/articles/14995",
+		"volume": "47",
+		"author": [
+			{
+				"family": "Lynch",
+				"given": "Joshua D."
+			},
+			{
+				"family": "Gibson",
+				"given": "Jessica"
+			},
+			{
+				"family": "Han",
+				"given": "Myung-Ja"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					4,
+					16
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2020",
+					2,
+					17
+				]
+			]
+		}
+	}
+]
