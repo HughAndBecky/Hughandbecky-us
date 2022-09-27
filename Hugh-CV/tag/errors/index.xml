@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Errors | Hugh&#39;s Curriculum Vitae</title>
+    <link>https://hughandbecky.us/Hugh-CV/tag/errors/</link>
+      <atom:link href="https://hughandbecky.us/Hugh-CV/tag/errors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Errors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2022</copyright><lastBuildDate>Sun, 22 May 2022 14:35:45 +0100</lastBuildDate>
+    <image>
+      <url>https://hughandbecky.us/Hugh-CV/media/HughPaterson.jpg</url>
+      <title>Errors</title>
+      <link>https://hughandbecky.us/Hugh-CV/tag/errors/</link>
+    </image>
+    
+    <item>
+      <title>OLAC and Unicode Errors</title>
+      <link>https://hughandbecky.us/Hugh-CV/post/olac-and-unicode-errors/</link>
+      <pubDate>Sun, 22 May 2022 14:35:45 +0100</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/post/olac-and-unicode-errors/</guid>
+      <description>&lt;p&gt;I am doing some more research on the OLAC data contributors. This time on how they are contributing the contents of serial publications (journal articles). I am doing a search for archives 
+&lt;a href=&#34;http://dla.library.upenn.edu/dla/olac/browse.html?q=Serial&amp;amp;browse=archive_facet&amp;amp;&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;with the search term &amp;ldquo;serial&amp;rdquo; in their holdings record&lt;/a&gt;.&lt;/p&gt;
+
+
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-facceted-view-of-archives-respondin-positivly-to-the-term-serial&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/olac-and-unicode-errors/Archives-with-Serials_hu381872adbb12057ca61766a6a04cfce8_94355_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Facceted view of Archives respondin positivly to the term &amp;amp;lsquo;serial&amp;amp;rsquo;.&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/olac-and-unicode-errors/Archives-with-Serials_hu381872adbb12057ca61766a6a04cfce8_94355_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;Facceted view of Archives respondin positivly to the term &amp;#39;serial&amp;#39;.&#34; width=&#34;1602&#34; height=&#34;406&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;p&gt;Facceted view of Archives respondin positivly to the term &amp;lsquo;serial&amp;rsquo;.
+      
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;http://dla.library.upenn.edu/dla/olac/browse.html?q=Serial&amp;amp;browse=archive_facet&amp;amp;&#34;&gt; 
+OLAC website via Hugh Paterson III
+&lt;/a&gt; &lt;/span&gt;
+&lt;/p&gt;
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;When using the OLAC faceted search and when I click a link for records in the Pacific Collection at the University of Hawai&amp;rsquo;i at Mānoa Hamilton Library, as seen on the page in link, I get an error message, as seen in the figure below, saying that it is interpreting a character incorrectly (decimal 129, which appears in the file &lt;code&gt;output-library.xsl; Line#: 96; Column#: -1&lt;/code&gt;). &lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-java-error&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/olac-and-unicode-errors/Javaerror_hu0af51de72307cc76758c49dae9e4fa3b_101821_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;JAVA error&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/olac-and-unicode-errors/Javaerror_hu0af51de72307cc76758c49dae9e4fa3b_101821_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;JAVA error.&#34; width=&#34;1080&#34; height=&#34;514&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;p&gt;JAVA error
+      
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;http://dla.library.upenn.edu/dla/olac/search.html?q=Serial&amp;amp;fq=archive_facet%3A%22Pacific%20Collection%20at%20the%20University%20of%20Hawai%27i%20at%20M%C4%81noa%20Hamilton%20Library%22&#34;&gt; 
+OLAC website via Hugh Paterson III
+&lt;/a&gt; &lt;/span&gt;
+&lt;/p&gt;
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;I am wondering if this is because the input is encoded in Latin Supplement 1(ISO-8859-1 (Latin-1)), rather than Unicode UTF-8, or if it is because of some error on the OLAC processing side. It seems unlikely that a library system would be using decimal 129, which is a control character. I wonder if it left over from a MARC import?&lt;/p&gt;
+&lt;p&gt;To avoid this problem, it seems that at ingest the OLAC aggregator could use XSLT and map all illegal characters in HTML 4 to a space character. This might solve the problem on the OLAC side for all data feeds as discussed and demonstrated in link [3]. However, I&amp;rsquo;m still not sure if the data is parsed correctly as in, if the data feed is assumed to be UTF-8 by OLAC but is actually in another encoding format then maybe the parser is assuming that some bits go together to form a character which actually don&amp;rsquo;t.&lt;/p&gt;
+&lt;p&gt;After consultation with technicians at the University of Hawai&amp;rsquo;i, they pointed out that this is likely an error the OLAC server side because this happens whenever there is a diacritic in the record. That is, search results involving diacritics often throw various errors or return no results.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Archive: 
+&lt;a href=&#34;http://dla.library.upenn.edu/dla/olac/search.html?fq=archive_facet%3A%22The%20Cr%C3%BAbad%C3%A1n%20Project%22&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Crúbadán Project &lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Archive: 
+&lt;a href=&#34;http://dla.library.upenn.edu/dla/olac/search.html?fq=archive_facet%3A%22LINDAT%2FCLARIAH-CZ%20digital%20library%20at%20the%20Institute%20of%20Formal%20and%20Applied%20Linguistics%20%28%C3%9AFAL%29%2C%20Faculty%20of%20Mathematics%20and%20Physics%2C%20Charles%20University%22&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LINDAT/CLARIAH-CZ digital library at the Institute of Formal and Applied Linguistics (ÚFAL)&lt;/a&gt;, Faculty of Mathematics and Physics, Charles University&lt;/li&gt;
+&lt;li&gt;Subject: 
+&lt;a href=&#34;http://dla.library.upenn.edu/dla/olac/search.html?fq=subject_language_facet%3A%22%21X%C3%B3%C3%B5%22&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;!Xóõ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Subject: 
+&lt;a href=&#34;http://dla.library.upenn.edu/dla/olac/search.html?fq=subject_language_facet%3A%22Ab%C3%A9%22&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Abé&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;As a test, one can toss in &lt;code&gt;àáâãäåæ&lt;/code&gt; into the search bar on this page. &lt;a href=&#34;http://dla.library.upenn.edu/dla/olac/search.html?q=&#34;&gt;http://dla.library.upenn.edu/dla/olac/search.html?q=&lt;/a&gt;
+Hit search and they get misinterpreted as &lt;code&gt;Ã Ã¡Ã¢Ã£Ã¤Ã¥Ã¦&lt;/code&gt; This means that the search interface can not understand UTF-8 encoded text which ought to be the default. If one tries tossing in the upper case of versions &lt;code&gt;ÀÁÂÃÄÅÆ&lt;/code&gt; into the search bar, you get an error because they get misinterpreted into the illegal range of HTML characters.&lt;/p&gt;
+&lt;p&gt;Technical staff at the University of Hawai&amp;rsquo;i also pointed out that when 
+&lt;a href=&#34;https://www.charset.org/utf8-to-latin-converter&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;testing Unicode characters via a charset converter&lt;/a&gt; that the same results appear. For example if one enters the characters &lt;code&gt;àáâãäåæ&lt;/code&gt; in the converter and selects convert Latin to UTF-8 and you&amp;rsquo;ll get the same misinterpreted results as before &lt;code&gt;Ã Ã¡Ã¢Ã£Ã¤Ã¥Ã¦&lt;/code&gt;. The situation with upper-case charcters is slightly different. If one tries the upper case letters it just returns back &lt;code&gt;Ã€Ã Ã‚ÃƒÃ„Ã…Ã†&lt;/code&gt; which is clearly wrong since all the letters can&amp;rsquo;t map to Ã. It is probable that the software is just throwing away the out of bounds characters next to each &lt;code&gt;Ã&lt;/code&gt;.&lt;/p&gt;
+&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;&lt;a href=&#34;http://dla.library.upenn.edu/dla/olac/search.html?q=Serial&amp;amp;fq=archive_facet%3A%22Pacific%20Collection%20at%20the%20University%20of%20Hawai%27i%20at%20M%C4%81noa%20Hamilton%20Library%22&#34;&gt;http://dla.library.upenn.edu/dla/olac/search.html?q=Serial&amp;amp;fq=archive_facet%3A%22Pacific%20Collection%20at%20the%20University%20of%20Hawai%27i%20at%20M%C4%81noa%20Hamilton%20Library%22&lt;/a&gt; &lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/section&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
