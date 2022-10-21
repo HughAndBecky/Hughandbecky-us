@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>XeLaTeX | Hugh&#39;s Curriculum Vitae</title>
+    <link>https://hughandbecky.us/Hugh-CV/tag/xelatex/</link>
+      <atom:link href="https://hughandbecky.us/Hugh-CV/tag/xelatex/index.xml" rel="self" type="application/rss+xml" />
+    <description>XeLaTeX</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2022</copyright><lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://hughandbecky.us/Hugh-CV/media/HughPaterson.jpg</url>
+      <title>XeLaTeX</title>
+      <link>https://hughandbecky.us/Hugh-CV/tag/xelatex/</link>
+    </image>
+    
+    <item>
+      <title>XLingPaper</title>
+      <link>https://hughandbecky.us/Hugh-CV/project/2021-xlingpaper/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/project/2021-xlingpaper/</guid>
+      <description>&lt;p&gt;Since at least 2014 I have been using XLingPaper as a composition tool. I have collaborated with Andy Back who is the primary programmer/author of XLingPaper.  I have contributed ideas, suggestions, problems, test cases, and bug reports. Andy and I together published a paper in TugBoat since XLingPaper uses TeX technology.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

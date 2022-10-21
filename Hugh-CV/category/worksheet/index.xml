@@ -77,13 +77,13 @@
 
 
 
-&lt;figure id=&#34;figure-an-example-mapping-service-streams-to-business-model-canvas-boxes&#34;&gt;
+&lt;figure id=&#34;figure-an-example-mapping-service-streams-to-business-model-canvas-boxes&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
 
 
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/project/2015-linguistic-services-planning/FB-HP3-13jul2016_hu9ba94d1562a163bc33cc7921756a7830_138599_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;An example mapping service streams to business model canvas boxes.&#34;&gt;
 
 
-  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/project/2015-linguistic-services-planning/FB-HP3-13jul2016_hu9ba94d1562a163bc33cc7921756a7830_138599_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;Example model&#34; width=&#34;1019&#34; height=&#34;728&#34;&gt;
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/project/2015-linguistic-services-planning/FB-HP3-13jul2016_hu9ba94d1562a163bc33cc7921756a7830_138599_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;Example model&#34; width=&#34;1019&#34; height=&#34;728&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
 
 
@@ -93,7 +93,9 @@
     &lt;p&gt;An example mapping service streams to business model canvas boxes.
       
 &lt;span class=&#34;img-attribution&#34;&gt;Credit: 
-Hugh Paterson III &amp;amp; Fraser Bennet
+Hugh Paterson III &amp;amp; Fraser Bennet&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
+        &lt;meta itemprop=&#34;name&#34; content=&#34;Hugh Paterson III &amp;amp; Fraser Bennet&#34; /&gt;
+      &lt;/span&gt;
 &lt;/span&gt;
 &lt;/p&gt;
   &lt;/figcaption&gt;

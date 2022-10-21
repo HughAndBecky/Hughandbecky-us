@@ -5,12 +5,21 @@
     <link>https://hughandbecky.us/Hugh-CV/tag/tex/</link>
       <atom:link href="https://hughandbecky.us/Hugh-CV/tag/tex/index.xml" rel="self" type="application/rss+xml" />
     <description>TeX</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2022</copyright><lastBuildDate>Fri, 06 Aug 2021 17:00:12 -0700</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2022</copyright><lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://hughandbecky.us/Hugh-CV/media/HughPaterson.jpg</url>
       <title>TeX</title>
       <link>https://hughandbecky.us/Hugh-CV/tag/tex/</link>
     </image>
+    
+    <item>
+      <title>XLingPaper</title>
+      <link>https://hughandbecky.us/Hugh-CV/project/2021-xlingpaper/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/project/2021-xlingpaper/</guid>
+      <description>&lt;p&gt;Since at least 2014 I have been using XLingPaper as a composition tool. I have collaborated with Andy Back who is the primary programmer/author of XLingPaper.  I have contributed ideas, suggestions, problems, test cases, and bug reports. Andy and I together published a paper in TugBoat since XLingPaper uses TeX technology.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>XLingPaper’s use of TeX Technologies</title>

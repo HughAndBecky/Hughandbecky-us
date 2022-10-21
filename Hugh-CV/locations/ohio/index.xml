@@ -45,13 +45,13 @@
 
 
 
-&lt;figure id=&#34;figure-bathroom-built-in-shelf-shelves-are-douglas-fir-finished-with-spar-urethane-while-backing-and-siding-are-birch-plywood-finished-with-polyurethane&#34;&gt;
+&lt;figure id=&#34;figure-bathroom-built-in-shelf-shelves-are-douglas-fir-finished-with-spar-urethane-while-backing-and-siding-are-birch-plywood-finished-with-polyurethane&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
 
 
   &lt;a data-fancybox=&#34;&#34; href=&#34;Lightening/IMG-0316.JPG&#34; data-caption=&#34;Bathroom built in shelf. Shelves are Douglas Fir finished with Spar-urethane while backing and siding are Birch plywood finished with Polyurethane.&#34;&gt;
 
 
-  &lt;img src=&#34;Lightening/IMG-0316.JPG&#34; alt=&#34;Bathroom Built in.&#34; width=&#34;40%&#34; &gt;
+  &lt;img src=&#34;Lightening/IMG-0316.JPG&#34; alt=&#34;Bathroom Built in.&#34; width=&#34;40%&#34;  itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
 
 
@@ -92,13 +92,13 @@
 
 
 
-&lt;figure id=&#34;figure-a-wedge-like-shelf-for-books-this-one-has-art-work-with-done-with-a-scroll-saw-on-the-end&#34;&gt;
+&lt;figure id=&#34;figure-a-wedge-like-shelf-for-books-this-one-has-art-work-with-done-with-a-scroll-saw-on-the-end&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
 
 
   &lt;a data-fancybox=&#34;&#34; href=&#34;Shelves/IMG-0324.JPG&#34; data-caption=&#34;A wedge like shelf for books. This one has art work with done with a scroll saw on the end.&#34;&gt;
 
 
-  &lt;img src=&#34;Shelves/IMG-0324.JPG&#34; alt=&#34;Book Wedge&#34; width=&#34;40%&#34; &gt;
+  &lt;img src=&#34;Shelves/IMG-0324.JPG&#34; alt=&#34;Book Wedge&#34; width=&#34;40%&#34;  itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
 
 
@@ -210,13 +210,13 @@ Chopping Apples.&lt;/p&gt;
 
 
 
-&lt;figure id=&#34;figure-fireplace-mantel-and-i-did-the-stone-work-too&#34;&gt;
+&lt;figure id=&#34;figure-fireplace-mantel-and-i-did-the-stone-work-too&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
 
 
   &lt;a data-fancybox=&#34;&#34; href=&#34;Shelves/IMG_9706.jpg&#34; data-caption=&#34;Fireplace mantel. (and I did the stone work too!)&#34;&gt;
 
 
-  &lt;img src=&#34;Shelves/IMG_9706.jpg&#34; alt=&#34;Fireplace mantel.&#34;  &gt;
+  &lt;img src=&#34;Shelves/IMG_9706.jpg&#34; alt=&#34;Fireplace mantel.&#34;   itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
 
 
@@ -226,7 +226,9 @@ Chopping Apples.&lt;/p&gt;
     &lt;p&gt;Fireplace mantel. (and I did the stone work too!)
       
 &lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;https://hugh4.us&#34;&gt; 
-Hugh Paterson III
+Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
+        &lt;meta itemprop=&#34;name&#34; content=&#34;Hugh Paterson III&#34; /&gt;
+      &lt;/span&gt;
 &lt;/a&gt; &lt;/span&gt;
 &lt;/p&gt;
   &lt;/figcaption&gt;
@@ -275,13 +277,13 @@ Hugh Paterson III
 
 
 
-&lt;figure id=&#34;figure-bathroom-built-in-shelf-shelves-are-douglas-fir-finished-with-spar-urethane-while-backing-and-siding-are-birch-plywood-finished-with-polyurethane&#34;&gt;
+&lt;figure id=&#34;figure-bathroom-built-in-shelf-shelves-are-douglas-fir-finished-with-spar-urethane-while-backing-and-siding-are-birch-plywood-finished-with-polyurethane&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
 
 
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Shelves/IMG-0316_hud32fe8f0f982999e516f0a6b9704bd85_3428364_2000x2000_fit_q90_lanczos.JPG&#34; data-caption=&#34;Bathroom built in shelf. Shelves are Douglas Fir finished with Spar-urethane while backing and siding are Birch plywood finished with Polyurethane.&#34;&gt;
 
 
-  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Shelves/IMG-0316_hud32fe8f0f982999e516f0a6b9704bd85_3428364_2000x2000_fit_q90_lanczos.JPG&#34; class=&#34;lazyload&#34; alt=&#34;Bathroom Built in.&#34; width=&#34;40%&#34; height=&#34;4032&#34;&gt;
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Shelves/IMG-0316_hud32fe8f0f982999e516f0a6b9704bd85_3428364_2000x2000_fit_q90_lanczos.JPG&#34; class=&#34;lazyload&#34; alt=&#34;Bathroom Built in.&#34; width=&#34;40%&#34; height=&#34;4032&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
 
 
@@ -327,13 +329,13 @@ Hugh Paterson III
 
 
 
-&lt;figure id=&#34;figure-a-wedge-like-shelf-for-books-this-one-has-art-work-with-done-with-a-scroll-saw-on-the-end&#34;&gt;
+&lt;figure id=&#34;figure-a-wedge-like-shelf-for-books-this-one-has-art-work-with-done-with-a-scroll-saw-on-the-end&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
 
 
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Shelves/IMG-0324_hu7978d68a2d5e3663db85b0496397f7bb_1956744_2000x2000_fit_q90_lanczos.JPG&#34; data-caption=&#34;A wedge like shelf for books. This one has art work with done with a scroll saw on the end.&#34;&gt;
 
 
-  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Shelves/IMG-0324_hu7978d68a2d5e3663db85b0496397f7bb_1956744_2000x2000_fit_q90_lanczos.JPG&#34; class=&#34;lazyload&#34; alt=&#34;Book Wedge&#34; width=&#34;40%&#34; height=&#34;3024&#34;&gt;
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Shelves/IMG-0324_hu7978d68a2d5e3663db85b0496397f7bb_1956744_2000x2000_fit_q90_lanczos.JPG&#34; class=&#34;lazyload&#34; alt=&#34;Book Wedge&#34; width=&#34;40%&#34; height=&#34;3024&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
 
 
@@ -379,13 +381,13 @@ Hugh Paterson III
 
 
 
-&lt;figure id=&#34;figure-bathroom-shelf---polyurethane-over-34-inch-birch-plywood-leading-edge-finished-with-a-45-degree-miter&#34;&gt;
+&lt;figure id=&#34;figure-bathroom-shelf---polyurethane-over-34-inch-birch-plywood-leading-edge-finished-with-a-45-degree-miter&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
 
 
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Shelves/IMG-0327_huab5202244056c250785e228578eb20d6_766616_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Bathroom shelf —  Polyurethane over 3/4 inch Birch plywood. Leading edge finished with a 45 degree miter.&#34;&gt;
 
 
-  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Shelves/IMG-0327_huab5202244056c250785e228578eb20d6_766616_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;Counter-top extension&#34; width=&#34;40%&#34; height=&#34;2100&#34;&gt;
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Shelves/IMG-0327_huab5202244056c250785e228578eb20d6_766616_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;Counter-top extension&#34; width=&#34;40%&#34; height=&#34;2100&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
 
 
@@ -431,13 +433,13 @@ Hugh Paterson III
 
 
 
-&lt;figure id=&#34;figure-mounted-between-joists&#34;&gt;
+&lt;figure id=&#34;figure-mounted-between-joists&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
 
 
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Shelves/IMG-0326_hu8ae2c4b4dff5ddc5b69663ebb53c2a55_1954266_2000x2000_fit_q90_lanczos.JPG&#34; data-caption=&#34;Mounted between joists.&#34;&gt;
 
 
-  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Shelves/IMG-0326_hu8ae2c4b4dff5ddc5b69663ebb53c2a55_1954266_2000x2000_fit_q90_lanczos.JPG&#34; class=&#34;lazyload&#34; alt=&#34;Tuck-up drawers.&#34; width=&#34;40%&#34; height=&#34;2688&#34;&gt;
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Shelves/IMG-0326_hu8ae2c4b4dff5ddc5b69663ebb53c2a55_1954266_2000x2000_fit_q90_lanczos.JPG&#34; class=&#34;lazyload&#34; alt=&#34;Tuck-up drawers.&#34; width=&#34;40%&#34; height=&#34;2688&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
 
 
@@ -447,7 +449,9 @@ Hugh Paterson III
     &lt;p&gt;Mounted between joists.
       
 &lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;https://hugh4.us&#34;&gt; 
-Hugh Paterson III
+Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
+        &lt;meta itemprop=&#34;name&#34; content=&#34;Hugh Paterson III&#34; /&gt;
+      &lt;/span&gt;
 &lt;/a&gt; &lt;/span&gt;
 &lt;/p&gt;
   &lt;/figcaption&gt;
@@ -486,13 +490,13 @@ Hugh Paterson III
 
 
 
-&lt;figure id=&#34;figure-bathroom-towel-rack-in-pine&#34;&gt;
+&lt;figure id=&#34;figure-bathroom-towel-rack-in-pine&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
 
 
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Shelves/IMG-0314_hu9293ac58576c1b9ffc3caba35d808089_2361417_2000x2000_fit_q90_lanczos.JPG&#34; data-caption=&#34;Bathroom towel rack in pine.&#34;&gt;
 
 
-  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Shelves/IMG-0314_hu9293ac58576c1b9ffc3caba35d808089_2361417_2000x2000_fit_q90_lanczos.JPG&#34; class=&#34;lazyload&#34; alt=&#34;Towel rack.&#34; width=&#34;40%&#34; height=&#34;3024&#34;&gt;
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Shelves/IMG-0314_hu9293ac58576c1b9ffc3caba35d808089_2361417_2000x2000_fit_q90_lanczos.JPG&#34; class=&#34;lazyload&#34; alt=&#34;Towel rack.&#34; width=&#34;40%&#34; height=&#34;3024&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
 
 
@@ -502,7 +506,9 @@ Hugh Paterson III
     &lt;p&gt;Bathroom towel rack in pine.
       
 &lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;https://hugh4.us&#34;&gt; 
-Hugh Paterson III
+Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
+        &lt;meta itemprop=&#34;name&#34; content=&#34;Hugh Paterson III&#34; /&gt;
+      &lt;/span&gt;
 &lt;/a&gt; &lt;/span&gt;
 &lt;/p&gt;
   &lt;/figcaption&gt;
@@ -536,13 +542,13 @@ Hugh Paterson III
 
 
 
-&lt;figure id=&#34;figure-sidewalk-at-the-wycliffeusa-headquarters&#34;&gt;
+&lt;figure id=&#34;figure-sidewalk-at-the-wycliffeusa-headquarters&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
 
 
   &lt;a data-fancybox=&#34;&#34; href=&#34;Shelves/IMG-0310.JPG&#34; data-caption=&#34;Sidewalk at the WycliffeUSA headquarters.&#34;&gt;
 
 
-  &lt;img src=&#34;Shelves/IMG-0310.JPG&#34; alt=&#34;various shelves.&#34; width=&#34;34%&#34; &gt;
+  &lt;img src=&#34;Shelves/IMG-0310.JPG&#34; alt=&#34;various shelves.&#34; width=&#34;34%&#34;  itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
 
 
@@ -552,7 +558,9 @@ Hugh Paterson III
     &lt;p&gt;Sidewalk at the WycliffeUSA headquarters.
       
 &lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;https://hugh4.us&#34;&gt; 
-Hugh Paterson III
+Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
+        &lt;meta itemprop=&#34;name&#34; content=&#34;Hugh Paterson III&#34; /&gt;
+      &lt;/span&gt;
 &lt;/a&gt; &lt;/span&gt;
 &lt;/p&gt;
   &lt;/figcaption&gt;
@@ -769,13 +777,13 @@ Hugh Paterson III
 
 
 
-&lt;figure id=&#34;figure-fireplace-mantel-and-i-did-the-stone-work-too&#34;&gt;
+&lt;figure id=&#34;figure-fireplace-mantel-and-i-did-the-stone-work-too&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
 
 
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Shelves/IMG_9706_hu83c5e91238eba68762c7fe49914f39cf_2265786_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Fireplace mantel. (and I did the stone work too!)&#34;&gt;
 
 
-  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Shelves/IMG_9706_hu83c5e91238eba68762c7fe49914f39cf_2265786_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;Fireplace mantel.&#34; width=&#34;2448&#34; height=&#34;3264&#34;&gt;
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Shelves/IMG_9706_hu83c5e91238eba68762c7fe49914f39cf_2265786_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;Fireplace mantel.&#34; width=&#34;2448&#34; height=&#34;3264&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
 
 
@@ -785,7 +793,9 @@ Hugh Paterson III
     &lt;p&gt;Fireplace mantel. (and I did the stone work too!)
       
 &lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;https://hugh4.us&#34;&gt; 
-Hugh Paterson III
+Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
+        &lt;meta itemprop=&#34;name&#34; content=&#34;Hugh Paterson III&#34; /&gt;
+      &lt;/span&gt;
 &lt;/a&gt; &lt;/span&gt;
 &lt;/p&gt;
   &lt;/figcaption&gt;

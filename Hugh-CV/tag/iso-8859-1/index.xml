@@ -49,13 +49,13 @@
 
 
 
-&lt;figure id=&#34;figure-facceted-view-of-archives-respondin-positivly-to-the-term-serial&#34;&gt;
+&lt;figure id=&#34;figure-facceted-view-of-archives-respondin-positivly-to-the-term-serial&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
 
 
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/olac-and-unicode-errors/Archives-with-Serials_hu381872adbb12057ca61766a6a04cfce8_94355_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Facceted view of Archives respondin positivly to the term &amp;amp;lsquo;serial&amp;amp;rsquo;.&#34;&gt;
 
 
-  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/olac-and-unicode-errors/Archives-with-Serials_hu381872adbb12057ca61766a6a04cfce8_94355_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;Facceted view of Archives respondin positivly to the term &amp;#39;serial&amp;#39;.&#34; width=&#34;1602&#34; height=&#34;406&#34;&gt;
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/olac-and-unicode-errors/Archives-with-Serials_hu381872adbb12057ca61766a6a04cfce8_94355_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;Facceted view of Archives respondin positivly to the term &amp;#39;serial&amp;#39;.&#34; width=&#34;1602&#34; height=&#34;406&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
 
 
@@ -65,7 +65,9 @@
     &lt;p&gt;Facceted view of Archives respondin positivly to the term &amp;lsquo;serial&amp;rsquo;.
       
 &lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;http://dla.library.upenn.edu/dla/olac/browse.html?q=Serial&amp;amp;browse=archive_facet&amp;amp;&#34;&gt; 
-OLAC website via Hugh Paterson III
+OLAC website via Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
+        &lt;meta itemprop=&#34;name&#34; content=&#34;OLAC website via Hugh Paterson III&#34; /&gt;
+      &lt;/span&gt;
 &lt;/a&gt; &lt;/span&gt;
 &lt;/p&gt;
   &lt;/figcaption&gt;
@@ -104,13 +106,13 @@ OLAC website via Hugh Paterson III
 
 
 
-&lt;figure id=&#34;figure-java-error&#34;&gt;
+&lt;figure id=&#34;figure-java-error&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
 
 
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/olac-and-unicode-errors/Javaerror_hu0af51de72307cc76758c49dae9e4fa3b_101821_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;JAVA error&#34;&gt;
 
 
-  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/olac-and-unicode-errors/Javaerror_hu0af51de72307cc76758c49dae9e4fa3b_101821_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;JAVA error.&#34; width=&#34;1080&#34; height=&#34;514&#34;&gt;
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/olac-and-unicode-errors/Javaerror_hu0af51de72307cc76758c49dae9e4fa3b_101821_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;JAVA error.&#34; width=&#34;1080&#34; height=&#34;514&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
 
 
@@ -120,7 +122,9 @@ OLAC website via Hugh Paterson III
     &lt;p&gt;JAVA error
       
 &lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;http://dla.library.upenn.edu/dla/olac/search.html?q=Serial&amp;amp;fq=archive_facet%3A%22Pacific%20Collection%20at%20the%20University%20of%20Hawai%27i%20at%20M%C4%81noa%20Hamilton%20Library%22&#34;&gt; 
-OLAC website via Hugh Paterson III
+OLAC website via Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
+        &lt;meta itemprop=&#34;name&#34; content=&#34;OLAC website via Hugh Paterson III&#34; /&gt;
+      &lt;/span&gt;
 &lt;/a&gt; &lt;/span&gt;
 &lt;/p&gt;
   &lt;/figcaption&gt;

@@ -76,13 +76,13 @@
 
 
 
-&lt;figure id=&#34;figure-audio-archive-presenting-the-collection-the-tape-and-the-digital-manifestation&#34;&gt;
+&lt;figure id=&#34;figure-audio-archive-presenting-the-collection-the-tape-and-the-digital-manifestation&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
 
 
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/resources-for-digitizing-audio-as-part-of-archiving/Audio-Archive_hu51630dfbea76444c7729246fb14fe7d0_77766_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Audio Archive: Presenting the Collection, the tape and the digital manifestation.&#34;&gt;
 
 
-  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/resources-for-digitizing-audio-as-part-of-archiving/Audio-Archive_hu51630dfbea76444c7729246fb14fe7d0_77766_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;Audio Archive: Presenting the Collection, the tape and the digital manifestation.&#34; width=&#34;733&#34; height=&#34;576&#34;&gt;
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/resources-for-digitizing-audio-as-part-of-archiving/Audio-Archive_hu51630dfbea76444c7729246fb14fe7d0_77766_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;Audio Archive: Presenting the Collection, the tape and the digital manifestation.&#34; width=&#34;733&#34; height=&#34;576&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
 
 
@@ -92,7 +92,9 @@
     &lt;p&gt;Audio Archive: Presenting the Collection, the tape and the digital manifestation.
       
 &lt;span class=&#34;img-attribution&#34;&gt;Credit: 
-Hugh Paterson III
+Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
+        &lt;meta itemprop=&#34;name&#34; content=&#34;Hugh Paterson III&#34; /&gt;
+      &lt;/span&gt;
 &lt;/span&gt;
 &lt;/p&gt;
   &lt;/figcaption&gt;

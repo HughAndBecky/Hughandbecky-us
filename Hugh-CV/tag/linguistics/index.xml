@@ -91,13 +91,13 @@
 
 
 
-&lt;figure id=&#34;figure-types-of-olac-data-providers&#34;&gt;
+&lt;figure id=&#34;figure-types-of-olac-data-providers&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
 
 
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/diversity-and-typology-across-olac-providers/Data_contributors_hu8da133b01ff086a7adb712d959fc9935_89197_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Types of OLAC Data Providers.&#34;&gt;
 
 
-  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/diversity-and-typology-across-olac-providers/Data_contributors_hu8da133b01ff086a7adb712d959fc9935_89197_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;Types of OLAC Data Providers.&#34; width=&#34;2318&#34; height=&#34;840&#34;&gt;
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/diversity-and-typology-across-olac-providers/Data_contributors_hu8da133b01ff086a7adb712d959fc9935_89197_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;Types of OLAC Data Providers.&#34; width=&#34;2318&#34; height=&#34;840&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
 
 
@@ -107,7 +107,9 @@
     &lt;p&gt;Types of OLAC Data Providers.
       
 &lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;http://hugh4.us&#34;&gt; 
-Hugh Paterson III
+Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
+        &lt;meta itemprop=&#34;name&#34; content=&#34;Hugh Paterson III&#34; /&gt;
+      &lt;/span&gt;
 &lt;/a&gt; &lt;/span&gt;
 &lt;/p&gt;
   &lt;/figcaption&gt;
@@ -115,6 +117,15 @@ Hugh Paterson III
 
 &lt;/figure&gt;
 
+</description>
+    </item>
+    
+    <item>
+      <title>XLingPaper</title>
+      <link>https://hughandbecky.us/Hugh-CV/project/2021-xlingpaper/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/project/2021-xlingpaper/</guid>
+      <description>&lt;p&gt;Since at least 2014 I have been using XLingPaper as a composition tool. I have collaborated with Andy Back who is the primary programmer/author of XLingPaper.  I have contributed ideas, suggestions, problems, test cases, and bug reports. Andy and I together published a paper in TugBoat since XLingPaper uses TeX technology.&lt;/p&gt;
 </description>
     </item>
     
@@ -3880,13 +3891,13 @@ One approach would be to multiply 450 by 1700 and estimate the number of article
 
 
 
-&lt;figure id=&#34;figure-european-migration-destinations-from-nigeria&#34;&gt;
+&lt;figure id=&#34;figure-european-migration-destinations-from-nigeria&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
 
 
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/language-survey/European-migration_hub4c222a784b79103e28ddadfc55199f0_174013_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;European migration destinations from Nigeria.&#34;&gt;
 
 
-  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/language-survey/European-migration_hub4c222a784b79103e28ddadfc55199f0_174013_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;European migration destinations from Nigeria.&#34; width=&#34;894&#34; height=&#34;667&#34;&gt;
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/language-survey/European-migration_hub4c222a784b79103e28ddadfc55199f0_174013_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;European migration destinations from Nigeria.&#34; width=&#34;894&#34; height=&#34;667&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
 
 
@@ -3896,7 +3907,9 @@ One approach would be to multiply 450 by 1700 and estimate the number of article
     &lt;p&gt;European migration destinations from Nigeria.
       
 &lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;http://www.lucify.com/the-flow-towards-europe&#34;&gt; 
-lucify.com
+lucify.com&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
+        &lt;meta itemprop=&#34;name&#34; content=&#34;lucify.com&#34; /&gt;
+      &lt;/span&gt;
 &lt;/a&gt; &lt;/span&gt;
 &lt;/p&gt;
   &lt;/figcaption&gt;
@@ -4002,6 +4015,117 @@ A position statement on data citation and attribution in our field.
     </item>
     
     <item>
+      <title>Open Educational Resources OER Links</title>
+      <link>https://hughandbecky.us/Hugh-CV/post/open-educational-resources-links/</link>
+      <pubDate>Tue, 26 Nov 2013 14:35:45 +0100</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/post/open-educational-resources-links/</guid>
+      <description>&lt;p&gt;A few weeks a go I put together a resource (&amp;ldquo;whitepaper&amp;rdquo;) outlining an economic strategy related to 
+&lt;a href=&#34;https://en.wikipedia.org/wiki/Open_educational_resources&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Open Educational Resources (OER)&lt;/a&gt; and mobile compatible resources. The purpose was to kickstart and provide ideas for the organization I work for to consider alternative models of information maintenance and dissemination. The following links are more or less my list of references which did not make into that paper.&lt;/p&gt;
+&lt;p&gt;Economically (in terms of information economy), the problem I see with 
+&lt;a href=&#34;http://www.corestandards.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CommonCore&lt;/a&gt; as it is implemented in the USA across grades 1-12, is that law and policy affect the kinds of resources being produced and subsequently also shared in these curriculum development co-op endeavors (OER). I think the impact is greater than originally anticipated (or perhaps not, perhaps this is a foreign policy move affecting exports of knowledge). The indirect impact of CommonCore on the consumers of these OER materials, is that when people from other countries consume Open Education Resources, they are consuming CommonCore. Thankfully, there is a lot of OER work going on at the university level and outside of the scope of CommonCore.&lt;/p&gt;
+&lt;p&gt;Also to note: OER works well with some subjects in which there is very little change; like science (chemistry and physics) or math. There is so much ground to cover in these subjects that OER makes sense. However, for subjects like linguistics, where models are proposed all the time, and subsequently challenged, it is harder to produce an OER resource with a lot of buy-in among educators.&lt;/p&gt;
+&lt;h3 id=&#34;general&#34;&gt;General&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://ocw.mit.edu/index.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT&amp;rsquo;s Open courses&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;%22http://www.opensourcetext.org/&#34;&gt;California&amp;rsquo;s Open Textbook Project&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://www.ck12.org/student/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ck-12 open learning platform&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://www.merlot.org/merlot/index.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Merlot II&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://concord.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Concord Consortium&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://www.oerafrica.org/OERInitiativesinAfrica/tabid/296/Default.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OER focusing on Africa&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;digital-textbooks&#34;&gt;Digital Textbooks&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://serc.carleton.edu/serc/EOS-87-31-2006.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Reconsidering the Textbook&lt;/a&gt;: Bierman, P., C. Massey, and C. Manduca (2006), Reconsidering the Textbook, Eos Trans. AGU, 87(31), 306.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://concord.org/blog/flexible-textbooks/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Flexible Textbooks&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;open-linguistics-resources&#34;&gt;Open Linguistics Resources&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://en.wikibooks.org/wiki/Introduction_to_Linguistics&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Introduction to Linguistics Textbook on Wikibooks&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;funding-models&#34;&gt;Funding Models&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://p2pfoundation.net/Funding_Models_for_Open_Educational_Resources&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Funding Models for Open Educational Resources&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;semantic-search-and-oer-discoverability&#34;&gt;Semantic Search and OER Discoverability&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://www.meas-extension.org/oer&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Design to Share&lt;/a&gt;:  by Gwyn Shelle.&lt;/li&gt;
+&lt;li&gt;How Organizing Knowledge in Meaningful Ways Enhances Search and Supports Independent Learning &lt;a href=&#34;http://link.springer.com/chapter/10.1007%2F978-3-642-24731-6_33&#34; &gt;Book Chapter&lt;/a&gt; in Metadata and Semantic Research, Communications in Computer and Information Science Volume 240, 2011, pp. 324-336.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-image-adapted-from-lumen-learning-2014-slide-show-presentation-open-education-in-the-most-pilot-program&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/open-educational-resources-links/featured_hu81bc1a06ad23d1a3394f8e66fdd45308_40173_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Image adapted from Lumen Learning. (2014). Slide Show Presentation Open Education in the MOST Pilot Program.&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/open-educational-resources-links/featured_hu81bc1a06ad23d1a3394f8e66fdd45308_40173_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1215&#34; height=&#34;575&#34; itemprop=&#34;contentUrl&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;p&gt;Image adapted from Lumen Learning. (2014). Slide Show Presentation Open Education in the MOST Pilot Program.
+      
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;https://lumenlearning.com&#34;&gt; 
+Lumen Learning&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
+        &lt;meta itemprop=&#34;name&#34; content=&#34;Lumen Learning&#34; /&gt;
+      &lt;/span&gt;
+&lt;/a&gt; &lt;/span&gt;
+&lt;/p&gt;
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Audio Dominant Texts and Text Dominant Audio</title>
       <link>https://hughandbecky.us/Hugh-CV/post/audio-dominant-texts-and-text-dominant-audio/</link>
       <pubDate>Mon, 18 Mar 2013 14:35:45 +0100</pubDate>
@@ -4057,13 +4181,13 @@ A position statement on data citation and attribution in our field.
 
 
 
-&lt;figure id=&#34;figure-notice-of-nsf-grant-award&#34;&gt;
+&lt;figure id=&#34;figure-notice-of-nsf-grant-award&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
 
 
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/olac-grant-aggregator/NSF-Grant_hue2c2cdacdb65db441481dd609fada4c1_318924_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Notice of NSF Grant award&#34;&gt;
 
 
-  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/olac-grant-aggregator/NSF-Grant_hue2c2cdacdb65db441481dd609fada4c1_318924_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;Notice of NSF Grant award&#34; width=&#34;1436&#34; height=&#34;881&#34;&gt;
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/olac-grant-aggregator/NSF-Grant_hue2c2cdacdb65db441481dd609fada4c1_318924_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;Notice of NSF Grant award&#34; width=&#34;1436&#34; height=&#34;881&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
 
 
@@ -4073,7 +4197,9 @@ A position statement on data citation and attribution in our field.
     &lt;p&gt;Notice of NSF Grant award
       
 &lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=0966411&amp;amp;WT.z_pims_id=12816&#34;&gt; 
-NSF
+NSF&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
+        &lt;meta itemprop=&#34;name&#34; content=&#34;NSF&#34; /&gt;
+      &lt;/span&gt;
 &lt;/a&gt; &lt;/span&gt;
 &lt;/p&gt;
   &lt;/figcaption&gt;
@@ -4152,13 +4278,13 @@ I am not sure how this is done exactly… but here is the link: &lt;a href=&#34;
 
 
 
-&lt;figure id=&#34;figure-record-and-volume-levels&#34;&gt;
+&lt;figure id=&#34;figure-record-and-volume-levels&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
 
 
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/headphones-for-language-documentation/Record-and-Volume-Levels_hu6175e2e8318e865aaff9b1ae3a8c3023_61731_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Record and Volume Levels.&#34;&gt;
 
 
-  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/headphones-for-language-documentation/Record-and-Volume-Levels_hu6175e2e8318e865aaff9b1ae3a8c3023_61731_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;Record and Volume Levels&#34; width=&#34;525&#34; height=&#34;547&#34;&gt;
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/headphones-for-language-documentation/Record-and-Volume-Levels_hu6175e2e8318e865aaff9b1ae3a8c3023_61731_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;Record and Volume Levels&#34; width=&#34;525&#34; height=&#34;547&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
 
 
@@ -4168,7 +4294,9 @@ I am not sure how this is done exactly… but here is the link: &lt;a href=&#34;
     &lt;p&gt;Record and Volume Levels.
       
 &lt;span class=&#34;img-attribution&#34;&gt;Credit: 
-Hugh Paterson III
+Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
+        &lt;meta itemprop=&#34;name&#34; content=&#34;Hugh Paterson III&#34; /&gt;
+      &lt;/span&gt;
 &lt;/span&gt;
 &lt;/p&gt;
   &lt;/figcaption&gt;
@@ -4323,13 +4451,13 @@ Hugh Paterson III
 
 
 
-&lt;figure id=&#34;figure-various-kinds-of-headphones-as-displayed-by-apple&#34;&gt;
+&lt;figure id=&#34;figure-various-kinds-of-headphones-as-displayed-by-apple&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
 
 
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/headphones-for-language-documentation/infographic-headphones_huddf3cab4712093ab2c6060d1c7076aea_9180_2000x2000_fit_lanczos.gif&#34; data-caption=&#34;Various kinds of headphones as displayed by Apple&#34;&gt;
 
 
-  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/headphones-for-language-documentation/infographic-headphones_huddf3cab4712093ab2c6060d1c7076aea_9180_2000x2000_fit_lanczos.gif&#34; class=&#34;lazyload&#34; alt=&#34;Various kinds of headphones as displayed by Apple&#34; width=&#34;504&#34; height=&#34;140&#34;&gt;
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/headphones-for-language-documentation/infographic-headphones_huddf3cab4712093ab2c6060d1c7076aea_9180_2000x2000_fit_lanczos.gif&#34; class=&#34;lazyload&#34; alt=&#34;Various kinds of headphones as displayed by Apple&#34; width=&#34;504&#34; height=&#34;140&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
 
 
@@ -4339,7 +4467,9 @@ Hugh Paterson III
     &lt;p&gt;Various kinds of headphones as displayed by Apple
       
 &lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;http://web.archive.org/web/20110401153030/http://store.apple.com/us/browse/guide/headphones?mco=MTM3NTk3OTE&#34;&gt; 
-Apple, Inc
+Apple, Inc&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
+        &lt;meta itemprop=&#34;name&#34; content=&#34;Apple, Inc&#34; /&gt;
+      &lt;/span&gt;
 &lt;/a&gt; &lt;/span&gt;
 &lt;/p&gt;
   &lt;/figcaption&gt;
@@ -4413,13 +4543,13 @@ These come in two varieties:
 
 
 
-&lt;figure id=&#34;figure-headphone-frequency-response-graph-by-pcmag-comparing-three-sets-of-headphones&#34;&gt;
+&lt;figure id=&#34;figure-headphone-frequency-response-graph-by-pcmag-comparing-three-sets-of-headphones&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
 
 
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/headphones-for-language-documentation/Headphone-Frequency-Response.jpg_hue08168cb7baf6d897c9c144ed5b2c473_23633_2000x2000_fit_lanczos.gif&#34; data-caption=&#34;Headphone Frequency Response graph by PCMag comparing three sets of headphones.&#34;&gt;
 
 
-  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/headphones-for-language-documentation/Headphone-Frequency-Response.jpg_hue08168cb7baf6d897c9c144ed5b2c473_23633_2000x2000_fit_lanczos.gif&#34; class=&#34;lazyload&#34; alt=&#34;Headphone Frequency Response graph by PCMag comparing three sets of headphones.&#34; width=&#34;565&#34; height=&#34;436&#34;&gt;
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/headphones-for-language-documentation/Headphone-Frequency-Response.jpg_hue08168cb7baf6d897c9c144ed5b2c473_23633_2000x2000_fit_lanczos.gif&#34; class=&#34;lazyload&#34; alt=&#34;Headphone Frequency Response graph by PCMag comparing three sets of headphones.&#34; width=&#34;565&#34; height=&#34;436&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
 
 
@@ -4429,7 +4559,9 @@ These come in two varieties:
     &lt;p&gt;Headphone Frequency Response graph by PCMag comparing three sets of headphones.
       
 &lt;span class=&#34;img-attribution&#34;&gt;Credit: 
-PCMag
+PCMag&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
+        &lt;meta itemprop=&#34;name&#34; content=&#34;PCMag&#34; /&gt;
+      &lt;/span&gt;
 &lt;/span&gt;
 &lt;/p&gt;
   &lt;/figcaption&gt;
@@ -4476,13 +4608,13 @@ PCMag
 
 
 
-&lt;figure id=&#34;figure-apple-earbuds&#34;&gt;
+&lt;figure id=&#34;figure-apple-earbuds&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
 
 
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/headphones-for-language-documentation/800px-IPod_Earbuds_hu6ca3b43693da92da26df9a9bd625b2f2_89304_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Apple Earbuds&#34;&gt;
 
 
-  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/headphones-for-language-documentation/800px-IPod_Earbuds_hu6ca3b43693da92da26df9a9bd625b2f2_89304_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;Apple Earbuds&#34; width=&#34;800&#34; height=&#34;434&#34;&gt;
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/headphones-for-language-documentation/800px-IPod_Earbuds_hu6ca3b43693da92da26df9a9bd625b2f2_89304_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;Apple Earbuds&#34; width=&#34;800&#34; height=&#34;434&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
 
 
@@ -4492,7 +4624,9 @@ PCMag
     &lt;p&gt;Apple Earbuds
       
 &lt;span class=&#34;img-attribution&#34;&gt;Credit: 
-The Internet
+The Internet&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
+        &lt;meta itemprop=&#34;name&#34; content=&#34;The Internet&#34; /&gt;
+      &lt;/span&gt;
 &lt;/span&gt;
 &lt;/p&gt;
   &lt;/figcaption&gt;
@@ -4543,13 +4677,13 @@ How I use them: I listen to my iPod with them. I also listen to music through my
 
 
 
-&lt;figure id=&#34;figure-olympus-earbuds&#34;&gt;
+&lt;figure id=&#34;figure-olympus-earbuds&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
 
 
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/headphones-for-language-documentation/olympus-headphones_huaf860957bdecf405de174b49098fa288_1100494_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Olympus Earbuds&#34;&gt;
 
 
-  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/headphones-for-language-documentation/olympus-headphones_huaf860957bdecf405de174b49098fa288_1100494_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;Olympus Earbuds&#34; width=&#34;1600&#34; height=&#34;1200&#34;&gt;
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/headphones-for-language-documentation/olympus-headphones_huaf860957bdecf405de174b49098fa288_1100494_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;Olympus Earbuds&#34; width=&#34;1600&#34; height=&#34;1200&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
 
 
@@ -4559,7 +4693,9 @@ How I use them: I listen to my iPod with them. I also listen to music through my
     &lt;p&gt;Olympus Earbuds
       
 &lt;span class=&#34;img-attribution&#34;&gt;Credit: 
-Hugh
+Hugh&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
+        &lt;meta itemprop=&#34;name&#34; content=&#34;Hugh&#34; /&gt;
+      &lt;/span&gt;
 &lt;/span&gt;
 &lt;/p&gt;
   &lt;/figcaption&gt;
@@ -4607,13 +4743,13 @@ Hugh
 
 
 
-&lt;figure id=&#34;figure-actively-monitoring-the-audio-though-the-video-camera&#34;&gt;
+&lt;figure id=&#34;figure-actively-monitoring-the-audio-though-the-video-camera&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
 
 
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/headphones-for-language-documentation/work_mex-015_hu8d07cad679e1601233e6c7935d1f1a1b_364643_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Actively monitoring the audio though the video camera.&#34;&gt;
 
 
-  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/headphones-for-language-documentation/work_mex-015_hu8d07cad679e1601233e6c7935d1f1a1b_364643_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;Olympus Earbuds in use.&#34; width=&#34;1280&#34; height=&#34;720&#34;&gt;
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/headphones-for-language-documentation/work_mex-015_hu8d07cad679e1601233e6c7935d1f1a1b_364643_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;Olympus Earbuds in use.&#34; width=&#34;1280&#34; height=&#34;720&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
 
 
@@ -4623,7 +4759,9 @@ Hugh
     &lt;p&gt;Actively monitoring the audio though the video camera.
       
 &lt;span class=&#34;img-attribution&#34;&gt;Credit: 
-Kevin Cline
+Kevin Cline&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
+        &lt;meta itemprop=&#34;name&#34; content=&#34;Kevin Cline&#34; /&gt;
+      &lt;/span&gt;
 &lt;/span&gt;
 &lt;/p&gt;
   &lt;/figcaption&gt;
@@ -4665,13 +4803,13 @@ Kevin Cline
 
 
 
-&lt;figure id=&#34;figure-samson-ch700&#34;&gt;
+&lt;figure id=&#34;figure-samson-ch700&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
 
 
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/headphones-for-language-documentation/CH700_hu079a24657d5c46b14837aada86e7e493_21045_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Samson CH700&#34;&gt;
 
 
-  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/headphones-for-language-documentation/CH700_hu079a24657d5c46b14837aada86e7e493_21045_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;Samson CH700&#34; width=&#34;235&#34; height=&#34;358&#34;&gt;
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/headphones-for-language-documentation/CH700_hu079a24657d5c46b14837aada86e7e493_21045_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;Samson CH700&#34; width=&#34;235&#34; height=&#34;358&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
 
 
@@ -4681,7 +4819,9 @@ Kevin Cline
     &lt;p&gt;Samson CH700
       
 &lt;span class=&#34;img-attribution&#34;&gt;Credit: 
-The Internet
+The Internet&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
+        &lt;meta itemprop=&#34;name&#34; content=&#34;The Internet&#34; /&gt;
+      &lt;/span&gt;
 &lt;/span&gt;
 &lt;/p&gt;
   &lt;/figcaption&gt;
@@ -4733,13 +4873,13 @@ The Internet
 
 
 
-&lt;figure id=&#34;figure-sony-mdr-v600&#34;&gt;
+&lt;figure id=&#34;figure-sony-mdr-v600&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
 
 
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/headphones-for-language-documentation/MDR-V600_hu3e029789b840208e6f964512072103f9_121497_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Sony MDR-V600&#34;&gt;
 
 
-  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/headphones-for-language-documentation/MDR-V600_hu3e029789b840208e6f964512072103f9_121497_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;Sony MDR-V600&#34; width=&#34;600&#34; height=&#34;600&#34;&gt;
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/headphones-for-language-documentation/MDR-V600_hu3e029789b840208e6f964512072103f9_121497_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;Sony MDR-V600&#34; width=&#34;600&#34; height=&#34;600&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
 
 
@@ -4749,7 +4889,9 @@ The Internet
     &lt;p&gt;Sony MDR-V600
       
 &lt;span class=&#34;img-attribution&#34;&gt;Credit: 
-The Internet
+The Internet&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
+        &lt;meta itemprop=&#34;name&#34; content=&#34;The Internet&#34; /&gt;
+      &lt;/span&gt;
 &lt;/span&gt;
 &lt;/p&gt;
   &lt;/figcaption&gt;
@@ -4799,13 +4941,13 @@ The Internet
 
 
 
-&lt;figure id=&#34;figure-wearing-mdr-v600-headphones-while-recording-an-elicitation-session&#34;&gt;
+&lt;figure id=&#34;figure-wearing-mdr-v600-headphones-while-recording-an-elicitation-session&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
 
 
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/headphones-for-language-documentation/work_mex-003_hu824fe1720ce4594e0816ae0aa3199ec1_228711_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Wearing MDR-V600 headphones while recording an elicitation session.&#34;&gt;
 
 
-  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/headphones-for-language-documentation/work_mex-003_hu824fe1720ce4594e0816ae0aa3199ec1_228711_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;Wearing MDR-V600 headphones while recording an elicitation session.&#34; width=&#34;960&#34; height=&#34;1280&#34;&gt;
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/headphones-for-language-documentation/work_mex-003_hu824fe1720ce4594e0816ae0aa3199ec1_228711_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;Wearing MDR-V600 headphones while recording an elicitation session.&#34; width=&#34;960&#34; height=&#34;1280&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
 
 
@@ -4815,7 +4957,9 @@ The Internet
     &lt;p&gt;Wearing MDR-V600 headphones while recording an elicitation session.
       
 &lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;https://scholar.google.es/citations?user=o1m8hsMAAAAJ&amp;amp;hl=en&#34;&gt; 
-Stephen Marlett
+Stephen Marlett&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
+        &lt;meta itemprop=&#34;name&#34; content=&#34;Stephen Marlett&#34; /&gt;
+      &lt;/span&gt;
 &lt;/a&gt; &lt;/span&gt;
 &lt;/p&gt;
   &lt;/figcaption&gt;

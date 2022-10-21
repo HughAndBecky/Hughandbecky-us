@@ -1,0 +1,1306 @@
+<!DOCTYPE html><html lang="en-us" >
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Source Themes Academic 4.8.0"><meta name="author" content="Hugh Paterson III">
+
+  
+    
+  <meta name="description" content="If we take a design look at Dublin Core, is it really as flexible as proclaimed or are there limits imposed by semantics.">
+
+  <link rel="alternate" hreflang="en-us" href="https://hughandbecky.us/Hugh-CV/post/dublin-core-theory/">
+
+  
+
+
+
+
+
+
+
+  
+
+
+
+
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <meta name="theme-color" content="#456587">
+  
+
+  
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.9.0/css/academicons.min.css" integrity="sha512-W4yqoT1+8NLkinBLBZko+dFB2ZbHsYLDdr50VElllRcNt2Q4/GSs6u71UHKxB7S6JEMCp5Ve4xjh3eGQl/HRvg==" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css" integrity="sha256-FMvZuGapsJLjouA6k7Eo2lusoAX9i0ShlWFG6qt7SLc=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous">
+
+    
+    
+    
+      
+    
+    
+      
+      
+        
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/github.min.css" crossorigin="anonymous" title="hl-light">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" disabled>
+        
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/leaflet.min.css" integrity="sha512-1xoFisiGdy9nvho8EgXuXvnpR5GAMSjFwp40gSRE3NwdUdIMIKuPa7bqoUhLD0O/5tPNhteAsE5XyyMi5reQVA==" crossorigin="anonymous">
+    
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/lazysizes/5.2.2/lazysizes.min.js" integrity="sha512-TmDwFLhg3UA4ZG0Eb4MIyT1O1Mb+Oww5kFG0uHqXsdbyZz9DcvYQhKpGgNkamAI6h2lGGZq2X8ftOJvF/XjTUg==" crossorigin="anonymous" async></script>
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+        
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+  
+  
+    
+      
+      
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:400,700%7CRoboto+Mono%7CCharis+SIL&display=swap">
+    
+  
+
+  
+  
+  
+  
+  <link rel="stylesheet" href="/Hugh-CV/css/academic.css">
+
+  
+
+
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-31042070-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-31042070-2', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
+  
+
+
+  
+  
+
+  
+
+  <link rel="manifest" href="/Hugh-CV/index.webmanifest">
+  <link rel="icon" type="image/png" href="/Hugh-CV/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_32x32_fill_lanczos_center_2.png">
+  <link rel="apple-touch-icon" type="image/png" href="/Hugh-CV/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_192x192_fill_lanczos_center_2.png">
+
+  <link rel="canonical" href="https://hughandbecky.us/Hugh-CV/post/dublin-core-theory/">
+
+  
+  
+  
+  
+  
+  
+  
+    
+  
+  
+  <meta property="twitter:card" content="summary_large_image">
+  
+  <meta property="twitter:site" content="@thejourneyler">
+  <meta property="twitter:creator" content="@thejourneyler">
+  
+  <meta property="og:site_name" content="Hugh&#39;s Curriculum Vitae">
+  <meta property="og:url" content="https://hughandbecky.us/Hugh-CV/post/dublin-core-theory/">
+  <meta property="og:title" content="Some questions on the theory presented in the Dublin Core | Hugh&#39;s Curriculum Vitae">
+  <meta property="og:description" content="If we take a design look at Dublin Core, is it really as flexible as proclaimed or are there limits imposed by semantics.">
+  
+  <meta property="og:image" content="https://hughandbecky.us/Hugh-CV/media/HughPaterson.jpg">
+  <meta property="twitter:image" content="https://hughandbecky.us/Hugh-CV/media/HughPaterson.jpg">
+  
+  <meta property="og:locale" content="en-us">
+  <meta property="article:published_time" content="2022-10-12T14:35:45&#43;01:00"><meta property="article:modified_time" content="2022-10-12T14:35:45&#43;01:00">
+
+
+    
+
+
+
+
+
+
+  
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://hughandbecky.us/Hugh-CV/post/dublin-core-theory/"
+  },
+  "headline": "Some questions on the theory presented in the Dublin Core",
+  
+  "datePublished": "2022-10-12T14:35:45+01:00",
+  "dateModified": "2022-10-12T14:35:45+01:00",
+  
+  "author": {
+    "@type": "Person",
+    "name": "Hugh Paterson III"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Hugh's Curriculum Vitae",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://hughandbecky.us/Hugh-CV/images/logo.svg"
+    }
+  },
+  "description": "If we take a design look at Dublin Core, is it really as flexible as proclaimed or are there limits imposed by semantics."
+}
+</script>
+
+  
+
+  
+
+
+
+
+
+
+<link rel="stylesheet" type="text/css" href="/Hugh-CV/css/custom.css" />
+
+<link rel="stylesheet" type="text/css" href="/Hugh-CV/css/hugo-cite.css" />
+
+
+<meta name="pinterest" content="nopin">
+
+
+<meta name="keywords" content="Semantics, Metadata, Dublin Core, OLAC">
+
+
+
+
+<link rel="schema.dc" href="http://purl.org/dc/elements/1.1/">
+
+<link rel="schema.DCTERMS" href="http://purl.org/dc/terms/">
+
+
+
+
+<meta name="DC.Title" content="Some questions on the theory presented in the Dublin Core">
+<meta name="citation_title" content="Some questions on the theory presented in the Dublin Core">
+<meta name="eprints.title" content="Some questions on the theory presented in the Dublin Core">
+<meta name="dcterms.title" content="Some questions on the theory presented in the Dublin Core">
+<meta name="DC.Creator" content="admin">
+<meta name="citation_author" content="admin">
+<meta name="DC.Subject" content="Semantics">
+<meta name="DC.Subject" content="Metadata">
+<meta name="DC.Subject" content="Dublin Core">
+<meta name="DC.Subject" content="OLAC">
+<meta name="DC.Description" content="A couple of hard questions about design assumptions in the Dublin Core Metadata Scheme.">
+<meta name="dcterms.abstract" content="A couple of hard questions about design assumptions in the Dublin Core Metadata Scheme.">
+<meta name="eprints.abstract" content="A couple of hard questions about design assumptions in the Dublin Core Metadata Scheme.">
+
+
+<meta name="dcterms.issued" content="2022-10-12">
+<meta name="DC.Date" content="2022-10-12">
+<meta name="citation_publication_date" content="2022">
+
+
+<meta name="DC.Rights" content="Copyright 2022">
+<meta name="citation_online_date" content="2022/10/12">
+
+<meta name="citation_keywords" content="Semantics, Metadata, Dublin Core, OLAC">
+
+
+
+
+
+
+ Blog post metadata
+
+<title>Some questions on the theory presented in the Dublin Core | Hugh&#39;s Curriculum Vitae</title>
+
+</head>
+
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class=" ">
+
+  
+  
+  
+  
+    <script>const isSiteThemeDark = false;</script>
+  
+  
+  <script src="/Hugh-CV/js/load-theme.js"></script>
+
+  <aside class="search-results" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control">
+        
+      </div>
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+  <div class="container">
+
+    
+    <div class="d-none d-lg-inline-flex">
+      <a class="navbar-brand" href="/Hugh-CV/"><img src="/Hugh-CV/images/logo.svg" alt="Hugh&#39;s Curriculum Vitae"></a>
+    </div>
+    
+
+    
+    <button type="button" class="navbar-toggler" data-toggle="collapse"
+            data-target="#navbar-content" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+    <span><i class="fas fa-bars"></i></span>
+    </button>
+    
+
+    
+    <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+      <a class="navbar-brand" href="/Hugh-CV/"><img src="/Hugh-CV/images/logo.svg" alt="Hugh&#39;s Curriculum Vitae"></a>
+    </div>
+    
+
+    
+    
+    <div class="navbar-collapse main-menu-item collapse justify-content-end" id="navbar-content">
+
+      
+      <ul class="navbar-nav d-md-inline-flex">
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/Hugh-CV/#about"><span>Home</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/Hugh-CV/#featured"><span>Publications</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/Hugh-CV/#talks"><span>Talks</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/Hugh-CV/#projects"><span>Projects</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/Hugh-CV/#teaching"><span>Teaching</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/Hugh-CV/#experience"><span>Experience</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/Hugh-CV/#posts"><span>Notes</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/Hugh-CV/#contact"><span>Contact</span></a>
+        </li>
+
+        
+        
+
+      
+
+        
+      </ul>
+    </div>
+
+    <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+      
+      <li class="nav-item">
+        <a class="nav-link js-search" href="#" aria-label="Search"><i class="fas fa-search" aria-hidden="true"></i></a>
+      </li>
+      
+
+      
+      
+
+      
+
+    </ul>
+
+  </div>
+</nav>
+
+
+
+  <article class="article">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+  
+  
+<div class="article-container pt-3">
+  <h1>Some questions on the theory presented in the Dublin Core</h1>
+
+  
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+  
+  <span ><a href="/Hugh-CV/author/hugh-paterson-iii/">Hugh Paterson III</a></span>
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    12 Oct, 2022
+  </span>
+  
+
+  
+
+  
+  <span class="middot-divider"></span>
+  <span class="article-reading-time">
+    7 min read
+  </span>
+  
+
+  
+  
+  
+
+  
+  
+  <span class="middot-divider"></span>
+  <span class="article-categories">
+    <i class="fas fa-folder mr-1"></i><a href="/Hugh-CV/category/research-note/">Research Note</a>, <a href="/Hugh-CV/category/jot/">Jot</a></span>
+  
+
+</div>
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+</div>
+
+
+
+  <div class="article-container">
+
+    <div class="article-style">
+      <ol>
+<li>
+<p>It seems that various communities of use of the Dublin Core have understood the possibilities of the Dublin Core within their own traditions of record making. For example, when dealing with Qualified Dublin Core, librarians suggest not using both <code>dc:Description</code> and <code>dcterms:Abstract</code>. That is, <code>dcterms:Abstract</code> ought to be reserved for semantically valid abstracts as understood in print media. However, What is to say that <code>dcterms:Abstract</code> can not be applied to any item qualified with any value of the DCMIType? That is, what is the abstract of a sound, software, event or physical object? This may seem absurd in some cases, but is a sound clip or a movie trailer not the same as an abstract?</p>
+</li>
+<li>
+<p>Dublin Core has several design principles intended for its use. Two of them are the <em>1-to-1 Principle</em> and the <em>Repeatability principle</em>. The question I wish to pose is <em>how can these two principles interact in predictable ways?</em> The Repeatability principle says that any described object can have multiple instances of the same element describing a resource. For example, two or three instances of dc:subject as part of an object record makes sense. The 1-to-1 Principle says that each record should only describe one object. The 1-to-1 Principle seems rather straight forward until one faces constraints imposed by technology platforms or seeks to describe aggregate works. Setting aside the issue of describing aggregate works, <em>how do these principles interact when working with Qualified Dublin Core?</em> That is, does the 1-to-1 Principle provide constraints to the application of the Repeatability Principle. For example, qualified <code>dc:type</code> elements with the DCMIType vocabulary ought to only be used in their singularity. Presumably, a record with both a qualified type of &ldquo;text&rdquo; and &ldquo;sound&rdquo; each relating to different files in a &ldquo;record bundle&rdquo; would be in violation of the 1-to-1 Principle. For a different crazy example consider: how can a qualified <code>dc:type.dcmitype.sound</code> also be <code>dc:type.dcmitype.event</code>? That is, not only are there limits to via the 1-to-1 Principle, but also internal term-specific semantics of the qualified terms are limiting, but it seems that there are repeatable types of interactions which specifically limit the application of the Repeatability principle. Perhaps no terms are more in semantically incompatible than &ldquo;collection&rdquo; and any other term in the DCMIType vocabulary. How can something be a &ldquo;collection&rdquo; and also a &ldquo;text&rdquo; unless we are arbitrarily assigning the type text to each item within the collection. However, doing this is a violation of the practice of description that indicates that the record should only apply to a single layer of the description — presumably the entire collection at this point, so DCMIType &ldquo;Collection&rdquo; should not co-occur with any other DCMIType qualifier. Note, I am only speaking of situations which qualify the type element from the dcterms namespace. Obviously, <code>dc:type</code> can be unqualified, and can also be qualified differently from different namespaces and all of these can co-exist.</p>
+</li>
+</ol>
+<p>Some thought has gone into a Dublin Core Constraint Language. See 
+<a href="http://web.archive.org/web/20190628022348/https://www.dublincore.org/specifications/dublin-core/dc-dsp/2008-03-31/" target="_blank" rel="noopener">the linked propsal</a>. However, this seems to be taking constraints in yet another direction.</p>
+<ol start="3">
+<li>
+<p>Since a <code>dct:license</code> value is only valid as long as copyright is also valid, and since copyright length varies from jurisdiction to jurisdiction, <em>how is the jurisdiction of the copyright registration (claim/standing) indicated?</em> For further discussion on this question see: <a href="https://github.com/dcmi/usage/issues/104">https://github.com/dcmi/usage/issues/104</a></p>
+</li>
+<li>
+<p><em>What qualifier on the &ldquo;date&rdquo; element is used on a record which also contains a <code>dc:type</code> element where the DCMIType qualified value is &ldquo;Event&rdquo;?</em> It seems that date elements qualify a number of types of resources describable with the DCMIType vocabulary. However, specific dates inferring a relationship for Events are not explicitly clear. The general date element is available and the duration syntax could be used. But is this sufficient for the kinds of dates needed in regards to Event descriptions?</p>
+</li>
+<li>
+<p><em>How is one to indicate the script a resource is in via Dublin Core?</em> One could use the language tag with a valid BCP-47 tag but this is not mentioned in the usage guide. (One would need to indicate either RFC4646 or RFC5646 as the refinement of language.) If am I to correctly understand the situation, new approved syntaxes have crept into DC/DCT usage over time via the language tag recommendations as the IETF approves new language tag related RFCs.</p>
+</li>
+</ol>
+<p>To prevent this from happening maybe the DC Usage board can just define a syntax for BCP-47 which will remain a stable pointer without needing to invoke a specific RFC defined syntax. BCP-47 has in the past pointed to each of RFC1766, RFC3066, RFC4646, RFC5646. Each progressive standard in the BCP-47 series does not invalidate the next set of codes but rather adds specification. All RFC1766 tags are valid RFC5646 tags, but not all RFC5646 tags are valid RFC1766 tags. However all RFC1766 tags and all RFC1766 tags are valid BCP-47 tags. As I understand things, by pointing to RFC5646 rather than BCP-47 it does not allow for the implementation of RFC6067 and RFC6497 within the narrowly interpreted syntax of RFC5646. RFC5646 allows for 35 subtags with in the BCP-47 space, RFC6067 and RFC6497 define two of these without changing the syntax of the BCP-47 tag scheme. It&rsquo;s just that when narrowly understood, RFC5646, now doesn&rsquo;t include all of BCP-47.</p>
+<p>My thought is that it might be possible to just define BCP-47 as a syntax and if additional sub-tags are registered then there is no-need on the part of DCMI to update the number of syntaxes DC/DCT count as valid.</p>
+<ol start="6">
+<li>Dublin Core does not specify a specific syntax. Therefore it must get its syntax from an application profile, a specific instanciation of defined community agreements. When the syntax is XML, the exact nature of the allowable elements and attributes may vary based on the namespaces declared in the header. Therefore I have a general question about the use of the <code>xsi:type=&quot;&quot;</code> attribute in XML, as the <code>xsi</code> namespaces is often declared in Dublin Core application profiles. <strong>Do values of <code>xsi:type=&quot;&quot;</code> need to be namespaced?</strong>  The Open Language Archive application profiles (based on Dublin Core and OAI: therefore XML) uses namespaced values such as <code>xsi:type=&quot;olac:role&quot;</code>.  So what happens if I just use <code>role</code> without namespacing it? I had this issue come up in some other dublin core project and I couldn&rsquo;t get a clear answer. That project doesn&rsquo;t namespace <code>xsi:type=&quot;&quot;</code> values and I suggested that those non-namespaced values shouldn&rsquo;t validate&hellip; but then project owners said: &ldquo;oh the code validates just fine&rdquo;&hellip;. but I&rsquo;m thinking that it syntactically validates as valid XML but does not validate against a schema. The second thing I was thinking was where does the <code>xsi:type=&quot;&quot;</code> validate against when there is no namespace? An OLAC (or any OAI based aggregator) security concern would be to close this gap and force all <code>xsi:type=&quot;&quot;</code> uses to namespace as a required practice. ELSE fail a required validation.</li>
+</ol>
+<p>The book <em>XML in a Nutshell</em> says the following:</p>
+<blockquote>
+<p><strong>xsi:type</strong>
+The xsi:type attribute may be used in instance documents to indicate the type of an element, even when a full schema is not available. For example, this length element has type xs:decimal : <code>&lt;length xsi:type=&quot;xs:decimal&quot;&gt;23.5&lt;/length&gt;</code> More importantly, the xsi:type attribute enables a limited form of polymorphism. That is, it allows you to make an element an instance of a derived type where an instance of the base type would normally be expected. The instance of the derived type must carry an xsi:type attribute identifying it as an instance of the derived type. For example, suppose a schema says that a ticket element has type TicketType . If the schema also defines BusTicketType and AirplaneTicketType elements as subtypes of TicketType , then a ticket element could also use the BusTicketType and AirplaneTicketType content models provided it had an <code>xsi:type=&quot;BusTicketType&quot;</code> or
+<code>xsi:type=&quot;AirplaneTicketType&quot;</code> attribute.</p>
+</blockquote>
+<p>But here again what if <code>AirplaneTicketType</code> is not defined in the base schema?</p>
+<p>This sort of question seems to have been asked on 
+<a href="https://stackoverflow.com/questions/20245364/to-which-xml-namespace-does-an-unqualified-name-in-an-xsitype-attribute-belong" target="_blank" rel="noopener">stack exchange</a> where it is pointed out that in the 
+<a href="https://www.w3.org/TR/xmlschema-1/#cvc-assess-elt" target="_blank" rel="noopener">XML specification that all elements need to be defined</a>. See also 
+<a href="https://www.w3.org/TR/xmlschema11-1/#Simple_Type_Definition" target="_blank" rel="noopener">Type Definition</a> and this 
+<a href="https://stackoverflow.com/questions/34202967/xmlns-xmlnsxsi-xsischemalocation-and-targetnamespace" target="_blank" rel="noopener">stack exchange explination</a> for the XML header.</p>
+
+    </div>
+
+    
+
+
+
+
+
+  
+    <span><em>Tags</em>:</span>    
+
+<span class="article-tags">
+  
+  <a class="badge badge-light" href="/Hugh-CV/tag/semantics/">Semantics</a>
+  
+  <a class="badge badge-light" href="/Hugh-CV/tag/metadata/">Metadata</a>
+  
+  <a class="badge badge-light" href="/Hugh-CV/tag/dublin-core/">Dublin Core</a>
+  
+  <a class="badge badge-light" href="/Hugh-CV/tag/olac/">OLAC</a>
+  
+</span>
+
+
+  
+
+
+
+  
+    <br><span><em>Categories</em>:</span>   
+
+<span class="article-tags">
+  
+  <a class="badge badge-light" href="/Hugh-CV/category/research-note/">Research Note</a>
+  
+  <a class="badge badge-light" href="/Hugh-CV/category/jot/">Jot</a>
+  
+</span>
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    
+
+
+
+
+
+  
+    
+    
+    
+      
+    
+    
+    
+    <div class="media author-card content-widget-hr">
+      
+        
+        <img class="avatar mr-3 avatar-circle" src="/Hugh-CV/author/hugh-paterson-iii/avatar_huf06207d43952fcec4f010d643d581cb5_33859_270x270_fill_q90_lanczos_center.jpg" alt="Hugh Paterson III">
+      
+
+      <div class="media-body">
+        <h5 class="card-title"><a href="https://hughandbecky.us/Hugh-CV/">Hugh Paterson III</a></h5>
+        <h6 class="card-subtitle">Collaborative Scholar</h6>
+        <p class="card-text">My research interests include typological patterns in articulatory phonetics; User Experience design in language tools; and graph theory applied to language and linguistic resource discovery.</p>
+        <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="//scholar.google.com/citations?user=b3KeFqkAAAAJ" >
+        <i class="ai ai-google-scholar"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="//github.com/HughP" >
+        <i class="fab fa-github"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="//twitter.com/thejourneyler" >
+        <i class="fab fa-twitter"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://orcid.org/0000-0002-5502-4865" target="_blank" rel="noopener">
+        <i class="fab fa-orcid"></i>
+      </a>
+    </li>
+  
+</ul>
+
+      </div>
+    </div>
+  
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  <div class="article-widget content-widget-hr">
+    <h3>Related</h3>
+    <ul>
+      
+      <li><a href="/Hugh-CV/post/metadata-quality-assessment-and-olac/">Metadata Quality Assessment &amp; OLAC</a>&nbsp;&nbsp;<span class="badge badge-light" style="font-size: 0.6em; vertical-align: middle;">post</span></li>
+      
+      <li><a href="/Hugh-CV/post/olac-subject-terms/">OLAC Subject Terms and Their Equivalents</a>&nbsp;&nbsp;<span class="badge badge-light" style="font-size: 0.6em; vertical-align: middle;">post</span></li>
+      
+      <li><a href="/Hugh-CV/post/olac-success/">OLAC Success</a>&nbsp;&nbsp;<span class="badge badge-light" style="font-size: 0.6em; vertical-align: middle;">post</span></li>
+      
+      <li><a href="/Hugh-CV/post/olac-term-consolidation/">OLAC Term Consolidation</a>&nbsp;&nbsp;<span class="badge badge-light" style="font-size: 0.6em; vertical-align: middle;">post</span></li>
+      
+      <li><a href="/Hugh-CV/post/diversity-and-typology-across-olac-providers/">Diversity and Typology Across OLAC Providers</a>&nbsp;&nbsp;<span class="badge badge-light" style="font-size: 0.6em; vertical-align: middle;">post</span></li>
+      
+    </ul>
+  </div>
+  
+
+
+
+
+
+  </div>
+</article>
+
+      
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js" integrity="sha256-yt2kYMy0w8AbtF89WXb2P1rfjcP/HTHLT7097U8Y5b8=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/instant.page/5.1.0/instantpage.min.js" integrity="sha512-1+qUtKoh9XZW7j+6LhRMAyOrgSQKenQ4mluTR+cvxXjP1Z54RxZuzstR/H9kgPXQsVB8IW7DMDFUJpzLjvhGSQ==" crossorigin="anonymous"></script>
+
+      
+
+      
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/highlight.min.js" integrity="sha512-TDKKr+IvoqZnPzc3l35hdjpHD0m+b2EC2SrLEgKDRWpxf2rFCxemkgvJ5kfU48ip+Y+m2XVKyOCD85ybtlZDmw==" crossorigin="anonymous"></script>
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/languages/r.min.js"></script>
+        
+      
+
+    
+
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/leaflet.min.js" integrity="sha512-SeiQaaDh73yrb56sTW/RgVdi/mMqNeM2oBwubFHagc5BkixSpP1fvqF47mKzPGWYSSy4RwbBunrJBQ4Co8fRWA==" crossorigin="anonymous"></script>
+    
+
+    
+    
+    <script>const code_highlighting = true;</script>
+    
+
+    
+    
+    
+    
+    
+    
+    <script>
+      const search_config = {"indexURI":"/Hugh-CV/index.json","minLength":1,"threshold":0.3};
+      const i18n = {"no_results":"No results found","placeholder":"Search...","results":"results found"};
+      const content_type = {
+        'post': "Marginalia",
+        'project': "Projects",
+        'publication' : "Publications",
+        'talk' : "Talks",
+        'slides' : "Slides"
+        };
+    </script>
+    
+
+    
+    
+
+    
+    
+    <script id="search-hit-fuse-template" type="text/x-template">
+      <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{ snippet }}</p>
+        </div>
+      </div>
+      </div>
+    </script>
+    
+
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+    
+
+    
+    
+
+    
+    
+
+    
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+    
+    
+    <script src="/Hugh-CV/js/academic.min.3b2b658c61ebd725bd5fc606c89fe44c.js"></script>
+
+    
+
+
+
+
+
+
+  
+  
+  <div class="container">
+    <footer class="site-footer">
+  
+  <p class="powered-by">
+    
+      <a href="/Hugh-CV/tag/privacy-policy/">Privacy Policy</a>
+    
+    
+  </p>
+  
+
+  <p class="powered-by">
+    Hugh Paterson III © 2022
+  </p>
+
+  
+  
+
+
+
+
+
+
+  <p class="powered-by">
+    
+
+    
+    <span class="float-right" aria-hidden="true">
+      <a href="#" class="back-to-top">
+        <span class="button_icon">
+          <i class="fas fa-chevron-up fa-2x"></i>
+        </span>
+      </a>
+    </span>
+    
+  </p>
+</footer>
+
+  </div>
+  
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>

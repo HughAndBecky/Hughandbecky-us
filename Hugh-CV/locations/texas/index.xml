@@ -45,13 +45,13 @@
 
 
 
-&lt;figure id=&#34;figure-bathroom-built-in-shelf-shelves-are-douglas-fir-finished-with-spar-urethane-while-backing-and-siding-are-birch-plywood-finished-with-polyurethane&#34;&gt;
+&lt;figure id=&#34;figure-bathroom-built-in-shelf-shelves-are-douglas-fir-finished-with-spar-urethane-while-backing-and-siding-are-birch-plywood-finished-with-polyurethane&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
 
 
   &lt;a data-fancybox=&#34;&#34; href=&#34;Lightening/IMG-0316.JPG&#34; data-caption=&#34;Bathroom built in shelf. Shelves are Douglas Fir finished with Spar-urethane while backing and siding are Birch plywood finished with Polyurethane.&#34;&gt;
 
 
-  &lt;img src=&#34;Lightening/IMG-0316.JPG&#34; alt=&#34;Bathroom Built in.&#34; width=&#34;40%&#34; &gt;
+  &lt;img src=&#34;Lightening/IMG-0316.JPG&#34; alt=&#34;Bathroom Built in.&#34; width=&#34;40%&#34;  itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
 
 
@@ -92,13 +92,13 @@
 
 
 
-&lt;figure id=&#34;figure-a-wedge-like-shelf-for-books-this-one-has-art-work-with-done-with-a-scroll-saw-on-the-end&#34;&gt;
+&lt;figure id=&#34;figure-a-wedge-like-shelf-for-books-this-one-has-art-work-with-done-with-a-scroll-saw-on-the-end&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
 
 
   &lt;a data-fancybox=&#34;&#34; href=&#34;Shelves/IMG-0324.JPG&#34; data-caption=&#34;A wedge like shelf for books. This one has art work with done with a scroll saw on the end.&#34;&gt;
 
 
-  &lt;img src=&#34;Shelves/IMG-0324.JPG&#34; alt=&#34;Book Wedge&#34; width=&#34;40%&#34; &gt;
+  &lt;img src=&#34;Shelves/IMG-0324.JPG&#34; alt=&#34;Book Wedge&#34; width=&#34;40%&#34;  itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
 
 
@@ -210,13 +210,13 @@ Chopping Apples.&lt;/p&gt;
 
 
 
-&lt;figure id=&#34;figure-fireplace-mantel-and-i-did-the-stone-work-too&#34;&gt;
+&lt;figure id=&#34;figure-fireplace-mantel-and-i-did-the-stone-work-too&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
 
 
   &lt;a data-fancybox=&#34;&#34; href=&#34;Shelves/IMG_9706.jpg&#34; data-caption=&#34;Fireplace mantel. (and I did the stone work too!)&#34;&gt;
 
 
-  &lt;img src=&#34;Shelves/IMG_9706.jpg&#34; alt=&#34;Fireplace mantel.&#34;  &gt;
+  &lt;img src=&#34;Shelves/IMG_9706.jpg&#34; alt=&#34;Fireplace mantel.&#34;   itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
 
 
@@ -226,7 +226,9 @@ Chopping Apples.&lt;/p&gt;
     &lt;p&gt;Fireplace mantel. (and I did the stone work too!)
       
 &lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;https://hugh4.us&#34;&gt; 
-Hugh Paterson III
+Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
+        &lt;meta itemprop=&#34;name&#34; content=&#34;Hugh Paterson III&#34; /&gt;
+      &lt;/span&gt;
 &lt;/a&gt; &lt;/span&gt;
 &lt;/p&gt;
   &lt;/figcaption&gt;
