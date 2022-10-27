@@ -13,11 +13,21 @@
     </image>
     
     <item>
+      <title>Open Language Archives Community Research</title>
+      <link>https://hughandbecky.us/Hugh-CV/project/2021-open-language-archives-community/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/project/2021-open-language-archives-community/</guid>
+      <description>&lt;p&gt;In this research project I look at the information architecture supporting the global ability to assess language resources. I look at issues such as metadata schemas, description and arrangement in archives, and the technology stack presenting OLAC. I started intently looking at OLAC resources at the end of 2020 while looking at language archives more broadly and trying to create an OLAC OAI feed. Since then I have presented at conferences and published results of my findings in several locations as my findings have bearing on the broader areas of resource stewardship and resource description.  I was invited by Steven Bird to think with him on what OLAC 2.0 might look like. That work, its results and blog posts are also linked to this &amp;ldquo;project&amp;rdquo; page.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>XLingPaper</title>
       <link>https://hughandbecky.us/Hugh-CV/project/2021-xlingpaper/</link>
       <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
       <guid>https://hughandbecky.us/Hugh-CV/project/2021-xlingpaper/</guid>
-      <description>&lt;p&gt;Since at least 2014 I have been using XLingPaper as a composition tool. I have collaborated with Andy Back who is the primary programmer/author of XLingPaper.  I have contributed ideas, suggestions, problems, test cases, and bug reports. Andy and I together published a paper in TugBoat since XLingPaper uses TeX technology.&lt;/p&gt;
+      <description>&lt;p&gt;Since at least 2014 I have been using 
+&lt;a href=&#34;https://software.sil.org/xlingpaper&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;XLingPaper&lt;/a&gt; as a composition tool. I have collaborated with Andy Back who is the primary programmer/author of XLingPaper.  Our collaboration can be characteized as me contributing ideas, suggestions, problems, test cases, and bug reports. Following the defense of my M.A. Thesis, which I wrote using XLingPaper, Andy and I together published a paper in TugBoat which disucsses XLingPaper use of TeX technology. My contribution to the XLingPaper community is ongoing through my annotated bibliography of works produced via XLingPaper and additional contributions to the software. Someday I hope that the citation and referencing process within XLingPaper will become more robust but that is a big task.&lt;/p&gt;
 </description>
     </item>
     

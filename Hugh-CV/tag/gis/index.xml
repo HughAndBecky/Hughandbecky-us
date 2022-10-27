@@ -17,15 +17,32 @@
       <link>https://hughandbecky.us/Hugh-CV/project/2011-geo-linguistics/</link>
       <pubDate>Sat, 12 Mar 2011 00:00:00 +0000</pubDate>
       <guid>https://hughandbecky.us/Hugh-CV/project/2011-geo-linguistics/</guid>
-      <description>&lt;p&gt;There are seven major sub-areas of this project:&lt;/p&gt;
+      <description>&lt;p&gt;Geo-linguistics is a methodology of plotting various linguistic dimensions on cartographic displays. When I started in language documentation there were not many resources for interdisciplinary cartographers. Maps are very useful, but potentially deceptive tools. I wrote a 
+&lt;a href=&#34;https://hugh.thejourneyler.org/2012/types-of-linguistic-maps-the-mapping-of-linguistic-features/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;blog post&lt;/a&gt; in 2012 titled: “Types of Linguistic Maps: The Mapping of Linguistic Features and Researcher Interactivity.” At one time ranked within the top three hits (via Google) for linguistic maps and ranks first for &amp;ldquo;types of linguistic maps&amp;rdquo;. As a result it was cited several times in academic literature. (It&amp;rsquo;s interesting to see how various people respond to my post. For some it has been very influential—almost copying it—and other using it for fodder.)&lt;/p&gt;
+&lt;p&gt;No less than four academic articles cite it. I have been encouraged by one of the authors to take the article to print. Maybe one day I will. It seems that the tyranny of the urgent dictates my writing schedule. Articles which cite my post can be found at the following links:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;(in Arabic script) &lt;a href=&#34;https://iling.spb.ru/periodicals/larng/2018/book.pdf#page=212&#34;&gt;https://iling.spb.ru/periodicals/larng/2018/book.pdf#page=212&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;(in Cyrillic script) &lt;a href=&#34;https://www.researchgate.net/profile/Soumia-Tamma-2/publication/364028635_Techniques_of_Designing_Modern_Linguistics_Mapping/links/63369ce9ff870c55ceea2249/Techniques-of-Designing-Modern-Linguistics-Mapping.pdf&#34;&gt;https://www.researchgate.net/profile/Soumia-Tamma-2/publication/364028635_Techniques_of_Designing_Modern_Linguistics_Mapping/links/63369ce9ff870c55ceea2249/Techniques-of-Designing-Modern-Linguistics-Mapping.pdf&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Drude, Sebastian. 2018. “Why We Need Better Language Maps, and What They Could Look Like.” In Endangered Languages and the Land: Mapping Landscapes of Multilingualism, 33–40. Proceedings of FEL XXII/2018 Reykjavík, Iceland. London, UK: FEL &amp;amp; EL Publishing. 
+&lt;a href=&#34;http://www.elpublishing.org/docs/4/01/FEL-2018-06.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.elpublishing.org/PID/4006&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://scholarspace.manoa.hawaii.edu/handle/10125/24692&#34;&gt;https://scholarspace.manoa.hawaii.edu/handle/10125/24692&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;There are now other displays of language maps available. For example:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.vox.com/2014/11/17/7082317/language-maps-charts&#34;&gt;https://www.vox.com/2014/11/17/7082317/language-maps-charts&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://blogs.loc.gov/maps/2022/02/words-on-a-map-the-cartography-of-language&#34;&gt;https://blogs.loc.gov/maps/2022/02/words-on-a-map-the-cartography-of-language&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;The focus of my blog post was just the start of the acquisition of more skills in the area of cartography. I address more areas, including linguistics and ways of plotting languages in 
+&lt;a href=&#34;https://hugh.thejourneyler.org/category/cartography/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;my series of posts on cartography&lt;/a&gt;.&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;Explaining cartographic concepts.&lt;/li&gt;
-&lt;li&gt;Explaining and reviewing tools for generating and processing the necessay data.&lt;/li&gt;
+&lt;li&gt;Explaining and reviewing tools for generating and processing the necessary data.&lt;/li&gt;
 &lt;li&gt;Creating population density visualizations.&lt;/li&gt;
 &lt;li&gt;Collecting place names and generating a map in Nigeria.&lt;/li&gt;
 &lt;li&gt;Creating a map of the language documentation files in the Meꞌphaa language documentation project.&lt;/li&gt;
 &lt;li&gt;Creating a map of the language documentation files in the U̠t-Ma&amp;rsquo;in language documentation project.&lt;/li&gt;
-&lt;li&gt;Creating several maps for Dan related to my M.A. thesis work.&lt;/li&gt;
+&lt;li&gt;Creating several maps for Dan related to work in that language.&lt;/li&gt;
+&lt;li&gt;Creating maps of the primary location where languages are spoken for which we know resources exist but are not archived.&lt;/li&gt;
 &lt;/ol&gt;
 &lt;!-- Map making tools
 
@@ -38,6 +55,10 @@ https://bitbucket.org/tbrugz/kmlutils/wiki/HOWTO.en
 https://freegeographytools.com/2009/convertreproject-shapefiles-and-kml-files-to-svg-format-with-indiemapper
 
 https://bitbucket.org/voron-raven/maps
+
+
+Paterson III, Hugh. 2012. “Types of Linguistic Maps: The Mapping of Linguistic Features and Researcher Interactivity.” The Journeyler. March 23. http://hugh.thejourneyler.org/2012/types-of-linguistic-maps-the-mapping-of-linguistic-features/.
+
 
 Filter country shapes: https://wiki.openstreetmap.org/wiki/Osmfilter --&gt;
 </description>

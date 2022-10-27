@@ -15904,6 +15904,15 @@ useful, OLAC lacks a deep semantic definition and relies mostly on best practice
     </item>
     
     <item>
+      <title>Open Language Archives Community Research</title>
+      <link>https://hughandbecky.us/Hugh-CV/project/2021-open-language-archives-community/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/project/2021-open-language-archives-community/</guid>
+      <description>&lt;p&gt;In this research project I look at the information architecture supporting the global ability to assess language resources. I look at issues such as metadata schemas, description and arrangement in archives, and the technology stack presenting OLAC. I started intently looking at OLAC resources at the end of 2020 while looking at language archives more broadly and trying to create an OLAC OAI feed. Since then I have presented at conferences and published results of my findings in several locations as my findings have bearing on the broader areas of resource stewardship and resource description.  I was invited by Steven Bird to think with him on what OLAC 2.0 might look like. That work, its results and blog posts are also linked to this &amp;ldquo;project&amp;rdquo; page.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Privacy Policy Framework</title>
       <link>https://hughandbecky.us/Hugh-CV/project/2021-oregon-privacy-research/</link>
       <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
@@ -15917,7 +15926,8 @@ useful, OLAC lacks a deep semantic definition and relies mostly on best practice
       <link>https://hughandbecky.us/Hugh-CV/project/2021-xlingpaper/</link>
       <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
       <guid>https://hughandbecky.us/Hugh-CV/project/2021-xlingpaper/</guid>
-      <description>&lt;p&gt;Since at least 2014 I have been using XLingPaper as a composition tool. I have collaborated with Andy Back who is the primary programmer/author of XLingPaper.  I have contributed ideas, suggestions, problems, test cases, and bug reports. Andy and I together published a paper in TugBoat since XLingPaper uses TeX technology.&lt;/p&gt;
+      <description>&lt;p&gt;Since at least 2014 I have been using 
+&lt;a href=&#34;https://software.sil.org/xlingpaper&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;XLingPaper&lt;/a&gt; as a composition tool. I have collaborated with Andy Back who is the primary programmer/author of XLingPaper.  Our collaboration can be characteized as me contributing ideas, suggestions, problems, test cases, and bug reports. Following the defense of my M.A. Thesis, which I wrote using XLingPaper, Andy and I together published a paper in TugBoat which disucsses XLingPaper use of TeX technology. My contribution to the XLingPaper community is ongoing through my annotated bibliography of works produced via XLingPaper and additional contributions to the software. Someday I hope that the citation and referencing process within XLingPaper will become more robust but that is a big task.&lt;/p&gt;
 </description>
     </item>
     
@@ -40155,6 +40165,7 @@ Because there is a footer on the web-page with a CC license, is the website user
       <description>&lt;p&gt;This project started out with a personal interest in the variation of &lt;em&gt;copyright law&lt;/em&gt; as it is applied to language documentation materials from a global perspective (different locations and different citizens). I see the issue of copyright and jursidiction as important for global nomads who engage in linguistic tourism, and who believe in archiving data. Some simple investagation has shown that there is a lot more than &amp;lsquo;just copyright&amp;rsquo; which impacts the multi-laterial relationship(s) between the law and legal policy,  the vitality of languages, and the availability of linguistic or language based resources. Several collaborations and discussions have bennefitted from this research. Ultimatly the results of this research should be in a browsable database, not in some sort of publication. More boradly, and necessary but later encountered legal topics include, &lt;em&gt;jusridiction&lt;/em&gt; and &lt;em&gt;privacy rights&lt;/em&gt;.&lt;/p&gt;
 &lt;p&gt;Investigation and design is still ongoing, but a rough sketch is provided.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;Legislation_Impacting_Language.png&#34; alt=&#34;Leagal item browser for language impact&#34; title=&#34;Draft UI&#34;&gt;&lt;/p&gt;
+&lt;!-- Maybe https://www.christensenfund.org/programs/ would fund this project  https://twitter.com/christensenfund --&gt;
 &lt;!-- This is where access to the air-table account would be nice. To look at all the inter country relationships. I think that the account is still there but only accessale with the hugh_paterson@sil.org email address. I might have tables downloaded as csv files.--&gt;
 </description>
     </item>
@@ -45437,15 +45448,32 @@ For pragmatic reasons it makes sense for SIL to start where it already has conta
       <link>https://hughandbecky.us/Hugh-CV/project/2011-geo-linguistics/</link>
       <pubDate>Sat, 12 Mar 2011 00:00:00 +0000</pubDate>
       <guid>https://hughandbecky.us/Hugh-CV/project/2011-geo-linguistics/</guid>
-      <description>&lt;p&gt;There are seven major sub-areas of this project:&lt;/p&gt;
+      <description>&lt;p&gt;Geo-linguistics is a methodology of plotting various linguistic dimensions on cartographic displays. When I started in language documentation there were not many resources for interdisciplinary cartographers. Maps are very useful, but potentially deceptive tools. I wrote a 
+&lt;a href=&#34;https://hugh.thejourneyler.org/2012/types-of-linguistic-maps-the-mapping-of-linguistic-features/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;blog post&lt;/a&gt; in 2012 titled: “Types of Linguistic Maps: The Mapping of Linguistic Features and Researcher Interactivity.” At one time ranked within the top three hits (via Google) for linguistic maps and ranks first for &amp;ldquo;types of linguistic maps&amp;rdquo;. As a result it was cited several times in academic literature. (It&amp;rsquo;s interesting to see how various people respond to my post. For some it has been very influential—almost copying it—and other using it for fodder.)&lt;/p&gt;
+&lt;p&gt;No less than four academic articles cite it. I have been encouraged by one of the authors to take the article to print. Maybe one day I will. It seems that the tyranny of the urgent dictates my writing schedule. Articles which cite my post can be found at the following links:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;(in Arabic script) &lt;a href=&#34;https://iling.spb.ru/periodicals/larng/2018/book.pdf#page=212&#34;&gt;https://iling.spb.ru/periodicals/larng/2018/book.pdf#page=212&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;(in Cyrillic script) &lt;a href=&#34;https://www.researchgate.net/profile/Soumia-Tamma-2/publication/364028635_Techniques_of_Designing_Modern_Linguistics_Mapping/links/63369ce9ff870c55ceea2249/Techniques-of-Designing-Modern-Linguistics-Mapping.pdf&#34;&gt;https://www.researchgate.net/profile/Soumia-Tamma-2/publication/364028635_Techniques_of_Designing_Modern_Linguistics_Mapping/links/63369ce9ff870c55ceea2249/Techniques-of-Designing-Modern-Linguistics-Mapping.pdf&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Drude, Sebastian. 2018. “Why We Need Better Language Maps, and What They Could Look Like.” In Endangered Languages and the Land: Mapping Landscapes of Multilingualism, 33–40. Proceedings of FEL XXII/2018 Reykjavík, Iceland. London, UK: FEL &amp;amp; EL Publishing. 
+&lt;a href=&#34;http://www.elpublishing.org/docs/4/01/FEL-2018-06.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.elpublishing.org/PID/4006&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://scholarspace.manoa.hawaii.edu/handle/10125/24692&#34;&gt;https://scholarspace.manoa.hawaii.edu/handle/10125/24692&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;There are now other displays of language maps available. For example:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.vox.com/2014/11/17/7082317/language-maps-charts&#34;&gt;https://www.vox.com/2014/11/17/7082317/language-maps-charts&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://blogs.loc.gov/maps/2022/02/words-on-a-map-the-cartography-of-language&#34;&gt;https://blogs.loc.gov/maps/2022/02/words-on-a-map-the-cartography-of-language&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;The focus of my blog post was just the start of the acquisition of more skills in the area of cartography. I address more areas, including linguistics and ways of plotting languages in 
+&lt;a href=&#34;https://hugh.thejourneyler.org/category/cartography/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;my series of posts on cartography&lt;/a&gt;.&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;Explaining cartographic concepts.&lt;/li&gt;
-&lt;li&gt;Explaining and reviewing tools for generating and processing the necessay data.&lt;/li&gt;
+&lt;li&gt;Explaining and reviewing tools for generating and processing the necessary data.&lt;/li&gt;
 &lt;li&gt;Creating population density visualizations.&lt;/li&gt;
 &lt;li&gt;Collecting place names and generating a map in Nigeria.&lt;/li&gt;
 &lt;li&gt;Creating a map of the language documentation files in the Meꞌphaa language documentation project.&lt;/li&gt;
 &lt;li&gt;Creating a map of the language documentation files in the U̠t-Ma&amp;rsquo;in language documentation project.&lt;/li&gt;
-&lt;li&gt;Creating several maps for Dan related to my M.A. thesis work.&lt;/li&gt;
+&lt;li&gt;Creating several maps for Dan related to work in that language.&lt;/li&gt;
+&lt;li&gt;Creating maps of the primary location where languages are spoken for which we know resources exist but are not archived.&lt;/li&gt;
 &lt;/ol&gt;
 &lt;!-- Map making tools
 
@@ -45458,6 +45486,10 @@ https://bitbucket.org/tbrugz/kmlutils/wiki/HOWTO.en
 https://freegeographytools.com/2009/convertreproject-shapefiles-and-kml-files-to-svg-format-with-indiemapper
 
 https://bitbucket.org/voron-raven/maps
+
+
+Paterson III, Hugh. 2012. “Types of Linguistic Maps: The Mapping of Linguistic Features and Researcher Interactivity.” The Journeyler. March 23. http://hugh.thejourneyler.org/2012/types-of-linguistic-maps-the-mapping-of-linguistic-features/.
+
 
 Filter country shapes: https://wiki.openstreetmap.org/wiki/Osmfilter --&gt;
 </description>
