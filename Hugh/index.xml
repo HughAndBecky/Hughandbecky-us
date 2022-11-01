@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugh&#39;s Business Card</title>
+    <link>https://hughandbecky.us/Hugh/</link>
+      <atom:link href="https://hughandbecky.us/Hugh/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hugh&#39;s Business Card</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2022</copyright>
+    <image>
+      <url>https://hughandbecky.us/Hugh/media/HughPaterson.jpg</url>
+      <title>Hugh&#39;s Business Card</title>
+      <link>https://hughandbecky.us/Hugh/</link>
+    </image>
+    
+    <item>
+      <title>Credits</title>
+      <link>https://hughandbecky.us/Hugh/credits/</link>
+      <pubDate>Sun, 28 Jun 2020 00:00:00 +0100</pubDate>
+      <guid>https://hughandbecky.us/Hugh/credits/</guid>
+      <description>&lt;h3 id=&#34;artists&#34;&gt;Artists&lt;/h3&gt;
+&lt;p&gt;Produced, under the creative vision of 
+&lt;a href=&#34;https://hughandbecky.us/Hugh-CV&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugh Paterson III&lt;/a&gt; with the technical mentoring of 
+&lt;a href=&#34;https://nqthqn.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nate Nichols&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Photos of Nigerian language speakers by Hugh Paterson III.&lt;br&gt;
+Photo of Becky Paterson by 
+&lt;a href=&#34;http://kimjonesphotography.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kim Jones&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Photos of collaborators provided by the collaborators. Used with permission.&lt;/p&gt;
+&lt;h3 id=&#34;technologies&#34;&gt;Technologies&lt;/h3&gt;
+&lt;p&gt;This site is made with open source technologies.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Built on 
+&lt;a href=&#34;https://www.wastalinux.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wasta Linux&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Using 
+&lt;a href=&#34;https://atom.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Atom&lt;/a&gt;, 
+&lt;a href=&#34;https://wiki.gnome.org/Apps/Gedit&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;gedit&lt;/a&gt;, and workflows dependent on 
+&lt;a href=&#34;https://www.zotero.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zotero&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Compiled with 
+&lt;a href=&#34;https://golang.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;golang 1.15&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Expressed via 
+&lt;a href=&#34;https://gohugo.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Templated via 
+&lt;a href=&#34;https://wowchemy.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; (formerly Academic),  
+&lt;a href=&#34;https://github.com/loup-brun/hugo-cite&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo-cite&lt;/a&gt;, and 
+&lt;a href=&#34;https://bdchauvette.net/leipzig.js&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;leipzig.js&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Deploying 
+&lt;a href=&#34;https://fontawesome.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Font Awesome&lt;/a&gt;, 
+&lt;a href=&#34;https://software.sil.org/charis&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CharisSIL&lt;/a&gt;, and 
+&lt;a href=&#34;https://jpswalsh.github.io/academicons&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Academicons&lt;/a&gt; in addition to selections from other font libraries available via 
+&lt;a href=&#34;https://glyphter.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;glyphter.com&lt;/a&gt;, and other open source icon providers like 
+&lt;a href=&#34;https://www.svgrepo.com/svg/104744/csv-file-format-extension&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SGVRepo&lt;/a&gt; (from which file type icons were obtained); and 
+&lt;a href=&#34;https://www.flaticon.com/free-icon/manuscript_695786&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;flaticon.com&lt;/a&gt; (from which the manuscript icon was obtained); and the 
+&lt;a href=&#34;https://thenounproject.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Noun Project&lt;/a&gt;, from which the Grant icon: created by &lt;em&gt;Eucalyp&lt;/em&gt; was obtainted.  &lt;!-- noun_grant_3156208. --&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
