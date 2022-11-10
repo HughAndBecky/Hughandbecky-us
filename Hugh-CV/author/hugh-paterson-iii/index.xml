@@ -550,26 +550,45 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;p&gt;To look at the whole data set we need to either download the linked 
-&lt;a href=&#34;olac-roles.json&#34;&gt;JSON file&lt;/a&gt; or scroll through the table below. Included in the data file / table are the OLAC and MARC Role terms, Linked Data URIs, Definitions, and an Equivalence column.&lt;/p&gt;
+&lt;a href=&#34;olac-roles.json&#34;&gt;JSON file&lt;/a&gt; or scroll/read through the sortable table below. Included in the JSON data file are the OLAC and MARC Role terms, Linked Data URIs, Definitions, and an Equivalence column.&lt;/p&gt;
+&lt;!-- The javascript way&lt;script&gt;if (window.innerWidth &gt; 700){document.querySelector(&#39;.article-style&#39;).style.overflowX = &#39;visible&#39;;}&lt;/script&gt;
+&lt;style&gt;#tg-ZAuTS { width: 85vw; position: relative; left: calc(-50vw + 70%); z-index: 1; !important}&lt;/style&gt; --&gt;
+&lt;!-- currently the style tags below apply This ought to be moved to a short code following the instructions here: https://www.mybluelinux.com/how-create-bootstrap-tables-in-hugo/ and some of the complex table&#39;s CSS has been modified. For example, I added no-hypenation and really the long URLs ought to be broken more and the text given the room it needs. --&gt;
+&lt;style&gt;/* 0. apply these rules when the screen is big enough*/ @media screen and (min-width: 800px) {
+
+/* 1. extend child table beyond max-width of parent */
+  #tg-ZAuTS {
+    position: relative;
+    /* set the width and the left rules to allow for margins */
+    width: 90vw;
+    left: calc(-50vw + 60%);
+  }
+/* 2. override the parents overflow rule so the table can be visible */
+  .article-style {
+    overflow-x: visible !important;
+  }
+wbr:before {
+  /* Unicode zero width space */
+  content: &#34;\200B&#34;;
+  white-space: normal;
+}
+}
+&lt;/style&gt;
 &lt;style type=&#34;text/css&#34;&gt;
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-j1i3{border-color:inherit;position:-webkit-sticky;position:sticky;text-align:left;top:-1px;vertical-align:top;
-  will-change:transform}
-.tg .tg-ih3h{border-color:inherit;position:-webkit-sticky;position:sticky;text-align:center;top:-1px;vertical-align:top;
-  will-change:transform}
-.tg .tg-q01z{border-color:inherit;font-size:14px;position:-webkit-sticky;position:sticky;text-align:center;top:-1px;
-  vertical-align:top;will-change:transform}
-.tg .tg-exmw{border-color:inherit;font-size:13px;position:-webkit-sticky;position:sticky;text-align:center;top:-1px;
-  vertical-align:top;will-change:transform}
+.tg  {border-collapse:collapse;border-spacing: 2px; border-color: grey;border-top-color: grey;border-bottom-color: grey;margin:0px auto; margin-bottom: 1rem;}
+.tg td{border-color:black;border-style:solid;border-width:0px;font-size: 0.8rem; overflow:hidden;padding:10px 5px;word-break:normal; hyphens: none;}
+.tg th{border-color:black;border-style:solid;border-width:0px;font-size: 0.8rem;
+  font-weight:bold;overflow:hidden;padding:10px 5px;word-break:normal; hyphens: none;}
+.tg .tg-j1i3{border-color:inherit;position:-webkit-sticky;position:sticky;text-align:left;top:-1px;vertical-align:top; will-change: transform;}
+.tg .tg-ih3h{border-color:inherit;position:-webkit-sticky;position:sticky;text-align:center;top:-1px;vertical-align:top; will-change: transform;}
+.tg .tg-q01z{border-color:inherit;position:-webkit-sticky;position:sticky;text-align:center;top:-1px;
+  vertical-align:top; will-change: transform;}
+.tg .tg-exmw{border-color:inherit;position:-webkit-sticky;position:sticky;text-align:center;top:-1px;
+  vertical-align:top; will-change: transform;}
 .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
 .tg-sort-header::-moz-selection{background:0 0}
 .tg-sort-header::selection{background:0 0}.tg-sort-header{cursor:pointer}
-.tg-sort-header:after{content:&#39;&#39;;float:right;margin-top:7px;border-width:0 5px 5px;border-style:solid;
-  border-color:#404040 transparent;visibility:hidden}
+.tg-sort-header:after{content:&#39;&#39;;float:right;margin-top:7px;border-width:0 5px 5px;border-style:solid; border-color:#404040 transparent;visibility:hidden}
 .tg-sort-header:hover:after{visibility:visible}
 .tg-sort-asc:after,.tg-sort-asc:hover:after,.tg-sort-desc:after{visibility:visible;opacity:.4}
 .tg-sort-desc:after{border-bottom:none;border-width:5px 5px 0}@media screen and (max-width: 767px) {.tg {width: auto !important;}.tg col {width: auto !important;}.tg-wrap {overflow-x: auto;-webkit-overflow-scrolling: touch;margin: auto 0px;}}&lt;/style&gt;
