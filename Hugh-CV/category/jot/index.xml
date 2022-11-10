@@ -5,12 +5,430 @@
     <link>https://hughandbecky.us/Hugh-CV/category/jot/</link>
       <atom:link href="https://hughandbecky.us/Hugh-CV/category/jot/index.xml" rel="self" type="application/rss+xml" />
     <description>Jot</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2022</copyright><lastBuildDate>Mon, 17 Oct 2022 14:35:45 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2022</copyright><lastBuildDate>Wed, 09 Nov 2022 14:35:45 +0100</lastBuildDate>
     <image>
       <url>https://hughandbecky.us/Hugh-CV/media/HughPaterson.jpg</url>
       <title>Jot</title>
       <link>https://hughandbecky.us/Hugh-CV/category/jot/</link>
     </image>
+    
+    <item>
+      <title>OLAC Roles and MARC Relator Role Equivalents</title>
+      <link>https://hughandbecky.us/Hugh-CV/post/olac-roles/</link>
+      <pubDate>Wed, 09 Nov 2022 14:35:45 +0100</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/post/olac-roles/</guid>
+      <description>&lt;p&gt;The Open Language Archive Community currently has twenty-four different roles. Of these roles identified by language scholars over twenty years ago, ten of the twenty-four are listed in the first table below. They are pulled out and are indicated as not being equivalent to any MARC role. Equivalence was judged on the basis of the allowed semantics via the definitions from each list. Nonequivalence was caused by three main factors. These included &lt;em&gt;Name&lt;/em&gt; (N), which are cases where the relator term varies but the semantic concept is the same; &lt;em&gt;Semantics&lt;/em&gt; (S), which are cases where the terms are the same but the semantics of the terms are not the same across the two lists; and the &lt;em&gt;absence of a semantic equivalent&lt;/em&gt; (X). In four cases it was determined that the MARC list did not have equivalent terms to what appears in OLAC. In these cases it might be possible to write a suitable recommendation to the governing body of MARC.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;OLAC Role&lt;/th&gt;
+&lt;th&gt;Equivalence&lt;/th&gt;
+&lt;th&gt;MARC Relator Role&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;consultant&lt;/td&gt;
+&lt;td&gt;N&lt;/td&gt;
+&lt;td&gt;Consultant to a project&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;recorder&lt;/td&gt;
+&lt;td&gt;N&lt;/td&gt;
+&lt;td&gt;Recordist&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;compiler&lt;/td&gt;
+&lt;td&gt;S&lt;/td&gt;
+&lt;td&gt;Compiler&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;depositor&lt;/td&gt;
+&lt;td&gt;S&lt;/td&gt;
+&lt;td&gt;Depositor&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;responder&lt;/td&gt;
+&lt;td&gt;S&lt;/td&gt;
+&lt;td&gt;Addressee&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;signer&lt;/td&gt;
+&lt;td&gt;S&lt;/td&gt;
+&lt;td&gt;Signer&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;data_inputter&lt;/td&gt;
+&lt;td&gt;X&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;interpreter&lt;/td&gt;
+&lt;td&gt;X&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;participant&lt;/td&gt;
+&lt;td&gt;X&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;research_participant&lt;/td&gt;
+&lt;td&gt;X&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;To look at the whole data set we need to either download the linked 
+&lt;a href=&#34;olac-roles.json&#34;&gt;JSON file&lt;/a&gt; or scroll through the table below. Included in the data file / table are the OLAC and MARC Role terms, Linked Data URIs, Definitions, and an Equivalence column.&lt;/p&gt;
+&lt;style type=&#34;text/css&#34;&gt;
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-j1i3{border-color:inherit;position:-webkit-sticky;position:sticky;text-align:left;top:-1px;vertical-align:top;
+  will-change:transform}
+.tg .tg-ih3h{border-color:inherit;position:-webkit-sticky;position:sticky;text-align:center;top:-1px;vertical-align:top;
+  will-change:transform}
+.tg .tg-q01z{border-color:inherit;font-size:14px;position:-webkit-sticky;position:sticky;text-align:center;top:-1px;
+  vertical-align:top;will-change:transform}
+.tg .tg-exmw{border-color:inherit;font-size:13px;position:-webkit-sticky;position:sticky;text-align:center;top:-1px;
+  vertical-align:top;will-change:transform}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+.tg-sort-header::-moz-selection{background:0 0}
+.tg-sort-header::selection{background:0 0}.tg-sort-header{cursor:pointer}
+.tg-sort-header:after{content:&#39;&#39;;float:right;margin-top:7px;border-width:0 5px 5px;border-style:solid;
+  border-color:#404040 transparent;visibility:hidden}
+.tg-sort-header:hover:after{visibility:visible}
+.tg-sort-asc:after,.tg-sort-asc:hover:after,.tg-sort-desc:after{visibility:visible;opacity:.4}
+.tg-sort-desc:after{border-bottom:none;border-width:5px 5px 0}@media screen and (max-width: 767px) {.tg {width: auto !important;}.tg col {width: auto !important;}.tg-wrap {overflow-x: auto;-webkit-overflow-scrolling: touch;margin: auto 0px;}}&lt;/style&gt;
+&lt;div class=&#34;tg-wrap&#34;&gt;&lt;table id=&#34;tg-ZAuTS&#34; class=&#34;tg&#34;&gt;
+&lt;thead&gt;
+  &lt;tr&gt;
+    &lt;th class=&#34;tg-j1i3&#34;&gt;OLAC Role&lt;/th&gt;
+    &lt;th class=&#34;tg-q01z&#34;&gt;OLAC URI&lt;/th&gt;
+    &lt;th class=&#34;tg-exmw&#34;&gt;OLAC Definition&lt;/th&gt;
+    &lt;th class=&#34;tg-ih3h&#34;&gt;OLAC Comment&lt;/th&gt;
+    &lt;th class=&#34;tg-ih3h&#34;&gt;Not Equivlent&lt;/th&gt;
+    &lt;th class=&#34;tg-ih3h&#34;&gt;MARC Relator ID&lt;/th&gt;
+    &lt;th class=&#34;tg-ih3h&#34;&gt;MARC Relator Role&lt;/th&gt;
+    &lt;th class=&#34;tg-ih3h&#34;&gt;MARC Definition&lt;/th&gt;
+    &lt;th class=&#34;tg-ih3h&#34;&gt;MARC URI&lt;/th&gt;
+  &lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+  &lt;tr&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;annotator&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;a href=&#34;http://www.language-archives.org/REC/role.html#annotator&#34;&gt;&lt;span style=&#34;color:#905&#34;&gt;http://www.language-archives.org/REC/role.html#annotator&lt;/span&gt;&lt;/a&gt;&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;The participant produced an annotation of this or a related resource.&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;ann&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;Annotator&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;A person who makes manuscript annotations on an item&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;a href=&#34;http://id.loc.gov/vocabulary/relators/ann&#34;&gt;&lt;span style=&#34;color:#905&#34;&gt;http://id.loc.gov/vocabulary/relators/ann&lt;/span&gt;&lt;/a&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;author&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;a href=&#34;http://www.language-archives.org/REC/role.html#author&#34;&gt;&lt;span style=&#34;color:#905&#34;&gt;http://www.language-archives.org/REC/role.html#author&lt;/span&gt;&lt;/a&gt;&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;The participant contributed original writings to the resource.&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;aut&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;Author&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;A person, family, or organization responsible for creating a work that is primarily textual in content, regardless of media type (e.g., printed text, spoken word, electronic text, tactile text) or genre (e.g., poems, novels, screenplays, blogs). Use also for persons, etc., creating a new work by paraphrasing, rewriting, or adapting works by another creator such that the modification has substantially changed the nature and content of the original or changed the medium of expression&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;a href=&#34;http://id.loc.gov/vocabulary/relators/aut&#34;&gt;&lt;span style=&#34;color:#905&#34;&gt;http://id.loc.gov/vocabulary/relators/aut&lt;/span&gt;&lt;/a&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;compiler&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;a href=&#34;http://www.language-archives.org/REC/role.html#compiler&#34;&gt;&lt;span style=&#34;color:#905&#34;&gt;http://www.language-archives.org/REC/role.html#compiler&lt;/span&gt;&lt;/a&gt;&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;The participant is responsible for collecting the sub-parts of the resource together.&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;This refers to someone who creates a single resource with multiple parts, such as a book of short stories, or a person who produces a corpus of resources, which may be archived separately.&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;X&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;com&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;Compiler&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;A person, family, or organization responsible for creating a new work (e.g., a bibliography, a directory) through the act of compilation, e.g., selecting, arranging, aggregating, and editing data, information, etc.&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;a href=&#34;http://id.loc.gov/vocabulary/relators/com&#34;&gt;&lt;span style=&#34;color:#905&#34;&gt;http://id.loc.gov/vocabulary/relators/com&lt;/span&gt;&lt;/a&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;consultant&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;a href=&#34;http://www.language-archives.org/REC/role.html#consultant&#34;&gt;&lt;span style=&#34;color:#905&#34;&gt;http://www.language-archives.org/REC/role.html#consultant&lt;/span&gt;&lt;/a&gt;&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;The participant contributes expertise to the creation of a work.&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;This term is commonly used by field linguists for the native speakers who work with them in describing and analyzing a language. They contribute their expertise in their native language to the resource, although their speech, sign, or writing may not appear directly in the resource. In some parts of the world the preferred term for this role is &#34;informant&#34;.&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;csl&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;Consultant&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;A person or organization relevant to a resource, who is called upon for professional advice or services in a specialized field of knowledge or training&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;a href=&#34;http://id.loc.gov/vocabulary/relators/csl&#34;&gt;&lt;span style=&#34;color:#905&#34;&gt;http://id.loc.gov/vocabulary/relators/csl&lt;/span&gt;&lt;/a&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;data_inputter&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;a href=&#34;http://www.language-archives.org/REC/role.html#data_inputter&#34;&gt;&lt;span style=&#34;color:#905&#34;&gt;http://www.language-archives.org/REC/role.html#data_inputter&lt;/span&gt;&lt;/a&gt;&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;The participant was responsible for entering, re-typing, and/or structuring the data contained in the resource.&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;X&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;Data_Inputter&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;depositor&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;a href=&#34;http://www.language-archives.org/REC/role.html#depositor&#34;&gt;&lt;span style=&#34;color:#905&#34;&gt;http://www.language-archives.org/REC/role.html#depositor&lt;/span&gt;&lt;/a&gt;&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;The participant was responsible for depositing the resource in an archive.&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;X&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;dpt&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;Depositor&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;A current owner of an item who deposited the item into the custody of another person, family, or organization, while still retaining ownership&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;a href=&#34;http://id.loc.gov/vocabulary/relators/dpt&#34;&gt;&lt;span style=&#34;color:#905&#34;&gt;http://id.loc.gov/vocabulary/relators/dpt&lt;/span&gt;&lt;/a&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;developer&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;a href=&#34;http://www.language-archives.org/REC/role.html#developer&#34;&gt;&lt;span style=&#34;color:#905&#34;&gt;http://www.language-archives.org/REC/role.html#developer&lt;/span&gt;&lt;/a&gt;&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;The participant developed the methodology or tools that constitute the resource, or that were used to create the resource.&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;prg&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;Programmer&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;A person, family, or organization responsible for creating a computer program&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;a href=&#34;http://id.loc.gov/vocabulary/relators/prg&#34;&gt;&lt;span style=&#34;color:#905&#34;&gt;http://id.loc.gov/vocabulary/relators/prg&lt;/span&gt;&lt;/a&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;editor&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;a href=&#34;http://www.language-archives.org/REC/role.html#editor&#34;&gt;&lt;span style=&#34;color:#905&#34;&gt;http://www.language-archives.org/REC/role.html#editor&lt;/span&gt;&lt;/a&gt;&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;The participant reviewed, corrected, and/or tested the resource.&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;This role includes anyone whose role was editorial in nature, such as proof-readers, debuggers, testers, etc. It may overlap the Compiler role in some cases.&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;edt&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;Editor&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;A person, family, or organization contributing to a resource by revising or elucidating the content, e.g., adding an introduction, notes, or other critical matter. An editor may also prepare a resource for production, publication, or distribution. For major revisions, adaptations, etc., that substantially change the nature and content of the original work, resulting in a new work, see author&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;a href=&#34;http://id.loc.gov/vocabulary/relators/edt&#34;&gt;&lt;span style=&#34;color:#905&#34;&gt;http://id.loc.gov/vocabulary/relators/edt&lt;/span&gt;&lt;/a&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;illustrator&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;a href=&#34;http://www.language-archives.org/REC/role.html#illustrator&#34;&gt;&lt;span style=&#34;color:#905&#34;&gt;http://www.language-archives.org/REC/role.html#illustrator&lt;/span&gt;&lt;/a&gt;&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;The participant contributed drawings or other illustrations to the resource.&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;ill&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;Illustrator&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;A person, family, or organization contributing to a resource by supplementing the primary content with drawings, diagrams, photographs, etc. If the work is primarily the artistic content created by this entity, use artist or photographer&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;a href=&#34;http://id.loc.gov/vocabulary/relators/ill&#34;&gt;&lt;span style=&#34;color:#905&#34;&gt;http://id.loc.gov/vocabulary/relators/ill&lt;/span&gt;&lt;/a&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;interpreter&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;a href=&#34;http://www.language-archives.org/REC/role.html#interpreter&#34;&gt;&lt;span style=&#34;color:#905&#34;&gt;http://www.language-archives.org/REC/role.html#interpreter&lt;/span&gt;&lt;/a&gt;&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;The participant translates in real-time or explains the discourse recorded in the resource.&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;The choice between &#39;interpreter&#39; and &#39;translator&#39; may depend on the dynamics of the resource creation event or process. Generally, if the participant is translating &#39;live&#39;; that is, while the speaker or signer is speaking or signing, she or he should be identified as an interpreter. Also, some discourse genres include a participant who interprets or explains a performance of some kind.&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;X&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;Interpreter&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;interviewer&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;a href=&#34;http://www.language-archives.org/REC/role.html#interviewer&#34;&gt;&lt;span style=&#34;color:#905&#34;&gt;http://www.language-archives.org/REC/role.html#interviewer&lt;/span&gt;&lt;/a&gt;&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;The participant conducted an interview that forms part of the resource.&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;ivr&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;Interviewer&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;A person, family, or organization responsible for creating or contributing to a resource by acting as an interviewer, reporter, pollster, or some other information gathering agent&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;a href=&#34;http://id.loc.gov/vocabulary/relators/ivr&#34;&gt;&lt;span style=&#34;color:#905&#34;&gt;http://id.loc.gov/vocabulary/relators/ivr&lt;/span&gt;&lt;/a&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;participant&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;a href=&#34;http://www.language-archives.org/REC/role.html#participant&#34;&gt;&lt;span style=&#34;color:#905&#34;&gt;http://www.language-archives.org/REC/role.html#participant&lt;/span&gt;&lt;/a&gt;&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;The participant was present during the creation of the resource, but did not contribute substantially to its content.&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;X&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;Participant&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;performer&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;a href=&#34;http://www.language-archives.org/REC/role.html#performer&#34;&gt;&lt;span style=&#34;color:#905&#34;&gt;http://www.language-archives.org/REC/role.html#performer&lt;/span&gt;&lt;/a&gt;&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;The participant performed some portion of a recorded, filmed, or transcribed resource.&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;It is recommended that this term be used only for creative participants whose role is not better indicated by a more specific term, such as &#39;speaker&#39;, &#39;signer&#39;, or &#39;singer&#39;.&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;prf&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;Performer&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;A person contributing to a resource by performing music, acting, dancing, speaking, etc., often in a musical or dramatic presentation, etc. If specific codes are used, [prf] is used for a person whose principal skill is not known or specified&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;a href=&#34;http://id.loc.gov/vocabulary/relators/prf&#34;&gt;&lt;span style=&#34;color:#905&#34;&gt;http://id.loc.gov/vocabulary/relators/prf&lt;/span&gt;&lt;/a&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;photographer&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;a href=&#34;http://www.language-archives.org/REC/role.html#photographer&#34;&gt;&lt;span style=&#34;color:#905&#34;&gt;http://www.language-archives.org/REC/role.html#photographer&lt;/span&gt;&lt;/a&gt;&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;The participant took the photograph, or shot the film, that appears in or constitutes the resource.&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;pht&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;Photographer&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;A person, family, or organization responsible for creating a photographic work&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;a href=&#34;http://id.loc.gov/vocabulary/relators/pht&#34;&gt;&lt;span style=&#34;color:#905&#34;&gt;http://id.loc.gov/vocabulary/relators/pht&lt;/span&gt;&lt;/a&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;recorder&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;a href=&#34;http://www.language-archives.org/REC/role.html#recorder&#34;&gt;&lt;span style=&#34;color:#905&#34;&gt;http://www.language-archives.org/REC/role.html#recorder&lt;/span&gt;&lt;/a&gt;&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;The participant operated the recording machinery used to create the resource.&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;rcd&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;Recordist&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;A person or organization who uses a recording device to capture sounds and/or video during a recording session, including field recordings of natural sounds, folkloric events, music, etc.&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;a href=&#34;http://id.loc.gov/vocabulary/relators/rcd&#34;&gt;&lt;span style=&#34;color:#905&#34;&gt;http://id.loc.gov/vocabulary/relators/rcd&lt;/span&gt;&lt;/a&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;researcher&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;a href=&#34;http://www.language-archives.org/REC/role.html#researcher&#34;&gt;&lt;span style=&#34;color:#905&#34;&gt;http://www.language-archives.org/REC/role.html#researcher&lt;/span&gt;&lt;/a&gt;&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;The resource was created as part of the participant&#39;s research, or the research presents interim or final results from the participant&#39;s research.&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;res&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;Researcher&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;A person or organization responsible for performing research&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;a href=&#34;http://id.loc.gov/vocabulary/relators/res&#34;&gt;&lt;span style=&#34;color:#905&#34;&gt;http://id.loc.gov/vocabulary/relators/res&lt;/span&gt;&lt;/a&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;research_participant&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;a href=&#34;http://www.language-archives.org/REC/role.html#research_participant&#34;&gt;&lt;span style=&#34;color:#905&#34;&gt;http://www.language-archives.org/REC/role.html#research_participant&lt;/span&gt;&lt;/a&gt;&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;The participant acted as a research subject or responded to a questionnaire, the results of which study form the basis of the resource.&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;X&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;Research_Participant&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;responder&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;a href=&#34;http://www.language-archives.org/REC/role.html#responder&#34;&gt;&lt;span style=&#34;color:#905&#34;&gt;http://www.language-archives.org/REC/role.html#responder&lt;/span&gt;&lt;/a&gt;&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;The participant was an interlocutor in some sort of discourse event.&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;This person&#39;s voice can be heard (or their words can be read) in the resource, typically saying the language-appropriate equivalent of &#34;uh-huh&#34;, &#34;amen&#34;, &#34;you don&#39;t say&#34;, etc. This role is sometimes referred to as a &#34;yes-sayer&#34;, &#34;backchanneler, or &#34;co-conversant&#34;.&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;X&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;rcp&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;Addressee&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;A person, family, or organization to whom the correspondence in a work is addressed&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;a href=&#34;http://id.loc.gov/vocabulary/relators/rcp&#34;&gt;&lt;span style=&#34;color:#905&#34;&gt;http://id.loc.gov/vocabulary/relators/rcp&lt;/span&gt;&lt;/a&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;signer&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;a href=&#34;http://www.language-archives.org/REC/role.html#signer&#34;&gt;&lt;span style=&#34;color:#905&#34;&gt;http://www.language-archives.org/REC/role.html#signer&lt;/span&gt;&lt;/a&gt;&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;The participant was a principal signer in a resource that consists of a recording, a film, or a transcription of a recorded resource.&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;Signers are those whose gestures predominate in a recorded or filmed resource. (This resource may be a transcription of that recording.)&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;X&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;sgn&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;Signer&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;A person whose signature appears without a presentation or other statement indicative of provenance. When there is a presentation statement, use Inscriber [ins].&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;a href=&#34;http://id.loc.gov/vocabulary/relators/sgn&#34;&gt;&lt;span style=&#34;color:#905&#34;&gt;http://id.loc.gov/vocabulary/relators/sgn&lt;/span&gt;&lt;/a&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;singer&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;a href=&#34;http://www.language-archives.org/REC/role.html#singer&#34;&gt;&lt;span style=&#34;color:#905&#34;&gt;http://www.language-archives.org/REC/role.html#singer&lt;/span&gt;&lt;/a&gt;&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;The participant sang, either individually or as part of a group, in a resource that consists of a recording, a film, or a transcription of a recorded resource.&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;sng&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;Singer&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;A performer contributing to a resource by using his/her/their voice, with or without instrumental accompaniment, to produce music. A singer&#39;s performance may or may not include actual words&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;a href=&#34;http://id.loc.gov/vocabulary/relators/sng&#34;&gt;&lt;span style=&#34;color:#905&#34;&gt;http://id.loc.gov/vocabulary/relators/sng&lt;/span&gt;&lt;/a&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;speaker&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;a href=&#34;http://www.language-archives.org/REC/role.html#speaker&#34;&gt;&lt;span style=&#34;color:#905&#34;&gt;http://www.language-archives.org/REC/role.html#speaker&lt;/span&gt;&lt;/a&gt;&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;The participant was a principal speaker in a resource that consists of a recording, a film, or a transcription of a recorded resource.&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;Speakers are those whose voices predominate in a recorded or filmed resource. (This resource may be a transcription of that recording.)&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;spk&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;Speaker&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;A performer contributing to a resource by speaking words, such as a lecture, speech, etc.&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;a href=&#34;http://id.loc.gov/vocabulary/relators/spk&#34;&gt;&lt;span style=&#34;color:#905&#34;&gt;http://id.loc.gov/vocabulary/relators/spk&lt;/span&gt;&lt;/a&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;sponsor&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;a href=&#34;http://www.language-archives.org/REC/role.html#sponsor&#34;&gt;&lt;span style=&#34;color:#905&#34;&gt;http://www.language-archives.org/REC/role.html#sponsor&lt;/span&gt;&lt;/a&gt;&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;The participant contributed financial support to the creation of the resource.&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;spn&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;Sponsor&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;A person, family, or organization sponsoring some aspect of a resource, e.g., funding research, sponsoring an event&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;a href=&#34;http://id.loc.gov/vocabulary/relators/spn&#34;&gt;&lt;span style=&#34;color:#905&#34;&gt;http://id.loc.gov/vocabulary/relators/spn&lt;/span&gt;&lt;/a&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;transcriber&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;a href=&#34;http://www.language-archives.org/REC/role.html#transcriber&#34;&gt;&lt;span style=&#34;color:#905&#34;&gt;http://www.language-archives.org/REC/role.html#transcriber&lt;/span&gt;&lt;/a&gt;&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;The participant produced a transcription of this or a related resource.&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;trc&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;Transcriber&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;A person, family, or organization contributing to a resource by changing it from one system of notation to another. For a work transcribed for a different instrument or performing group, see Arranger [arr]. For makers of pen-facsimiles, use Facsimilist [fac]&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;a href=&#34;http://id.loc.gov/vocabulary/relators/trc&#34;&gt;&lt;span style=&#34;color:#905&#34;&gt;http://id.loc.gov/vocabulary/relators/trc&lt;/span&gt;&lt;/a&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;translator&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;a href=&#34;http://www.language-archives.org/REC/role.html#translator&#34;&gt;&lt;span style=&#34;color:#905&#34;&gt;http://www.language-archives.org/REC/role.html#translator&lt;/span&gt;&lt;/a&gt;&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;The participant produced a translation of this or a related resource.&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;trl&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;Translator&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;A person or organization who renders a text from one language into another, or from an older form of a language into the modern form&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;a href=&#34;http://id.loc.gov/vocabulary/relators/trl&#34;&gt;&lt;span style=&#34;color:#905&#34;&gt;http://id.loc.gov/vocabulary/relators/trl&lt;/span&gt;&lt;/a&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;csp&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;Consultant to a project&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;A person or organization relevant to a resource, who is engaged specifically to provide an intellectual overview of a strategic or operational task and by analysis, specification, or instruction, to create or propose a cost-effective course of action or solution&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;a href=&#34;http://id.loc.gov/vocabulary/relators/csp&#34;&gt;&lt;span style=&#34;color:#905&#34;&gt;http://id.loc.gov/vocabulary/relators/csp&lt;/span&gt;&lt;/a&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;script charset=&#34;utf-8&#34;&gt;var TGSort=window.TGSort||function(n){&#34;use strict&#34;;function r(n){return n?n.length:0}function t(n,t,e,o=0){for(e=r(n);o&lt;e;++o)t(n[o],o)}function e(n){return n.split(&#34;&#34;).reverse().join(&#34;&#34;)}function o(n){var e=n[0];return t(n,function(n){for(;!n.startsWith(e);)e=e.substring(0,r(e)-1)}),r(e)}function u(n,r,e=[]){return t(n,function(n){r(n)&amp;&amp;e.push(n)}),e}var a=parseFloat;function i(n,r){return function(t){var e=&#34;&#34;;return t.replace(n,function(n,t,o){return e=t.replace(r,&#34;&#34;)+&#34;.&#34;+(o||&#34;&#34;).substring(1)}),a(e)}}var s=i(/^(?:\s*)([+-]?(?:\d+)(?:,\d{3})*)(\.\d*)?$/g,/,/g),c=i(/^(?:\s*)([+-]?(?:\d+)(?:\.\d{3})*)(,\d*)?$/g,/\./g);function f(n){var t=a(n);return!isNaN(t)&amp;&amp;r(&#34;&#34;+t)+1&gt;=r(n)?t:NaN}function d(n){var e=[],o=n;return t([f,s,c],function(u){var a=[],i=[];t(n,function(n,r){r=u(n),a.push(r),r||i.push(n)}),r(i)&lt;r(o)&amp;&amp;(o=i,e=a)}),r(u(o,function(n){return n==o[0]}))==r(o)?e:[]}function v(n){if(&#34;TABLE&#34;==n.nodeName){for(var a=function(r){var e,o,u=[],a=[];return function n(r,e){e(r),t(r.childNodes,function(r){n(r,e)})}(n,function(n){&#34;TR&#34;==(o=n.nodeName)?(e=[],u.push(e),a.push(n)):&#34;TD&#34;!=o&amp;&amp;&#34;TH&#34;!=o||e.push(n)}),[u,a]}(),i=a[0],s=a[1],c=r(i),f=c&gt;1&amp;&amp;r(i[0])&lt;r(i[1])?1:0,v=f+1,p=i[f],h=r(p),l=[],g=[],N=[],m=v;m&lt;c;++m){for(var T=0;T&lt;h;++T){r(g)&lt;h&amp;&amp;g.push([]);var C=i[m][T],L=C.textContent||C.innerText||&#34;&#34;;g[T].push(L.trim())}N.push(m-v)}t(p,function(n,t){l[t]=0;var a=n.classList;a.add(&#34;tg-sort-header&#34;),n.addEventListener(&#34;click&#34;,function(){var n=l[t];!function(){for(var n=0;n&lt;h;++n){var r=p[n].classList;r.remove(&#34;tg-sort-asc&#34;),r.remove(&#34;tg-sort-desc&#34;),l[n]=0}}(),(n=1==n?-1:+!n)&amp;&amp;a.add(n&gt;0?&#34;tg-sort-asc&#34;:&#34;tg-sort-desc&#34;),l[t]=n;var i,f=g[t],m=function(r,t){return n*f[r].localeCompare(f[t])||n*(r-t)},T=function(n){var t=d(n);if(!r(t)){var u=o(n),a=o(n.map(e));t=d(n.map(function(n){return n.substring(u,r(n)-a)}))}return t}(f);(r(T)||r(T=r(u(i=f.map(Date.parse),isNaN))?[]:i))&amp;&amp;(m=function(r,t){var e=T[r],o=T[t],u=isNaN(e),a=isNaN(o);return u&amp;&amp;a?0:u?-n:a?n:e&gt;o?n:e&lt;o?-n:n*(r-t)});var C,L=N.slice();L.sort(m);for(var E=v;E&lt;c;++E)(C=s[E].parentNode).removeChild(s[E]);for(E=v;E&lt;c;++E)C.appendChild(s[v+L[E-v]])})})}}n.addEventListener(&#34;DOMContentLoaded&#34;,function(){for(var t=n.getElementsByClassName(&#34;tg&#34;),e=0;e&lt;r(t);++e)try{v(t[e])}catch(n){}})}(document)&lt;/script&gt;&lt;/div&gt;
+&lt;!--
+
+| OLAC Role | OLAC URI | OLAC Definition | OLAC Comment | Equivalence | MARC Relator ID | MARC Relator Role | MARC Definition | MARC URI |
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| annotator | http://www.language-archives.org/REC/role.html#annotator | The participant produced an annotation of this or a related resource. |  |  | ann | Annotator | A person who makes manuscript annotations on an item | http://id.loc.gov/vocabulary/relators/ann |
+| author | http://www.language-archives.org/REC/role.html#author | The participant contributed original writings to the resource. |  |  | aut | Author | A person, family, or organization responsible for creating a work that is primarily textual in content, regardless of media type (e.g., printed text, spoken word, electronic text, tactile text) or genre (e.g., poems, novels, screenplays, blogs). Use also for persons, etc., creating a new work by paraphrasing, rewriting, or adapting works by another creator such that the modification has substantially changed the nature and content of the original or changed the medium of expression | http://id.loc.gov/vocabulary/relators/aut |
+| compiler | http://www.language-archives.org/REC/role.html#compiler | The participant is responsible for collecting the sub-parts of the resource together. | This refers to someone who creates a single resource with multiple parts, such as a book of short stories, or a person who produces a corpus of resources, which may be archived separately. | X | com | Compiler | A person, family, or organization responsible for creating a new work (e.g., a bibliography, a directory) through the act of compilation, e.g., selecting, arranging, aggregating, and editing data, information, etc. | http://id.loc.gov/vocabulary/relators/com |
+| consultant | http://www.language-archives.org/REC/role.html#consultant | The participant contributes expertise to the creation of a work. | This term is commonly used by field linguists for the native speakers who work with them in describing and analyzing a language. They contribute their expertise in their native language to the resource, although their speech, sign, or writing may not appear directly in the resource. In some parts of the world the preferred term for this role is &#34;informant&#34;. | N | csl | Consultant | A person or organization relevant to a resource, who is called upon for professional advice or services in a specialized field of knowledge or training | http://id.loc.gov/vocabulary/relators/csl |
+| data_inputter | http://www.language-archives.org/REC/role.html#data_inputter | The participant was responsible for entering, re-typing, and/or structuring the data contained in the resource. |  | X |  | Data_Inputter |  |  |
+| depositor | http://www.language-archives.org/REC/role.html#depositor | The participant was responsible for depositing the resource in an archive. |  | X | dpt | Depositor | A current owner of an item who deposited the item into the custody of another person, family, or organization, while still retaining ownership | http://id.loc.gov/vocabulary/relators/dpt |
+| developer | http://www.language-archives.org/REC/role.html#developer | The participant developed the methodology or tools that constitute the resource, or that were used to create the resource. |  |  | prg | Programmer | A person, family, or organization responsible for creating a computer program | http://id.loc.gov/vocabulary/relators/prg |
+| editor | http://www.language-archives.org/REC/role.html#editor | The participant reviewed, corrected, and/or tested the resource. | This role includes anyone whose role was editorial in nature, such as proof-readers, debuggers, testers, etc. It may overlap the Compiler role in some cases. |  | edt | Editor | A person, family, or organization contributing to a resource by revising or elucidating the content, e.g., adding an introduction, notes, or other critical matter. An editor may also prepare a resource for production, publication, or distribution. For major revisions, adaptations, etc., that substantially change the nature and content of the original work, resulting in a new work, see author | http://id.loc.gov/vocabulary/relators/edt |
+| illustrator | http://www.language-archives.org/REC/role.html#illustrator | The participant contributed drawings or other illustrations to the resource. |  |  | ill | Illustrator | A person, family, or organization contributing to a resource by supplementing the primary content with drawings, diagrams, photographs, etc. If the work is primarily the artistic content created by this entity, use artist or photographer | http://id.loc.gov/vocabulary/relators/ill |
+| interpreter | http://www.language-archives.org/REC/role.html#interpreter | The participant translates in real-time or explains the discourse recorded in the resource. | The choice between &#39;interpreter&#39; and &#39;translator&#39; may depend on the dynamics of the resource creation event or process. Generally, if the participant is translating &#39;live&#39;; that is, while the speaker or signer is speaking or signing, she or he should be identified as an interpreter. Also, some discourse genres include a participant who interprets or explains a performance of some kind. | X |  | Interpreter |  |  |
+| interviewer | http://www.language-archives.org/REC/role.html#interviewer | The participant conducted an interview that forms part of the resource. |  |  | ivr | Interviewer | A person, family, or organization responsible for creating or contributing to a resource by acting as an interviewer, reporter, pollster, or some other information gathering agent | http://id.loc.gov/vocabulary/relators/ivr |
+| participant | http://www.language-archives.org/REC/role.html#participant | The participant was present during the creation of the resource, but did not contribute substantially to its content. |  | X |  | Participant |  |  |
+| performer | http://www.language-archives.org/REC/role.html#performer | The participant performed some portion of a recorded, filmed, or transcribed resource. | It is recommended that this term be used only for creative participants whose role is not better indicated by a more specific term, such as &#39;speaker&#39;, &#39;signer&#39;, or &#39;singer&#39;. |  | prf | Performer | A person contributing to a resource by performing music, acting, dancing, speaking, etc., often in a musical or dramatic presentation, etc. If specific codes are used, [prf] is used for a person whose principal skill is not known or specified | http://id.loc.gov/vocabulary/relators/prf |
+| photographer | http://www.language-archives.org/REC/role.html#photographer | The participant took the photograph, or shot the film, that appears in or constitutes the resource. |  |  | pht | Photographer | A person, family, or organization responsible for creating a photographic work | http://id.loc.gov/vocabulary/relators/pht |
+| recorder | http://www.language-archives.org/REC/role.html#recorder | The participant operated the recording machinery used to create the resource. |  |  | rcd | Recordist | A person or organization who uses a recording device to capture sounds and/or video during a recording session, including field recordings of natural sounds, folkloric events, music, etc. | http://id.loc.gov/vocabulary/relators/rcd |
+| researcher | http://www.language-archives.org/REC/role.html#researcher | The resource was created as part of the participant&#39;s research, or the research presents interim or final results from the participant&#39;s research. |  |  | res | Researcher | A person or organization responsible for performing research | http://id.loc.gov/vocabulary/relators/res |
+| research_participant | http://www.language-archives.org/REC/role.html#research_participant | The participant acted as a research subject or responded to a questionnaire, the results of which study form the basis of the resource. |  | X |  | Research_Participant |  |  |
+| responder | http://www.language-archives.org/REC/role.html#responder | The participant was an interlocutor in some sort of discourse event. | This person&#39;s voice can be heard (or their words can be read) in the resource, typically saying the language-appropriate equivalent of &#34;uh-huh&#34;, &#34;amen&#34;, &#34;you don&#39;t say&#34;, etc. This role is sometimes referred to as a &#34;yes-sayer&#34;, &#34;backchanneler, or &#34;co-conversant&#34;. | X | rcp | Addressee | A person, family, or organization to whom the correspondence in a work is addressed | http://id.loc.gov/vocabulary/relators/rcp |
+| signer | http://www.language-archives.org/REC/role.html#signer | The participant was a principal signer in a resource that consists of a recording, a film, or a transcription of a recorded resource. | Signers are those whose gestures predominate in a recorded or filmed resource. (This resource may be a transcription of that recording.) | X | sgn | Signer | A person whose signature appears without a presentation or other statement indicative of provenance. When there is a presentation statement, use Inscriber [ins]. | http://id.loc.gov/vocabulary/relators/sgn |
+| singer | http://www.language-archives.org/REC/role.html#singer | The participant sang, either individually or as part of a group, in a resource that consists of a recording, a film, or a transcription of a recorded resource. |  |  | sng | Singer | A performer contributing to a resource by using his/her/their voice, with or without instrumental accompaniment, to produce music. A singer&#39;s performance may or may not include actual words | http://id.loc.gov/vocabulary/relators/sng |
+| speaker | http://www.language-archives.org/REC/role.html#speaker | The participant was a principal speaker in a resource that consists of a recording, a film, or a transcription of a recorded resource. | Speakers are those whose voices predominate in a recorded or filmed resource. (This resource may be a transcription of that recording.) |  | spk | Speaker | A performer contributing to a resource by speaking words, such as a lecture, speech, etc. | http://id.loc.gov/vocabulary/relators/spk |
+| sponsor | http://www.language-archives.org/REC/role.html#sponsor | The participant contributed financial support to the creation of the resource. |  |  | spn | Sponsor | A person, family, or organization sponsoring some aspect of a resource, e.g., funding research, sponsoring an event | http://id.loc.gov/vocabulary/relators/spn |
+| transcriber | http://www.language-archives.org/REC/role.html#transcriber | The participant produced a transcription of this or a related resource. |  |  | trc | Transcriber | A person, family, or organization contributing to a resource by changing it from one system of notation to another. For a work transcribed for a different instrument or performing group, see Arranger [arr]. For makers of pen-facsimiles, use Facsimilist [fac] | http://id.loc.gov/vocabulary/relators/trc |
+| translator | http://www.language-archives.org/REC/role.html#translator | The participant produced a translation of this or a related resource. |  |  | trl | Translator | A person or organization who renders a text from one language into another, or from an older form of a language into the modern form | http://id.loc.gov/vocabulary/relators/trl |
+|  |  |  |  |  | csp | Consultant to a project | A person or organization relevant to a resource, who is engaged specifically to provide an intellectual overview of a strategic or operational task and by analysis, specification, or instruction, to create or propose a cost-effective course of action or solution | http://id.loc.gov/vocabulary/relators/csp |
+
+--&gt;
+</description>
+    </item>
     
     <item>
       <title>Metadata Quality Assessment &amp; OLAC</title>
@@ -4299,7 +4717,7 @@ useful, OLAC lacks a deep semantic definition and relies mostly on best practice
 &lt;li&gt;
 &lt;a href=&#34;http://www.language-archives.org/REC/field.html#phonology&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;phonology&lt;/a&gt;. The OLAC term for phonology says that there is no equivalent term in the LCSH schema. I find this ridiculous, untrue, but yet understandable. Within the LCSH system Phonology is a topical subdivision term. Meaning it is a &amp;ldquo;morpheme&amp;rdquo; which combines with qualified topic terms. So, the concept exists within the LCSH system, but not independently. The most general phonology term in the LCSH system is a complex term &lt;code&gt;Grammar, Comparative and general--Phonology&lt;/code&gt; which does not have a referenceable URI, further complicating equivalency mappings in crosswalks.&lt;/li&gt;
 &lt;li&gt;
-&lt;a href=&#34;http://www.language-archives.org/REC/field.html#lexicography&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;lexicography&lt;/a&gt; The OLAC term for phonology says that it is equivalent same term in the LCSH schema. However, there are two terms in LCSH for Lexicography. It is not clear which one OLAC means. As mentioned previously, LCSH terms exist in different classes (roots and &amp;ldquo;derivation&amp;rdquo; morphemes). The root topic concept is 
+&lt;a href=&#34;http://www.language-archives.org/REC/field.html#lexicography&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;lexicography&lt;/a&gt; The OLAC term for lexicography says that it is equivalent same term in the LCSH schema. However, there are two terms in LCSH for Lexicography. It is not clear which one OLAC means. As mentioned previously, LCSH terms exist in different classes (roots and &amp;ldquo;derivation&amp;rdquo; morphemes). The root topic concept is 
 &lt;a href=&#34;https://id.loc.gov/authorities/subjects/sh85076357&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;sh85076357&lt;/a&gt;, but the general subdivision one would is 
 &lt;a href=&#34;https://id.loc.gov/authorities/subjects/sh99005001&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;sh99005001&lt;/a&gt;. It is probable that OLAC refers to the topic (root) rather than the general subdivision term. However, for clarity these things should be overtly stated.&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;sup&gt;,&lt;/sup&gt;&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
 &lt;li&gt;
@@ -4310,8 +4728,8 @@ useful, OLAC lacks a deep semantic definition and relies mostly on best practice
 &lt;a href=&#34;http://id.loc.gov/authorities/subjects/sh85074574&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Language and languages&amp;ndash;Philosophy&lt;/a&gt; (the sub-topic philosophy is used under a different topic &lt;code&gt;Language and languages&lt;/code&gt;), or in my opinion the least likely case 
 &lt;a href=&#34;http://id.loc.gov/authorities/subjects/sh85095384&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ordinary-language philosophy&lt;/a&gt;.&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;For the OLAC subjects I have looked at already, the following table lists what I hypothesis as being the OLAC intended equivalent. I haven&amp;rsquo;t worked my way through the whole table yet. When I have worked through the whole set of OLAC terms I will present this data in a more beautiful way. Currently it is in a markdown table and as a JSON file 
-&lt;a href=&#34;olac-subjects.json&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;For the OLAC subjects I have looked at already, the following table lists what I hypothesis as being the OLAC intended equivalent. I haven&amp;rsquo;t worked my way through the whole table yet. When I have worked through the whole set of OLAC terms I will present this data in a more beautiful way. Currently it is in a markdown table and as a 
+&lt;a href=&#34;olac-subjects.json&#34;&gt;JSON file&lt;/a&gt;.&lt;/p&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
