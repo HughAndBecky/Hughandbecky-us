@@ -5946,6 +5946,93 @@ Visual Linguistics. &lt;a href=&#34;http://www.visual-linguistics.net/symposium/
     </item>
     
     <item>
+      <title>Keyboard Comparisons Across Languages — Charted</title>
+      <link>https://hughandbecky.us/Hugh-CV/post/keyboard-comparisons/</link>
+      <pubDate>Fri, 11 Nov 2022 14:35:45 +0100</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/post/keyboard-comparisons/</guid>
+      <description>&lt;!-- The javascript way&lt;script&gt;if (window.innerWidth &gt; 700){document.querySelector(&#39;.article-style&#39;).style.overflowX = &#39;visible&#39;;}&lt;/script&gt;
+&lt;style&gt;#tg-ZAuTS { width: 85vw; position: relative; left: calc(-50vw + 70%); z-index: 1; !important}&lt;/style&gt; --&gt;
+&lt;!-- currently the style tags below apply This ought to be moved to a short code following the instructions here: https://www.mybluelinux.com/how-create-bootstrap-tables-in-hugo/ and some of the complex table&#39;s CSS has been modified. For example, I added no-hypenation and really the long URLs ought to be broken more and the text given the room it needs. --&gt;
+&lt;style&gt;/* 0. apply these rules when the screen is big enough*/ @media screen and (min-width: 800px) {
+
+/* 1. extend child table beyond max-width of parent */
+  #2 {
+    position: relative;
+    /* set the width and the left rules to allow for margins */
+    width: 90vw;
+    left: calc(-50vw + 60%);
+  }
+/* 2. override the parents overflow rule so the table can be visible */
+  .article-style {
+    overflow-x: visible !important;
+  }
+wbr:before {
+  /* Unicode zero width space */
+  content: &#34;\200B&#34;;
+  white-space: normal;
+}
+}
+&lt;/style&gt;
+
+
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-comparison-of-several-language-keyboards&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/keyboard-comparisons/Keyboard-Comparisons_hub693d90d202bf86fe5303b0651a1df61_185696_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Comparison of several language keyboards&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/keyboard-comparisons/Keyboard-Comparisons_hub693d90d202bf86fe5303b0651a1df61_185696_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;Comparison of several language keyboards&#34; width=&#34;1120&#34; height=&#34;1070&#34; itemprop=&#34;contentUrl&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;p&gt;Comparison of several language keyboards
+      
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;http://hugh4.us&#34;&gt; 
+Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
+        &lt;meta itemprop=&#34;name&#34; content=&#34;Hugh Paterson III&#34; /&gt;
+      &lt;/span&gt;
+&lt;/a&gt; &lt;/span&gt;
+&lt;/p&gt;
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>OLAC Roles and MARC Relator Role Equivalents</title>
       <link>https://hughandbecky.us/Hugh-CV/post/olac-roles/</link>
       <pubDate>Wed, 09 Nov 2022 14:35:45 +0100</pubDate>
