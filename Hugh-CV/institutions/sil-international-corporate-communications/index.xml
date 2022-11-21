@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SIL International Corporate Communications | Hugh&#39;s Curriculum Vitae</title>
+    <link>https://hughandbecky.us/Hugh-CV/institutions/sil-international-corporate-communications/</link>
+      <atom:link href="https://hughandbecky.us/Hugh-CV/institutions/sil-international-corporate-communications/index.xml" rel="self" type="application/rss+xml" />
+    <description>SIL International Corporate Communications</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2022</copyright><lastBuildDate>Thu, 23 Oct 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://hughandbecky.us/Hugh-CV/media/HughPaterson.jpg</url>
+      <title>SIL International Corporate Communications</title>
+      <link>https://hughandbecky.us/Hugh-CV/institutions/sil-international-corporate-communications/</link>
+    </image>
+    
+    <item>
+      <title>User Experience Consulting on SIL.org</title>
+      <link>https://hughandbecky.us/Hugh-CV/project/2013-sil-org/</link>
+      <pubDate>Thu, 23 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/project/2013-sil-org/</guid>
+      <description>&lt;p&gt;Within User Experience studies, there are at least two ways to apply the term (UX): &lt;em&gt;The design of experiences that a corporation wants their customers to engage in&lt;/em&gt;, and &lt;em&gt;the  way that people take an object (product) and decide to use it&lt;/em&gt;. Both are important, but how a company approaches either of these facets and how they relate that approach back to their other business goals scopes the relevance of User Experience Design within the organization. Successful interactions depend on both points of view and the metrics chosen for evaluating success.&lt;/p&gt;
+&lt;p&gt;Between 2010 and 2016 I intergrated with the SIL communications team to contribute to desin descussions on the SIL website. The project was to move the current website from hand crafted HTML poduced by dozens of departments over hundreds of projects to Drupal 7, a content manament system. The move to a content managment system was a strategic move for the organization that impacted all parts of the organization. I contributed a variety of perspectives to an evolving design incuding &lt;em&gt;Readability&lt;/em&gt;, &lt;em&gt;Professional profile design&lt;/em&gt;, &lt;em&gt;URL managment&lt;/em&gt;, &lt;em&gt;SEO considerations&lt;/em&gt;, &lt;em&gt;Interactive features&lt;/em&gt;, &lt;em&gt;List layout and design&lt;/em&gt;, and &lt;em&gt;Page element cohesion&lt;/em&gt;, &lt;em&gt;Designing for web and print&lt;/em&gt;, &lt;em&gt;Multi-lingual navigation&lt;/em&gt;, .&lt;/p&gt;
+&lt;p&gt;I raised empathy considerations, where the tasks of the end-user were considered over the traditions of the organization. I brought an awareness of what other organizations in the pulishing industry were doing and their users were expecting from a web-based interaction. I was able to be a resource introducing some of these design ideas to a communications team with diverse strenghts in print design and text based messaging.&lt;/p&gt;
+&lt;p&gt;&amp;lt;&amp;ndash; My work with SIL started with a report that they were not using a &lt;code&gt;print.css&lt;/code&gt; file on the SIL Bibliography in 2006 and were wasting a lot of ink when people were printing pages. I think this was corrected by 2009. This was typical for the pace of technical innovative change. SIL is a very corporate feature focused development environment.
+&amp;ndash;&amp;gt;&lt;/p&gt;
+&lt;p&gt;SIL.org is an interesting use case in UX design for at least 6 reasons:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;SIL has several major areas of very public interactions which it engages with to various degrees in various parts of the world — but the Internet is flat.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Advocacy with public policy making bodies regarding the needs of minority language speakers.&lt;/li&gt;
+&lt;li&gt;Publishing and sales of professional resources and materials.&lt;/li&gt;
+&lt;li&gt;Bible translation.&lt;/li&gt;
+&lt;li&gt;Educational programs (both formal and workshop style) in linguistics and language development.&lt;/li&gt;
+&lt;li&gt;Mother tongue Multi-lingual educational programs.&lt;/li&gt;
+&lt;li&gt;Minority language literacy (both integrated with national educational programs, and community sponsored programs, for children and adults).&lt;/li&gt;
+&lt;li&gt;NGOs and development agencies.&lt;/li&gt;
+&lt;li&gt;Innovative computer technology development related to non-English typesetting and computing.&lt;/li&gt;
+&lt;li&gt;Innovative creative access power solutions (like solar).&lt;/li&gt;
+&lt;li&gt;Sustainable logistical support for difficult to access project locations (usually via air).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;SIL has historically had a very fractured internal identity, and a very decentralized governance, which has not required a high degree of uniformity throughout the organization. Digital infrastructure projects stress these social norms.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Within the organization web-presence has come to be regarded as the officiating act recognition of an internal group&amp;rsquo;s merit.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Different people within the organization have strong opinions about how the world should view the organization — which are reflected in what they think the organization should say about itself — including the interactions that the organization provides to the people who interact via its website.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Globally at the time the Internet was going mobile mobile-first, something not until-then  considered in web-designs.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;SIL had, and conintues to have, multiple audiences for which the organization has very different engagement goals. For example, generating the visual and informatic thrill needed to entice donors is a different communication task than facilitating product (publication and product) distribution. These tasks and their audiences are then again different from training and education related interactions for which SIL was offereing. SIL also provides high-level information about subject areas in which SIL engages  focused at politicians and staffs of other NGOs. However, quantitatively, most people came to SIL.org to learn about linguistics, the plethora of digital tools that SIL distributes via sil.org, or the vast number of resources about languages and the people who speak them.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;!--
+Rebranding SIL Journals
+
+Journal of phonological description
+Journal of grammatical description
+Journal of descriptive and comparative dialectology
+Journal of orthographic description and history
+Journal of sociolinguistic description
+--&gt;
+&lt;!--  8 May 2013-  I sometimes wonder if Vision2025 applied to sil.org is to shut the website down and turn it off. If every language which needs a Bible Translation will have a project started by 2025. Then there really is no place left for SIL after that and why would SIL need a website then?
+
+:: because we all believe that Bible Translation is more important than Language Development and there will be no way to share what Christ did for us in humanity after 2025 through language development.
+
+:: because we all know that there will be no need for Bible Translation Revisions, after 2025... We got it right the first time...
+
+:: because SIL will have spent all its time and effort preaching to partners &#34;sustainability&#34; it will have none in the end...
+
+--&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

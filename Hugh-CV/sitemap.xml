@@ -1678,7 +1678,7 @@
   </url>
   
   <url>
-    <loc>https://hughandbecky.us/Hugh-CV/countries/nigeria/</loc>
+    <loc>https://hughandbecky.us/Hugh-CV/country/nigeria/</loc>
     <lastmod>2020-08-10T09:30:22-07:00</lastmod>
   </url>
   
@@ -1903,6 +1903,11 @@
   </url>
   
   <url>
+    <loc>https://hughandbecky.us/Hugh-CV/cities/</loc>
+    <lastmod>2019-10-17T20:18:54+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://hughandbecky.us/Hugh-CV/tag/crayon/</loc>
     <lastmod>2019-10-17T20:18:54+00:00</lastmod>
   </url>
@@ -1913,7 +1918,7 @@
   </url>
   
   <url>
-    <loc>https://hughandbecky.us/Hugh-CV/locations/eugene/</loc>
+    <loc>https://hughandbecky.us/Hugh-CV/cities/eugene/</loc>
     <lastmod>2019-10-17T20:18:54+00:00</lastmod>
   </url>
   
@@ -1928,7 +1933,7 @@
   </url>
   
   <url>
-    <loc>https://hughandbecky.us/Hugh-CV/locations/germany/</loc>
+    <loc>https://hughandbecky.us/Hugh-CV/country/germany/</loc>
     <lastmod>2019-10-17T20:18:54+00:00</lastmod>
   </url>
   
@@ -1964,6 +1969,11 @@
   
   <url>
     <loc>https://hughandbecky.us/Hugh-CV/tag/oak/</loc>
+    <lastmod>2019-10-17T20:18:54+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hughandbecky.us/Hugh-CV/cities/oak-hill/</loc>
     <lastmod>2019-10-17T20:18:54+00:00</lastmod>
   </url>
   
@@ -2013,7 +2023,7 @@
   </url>
   
   <url>
-    <loc>https://hughandbecky.us/Hugh-CV/locations/u.s.a/</loc>
+    <loc>https://hughandbecky.us/Hugh-CV/country/usa/</loc>
     <lastmod>2019-10-17T20:18:54+00:00</lastmod>
   </url>
   
@@ -2059,11 +2069,6 @@
   
   <url>
     <loc>https://hughandbecky.us/Hugh-CV/institutions/university-of-oregon/</loc>
-    <lastmod>2019-04-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hughandbecky.us/Hugh-CV/countries/usa/</loc>
     <lastmod>2019-04-26T00:00:00+00:00</lastmod>
   </url>
   
@@ -2168,7 +2173,7 @@
   </url>
   
   <url>
-    <loc>https://hughandbecky.us/Hugh-CV/countries/ivory-coast/</loc>
+    <loc>https://hughandbecky.us/Hugh-CV/country/ivory-coast/</loc>
     <lastmod>2018-08-31T00:00:00+00:00</lastmod>
   </url>
   
@@ -2398,11 +2403,6 @@
   </url>
   
   <url>
-    <loc>https://hughandbecky.us/Hugh-CV/project/2017-wasta-language-scientist/</loc>
-    <lastmod>2017-01-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://hughandbecky.us/Hugh-CV/tag/dialectology/</loc>
     <lastmod>2016-08-27T18:20:45+01:00</lastmod>
   </url>
@@ -2473,7 +2473,7 @@
   </url>
   
   <url>
-    <loc>https://hughandbecky.us/Hugh-CV/tag/sil-international-language-program-training/</loc>
+    <loc>https://hughandbecky.us/Hugh-CV/institutions/sil-international-language-program-training/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
@@ -2598,7 +2598,7 @@
   </url>
   
   <url>
-    <loc>https://hughandbecky.us/Hugh-CV/countries/uk/</loc>
+    <loc>https://hughandbecky.us/Hugh-CV/country/uk/</loc>
     <lastmod>2015-08-11T00:00:00+00:00</lastmod>
   </url>
   
@@ -2705,6 +2705,16 @@
   <url>
     <loc>https://hughandbecky.us/Hugh-CV/tag/nigeria/</loc>
     <lastmod>2014-12-03T01:41:38-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hughandbecky.us/Hugh-CV/cities/dallas/</loc>
+    <lastmod>2014-10-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hughandbecky.us/Hugh-CV/institutions/sil-international-corporate-communications/</loc>
+    <lastmod>2014-10-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -2918,7 +2928,7 @@
   </url>
   
   <url>
-    <loc>https://hughandbecky.us/Hugh-CV/institutions/language-culture-archives/</loc>
+    <loc>https://hughandbecky.us/Hugh-CV/institutions/language-and-culture-archives/</loc>
     <lastmod>2013-02-03T01:41:38-07:00</lastmod>
   </url>
   
@@ -3123,6 +3133,11 @@
   </url>
   
   <url>
+    <loc>https://hughandbecky.us/Hugh-CV/country/mexico/</loc>
+    <lastmod>2012-03-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://hughandbecky.us/Hugh-CV/project/2012-mexico-keyboards/</loc>
     <lastmod>2012-03-12T00:00:00+00:00</lastmod>
   </url>
@@ -3159,6 +3174,16 @@
   
   <url>
     <loc>https://hughandbecky.us/Hugh-CV/project/2010-americas-area-photo-digitization/</loc>
+    <lastmod>2012-02-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hughandbecky.us/Hugh-CV/tag/preservation/</loc>
+    <lastmod>2012-02-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hughandbecky.us/Hugh-CV/tag/social-engagment/</loc>
     <lastmod>2012-02-24T00:00:00+00:00</lastmod>
   </url>
   
@@ -3343,6 +3368,16 @@
   </url>
   
   <url>
+    <loc>https://hughandbecky.us/Hugh-CV/institutions/sil-mexico/</loc>
+    <lastmod>2011-03-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hughandbecky.us/Hugh-CV/cities/tlapa/</loc>
+    <lastmod>2011-03-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://hughandbecky.us/Hugh-CV/post/using-endnote-x4-for-mac/</loc>
     <lastmod>2011-02-10T14:35:45+01:00</lastmod>
   </url>
@@ -3378,7 +3413,7 @@
   </url>
   
   <url>
-    <loc>https://hughandbecky.us/Hugh-CV/talk/2009-lasting-linguistics-linguistics-leaving-mark/</loc>
+    <loc>https://hughandbecky.us/Hugh-CV/talk/2009-lasting-linguistics-leaving-mark/</loc>
     <lastmod>2009-07-30T17:00:12-07:00</lastmod>
   </url>
   
@@ -3433,10 +3468,6 @@
   
   <url>
     <loc>https://hughandbecky.us/Hugh-CV/language/gel/</loc>
-  </url>
-  
-  <url>
-    <loc>https://hughandbecky.us/Hugh-CV/cities/</loc>
   </url>
   
   <url>
