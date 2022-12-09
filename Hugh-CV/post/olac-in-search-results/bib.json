@@ -1,0 +1,56 @@
+[
+	{
+		"id": "7TXHAE2G",
+		"type": "paper-conference",
+		"abstract": "The Open Language Archives Community (OLAC) provides a comprehensive infrastructure that has allowed our community to index and discover language resources over the past 20 years. However, OLAC infrastructure has fallen behind as the digital libraries community has continued to evolve. New investment is required in order to move OLAC into the digital libraries mainstream. This paper reports on the first 20 years of OLAC and on an agenda leading to a more sustainable future for open language archiving.",
+		"container-title": "Proceedings of the International Workshop on Digital Language Archives: LangArc 2021",
+		"DOI": "10.12794/langarc1851171",
+		"event": "International Workshop on Digital Language Archives",
+		"event-place": "Denton, Texas",
+		"language": "en",
+		"page": "25-28",
+		"publisher": "University of North Texas",
+		"publisher-place": "Denton, Texas",
+		"source": "DOI.org (Crossref)",
+		"title": "Towards an Agenda for Open Language Archiving",
+		"URL": "https://digital.library.unt.edu/ark:/67531/metadc1851171/",
+		"author": [
+			{
+				"family": "Bird",
+				"given": "Steven"
+			},
+			{
+				"family": "Simons",
+				"given": "Gary"
+			}
+		],
+		"editor": [
+			{
+				"family": "Zavalina",
+				"given": "Oksana"
+			},
+			{
+				"family": "Chelliah",
+				"given": "Shobhana Lakshmi"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					2,
+					22
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2021",
+					10,
+					7
+				]
+			]
+		}
+	}
+]

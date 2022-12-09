@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Search Results | Hugh&#39;s Curriculum Vitae</title>
+    <link>https://hughandbecky.us/Hugh-CV/tag/search-results/</link>
+      <atom:link href="https://hughandbecky.us/Hugh-CV/tag/search-results/index.xml" rel="self" type="application/rss+xml" />
+    <description>Search Results</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2022</copyright><lastBuildDate>Mon, 12 Sep 2022 14:35:45 +0100</lastBuildDate>
+    <image>
+      <url>https://hughandbecky.us/Hugh-CV/media/HughPaterson.jpg</url>
+      <title>Search Results</title>
+      <link>https://hughandbecky.us/Hugh-CV/tag/search-results/</link>
+    </image>
+    
+    <item>
+      <title>OLAC in Search Results</title>
+      <link>https://hughandbecky.us/Hugh-CV/post/olac-in-search-results/</link>
+      <pubDate>Mon, 12 Sep 2022 14:35:45 +0100</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/post/olac-in-search-results/</guid>
+      <description>&lt;p&gt;On the second page of recent paper by Bird and Simons (2021) one can find the following quote:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Alongside these contributions of OLAC is the response from the community, including over 5,000 publications that cite OLAC (&lt;a href=&#34;https://scholar.Google.com/scholar?q=&#34;&gt;https://scholar.Google.com/scholar?q=&lt;/a&gt; &amp;ldquo;OLAC&amp;quot;+language). There is evidence that OLAC is enabling research that accesses language resources (e.g. [13]), and that OLAC is supporting ongoing scholarship on language archiving itself (e.g. [8, 9]).&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;As a scholar with a subject interest in the Open Language Archives Community aggregator, I was immediately interested in this claim. I wanted to verify it. In fact it is my conclusion that the actual body of literature mentioning OLAC is much smaller. In my experience, the publications which do mention OLAC, do so in a passing way, rather diving deep into any sort of theory, design, or application oriented discussion of either the aggregator service or the metadata schema. This leaves the field wide open for investigative research.&lt;/p&gt;
+&lt;p&gt;I decided to have a look at Bird and Simons&amp;rsquo; claims and I find fewer resources given that there is a significant amount of noise in the search results. Noise is introduced from the following terms:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Ohio Leadership Advisory Council&lt;/li&gt;
+&lt;li&gt;OLAC, inc.&lt;/li&gt;
+&lt;li&gt;Online Audio Visual Catalogers&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Olac&lt;/em&gt; is a name.&lt;/li&gt;
+&lt;li&gt;Ohio Latin Americanist Conference&lt;/li&gt;
+&lt;li&gt;Online Learning Advisery Community&lt;/li&gt;
+&lt;li&gt;Outdoor lighting Application Center&lt;/li&gt;
+&lt;li&gt;Online Accelerated Cooling&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;There also seems to be room for the following names:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Open Literature Access Community&lt;/li&gt;
+&lt;li&gt;Open Linguistic Anthropology Consortium&lt;/li&gt;
+&lt;li&gt;Open Language Activist Community&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;When I did my search as indicated in their paper:&lt;/p&gt;
+&lt;p&gt;I found the following:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;5570 hits.&lt;/li&gt;
+&lt;li&gt;Numerous items are duplicates.&lt;/li&gt;
+&lt;li&gt;My results are narrowed to 30 when I exclude the string &lt;code&gt;language-archives.org&lt;/code&gt;  This is problematic as the strings do legitimately co-occur.&lt;/li&gt;
+&lt;li&gt;If we assume that there are 5570 hits then we might also assume that for each legitimate work there are at least two expressions: a pre-print and a published version. This reduces the number of works to 2785. I still think that 2800 items is too many for referencing the Open Language Archives Community.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;In my readings OLAC is widely mentioned within the areas of scholarly communication involving:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;in early publications of E-MELD by participants of E-MELD.&lt;/li&gt;
+&lt;li&gt;CLARIN work.&lt;/li&gt;
+&lt;li&gt;Dr. Nick Thieberger Set up no less than four archives.&lt;/li&gt;
+&lt;li&gt;Dr. Steven Bird set up no less than 8 archives.&lt;/li&gt;
+&lt;li&gt;Dr. Gary Simons set up and consulted on no less than three archives.&lt;/li&gt;
+&lt;li&gt;Papers announcing new archive feeds.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;bibliography&#34;&gt;Bibliography&lt;/h3&gt;
+
+
+
+
+
+
+
+
+
+
+
+&lt;section class=&#34;hugo-cite-bibliography&#34;&gt;
+  &lt;dl&gt;
+    
+
+      &lt;div id=&#34;7txhae2g&#34;&gt;
+        &lt;dt&gt;
+          Bird&amp;#32;&amp;amp;&amp;#32;Simons
+
+          
+          (2021)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/CreativeWork&#34;
+      data-type=&#34;paper-conference&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Bird&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Steven&#34; /&gt;
+    S.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Simons&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Gary&#34; /&gt;
+    G.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2021&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;
+    &lt;i&gt;Towards an Agenda for Open Language Archiving&lt;/i&gt;&lt;/span&gt;.
+  &lt;meta itemprop=&#34;contentLocation&#34;
+        content=&#34;Denton, Texas&#34;&gt;&amp;#32;
+  &lt;span itemprop=&#34;publisher&#34; itemtype=&#34;http://schema.org/Organization&#34; itemscope=&#34;&#34;&gt;
+    &lt;span itemprop=&#34;name&#34;&gt;University of North Texas&lt;/span&gt;&lt;/span&gt;.
+  &lt;a href=&#34;https://doi.org/10.12794/langarc1851171&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://doi.org/10.12794/langarc1851171&lt;/a&gt;&lt;/span&gt;
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+  &lt;/dl&gt;
+&lt;/section&gt;
+
+
+
+</description>
+    </item>
+    
+  </channel>
+</rss>

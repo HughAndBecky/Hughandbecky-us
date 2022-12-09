@@ -5,12 +5,24 @@
     <link>https://hughandbecky.us/Hugh-CV/tag/linux/</link>
       <atom:link href="https://hughandbecky.us/Hugh-CV/tag/linux/index.xml" rel="self" type="application/rss+xml" />
     <description>Linux</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2022</copyright><lastBuildDate>Tue, 30 Oct 2018 14:35:45 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2022</copyright><lastBuildDate>Sun, 22 Dec 2019 14:35:45 +0100</lastBuildDate>
     <image>
       <url>https://hughandbecky.us/Hugh-CV/media/HughPaterson.jpg</url>
       <title>Linux</title>
       <link>https://hughandbecky.us/Hugh-CV/tag/linux/</link>
     </image>
+    
+    <item>
+      <title>Backup Solutions for Linux</title>
+      <link>https://hughandbecky.us/Hugh-CV/post/backup-solutions-for-linux/</link>
+      <pubDate>Sun, 22 Dec 2019 14:35:45 +0100</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/post/backup-solutions-for-linux/</guid>
+      <description>&lt;p&gt;After an exensive review of linux backup solutions I decided to go with 
+&lt;a href=&#34;https://github.com/linuxmint/timeshift&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TimeShift&lt;/a&gt;. I have yet to need to restore anything. But the ease of use and range of options won me over. I was a big fan of Apple&amp;rsquo;s TimeMachine when I was a Mac user. I use it to backup my whole machine.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://www.rastersoft.com/programas/cronopete.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cronopete&lt;/a&gt; ((Review](&lt;a href=&#34;https://ostechnix.com/cronopete-apples-time-machine-clone-linux/&#34;&gt;https://ostechnix.com/cronopete-apples-time-machine-clone-linux/&lt;/a&gt;)) is another interesting option. Which I might try in the future after I change to my next Linux Machine. Cronopete is not desiged for backing up the whole machine, only the user folder. This is a problem for me as I have stashed all sorts of files all over the OS. In my next iteration I need to be more diciplined about moving web server tools into packages like docker.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>XLingPaper Upgrade on Linux</title>

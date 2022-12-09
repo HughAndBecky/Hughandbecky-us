@@ -5,12 +5,24 @@
     <link>https://hughandbecky.us/Hugh-CV/tag/translation/</link>
       <atom:link href="https://hughandbecky.us/Hugh-CV/tag/translation/index.xml" rel="self" type="application/rss+xml" />
     <description>Translation</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2022</copyright><lastBuildDate>Wed, 27 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2022</copyright><lastBuildDate>Wed, 30 Nov 2022 14:35:45 +0100</lastBuildDate>
     <image>
       <url>https://hughandbecky.us/Hugh-CV/media/HughPaterson.jpg</url>
       <title>Translation</title>
       <link>https://hughandbecky.us/Hugh-CV/tag/translation/</link>
     </image>
+    
+    <item>
+      <title>OLAC Translations</title>
+      <link>https://hughandbecky.us/Hugh-CV/post/olac-translations/</link>
+      <pubDate>Wed, 30 Nov 2022 14:35:45 +0100</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/post/olac-translations/</guid>
+      <description>&lt;p&gt;I just noticed that someone translated OLAC vocabulaires into Chinese. I wonder if there are other languages as well. I also wonder if equivelent terms in other namespaces are already translated.&lt;/p&gt;
+&lt;p&gt;A new display of these vocabularies ought to be multi-lingual and driven from a .json-LD .ttl or RDF file.&lt;/p&gt;
+&lt;p&gt;For reference on the discussion of translations see: &lt;a href=&#34;https://listserv.linguistlist.org/pipermail/olac-implementers/2003-November/000242.html&#34;&gt;https://listserv.linguistlist.org/pipermail/olac-implementers/2003-November/000242.html&lt;/a&gt;&lt;/p&gt;
+&lt;!-- I should look at how LRMI and DOAP are doing translations --&gt;
+</description>
+    </item>
     
     <item>
       <title>Multilingual Metadata &amp; Metadata Translation</title>

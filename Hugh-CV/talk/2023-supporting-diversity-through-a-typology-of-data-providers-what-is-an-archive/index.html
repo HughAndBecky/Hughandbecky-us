@@ -1,0 +1,1493 @@
+<!DOCTYPE html><html lang="en-us" >
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Source Themes Academic 4.8.0">
+
+  <meta name="author" content="Hugh Paterson III">
+
+  <meta name="description" content="I demonstrate how a researcher can use their personal website to advertise their publications and presentations in OLAC. We use open source technologies to take markdown files and convert them into a compliant XML feed. The result is greater exposure of one’s academic experience to those looking for language resources.">
+  <link rel="alternate" hreflang="en-us" href="https://hughandbecky.us/Hugh-CV/talk/2023-supporting-diversity-through-a-typology-of-data-providers-what-is-an-archive/">
+
+
+
+
+
+
+
+  
+
+
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <meta name="theme-color" content="#456587"><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.9.0/css/academicons.min.css" integrity="sha512-W4yqoT1+8NLkinBLBZko+dFB2ZbHsYLDdr50VElllRcNt2Q4/GSs6u71UHKxB7S6JEMCp5Ve4xjh3eGQl/HRvg==" crossorigin="anonymous"><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css" integrity="sha256-FMvZuGapsJLjouA6k7Eo2lusoAX9i0ShlWFG6qt7SLc=" crossorigin="anonymous"><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous">
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/leaflet.min.css" integrity="sha512-1xoFisiGdy9nvho8EgXuXvnpR5GAMSjFwp40gSRE3NwdUdIMIKuPa7bqoUhLD0O/5tPNhteAsE5XyyMi5reQVA==" crossorigin="anonymous">
+    
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/lazysizes/5.2.2/lazysizes.min.js" integrity="sha512-TmDwFLhg3UA4ZG0Eb4MIyT1O1Mb+Oww5kFG0uHqXsdbyZz9DcvYQhKpGgNkamAI6h2lGGZq2X8ftOJvF/XjTUg==" crossorigin="anonymous" async></script>
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+        
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+  
+  
+    
+      
+      
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:400,700%7CRoboto+Mono%7CCharis+SIL&display=swap">
+    
+  
+
+  
+  
+  
+  
+  <link rel="stylesheet" href="/Hugh-CV/css/academic.css">
+
+  
+
+
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-31042070-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-31042070-2', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
+  
+
+
+  
+  <link rel="manifest" href="/Hugh-CV/index.webmanifest">
+  <link rel="icon" type="image/png" href="/Hugh-CV/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_32x32_fill_lanczos_center_2.png">
+  <link rel="apple-touch-icon" type="image/png" href="/Hugh-CV/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_192x192_fill_lanczos_center_2.png">
+
+  <link rel="canonical" href="https://hughandbecky.us/Hugh-CV/talk/2023-supporting-diversity-through-a-typology-of-data-providers-what-is-an-archive/">
+
+  
+  
+  
+  
+  
+  
+  
+    
+  
+  
+  <meta property="twitter:card" content="summary_large_image">
+  
+  <meta property="twitter:site" content="@thejourneyler">
+  <meta property="twitter:creator" content="@thejourneyler">
+  
+  <meta property="og:site_name" content="Hugh&#39;s Curriculum Vitae">
+  <meta property="og:url" content="https://hughandbecky.us/Hugh-CV/talk/2023-supporting-diversity-through-a-typology-of-data-providers-what-is-an-archive/">
+  <meta property="og:title" content="Supporting Diversity Through a Typology of Data Providers: What is an Archive? | Hugh&#39;s Curriculum Vitae">
+  <meta property="og:description" content="I demonstrate how a researcher can use their personal website to advertise their publications and presentations in OLAC. We use open source technologies to take markdown files and convert them into a compliant XML feed. The result is greater exposure of one’s academic experience to those looking for language resources."><meta property="og:image" content="https://hughandbecky.us/Hugh-CV/media/HughPaterson.jpg">
+  <meta property="twitter:image" content="https://hughandbecky.us/Hugh-CV/media/HughPaterson.jpg"><meta property="og:locale" content="en-us"><meta property="article:published_time" content="2020-12-19T17:00:12-07:00"><meta property="article:modified_time" content="2023-03-02T17:00:12-07:00">
+
+
+
+  
+    
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Event",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://hughandbecky.us/Hugh-CV/talk/2023-supporting-diversity-through-a-typology-of-data-providers-what-is-an-archive/"
+  },
+  "name": "Supporting Diversity Through a Typology of Data Providers: What is an Archive?",
+  
+  "location": {
+    "@type": "Place",
+    "name": "University of Hawai‘i at Mānoa"
+  },
+  
+  
+  "startDate": "2023-03-02T17:00:12-07:00",
+  
+  
+  "performer": {
+    "@type": "Person",
+    "name": "Hugh Paterson III"
+  },
+  
+  "description": "I demonstrate how a researcher can use their personal website to advertise their publications and presentations in OLAC. We use open source technologies to take markdown files and convert them into a compliant XML feed. The result is greater exposure of one’s academic experience to those looking for language resources."
+}
+</script>
+
+  
+
+  
+
+
+
+
+
+
+<link rel="stylesheet" type="text/css" href="/Hugh-CV/css/custom.css" />
+
+<link rel="stylesheet" type="text/css" href="/Hugh-CV/css/hugo-cite.css" />
+
+
+<meta name="pinterest" content="nopin">
+
+
+<meta name="keywords" content="OLAC, metadata, terminology">
+
+
+<link rel="schema.dc" href="http://purl.org/dc/elements/1.1/">
+
+<link rel="schema.DCTERMS" href="http://purl.org/dc/terms/">
+
+<meta name="DC.Title" content="Supporting Diversity Through a Typology of Data Providers: What is an Archive?">
+<meta name="citation_title" content="Supporting Diversity Through a Typology of Data Providers: What is an Archive?">
+<meta name="eprints.title" content="Supporting Diversity Through a Typology of Data Providers: What is an Archive?">
+<meta name="dcterms.title" content="Supporting Diversity Through a Typology of Data Providers: What is an Archive?">
+<meta name="DC.Creator" content="admin">
+<meta name="citation_author" content="admin">
+<meta name="DC.Subject" content="OLAC">
+<meta name="DC.Subject" content="metadata">
+<meta name="DC.Subject" content="terminology">
+<meta name="DC.Subject" content="language_documentation">
+<meta name="DC.Subject" content="olac_ls_language-documentation">
+<meta name="DC.Subject" content="">
+<meta name="DC.Subject" content="olac_dt_">
+<meta name="DC.Description" content="Recent authors (Bird &amp;amp; Simons 2021, 2022) suggest that all data providers to the Open Language Archives Community (OLAC) aggregator are best referred to as “archives”. This serves to draw in new potential data providers through inclusive terminology — every data provider is or has an archive. No collector of sets of language resources can be told they do not have or are not an archive. The inclusive view is also taken in the analysis of language resource stewards by Yi et al. (2022) who review different kinds of institutions and their websites as if they were the same. Whe	n reviewing stewardship practices and online presence of language resources, it becomes apparent that not all presentations of resources intend to be equal. The OLAC community through its terminology leaves open to assumption issues such as the nature of institutional support for a set of language resources, the nature of the purpose of an online index of resources, and the nature of the stewardship mandate an institution may have regarding specific resources.So an interesting question arises: Are all the data providers to the Open Language Archives Community aggregator actually archives? We present an analysis of the 63 data providers to OLAC and suggest a more nuanced typology which includes: Archive, Repository, Library, Special Collection, Personal Portfolio, Lab or Department Portfolio, Project Portfolio, Typological Database, and Bibliography. Additionally, we situate the terms: Museum, Gallery, Networks, Centers, Publishers, Institutions with collection-specific management practice, Institutes, Historical Societies, Registries, and Services. The terms in our vocabulary have function based definitions and fall into the broad categories of: access institutions, exhibits, and reference resources. We believe that by acknowledging diversity in the types of data providers, the OLAC community can gain valuable insights into the kinds of providers that currently find value in participating in OLAC. Two other results of acknowledging the diverse nature of data providers include1. The ability to determine where outreach efforts may need further work for greater inclusion and participation with OLAC.2. A clearer professional discourse around the provisioning of language resource access points e.g., (Ferreira et al. 2021).In this presentation we use the terminology of diversity and inclusion to illustrate how inclusive terminology can gloss over important elements of diversity, and how diversity can make communities stronger and more resilient. By providing more options for identification, we allow a more just and equitable representation of language documentation resource stewards.">
+<meta name="dcterms.abstract" content="Recent authors (Bird &amp;amp; Simons 2021, 2022) suggest that all data providers to the Open Language Archives Community (OLAC) aggregator are best referred to as “archives”. This serves to draw in new potential data providers through inclusive terminology — every data provider is or has an archive. No collector of sets of language resources can be told they do not have or are not an archive. The inclusive view is also taken in the analysis of language resource stewards by Yi et al. (2022) who review different kinds of institutions and their websites as if they were the same. Whe	n reviewing stewardship practices and online presence of language resources, it becomes apparent that not all presentations of resources intend to be equal. The OLAC community through its terminology leaves open to assumption issues such as the nature of institutional support for a set of language resources, the nature of the purpose of an online index of resources, and the nature of the stewardship mandate an institution may have regarding specific resources.So an interesting question arises: Are all the data providers to the Open Language Archives Community aggregator actually archives? We present an analysis of the 63 data providers to OLAC and suggest a more nuanced typology which includes: Archive, Repository, Library, Special Collection, Personal Portfolio, Lab or Department Portfolio, Project Portfolio, Typological Database, and Bibliography. Additionally, we situate the terms: Museum, Gallery, Networks, Centers, Publishers, Institutions with collection-specific management practice, Institutes, Historical Societies, Registries, and Services. The terms in our vocabulary have function based definitions and fall into the broad categories of: access institutions, exhibits, and reference resources. We believe that by acknowledging diversity in the types of data providers, the OLAC community can gain valuable insights into the kinds of providers that currently find value in participating in OLAC. Two other results of acknowledging the diverse nature of data providers include1. The ability to determine where outreach efforts may need further work for greater inclusion and participation with OLAC.2. A clearer professional discourse around the provisioning of language resource access points e.g., (Ferreira et al. 2021).In this presentation we use the terminology of diversity and inclusion to illustrate how inclusive terminology can gloss over important elements of diversity, and how diversity can make communities stronger and more resilient. By providing more options for identification, we allow a more just and equitable representation of language documentation resource stewards.">
+<meta name="eprints.abstract" content="Recent authors (Bird &amp;amp; Simons 2021, 2022) suggest that all data providers to the Open Language Archives Community (OLAC) aggregator are best referred to as “archives”. This serves to draw in new potential data providers through inclusive terminology — every data provider is or has an archive. No collector of sets of language resources can be told they do not have or are not an archive. The inclusive view is also taken in the analysis of language resource stewards by Yi et al. (2022) who review different kinds of institutions and their websites as if they were the same. Whe	n reviewing stewardship practices and online presence of language resources, it becomes apparent that not all presentations of resources intend to be equal. The OLAC community through its terminology leaves open to assumption issues such as the nature of institutional support for a set of language resources, the nature of the purpose of an online index of resources, and the nature of the stewardship mandate an institution may have regarding specific resources.So an interesting question arises: Are all the data providers to the Open Language Archives Community aggregator actually archives? We present an analysis of the 63 data providers to OLAC and suggest a more nuanced typology which includes: Archive, Repository, Library, Special Collection, Personal Portfolio, Lab or Department Portfolio, Project Portfolio, Typological Database, and Bibliography. Additionally, we situate the terms: Museum, Gallery, Networks, Centers, Publishers, Institutions with collection-specific management practice, Institutes, Historical Societies, Registries, and Services. The terms in our vocabulary have function based definitions and fall into the broad categories of: access institutions, exhibits, and reference resources. We believe that by acknowledging diversity in the types of data providers, the OLAC community can gain valuable insights into the kinds of providers that currently find value in participating in OLAC. Two other results of acknowledging the diverse nature of data providers include1. The ability to determine where outreach efforts may need further work for greater inclusion and participation with OLAC.2. A clearer professional discourse around the provisioning of language resource access points e.g., (Ferreira et al. 2021).In this presentation we use the terminology of diversity and inclusion to illustrate how inclusive terminology can gloss over important elements of diversity, and how diversity can make communities stronger and more resilient. By providing more options for identification, we allow a more just and equitable representation of language documentation resource stewards.">
+
+
+
+<meta name="dcterms.bibliographicCitation" content="Paterson III, Hugh J. (2023) Supporting Diversity Through a Typology of Data Providers: What is an Archive? Paper presented at the 8th International Conference on Language Documentation and Conservation: Recognizing Relationships. University of Hawai‘i at Mānoa. March 4th.">
+<meta name="eprints.citation" content="Paterson III, Hugh J. (2023) Supporting Diversity Through a Typology of Data Providers: What is an Archive? Paper presented at the 8th International Conference on Language Documentation and Conservation: Recognizing Relationships. University of Hawai‘i at Mānoa. March 4th.">
+<meta name="dcterms.language" content="ISO639-3:eng">
+
+<meta name="eprints.languages_3char" content="eng">
+<meta name="dcterms.issued" content="2023-03-02">
+<meta name="DC.Date" content="2023-03-02">
+<meta name="citation_publication_date" content="2023">
+
+
+<meta name="DC.Rights" content="Copyright 2023">
+<meta name="citation_online_date" content="2020/12/19">
+
+<meta name="citation_keywords" content="OLAC, metadata, terminology">
+
+
+
+
+
+
+  
+<meta name="DC.Type" content="Event">
+
+
+<title>Supporting Diversity Through a Typology of Data Providers: What is an Archive? | Hugh&#39;s Curriculum Vitae</title>
+</head>
+
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class=" ">
+
+  
+  
+  
+  
+    <script>const isSiteThemeDark = false;</script>
+  
+  
+  <script src="/Hugh-CV/js/load-theme.js"></script>
+
+  <aside class="search-results" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control">
+        
+      </div>
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+  
+
+
+
+
+<nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main" itemscope itemtype="https://schema.org/SiteNavigationElement">
+  <div class="container">
+
+    
+    <div class="d-none d-lg-inline-flex">
+      <a class="navbar-brand" href="/Hugh-CV/"><img src="/Hugh-CV/images/logo.svg" alt="Hugh&#39;s Curriculum Vitae"></a>
+    </div>
+    
+
+    
+    <button type="button" class="navbar-toggler" data-toggle="collapse"
+            data-target="#navbar-content" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+    <span><i class="fas fa-bars"></i></span>
+    </button>
+    
+
+    
+    <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+      <a class="navbar-brand" href="/Hugh-CV/"><img src="/Hugh-CV/images/logo.svg" alt="Hugh&#39;s Curriculum Vitae"></a>
+    </div>
+    
+
+    
+    
+    <div class="navbar-collapse main-menu-item collapse justify-content-end" id="navbar-content">
+
+      
+      <ul class="navbar-nav d-md-inline-flex" itemscope itemtype="https://schema.org/ItemList">
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          <li class="nav-item" itemprop="itemListElement">
+          <a class="nav-link " href="/Hugh-CV/#about"><span>Home</span></a>
+        </li>
+
+        
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          <li class="nav-item" itemprop="itemListElement">
+          <a class="nav-link " href="/Hugh-CV/#featured"><span>Publications</span></a>
+        </li>
+
+        
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          <li class="nav-item" itemprop="itemListElement">
+          <a class="nav-link " href="/Hugh-CV/#talks"><span>Talks</span></a>
+        </li>
+
+        
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          <li class="nav-item" itemprop="itemListElement">
+          <a class="nav-link " href="/Hugh-CV/#projects"><span>Projects</span></a>
+        </li>
+
+        
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          <li class="nav-item" itemprop="itemListElement">
+          <a class="nav-link " href="/Hugh-CV/#teaching"><span>Teaching</span></a>
+        </li>
+
+        
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          <li class="nav-item" itemprop="itemListElement">
+          <a class="nav-link " href="/Hugh-CV/#experience"><span>Experience</span></a>
+        </li>
+
+        
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          <li class="nav-item" itemprop="itemListElement">
+          <a class="nav-link " href="/Hugh-CV/#posts"><span>Notes</span></a>
+        </li>
+
+        
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          <li class="nav-item" itemprop="itemListElement">
+          <a class="nav-link " href="/Hugh-CV/#contact"><span>Contact</span></a>
+        </li>
+
+        
+        
+
+      
+
+        
+      </ul>
+    </div>
+
+    <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+      
+      <li class="nav-item" itemprop="itemListElement">
+        <a class="nav-link js-search" href="#" aria-label="Search"><i class="fas fa-search" aria-hidden="true"></i></a>
+      </li>
+      
+
+      
+      
+
+      
+
+    </ul>
+
+  </div>
+</nav>
+
+
+
+  <div class="pub">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+  
+  
+<div class="article-container pt-3">
+  <h1>Supporting Diversity Through a Typology of Data Providers: What is an Archive?</h1>
+
+  
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+  
+  <span ><a href="/Hugh-CV/author/hugh-paterson-iii/">Hugh Paterson III</a></span>
+  </div>
+  
+  
+
+  
+
+  
+
+  
+
+  
+  
+  
+
+  
+  
+  <span class="middot-divider"></span>
+  <span class="article-categories">
+    <i class="fas fa-folder mr-1"></i><a href="/Hugh-CV/category/peer-reviewed/">Peer Reviewed</a>, <a href="/Hugh-CV/category/conference/">Conference</a></span>
+  
+
+</div>
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+  
+  <a class="btn btn-outline-primary my-1 mr-1" href="/Hugh-CV/project/2021-open-language-archives-community/">
+    Project
+  </a>
+  
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+
+  
+</div>
+
+
+
+  <div class="article-container">
+
+    
+      <h3>Abstract</h3>
+      <p class="pub-abstract">Recent authors (Bird &amp; Simons 2021, 2022) suggest that all data providers to the Open Language Archives Community (OLAC) aggregator are best referred to as “archives”. This serves to draw in new potential data providers through inclusive terminology — every data provider is or has an archive. No collector of sets of language resources can be told they do not have or are not an archive. The inclusive view is also taken in the analysis of language resource stewards by Yi et al. (2022) who review different kinds of institutions and their websites as if they were the same. Whe	n reviewing stewardship practices and online presence of language resources, it becomes apparent that not all presentations of resources intend to be equal. The OLAC community through its terminology leaves open to assumption issues such as the nature of institutional support for a set of language resources, the nature of the purpose of an online index of resources, and the nature of the stewardship mandate an institution may have regarding specific resources.<br/><br/>So an interesting question arises: <em>Are all the data providers to the Open Language Archives Community aggregator actually archives?</em> We present an analysis of the 63 data providers to OLAC and suggest a more nuanced typology which includes: <em>Archive</em>, <em>Repository</em>, <em>Library</em>, <em>Special Collection</em>, <em>Personal Portfolio</em>, <em>Lab or Department Portfolio</em>, <em>Project Portfolio</em>, <em>Typological Database</em>, and <em>Bibliography</em>. Additionally, we situate the terms: <em>Museum</em>, <em>Gallery</em>, <em>Networks</em>, <em>Centers</em>, <em>Publishers</em>, <em>Institutions with collection-specific management practice</em>, <em>Institutes, Historical Societies</em>, <em>Registries</em>, and <em>Services</em>. The terms in our vocabulary have function based definitions and fall into the broad categories of: access institutions, exhibits, and reference resources. We believe that by acknowledging diversity in the types of data providers, the OLAC community can gain valuable insights into the kinds of providers that currently find value in participating in OLAC. Two other results of acknowledging the diverse nature of data providers include<br/><br/>1. The ability to determine where outreach efforts may need further work for greater inclusion and participation with OLAC.<br/>2. A clearer professional discourse around the provisioning of language resource access points e.g., (Ferreira et al. 2021).<br/><br/>In this presentation we use the terminology of diversity and inclusion to illustrate how inclusive terminology can gloss over important elements of diversity, and how diversity can make communities stronger and more resilient. By providing more options for identification, we allow a more just and equitable representation of language documentation resource stewards.</p>
+    
+
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Date</div>
+          <div class="col-12 col-md-9">
+            2 Mar, 2023 17:00
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Event</div>
+          <div class="col-12 col-md-9">
+            <a href="http://ling.lll.hawaii.edu/sites/icldc/" target="_blank" rel="noopener">
+            8th International Conference on Language Documentation and Conservation: Centering Justice in Language Work
+            </a>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Location</div>
+          <div class="col-12 col-md-9">University of Hawai‘i at Mānoa</div>
+          
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    <div class="space-below"></div>
+
+    <div class="article-style">
+      <h3 id="bibliography">Bibliography</h3>
+
+
+
+
+
+
+
+
+
+
+
+<section class="hugo-cite-bibliography">
+  <dl>
+    
+
+      <div id="bird_open_2022">
+        <dt>
+          Bird&#32;&amp;&#32;Simons
+
+          
+          (2022)</dt>
+
+        <dd>
+          
+
+
+
+
+
+
+
+
+
+
+
+
+<span itemscope
+      itemtype="https://schema.org/Article"
+      data-type="article"><span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Bird</span>,&#32;
+    <meta itemprop="givenName" content="Steven" />
+    S.</span>&#32;&amp;&#32;<span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Simons</span>,&#32;
+    <meta itemprop="givenName" content="Gary F" />
+    G.</span>
+  &#32;
+    (<span itemprop="datePublished">2022</span>).
+  &#32;<span itemprop="name">The Open Language Archives Community: A 20-year update</span>.<i>
+    <span itemprop="about">The Electronic Library</span></i>.</span>
+
+
+
+
+</dd>
+
+      </div>
+
+      <div id="bird_towards_2021">
+        <dt>
+          Bird&#32;&amp;&#32;Simons
+
+          
+          (2021)</dt>
+
+        <dd>
+          
+
+
+
+
+
+
+
+
+
+
+
+
+<span itemscope
+      itemtype="https://schema.org/CreativeWork"
+      data-type="paper-conference"><span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Bird</span>,&#32;
+    <meta itemprop="givenName" content="Steven" />
+    S.</span>&#32;&amp;&#32;<span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Simons</span>,&#32;
+    <meta itemprop="givenName" content="Gary" />
+    G.</span>
+  &#32;
+    (<span itemprop="datePublished">2021</span>).
+  &#32;<span itemprop="name">
+    <i>Towards an Agenda for Open Language Archiving</i></span>.
+  <meta itemprop="contentLocation"
+        content="Denton, Texas">&#32;
+  <span itemprop="publisher" itemtype="http://schema.org/Organization" itemscope="">
+    <span itemprop="name">University of North Texas</span></span>.
+  <a href="https://doi.org/10.12794/langarc1851171"
+     itemprop="identifier"
+     itemtype="https://schema.org/URL">https://doi.org/10.12794/langarc1851171</a></span>
+
+</dd>
+
+      </div>
+
+      <div id="ferreira_website_2021-1">
+        <dt>
+          Ferreira,&#32;
+          Lukschy,&#32;
+          Watyam,&#32;
+          Ungsitipoonpor&#32;&amp;&#32;Seyfeddinipur
+
+          
+          (2021)</dt>
+
+        <dd>
+          
+
+
+
+
+
+
+
+
+
+
+
+
+<span itemscope
+      itemtype="https://schema.org/CreativeWork"
+      data-type="paper-conference"><span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Ferreira</span>,&#32;
+    <meta itemprop="givenName" content="Vera" />
+    V.</span>,&#32;
+  <span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Lukschy</span>,&#32;
+    <meta itemprop="givenName" content="Leonore" />
+    L.</span>,&#32;
+  <span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Watyam</span>,&#32;
+    <meta itemprop="givenName" content="Buachut" />
+    B.</span>,&#32;
+  <span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Ungsitipoonpor</span>,&#32;
+    <meta itemprop="givenName" content="Siripen" />
+    S.</span>&#32;&amp;&#32;<span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Seyfeddinipur</span>,&#32;
+    <meta itemprop="givenName" content="Mandana" />
+    M.</span>
+  &#32;
+    (<span itemprop="datePublished">2021</span>).
+  &#32;<span itemprop="name">
+    <i>A Website Is a Website Is a Website: Why Trusted Repositories Are Needed More Than Ever</i></span>.
+  <meta itemprop="contentLocation"
+        content="Denton, Texas">&#32;
+  <span itemprop="publisher" itemtype="http://schema.org/Organization" itemscope="">
+    <span itemprop="name">University of North Texas</span></span>.
+  <a href="https://doi.org/10.12794/langarc1851176"
+     itemprop="identifier"
+     itemtype="https://schema.org/URL">https://doi.org/10.12794/langarc1851176</a></span>
+
+</dd>
+
+      </div>
+
+      <div id="yi_accessibility_2022">
+        <dt>
+          Yi,&#32;
+          Lake,&#32;
+          Kim,&#32;
+          Haakman,&#32;
+          Jewell,&#32;
+          Babinski&#32;&amp;&#32;Bowern
+
+          
+          (2022)</dt>
+
+        <dd>
+          
+
+
+
+
+
+
+
+
+
+
+
+
+<span itemscope
+      itemtype="https://schema.org/Article"
+      data-type="article"><span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Yi</span>,&#32;
+    <meta itemprop="givenName" content="Irene" />
+    I.</span>,&#32;
+  <span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Lake</span>,&#32;
+    <meta itemprop="givenName" content="Amelia" />
+    A.</span>,&#32;
+  <span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Kim</span>,&#32;
+    <meta itemprop="givenName" content="Juhyae" />
+    J.</span>,&#32;
+  <span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Haakman</span>,&#32;
+    <meta itemprop="givenName" content="Kassandra" />
+    K.</span>,&#32;
+  <span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Jewell</span>,&#32;
+    <meta itemprop="givenName" content="Jeremiah" />
+    J.</span>,&#32;
+  <span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Babinski</span>,&#32;
+    <meta itemprop="givenName" content="Sarah" />
+    S.</span>&#32;&amp;&#32;<span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Bowern</span>,&#32;
+    <meta itemprop="givenName" content="Claire" />
+    C.</span>
+  &#32;
+    (<span itemprop="datePublished">2022</span>).
+  &#32;<span itemprop="name">Accessibility, Discoverability, and Functionality: An Audit of and Recommendations for Digital Language Archives</span>.<i>
+    <span itemprop="about">Journal of Open Humanities Data</span>,&#32;8(10)</i>.&#32;<span itemprop="pagination">1–19</span>.
+  <a href="https://doi.org/10.5334/johd.59"
+     itemprop="identifier"
+     itemtype="https://schema.org/URL">https://doi.org/10.5334/johd.59</a></span>
+
+
+
+
+</dd>
+
+      </div>
+  </dl>
+</section>
+
+
+
+
+    </div>
+
+    
+
+
+
+
+
+  
+    <span><em>Tags</em>:</span>    
+
+<span class="article-tags">
+  
+  <a class="badge badge-light" href="/Hugh-CV/tag/olac/">OLAC</a>
+  
+  <a class="badge badge-light" href="/Hugh-CV/tag/metadata/">metadata</a>
+  
+  <a class="badge badge-light" href="/Hugh-CV/tag/terminology/">terminology</a>
+  
+</span>
+
+
+  
+
+
+
+  
+    <br><span><em>Categories</em>:</span>   
+
+<span class="article-tags">
+  
+  <a class="badge badge-light" href="/Hugh-CV/category/peer-reviewed/">Peer Reviewed</a>
+  
+  <a class="badge badge-light" href="/Hugh-CV/category/conference/">Conference</a>
+  
+</span>
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    <br><span><em>Content Mediums</em>:</span>   
+
+<span class="article-tags">
+  
+  <a class="badge badge-light" href="/Hugh-CV/content_types/video/">Video</a>
+  
+  <a class="badge badge-light" href="/Hugh-CV/content_types/print/">Print</a>
+  
+  <a class="badge badge-light" href="/Hugh-CV/content_types/event/">Event</a>
+  
+</span>
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    
+
+
+
+
+
+  
+    
+    
+    
+      
+    
+    
+    
+    <div class="media author-card content-widget-hr">
+      
+        
+        <img class="avatar mr-3 avatar-circle" src="/Hugh-CV/author/hugh-paterson-iii/avatar_huf06207d43952fcec4f010d643d581cb5_33859_270x270_fill_q90_lanczos_center.jpg" alt="Hugh Paterson III">
+      
+
+      <div class="media-body">
+        <h5 class="card-title"><a href="https://hughandbecky.us/Hugh-CV/">Hugh Paterson III</a></h5>
+        <h6 class="card-subtitle">Collaborative Scholar</h6>
+        <p class="card-text">My research interests include typological patterns in articulatory phonetics; User Experience design in language tools; and graph theory applied to language and linguistic resource discovery.</p>
+        <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="//scholar.google.com/citations?user=b3KeFqkAAAAJ"  itemprop="sameAs">
+        <i class="ai ai-google-scholar"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="//github.com/HughP"  itemprop="sameAs">
+        <i class="fab fa-github"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="//twitter.com/thejourneyler"  itemprop="sameAs">
+        <i class="fab fa-twitter"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://orcid.org/0000-0002-5502-4865" target="_blank" rel="noopener" itemprop="sameAs">
+        <i class="fab fa-orcid"></i>
+      </a>
+    </li>
+  
+</ul>
+
+      </div>
+    </div>
+  
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  <div class="article-widget content-widget-hr">
+    <h3>Related</h3>
+    <ul>
+      
+      <li><a href="/Hugh-CV/talk/2021-from-cv-to-olac/">From CV to OLAC</a>&nbsp;&nbsp;<span class="badge badge-light" style="font-size: 0.6em; vertical-align: middle;">talk</span></li>
+      
+      <li><a href="/Hugh-CV/talk/2021-audio-artifacts-in-language-archives/">Audio Artifacts in Language Archives: From Cataloguing to Referencing and Citation</a>&nbsp;&nbsp;<span class="badge badge-light" style="font-size: 0.6em; vertical-align: middle;">talk</span></li>
+      
+      <li><a href="/Hugh-CV/talk/2022-a-vision-for-new-participation-in-olac/">A Vision for New Participation in OLAC: Beyond an Agenda for Open Language Archiving</a>&nbsp;&nbsp;<span class="badge badge-light" style="font-size: 0.6em; vertical-align: middle;">talk</span></li>
+      
+      <li><a href="/Hugh-CV/talk/2021-from-archive-to-citation/">From Archive to Citation</a>&nbsp;&nbsp;<span class="badge badge-light" style="font-size: 0.6em; vertical-align: middle;">talk</span></li>
+      
+      <li><a href="/Hugh-CV/talk/2022-metadata-for-language-learning-resources/">Metadata for Language Learning Resources: Advancing OLAC for Language Development</a>&nbsp;&nbsp;<span class="badge badge-light" style="font-size: 0.6em; vertical-align: middle;">talk</span></li>
+      
+    </ul>
+  </div>
+  
+
+
+
+
+
+  </div>
+</div>
+
+      
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js" integrity="sha256-yt2kYMy0w8AbtF89WXb2P1rfjcP/HTHLT7097U8Y5b8=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/instant.page/5.1.0/instantpage.min.js" integrity="sha512-1+qUtKoh9XZW7j+6LhRMAyOrgSQKenQ4mluTR+cvxXjP1Z54RxZuzstR/H9kgPXQsVB8IW7DMDFUJpzLjvhGSQ==" crossorigin="anonymous"></script>
+
+      
+
+      
+
+    
+
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/leaflet.min.js" integrity="sha512-SeiQaaDh73yrb56sTW/RgVdi/mMqNeM2oBwubFHagc5BkixSpP1fvqF47mKzPGWYSSy4RwbBunrJBQ4Co8fRWA==" crossorigin="anonymous"></script>
+    
+
+    
+    
+    <script>const code_highlighting = false;</script>
+    
+
+    
+    
+    
+    
+    
+    
+    <script>
+      const search_config = {"indexURI":"/Hugh-CV/index.json","minLength":1,"threshold":0.3};
+      const i18n = {"no_results":"No results found","placeholder":"Search...","results":"results found"};
+      const content_type = {
+        'post': "Marginalia",
+        'project': "Projects",
+        'publication' : "Publications",
+        'talk' : "Talks",
+        'slides' : "Slides"
+        };
+    </script>
+    
+
+    
+    
+
+    
+    
+    <script id="search-hit-fuse-template" type="text/x-template">
+      <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{ snippet }}</p>
+        </div>
+      </div>
+      </div>
+    </script>
+    
+
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+    
+
+    
+    
+
+    
+    
+
+    
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+    
+    
+    <script src="/Hugh-CV/js/academic.min.3b2b658c61ebd725bd5fc606c89fe44c.js"></script>
+
+    
+
+
+
+
+
+
+  
+  
+  <div class="container">
+    <footer class="site-footer" itemscope itemtype="https://schema.org/WPFooter">
+  
+  <p class="powered-by">
+    
+      <a href="/Hugh-CV/tag/privacy-policy/">Privacy Policy</a>
+    
+    
+  </p>
+  
+
+  <p class="powered-by" itemprop="copyrightNotice">
+    Hugh Paterson III © 2022
+  </p>
+
+  
+  
+
+
+
+
+
+
+  <p class="powered-by">
+    
+
+    
+    <span class="float-right" aria-hidden="true">
+      <a href="#" class="back-to-top">
+        <span class="button_icon">
+          <i class="fas fa-chevron-up fa-2x"></i>
+        </span>
+      </a>
+    </span>
+    
+  </p>
+</footer>
+
+  </div>
+  
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>

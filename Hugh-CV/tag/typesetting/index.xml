@@ -5,12 +5,67 @@
     <link>https://hughandbecky.us/Hugh-CV/tag/typesetting/</link>
       <atom:link href="https://hughandbecky.us/Hugh-CV/tag/typesetting/index.xml" rel="self" type="application/rss+xml" />
     <description>Typesetting</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2022</copyright><lastBuildDate>Fri, 15 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2022</copyright><lastBuildDate>Thu, 08 Dec 2022 14:35:45 +0100</lastBuildDate>
     <image>
       <url>https://hughandbecky.us/Hugh-CV/media/HughPaterson.jpg</url>
       <title>Typesetting</title>
       <link>https://hughandbecky.us/Hugh-CV/tag/typesetting/</link>
     </image>
+    
+    <item>
+      <title>Wishlist for XLingPaper</title>
+      <link>https://hughandbecky.us/Hugh-CV/post/wishlist-for-xlingpaper/</link>
+      <pubDate>Thu, 08 Dec 2022 14:35:45 +0100</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/post/wishlist-for-xlingpaper/</guid>
+      <description>&lt;p&gt;I am typesetting a document which requires two things:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;to typeset code&lt;/li&gt;
+&lt;li&gt;to typeset definition lists&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;These two things are possible to do in beautiful ways with LaTeX, a foundational tool for XLingPaper. However, the UI and packages in XLingPaper do not support XML Code (the type I most frequently use), and do not allow full access to styling definition lists.&lt;/p&gt;
+&lt;p&gt;My solution is to typeset these additional elements using Overleaf and then to include them in my document as a PDF within a figure. I have included some links here for reference.&lt;/p&gt;
+&lt;h3 id=&#34;typesetting-code&#34;&gt;Typesetting Code&lt;/h3&gt;
+&lt;p&gt;It seems that the best typesetting code package for my needs is: (listings](&lt;a href=&#34;https://ctan.org/pkg/listings?lang=en&#34;&gt;https://ctan.org/pkg/listings?lang=en&lt;/a&gt;) I still need to figure out how to make my code look the way I want including the fonts needed.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;See discussion 
+&lt;a href=&#34;https://tex.stackexchange.com/questions/10255/xml-syntax-highlighting&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;on stackexchange&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;And also 
+&lt;a href=&#34;https://mirror.foobar.to/CTAN/macros/latex/contrib/listings/listings.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;primary documentation&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;interesting-fonts&#34;&gt;Interesting fonts&lt;/h4&gt;
+&lt;p&gt;Several things to consider is that I need to have a wide range of characters in my XML and I also need it to look like computer code. On the practical side, 
+&lt;a href=&#34;https://www.overleaf.com/learn/latex/Questions/I_have_a_custom_font_I%27d_like_to_load_to_my_document._How_can_I_do_this%3F#If_you.27re_using_XeLaTeX_or_LuaLaTeX&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;how to add fonts to Overleaf&lt;/a&gt; is important.&lt;/p&gt;
+&lt;p&gt;Fonts in consideration:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://github.com/dejavu-fonts/dejavu-fonts&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DejaVu Sans Mono&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Go Mono&lt;/li&gt;
+&lt;li&gt;FreeMono&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://fonts.google.com/specimen/Roboto&amp;#43;Mono&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Roboto Mono&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://github.com/adobe-fonts/source-code-pro&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Source Code Pro&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://sourcefoundry.org/hack/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hack&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://input.djr.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Input&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://design.ubuntu.com/font/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ubuntu Monospace&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://github.com/andreberg/Meslo-Font&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Meslo LG&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;definition-lists&#34;&gt;Definition Lists&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;List examples can be seen in 
+&lt;a href=&#34;https://www.overleaf.com/latex/templates/testing-tex4ebook-to-generate-basic-epubs/fdthzgghvbcd.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this template&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;But clearer code examples are available 
+&lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/List_Structures&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;on Wikipedia&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;better-title-pages&#34;&gt;Better Title Pages&lt;/h3&gt;
+&lt;p&gt;One could always wish for better title pages in XLingPaper. But the existing solution is to create these in another application and then import them to the final PDF. It doesn&amp;rsquo;t mean that LaTeX can&amp;rsquo;t be used. I like 
+&lt;a href=&#34;https://www.latextemplates.com/template/academic-title-page&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this one&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>PDFs from Webpages</title>

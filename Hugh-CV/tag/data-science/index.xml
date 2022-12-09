@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Data science | Hugh&#39;s Curriculum Vitae</title>
+    <title>Data Science | Hugh&#39;s Curriculum Vitae</title>
     <link>https://hughandbecky.us/Hugh-CV/tag/data-science/</link>
       <atom:link href="https://hughandbecky.us/Hugh-CV/tag/data-science/index.xml" rel="self" type="application/rss+xml" />
-    <description>Data science</description>
+    <description>Data Science</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2022</copyright><lastBuildDate>Mon, 12 Mar 2018 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://hughandbecky.us/Hugh-CV/media/HughPaterson.jpg</url>
-      <title>Data science</title>
+      <title>Data Science</title>
       <link>https://hughandbecky.us/Hugh-CV/tag/data-science/</link>
     </image>
     
