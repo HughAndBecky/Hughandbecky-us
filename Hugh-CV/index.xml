@@ -5,7 +5,7 @@
     <link>https://hughandbecky.us/Hugh-CV/</link>
       <atom:link href="https://hughandbecky.us/Hugh-CV/index.xml" rel="self" type="application/rss+xml" />
     <description>Hugh&#39;s Curriculum Vitae</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2022</copyright><lastBuildDate>Thu, 02 Mar 2023 17:00:12 -0700</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2023</copyright><lastBuildDate>Thu, 02 Mar 2023 17:00:12 -0700</lastBuildDate>
     <image>
       <url>https://hughandbecky.us/Hugh-CV/media/HughPaterson.jpg</url>
       <title>Hugh&#39;s Curriculum Vitae</title>
@@ -5703,6 +5703,192 @@ Visual Linguistics. &lt;a href=&#34;http://www.visual-linguistics.net/symposium/
 
 
 
+</description>
+    </item>
+    
+    <item>
+      <title>Dublin Core DCMIType Chooser</title>
+      <link>https://hughandbecky.us/Hugh-CV/post/dublin-core-dcmitype/</link>
+      <pubDate>Thu, 15 Dec 2022 14:35:45 +0100</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/post/dublin-core-dcmitype/</guid>
+      <description>&lt;p&gt;Some users of Dublin Core choose not to use the DCMIType vocabulary. I find the DCMIType vocabulary deeply integral to good description using the Dublin Core framework. It adds a distinct way to orient the is-ness of the object within the capable description of items via the Dublin Core framework. I admit that it can be confusing at times. For example, I have found some resources which are hard to categorize. I have placed some of these in the following table. The description of the resource is on the left while the ambigious possibilities appear in the right two columns.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;center&#34;&gt;Object&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;DCMIType 1&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;DCMIType 2&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Picture made from words&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Text&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Image&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;
+&lt;a href=&#34;https://en.wikipedia.org/wiki/Rosetta_Stone&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Rosetta Stone&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Text&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;PhysicalObject&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Cassette Tape&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Sound&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;PhysicalObject&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Moon Rock&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;PhysicalObject&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;(I actually &lt;br/&gt;think this one is pretty clear)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Spatula&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;PhysicalObject&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;InteractiveResource&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Board Game&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;InteractiveResource&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;PhysicalObject&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Uncompiled code&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Text&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Software&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Video Game&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;MovingImage&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;InteractiveResource&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;ChatBot&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Software&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;InteractiveResource&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Song on YouTube with just lyrics presented&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;MovingImage&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Collection&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-a-picture-made-of-words--reinhard-döhl-apfel-1965-note-that-arabic-art-also-contains-many-images-constructed-of-text&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/dublin-core-dcmitype/DohlApfel_hud551a789fbb81b0c92f5be46b382cf02_35956_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;A picture made of words.  Reinhard Döhl, “Apfel” (1965). Note that Arabic art also contains many images constructed of text.&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/dublin-core-dcmitype/DohlApfel_hud551a789fbb81b0c92f5be46b382cf02_35956_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34; Reinhard Döhl, “Apfel” (1965)&#34; width=&#34;270&#34; height=&#34;250&#34; itemprop=&#34;contentUrl&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;p&gt;A picture made of words.  Reinhard Döhl, “Apfel” (1965). Note that Arabic art also contains many images constructed of text.
+      
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: 
+Reinhard Döhl&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
+        &lt;meta itemprop=&#34;name&#34; content=&#34;Reinhard Döhl&#34; /&gt;
+      &lt;/span&gt;
+&lt;/span&gt;
+&lt;/p&gt;
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;If we follow the 1-to-1 principle in Dublin Core then only one qualified DCMIType should be applied to any specific record. So which one? I have created the following flowchart to guide a person through the process of selecting the most appropriate DCMIType term. Clicking the diagram opens it up within the mermaid editor where the text can be more easily read.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://mermaid.live/edit#pako:eNqlVl1v2jAU_SuWnzYJGAHWtKjqNMFaVVXX70lb6YNxLsRrYme2A2W0_33XTgkQqq1liAd87Xvu8bkfeE65ioB26VizLCbX_YEk-Pl82--dHl_PMiA8VsqAviP1-sHjEViiwahcc3gkF813hypJ1JT0YqYtucjBWKGkeV-gXDSdE7kI5seG2BhKV7I_1AdcpRkiR0SN_Nrkw_rigPn09AwR-LhfFUZrVWGcF8m0SJkWyYxYeLA5Syqu38E8Eo40gTtut1dWZQ1yY5AEpAe9cmP_Ay4bnkkvQcDRzMcaKZ0yS6bCxiTi3UO_vHuO0FqSa_-FHHKbCLNKrbWkdrRw5EpakNb7oSQbejGtmRyjXkIS5k9ZNkygnoh7IMbqnNtcQxmiXXI7-4duHjyPhEOruHuGv9qNYN5XUIBMlb4nMZvAgoRIHQcJRGksFq1kosaCs8TjKi3wTkhaslV2DtIHkMgPayZJjlM2hkpyrsqNLZJThriRHLRlQj4S8UKQ_8b3GqVqIuT4pUucLne2iHJUZvHkxSyuNpHrZGecxoLHROfSEIWlQlLGY8zPQvuTEtI1TIXtNZo8TY_-WpYnSyGMGtkp0xupfDa_HftoiR0xywxUKfcL64q4r8Y-K6U4Xxb4mr6-0LN4ZlxFF4rjqGPcghZYt7wcVAXUrJAgl9HG_dG2DcXzkuLli1PUtR8pu8xDsGKcWjeSmYywv1RGMiWkXZC9LEFvNu_tvTVkwBARxwNeluQZVhJ-3VYkRiPQGA8HkWcuLO6sqfY8vgxDbsXYSqEa3WcUJmivSPXF2baXyqdgkbGz4U-c7pUA52ub20S6KfX7dnuMOhjihrD7C4rRZU1MJospg-lxZSMmcLlQauvARaOBngi-0WeF9a3YA0lrNAWXzAgfA3MXbUDRI4UB7eLPiOn7AR3IJzzHcquuZpLTLv7pQI3mGTYm9AXDN0RKuyOWGLRChHWhT4vXhX9k1GjG5A-l0oUjLml3Th9ot94Jw0bQ2d3ptDphazfc-diu0RnttoJGsLfb6YRB82MQ7ISd1lON_vYQrUazHYYBngzCPXRthk9_ADli-W0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://mermaid.ink/img/pako:eNqlVl1v2jAU_SuWnzYJGAHWtKjqNMFaVVXX70lb6YNxLsRrYme2A2W0_33XTgkQqq1liAd87Xvu8bkfeE65ioB26VizLCbX_YEk-Pl82--dHl_PMiA8VsqAviP1-sHjEViiwahcc3gkF813hypJ1JT0YqYtucjBWKGkeV-gXDSdE7kI5seG2BhKV7I_1AdcpRkiR0SN_Nrkw_rigPn09AwR-LhfFUZrVWGcF8m0SJkWyYxYeLA5Syqu38E8Eo40gTtut1dWZQ1yY5AEpAe9cmP_Ay4bnkkvQcDRzMcaKZ0yS6bCxiTi3UO_vHuO0FqSa_-FHHKbCLNKrbWkdrRw5EpakNb7oSQbejGtmRyjXkIS5k9ZNkygnoh7IMbqnNtcQxmiXXI7-4duHjyPhEOruHuGv9qNYN5XUIBMlb4nMZvAgoRIHQcJRGksFq1kosaCs8TjKi3wTkhaslV2DtIHkMgPayZJjlM2hkpyrsqNLZJThriRHLRlQj4S8UKQ_8b3GqVqIuT4pUucLne2iHJUZvHkxSyuNpHrZGecxoLHROfSEIWlQlLGY8zPQvuTEtI1TIXtNZo8TY_-WpYnSyGMGtkp0xupfDa_HftoiR0xywxUKfcL64q4r8Y-K6U4Xxb4mr6-0LN4ZlxFF4rjqGPcghZYt7wcVAXUrJAgl9HG_dG2DcXzkuLli1PUtR8pu8xDsGKcWjeSmYywv1RGMiWkXZC9LEFvNu_tvTVkwBARxwNeluQZVhJ-3VYkRiPQGA8HkWcuLO6sqfY8vgxDbsXYSqEa3WcUJmivSPXF2baXyqdgkbGz4U-c7pUA52ub20S6KfX7dnuMOhjihrD7C4rRZU1MJospg-lxZSMmcLlQauvARaOBngi-0WeF9a3YA0lrNAWXzAgfA3MXbUDRI4UB7eLPiOn7AR3IJzzHcquuZpLTLv7pQI3mGTYm9AXDN0RKuyOWGLRChHWhT4vXhX9k1GjG5A-l0oUjLml3Th9ot94Jw0bQ2d3ptDphazfc-diu0RnttoJGsLfb6YRB82MQ7ISd1lON_vYQrUazHYYBngzCPXRthk9_ADli-W0?type=png&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;!-- WEMI relationships
+| Same-Same | Same-Different |  |  |  |
+|:---:|---|---|---|---|
+| SW:SW |  |  |  |  |
+| W:W | SW:W |  |  |  |
+| E:E | SW:E | W:E |  |  |
+| M:M | SW:M | W:M | E:M |  |
+| I:I | SW:I | W:I | E:I | M:I |
+
+--&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Dublin Core Namespaces</title>
+      <link>https://hughandbecky.us/Hugh-CV/post/dublin-core-namespaces/</link>
+      <pubDate>Tue, 13 Dec 2022 14:35:45 +0100</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/post/dublin-core-namespaces/</guid>
+      <description>&lt;p&gt;I left a comment/question 
+&lt;a href=&#34;https://github.com/dcmi/usage/issues/114&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;with the DCMI usage board today&lt;/a&gt;. Essentially I want to know why in the XML headers we have statements like &lt;code&gt;xmlns=&amp;quot;http://purl.org/dc/elements/1.1/ &amp;quot; scheamLocation=&amp;quot;dc.xsd&amp;quot;&lt;/code&gt; but they don&amp;rsquo;t resolve. My understanding was that these were supposed to resolve to the XSD file so that they could be validated.
+I have found the following notes very helpful:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.dublincore.org/schemas/xmls/qdc/2006/01/06/notes/&#34;&gt;https://www.dublincore.org/schemas/xmls/qdc/2006/01/06/notes/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.dublincore.org/schemas/xmls/qdc/2006/01/06/&#34;&gt;https://www.dublincore.org/schemas/xmls/qdc/2006/01/06/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+Greetings,
+&lt;p&gt;Can someone please help me better understand the implementation facts around the DCMI namespaces? I mean the following:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://purl.org/dc/elements/1.1/&#34;&gt;http://purl.org/dc/elements/1.1/&lt;/a&gt; which is found at: &lt;a href=&#34;https://www.dublincore.org/schemas/xmls/qdc/dc.xsd&#34;&gt;https://www.dublincore.org/schemas/xmls/qdc/dc.xsd&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://purl.org/dc/terms/&#34;&gt;http://purl.org/dc/terms/&lt;/a&gt; which is found at: &lt;a href=&#34;https://www.dublincore.org/schemas/xmls/qdc/2006/01/06/dcterms.xsd&#34;&gt;https://www.dublincore.org/schemas/xmls/qdc/2006/01/06/dcterms.xsd&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://purl.org/dc/dcmitype/&#34;&gt;http://purl.org/dc/dcmitype/&lt;/a&gt;  which is found at: &lt;a href=&#34;https://www.dublincore.org/schemas/xmls/qdc/2006/01/06/dcmitype.xsd&#34;&gt;https://www.dublincore.org/schemas/xmls/qdc/2006/01/06/dcmitype.xsd&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I work with XML/OAI-PMH protocols quite a bit and my understanding is that we set the header in documents to define the namespaces used within the document but these namespaces point out to a resolvable machine readable location for each term. For example, via an &lt;code&gt;.xsd&lt;/code&gt; file, which can be used for validation.&lt;/p&gt;
+&lt;p&gt;My confusion comes to  the point where &lt;a href=&#34;http://purl.org/dc/terms/&#34;&gt;http://purl.org/dc/terms/&lt;/a&gt; points to documentation for the schema but the .xsd is not reachable at &lt;a href=&#34;http://purl.org/dc/terms/dcterms.xsd&#34;&gt;http://purl.org/dc/terms/dcterms.xsd&lt;/a&gt; rather the xsd is only available here:
+&lt;a href=&#34;https://www.dublincore.org/schemas/xmls/qdc/2006/01/06/dcterms.xsd&#34;&gt;https://www.dublincore.org/schemas/xmls/qdc/2006/01/06/dcterms.xsd&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;So my questions are:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;is why is the &lt;code&gt;xsd&lt;/code&gt; file not hosted in the path of the namespace?&lt;/li&gt;
+&lt;li&gt;should it move so that it is?&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Any help to better understand the hosing situation and the application of technologies is appreciated.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Additionally, I noted in a 
+&lt;a href=&#34;https://github.com/dcmi/usage/issues/115&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;different Github issue&lt;/a&gt; that the &lt;code&gt;dcterms.xsd&lt;/code&gt; file was not well formed based on the current documentation.&lt;/p&gt;
+&lt;blockquote&gt;
+Greetings, 
+&lt;p&gt;I&amp;rsquo;m wondering if the defining XSD file for dcterms is the linked one: &lt;a href=&#34;https://www.dublincore.org/schemas/xmls/qdc/2006/01/06/dcterms.xsd&#34;&gt;https://www.dublincore.org/schemas/xmls/qdc/2006/01/06/dcterms.xsd&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;If it is not, is there one which is? If it is, then why aren&amp;rsquo;t the following found in it:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#http://purl.org/dc/terms/NLM&#34;&gt;https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#http://purl.org/dc/terms/NLM&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#http://purl.org/dc/terms/RFC5646&#34;&gt;https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#http://purl.org/dc/terms/RFC5646&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#http://purl.org/dc/terms/RFC4646&#34;&gt;https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#http://purl.org/dc/terms/RFC4646&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#http://purl.org/dc/terms/ISO639-3&#34;&gt;https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#http://purl.org/dc/terms/ISO639-3&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
 </description>
     </item>
     
@@ -36471,7 +36657,10 @@ Existing keyboard layouts for the languages of the texts in question will be ana
       <link>https://hughandbecky.us/Hugh-CV/project/2018-sil-idx-r-90/</link>
       <pubDate>Mon, 12 Mar 2018 00:00:00 +0000</pubDate>
       <guid>https://hughandbecky.us/Hugh-CV/project/2018-sil-idx-r-90/</guid>
-      <description>&lt;!-- SIL Drive link Search features https://docs.google.com/document/d/18PbS8dewSWNqDdkPLoqkROYvPEJYFtyb3qJ7BFvG_pA/edit --&gt;
+      <description>&lt;p&gt;IDX&amp;rsquo;s 90th research project was an attempt to create a complex graph connecting diverse access points to data inorder to provide market intelligence on issues related to ethnolinguistic communities. IDX is SIL International&amp;rsquo;s research and innovation lab for creating business products within a nonprofit structure. The lab&amp;rsquo;s goal (when I was there) was to manage product development for products which might become profitable business ventures when those products and their projects would otherwise die within the corporate culture of SIL&amp;rsquo;s family of organizations.&lt;/p&gt;
+&lt;p&gt;In this project we took a specific interest in developing a graph database to leverage SIL and affiliate data to create market based intelligence related to minority language use, and where possible sell-able tools based on language resources. The goal was to package the intelligence as products and resell it or access to the intelligence. In our product development model intellegence included linguistic, geographic, and social factors. Market assumptions were strongly informed by active business transactions related to the Ethnologue whose business transactions were also managed by IDX. Within in R-90 we looked at the span of language resources created by SIL including software and corpora and investigated business models and opportunities to repackage those resources.&lt;/p&gt;
+&lt;p&gt;My work in this project was to investigate business models, find language resources, investigate market opportunities, and find usable resources to augment existing products in the creation of new products. I worked closely with Dan Whitenack to implement data integration models.&lt;/p&gt;
+&lt;!-- SIL Drive link Search features https://docs.google.com/document/d/18PbS8dewSWNqDdkPLoqkROYvPEJYFtyb3qJ7BFvG_pA/edit --&gt;
 &lt;!-- personal drive link https://docs.google.com/document/d/1zHq0P7-FF2XmgKkMWKrJrDI2lPlak3L6hO-UbcfgDhc/edit --&gt;
 </description>
     </item>
@@ -43430,16 +43619,6 @@ Note: This workflow would later be used in both:&lt;/p&gt;
     </item>
     
     <item>
-      <title>Which license and why?</title>
-      <link>https://hughandbecky.us/Hugh-CV/post/and-why-that-license/</link>
-      <pubDate>Sun, 22 Dec 2013 14:35:45 +0100</pubDate>
-      <guid>https://hughandbecky.us/Hugh-CV/post/and-why-that-license/</guid>
-      <description>&lt;p&gt;Part of organizational growth is the ability to project consistency while still retaining felxibility. However, in cases of institutional learning, especially where staff are cyclical, the context of organizational choices must be made clear for memory.&lt;/p&gt;
-&lt;p&gt;Over the years SIL International has published many pieces of software. Often under liberal licenses. In the case of fonts, no suitable license existed and so SIL developed the &lt;em&gt;Open Font License&lt;/em&gt;, which went on to become an de facto standard within the font producing community. In reflection, it occurs to me that every time a new license is produced it is done as a response to a social context. That is, society has delivered a certain set of norms or reactions to existing ownership and licensing practices. It also occurs to me that with each new license created that there is an increased availability of licensing options to potential license users. I was recently reading over SIL International&amp;rsquo;s LSDev&amp;rsquo;s &amp;ldquo;literature&amp;rdquo; or summary on why they are licensing their products a certain way (LSDev is a different sub-organizational group than the one which developed the &lt;em&gt;Open Font License&lt;/em&gt;). I repeatedly found the phrase (or something like it): &amp;ldquo;This was the best license to meet SIL&amp;rsquo;s goals&amp;hellip;&amp;rdquo; the bone I have to pick is that as a social group or organization, SIL&amp;rsquo;s &amp;ldquo;goals&amp;rdquo; are going to change and have changed. Rather than point to vague referencing terminology (which face being interpreted differently over time, even though the words might not change), these goals should be outlined in such documents. This is the same kind of linking to business reasons that are required (but often missing) for UX documentation. Often times our documentation includes what was done, but not why we did it. When writing documentation we out to strive to include enough of the context to make it clear for organizational learning as well as to determine at some future time if the social context and/or goals of our business has changed enough to warrant a reassessment of our past actions.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Open Educational Resources OER Links</title>
       <link>https://hughandbecky.us/Hugh-CV/post/open-educational-resources-links/</link>
       <pubDate>Tue, 26 Nov 2013 14:35:45 +0100</pubDate>
@@ -46676,8 +46855,8 @@ The Internet&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org
 &lt;p&gt;Cable Type: Straight&lt;/p&gt;
 &lt;p&gt;Cord Length: Approximately 3 meters&lt;/p&gt;
 &lt;p&gt;Weight: 1.1 pounds&lt;/p&gt;
-&lt;p&gt;Comments: These came in a packaged kit with the &lt;a href=&#34;www.zoom.co.jp/english/products/h4n/&#34;&gt;Zoom H4n&lt;/a&gt;. They are a bit on the heavy side. they do have a nice sound to them. The do have an adjustment slider to fit various sizes of heads. They are not very compact.&lt;/p&gt;
-&lt;p&gt;How I use them: I use these to actively monitor recorded audio. Mostly when using a &lt;a href=&#34;www.zoom.co.jp/english/products/h4n/&#34;&gt;Zoom H4n&lt;/a&gt;, but also with an &lt;a href=&#34;http://www.olympusamerica.com/cpg_section/product.asp?product=1350&amp;page=specs&#34;&gt;Olympus LS-10&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Comments: These came in a packaged kit with the &lt;a href=&#34;http://web.archive.org/web/20141228173647/http://www.zoom.co.jp/english/products/h4n/&#34;&gt;Zoom H4n&lt;/a&gt;. They are a bit on the heavy side. they do have a nice sound to them. The do have an adjustment slider to fit various sizes of heads. They are not very compact.&lt;/p&gt;
+&lt;p&gt;How I use them: I use these to actively monitor recorded audio. Mostly when using a &lt;a href=&#34;http://web.archive.org/web/20141228173647/http://www.zoom.co.jp/english/products/h4n/&#34;&gt;Zoom H4n&lt;/a&gt;, but also with an &lt;a href=&#34;http://www.olympusamerica.com/cpg_section/product.asp?product=1350&amp;page=specs&#34;&gt;Olympus LS-10&lt;/a&gt;.&lt;/p&gt;
 &lt;h3 id=&#34;sony-mdr-v600&#34;&gt;Sony MDR-V600&lt;/h3&gt;
 &lt;p&gt;My rating: 5.0 stars out of five. &lt;i class=&#34;fa fa-star&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;&lt;i class=&#34;fa fa-star&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;&lt;i class=&#34;fa fa-star&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;&lt;i class=&#34;fa fa-star&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;&lt;i class=&#34;fa fa-star&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;Summary: A High frequency response range and a good reputation for durability. The Sony MDR-V600 is not to be confused with the Sony MDR-V6 which only has a response rate of 10Hz - 20,000Hz. (Many search engines do confuse the two.) [&lt;a href=&#34;http://www.sonystyle.com/webapp/wcs/stores/servlet/ProductDisplay?storeId=10151&amp;catalogId=10551&amp;langId=-1&amp;productId=11037717#specifications&#34;&gt;Sony&lt;/a&gt;] [&lt;a href=&#34;http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&amp;field-keywords=Sony+MDR+V600&amp;x=0&amp;y=0&#34;&gt;Amazon&lt;/a&gt;] [&lt;a href=&#34;http://www.headphonereviews.org/headphone/Sony/MDR-V600&#34;&gt;Headphone Reviews&lt;/a&gt;] [&lt;a href=&#34;http://www.productwiki.com/sony-mdr-v600/&#34;&gt;ProductWiki&lt;/a&gt;]&lt;/p&gt;

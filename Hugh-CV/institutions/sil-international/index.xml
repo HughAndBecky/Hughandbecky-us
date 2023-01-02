@@ -5,7 +5,7 @@
     <link>https://hughandbecky.us/Hugh-CV/institutions/sil-international/</link>
       <atom:link href="https://hughandbecky.us/Hugh-CV/institutions/sil-international/index.xml" rel="self" type="application/rss+xml" />
     <description>SIL International</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2022</copyright><lastBuildDate>Mon, 12 Mar 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2023</copyright><lastBuildDate>Mon, 12 Mar 2018 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://hughandbecky.us/Hugh-CV/media/HughPaterson.jpg</url>
       <title>SIL International</title>
@@ -17,7 +17,10 @@
       <link>https://hughandbecky.us/Hugh-CV/project/2018-sil-idx-r-90/</link>
       <pubDate>Mon, 12 Mar 2018 00:00:00 +0000</pubDate>
       <guid>https://hughandbecky.us/Hugh-CV/project/2018-sil-idx-r-90/</guid>
-      <description>&lt;!-- SIL Drive link Search features https://docs.google.com/document/d/18PbS8dewSWNqDdkPLoqkROYvPEJYFtyb3qJ7BFvG_pA/edit --&gt;
+      <description>&lt;p&gt;IDX&amp;rsquo;s 90th research project was an attempt to create a complex graph connecting diverse access points to data inorder to provide market intelligence on issues related to ethnolinguistic communities. IDX is SIL International&amp;rsquo;s research and innovation lab for creating business products within a nonprofit structure. The lab&amp;rsquo;s goal (when I was there) was to manage product development for products which might become profitable business ventures when those products and their projects would otherwise die within the corporate culture of SIL&amp;rsquo;s family of organizations.&lt;/p&gt;
+&lt;p&gt;In this project we took a specific interest in developing a graph database to leverage SIL and affiliate data to create market based intelligence related to minority language use, and where possible sell-able tools based on language resources. The goal was to package the intelligence as products and resell it or access to the intelligence. In our product development model intellegence included linguistic, geographic, and social factors. Market assumptions were strongly informed by active business transactions related to the Ethnologue whose business transactions were also managed by IDX. Within in R-90 we looked at the span of language resources created by SIL including software and corpora and investigated business models and opportunities to repackage those resources.&lt;/p&gt;
+&lt;p&gt;My work in this project was to investigate business models, find language resources, investigate market opportunities, and find usable resources to augment existing products in the creation of new products. I worked closely with Dan Whitenack to implement data integration models.&lt;/p&gt;
+&lt;!-- SIL Drive link Search features https://docs.google.com/document/d/18PbS8dewSWNqDdkPLoqkROYvPEJYFtyb3qJ7BFvG_pA/edit --&gt;
 &lt;!-- personal drive link https://docs.google.com/document/d/1zHq0P7-FF2XmgKkMWKrJrDI2lPlak3L6hO-UbcfgDhc/edit --&gt;
 </description>
     </item>

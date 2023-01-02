@@ -1,0 +1,26 @@
+graph TD
+    A[DCMIType chooser] -->|Get resource| Q0(Follow Chart Questions)
+    Q0 --> Q1{Is the resource <br>composed of <br>sub-resources?}
+    Q1 -->|No| Q2{Is the resource<br> primarily textual?}
+    Q1 -->|Yes| collection[Stop. Use <em>Collection</em>. <br>Clarify the format with dc:Format]
+    Q2 -->|No| Q3{Is the resource<br> primarly visual?}
+    Q2 -->|Yes| G{Is the content<br> of the resource <br>arranged in a<br> table-like structure?}
+    Q3 -->|No| O{Is the resource<br> primarily <br>audiable?}
+    Q3 -->|Yes| q3.1{Does the work have a<br> time-line or chronlogical <br>oriented nature?}
+    q3.1 -->|no| stillImage[Stop. Use <em>StillImage</em>. <br>Clarify the format with dc:Format]
+    q3.1 -->|Uncertain| image[Stop. Use <em>Image</em>. <br>Clarify the format with dc:Format]
+    q3.1 -->|Yes| movingImage[Stop. Use <em>MovingImage</em>. <br>Clarify the format with dc:Format]
+    G -->|No| K{Is the resource<br> composed of code<br>which runs on a machine?}
+    K -->|No| text[Stop. Use <em>Text</em><br> Clarify the format with dc:Format]
+    K -->|Yes| software[Stop. Use <em>Software</em><br> Clarify the format with dc:Format]
+    G -->|Yes| dataset[Stop. Use <em>Dataset</em>. <br> Clarify the format with dc:Format]
+    O -->|No| P{Does the resource<br> have physical<br> characteristics?}
+    O -->|yes| sound[Stop. Use <em>Sound</em>. <br> Clarify the format with dc:Format]
+    P -->|No| R{Is the resource <br>time oriented with a <br>start and stop point?}
+    R -->|No| U{Does the resource <br>repeatedly act upon on <br>different informaiton resource<br> of the same arrangment?}
+    R -->|Yes| event[Stop. Use <em>Event</em>. <br> Clarify the format with dc:Format]
+    P -->|yes| physicalObject[Stop. Use <em>PhysicalObject</em>. <br> Clarify the format with dc:Format]
+    U -->|No| V[It is likely that the resource an <em>InteractiveResource</em>. <br> Clarify the format with dc:Format]
+    U -->|Yes| service[Stop. Use <em>Servie</em>. <br> Clarify the format with dc:Format]
+
+

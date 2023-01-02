@@ -238,13 +238,38 @@
   </url>
   
   <url>
+    <loc>https://hughandbecky.us/Hugh-CV/tag/dcmitype/</loc>
+    <lastmod>2022-12-15T14:35:45+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hughandbecky.us/Hugh-CV/tag/dublin-core/</loc>
+    <lastmod>2022-12-15T14:35:45+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hughandbecky.us/Hugh-CV/post/dublin-core-dcmitype/</loc>
+    <lastmod>2022-12-15T14:35:45+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://hughandbecky.us/Hugh-CV/category/jot/</loc>
-    <lastmod>2022-12-08T14:35:45+01:00</lastmod>
+    <lastmod>2022-12-15T14:35:45+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://hughandbecky.us/Hugh-CV/post/</loc>
-    <lastmod>2022-12-08T14:35:45+01:00</lastmod>
+    <lastmod>2022-12-15T14:35:45+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hughandbecky.us/Hugh-CV/tag/xml/</loc>
+    <lastmod>2022-12-15T14:35:45+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hughandbecky.us/Hugh-CV/post/dublin-core-namespaces/</loc>
+    <lastmod>2022-12-13T14:35:45+01:00</lastmod>
   </url>
   
   <url>
@@ -423,11 +448,6 @@
   </url>
   
   <url>
-    <loc>https://hughandbecky.us/Hugh-CV/tag/dublin-core/</loc>
-    <lastmod>2022-10-17T14:35:45+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://hughandbecky.us/Hugh-CV/post/metadata-quality-assessment-and-olac/</loc>
     <lastmod>2022-10-17T14:35:45+01:00</lastmod>
   </url>
@@ -529,11 +549,6 @@
   
   <url>
     <loc>https://hughandbecky.us/Hugh-CV/talk/2022-services-the-forgotten-language-resources/</loc>
-    <lastmod>2022-10-03T13:00:00-01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hughandbecky.us/Hugh-CV/tag/dcmitype/</loc>
     <lastmod>2022-10-03T13:00:00-01:00</lastmod>
   </url>
   
@@ -2323,6 +2338,16 @@
   </url>
   
   <url>
+    <loc>https://hughandbecky.us/Hugh-CV/tag/business-product-development/</loc>
+    <lastmod>2018-03-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hughandbecky.us/Hugh-CV/author/dan-whitenack/</loc>
+    <lastmod>2018-03-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://hughandbecky.us/Hugh-CV/tag/data-science/</loc>
     <lastmod>2018-03-12T00:00:00+00:00</lastmod>
   </url>
@@ -2843,16 +2868,6 @@
   </url>
   
   <url>
-    <loc>https://hughandbecky.us/Hugh-CV/tag/documentation/</loc>
-    <lastmod>2013-12-22T14:35:45+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hughandbecky.us/Hugh-CV/post/and-why-that-license/</loc>
-    <lastmod>2013-12-22T14:35:45+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://hughandbecky.us/Hugh-CV/tag/commoncore/</loc>
     <lastmod>2013-11-26T14:35:45+01:00</lastmod>
   </url>
@@ -2944,11 +2959,6 @@
   
   <url>
     <loc>https://hughandbecky.us/Hugh-CV/tag/transcription/</loc>
-    <lastmod>2013-03-18T14:35:45+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hughandbecky.us/Hugh-CV/tag/xml/</loc>
     <lastmod>2013-03-18T14:35:45+01:00</lastmod>
   </url>
   
@@ -3518,10 +3528,6 @@
   
   <url>
     <loc>https://hughandbecky.us/Hugh-CV/language/gel/</loc>
-  </url>
-  
-  <url>
-    <loc>https://hughandbecky.us/Hugh-CV/author/dan-whitenack/</loc>
   </url>
   
   <url>

@@ -5,7 +5,7 @@
     <link>https://hughandbecky.us/Hugh-CV/tag/creative-commons/</link>
       <atom:link href="https://hughandbecky.us/Hugh-CV/tag/creative-commons/index.xml" rel="self" type="application/rss+xml" />
     <description>Creative Commons</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2022</copyright><lastBuildDate>Mon, 24 Apr 2017 14:14:38 -0700</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2023</copyright><lastBuildDate>Mon, 24 Apr 2017 14:14:38 -0700</lastBuildDate>
     <image>
       <url>https://hughandbecky.us/Hugh-CV/media/HughPaterson.jpg</url>
       <title>Creative Commons</title>
@@ -192,16 +192,6 @@ rapidwords.net (SIL International)&lt;span itemprop=&#34;creator&#34; itemtype=&
 &lt;p&gt;Also, when one downloads the resources under the resource section the resources do not have a license statement in them (I would have expected a copyright and a license statement in the footer of each printable page in the downloaded document).
 Because there is a footer on the web-page with a CC license, is the website user to assume that these download able resources are CC-BY-SA?&lt;/p&gt;
 &lt;p&gt;Organizations can avoid sending mixed messages to their constituency by clearly marking who is the copyright holder, on websites &lt;em&gt;and&lt;/em&gt; the content those websites contain. Organizational policies related to web-publishing should include editorial checks for these sorts of issues.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Which license and why?</title>
-      <link>https://hughandbecky.us/Hugh-CV/post/and-why-that-license/</link>
-      <pubDate>Sun, 22 Dec 2013 14:35:45 +0100</pubDate>
-      <guid>https://hughandbecky.us/Hugh-CV/post/and-why-that-license/</guid>
-      <description>&lt;p&gt;Part of organizational growth is the ability to project consistency while still retaining felxibility. However, in cases of institutional learning, especially where staff are cyclical, the context of organizational choices must be made clear for memory.&lt;/p&gt;
-&lt;p&gt;Over the years SIL International has published many pieces of software. Often under liberal licenses. In the case of fonts, no suitable license existed and so SIL developed the &lt;em&gt;Open Font License&lt;/em&gt;, which went on to become an de facto standard within the font producing community. In reflection, it occurs to me that every time a new license is produced it is done as a response to a social context. That is, society has delivered a certain set of norms or reactions to existing ownership and licensing practices. It also occurs to me that with each new license created that there is an increased availability of licensing options to potential license users. I was recently reading over SIL International&amp;rsquo;s LSDev&amp;rsquo;s &amp;ldquo;literature&amp;rdquo; or summary on why they are licensing their products a certain way (LSDev is a different sub-organizational group than the one which developed the &lt;em&gt;Open Font License&lt;/em&gt;). I repeatedly found the phrase (or something like it): &amp;ldquo;This was the best license to meet SIL&amp;rsquo;s goals&amp;hellip;&amp;rdquo; the bone I have to pick is that as a social group or organization, SIL&amp;rsquo;s &amp;ldquo;goals&amp;rdquo; are going to change and have changed. Rather than point to vague referencing terminology (which face being interpreted differently over time, even though the words might not change), these goals should be outlined in such documents. This is the same kind of linking to business reasons that are required (but often missing) for UX documentation. Often times our documentation includes what was done, but not why we did it. When writing documentation we out to strive to include enough of the context to make it clear for organizational learning as well as to determine at some future time if the social context and/or goals of our business has changed enough to warrant a reassessment of our past actions.&lt;/p&gt;
 </description>
     </item>
     
