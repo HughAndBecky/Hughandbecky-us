@@ -5,12 +5,37 @@
     <link>https://hughandbecky.us/Hugh-CV/tag/collections/</link>
       <atom:link href="https://hughandbecky.us/Hugh-CV/tag/collections/index.xml" rel="self" type="application/rss+xml" />
     <description>Collections</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2023</copyright><lastBuildDate>Wed, 05 Oct 2022 11:30:00 -0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2023</copyright><lastBuildDate>Sat, 07 Jan 2023 14:35:45 +0100</lastBuildDate>
     <image>
       <url>https://hughandbecky.us/Hugh-CV/media/HughPaterson.jpg</url>
       <title>Collections</title>
       <link>https://hughandbecky.us/Hugh-CV/tag/collections/</link>
     </image>
+    
+    <item>
+      <title>An Application of OAI Sets for OLAC</title>
+      <link>https://hughandbecky.us/Hugh-CV/post/olac-sets/</link>
+      <pubDate>Sat, 07 Jan 2023 14:35:45 +0100</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/post/olac-sets/</guid>
+      <description>&lt;p&gt;In a previous 
+&lt;a href=&#34;https://hughandbecky.us/Hugh-CV/post/oai-sets-for-olac/&#34;&gt;note&lt;/a&gt; I described a the use of OAI sets. These are essentially classes that can be applied to records. It came to mind today that in fact these classes could be used to support a variety of features that Dublin Core does not support.  These classes appear in the header of the OAI Record as shown below for &lt;code&gt;LanguageSoftware&lt;/code&gt; and &lt;code&gt;Software&lt;/code&gt;.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;&amp;lt;oai:header&amp;gt;
+&amp;lt;oai:identifier&amp;gt;oai:hugh4.us:0007&amp;lt;/oai:identifier&amp;gt;
+&amp;lt;oai:datestamp&amp;gt;2023-01-07&amp;lt;/oai:datestamp&amp;gt;
+  &amp;lt;setSpec&amp;gt;LanguageSoftware&amp;lt;setSpec&amp;gt;
+  &amp;lt;setSpec&amp;gt;Software&amp;lt;setSpec&amp;gt;
+&amp;lt;/oai:header&amp;gt;
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;These classes could be used to indicate the type of record or record level metadata such as the 
+&lt;a href=&#34;https://journal.code4lib.org/articles/16491&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;WEMI&lt;/a&gt; class of a record. Alternatively they could be used within the User Interface of the record and become part of the Application Profile supporting navigation elements. For example, &lt;code&gt;Learning Resources&lt;/code&gt; is not a clear bibliographic category, but could be a cross-provider class that data providers could use to support the inclusion of resources within an aggregator.&lt;/p&gt;
+&lt;p&gt;The use of OAI sets could also be used to categorize records by one of the three origional goals DATA, TOOLS, and ADVICE:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;By DATA we mean any information that documents or describes a language, such as a published monograph, a computer data file, or even a shoebox full of hand-written index cards. The information could range in content from unanalyzed sound recordings to fully transcribed and annotated texts to a complete descriptive grammar. By TOOLS we mean computational resources that facilitate creating, viewing, querying, or otherwise using language data. Tools include not just software programs, but also the digital resources that the programs depend on, such as fonts, stylesheets, and document type definitions. By ADVICE we mean any information about what data sources are reliable, what tools are appropriate in a given situation, what practices to follow when creating new data, and so forth.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;From: &lt;a href=&#34;http://www.language-archives.org/documents/overview.html&#34;&gt;http://www.language-archives.org/documents/overview.html&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Peer-Review and Complex Language Resources</title>

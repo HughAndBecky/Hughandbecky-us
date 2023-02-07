@@ -5,7 +5,7 @@
     <link>https://hughandbecky.us/Hugh-CV/tag/dublin-core/</link>
       <atom:link href="https://hughandbecky.us/Hugh-CV/tag/dublin-core/index.xml" rel="self" type="application/rss+xml" />
     <description>Dublin Core</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2023</copyright><lastBuildDate>Thu, 15 Dec 2022 14:35:45 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2023</copyright><lastBuildDate>Fri, 27 Jan 2023 14:35:45 +0100</lastBuildDate>
     <image>
       <url>https://hughandbecky.us/Hugh-CV/media/HughPaterson.jpg</url>
       <title>Dublin Core</title>
@@ -13,11 +13,58 @@
     </image>
     
     <item>
+      <title>Listings a LaTeX Module for Typestting Code</title>
+      <link>https://hughandbecky.us/Hugh-CV/post/listings-latex/</link>
+      <pubDate>Fri, 27 Jan 2023 14:35:45 +0100</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/post/listings-latex/</guid>
+      <description>&lt;p&gt;As I write a few papers I have been wondering how to best typeset XML code. I have struggled several hours with 
+&lt;a href=&#34;https://ctan.org/pkg/listings&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;listings&lt;/a&gt;. I have not managed to master anything. It still looks horable. I have not been able to find success, specifically with color coding. Instead I have turned to the package 
+&lt;a href=&#34;https://ctan.org/pkg/minted&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;minted&lt;/a&gt; which does a fantastic job out of the box. However, the ACM templates for listings do not support &lt;code&gt;minted&lt;/code&gt;; leaving me struggling.&lt;/p&gt;
+&lt;p&gt;In my struggle I did manage to generate some settins that I think are interesting and worth keeping around incase I need them again&amp;hellip; or they help someone else.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;
+\lstset
+{ %Formatting for code in appendix
+    language=XML,
+    basicstyle=\footnotesize\ttfamily,
+    numbers=left,
+    stepnumber=1,
+    showstringspaces=false,
+    tabsize=1,
+    breaklines=true,
+    breakatwhitespace=false,
+    xleftmargin=0.5cm, 
+    prebreak=\mbox{\hspace{-0.4em}\tiny\textcolor{gray}{$_\rfloor\space$}},
+    postbreak=\mbox{\hspace{-3em}\textcolor{red}{$\hookrightarrow$}\space},
+}
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Of these settings the following were helpful for keeping the code wraping well in the two column format for the ACM template.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;
+    xleftmargin=0.5cm, 
+    prebreak=\mbox{\hspace{-0.4em}\tiny\textcolor{gray}{$_\rfloor\space$}},
+    postbreak=\mbox{\hspace{-3em}\textcolor{red}{$\hookrightarrow$}\space},
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;The other thing that I was able to do was to add listings via an external file and have them captioned as if they were a regular figure.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;
+\begin{figure}[h!]
+  \centering
+\lstinputlisting[language=XML]{Code/example.xml}
+  \label{code:set1}
+    \caption{some code.}
+  \Description{Diagram of related audio manifestations.}
+\end{figure}
+
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Dublin Core DCMIType Chooser</title>
       <link>https://hughandbecky.us/Hugh-CV/post/dublin-core-dcmitype/</link>
       <pubDate>Thu, 15 Dec 2022 14:35:45 +0100</pubDate>
       <guid>https://hughandbecky.us/Hugh-CV/post/dublin-core-dcmitype/</guid>
-      <description>&lt;p&gt;Some users of Dublin Core choose not to use the DCMIType vocabulary. I find the DCMIType vocabulary deeply integral to good description using the Dublin Core framework. It adds a distinct way to orient the is-ness of the object within the capable description of items via the Dublin Core framework. I admit that it can be confusing at times. For example, I have found some resources which are hard to categorize. I have placed some of these in the following table. The description of the resource is on the left while the ambigious possibilities appear in the right two columns.&lt;/p&gt;
+      <description>&lt;p&gt;Some users of Dublin Core choose not to use the DCMIType vocabulary. I find the DCMIType vocabulary deeply integral to good description using the Dublin Core framework. It adds a distinct way to orient the is-ness of the object within the capable description of items via the Dublin Core framework. I admit that it can be confusing at times. For example, I have found some resources which are hard to categorize. I have placed some of these in the following table. The description of the resource is on the left while the ambigious possibilities appear in the right two columns.&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -149,6 +196,14 @@ Reinhard Döhl&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.o
 | I:I | SW:I | W:I | E:I | M:I |
 
 --&gt;
+&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;The definition of note of the DCMIType for &lt;code&gt;Text&lt;/code&gt; states: &amp;ldquo;Examples include books, letters, dissertations, poems, newspapers, articles, archives of mailing lists. Note that facsimiles or images of texts are still of the genre Text.&amp;rdquo; So I understand that the apple and the worm image would be classified as text. &lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/section&gt;
 </description>
     </item>
     

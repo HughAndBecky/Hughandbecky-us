@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LaTeX | Hugh&#39;s Curriculum Vitae</title>
+    <link>https://hughandbecky.us/Hugh-CV/tag/latex/</link>
+      <atom:link href="https://hughandbecky.us/Hugh-CV/tag/latex/index.xml" rel="self" type="application/rss+xml" />
+    <description>LaTeX</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2023</copyright><lastBuildDate>Fri, 27 Jan 2023 14:35:45 +0100</lastBuildDate>
+    <image>
+      <url>https://hughandbecky.us/Hugh-CV/media/HughPaterson.jpg</url>
+      <title>LaTeX</title>
+      <link>https://hughandbecky.us/Hugh-CV/tag/latex/</link>
+    </image>
+    
+    <item>
+      <title>Listings a LaTeX Module for Typestting Code</title>
+      <link>https://hughandbecky.us/Hugh-CV/post/listings-latex/</link>
+      <pubDate>Fri, 27 Jan 2023 14:35:45 +0100</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/post/listings-latex/</guid>
+      <description>&lt;p&gt;As I write a few papers I have been wondering how to best typeset XML code. I have struggled several hours with 
+&lt;a href=&#34;https://ctan.org/pkg/listings&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;listings&lt;/a&gt;. I have not managed to master anything. It still looks horable. I have not been able to find success, specifically with color coding. Instead I have turned to the package 
+&lt;a href=&#34;https://ctan.org/pkg/minted&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;minted&lt;/a&gt; which does a fantastic job out of the box. However, the ACM templates for listings do not support &lt;code&gt;minted&lt;/code&gt;; leaving me struggling.&lt;/p&gt;
+&lt;p&gt;In my struggle I did manage to generate some settins that I think are interesting and worth keeping around incase I need them again&amp;hellip; or they help someone else.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;
+\lstset
+{ %Formatting for code in appendix
+    language=XML,
+    basicstyle=\footnotesize\ttfamily,
+    numbers=left,
+    stepnumber=1,
+    showstringspaces=false,
+    tabsize=1,
+    breaklines=true,
+    breakatwhitespace=false,
+    xleftmargin=0.5cm, 
+    prebreak=\mbox{\hspace{-0.4em}\tiny\textcolor{gray}{$_\rfloor\space$}},
+    postbreak=\mbox{\hspace{-3em}\textcolor{red}{$\hookrightarrow$}\space},
+}
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Of these settings the following were helpful for keeping the code wraping well in the two column format for the ACM template.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;
+    xleftmargin=0.5cm, 
+    prebreak=\mbox{\hspace{-0.4em}\tiny\textcolor{gray}{$_\rfloor\space$}},
+    postbreak=\mbox{\hspace{-3em}\textcolor{red}{$\hookrightarrow$}\space},
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;The other thing that I was able to do was to add listings via an external file and have them captioned as if they were a regular figure.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;
+\begin{figure}[h!]
+  \centering
+\lstinputlisting[language=XML]{Code/example.xml}
+  \label{code:set1}
+    \caption{some code.}
+  \Description{Diagram of related audio manifestations.}
+\end{figure}
+
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

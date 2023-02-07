@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Validation | Hugh&#39;s Curriculum Vitae</title>
+    <link>https://hughandbecky.us/Hugh-CV/tag/validation/</link>
+      <atom:link href="https://hughandbecky.us/Hugh-CV/tag/validation/index.xml" rel="self" type="application/rss+xml" />
+    <description>Validation</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2023</copyright><lastBuildDate>Tue, 24 Jan 2023 14:35:45 +0100</lastBuildDate>
+    <image>
+      <url>https://hughandbecky.us/Hugh-CV/media/HughPaterson.jpg</url>
+      <title>Validation</title>
+      <link>https://hughandbecky.us/Hugh-CV/tag/validation/</link>
+    </image>
+    
+    <item>
+      <title>OLAC Validator</title>
+      <link>https://hughandbecky.us/Hugh-CV/post/olac-validator/</link>
+      <pubDate>Tue, 24 Jan 2023 14:35:45 +0100</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/post/olac-validator/</guid>
+      <description>&lt;p&gt;The current OLAC validator needs to be updated in several ways.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;The software doing the validation needs to be updated. It is currently running Xerces-J 2.9.1 and needs to be updated to at leaset 
+&lt;a href=&#34;https://xerces.apache.org/xerces2-j/releases.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Xerces-J 2.12.2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;The OLAC metadata schemea for qualified Dublin Core (QDC) which depends on Dublin Core and DCTerms needs to be updated to include RFC5646 (on the language element) and NLM (on the subject element. I have made these modifications in the 1.x files contained in the repo here: &lt;a href=&#34;https://github.com/HughP/OLAC-Validation-files&#34;&gt;https://github.com/HughP/OLAC-Validation-files&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;The 
+&lt;a href=&#34;https://github.com/olac/olac/tree/master/web/register&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;registration script&lt;/a&gt;, written in PHP (&lt;code&gt;register.php&lt;/code&gt; in the linked repo) likely needs to be refactored and written in python3 or php8. One blocker in updating the php code to php8 or newer would be that other php code would also need to be updated.&lt;/li&gt;
+&lt;li&gt;Additional error messages need to be added to the response of the validator. I think these are added to the scripts in this folder: &lt;a href=&#34;https://github.com/olac/olac/tree/master/web/register/scripts-1.1&#34;&gt;https://github.com/olac/olac/tree/master/web/register/scripts-1.1&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

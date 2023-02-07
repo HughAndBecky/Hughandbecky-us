@@ -5707,11 +5707,100 @@ Visual Linguistics. &lt;a href=&#34;http://www.visual-linguistics.net/symposium/
     </item>
     
     <item>
+      <title>Listings a LaTeX Module for Typestting Code</title>
+      <link>https://hughandbecky.us/Hugh-CV/post/listings-latex/</link>
+      <pubDate>Fri, 27 Jan 2023 14:35:45 +0100</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/post/listings-latex/</guid>
+      <description>&lt;p&gt;As I write a few papers I have been wondering how to best typeset XML code. I have struggled several hours with 
+&lt;a href=&#34;https://ctan.org/pkg/listings&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;listings&lt;/a&gt;. I have not managed to master anything. It still looks horable. I have not been able to find success, specifically with color coding. Instead I have turned to the package 
+&lt;a href=&#34;https://ctan.org/pkg/minted&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;minted&lt;/a&gt; which does a fantastic job out of the box. However, the ACM templates for listings do not support &lt;code&gt;minted&lt;/code&gt;; leaving me struggling.&lt;/p&gt;
+&lt;p&gt;In my struggle I did manage to generate some settins that I think are interesting and worth keeping around incase I need them again&amp;hellip; or they help someone else.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;
+\lstset
+{ %Formatting for code in appendix
+    language=XML,
+    basicstyle=\footnotesize\ttfamily,
+    numbers=left,
+    stepnumber=1,
+    showstringspaces=false,
+    tabsize=1,
+    breaklines=true,
+    breakatwhitespace=false,
+    xleftmargin=0.5cm, 
+    prebreak=\mbox{\hspace{-0.4em}\tiny\textcolor{gray}{$_\rfloor\space$}},
+    postbreak=\mbox{\hspace{-3em}\textcolor{red}{$\hookrightarrow$}\space},
+}
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Of these settings the following were helpful for keeping the code wraping well in the two column format for the ACM template.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;
+    xleftmargin=0.5cm, 
+    prebreak=\mbox{\hspace{-0.4em}\tiny\textcolor{gray}{$_\rfloor\space$}},
+    postbreak=\mbox{\hspace{-3em}\textcolor{red}{$\hookrightarrow$}\space},
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;The other thing that I was able to do was to add listings via an external file and have them captioned as if they were a regular figure.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;
+\begin{figure}[h!]
+  \centering
+\lstinputlisting[language=XML]{Code/example.xml}
+  \label{code:set1}
+    \caption{some code.}
+  \Description{Diagram of related audio manifestations.}
+\end{figure}
+
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>OLAC Validator</title>
+      <link>https://hughandbecky.us/Hugh-CV/post/olac-validator/</link>
+      <pubDate>Tue, 24 Jan 2023 14:35:45 +0100</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/post/olac-validator/</guid>
+      <description>&lt;p&gt;The current OLAC validator needs to be updated in several ways.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;The software doing the validation needs to be updated. It is currently running Xerces-J 2.9.1 and needs to be updated to at leaset 
+&lt;a href=&#34;https://xerces.apache.org/xerces2-j/releases.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Xerces-J 2.12.2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;The OLAC metadata schemea for qualified Dublin Core (QDC) which depends on Dublin Core and DCTerms needs to be updated to include RFC5646 (on the language element) and NLM (on the subject element. I have made these modifications in the 1.x files contained in the repo here: &lt;a href=&#34;https://github.com/HughP/OLAC-Validation-files&#34;&gt;https://github.com/HughP/OLAC-Validation-files&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;The 
+&lt;a href=&#34;https://github.com/olac/olac/tree/master/web/register&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;registration script&lt;/a&gt;, written in PHP (&lt;code&gt;register.php&lt;/code&gt; in the linked repo) likely needs to be refactored and written in python3 or php8. One blocker in updating the php code to php8 or newer would be that other php code would also need to be updated.&lt;/li&gt;
+&lt;li&gt;Additional error messages need to be added to the response of the validator. I think these are added to the scripts in this folder: &lt;a href=&#34;https://github.com/olac/olac/tree/master/web/register/scripts-1.1&#34;&gt;https://github.com/olac/olac/tree/master/web/register/scripts-1.1&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An Application of OAI Sets for OLAC</title>
+      <link>https://hughandbecky.us/Hugh-CV/post/olac-sets/</link>
+      <pubDate>Sat, 07 Jan 2023 14:35:45 +0100</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/post/olac-sets/</guid>
+      <description>&lt;p&gt;In a previous 
+&lt;a href=&#34;https://hughandbecky.us/Hugh-CV/post/oai-sets-for-olac/&#34;&gt;note&lt;/a&gt; I described a the use of OAI sets. These are essentially classes that can be applied to records. It came to mind today that in fact these classes could be used to support a variety of features that Dublin Core does not support.  These classes appear in the header of the OAI Record as shown below for &lt;code&gt;LanguageSoftware&lt;/code&gt; and &lt;code&gt;Software&lt;/code&gt;.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;&amp;lt;oai:header&amp;gt;
+&amp;lt;oai:identifier&amp;gt;oai:hugh4.us:0007&amp;lt;/oai:identifier&amp;gt;
+&amp;lt;oai:datestamp&amp;gt;2023-01-07&amp;lt;/oai:datestamp&amp;gt;
+  &amp;lt;setSpec&amp;gt;LanguageSoftware&amp;lt;setSpec&amp;gt;
+  &amp;lt;setSpec&amp;gt;Software&amp;lt;setSpec&amp;gt;
+&amp;lt;/oai:header&amp;gt;
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;These classes could be used to indicate the type of record or record level metadata such as the 
+&lt;a href=&#34;https://journal.code4lib.org/articles/16491&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;WEMI&lt;/a&gt; class of a record. Alternatively they could be used within the User Interface of the record and become part of the Application Profile supporting navigation elements. For example, &lt;code&gt;Learning Resources&lt;/code&gt; is not a clear bibliographic category, but could be a cross-provider class that data providers could use to support the inclusion of resources within an aggregator.&lt;/p&gt;
+&lt;p&gt;The use of OAI sets could also be used to categorize records by one of the three origional goals DATA, TOOLS, and ADVICE:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;By DATA we mean any information that documents or describes a language, such as a published monograph, a computer data file, or even a shoebox full of hand-written index cards. The information could range in content from unanalyzed sound recordings to fully transcribed and annotated texts to a complete descriptive grammar. By TOOLS we mean computational resources that facilitate creating, viewing, querying, or otherwise using language data. Tools include not just software programs, but also the digital resources that the programs depend on, such as fonts, stylesheets, and document type definitions. By ADVICE we mean any information about what data sources are reliable, what tools are appropriate in a given situation, what practices to follow when creating new data, and so forth.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;From: &lt;a href=&#34;http://www.language-archives.org/documents/overview.html&#34;&gt;http://www.language-archives.org/documents/overview.html&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Dublin Core DCMIType Chooser</title>
       <link>https://hughandbecky.us/Hugh-CV/post/dublin-core-dcmitype/</link>
       <pubDate>Thu, 15 Dec 2022 14:35:45 +0100</pubDate>
       <guid>https://hughandbecky.us/Hugh-CV/post/dublin-core-dcmitype/</guid>
-      <description>&lt;p&gt;Some users of Dublin Core choose not to use the DCMIType vocabulary. I find the DCMIType vocabulary deeply integral to good description using the Dublin Core framework. It adds a distinct way to orient the is-ness of the object within the capable description of items via the Dublin Core framework. I admit that it can be confusing at times. For example, I have found some resources which are hard to categorize. I have placed some of these in the following table. The description of the resource is on the left while the ambigious possibilities appear in the right two columns.&lt;/p&gt;
+      <description>&lt;p&gt;Some users of Dublin Core choose not to use the DCMIType vocabulary. I find the DCMIType vocabulary deeply integral to good description using the Dublin Core framework. It adds a distinct way to orient the is-ness of the object within the capable description of items via the Dublin Core framework. I admit that it can be confusing at times. For example, I have found some resources which are hard to categorize. I have placed some of these in the following table. The description of the resource is on the left while the ambigious possibilities appear in the right two columns.&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -5843,6 +5932,14 @@ Reinhard Döhl&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.o
 | I:I | SW:I | W:I | E:I | M:I |
 
 --&gt;
+&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;The definition of note of the DCMIType for &lt;code&gt;Text&lt;/code&gt; states: &amp;ldquo;Examples include books, letters, dissertations, poems, newspapers, articles, archives of mailing lists. Note that facsimiles or images of texts are still of the genre Text.&amp;rdquo; So I understand that the apple and the worm image would be classified as text. &lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/section&gt;
 </description>
     </item>
     
@@ -5952,7 +6049,31 @@ Greetings,
       <link>https://hughandbecky.us/Hugh-CV/talk/2022-comparing-relative-typing-difficulties-across-languages-using-corpora/</link>
       <pubDate>Thu, 01 Dec 2022 17:00:12 -0700</pubDate>
       <guid>https://hughandbecky.us/Hugh-CV/talk/2022-comparing-relative-typing-difficulties-across-languages-using-corpora/</guid>
-      <description>&lt;h2 id=&#34;bibliography&#34;&gt;Bibliography&lt;/h2&gt;
+      <description>&lt;div id=&#34;listen&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  &lt;audio controls id=&#34;listen&#34;&gt;
+    &lt;source src=&#34;DRDHum2022.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+  &lt;/audio&gt;
+
+
+&lt;/div&gt;
+&lt;h2 id=&#34;bibliography&#34;&gt;Bibliography&lt;/h2&gt;
 
 
 
@@ -6950,6 +7071,21 @@ wbr:before {
 |  |  |  |  |  | csp | Consultant to a project | A person or organization relevant to a resource, who is engaged specifically to provide an intellectual overview of a strategic or operational task and by analysis, specification, or instruction, to create or propose a cost-effective course of action or solution | http://id.loc.gov/vocabulary/relators/csp |
 
 --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Multilingual Metadata &amp; Metadata Translation</title>
+      <link>https://hughandbecky.us/Hugh-CV/post/multilingual-metadata/</link>
+      <pubDate>Tue, 01 Nov 2022 14:35:45 +0100</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/post/multilingual-metadata/</guid>
+      <description>&lt;div id=&#34;watch&#34;&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/q9e9ffsZe1Q&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;/div&gt; 
 </description>
     </item>
     
@@ -17623,7 +17759,19 @@ useful, OLAC lacks a deep semantic definition and relies mostly on best practice
       <link>https://hughandbecky.us/Hugh-CV/project/2022-multilingual-metadata/</link>
       <pubDate>Wed, 27 Oct 2021 00:00:00 +0000</pubDate>
       <guid>https://hughandbecky.us/Hugh-CV/project/2022-multilingual-metadata/</guid>
-      <description>&lt;p&gt;This started as a course work project as part of an advanced cataloging course at the University of North Texas. It quickly grew into more. In this project I look at and pull resources together about &lt;em&gt;Multilingual Metadata&lt;/em&gt; &amp;amp; &lt;em&gt;Metadata Translation&lt;/em&gt;. There are clearly several overlaps with my other professional interests related to linguistics and translation studies. This project is scoped widely to include issues such as &lt;em&gt;Language Identification&lt;/em&gt;, &lt;em&gt;Script Identification&lt;/em&gt;, &lt;em&gt;Encoding&lt;/em&gt;, &lt;em&gt;Record Managment Policy&lt;/em&gt;, &lt;em&gt;Translation of Metadata&lt;/em&gt;, &lt;em&gt;Transliteration of Metadata&lt;/em&gt;, &lt;em&gt;Publishing Practices Related to Multilingual Works&lt;/em&gt;, &lt;em&gt;Citation and Referencing Practices&lt;/em&gt;, &lt;em&gt;User Experience Design in Library Contexts&lt;/em&gt;, and &lt;em&gt;The Creation and Implementation of Multilingual Controlled Vocabularies&lt;/em&gt;.&lt;/p&gt;
+      <description>&lt;p&gt;This started as a course work project as part of an advanced cataloging course at the University of North Texas. It quickly grew into more. In this project I look at and pull resources together about &lt;em&gt;Multilingual Metadata&lt;/em&gt; &amp;amp; &lt;em&gt;Metadata Translation&lt;/em&gt;. There are clearly several overlaps with my other professional interests related to linguistics and translation studies. This project is scoped widely to include issues such as:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Language Identification&lt;/em&gt;,&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Script Identification&lt;/em&gt;,&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Encoding&lt;/em&gt;,&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Record Managment Policy&lt;/em&gt;,&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Translation of Metadata&lt;/em&gt;,&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Transliteration of Metadata&lt;/em&gt;,&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Publishing Practices Related to Multilingual Works&lt;/em&gt;,&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Citation and Referencing Practices&lt;/em&gt;,&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;User Experience Design in Library Contexts&lt;/em&gt;,&lt;/li&gt;
+&lt;li&gt;and &lt;em&gt;The Creation and Implementation of Multilingual Controlled Vocabularies&lt;/em&gt;.&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
@@ -36657,8 +36805,8 @@ Existing keyboard layouts for the languages of the texts in question will be ana
       <link>https://hughandbecky.us/Hugh-CV/project/2018-sil-idx-r-90/</link>
       <pubDate>Mon, 12 Mar 2018 00:00:00 +0000</pubDate>
       <guid>https://hughandbecky.us/Hugh-CV/project/2018-sil-idx-r-90/</guid>
-      <description>&lt;p&gt;IDX&amp;rsquo;s 90th research project was an attempt to create a complex graph connecting diverse access points to data inorder to provide market intelligence on issues related to ethnolinguistic communities. IDX is SIL International&amp;rsquo;s research and innovation lab for creating business products within a nonprofit structure. The lab&amp;rsquo;s goal (when I was there) was to manage product development for products which might become profitable business ventures when those products and their projects would otherwise die within the corporate culture of SIL&amp;rsquo;s family of organizations.&lt;/p&gt;
-&lt;p&gt;In this project we took a specific interest in developing a graph database to leverage SIL and affiliate data to create market based intelligence related to minority language use, and where possible sell-able tools based on language resources. The goal was to package the intelligence as products and resell it or access to the intelligence. In our product development model intellegence included linguistic, geographic, and social factors. Market assumptions were strongly informed by active business transactions related to the Ethnologue whose business transactions were also managed by IDX. Within in R-90 we looked at the span of language resources created by SIL including software and corpora and investigated business models and opportunities to repackage those resources.&lt;/p&gt;
+      <description>&lt;p&gt;IDX&amp;rsquo;s 90th research project was an attempt to create a complex graph connecting diverse access points to data in order to provide market intelligence on issues related to ethnolinguistic communities. IDX is SIL International&amp;rsquo;s research and innovation lab for creating business products within a nonprofit structure. The lab&amp;rsquo;s goal (when I was there) was to manage product development for products which might become profitable business ventures when those products and their projects would otherwise die within the corporate culture of SIL&amp;rsquo;s family of organizations.&lt;/p&gt;
+&lt;p&gt;In R-90 we took a specific interest in developing a graph database to leverage SIL and affiliate data to create market based intelligence related to minority language use, and where possible sell-able tools based on language resources. The goal was to package the intelligence as products and resell it or access to the intelligence. In our product development model, intellegence included linguistic, geographic, and social factors. Market assumptions were strongly informed by active business transactions related to the Ethnologue whose business transactions were also managed by IDX. Within R-90 we looked at the span of language resources created by SIL, including software and corpora, and investigated possible business models and opportunities to repackage those resources for new audiences.&lt;/p&gt;
 &lt;p&gt;My work in this project was to investigate business models, find language resources, investigate market opportunities, and find usable resources to augment existing products in the creation of new products. I worked closely with Dan Whitenack to implement data integration models.&lt;/p&gt;
 &lt;!-- SIL Drive link Search features https://docs.google.com/document/d/18PbS8dewSWNqDdkPLoqkROYvPEJYFtyb3qJ7BFvG_pA/edit --&gt;
 &lt;!-- personal drive link https://docs.google.com/document/d/1zHq0P7-FF2XmgKkMWKrJrDI2lPlak3L6hO-UbcfgDhc/edit --&gt;
