@@ -5,12 +5,2173 @@
     <link>https://hughandbecky.us/Hugh-CV/tag/dcmitype/</link>
       <atom:link href="https://hughandbecky.us/Hugh-CV/tag/dcmitype/index.xml" rel="self" type="application/rss+xml" />
     <description>DCMIType</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2023</copyright><lastBuildDate>Thu, 15 Dec 2022 14:35:45 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2023</copyright><lastBuildDate>Sun, 19 Mar 2023 14:35:45 +0100</lastBuildDate>
     <image>
       <url>https://hughandbecky.us/Hugh-CV/media/HughPaterson.jpg</url>
       <title>DCMIType</title>
       <link>https://hughandbecky.us/Hugh-CV/tag/dcmitype/</link>
     </image>
+    
+    <item>
+      <title>Dublin Core DCMIType: PhysicalObject</title>
+      <link>https://hughandbecky.us/Hugh-CV/post/dublin-core-dcmitype-physicalobject/</link>
+      <pubDate>Sun, 19 Mar 2023 14:35:45 +0100</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/post/dublin-core-dcmitype-physicalobject/</guid>
+      <description>&lt;p&gt;I have been working through the 
+&lt;a href=&#34;http://purl.org/dc/dcmitype/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DCMIType vocabulary&lt;/a&gt;. I have been applying it to models and situations relevant to language and culture research. I have specifically been working with data from the Open Language Archive Community (OLAC). For example, their OAI-PMH aggregation data. However, I have also been interested in expanding the OLAC community of contributors and considering how the context of stakeholders in the OLAC community could be described more fully in the OLAC aggregator. In this post I am contemplating the DCMIType &lt;em&gt;PhysicalObject&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;By way of background, 
+
+
+
+
+
+
+
+&lt;span class=&#34;hugo-cite-intext&#34;
+        itemprop=&#34;citation&#34;&gt;(&lt;a href=&#34;#paterson_iii_olac_2022&#34;&gt;&lt;span class=&#34;visually-hidden&#34;&gt;Citation: &lt;/span&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;meta itemprop=&#34;givenName&#34; content=&#34;Hugh J&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Paterson III&lt;/span&gt;&lt;/span&gt;,&amp;#32;
+      &lt;span itemprop=&#34;datePublished&#34;&gt;2022&lt;/span&gt;&lt;/a&gt;)
+    &lt;span class=&#34;hugo-cite-citation&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/CreativeWork&#34;
+      data-type=&#34;paper-conference&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Paterson III&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Hugh J&#34; /&gt;
+    H.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2022&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;
+    &lt;i&gt;An OLAC Perspective on Services: The Forgotten Language Resources&lt;/i&gt;&lt;/span&gt;.
+  &lt;meta itemprop=&#34;contentLocation&#34;
+        content=&#34;Online&#34;&gt;&amp;#32;
+  &lt;span itemprop=&#34;publisher&#34; itemtype=&#34;http://schema.org/Organization&#34; itemscope=&#34;&#34;&gt;
+    &lt;span itemprop=&#34;name&#34;&gt;Dublin Core Metadata Initiative&lt;/span&gt;&lt;/span&gt;.&amp;#32;Retrieved from&amp;#32;
+  &lt;a href=&#34;https://hughandbecky.us/Hugh-CV/talk/2022-services-the-forgotten-language-resources/DC_2022_Conference_Paper_Paterson_Revisions_pre-print.pdf&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://hughandbecky.us/Hugh-CV/talk/2022-services-the-forgotten-language-resources/DC_2022_Conference_Paper_Paterson_Revisions_pre-print.pdf&lt;/a&gt;&lt;/span&gt;
+
+&lt;/span&gt;&lt;/span&gt;
+ indicates that the OLAC aggregator only has four instances of the use of the DCMIType &lt;em&gt;PhysicalObject&lt;/em&gt; while 
+
+
+
+
+
+
+
+&lt;span class=&#34;hugo-cite-intext&#34;
+        itemprop=&#34;citation&#34;&gt;(&lt;a href=&#34;#paterson_iii_where_2022&#34;&gt;&lt;span class=&#34;visually-hidden&#34;&gt;Citation: &lt;/span&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;meta itemprop=&#34;givenName&#34; content=&#34;Hugh J&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Paterson III&lt;/span&gt;&lt;/span&gt;,&amp;#32;
+      &lt;span itemprop=&#34;datePublished&#34;&gt;2022&lt;/span&gt;&lt;/a&gt;)
+    &lt;span class=&#34;hugo-cite-citation&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/CreativeWork&#34;
+      data-type=&#34;paper-conference&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Paterson III&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Hugh J&#34; /&gt;
+    H.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2022&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;
+    &lt;i&gt;Where Have All the Collections Gone?: Analysis of OLAC Data Contributors&amp;rsquo; use of DCMIType &amp;lsquo;Collection&amp;rsquo;&lt;/i&gt;&lt;/span&gt;.
+  &lt;meta itemprop=&#34;contentLocation&#34;
+        content=&#34;Chicago, IL&#34;&gt;&amp;#32;
+  &lt;span itemprop=&#34;publisher&#34; itemtype=&#34;http://schema.org/Organization&#34; itemscope=&#34;&#34;&gt;
+    &lt;span itemprop=&#34;name&#34;&gt;Society of American Archivists&lt;/span&gt;&lt;/span&gt;.&amp;#32;Retrieved from&amp;#32;
+  &lt;a href=&#34;https://www2.archivists.org/am2021/research-forum-2021/agenda#peer&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://www2.archivists.org/am2021/research-forum-2021/agenda#peer&lt;/a&gt;&lt;/span&gt;
+
+&lt;/span&gt;&lt;/span&gt;
+ indicates that only eighty-three percent of the 449, 498 OLAC records use the DCMIType vocabulary.&lt;/p&gt;
+&lt;p&gt;The DCMIType &lt;em&gt;PhysicalObject&lt;/em&gt; is currently defined in the following way by the 
+&lt;a href=&#34;https://www.dublincore.org/specifications/dublin-core/dcmi-terms/dcmitype/PhysicalObject&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DCMI&lt;/a&gt;:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Definition version 003:&lt;/strong&gt; An inanimate, three-dimensional object or substance.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Note that digital representations of, or surrogates for, these objects should use Image, Text or one of the other types.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;However, previously proposed definitions 
+
+
+
+
+
+
+
+&lt;span class=&#34;hugo-cite-intext&#34;
+        itemprop=&#34;citation&#34;&gt;(&lt;a href=&#34;#guenther_dublin_1999&#34;&gt;&lt;span class=&#34;visually-hidden&#34;&gt;Citation: &lt;/span&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;meta itemprop=&#34;givenName&#34; content=&#34;Rebecca&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Guenther&lt;/span&gt;&lt;/span&gt;,&amp;#32;
+      &lt;span itemprop=&#34;datePublished&#34;&gt;1999&lt;/span&gt;&lt;/a&gt;)
+    &lt;span class=&#34;hugo-cite-citation&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Book&#34;
+      data-type=&#34;book&#34;&gt;&lt;span itemprop=&#34;editor&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Guenther&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Rebecca&#34; /&gt;
+    R.&lt;/span&gt;&amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;1999&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;
+    &lt;i&gt;Dublin Core Resource Types list&lt;/i&gt;&lt;/span&gt;.
+  &lt;meta itemprop=&#34;locationCreated&#34;
+        value=&#34;Washington, D.C&#34;&gt;&amp;#32;
+  &lt;span itemprop=&#34;publisher&#34;
+             itemtype=&#34;http://schema.org/Organization&#34;
+             itemscope&gt;
+    &lt;span itemprop=&#34;name&#34;&gt;Library of Congress&lt;/span&gt;&lt;/span&gt;.&amp;#32;Retrieved from&amp;#32;
+  &lt;a href=&#34;https://www.loc.gov/marc/dc/typelist-19991118.html&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://www.loc.gov/marc/dc/typelist-19991118.html&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/span&gt;&lt;/span&gt;
+  include:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Proposal version 1999:&lt;/strong&gt; a non-human object or substance. This category includes objects that do not fit into any of the other categories on this list. In addition these objects must be approached physically to make use of them. For example - a computer, the great pyramid, a sculpture, wheat. Note that digital representations of, or surrogates for, these things should use image, text or one of the other types.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;One advantage of the proposal version over the current version is that it makes the application of the type value clearer. For example in 
+
+
+
+
+
+
+
+&lt;span class=&#34;hugo-cite-intext&#34;
+        itemprop=&#34;citation&#34;&gt;(&lt;a href=&#34;#paterson_iii_dcmitype_2022&#34;&gt;&lt;span class=&#34;visually-hidden&#34;&gt;Citation: &lt;/span&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;meta itemprop=&#34;givenName&#34; content=&#34;Hugh J&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Paterson III&lt;/span&gt;&lt;/span&gt;,&amp;#32;
+      &lt;span itemprop=&#34;datePublished&#34;&gt;2022&lt;/span&gt;&lt;/a&gt;)
+    &lt;span class=&#34;hugo-cite-citation&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/CreativeWork&#34;
+      data-type=&#34;post&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Paterson III&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Hugh J&#34; /&gt;
+    H.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2022&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;
+    &lt;i&gt;DCMIType PhysicalObject&lt;/i&gt;&lt;/span&gt;.
+  &amp;#32;Retrieved from&amp;#32;
+  &lt;a href=&#34;https://github.com/dcmi/usage/issues/117&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://github.com/dcmi/usage/issues/117&lt;/a&gt;&lt;/span&gt;
+
+&lt;/span&gt;&lt;/span&gt;
+ I asked the following:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;I am wondering can I get some clarity on the use of DCMIType &lt;code&gt;PhysicalObject&lt;/code&gt;.
+For example, when is the 
+&lt;a href=&#34;https://en.wikipedia.org/wiki/Rosetta_Stone&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Rosetta Stone&lt;/a&gt; a &lt;code&gt;PhysicalObject&lt;/code&gt; and when is it &lt;code&gt;Text&lt;/code&gt;? The more common use case might be when is a cassette tape a &lt;code&gt;physical object&lt;/code&gt; and when is it &lt;code&gt;sound&lt;/code&gt;? clearly a basket in a museum is a &lt;code&gt;PhysicalObject&lt;/code&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;!-- [dct:medium](https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#http://purl.org/dc/terms/medium) suggests that it should be used to indicate physical carrier. Does this mean that such a record should have `PhysicalObject` ?
+Note: I am working from the OAI-PMH framework and looking at record cohesion/record quality. --&gt;
+&lt;p&gt;The answer for this question is clear in the older text but not in the current text. The Rosetta Stone should be classified as DCMIType &lt;em&gt;text&lt;/em&gt; with a carrier or medium of &lt;em&gt;stone&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Previously approved definitions in the vocabulary&amp;rsquo;s history have included the following:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Definition version 001:&lt;/strong&gt; An inanimate, three-dimensional object or substance. For example &amp;ndash; a computer, the great pyramid, a sculpture. Note that digital representations of, or surrogates for, these things should use Image, Text or one of the other types.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Given the low rate of use in the OLAC aggregator one might ask, how is this DCMIType even relevant? Ultimately it depends on the metadata model employed in the description of language research and language documentation activities. OLAC metadata is based on Dublin Core 
+
+
+
+
+
+
+
+&lt;span class=&#34;hugo-cite-intext&#34;
+        itemprop=&#34;citation&#34;&gt;(&lt;a href=&#34;#bird_building_2004-1&#34;&gt;&lt;span class=&#34;visually-hidden&#34;&gt;Citation: &lt;/span&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;meta itemprop=&#34;givenName&#34; content=&#34;Steven&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Bird&lt;/span&gt;&lt;/span&gt;
+      &lt;em&gt;et al.&lt;/em&gt;,&amp;#32;
+      &lt;span itemprop=&#34;datePublished&#34;&gt;2004&lt;/span&gt;&lt;/a&gt;)
+    &lt;span class=&#34;hugo-cite-citation&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Chapter&#34;
+      data-type=&#34;chapter&#34;&gt;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Bird&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Steven&#34; /&gt;
+    S.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Simons&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Gary F.&#34; /&gt;
+    G.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2004&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;Building an Open Language Archives Community on the DC Foundation&lt;/span&gt;.&amp;#32;In&amp;#32;&lt;span itemprop=&#34;editor&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Hillmann&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Diane&#34; /&gt;
+    D.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;editor&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Westbrooks&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Elaine L.&#34; /&gt;
+    E.&lt;/span&gt; (Eds.),&amp;#32;&lt;span itemprop=&#34;about&#34;&gt;
+    &lt;i&gt;Metadata in practice&lt;/i&gt;&lt;/span&gt;..
+  &lt;meta itemprop=&#34;contentLocation&#34;
+        value=&#34;Chicago&#34;&gt;&amp;#32;&lt;span itemprop=&#34;publisher&#34;
+               itemtype=&#34;http://schema.org/Organization&#34;
+               itemscope=&#34;&#34;&gt;
+      &lt;span itemprop=&#34;name&#34;&gt;American Library Association&lt;/span&gt;&lt;/span&gt;.&lt;/span&gt;
+
+
+
+
+&lt;/span&gt;&lt;/span&gt;
+, and Dublin Core includes the DCMIType vocabulary. It follows then that since it is included that it might be useful to explore in which ways it can be utilized within the OLAC space. Additionally, because Dublin Core is used by more than just OLAC any discussion or conceptualization within the Dublin Core framework might be useful for larger audiences. Therefore, I have been reading the literature and note two different, but interesting, use cases which seem to relate to DCMIType &lt;em&gt;PhysicalObject&lt;/em&gt;. In addition I think I can find several examples for uses within language archives.&lt;/p&gt;
+&lt;h2 id=&#34;literature-based-use-cases&#34;&gt;Literature Based Use Cases&lt;/h2&gt;
+&lt;p&gt;In reviewing literature I have found two interesting use cases which relate to physical objects. These include places and pants. The DCMIType vocabulary specifically excludes humans. I guess humans were not considered a viable catalog-able entity. This can present challenges when indexing human remains. For example, Egyptian mummies are a less-controversial case of human remains which ought to be cataloged and may be relevant to the study of specific ethnolinguistic communities. However, other more-controversial cases also exists such as the remains of indigenous Americans 
+
+
+
+
+
+
+
+&lt;span class=&#34;hugo-cite-intext&#34;
+        itemprop=&#34;citation&#34;&gt;(&lt;a href=&#34;#ousley_federal_2005&#34;&gt;&lt;span class=&#34;visually-hidden&#34;&gt;Citation: &lt;/span&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;meta itemprop=&#34;givenName&#34; content=&#34;Stephen D.&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Ousley&lt;/span&gt;&lt;/span&gt;
+      &lt;em&gt;et al.&lt;/em&gt;,&amp;#32;
+      &lt;span itemprop=&#34;datePublished&#34;&gt;2005&lt;/span&gt;&lt;/a&gt;)
+    &lt;span class=&#34;hugo-cite-citation&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Ousley&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Stephen D.&#34; /&gt;
+    S.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Billeck&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;William T.&#34; /&gt;
+    W.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Hollinger&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;R. Eric&#34; /&gt;
+    R.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2005&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;Federal Repatriation Legislation and the Role of Physical Anthropology in Repatriation&lt;/span&gt;.&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;American Journal of Physical Anthropology&lt;/span&gt;,&amp;#32;128(S41)&lt;/i&gt;.&amp;#32;&lt;span itemprop=&#34;pagination&#34;&gt;2–32&lt;/span&gt;.
+  &lt;a href=&#34;https://doi.org/10.1002/ajpa.20354&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://doi.org/10.1002/ajpa.20354&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/span&gt;&lt;/span&gt;
+ and indigenous Australians 
+
+
+
+
+
+
+
+&lt;span class=&#34;hugo-cite-intext&#34;
+        itemprop=&#34;citation&#34;&gt;(&lt;a href=&#34;#watson_repatriation_2003&#34;&gt;&lt;span class=&#34;visually-hidden&#34;&gt;Citation: &lt;/span&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;meta itemprop=&#34;givenName&#34; content=&#34;Nicole&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Watson&lt;/span&gt;&lt;/span&gt;,&amp;#32;
+      &lt;span itemprop=&#34;datePublished&#34;&gt;2003&lt;/span&gt;&lt;/a&gt;)
+    &lt;span class=&#34;hugo-cite-citation&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Watson&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Nicole&#34; /&gt;
+    N.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2003&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;The Repatriation of Indigenous Remains in the United States of America and Australia: A Comparative Analysis&lt;/span&gt;.&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;Australian Indigenous Law Reporter&lt;/span&gt;,&amp;#32;8(1)&lt;/i&gt;.&amp;#32;&lt;span itemprop=&#34;pagination&#34;&gt;33–44&lt;/span&gt;.&amp;#32;Retrieved from&amp;#32;
+  &lt;a href=&#34;https://www.jstor.org/stable/26479533&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://www.jstor.org/stable/26479533&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/span&gt;&lt;/span&gt;
+ within archives and museums in the United States 
+
+
+
+
+
+
+
+&lt;span class=&#34;hugo-cite-intext&#34;
+        itemprop=&#34;citation&#34;&gt;(&lt;a href=&#34;#darian-smith_bones_2015&#34;&gt;&lt;span class=&#34;visually-hidden&#34;&gt;Citation: &lt;/span&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;meta itemprop=&#34;givenName&#34; content=&#34;Martin&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Thomas&lt;/span&gt;&lt;/span&gt;,&amp;#32;
+      &lt;span itemprop=&#34;datePublished&#34;&gt;2015&lt;/span&gt;&lt;/a&gt;)
+    &lt;span class=&#34;hugo-cite-citation&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Chapter&#34;
+      data-type=&#34;chapter&#34;&gt;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Thomas&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Martin&#34; /&gt;
+    M.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2015&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;Bones as a Bridge between Worlds: Responding with Ceremony to the Repatriation of Aboriginal Human Remains from the United States to Australia&lt;/span&gt;.&amp;#32;In&amp;#32;&lt;span itemprop=&#34;editor&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Darian-Smith&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Kate&#34; /&gt;
+    K.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;editor&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Edmonds&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Penelope&#34; /&gt;
+    P.&lt;/span&gt; (Eds.),&amp;#32;&lt;span itemprop=&#34;about&#34;&gt;
+    &lt;i&gt;Conciliation on colonial frontiers: conflict, performance, and commemoration in Australia and the Pacific Rim&lt;/i&gt;&lt;/span&gt;..
+  &lt;meta itemprop=&#34;contentLocation&#34;
+        value=&#34;New York&#34;&gt;&amp;#32;&lt;span itemprop=&#34;publisher&#34;
+               itemtype=&#34;http://schema.org/Organization&#34;
+               itemscope=&#34;&#34;&gt;
+      &lt;span itemprop=&#34;name&#34;&gt;Routledge&lt;/span&gt;&lt;/span&gt;.&lt;/span&gt;
+
+
+
+
+&lt;/span&gt;&lt;/span&gt;
+. The DCMIType vocabulary by excluding a category for humans forces institutions to either forgo the standard, the element, or the vocabulary. Alternatively this forces an analysis that human remains are physical objects and no-longer human. Many languages consider state changes worthy of distinct vocabulary. For example, a caterpillar and a butterfly are the same living creature, but the state is different.&lt;/p&gt;
+&lt;p&gt;A similar situation arises with DNA samples or specimens. Are these specimens still human, or are they physical objects in the DCMIType inanimate sense? The appropriate way to conceive of DNA is a question many researchers face 
+
+
+
+
+
+
+
+&lt;span class=&#34;hugo-cite-intext&#34;
+        itemprop=&#34;citation&#34;&gt;(&lt;a href=&#34;#alpaslan-roodenberg_ethics_2021&#34;&gt;&lt;span class=&#34;visually-hidden&#34;&gt;Citation: &lt;/span&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;meta itemprop=&#34;givenName&#34; content=&#34;Songül&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Alpaslan-Roodenberg&lt;/span&gt;&lt;/span&gt;
+      &lt;em&gt;et al.&lt;/em&gt;,&amp;#32;
+      &lt;span itemprop=&#34;datePublished&#34;&gt;2021&lt;/span&gt;&lt;/a&gt;)
+    &lt;span class=&#34;hugo-cite-citation&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Alpaslan-Roodenberg&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Songül&#34; /&gt;
+    S.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Anthony&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;David&#34; /&gt;
+    D.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Babiker&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Hiba&#34; /&gt;
+    H.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Bánffy&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Eszter&#34; /&gt;
+    E.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Booth&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Thomas&#34; /&gt;
+    T.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Capone&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Patricia&#34; /&gt;
+    P.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Deshpande-Mukherjee&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Arati&#34; /&gt;
+    A.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Eisenmann&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Stefanie&#34; /&gt;
+    S.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Fehren-Schmitz&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Lars&#34; /&gt;
+    L.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Frachetti&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Michael&#34; /&gt;
+    M.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Fujita&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Ricardo&#34; /&gt;
+    R.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Frieman&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Catherine J.&#34; /&gt;
+    C.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Fu&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Qiaomei&#34; /&gt;
+    Q.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Gibbon&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Victoria&#34; /&gt;
+    V.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Haak&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Wolfgang&#34; /&gt;
+    W.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Hajdinjak&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Mateja&#34; /&gt;
+    M.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Hofmann&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Kerstin P.&#34; /&gt;
+    K.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Holguin&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Brian&#34; /&gt;
+    B.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Inomata&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Takeshi&#34; /&gt;
+    T.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Kanzawa-Kiriyama&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Hideaki&#34; /&gt;
+    H.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Keegan&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;William&#34; /&gt;
+    W.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Kelso&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Janet&#34; /&gt;
+    J.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Krause&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Johannes&#34; /&gt;
+    J.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Kumaresan&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Ganesan&#34; /&gt;
+    G.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Kusimba&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Chapurukha&#34; /&gt;
+    C.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Kusimba&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Sibel&#34; /&gt;
+    S.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Lalueza-Fox&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Carles&#34; /&gt;
+    C.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Llamas&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Bastien&#34; /&gt;
+    B.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;MacEachern&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Scott&#34; /&gt;
+    S.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Mallick&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Swapan&#34; /&gt;
+    S.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Matsumura&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Hirofumi&#34; /&gt;
+    H.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Morales-Arce&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Ana Y.&#34; /&gt;
+    A.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Matuzeviciute&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Giedre Motuzaite&#34; /&gt;
+    G.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Mushrif-Tripathy&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Veena&#34; /&gt;
+    V.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Nakatsuka&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Nathan&#34; /&gt;
+    N.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Nores&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Rodrigo&#34; /&gt;
+    R.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Ogola&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Christine&#34; /&gt;
+    C.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Okumura&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Mercedes&#34; /&gt;
+    M.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Patterson&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Nick&#34; /&gt;
+    N.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Pinhasi&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Ron&#34; /&gt;
+    R.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Prasad&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Samayamantri P. R.&#34; /&gt;
+    S.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Prendergast&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Mary E.&#34; /&gt;
+    M.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Punzo&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Jose Luis&#34; /&gt;
+    J.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Reich&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;David&#34; /&gt;
+    D.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Sawafuji&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Rikai&#34; /&gt;
+    R.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Sawchuk&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Elizabeth&#34; /&gt;
+    E.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Schiffels&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Stephan&#34; /&gt;
+    S.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Sedig&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Jakob&#34; /&gt;
+    J.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Shnaider&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Svetlana&#34; /&gt;
+    S.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Sirak&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Kendra&#34; /&gt;
+    K.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Skoglund&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Pontus&#34; /&gt;
+    P.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Slon&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Viviane&#34; /&gt;
+    V.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Snow&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Meradeth&#34; /&gt;
+    M.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Soressi&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Marie&#34; /&gt;
+    M.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Spriggs&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Matthew&#34; /&gt;
+    M.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Stockhammer&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Philipp W.&#34; /&gt;
+    P.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Szécsényi-Nagy&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Anna&#34; /&gt;
+    A.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Thangaraj&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Kumarasamy&#34; /&gt;
+    K.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Tiesler&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Vera&#34; /&gt;
+    V.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Tobler&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Ray&#34; /&gt;
+    R.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Wang&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Chuan-Chao&#34; /&gt;
+    C.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Warinner&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Christina&#34; /&gt;
+    C.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Yasawardene&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Surangi&#34; /&gt;
+    S.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Zahir&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Muhammad&#34; /&gt;
+    M.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2021&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;Ethics of DNA research on human remains: five globally applicable guidelines&lt;/span&gt;.&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;Nature&lt;/span&gt;,&amp;#32;599(7883)&lt;/i&gt;.&amp;#32;&lt;span itemprop=&#34;pagination&#34;&gt;41–46&lt;/span&gt;.
+  &lt;a href=&#34;https://doi.org/10.1038/s41586-021-04008-x&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://doi.org/10.1038/s41586-021-04008-x&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/span&gt;&lt;/span&gt;
+. Presumably after analysis they could be DCMIType &lt;em&gt;dataset&lt;/em&gt;. Again, the vocabulary requires a view or perspective to be take on artifacts and their records. These views may not be shared by all stakeholders.&lt;/p&gt;
+&lt;h3 id=&#34;agriculture&#34;&gt;Agriculture&lt;/h3&gt;
+&lt;p&gt;Within the domain of Agriculture plants maybe the cataloged object. This is in part what motivates 
+
+
+
+
+
+
+
+&lt;span class=&#34;hugo-cite-intext&#34;
+        itemprop=&#34;citation&#34;&gt;(&lt;a href=&#34;#cox_why_2021&#34;&gt;&lt;span class=&#34;visually-hidden&#34;&gt;Citation: &lt;/span&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;meta itemprop=&#34;givenName&#34; content=&#34;Simon&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Cox&lt;/span&gt;&lt;/span&gt;,&amp;#32;
+      &lt;span itemprop=&#34;datePublished&#34;&gt;2021&lt;/span&gt;&lt;/a&gt;)
+    &lt;span class=&#34;hugo-cite-citation&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/CreativeWork&#34;
+      data-type=&#34;post&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Cox&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Simon&#34; /&gt;
+    S.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2021&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;
+    &lt;i&gt;Why is dctype:PhysicalObject &amp;lsquo;inanimate&amp;rsquo;?&lt;/i&gt;&lt;/span&gt;.
+  &amp;#32;Retrieved from&amp;#32;
+  &lt;a href=&#34;https://github.com/dcmi/usage/issues/101&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://github.com/dcmi/usage/issues/101&lt;/a&gt;&lt;/span&gt;
+
+&lt;/span&gt;&lt;/span&gt;
+. The definitions above pivot on the exclusion of the animate—in favor of the inanimate. Depending on one&amp;rsquo;s view of the world the animate/inanimate divide may split differently. The following are possibilities.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Animate&lt;/th&gt;
+&lt;th&gt;Inanimate&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Human&lt;/td&gt;
+&lt;td&gt;Non-human (Animal/Plant/Other)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Human/Animal&lt;/td&gt;
+&lt;td&gt;Plant/Other&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Human/Animal/Plant&lt;/td&gt;
+&lt;td&gt;Other&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;The DCMIType definition is not super clear on where the line is drawn cross-linguistically. Logically for biologists the inanimate often excludes the living—such as plants and animals. This is one of the driving motivations in the development 
+&lt;a href=&#34;https://dwc.tdwg.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Darwin Core&lt;/a&gt; 
+
+
+
+
+
+
+
+&lt;span class=&#34;hugo-cite-intext&#34;
+        itemprop=&#34;citation&#34;&gt;(&lt;a href=&#34;#endresen_darwin_2012&#34;&gt;&lt;span class=&#34;visually-hidden&#34;&gt;Citation: &lt;/span&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;meta itemprop=&#34;givenName&#34; content=&#34;Dag Terje Filip&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Endresen&lt;/span&gt;&lt;/span&gt;
+      &lt;em&gt;et al.&lt;/em&gt;,&amp;#32;
+      &lt;span itemprop=&#34;datePublished&#34;&gt;2012&lt;/span&gt;&lt;/a&gt;)
+    &lt;span class=&#34;hugo-cite-citation&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Endresen&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Dag Terje Filip&#34; /&gt;
+    D.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Knüpffer&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Helmut&#34; /&gt;
+    H.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2012&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;The Darwin Core Extension for Genebanks Opens up New Opportunities for Sharing Genebank Datasets&lt;/span&gt;.&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;Biodiversity Informatics&lt;/span&gt;,&amp;#32;8(1)&lt;/i&gt;.
+  &lt;a href=&#34;https://doi.org/10.17161/bi.v8i1.4095&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://doi.org/10.17161/bi.v8i1.4095&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/span&gt;&lt;/span&gt;
+ 
+
+
+
+
+
+
+
+&lt;span class=&#34;hugo-cite-intext&#34;
+        itemprop=&#34;citation&#34;&gt;(&lt;a href=&#34;#baskauf_darwin-sw_2016&#34;&gt;&lt;span class=&#34;visually-hidden&#34;&gt;Citation: &lt;/span&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;meta itemprop=&#34;givenName&#34; content=&#34;Steven&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Baskauf&lt;/span&gt;&lt;/span&gt;
+      &lt;em&gt;et al.&lt;/em&gt;,&amp;#32;
+      &lt;span itemprop=&#34;datePublished&#34;&gt;2016&lt;/span&gt;&lt;/a&gt;)
+    &lt;span class=&#34;hugo-cite-citation&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Baskauf&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Steven&#34; /&gt;
+    S.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Webb&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Campbell&#34; /&gt;
+    C.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2016&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;Darwin-SW: Darwin Core-based terms for expressing biodiversity data as RDF&lt;/span&gt;.&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;Semantic Web&lt;/span&gt;,&amp;#32;7(6)&lt;/i&gt;.&amp;#32;&lt;span itemprop=&#34;pagination&#34;&gt;629–643&lt;/span&gt;.
+  &lt;a href=&#34;https://doi.org/10.3233/SW-150203&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://doi.org/10.3233/SW-150203&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/span&gt;&lt;/span&gt;
+ 
+
+
+
+
+
+
+
+&lt;span class=&#34;hugo-cite-intext&#34;
+        itemprop=&#34;citation&#34;&gt;(&lt;a href=&#34;#baskauf_lessons_2016-1&#34;&gt;&lt;span class=&#34;visually-hidden&#34;&gt;Citation: &lt;/span&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;meta itemprop=&#34;givenName&#34; content=&#34;Steven J.&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Baskauf&lt;/span&gt;&lt;/span&gt;
+      &lt;em&gt;et al.&lt;/em&gt;,&amp;#32;
+      &lt;span itemprop=&#34;datePublished&#34;&gt;2016&lt;/span&gt;&lt;/a&gt;)
+    &lt;span class=&#34;hugo-cite-citation&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Baskauf&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Steven J.&#34; /&gt;
+    S.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Wieczorek&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;John&#34; /&gt;
+    J.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Deck&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;John&#34; /&gt;
+    J.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Webb&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Campbell O.&#34; /&gt;
+    C.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2016&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;Lessons learned from adapting the Darwin Core vocabulary standard for use in RDF&lt;/span&gt;.
+  &amp;#32;In&amp;#32;&lt;span itemprop=&#34;editor&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Hitzler&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Pascal&#34; /&gt;
+    P.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;editor&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Janowicz&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Krzysztof&#34; /&gt;
+    K.&lt;/span&gt; (Eds.),&amp;#32;&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;Semantic Web&lt;/span&gt;,&amp;#32;7(6)&lt;/i&gt;.&amp;#32;&lt;span itemprop=&#34;pagination&#34;&gt;617–627&lt;/span&gt;.
+  &lt;a href=&#34;https://doi.org/10.3233/SW-150199&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://doi.org/10.3233/SW-150199&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/span&gt;&lt;/span&gt;
+ and its class 
+&lt;a href=&#34;https://dwc.tdwg.org/list/#dwc_Organism&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Organism&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;places&#34;&gt;Places&lt;/h3&gt;
+&lt;p&gt;As mentioned in the text of the DCMIType definition &lt;em&gt;version 001&lt;/em&gt;, physical objects such as buildings are permissible. The great pyramid is mentioned. Otherwise &lt;em&gt;place&lt;/em&gt; as a catalog-able genre type is absent. There is no way to indicate the 
+&lt;a href=&#34;https://www.isko.org/cyclo/subject#3.4&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;is-ness&lt;/a&gt; as being a location. The absence of a value of &amp;ldquo;place&amp;rdquo; in the DCMIType vocabulary is noted (perhaps whichfully) by 
+
+
+
+
+
+
+
+&lt;span class=&#34;hugo-cite-intext&#34;
+        itemprop=&#34;citation&#34;&gt;(&lt;a href=&#34;#ostermaier_creating_2008&#34;&gt;&lt;span class=&#34;visually-hidden&#34;&gt;Citation: &lt;/span&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;meta itemprop=&#34;givenName&#34; content=&#34;Benedikt&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Ostermaier&lt;/span&gt;&lt;/span&gt;
+      &lt;em&gt;et al.&lt;/em&gt;,&amp;#32;
+      &lt;span itemprop=&#34;datePublished&#34;&gt;2008&lt;/span&gt;&lt;/a&gt;)
+    &lt;span class=&#34;hugo-cite-citation&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/CreativeWork&#34;
+      data-type=&#34;paper-conference&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Ostermaier&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Benedikt&#34; /&gt;
+    B.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Bolliger&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Philipp&#34; /&gt;
+    P.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2008&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;
+    &lt;i&gt;Creating Location-Based Services by Utilising a Web of Places&lt;/i&gt;&lt;/span&gt;.
+  &lt;meta itemprop=&#34;contentLocation&#34;
+        content=&#34;Turku, Finland&#34;&gt;&amp;#32;
+  &lt;span itemprop=&#34;publisher&#34; itemtype=&#34;http://schema.org/Organization&#34; itemscope=&#34;&#34;&gt;
+    &lt;span itemprop=&#34;name&#34;&gt;IEEE Computer Society&lt;/span&gt;&lt;/span&gt;.
+  &lt;a href=&#34;https://doi.org/10.1109/SAINT.2008.49&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://doi.org/10.1109/SAINT.2008.49&lt;/a&gt;&lt;/span&gt;
+
+&lt;/span&gt;&lt;/span&gt;
+ where they say: &amp;ldquo;Note that there is currently no such type defined [as place] in DCMIType, however, we expect this to change in the future.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;However, some &amp;ldquo;places&amp;rdquo; such as buildings are physical objects and have a 
+&lt;a href=&#34;https://www.dublincore.org/specifications/dublin-core/dcmi-terms/terms/spatial/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;spatial coverage&lt;/a&gt;&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;. So while &lt;em&gt;place&lt;/em&gt; is not a valid DCMIType or generally a catalog-able entity, buildings are. This is certainly in the domain of intended usage for the DCMIType &lt;em&gt;PhysicalObject&lt;/em&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;language-and-culture-based-use-cases&#34;&gt;Language and Culture Based Use Cases&lt;/h2&gt;
+&lt;p&gt;With the previously mentioned uses it is clear that linking cataloged objects from the domains of biology, anthropology, and archeology can be important to OALC and end-users to the OLAC aggregator. These resources can be aggregated within OLAC if they are described with records via Qualified Dublin Core and fed via an OAI feed to OLAC.&lt;/p&gt;
+&lt;p&gt;However, there are some usecases within the OLAC community of documentation and research related to languages which could demonstrate the use of the DCMIType &lt;em&gt;PhysicalObject&lt;/em&gt;. Two cases come to mind: &lt;em&gt;microphones&lt;/em&gt; and &lt;em&gt;recording devices&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Both of these devices may be used for orginal sound and video capture/creation but may also be used in the digitization process.&lt;/p&gt;
+&lt;p&gt;To illustrate how these objects could be used in the OLAC metadata context I present three things. Firs,t I relate them to a description model graphically. I have previously written about describing audio annotations and in that work I presented the following visual diagram.&lt;/p&gt;
+
+
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-audio-transcriptions-illustrated-with-their-dublin-core-relationships&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/dublin-core-dcmitype-physicalobject/transcription_hu4a128525df4cc7f09f7356396c758cc6_119881_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Audio transcriptions illustrated with their Dublin Core relationships.&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/dublin-core-dcmitype-physicalobject/transcription_hu4a128525df4cc7f09f7356396c758cc6_119881_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;A diagram indicating the relationships between language resources.&#34; width=&#34;1013&#34; height=&#34;601&#34; itemprop=&#34;contentUrl&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;p&gt;Audio transcriptions illustrated with their Dublin Core relationships.
+      
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: 
+Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
+        &lt;meta itemprop=&#34;name&#34; content=&#34;Hugh Paterson III&#34; /&gt;
+      &lt;/span&gt;
+&lt;/span&gt;
+&lt;/p&gt;
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;Now this diagram can be extended to include the physical objects used to create that primary orginal audio file.
+
+
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-microphones-and-recorders-illustrated-with-their-dublin-core-relationships&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/dublin-core-dcmitype-physicalobject/Microphone_hu718801aa1d8a67b92ff4aaf14b1c5da4_146248_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Microphones and recorders illustrated with their Dublin Core relationships.&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/dublin-core-dcmitype-physicalobject/Microphone_hu718801aa1d8a67b92ff4aaf14b1c5da4_146248_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;A diagram indicating the relationships between language resources.&#34; width=&#34;1477&#34; height=&#34;976&#34; itemprop=&#34;contentUrl&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;p&gt;Microphones and recorders illustrated with their Dublin Core relationships.
+      
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: 
+Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
+        &lt;meta itemprop=&#34;name&#34; content=&#34;Hugh Paterson III&#34; /&gt;
+      &lt;/span&gt;
+&lt;/span&gt;
+&lt;/p&gt;
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;The relationship between the manifestation record and the record for the physical objects can be expressed through the Dublin Core element &lt;code&gt;source&lt;/code&gt; which is a special type of relationship.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Dublin Core Definition:&lt;/strong&gt; Source&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Dublin Core Definition:&lt;/strong&gt; A reference to a resource from which the present resource is derived.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Dublin Core Comment:&lt;/strong&gt; The present resource may be derived from the source resource in whole or in part&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Second, as shown in the following table, the potentially applicable metadata elments from Dublin Core are explored.&lt;/p&gt;
+&lt;!-- | Microphone Example 	|  	|  	|
+|:---:	|:---:	|:---:	|
+| Dublin Core Element 	| Value 	| Usage Explaination 	|
+| Title 	| Røde M3 	| What is the advertised label?  	|
+| Type 	| Physical Object 	| DCMIType 	|
+| description 	|  	| The description should include: Voltage, Connection, Pickup Pattern, Specifications  	|
+| abstract 	| The M3 highly versatile end-address condenser microphone is designed to excel in a wide variety of recording situations in the studio, on stage or on location. Featuring an internally shock-mounted 1/2-inch condenser capsule, the M3 can either be powered by P48 phantom power or an internal 9V battery. It offers the versatility of a selectable pad (-10dB, -20dB) and high-pass filter (80Hz), making it ideal for recording everything from electric guitar to vocals to drums. 	| A summary of the object. For microphones should include: Voltage, Connection, Pickup Pattern, Specifications 	|
+| accrualMethod 	| Purchase   	| What was the method by which this resource was acquired? 	|
+| provenance 	| Purchased new from B &amp; H Photo in 2010. 	|  	|
+| identifier 	| Paterson #069 	| Local inventory number 	|
+| identifier 	| S/N 0027437 	| Item level serial number; usually the model number is in the title. 	|
+| date 	| 2010 	|  	|
+| available 	| 2001-10-02 	| Date the product came on the market 	|
+| created 	|  	| Date of Manufacture or Creation 	|
+| replaces 	|  	|  	|
+| requires 	|  	|  	|
+| issued 	|  	|  	|
+| conformsTo 	|  	|  	|
+| rightsHolder 	| Hugh Paterson III 	| The entity for which the rights statement applies. 	|
+| rights 	| Owner 	| On an microphone, &#34;ownership&#34; is the most appropriate rights statement in this context. 	|
+| relation 	| Link to General record for all Røde M3 microphones. 	| This is a Token Record (WEMI: Item) and should be linked to a WEMI: Manifestation record a.k.a Type Record 	| --&gt;
+&lt;style type=&#34;text/css&#34;&gt;
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-width:1px;  overflow:hidden;padding:10px 5px;word-break:normal;hyphens: none;}
+.tg th{border-width:1px;  overflow:hidden;padding:10px 5px;word-break:normal;hyphens: none;}
+.tg .tg-ih3h{border-color:inherit;position:-webkit-sticky;position:sticky;text-align:center;top:-1px;vertical-align:top;
+  will-change:transform}
+.tg .tg-0pky{text-align:left;vertical-align:top}
+.tg-a1234{font-weight:bold}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+.tg-sort-header::-moz-selection{background:0 0}
+.tg-sort-header::selection{background:0 0}.tg-sort-header{cursor:pointer}
+.tg-sort-header:after{content:&#39;&#39;;float:right;margin-top:7px;border-width:0 5px 5px;border-style:solid; border-color:#404040 transparent;visibility:hidden}
+.tg-sort-header:hover:after{visibility:visible}
+.tg-sort-asc:after,.tg-sort-asc:hover:after,.tg-sort-desc:after{visibility:visible;opacity:.4}
+.tg-sort-desc:after{border-bottom:none;border-width:5px 5px 0}@media screen and (max-width: 767px) {.tg {width: auto !important;}.tg col {width: auto !important;}.tg-wrap {overflow-x: auto;-webkit-overflow-scrolling: touch;margin: auto 0px;}}&lt;/style&gt;
+&lt;div class=&#34;tg-wrap&#34;&gt;&lt;table id=&#34;tg-oKGeT&#34; class=&#34;tg&#34;&gt;
+&lt;thead&gt;
+  &lt;tr&gt;
+    &lt;th class=&#34;tg-ih3h&#34; colspan=&#34;3&#34;&gt;Microphone Example&lt;/th&gt;
+  &lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+  &lt;tr class=&#34;tg-a1234&#34;&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;Dublin Core Element&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;Value&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;Usage Explaination&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;a href=&#34;https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#http://purl.org/dc/terms/title&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;title&lt;/a&gt;&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;Røde M3&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;What is the advertised label?&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;a href=&#34;https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#http://purl.org/dc/terms/type&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;type&lt;/a&gt;&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;physicalObject&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;DCMIType&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;a href=&#34;https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#http://purl.org/dc/terms/description&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;description&lt;/a&gt;&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;The description should include: Voltage, Connection, Pickup Pattern, Specifications &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;a href=&#34;https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#http://purl.org/dc/terms/abstract&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;abstract&lt;/a&gt;&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;span style=&#34;font-weight:400;font-style:normal&#34;&gt;The M3 highly versatile end-address condenser microphone is designed to excel in a wide variety of recording situations in the studio, on stage or on location. Featuring an internally shock-mounted 1/2-inch condenser capsule, the M3 can either be powered by P48 phantom power or an internal 9V battery. It offers the versatility of a selectable pad (-10dB, -20dB) and high-pass filter (80Hz), making it ideal for recording everything from electric guitar to vocals to drums.&lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;A summary of the object. For microphones should include: Voltage, Connection, Pickup Pattern, Specifications&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;a href=&#34;https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#http://purl.org/dc/terms/accrualMethod&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;accrualMethod&lt;/a&gt;&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;Purchase&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;What was the method by which this resource was acquired? Consider if any of the accrual methods in the &lt;a href=&#34;https://www.dublincore.org/specifications/dublin-core/collection-description/accrual-method/&#34;&gt;Accrual Method Vocabulary&lt;/a&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;a href=&#34;https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#http://purl.org/dc/terms/provenance&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;provenance&lt;/a&gt;&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;span style=&#34;font-weight:400;font-style:normal&#34;&gt;Purchased new from B &amp;amp; H Photo in 2010.&lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&#34;A statement of any changes in ownership and custody of the resource since its creation that are significant for its authenticity, integrity, and interpretation.&#34;  Statements of use need not be included if they are interable from records. For example, I used this mic in Mexico and Nigeria but if I have recordings connected to this mic then those use instances are inferable.&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;a href=&#34;https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#http://purl.org/dc/terms/identifier&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;identifier&lt;/a&gt;&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;Paterson #069&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;Local inventory number&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;a href=&#34;https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#http://purl.org/dc/terms/identifier&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;identifier&lt;/a&gt;&lt;/td&gt;
+    &lt;td class=&#34;tg-0lax&#34;&gt;S/N 0027437&lt;/td&gt;
+    &lt;td class=&#34;tg-0lax&#34;&gt;Item level serial number; usually the model number is in the title.&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;a href=&#34;https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#http://purl.org/dc/terms/date&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;date&lt;/a&gt;&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;2010&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;Date of acquisition or a general date if other more specific dates are not used.&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;a href=&#34;https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#http://purl.org/dc/terms/available&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;available&lt;/a&gt;&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;2001-10-02&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;span style=&#34;font-weight:400;font-style:normal&#34;&gt;Date the product came on the market&lt;/span&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;a href=&#34;https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#http://purl.org/dc/terms/created&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;created&lt;/a&gt;&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;Date of Manufacture or Creation&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;a href=&#34;https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#http://purl.org/dc/terms/replaces&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;replaces&lt;/a&gt;&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;A link to the item this item replaced.&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;a href=&#34;https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#http://purl.org/dc/terms/requires&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;requires&lt;/a&gt;&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;Phantom Power (9 volt battery or 48 volt)&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;What dependencies does this object have for its utility to be acuated? Each requirement should be in its own element.&lt;/td&gt;
+  &lt;/tr&gt;
+&lt;tr&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;a href=&#34;https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#http://purl.org/dc/terms/requires&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;requires&lt;/a&gt;&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;XLR cable&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;What dependencies does this object have for its utility to be acuated?&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;a href=&#34;https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#http://purl.org/dc/terms/issued&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;issued&lt;/a&gt;&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;Date of formal issuance of the resource.&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;a href=&#34;https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#http://purl.org/dc/terms/conformsTo&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;conformsTo&lt;/a&gt;&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;An established standard to which the described resource conforms.&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;a href=&#34;https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#http://purl.org/dc/terms/rightsHolder&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;rightsHolder&lt;/a&gt;&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;Hugh Paterson III&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;The entity for which the rights statement applies.&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;a href=&#34;https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#http://purl.org/dc/terms/rights&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;rights&lt;/a&gt;&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;Owner&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;On an microphone, &#34;ownership&#34; is the most appropriate rights statement in this context.&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;a href=&#34;https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#http://purl.org/dc/terms/relation&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;relation&lt;/a&gt;&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;Link to General record for all Røde M3 microphones.&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;This is a Token Record (WEMI: Item) and should be linked to a WEMI: Manifestation record a.k.a Type Record&lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;&lt;/div&gt;
+&lt;script charset=&#34;utf-8&#34;&gt;var TGSort=window.TGSort||function(n){&#34;use strict&#34;;function r(n){return n?n.length:0}function t(n,t,e,o=0){for(e=r(n);o&lt;e;++o)t(n[o],o)}function e(n){return n.split(&#34;&#34;).reverse().join(&#34;&#34;)}function o(n){var e=n[0];return t(n,function(n){for(;!n.startsWith(e);)e=e.substring(0,r(e)-1)}),r(e)}function u(n,r,e=[]){return t(n,function(n){r(n)&amp;&amp;e.push(n)}),e}var a=parseFloat;function i(n,r){return function(t){var e=&#34;&#34;;return t.replace(n,function(n,t,o){return e=t.replace(r,&#34;&#34;)+&#34;.&#34;+(o||&#34;&#34;).substring(1)}),a(e)}}var s=i(/^(?:\s*)([+-]?(?:\d+)(?:,\d{3})*)(\.\d*)?$/g,/,/g),c=i(/^(?:\s*)([+-]?(?:\d+)(?:\.\d{3})*)(,\d*)?$/g,/\./g);function f(n){var t=a(n);return!isNaN(t)&amp;&amp;r(&#34;&#34;+t)+1&gt;=r(n)?t:NaN}function d(n){var e=[],o=n;return t([f,s,c],function(u){var a=[],i=[];t(n,function(n,r){r=u(n),a.push(r),r||i.push(n)}),r(i)&lt;r(o)&amp;&amp;(o=i,e=a)}),r(u(o,function(n){return n==o[0]}))==r(o)?e:[]}function v(n){if(&#34;TABLE&#34;==n.nodeName){for(var a=function(r){var e,o,u=[],a=[];return function n(r,e){e(r),t(r.childNodes,function(r){n(r,e)})}(n,function(n){&#34;TR&#34;==(o=n.nodeName)?(e=[],u.push(e),a.push(n)):&#34;TD&#34;!=o&amp;&amp;&#34;TH&#34;!=o||e.push(n)}),[u,a]}(),i=a[0],s=a[1],c=r(i),f=c&gt;1&amp;&amp;r(i[0])&lt;r(i[1])?1:0,v=f+1,p=i[f],h=r(p),l=[],g=[],N=[],m=v;m&lt;c;++m){for(var T=0;T&lt;h;++T){r(g)&lt;h&amp;&amp;g.push([]);var C=i[m][T],L=C.textContent||C.innerText||&#34;&#34;;g[T].push(L.trim())}N.push(m-v)}t(p,function(n,t){l[t]=0;var a=n.classList;a.add(&#34;tg-sort-header&#34;),n.addEventListener(&#34;click&#34;,function(){var n=l[t];!function(){for(var n=0;n&lt;h;++n){var r=p[n].classList;r.remove(&#34;tg-sort-asc&#34;),r.remove(&#34;tg-sort-desc&#34;),l[n]=0}}(),(n=1==n?-1:+!n)&amp;&amp;a.add(n&gt;0?&#34;tg-sort-asc&#34;:&#34;tg-sort-desc&#34;),l[t]=n;var i,f=g[t],m=function(r,t){return n*f[r].localeCompare(f[t])||n*(r-t)},T=function(n){var t=d(n);if(!r(t)){var u=o(n),a=o(n.map(e));t=d(n.map(function(n){return n.substring(u,r(n)-a)}))}return t}(f);(r(T)||r(T=r(u(i=f.map(Date.parse),isNaN))?[]:i))&amp;&amp;(m=function(r,t){var e=T[r],o=T[t],u=isNaN(e),a=isNaN(o);return u&amp;&amp;a?0:u?-n:a?n:e&gt;o?n:e&lt;o?-n:n*(r-t)});var C,L=N.slice();L.sort(m);for(var E=v;E&lt;c;++E)(C=s[E].parentNode).removeChild(s[E]);for(E=v;E&lt;c;++E)C.appendChild(s[v+L[E-v]])})})}}n.addEventListener(&#34;DOMContentLoaded&#34;,function(){for(var t=n.getElementsByClassName(&#34;tg&#34;),e=0;e&lt;r(t);++e)try{v(t[e])}catch(n){}})}(document)&lt;/script&gt;
+&lt;p&gt;Third, I have included the following OLAC record in XML to show how it might be encoded.&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-XML&#34;&gt;&amp;lt;olac:olac&amp;gt;
+  &amp;lt;dcterms:title xml:lang=&amp;quot;en&amp;quot;&amp;gt;Røde M3&amp;lt;/dcterms:title&amp;gt;
+  &amp;lt;dcterms:identifier&amp;gt;Item&amp;lt;/dcterms:identifier&amp;gt;
+  &amp;lt;dcterms:identifier&amp;gt;Paterson #069&amp;lt;/dcterms:identifier&amp;gt;
+  &amp;lt;dcterms:identifier&amp;gt;S/N 0027437&amp;lt;/dcterms:identifier&amp;gt;
+  &amp;lt;dcterms:identifier  xsi:type=&amp;quot;dcterms:URI&amp;quot;&amp;gt;https://rode.com/en-us/microphones/live/m3&amp;lt;/dcterms:identifier&amp;gt;
+  &amp;lt;dcterms:type xsi:type=&amp;quot;dcmitype:DCMIType&amp;quot;&amp;gt;physicalObject&amp;lt;/dcterms:type&amp;gt;
+  &amp;lt;dcterms:provenance&amp;gt;Purchased new from B &amp;amp; H Photo in 2010.&amp;lt;/dcterms:provenance&amp;gt;
+  &amp;lt;dcterms:date xsi:type=&amp;quot;dcterms:W3CDTF&amp;quot;&amp;gt;2010&amp;lt;/dcterms:date&amp;gt;
+  &amp;lt;dcterms:rightsHolder&amp;gt;Hugh Paterson III&amp;lt;/dcterms:rightsHolder&amp;gt;
+  &amp;lt;dcterms:rights&amp;gt;Ownership&amp;lt;/dcterms:rights&amp;gt;
+  &amp;lt;dcterms:requires&amp;gt;XLR Cable&amp;lt;/dcterms:requires&amp;gt;
+  &amp;lt;dcterms:requires&amp;gt;Phantom Power (9 volt battery or 48 volt)&amp;lt;/dcterms:requires&amp;gt;
+  &amp;lt;dcterms:abstract&amp;gt;The M3 highly versatile end-address condenser microphone is designed to excel in a wide variety of recording situations in the studio, on stage or on location. Featuring an internally shock-mounted 1/2-inch condenser capsule, the M3 can either be powered by P48 phantom power or an internal 9V battery. It offers the versatility of a selectable pad (-10dB, -20dB) and high-pass filter (80Hz), making it ideal for recording everything from electric guitar to vocals to drums.&amp;lt;/dcterms:abstract&amp;gt;
+  &amp;lt;dcterms:accrualMethod&amp;gt;Purchase&amp;lt;/dcterms:accrualMethod&amp;gt;
+  &amp;lt;dcterms:available xsi:type=&amp;quot;dcterms:W3CDTF&amp;quot;&amp;gt;2001-10-02&amp;lt;/dcterms:available&amp;gt;
+&amp;lt;/olac:olac&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Several of the items in the following may fit into a format element.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Acoustic Principle&lt;/th&gt;
+&lt;th&gt;Pressure gradient&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Active Electronics&lt;/td&gt;
+&lt;td&gt;JFET impedance converter with bipolar output buffer&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Capsule&lt;/td&gt;
+&lt;td&gt;0.50&amp;rdquo;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Address Type&lt;/td&gt;
+&lt;td&gt;End&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Frequency Range&lt;/td&gt;
+&lt;td&gt;40Hz - 20kHz (selectable high-pass filter @ 80Hz)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Output Impedance&lt;/td&gt;
+&lt;td&gt;200Ω&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Maximum SPL&lt;/td&gt;
+&lt;td&gt;142dB SPL&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Maximum Output Level&lt;/td&gt;
+&lt;td&gt;9.2mV (@ 1kHz, 1% THD into 1KΩ load)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Sensitivity&lt;/td&gt;
+&lt;td&gt;-40.0dB re 1 Volt/Pascal (6.30mV @ 94 dB SPL) +/- 2 dB @ 1kHz&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Equivalent Noise Level (A-Weighted)&lt;/td&gt;
+&lt;td&gt;21dBA&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Output Connection&lt;/td&gt;
+&lt;td&gt;XLR&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Power Requirements&lt;/td&gt;
+&lt;td&gt;9V battery, P24 or P48&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Mechanical Specifications&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Dimensions (mm)&lt;/td&gt;
+&lt;td&gt;Height: 225&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Width: 33&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Depth: 33&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Weight (g) :390&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;For brevity I have not included what a recordering device record might look like. Presumably it would be similar to a microphone record.&lt;/p&gt;
+&lt;h2 id=&#34;bibliography&#34;&gt;Bibliography&lt;/h2&gt;
+
+  
+
+  
+
+
+
+
+
+
+
+
+
+
+&lt;section class=&#34;hugo-cite-bibliography&#34;&gt;
+  &lt;dl&gt;
+    
+
+      &lt;div id=&#34;alpaslan-roodenberg_ethics_2021&#34;&gt;
+        &lt;dt&gt;
+          Alpaslan-Roodenberg,&amp;#32;
+          Anthony,&amp;#32;
+          Babiker,&amp;#32;
+          Bánffy,&amp;#32;
+          Booth,&amp;#32;
+          Capone,&amp;#32;
+          Deshpande-Mukherjee,&amp;#32;
+          Eisenmann,&amp;#32;
+          Fehren-Schmitz,&amp;#32;
+          Frachetti,&amp;#32;
+          Fujita,&amp;#32;
+          Frieman,&amp;#32;
+          Fu,&amp;#32;
+          Gibbon,&amp;#32;
+          Haak,&amp;#32;
+          Hajdinjak,&amp;#32;
+          Hofmann,&amp;#32;
+          Holguin,&amp;#32;
+          Inomata,&amp;#32;
+          Kanzawa-Kiriyama,&amp;#32;
+          Keegan,&amp;#32;
+          Kelso,&amp;#32;
+          Krause,&amp;#32;
+          Kumaresan,&amp;#32;
+          Kusimba,&amp;#32;
+          Kusimba,&amp;#32;
+          Lalueza-Fox,&amp;#32;
+          Llamas,&amp;#32;
+          MacEachern,&amp;#32;
+          Mallick,&amp;#32;
+          Matsumura,&amp;#32;
+          Morales-Arce,&amp;#32;
+          Matuzeviciute,&amp;#32;
+          Mushrif-Tripathy,&amp;#32;
+          Nakatsuka,&amp;#32;
+          Nores,&amp;#32;
+          Ogola,&amp;#32;
+          Okumura,&amp;#32;
+          Patterson,&amp;#32;
+          Pinhasi,&amp;#32;
+          Prasad,&amp;#32;
+          Prendergast,&amp;#32;
+          Punzo,&amp;#32;
+          Reich,&amp;#32;
+          Sawafuji,&amp;#32;
+          Sawchuk,&amp;#32;
+          Schiffels,&amp;#32;
+          Sedig,&amp;#32;
+          Shnaider,&amp;#32;
+          Sirak,&amp;#32;
+          Skoglund,&amp;#32;
+          Slon,&amp;#32;
+          Snow,&amp;#32;
+          Soressi,&amp;#32;
+          Spriggs,&amp;#32;
+          Stockhammer,&amp;#32;
+          Szécsényi-Nagy,&amp;#32;
+          Thangaraj,&amp;#32;
+          Tiesler,&amp;#32;
+          Tobler,&amp;#32;
+          Wang,&amp;#32;
+          Warinner,&amp;#32;
+          Yasawardene&amp;#32;&amp;amp;&amp;#32;Zahir
+
+          
+          (2021)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Alpaslan-Roodenberg&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Songül&#34; /&gt;
+    S.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Anthony&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;David&#34; /&gt;
+    D.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Babiker&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Hiba&#34; /&gt;
+    H.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Bánffy&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Eszter&#34; /&gt;
+    E.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Booth&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Thomas&#34; /&gt;
+    T.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Capone&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Patricia&#34; /&gt;
+    P.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Deshpande-Mukherjee&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Arati&#34; /&gt;
+    A.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Eisenmann&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Stefanie&#34; /&gt;
+    S.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Fehren-Schmitz&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Lars&#34; /&gt;
+    L.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Frachetti&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Michael&#34; /&gt;
+    M.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Fujita&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Ricardo&#34; /&gt;
+    R.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Frieman&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Catherine J.&#34; /&gt;
+    C.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Fu&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Qiaomei&#34; /&gt;
+    Q.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Gibbon&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Victoria&#34; /&gt;
+    V.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Haak&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Wolfgang&#34; /&gt;
+    W.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Hajdinjak&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Mateja&#34; /&gt;
+    M.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Hofmann&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Kerstin P.&#34; /&gt;
+    K.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Holguin&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Brian&#34; /&gt;
+    B.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Inomata&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Takeshi&#34; /&gt;
+    T.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Kanzawa-Kiriyama&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Hideaki&#34; /&gt;
+    H.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Keegan&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;William&#34; /&gt;
+    W.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Kelso&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Janet&#34; /&gt;
+    J.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Krause&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Johannes&#34; /&gt;
+    J.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Kumaresan&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Ganesan&#34; /&gt;
+    G.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Kusimba&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Chapurukha&#34; /&gt;
+    C.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Kusimba&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Sibel&#34; /&gt;
+    S.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Lalueza-Fox&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Carles&#34; /&gt;
+    C.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Llamas&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Bastien&#34; /&gt;
+    B.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;MacEachern&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Scott&#34; /&gt;
+    S.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Mallick&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Swapan&#34; /&gt;
+    S.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Matsumura&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Hirofumi&#34; /&gt;
+    H.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Morales-Arce&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Ana Y.&#34; /&gt;
+    A.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Matuzeviciute&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Giedre Motuzaite&#34; /&gt;
+    G.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Mushrif-Tripathy&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Veena&#34; /&gt;
+    V.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Nakatsuka&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Nathan&#34; /&gt;
+    N.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Nores&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Rodrigo&#34; /&gt;
+    R.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Ogola&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Christine&#34; /&gt;
+    C.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Okumura&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Mercedes&#34; /&gt;
+    M.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Patterson&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Nick&#34; /&gt;
+    N.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Pinhasi&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Ron&#34; /&gt;
+    R.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Prasad&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Samayamantri P. R.&#34; /&gt;
+    S.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Prendergast&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Mary E.&#34; /&gt;
+    M.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Punzo&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Jose Luis&#34; /&gt;
+    J.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Reich&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;David&#34; /&gt;
+    D.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Sawafuji&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Rikai&#34; /&gt;
+    R.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Sawchuk&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Elizabeth&#34; /&gt;
+    E.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Schiffels&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Stephan&#34; /&gt;
+    S.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Sedig&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Jakob&#34; /&gt;
+    J.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Shnaider&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Svetlana&#34; /&gt;
+    S.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Sirak&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Kendra&#34; /&gt;
+    K.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Skoglund&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Pontus&#34; /&gt;
+    P.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Slon&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Viviane&#34; /&gt;
+    V.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Snow&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Meradeth&#34; /&gt;
+    M.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Soressi&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Marie&#34; /&gt;
+    M.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Spriggs&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Matthew&#34; /&gt;
+    M.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Stockhammer&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Philipp W.&#34; /&gt;
+    P.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Szécsényi-Nagy&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Anna&#34; /&gt;
+    A.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Thangaraj&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Kumarasamy&#34; /&gt;
+    K.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Tiesler&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Vera&#34; /&gt;
+    V.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Tobler&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Ray&#34; /&gt;
+    R.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Wang&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Chuan-Chao&#34; /&gt;
+    C.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Warinner&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Christina&#34; /&gt;
+    C.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Yasawardene&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Surangi&#34; /&gt;
+    S.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Zahir&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Muhammad&#34; /&gt;
+    M.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2021&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;Ethics of DNA research on human remains: five globally applicable guidelines&lt;/span&gt;.&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;Nature&lt;/span&gt;,&amp;#32;599(7883)&lt;/i&gt;.&amp;#32;&lt;span itemprop=&#34;pagination&#34;&gt;41–46&lt;/span&gt;.
+  &lt;a href=&#34;https://doi.org/10.1038/s41586-021-04008-x&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://doi.org/10.1038/s41586-021-04008-x&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;baskauf_darwin-sw_2016&#34;&gt;
+        &lt;dt&gt;
+          Baskauf&amp;#32;&amp;amp;&amp;#32;Webb
+
+          
+          (2016)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Baskauf&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Steven&#34; /&gt;
+    S.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Webb&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Campbell&#34; /&gt;
+    C.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2016&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;Darwin-SW: Darwin Core-based terms for expressing biodiversity data as RDF&lt;/span&gt;.&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;Semantic Web&lt;/span&gt;,&amp;#32;7(6)&lt;/i&gt;.&amp;#32;&lt;span itemprop=&#34;pagination&#34;&gt;629–643&lt;/span&gt;.
+  &lt;a href=&#34;https://doi.org/10.3233/SW-150203&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://doi.org/10.3233/SW-150203&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;baskauf_lessons_2016-1&#34;&gt;
+        &lt;dt&gt;
+          Baskauf,&amp;#32;
+          Wieczorek,&amp;#32;
+          Deck&amp;#32;&amp;amp;&amp;#32;Webb
+
+          
+          (2016)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Baskauf&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Steven J.&#34; /&gt;
+    S.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Wieczorek&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;John&#34; /&gt;
+    J.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Deck&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;John&#34; /&gt;
+    J.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Webb&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Campbell O.&#34; /&gt;
+    C.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2016&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;Lessons learned from adapting the Darwin Core vocabulary standard for use in RDF&lt;/span&gt;.
+  &amp;#32;In&amp;#32;&lt;span itemprop=&#34;editor&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Hitzler&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Pascal&#34; /&gt;
+    P.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;editor&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Janowicz&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Krzysztof&#34; /&gt;
+    K.&lt;/span&gt; (Eds.),&amp;#32;&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;Semantic Web&lt;/span&gt;,&amp;#32;7(6)&lt;/i&gt;.&amp;#32;&lt;span itemprop=&#34;pagination&#34;&gt;617–627&lt;/span&gt;.
+  &lt;a href=&#34;https://doi.org/10.3233/SW-150199&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://doi.org/10.3233/SW-150199&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;bird_building_2004-1&#34;&gt;
+        &lt;dt&gt;
+          Bird&amp;#32;&amp;amp;&amp;#32;Simons
+
+          
+          (2004)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Chapter&#34;
+      data-type=&#34;chapter&#34;&gt;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Bird&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Steven&#34; /&gt;
+    S.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Simons&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Gary F.&#34; /&gt;
+    G.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2004&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;Building an Open Language Archives Community on the DC Foundation&lt;/span&gt;.&amp;#32;In&amp;#32;&lt;span itemprop=&#34;editor&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Hillmann&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Diane&#34; /&gt;
+    D.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;editor&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Westbrooks&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Elaine L.&#34; /&gt;
+    E.&lt;/span&gt; (Eds.),&amp;#32;&lt;span itemprop=&#34;about&#34;&gt;
+    &lt;i&gt;Metadata in practice&lt;/i&gt;&lt;/span&gt;..
+  &lt;meta itemprop=&#34;contentLocation&#34;
+        value=&#34;Chicago&#34;&gt;&amp;#32;&lt;span itemprop=&#34;publisher&#34;
+               itemtype=&#34;http://schema.org/Organization&#34;
+               itemscope=&#34;&#34;&gt;
+      &lt;span itemprop=&#34;name&#34;&gt;American Library Association&lt;/span&gt;&lt;/span&gt;.&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;cox_why_2021&#34;&gt;
+        &lt;dt&gt;
+          Cox
+
+          
+          (2021)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/CreativeWork&#34;
+      data-type=&#34;post&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Cox&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Simon&#34; /&gt;
+    S.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2021&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;
+    &lt;i&gt;Why is dctype:PhysicalObject &amp;lsquo;inanimate&amp;rsquo;?&lt;/i&gt;&lt;/span&gt;.
+  &amp;#32;Retrieved from&amp;#32;
+  &lt;a href=&#34;https://github.com/dcmi/usage/issues/101&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://github.com/dcmi/usage/issues/101&lt;/a&gt;&lt;/span&gt;
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;darian-smith_bones_2015&#34;&gt;
+        &lt;dt&gt;
+          Thomas
+
+          
+          (2015)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Chapter&#34;
+      data-type=&#34;chapter&#34;&gt;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Thomas&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Martin&#34; /&gt;
+    M.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2015&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;Bones as a Bridge between Worlds: Responding with Ceremony to the Repatriation of Aboriginal Human Remains from the United States to Australia&lt;/span&gt;.&amp;#32;In&amp;#32;&lt;span itemprop=&#34;editor&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Darian-Smith&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Kate&#34; /&gt;
+    K.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;editor&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Edmonds&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Penelope&#34; /&gt;
+    P.&lt;/span&gt; (Eds.),&amp;#32;&lt;span itemprop=&#34;about&#34;&gt;
+    &lt;i&gt;Conciliation on colonial frontiers: conflict, performance, and commemoration in Australia and the Pacific Rim&lt;/i&gt;&lt;/span&gt;..
+  &lt;meta itemprop=&#34;contentLocation&#34;
+        value=&#34;New York&#34;&gt;&amp;#32;&lt;span itemprop=&#34;publisher&#34;
+               itemtype=&#34;http://schema.org/Organization&#34;
+               itemscope=&#34;&#34;&gt;
+      &lt;span itemprop=&#34;name&#34;&gt;Routledge&lt;/span&gt;&lt;/span&gt;.&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;endresen_darwin_2012&#34;&gt;
+        &lt;dt&gt;
+          Endresen&amp;#32;&amp;amp;&amp;#32;Knüpffer
+
+          
+          (2012)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Endresen&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Dag Terje Filip&#34; /&gt;
+    D.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Knüpffer&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Helmut&#34; /&gt;
+    H.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2012&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;The Darwin Core Extension for Genebanks Opens up New Opportunities for Sharing Genebank Datasets&lt;/span&gt;.&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;Biodiversity Informatics&lt;/span&gt;,&amp;#32;8(1)&lt;/i&gt;.
+  &lt;a href=&#34;https://doi.org/10.17161/bi.v8i1.4095&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://doi.org/10.17161/bi.v8i1.4095&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;guenther_dublin_1999&#34;&gt;
+        &lt;dt&gt;
+          Guenther
+
+          
+          (1999)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Book&#34;
+      data-type=&#34;book&#34;&gt;&lt;span itemprop=&#34;editor&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Guenther&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Rebecca&#34; /&gt;
+    R.&lt;/span&gt;&amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;1999&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;
+    &lt;i&gt;Dublin Core Resource Types list&lt;/i&gt;&lt;/span&gt;.
+  &lt;meta itemprop=&#34;locationCreated&#34;
+        value=&#34;Washington, D.C&#34;&gt;&amp;#32;
+  &lt;span itemprop=&#34;publisher&#34;
+             itemtype=&#34;http://schema.org/Organization&#34;
+             itemscope&gt;
+    &lt;span itemprop=&#34;name&#34;&gt;Library of Congress&lt;/span&gt;&lt;/span&gt;.&amp;#32;Retrieved from&amp;#32;
+  &lt;a href=&#34;https://www.loc.gov/marc/dc/typelist-19991118.html&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://www.loc.gov/marc/dc/typelist-19991118.html&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;ostermaier_creating_2008&#34;&gt;
+        &lt;dt&gt;
+          Ostermaier&amp;#32;&amp;amp;&amp;#32;Bolliger
+
+          
+          (2008)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/CreativeWork&#34;
+      data-type=&#34;paper-conference&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Ostermaier&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Benedikt&#34; /&gt;
+    B.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Bolliger&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Philipp&#34; /&gt;
+    P.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2008&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;
+    &lt;i&gt;Creating Location-Based Services by Utilising a Web of Places&lt;/i&gt;&lt;/span&gt;.
+  &lt;meta itemprop=&#34;contentLocation&#34;
+        content=&#34;Turku, Finland&#34;&gt;&amp;#32;
+  &lt;span itemprop=&#34;publisher&#34; itemtype=&#34;http://schema.org/Organization&#34; itemscope=&#34;&#34;&gt;
+    &lt;span itemprop=&#34;name&#34;&gt;IEEE Computer Society&lt;/span&gt;&lt;/span&gt;.
+  &lt;a href=&#34;https://doi.org/10.1109/SAINT.2008.49&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://doi.org/10.1109/SAINT.2008.49&lt;/a&gt;&lt;/span&gt;
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;ousley_federal_2005&#34;&gt;
+        &lt;dt&gt;
+          Ousley,&amp;#32;
+          Billeck&amp;#32;&amp;amp;&amp;#32;Hollinger
+
+          
+          (2005)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Ousley&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Stephen D.&#34; /&gt;
+    S.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Billeck&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;William T.&#34; /&gt;
+    W.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Hollinger&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;R. Eric&#34; /&gt;
+    R.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2005&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;Federal Repatriation Legislation and the Role of Physical Anthropology in Repatriation&lt;/span&gt;.&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;American Journal of Physical Anthropology&lt;/span&gt;,&amp;#32;128(S41)&lt;/i&gt;.&amp;#32;&lt;span itemprop=&#34;pagination&#34;&gt;2–32&lt;/span&gt;.
+  &lt;a href=&#34;https://doi.org/10.1002/ajpa.20354&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://doi.org/10.1002/ajpa.20354&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;paterson_iii_dcmitype_2022&#34;&gt;
+        &lt;dt&gt;
+          Paterson III
+
+          
+          (2022)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/CreativeWork&#34;
+      data-type=&#34;post&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Paterson III&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Hugh J&#34; /&gt;
+    H.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2022&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;
+    &lt;i&gt;DCMIType PhysicalObject&lt;/i&gt;&lt;/span&gt;.
+  &amp;#32;Retrieved from&amp;#32;
+  &lt;a href=&#34;https://github.com/dcmi/usage/issues/117&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://github.com/dcmi/usage/issues/117&lt;/a&gt;&lt;/span&gt;
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;paterson_iii_olac_2022&#34;&gt;
+        &lt;dt&gt;
+          Paterson III
+
+          
+          (2022)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/CreativeWork&#34;
+      data-type=&#34;paper-conference&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Paterson III&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Hugh J&#34; /&gt;
+    H.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2022&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;
+    &lt;i&gt;An OLAC Perspective on Services: The Forgotten Language Resources&lt;/i&gt;&lt;/span&gt;.
+  &lt;meta itemprop=&#34;contentLocation&#34;
+        content=&#34;Online&#34;&gt;&amp;#32;
+  &lt;span itemprop=&#34;publisher&#34; itemtype=&#34;http://schema.org/Organization&#34; itemscope=&#34;&#34;&gt;
+    &lt;span itemprop=&#34;name&#34;&gt;Dublin Core Metadata Initiative&lt;/span&gt;&lt;/span&gt;.&amp;#32;Retrieved from&amp;#32;
+  &lt;a href=&#34;https://hughandbecky.us/Hugh-CV/talk/2022-services-the-forgotten-language-resources/DC_2022_Conference_Paper_Paterson_Revisions_pre-print.pdf&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://hughandbecky.us/Hugh-CV/talk/2022-services-the-forgotten-language-resources/DC_2022_Conference_Paper_Paterson_Revisions_pre-print.pdf&lt;/a&gt;&lt;/span&gt;
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;paterson_iii_where_2022&#34;&gt;
+        &lt;dt&gt;
+          Paterson III
+
+          
+          (2022)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/CreativeWork&#34;
+      data-type=&#34;paper-conference&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Paterson III&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Hugh J&#34; /&gt;
+    H.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2022&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;
+    &lt;i&gt;Where Have All the Collections Gone?: Analysis of OLAC Data Contributors&amp;rsquo; use of DCMIType &amp;lsquo;Collection&amp;rsquo;&lt;/i&gt;&lt;/span&gt;.
+  &lt;meta itemprop=&#34;contentLocation&#34;
+        content=&#34;Chicago, IL&#34;&gt;&amp;#32;
+  &lt;span itemprop=&#34;publisher&#34; itemtype=&#34;http://schema.org/Organization&#34; itemscope=&#34;&#34;&gt;
+    &lt;span itemprop=&#34;name&#34;&gt;Society of American Archivists&lt;/span&gt;&lt;/span&gt;.&amp;#32;Retrieved from&amp;#32;
+  &lt;a href=&#34;https://www2.archivists.org/am2021/research-forum-2021/agenda#peer&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://www2.archivists.org/am2021/research-forum-2021/agenda#peer&lt;/a&gt;&lt;/span&gt;
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;watson_repatriation_2003&#34;&gt;
+        &lt;dt&gt;
+          Watson
+
+          
+          (2003)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Watson&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Nicole&#34; /&gt;
+    N.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2003&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;The Repatriation of Indigenous Remains in the United States of America and Australia: A Comparative Analysis&lt;/span&gt;.&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;Australian Indigenous Law Reporter&lt;/span&gt;,&amp;#32;8(1)&lt;/i&gt;.&amp;#32;&lt;span itemprop=&#34;pagination&#34;&gt;33–44&lt;/span&gt;.&amp;#32;Retrieved from&amp;#32;
+  &lt;a href=&#34;https://www.jstor.org/stable/26479533&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://www.jstor.org/stable/26479533&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+  &lt;/dl&gt;
+&lt;/section&gt;
+
+
+
+&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;see also: &lt;a href=&#34;http://purl.org/dc/terms/coverage&#34;&gt;http://purl.org/dc/terms/coverage&lt;/a&gt; &lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/section&gt;
+</description>
+    </item>
     
     <item>
       <title>Dublin Core DCMIType Chooser</title>
