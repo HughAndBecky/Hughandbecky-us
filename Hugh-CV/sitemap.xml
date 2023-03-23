@@ -268,12 +268,57 @@
   </url>
   
   <url>
-    <loc>https://hughandbecky.us/Hugh-CV/tag/metadata/</loc>
-    <lastmod>2023-03-02T17:00:12-07:00</lastmod>
+    <loc>https://hughandbecky.us/Hugh-CV/tag/dcmitype/</loc>
+    <lastmod>2023-03-19T14:35:45+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hughandbecky.us/Hugh-CV/tag/digital-audio-recorder/</loc>
+    <lastmod>2023-03-19T14:35:45+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hughandbecky.us/Hugh-CV/tag/dublin-core/</loc>
+    <lastmod>2023-03-19T14:35:45+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hughandbecky.us/Hugh-CV/post/dublin-core-dcmitype-physicalobject/</loc>
+    <lastmod>2023-03-19T14:35:45+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hughandbecky.us/Hugh-CV/tag/microphone/</loc>
+    <lastmod>2023-03-19T14:35:45+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://hughandbecky.us/Hugh-CV/tag/olac/</loc>
+    <lastmod>2023-03-19T14:35:45+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hughandbecky.us/Hugh-CV/tag/physical-object/</loc>
+    <lastmod>2023-03-19T14:35:45+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hughandbecky.us/Hugh-CV/post/</loc>
+    <lastmod>2023-03-19T14:35:45+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hughandbecky.us/Hugh-CV/category/research-note/</loc>
+    <lastmod>2023-03-19T14:35:45+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hughandbecky.us/Hugh-CV/tag/xml/</loc>
+    <lastmod>2023-03-19T14:35:45+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hughandbecky.us/Hugh-CV/tag/metadata/</loc>
     <lastmod>2023-03-02T17:00:12-07:00</lastmod>
   </url>
   
@@ -328,11 +373,6 @@
   </url>
   
   <url>
-    <loc>https://hughandbecky.us/Hugh-CV/tag/dublin-core/</loc>
-    <lastmod>2023-01-27T14:35:45+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://hughandbecky.us/Hugh-CV/category/jot/</loc>
     <lastmod>2023-01-27T14:35:45+01:00</lastmod>
   </url>
@@ -344,11 +384,6 @@
   
   <url>
     <loc>https://hughandbecky.us/Hugh-CV/post/listings-latex/</loc>
-    <lastmod>2023-01-27T14:35:45+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hughandbecky.us/Hugh-CV/post/</loc>
     <lastmod>2023-01-27T14:35:45+01:00</lastmod>
   </url>
   
@@ -388,17 +423,7 @@
   </url>
   
   <url>
-    <loc>https://hughandbecky.us/Hugh-CV/tag/dcmitype/</loc>
-    <lastmod>2022-12-15T14:35:45+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://hughandbecky.us/Hugh-CV/post/dublin-core-dcmitype/</loc>
-    <lastmod>2022-12-15T14:35:45+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hughandbecky.us/Hugh-CV/tag/xml/</loc>
     <lastmod>2022-12-15T14:35:45+01:00</lastmod>
   </url>
   
@@ -504,11 +529,6 @@
   
   <url>
     <loc>https://hughandbecky.us/Hugh-CV/post/olac-translations/</loc>
-    <lastmod>2022-11-30T14:35:45+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hughandbecky.us/Hugh-CV/category/research-note/</loc>
     <lastmod>2022-11-30T14:35:45+01:00</lastmod>
   </url>
   
@@ -2653,12 +2673,27 @@
   </url>
   
   <url>
+    <loc>https://hughandbecky.us/Hugh-CV/locations/niger/</loc>
+    <lastmod>2017-07-29T14:35:45+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://hughandbecky.us/Hugh-CV/post/nigerian-snake/</loc>
     <lastmod>2017-07-29T14:35:45+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://hughandbecky.us/Hugh-CV/tag/snake/</loc>
+    <lastmod>2017-07-29T14:35:45+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hughandbecky.us/Hugh-CV/content_types/stillimage/</loc>
+    <lastmod>2017-07-29T14:35:45+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hughandbecky.us/Hugh-CV/cities/tungan-magajiya/</loc>
     <lastmod>2017-07-29T14:35:45+01:00</lastmod>
   </url>
   
@@ -2723,6 +2758,11 @@
   </url>
   
   <url>
+    <loc>https://hughandbecky.us/Hugh-CV/tag/migration/</loc>
+    <lastmod>2016-08-27T18:20:45+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://hughandbecky.us/Hugh-CV/tag/indexing/</loc>
     <lastmod>2016-05-23T00:00:00+00:00</lastmod>
   </url>
@@ -2774,6 +2814,11 @@
   
   <url>
     <loc>https://hughandbecky.us/Hugh-CV/tag/orthographies/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hughandbecky.us/Hugh-CV/category/resource-discovery/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
@@ -3143,6 +3188,36 @@
   </url>
   
   <url>
+    <loc>https://hughandbecky.us/Hugh-CV/tag/gesture/</loc>
+    <lastmod>2013-10-11T14:35:45+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hughandbecky.us/Hugh-CV/tag/hand-signals/</loc>
+    <lastmod>2013-10-11T14:35:45+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hughandbecky.us/Hugh-CV/category/language-data-note/</loc>
+    <lastmod>2013-10-11T14:35:45+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hughandbecky.us/Hugh-CV/content_types/movingimage/</loc>
+    <lastmod>2013-10-11T14:35:45+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hughandbecky.us/Hugh-CV/tag/northwest-nigeria/</loc>
+    <lastmod>2013-10-11T14:35:45+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hughandbecky.us/Hugh-CV/post/some-gesture-wordlists-from-northwest-nigeria/</loc>
+    <lastmod>2013-10-11T14:35:45+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://hughandbecky.us/Hugh-CV/tag/command-line/</loc>
     <lastmod>2013-07-13T14:35:45+01:00</lastmod>
   </url>
@@ -3158,7 +3233,22 @@
   </url>
   
   <url>
+    <loc>https://hughandbecky.us/Hugh-CV/institutions/language-and-culture-archive/</loc>
+    <lastmod>2013-05-23T14:35:45+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://hughandbecky.us/Hugh-CV/tag/network-graphs/</loc>
+    <lastmod>2013-05-23T14:35:45+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hughandbecky.us/Hugh-CV/written_from/oregon/</loc>
+    <lastmod>2013-05-23T14:35:45+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hughandbecky.us/Hugh-CV/tag/workflow-managment/</loc>
     <lastmod>2013-05-23T14:35:45+01:00</lastmod>
   </url>
   
@@ -3450,11 +3540,6 @@
   <url>
     <loc>https://hughandbecky.us/Hugh-CV/category/user-experience/</loc>
     <lastmod>2012-03-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hughandbecky.us/Hugh-CV/institutions/language-and-culture-archive/</loc>
-    <lastmod>2012-02-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>

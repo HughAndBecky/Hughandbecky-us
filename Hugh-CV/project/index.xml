@@ -1105,7 +1105,10 @@ A document describing how we are approaching the annotated Bibliography.
       <link>https://hughandbecky.us/Hugh-CV/project/2016-awesome-list/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       <guid>https://hughandbecky.us/Hugh-CV/project/2016-awesome-list/</guid>
-      <description>&lt;p&gt;Head over to Github everything is over there.&lt;/p&gt;
+      <description>&lt;p&gt;There is no centralized list of open-source code that would be useful for documenting, conserving, developing, preserving, or working with endangered languages. According to some estimates, half of the approximatly 7,000 currently spoken languages are expected to become extinct this century. However, there is a lot of work by academics, independent scholars, organizations, communities, and individuals which goes towards stopping or slowing this trend. This list is intended to provide a central location to document those software efforts.&lt;/p&gt;
+&lt;p&gt;A white paper describing the linked repository was published at the LREC 2016 CCURL Workshop (Collaboration and Computing for Under-Resourced Languages). Head over to 
+&lt;a href=&#34;https://github.com/LowResourceLanguages/endangered-languages&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Github&lt;/a&gt; everything is over there.&lt;/p&gt;
+&lt;p&gt;Over the last several years we have watched the growth of the specific awesome-list tool. We notice that it hasn&amp;rsquo;t nearly been forked as much as we would like. We also notice that it hasn&amp;rsquo;t grown at a rate equivlent to that of software development. We think there is still room for improvement in the discovery and re-use of software to serve small-under-resourced language communities.&lt;/p&gt;
 </description>
     </item>
     
