@@ -977,11 +977,11 @@
 
 
 </span></span>
-  include:</p>
+ include:</p>
 <blockquote>
 <p><strong>Proposal version 1999:</strong> a non-human object or substance. This category includes objects that do not fit into any of the other categories on this list. In addition these objects must be approached physically to make use of them. For example - a computer, the great pyramid, a sculpture, wheat. Note that digital representations of, or surrogates for, these things should use image, text or one of the other types.</p>
 </blockquote>
-<p>One advantage of the proposal version over the current version is that it makes the application of the type value clearer. For example in 
+<p>One advantage of the 1999 proposal version over the current version is that it makes the application of the type value clearer. For example, in 
 
 
 
@@ -1022,11 +1022,11 @@
 </span></span>
  I asked the following:</p>
 <blockquote>
-<p>I am wondering can I get some clarity on the use of DCMIType <code>PhysicalObject</code>.
+<p>I am wondering can I get some clarity on the use of DCMIType <code>physicalObject</code>.
 For example, when is the 
-<a href="https://en.wikipedia.org/wiki/Rosetta_Stone" target="_blank" rel="noopener">Rosetta Stone</a> a <code>PhysicalObject</code> and when is it <code>Text</code>? The more common use case might be when is a cassette tape a <code>physical object</code> and when is it <code>sound</code>? clearly a basket in a museum is a <code>PhysicalObject</code>.</p>
+<a href="https://en.wikipedia.org/wiki/Rosetta_Stone" target="_blank" rel="noopener">Rosetta Stone</a> a <code>PhysicalObject</code> and when is it <code>Text</code>? The more common use case might be when is a cassette tape a <code>PhysicalObject</code> and when is it <code>Sound</code>? Clearly a basket in a museum is a <code>PhysicalObject</code>.</p>
 </blockquote>
-<!-- [dct:medium](https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#http://purl.org/dc/terms/medium) suggests that it should be used to indicate physical carrier. Does this mean that such a record should have `PhysicalObject` ?
+<!-- [dct:medium](https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#http://purl.org/dc/terms/medium) suggests that it should be used to indicate physical carrier. Does this mean that such a record should have `physicalObject` ?
 Note: I am working from the OAI-PMH framework and looking at record cohesion/record quality. -->
 <p>The answer for this question is clear in the older text but not in the current text. The Rosetta Stone should be classified as DCMIType <em>text</em> with a carrier or medium of <em>stone</em>.</p>
 <p>Previously approved definitions in the vocabulary&rsquo;s history have included the following:</p>
@@ -1084,9 +1084,9 @@ Note: I am working from the OAI-PMH framework and looking at record cohesion/rec
 
 
 </span></span>
-, and Dublin Core includes the DCMIType vocabulary. It follows then that since it is included that it might be useful to explore in which ways it can be utilized within the OLAC space. Additionally, because Dublin Core is used by more than just OLAC any discussion or conceptualization within the Dublin Core framework might be useful for larger audiences. Therefore, I have been reading the literature and note two different, but interesting, use cases which seem to relate to DCMIType <em>PhysicalObject</em>. In addition I think I can find several examples for uses within language archives.</p>
+, and Dublin Core includes the DCMIType vocabulary. It follows then that since it is included that it might be useful to explore in which ways it can be utilized within the OLAC space. Additionally, because Dublin Core is used by more than just OLAC any discussion or conceptualization within the Dublin Core framework might be useful for larger audiences. Therefore, I have been reading the literature and note two different, but interesting, use cases which seem to relate to DCMIType <em>PhysicalObject</em>. In addition I think, I can find several examples for uses within language archives.</p>
 <h2 id="literature-based-use-cases">Literature Based Use Cases</h2>
-<p>In reviewing literature I have found two interesting use cases which relate to physical objects. These include places and pants. The DCMIType vocabulary specifically excludes humans. I guess humans were not considered a viable catalog-able entity. This can present challenges when indexing human remains. For example, Egyptian mummies are a less-controversial case of human remains which ought to be cataloged and may be relevant to the study of specific ethnolinguistic communities. However, other more-controversial cases also exists such as the remains of indigenous Americans 
+<p>In reviewing literature, I have found two interesting use cases which relate to physical objects. These include places and pants. The DCMIType vocabulary specifically excludes humans. I guess humans were not considered a viable catalog-able entity. This can present challenges when indexing human remains. For example, Egyptian mummies are a less-controversial case of human remains which ought to be cataloged and may be relevant to the study of specific ethnolinguistic communities. However, other more-controversial cases also exists such as the remains of indigenous Americans 
 
 
 
@@ -1222,7 +1222,7 @@ Note: I am working from the OAI-PMH framework and looking at record cohesion/rec
 
 
 </span></span>
-. The DCMIType vocabulary by excluding a category for humans forces institutions to either forgo the standard, the element, or the vocabulary. Alternatively this forces an analysis that human remains are physical objects and no-longer human. Many languages consider state changes worthy of distinct vocabulary. For example, a caterpillar and a butterfly are the same living creature, but the state is different.</p>
+. The DCMIType vocabulary, by excluding a category for humans, forces institutions to forgo one of the following: the standard, the element, or the vocabulary. Alternately, this forces an analysis that human remains are physical objects and no-longer human. Many languages consider state changes worthy of distinct vocabulary. For example, a caterpillar and a butterfly are the same living creature, but the state is different.</p>
 <p>A similar situation arises with DNA samples or specimens. Are these specimens still human, or are they physical objects in the DCMIType inanimate sense? The appropriate way to conceive of DNA is a question many researchers face 
 
 
@@ -1453,9 +1453,9 @@ Note: I am working from the OAI-PMH framework and looking at record cohesion/rec
 
 
 </span></span>
-. Presumably after analysis they could be DCMIType <em>dataset</em>. Again, the vocabulary requires a view or perspective to be take on artifacts and their records. These views may not be shared by all stakeholders.</p>
+. Presumably after analysis they could be DCMIType <em>Dataset</em>. Again, the vocabulary requires a view or perspective to be take on artifacts and their records. These views may not be shared by all stakeholders.</p>
 <h3 id="agriculture">Agriculture</h3>
-<p>Within the domain of Agriculture plants maybe the cataloged object. This is in part what motivates 
+<p>Within the domain of Agriculture, plants may be the cataloged object. This is in part what motivates Cox&rsquo;s question to the DCMI board as they are looking at the development and refinement of Darwin Core 
 
 
 
@@ -1494,7 +1494,7 @@ Note: I am working from the OAI-PMH framework and looking at record cohesion/rec
      itemtype="https://schema.org/URL">https://github.com/dcmi/usage/issues/101</a></span>
 
 </span></span>
-. The definitions above pivot on the exclusion of the animate—in favor of the inanimate. Depending on one&rsquo;s view of the world the animate/inanimate divide may split differently. The following are possibilities.</p>
+. The definitions above pivot on the exclusion of the animate—in favor of the inanimate. Depending on one&rsquo;s view of the world, the animate/inanimate division may split differently. The following are some possibilities.</p>
 <table>
 <thead>
 <tr>
@@ -1517,7 +1517,7 @@ Note: I am working from the OAI-PMH framework and looking at record cohesion/rec
 </tr>
 </tbody>
 </table>
-<p>The DCMIType definition is not super clear on where the line is drawn cross-linguistically. Logically for biologists the inanimate often excludes the living—such as plants and animals. This is one of the driving motivations in the development 
+<p>The DCMIType definition is not super clear on where the line is drawn cross-linguistically. Logically, for biologists the inanimate often excludes the living—such as plants and animals. This is one of the driving motivations in the of development 
 <a href="https://dwc.tdwg.org/" target="_blank" rel="noopener">Darwin Core</a> 
 
 
@@ -1664,8 +1664,8 @@ Note: I am working from the OAI-PMH framework and looking at record cohesion/rec
  and its class 
 <a href="https://dwc.tdwg.org/list/#dwc_Organism" target="_blank" rel="noopener">Organism</a>.</p>
 <h3 id="places">Places</h3>
-<p>As mentioned in the text of the DCMIType definition <em>version 001</em>, physical objects such as buildings are permissible. The great pyramid is mentioned. Otherwise <em>place</em> as a catalog-able genre type is absent. There is no way to indicate the 
-<a href="https://www.isko.org/cyclo/subject#3.4" target="_blank" rel="noopener">is-ness</a> as being a location. The absence of a value of &ldquo;place&rdquo; in the DCMIType vocabulary is noted (perhaps whichfully) by 
+<p>As mentioned in the text of the DCMIType definition <em>version 001</em>, buildings are permissible referencial entities of the DCMIType <em>PhysicalObject</em>. The great pyramid is mentioned. Otherwise <em>place</em> as a catalog-able genre/type is absent. There is no way to indicate the 
+<a href="https://www.isko.org/cyclo/subject#3.4" target="_blank" rel="noopener">is-ness</a> as being a location. The absence of a value of &ldquo;place&rdquo; in the DCMIType vocabulary is noted (perhaps whishfully) by 
 
 
 
@@ -1714,10 +1714,10 @@ Note: I am working from the OAI-PMH framework and looking at record cohesion/rec
 <p>However, some &ldquo;places&rdquo; such as buildings are physical objects and have a 
 <a href="https://www.dublincore.org/specifications/dublin-core/dcmi-terms/terms/spatial/" target="_blank" rel="noopener">spatial coverage</a><sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup>. So while <em>place</em> is not a valid DCMIType or generally a catalog-able entity, buildings are. This is certainly in the domain of intended usage for the DCMIType <em>PhysicalObject</em>.</p>
 <h2 id="language-and-culture-based-use-cases">Language and Culture Based Use Cases</h2>
-<p>With the previously mentioned uses it is clear that linking cataloged objects from the domains of biology, anthropology, and archeology can be important to OALC and end-users to the OLAC aggregator. These resources can be aggregated within OLAC if they are described with records via Qualified Dublin Core and fed via an OAI feed to OLAC.</p>
-<p>However, there are some usecases within the OLAC community of documentation and research related to languages which could demonstrate the use of the DCMIType <em>PhysicalObject</em>. Two cases come to mind: <em>microphones</em> and <em>recording devices</em>.</p>
+<p>With the previously mentioned uses, it is clear that linking cataloged objects from the domains of biology, anthropology, and archeology can be important to OLAC and end-users to the OLAC aggregator. These resources can be aggregated within OLAC if they are described with records via Qualified Dublin Core and fed via an OAI feed to OLAC.</p>
+<p>However, there are some use cases within the OLAC community of documentation and research related to languages which could demonstrate the use of the DCMIType <em>PhysicalObject</em>. Two cases come to mind: <em>microphones</em> and <em>recording devices</em>.</p>
 <p>Both of these devices may be used for orginal sound and video capture/creation but may also be used in the digitization process.</p>
-<p>To illustrate how these objects could be used in the OLAC metadata context I present three things. Firs,t I relate them to a description model graphically. I have previously written about describing audio annotations and in that work I presented the following visual diagram.</p>
+<p>To illustrate how these objects could be used in the OLAC metadata context, I present three things. First, I illustrate their description model. I have previously written about describing audio annotations, and in that work I presented the following visual diagram.</p>
 
 
 
@@ -1774,7 +1774,7 @@ Hugh Paterson III<span itemprop="creator" itemtype="https://schema.org/Person" i
 
 </figure>
 
-<p>Now this diagram can be extended to include the physical objects used to create that primary orginal audio file.
+<p>Now this diagram can be extended to include the physical objects used to create the primary orginal audio file.
 
 
 
@@ -1831,7 +1831,7 @@ Hugh Paterson III<span itemprop="creator" itemtype="https://schema.org/Person" i
 
 </figure>
 </p>
-<p>The relationship between the manifestation record and the record for the physical objects can be expressed through the Dublin Core element <code>source</code> which is a special type of relationship.</p>
+<p>The relationship between the manifestation record and the record for the physical objects can be expressed through the Dublin Core element <code>Source</code> which is a special type of relationship.</p>
 <blockquote>
 <p><strong>Dublin Core Definition:</strong> Source</p>
 </blockquote>
@@ -1839,7 +1839,7 @@ Hugh Paterson III<span itemprop="creator" itemtype="https://schema.org/Person" i
 <p><strong>Dublin Core Definition:</strong> A reference to a resource from which the present resource is derived.</p>
 </blockquote>
 <blockquote>
-<p><strong>Dublin Core Comment:</strong> The present resource may be derived from the source resource in whole or in part</p>
+<p><strong>Dublin Core Comment:</strong> The present resource may be derived from the source resource in whole or in part.</p>
 </blockquote>
 <p>Second, as shown in the following table, the potentially applicable metadata elments from Dublin Core are explored.</p>
 <!-- | Microphone Example 	|  	|  	|
@@ -1897,7 +1897,7 @@ Hugh Paterson III<span itemprop="creator" itemtype="https://schema.org/Person" i
   </tr>
   <tr>
     <td class="tg-0pky"><a href="https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#http://purl.org/dc/terms/type" target="_blank" rel="noopener noreferrer">type</a></td>
-    <td class="tg-0pky">physicalObject</td>
+    <td class="tg-0pky">PhysicalObject</td>
     <td class="tg-0pky">DCMIType</td>
   </tr>
   <tr>
@@ -1918,7 +1918,7 @@ Hugh Paterson III<span itemprop="creator" itemtype="https://schema.org/Person" i
   <tr>
     <td class="tg-0pky"><a href="https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#http://purl.org/dc/terms/provenance" target="_blank" rel="noopener noreferrer">provenance</a></td>
     <td class="tg-0pky"><span style="font-weight:400;font-style:normal">Purchased new from B &amp; H Photo in 2010.</span></td>
-    <td class="tg-0pky">"A statement of any changes in ownership and custody of the resource since its creation that are significant for its authenticity, integrity, and interpretation."  Statements of use need not be included if they are interable from records. For example, I used this mic in Mexico and Nigeria but if I have recordings connected to this mic then those use instances are inferable.</td>
+    <td class="tg-0pky">"A statement of any changes in ownership and custody of the resource since its creation that are significant for its authenticity, integrity, and interpretation."  Statements of use need not be included if they are inferable from records. For example, I used this mic in Mexico and Nigeria but if I have recordings connected to this mic then those use instances are inferable.</td>
   </tr>
   <tr>
     <td class="tg-0pky"><a href="https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#http://purl.org/dc/terms/identifier" target="_blank" rel="noopener noreferrer">identifier</a></td>
@@ -2086,7 +2086,8 @@ Hugh Paterson III<span itemprop="creator" itemtype="https://schema.org/Person" i
 </tr>
 </tbody>
 </table>
-<p>For brevity I have not included what a recordering device record might look like. Presumably it would be similar to a microphone record.</p>
+<p>For brevity, I have not included what a recordering device record might look like. Presumably, it would be have similar characteristics to a microphone record.</p>
+<!-- see also notes here:  https://hugh.thejourneyler.org/2023/useful-modeling -->
 <h2 id="bibliography">Bibliography</h2>
 
   
