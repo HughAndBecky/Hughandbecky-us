@@ -268,17 +268,92 @@
   </url>
   
   <url>
+    <loc>https://hughandbecky.us/Hugh-CV/talk/2023-seapavaa-copyright/</loc>
+    <lastmod>2023-05-08T17:00:12-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hughandbecky.us/Hugh-CV/talk/2023-seapavaa-privacy/</loc>
+    <lastmod>2023-05-08T17:00:12-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hughandbecky.us/Hugh-CV/tag/copyright/</loc>
+    <lastmod>2023-05-08T17:00:12-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hughandbecky.us/Hugh-CV/tag/jurisdiction/</loc>
+    <lastmod>2023-05-08T17:00:12-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hughandbecky.us/Hugh-CV/content_types/video/</loc>
+    <lastmod>2023-05-08T17:00:12-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hughandbecky.us/Hugh-CV/tag/video-materials/</loc>
+    <lastmod>2023-05-08T17:00:12-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hughandbecky.us/Hugh-CV/post/crubadan-olac-records/</loc>
+    <lastmod>2023-04-04T14:35:45+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hughandbecky.us/Hugh-CV/tag/crubadan/</loc>
+    <lastmod>2023-04-04T14:35:45+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hughandbecky.us/Hugh-CV/tag/data-provider/</loc>
+    <lastmod>2023-04-04T14:35:45+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hughandbecky.us/Hugh-CV/tag/data-quality/</loc>
+    <lastmod>2023-04-04T14:35:45+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hughandbecky.us/Hugh-CV/tag/dublin-core/</loc>
+    <lastmod>2023-04-04T14:35:45+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hughandbecky.us/Hugh-CV/tag/olac/</loc>
+    <lastmod>2023-04-04T14:35:45+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hughandbecky.us/Hugh-CV/tag/olac-interface-improvements/</loc>
+    <lastmod>2023-04-04T14:35:45+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hughandbecky.us/Hugh-CV/post/</loc>
+    <lastmod>2023-04-04T14:35:45+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hughandbecky.us/Hugh-CV/category/research-note/</loc>
+    <lastmod>2023-04-04T14:35:45+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://hughandbecky.us/Hugh-CV/tag/dcmitype/</loc>
     <lastmod>2023-03-19T14:35:45+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://hughandbecky.us/Hugh-CV/tag/digital-audio-recorder/</loc>
+    <loc>https://hughandbecky.us/Hugh-CV/tag/dcmitype-physicalobject/</loc>
     <lastmod>2023-03-19T14:35:45+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://hughandbecky.us/Hugh-CV/tag/dublin-core/</loc>
+    <loc>https://hughandbecky.us/Hugh-CV/tag/digital-audio-recorder/</loc>
     <lastmod>2023-03-19T14:35:45+01:00</lastmod>
   </url>
   
@@ -293,22 +368,7 @@
   </url>
   
   <url>
-    <loc>https://hughandbecky.us/Hugh-CV/tag/olac/</loc>
-    <lastmod>2023-03-19T14:35:45+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://hughandbecky.us/Hugh-CV/tag/physical-object/</loc>
-    <lastmod>2023-03-19T14:35:45+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hughandbecky.us/Hugh-CV/post/</loc>
-    <lastmod>2023-03-19T14:35:45+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hughandbecky.us/Hugh-CV/category/research-note/</loc>
     <lastmod>2023-03-19T14:35:45+01:00</lastmod>
   </url>
   
@@ -329,11 +389,6 @@
   
   <url>
     <loc>https://hughandbecky.us/Hugh-CV/tag/terminology/</loc>
-    <lastmod>2023-03-02T17:00:12-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hughandbecky.us/Hugh-CV/content_types/video/</loc>
     <lastmod>2023-03-02T17:00:12-07:00</lastmod>
   </url>
   
@@ -420,6 +475,26 @@
   <url>
     <loc>https://hughandbecky.us/Hugh-CV/tag/sets/</loc>
     <lastmod>2023-01-07T14:35:45+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hughandbecky.us/Hugh-CV/tag/dcmitypecollection/</loc>
+    <lastmod>2022-12-15T14:35:45+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hughandbecky.us/Hugh-CV/tag/dcmitypedataset/</loc>
+    <lastmod>2022-12-15T14:35:45+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hughandbecky.us/Hugh-CV/tag/dcmitypeiteractiveresource/</loc>
+    <lastmod>2022-12-15T14:35:45+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hughandbecky.us/Hugh-CV/tag/dcmitypetext/</loc>
+    <lastmod>2022-12-15T14:35:45+01:00</lastmod>
   </url>
   
   <url>
@@ -758,6 +833,11 @@
   </url>
   
   <url>
+    <loc>https://hughandbecky.us/Hugh-CV/tag/dcmitype-collection/</loc>
+    <lastmod>2022-10-07T11:30:00-01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://hughandbecky.us/Hugh-CV/tag/infrastructure/</loc>
     <lastmod>2022-10-07T11:30:00-01:00</lastmod>
   </url>
@@ -824,6 +904,16 @@
   
   <url>
     <loc>https://hughandbecky.us/Hugh-CV/talk/2022-services-the-forgotten-language-resources/</loc>
+    <lastmod>2022-10-03T13:00:00-01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hughandbecky.us/Hugh-CV/tag/dcmitype-interactiveresource/</loc>
+    <lastmod>2022-10-03T13:00:00-01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hughandbecky.us/Hugh-CV/tag/dcmitype-service/</loc>
     <lastmod>2022-10-03T13:00:00-01:00</lastmod>
   </url>
   
@@ -1070,11 +1160,6 @@
   <url>
     <loc>https://hughandbecky.us/Hugh-CV/post/some-thoughts-on-an-aggregator-for-library-science-articles/</loc>
     <lastmod>2022-02-26T14:14:38-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hughandbecky.us/Hugh-CV/tag/copyright/</loc>
-    <lastmod>2021-12-31T17:00:12-07:00</lastmod>
   </url>
   
   <url>
@@ -3243,22 +3328,47 @@
   </url>
   
   <url>
-    <loc>https://hughandbecky.us/Hugh-CV/tag/literacy/</loc>
-    <lastmod>2013-07-15T14:14:38-07:00</lastmod>
+    <loc>https://hughandbecky.us/Hugh-CV/tag/environmental-print/</loc>
+    <lastmod>2013-07-21T14:16:50-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://hughandbecky.us/Hugh-CV/country/netherlands/</loc>
-    <lastmod>2013-07-15T14:14:38-07:00</lastmod>
+    <loc>https://hughandbecky.us/Hugh-CV/tag/literacy/</loc>
+    <lastmod>2013-07-21T14:16:50-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hughandbecky.us/Hugh-CV/tag/literacy-mega-course/</loc>
+    <lastmod>2013-07-21T14:16:50-07:00</lastmod>
   </url>
   
   <url>
     <loc>https://hughandbecky.us/Hugh-CV/written_from/north-dakota/</loc>
-    <lastmod>2013-07-15T14:14:38-07:00</lastmod>
+    <lastmod>2013-07-21T14:16:50-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hughandbecky.us/Hugh-CV/tag/reading/</loc>
+    <lastmod>2013-07-21T14:16:50-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hughandbecky.us/Hugh-CV/institutions/sil-und/</loc>
+    <lastmod>2013-07-21T14:16:50-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hughandbecky.us/Hugh-CV/post/some-thoughts-on-environmental-print-in-minority-language-contexts/</loc>
+    <lastmod>2013-07-21T14:16:50-07:00</lastmod>
   </url>
   
   <url>
     <loc>https://hughandbecky.us/Hugh-CV/language/stq/</loc>
+    <lastmod>2013-07-21T14:16:50-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hughandbecky.us/Hugh-CV/country/netherlands/</loc>
     <lastmod>2013-07-15T14:14:38-07:00</lastmod>
   </url>
   

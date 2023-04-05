@@ -5,12 +5,133 @@
     <link>https://hughandbecky.us/Hugh-CV/post/</link>
       <atom:link href="https://hughandbecky.us/Hugh-CV/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2023</copyright><lastBuildDate>Sun, 19 Mar 2023 14:35:45 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2023</copyright><lastBuildDate>Tue, 04 Apr 2023 14:35:45 +0100</lastBuildDate>
     <image>
       <url>https://hughandbecky.us/Hugh-CV/media/HughPaterson.jpg</url>
       <title>Posts</title>
       <link>https://hughandbecky.us/Hugh-CV/post/</link>
     </image>
+    
+    <item>
+      <title>An Analysis of Crubadan OLAC Records</title>
+      <link>https://hughandbecky.us/Hugh-CV/post/crubadan-olac-records/</link>
+      <pubDate>Tue, 04 Apr 2023 14:35:45 +0100</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/post/crubadan-olac-records/</guid>
+      <description>&lt;p&gt;The following are questions I have after looking at the following record:&lt;/p&gt;
+
+
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-crubadan-record-for-karbi-hills-karbi-in-the-olac-interface&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/crubadan-olac-records/_hub4fb0a3d5618c54546bd65640ee26d82_241537_3781aedb7029e4d23bef189367664de8.png&#34; data-caption=&#34;Crubadan record for Karbi (Hills Karbi) in the OLAC Interface&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/crubadan-olac-records/_hub4fb0a3d5618c54546bd65640ee26d82_241537_3781aedb7029e4d23bef189367664de8.png&#34; class=&#34;lazyload&#34; alt=&#34;Screenshot of the OLAC Interface&#34; width=&#34;1920&#34; height=&#34;1189&#34; itemprop=&#34;contentUrl&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;p&gt;Crubadan record for Karbi (Hills Karbi) in the OLAC Interface
+      
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;http://www.language-archives.org/item/oai:crubadan.org:mjw&#34;&gt; 
+OLAC Interface&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
+        &lt;meta itemprop=&#34;name&#34; content=&#34;OLAC Interface&#34; /&gt;
+      &lt;/span&gt;
+&lt;/a&gt; &lt;/span&gt;
+&lt;/p&gt;
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Is the license actually applicable? That is who is the copyright holder and is the content actually meeting the threshold for copyright?&lt;/li&gt;
+&lt;li&gt;Why is the source text not indicated in the source field?&lt;/li&gt;
+&lt;li&gt;Where is the source software used to generate the resource?&lt;/li&gt;
+&lt;li&gt;The format is an application/zip and the DCMIType is &lt;em&gt;Dataset&lt;/em&gt;, so which application is the data consumable in? or which formats are used within the .zip file?&lt;/li&gt;
+&lt;li&gt;If an abstract is a summary, can or should that field be used then to declare what are the rows and columns or tables and relationships in the dataset are?&lt;/li&gt;
+&lt;li&gt;How can you have rights without a rightsholder? No copyright holder is declared. The creative commons licese is only valid if there is a valid copyright claim.&lt;/li&gt;
+&lt;li&gt;The specific resource should have a relationship to a Crubadan collection record. It doesnt have these relationships declared. This means that the automatically generated OLAC citation is also malformed.&lt;/li&gt;
+&lt;li&gt;The part record, all records actually, should have the DCTerms citation element included. These records don&amp;rsquo;t.&lt;/li&gt;
+&lt;li&gt;Why are there no LCSH subjects?&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;The following two revelations about the user interface ought to be incorporated into future versions of the OLAC interface:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;OLAC presents a citation but doesn&amp;rsquo;t pull that from the record. Where does it get that information? — What is the generative process?&lt;/li&gt;
+&lt;li&gt;Why doesn&amp;rsquo;t the OLAC interface report that the links are linkrotted and now 404?&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;The following XML record replicated below is from OLAC. It is retrievable 
+&lt;a href=&#34;http://www.language-archives.org/cgi-bin/olaca3.pl?verb=GetRecord&amp;amp;identifier=oai:crubadan.org:mjw&amp;amp;metadataPrefix=olac&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;, while the record is viewable in the OLAC interface 
+&lt;a href=&#34;http://www.language-archives.org/item/oai:crubadan.org:mjw&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;&amp;lt;OAI-PMH xmlns=&amp;quot;http://www.openarchives.org/OAI/2.0/&amp;quot; xmlns:xsi=&amp;quot;http://www.w3.org/2001/XMLSchema-instance&amp;quot; xsi:schemaLocation=&amp;quot;http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd&amp;quot;&amp;gt;
+&amp;lt;responseDate&amp;gt;2023-04-04T04:54:39Z&amp;lt;/responseDate&amp;gt;
+&amp;lt;request verb=&amp;quot;GetRecord&amp;quot; identifier=&amp;quot;oai%3Acrubadan.org%3Amjw&amp;quot; metadataPrefix=&amp;quot;olac&amp;quot;&amp;gt;http://www.language-archives.org/cgi-bin/olaca3.pl&amp;lt;/request&amp;gt;
+&amp;lt;GetRecord&amp;gt;
+&amp;lt;record&amp;gt;
+&amp;lt;header&amp;gt;
+&amp;lt;identifier&amp;gt;oai:crubadan.org:mjw&amp;lt;/identifier&amp;gt;
+&amp;lt;datestamp&amp;gt;2018-03-28&amp;lt;/datestamp&amp;gt;
+&amp;lt;/header&amp;gt;
+&amp;lt;metadata&amp;gt;
+&amp;lt;olac:olac xmlns:dc=&amp;quot;http://purl.org/dc/elements/1.1/&amp;quot; xmlns:dcterms=&amp;quot;http://purl.org/dc/terms/&amp;quot; xmlns:olac=&amp;quot;http://www.language-archives.org/OLAC/1.1/&amp;quot; xsi:schemaLocation=&amp;quot; http://purl.org/dc/elements/1.1/ http://www.language-archives.org/OLAC/1.1/dc.xsd http://purl.org/dc/terms/ http://www.language-archives.org/OLAC/1.1/dcterms.xsd http://www.language-archives.org/OLAC/1.1/ http://www.language-archives.org/OLAC/1.1/olac.xsd &amp;quot;&amp;gt;
+&amp;lt;dc:title&amp;gt;Crúbadán language data for Karbi&amp;lt;/dc:title&amp;gt;
+&amp;lt;dc:contributor xsi:type=&amp;quot;olac:role&amp;quot; olac:code=&amp;quot;developer&amp;quot;&amp;gt;Kevin Scannell&amp;lt;/dc:contributor&amp;gt;
+&amp;lt;dc:contributor xsi:type=&amp;quot;olac:role&amp;quot; olac:code=&amp;quot;researcher&amp;quot;&amp;gt;Kevin Scannell&amp;lt;/dc:contributor&amp;gt;
+&amp;lt;dc:contributor xsi:type=&amp;quot;olac:role&amp;quot; olac:code=&amp;quot;data_inputter&amp;quot;&amp;gt;Edward Jahn&amp;lt;/dc:contributor&amp;gt;
+&amp;lt;dc:contributor xsi:type=&amp;quot;olac:role&amp;quot; olac:code=&amp;quot;data_inputter&amp;quot;&amp;gt;Dustin Joosten&amp;lt;/dc:contributor&amp;gt;
+&amp;lt;dc:contributor xsi:type=&amp;quot;olac:role&amp;quot; olac:code=&amp;quot;data_inputter&amp;quot;&amp;gt;Nick Lewchenko&amp;lt;/dc:contributor&amp;gt;
+&amp;lt;dc:contributor xsi:type=&amp;quot;olac:role&amp;quot; olac:code=&amp;quot;sponsor&amp;quot;&amp;gt;National Science Foundation&amp;lt;/dc:contributor&amp;gt;
+&amp;lt;dc:creator&amp;gt;Kevin Scannell&amp;lt;/dc:creator&amp;gt;
+&amp;lt;dc:date xsi:type=&amp;quot;dcterms:W3CDTF&amp;quot;&amp;gt;2018-03-28&amp;lt;/dc:date&amp;gt;
+&amp;lt;dc:description&amp;gt;A dataset containing word and character n-gram frequencies and lists of URLs for Karbi&amp;lt;/dc:description&amp;gt;
+&amp;lt;dc:format xsi:type=&amp;quot;dcterms:IMT&amp;quot;&amp;gt;application/zip&amp;lt;/dc:format&amp;gt;
+&amp;lt;dc:identifier xsi:type=&amp;quot;dcterms:URI&amp;quot;&amp;gt;http://crubadan.org/writingsystems/mjw&amp;lt;/dc:identifier&amp;gt;
+&amp;lt;dc:rights&amp;gt;Creative Commons Attribution 4.0 International License&amp;lt;/dc:rights&amp;gt;
+&amp;lt;dc:subject xsi:type=&amp;quot;olac:language&amp;quot; olac:code=&amp;quot;mjw&amp;quot;/&amp;gt;
+&amp;lt;dc:subject xsi:type=&amp;quot;olac:linguistic-field&amp;quot; olac:code=&amp;quot;computational_linguistics&amp;quot;/&amp;gt;
+&amp;lt;dc:subject xsi:type=&amp;quot;olac:linguistic-field&amp;quot; olac:code=&amp;quot;lexicography&amp;quot;/&amp;gt;
+&amp;lt;dc:subject xsi:type=&amp;quot;olac:linguistic-field&amp;quot; olac:code=&amp;quot;text_and_corpus_linguistics&amp;quot;/&amp;gt;
+&amp;lt;dc:subject xsi:type=&amp;quot;olac:linguistic-field&amp;quot; olac:code=&amp;quot;writing_systems&amp;quot;/&amp;gt;
+&amp;lt;dc:type xsi:type=&amp;quot;dcterms:DCMIType&amp;quot;&amp;gt;Dataset&amp;lt;/dc:type&amp;gt;
+&amp;lt;dc:type xsi:type=&amp;quot;olac:linguistic-type&amp;quot; olac:code=&amp;quot;lexicon&amp;quot;/&amp;gt;
+&amp;lt;/olac:olac&amp;gt;
+&amp;lt;/metadata&amp;gt;
+&amp;lt;/record&amp;gt;
+&amp;lt;/GetRecord&amp;gt;
+&amp;lt;/OAI-PMH&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
     
     <item>
       <title>Dublin Core DCMIType: PhysicalObject</title>
@@ -2329,6 +2450,11 @@ Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schem
 &lt;td align=&#34;center&#34;&gt;MovingImage&lt;/td&gt;
 &lt;td align=&#34;center&#34;&gt;Collection&lt;/td&gt;
 &lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Catalog of resources&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Text&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Dataset or Collection&lt;/td&gt;
+&lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
 
@@ -2390,6 +2516,77 @@ Reinhard Döhl&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.o
 &lt;p&gt;If we follow the 1-to-1 principle in Dublin Core then only one qualified DCMIType should be applied to any specific record. So which one? I have created the following flowchart to guide a person through the process of selecting the most appropriate DCMIType term. Clicking the diagram opens it up within the mermaid editor where the text can be more easily read.&lt;/p&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://mermaid.live/edit#pako:eNqlVl1v2jAU_SuWnzYJGAHWtKjqNMFaVVXX70lb6YNxLsRrYme2A2W0_33XTgkQqq1liAd87Xvu8bkfeE65ioB26VizLCbX_YEk-Pl82--dHl_PMiA8VsqAviP1-sHjEViiwahcc3gkF813hypJ1JT0YqYtucjBWKGkeV-gXDSdE7kI5seG2BhKV7I_1AdcpRkiR0SN_Nrkw_rigPn09AwR-LhfFUZrVWGcF8m0SJkWyYxYeLA5Syqu38E8Eo40gTtut1dWZQ1yY5AEpAe9cmP_Ay4bnkkvQcDRzMcaKZ0yS6bCxiTi3UO_vHuO0FqSa_-FHHKbCLNKrbWkdrRw5EpakNb7oSQbejGtmRyjXkIS5k9ZNkygnoh7IMbqnNtcQxmiXXI7-4duHjyPhEOruHuGv9qNYN5XUIBMlb4nMZvAgoRIHQcJRGksFq1kosaCs8TjKi3wTkhaslV2DtIHkMgPayZJjlM2hkpyrsqNLZJThriRHLRlQj4S8UKQ_8b3GqVqIuT4pUucLne2iHJUZvHkxSyuNpHrZGecxoLHROfSEIWlQlLGY8zPQvuTEtI1TIXtNZo8TY_-WpYnSyGMGtkp0xupfDa_HftoiR0xywxUKfcL64q4r8Y-K6U4Xxb4mr6-0LN4ZlxFF4rjqGPcghZYt7wcVAXUrJAgl9HG_dG2DcXzkuLli1PUtR8pu8xDsGKcWjeSmYywv1RGMiWkXZC9LEFvNu_tvTVkwBARxwNeluQZVhJ-3VYkRiPQGA8HkWcuLO6sqfY8vgxDbsXYSqEa3WcUJmivSPXF2baXyqdgkbGz4U-c7pUA52ub20S6KfX7dnuMOhjihrD7C4rRZU1MJospg-lxZSMmcLlQauvARaOBngi-0WeF9a3YA0lrNAWXzAgfA3MXbUDRI4UB7eLPiOn7AR3IJzzHcquuZpLTLv7pQI3mGTYm9AXDN0RKuyOWGLRChHWhT4vXhX9k1GjG5A-l0oUjLml3Th9ot94Jw0bQ2d3ptDphazfc-diu0RnttoJGsLfb6YRB82MQ7ISd1lON_vYQrUazHYYBngzCPXRthk9_ADli-W0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://mermaid.ink/img/pako:eNqlVl1v2jAU_SuWnzYJGAHWtKjqNMFaVVXX70lb6YNxLsRrYme2A2W0_33XTgkQqq1liAd87Xvu8bkfeE65ioB26VizLCbX_YEk-Pl82--dHl_PMiA8VsqAviP1-sHjEViiwahcc3gkF813hypJ1JT0YqYtucjBWKGkeV-gXDSdE7kI5seG2BhKV7I_1AdcpRkiR0SN_Nrkw_rigPn09AwR-LhfFUZrVWGcF8m0SJkWyYxYeLA5Syqu38E8Eo40gTtut1dWZQ1yY5AEpAe9cmP_Ay4bnkkvQcDRzMcaKZ0yS6bCxiTi3UO_vHuO0FqSa_-FHHKbCLNKrbWkdrRw5EpakNb7oSQbejGtmRyjXkIS5k9ZNkygnoh7IMbqnNtcQxmiXXI7-4duHjyPhEOruHuGv9qNYN5XUIBMlb4nMZvAgoRIHQcJRGksFq1kosaCs8TjKi3wTkhaslV2DtIHkMgPayZJjlM2hkpyrsqNLZJThriRHLRlQj4S8UKQ_8b3GqVqIuT4pUucLne2iHJUZvHkxSyuNpHrZGecxoLHROfSEIWlQlLGY8zPQvuTEtI1TIXtNZo8TY_-WpYnSyGMGtkp0xupfDa_HftoiR0xywxUKfcL64q4r8Y-K6U4Xxb4mr6-0LN4ZlxFF4rjqGPcghZYt7wcVAXUrJAgl9HG_dG2DcXzkuLli1PUtR8pu8xDsGKcWjeSmYywv1RGMiWkXZC9LEFvNu_tvTVkwBARxwNeluQZVhJ-3VYkRiPQGA8HkWcuLO6sqfY8vgxDbsXYSqEa3WcUJmivSPXF2baXyqdgkbGz4U-c7pUA52ub20S6KfX7dnuMOhjihrD7C4rRZU1MJospg-lxZSMmcLlQauvARaOBngi-0WeF9a3YA0lrNAWXzAgfA3MXbUDRI4UB7eLPiOn7AR3IJzzHcquuZpLTLv7pQI3mGTYm9AXDN0RKuyOWGLRChHWhT4vXhX9k1GjG5A-l0oUjLml3Th9ot94Jw0bQ2d3ptDphazfc-diu0RnttoJGsLfb6YRB82MQ7ISd1lON_vYQrUazHYYBngzCPXRthk9_ADli-W0?type=png&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;With regards to the distinction between text, dataset, and collection, the OLAC cmmunity brings up an interesting use case.&lt;/p&gt;
+&lt;p&gt;The 
+&lt;a href=&#34;https://www.dublincore.org/specifications/dublin-core/collection-description/collection-application-profile/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dublin Core™ Collection Description Application Profile&lt;/a&gt; suggests that indexes or catalogs of resources ought to be classified as DCMIType &lt;em&gt;Collection&lt;/em&gt;. The argument is that these are collection because they are assembled and aggregated.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The term &amp;ldquo;collection&amp;rdquo; can be applied to any aggregation of physical and/or digital resources. Those resources may be of any type, so examples might include aggregations of natural objects, created objects, &amp;ldquo;born-digital&amp;rdquo; items, digital surrogates of physical items, and the catalogues of such collections (as aggregations of metadata records). The criteria for aggregation may vary: e.g. by location, by type or form of the items, by provenance of the items, by source or ownership, and so on. Collections may contain any number of items and may have varying levels of permanence.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;If we take this Application Profile and back-port its semantics to dcterms then a 
+&lt;a href=&#34;http://purl.org/dc/dcmitype/Collection&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DCMIType collection&lt;/a&gt; as defined has some interesting ramifications for resources like lexicons, encyclopedia, corpora, dictionaries, newspapers, edited multi-author works, etc. :&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Definition: An aggregation of resources.
+Comment: A collection is described as a group; its parts may also be separately described.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Resources such as annotated bibilographies, indexes, dictionaries, seem to me to be most accuratly described as DCMIType &lt;em&gt;Text&lt;/em&gt;, unless they are being futher described. Even more problematic though is that many of these resources are now engaged with in multiple ways with different audiences. For example, encyclopedias and bibilographies are often read as &lt;em&gt;Text&lt;/em&gt; by consumers, but are engaged with as &lt;em&gt;Datasets&lt;/em&gt; by producers. Is it possible that DCMIType terms are describing the manifestation? Currently Glottolog sugests that the page that a person accesses a list of resource about the Karbi language is a text resource.&lt;/p&gt;
+
+
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-glottolog-46-resources-for-hills-karbi-in-the-olac-search-interface&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/dublin-core-dcmitype/glotologrecords_hu259362def301c4a7d53fb0b3d91e2e70_59487_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Glottolog 4.6 Resources for Hills Karbi in the OLAC Search Interface&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/dublin-core-dcmitype/glotologrecords_hu259362def301c4a7d53fb0b3d91e2e70_59487_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;Glottolog 4.6 Resources for Hills Karbi&#34; width=&#34;954&#34; height=&#34;459&#34; itemprop=&#34;contentUrl&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;p&gt;Glottolog 4.6 Resources for Hills Karbi in the OLAC Search Interface
+      
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;http://dla.library.upenn.edu/dla/olac/record.html?id=glottolog_org_karb1241&#34;&gt; 
+OLAC Search&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
+        &lt;meta itemprop=&#34;name&#34; content=&#34;OLAC Search&#34; /&gt;
+      &lt;/span&gt;
+&lt;/a&gt; &lt;/span&gt;
+&lt;/p&gt;
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;There is also the remaining question, is the Glottolog page actually an &lt;em&gt;Interactive Resource&lt;/em&gt;, which pulls a &lt;em&gt;Dataset&lt;/em&gt;?&lt;/p&gt;
+&lt;p&gt;So, maybe the list of resources is a &lt;em&gt;Collection&lt;/em&gt;, the Glottolog itself as a website is an &lt;em&gt;Interactive Resource&lt;/em&gt;. The data which drives the website is a &lt;em&gt;Dataset&lt;/em&gt;. — leaving nothing as a &lt;em&gt;Text&lt;/em&gt; resource?&lt;/p&gt;
 &lt;!-- WEMI relationships
 | Same-Same | Same-Different |  |  |  |
 |:---:|---|---|---|---|
@@ -26910,6 +27107,26 @@ Lumen Learning&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.o
 &lt;/div&gt;
 
 &lt;p&gt;Tume and another friend told me a story of how a foreigner got the hello wave and the &amp;ldquo;I curse your mother&amp;rdquo; wave mixed up. Or rather the foreigner was just unaware of the difference. - He kept getting such a response from people when he waved&amp;hellip;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Some Thoughts on Environmental Print in Minority Language Contexts</title>
+      <link>https://hughandbecky.us/Hugh-CV/post/some-thoughts-on-environmental-print-in-minority-language-contexts/</link>
+      <pubDate>Sun, 21 Jul 2013 14:16:50 -0700</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/post/some-thoughts-on-environmental-print-in-minority-language-contexts/</guid>
+      <description>&lt;p&gt;In the 
+&lt;a href=&#34;http://web.archive.org/web/20170330020156/http://arts-sciences.und.edu/summer-institute-of-linguistics/courses.cfm#LiteracyMegacourse&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Literacy Mega Course at SIL-UND&lt;/a&gt; one of the issues students are asked to consider is &lt;em&gt;Environmental Print&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.sharonmacdonald.com/environmental-print.aspx&#34; title=&#34;Environmental Print&#34; target=&#34;_blank&#34;&gt;Sharon MacDonald presents Environmental Print&lt;/a&gt; as a way to move people from illiteracy (but with a understanding of contextual clues based on experience and iconicity), to literacy using or reinforcing reading lessons with print materials found around them (particularly in advertising and on manufactured goods). In this writing I will apply Sharon’s general idea to three kinds of cases.&lt;/p&gt;
+&lt;p&gt;While some may scoff at the idea that Environmental Print has an impact on young or new readers, I am a believer that it can and does have an impact. I have a highly analytical and intelligent, younger brother who taught himself to read before he went to kindergarten. One particular time we were driving, and passed a Burger King. From the car seat he asked me if the first letter of the Burger King sign was B and said the ‘b’ sound. He was I said “yes”. He replied, “I thought so”. This was my first encounter with Environmental Print and its impact on pre-readers.&lt;/p&gt;
+&lt;p&gt;Sharon’s ideas about Environmental Print have several interesting ideas behind them. Among them: &lt;ol&gt;
+&lt;li&gt;there is the idea that people start with an ability to recognize iconic products and distinguish brands before they can read,&lt;/li&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;&amp;lt;li&amp;gt;that these icons/brands packages can be used in some constructive way to teach people how to read other print without branding.&amp;lt;/li&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/ol&gt;
+&lt;p&gt;The second idea I wish to relate Environmental Print to is orthography development in developing language situations. There is very little in the academic journals about socio-linguistic motivations for orthography choices. This is generally done for face saving reasons. However, it is well stated that communities do make orthography choices based on their perception of print around them. Generally this comes from neighboring languages. What is not well recorded or documented is the effect and impact of Environmental Print on the general perception towards characters and writing in general. It would be helpful in evaluating the impact of Environmental Print on writing systems to know more specifics about the impact and the economic situations of how goods bearing Environmental Print are acquired.&lt;/p&gt;
+&lt;p&gt;Orthography development is only one facet of Environmental Print and literacy. However, when considering the minority language context, one assumption that does not hold to be true is that speakers of an unwritten language are illiterate. In Sharon’s context she is generally looking at Environmental Print objects which are in the same language as the majority language spoken by many people, for example: English spoken in the USA.&lt;/p&gt;
+&lt;p&gt;The third idea and specific case I would like to relate Environmental Print to is the case of literacy in the minority language context. In this situation there is not necessarily a host of Environmental Print which is pre-existing in the language. This does not mean that there is not Environmental Print. In the case of &lt;a href=&#34;https://en.wikipedia.org/wiki/Kag-Fer-Jiir-Koor-Ror-Us-Zuksun_language&#34; title=&#34;Kag-Fer-Jiir-Koor-Ror-Us-Zuksun Language&#34; target=&#34;_blank&#34;&gt;ut-Ma’in [gel] in Northwest Nigeria&lt;/a&gt; the Environmental Print situation is currently unknown. However, undoubtedly there is a presence of Environmental Print either in Hausa, Arabic or English. In thinking about the potential impact of Environmental Print on a community I would like to take an initial look at Environmental Print and the kinds of Environmental Print which already exist in the community. Just because there is Environmental Print on an object, it does not mean that the Environmental Print is representative of the word used to describe the object in the community. It would be analogous to my brother saying, “I saw a restaurant” after seeing the sign for Burger King. The sign/Environmental Print relates to a semantic idea but not to a clear orthographic/lexical relationship to the text “Burger King”.  This means that when considering language development and literacy within that context that the pre-existing role of Environmental Print needs to be considered. It is not that EP can not be generated in the community, but it does mean that if it does exist within a community without a written language that it can already have associated with it certain emotional values which will affect the acceptance of using those materials in literacy efforts.&lt;/p&gt;
 </description>
     </item>
     

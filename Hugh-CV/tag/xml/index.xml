@@ -2240,6 +2240,11 @@ Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schem
 &lt;td align=&#34;center&#34;&gt;MovingImage&lt;/td&gt;
 &lt;td align=&#34;center&#34;&gt;Collection&lt;/td&gt;
 &lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Catalog of resources&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Text&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Dataset or Collection&lt;/td&gt;
+&lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
 
@@ -2301,6 +2306,77 @@ Reinhard Döhl&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.o
 &lt;p&gt;If we follow the 1-to-1 principle in Dublin Core then only one qualified DCMIType should be applied to any specific record. So which one? I have created the following flowchart to guide a person through the process of selecting the most appropriate DCMIType term. Clicking the diagram opens it up within the mermaid editor where the text can be more easily read.&lt;/p&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://mermaid.live/edit#pako:eNqlVl1v2jAU_SuWnzYJGAHWtKjqNMFaVVXX70lb6YNxLsRrYme2A2W0_33XTgkQqq1liAd87Xvu8bkfeE65ioB26VizLCbX_YEk-Pl82--dHl_PMiA8VsqAviP1-sHjEViiwahcc3gkF813hypJ1JT0YqYtucjBWKGkeV-gXDSdE7kI5seG2BhKV7I_1AdcpRkiR0SN_Nrkw_rigPn09AwR-LhfFUZrVWGcF8m0SJkWyYxYeLA5Syqu38E8Eo40gTtut1dWZQ1yY5AEpAe9cmP_Ay4bnkkvQcDRzMcaKZ0yS6bCxiTi3UO_vHuO0FqSa_-FHHKbCLNKrbWkdrRw5EpakNb7oSQbejGtmRyjXkIS5k9ZNkygnoh7IMbqnNtcQxmiXXI7-4duHjyPhEOruHuGv9qNYN5XUIBMlb4nMZvAgoRIHQcJRGksFq1kosaCs8TjKi3wTkhaslV2DtIHkMgPayZJjlM2hkpyrsqNLZJThriRHLRlQj4S8UKQ_8b3GqVqIuT4pUucLne2iHJUZvHkxSyuNpHrZGecxoLHROfSEIWlQlLGY8zPQvuTEtI1TIXtNZo8TY_-WpYnSyGMGtkp0xupfDa_HftoiR0xywxUKfcL64q4r8Y-K6U4Xxb4mr6-0LN4ZlxFF4rjqGPcghZYt7wcVAXUrJAgl9HG_dG2DcXzkuLli1PUtR8pu8xDsGKcWjeSmYywv1RGMiWkXZC9LEFvNu_tvTVkwBARxwNeluQZVhJ-3VYkRiPQGA8HkWcuLO6sqfY8vgxDbsXYSqEa3WcUJmivSPXF2baXyqdgkbGz4U-c7pUA52ub20S6KfX7dnuMOhjihrD7C4rRZU1MJospg-lxZSMmcLlQauvARaOBngi-0WeF9a3YA0lrNAWXzAgfA3MXbUDRI4UB7eLPiOn7AR3IJzzHcquuZpLTLv7pQI3mGTYm9AXDN0RKuyOWGLRChHWhT4vXhX9k1GjG5A-l0oUjLml3Th9ot94Jw0bQ2d3ptDphazfc-diu0RnttoJGsLfb6YRB82MQ7ISd1lON_vYQrUazHYYBngzCPXRthk9_ADli-W0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://mermaid.ink/img/pako:eNqlVl1v2jAU_SuWnzYJGAHWtKjqNMFaVVXX70lb6YNxLsRrYme2A2W0_33XTgkQqq1liAd87Xvu8bkfeE65ioB26VizLCbX_YEk-Pl82--dHl_PMiA8VsqAviP1-sHjEViiwahcc3gkF813hypJ1JT0YqYtucjBWKGkeV-gXDSdE7kI5seG2BhKV7I_1AdcpRkiR0SN_Nrkw_rigPn09AwR-LhfFUZrVWGcF8m0SJkWyYxYeLA5Syqu38E8Eo40gTtut1dWZQ1yY5AEpAe9cmP_Ay4bnkkvQcDRzMcaKZ0yS6bCxiTi3UO_vHuO0FqSa_-FHHKbCLNKrbWkdrRw5EpakNb7oSQbejGtmRyjXkIS5k9ZNkygnoh7IMbqnNtcQxmiXXI7-4duHjyPhEOruHuGv9qNYN5XUIBMlb4nMZvAgoRIHQcJRGksFq1kosaCs8TjKi3wTkhaslV2DtIHkMgPayZJjlM2hkpyrsqNLZJThriRHLRlQj4S8UKQ_8b3GqVqIuT4pUucLne2iHJUZvHkxSyuNpHrZGecxoLHROfSEIWlQlLGY8zPQvuTEtI1TIXtNZo8TY_-WpYnSyGMGtkp0xupfDa_HftoiR0xywxUKfcL64q4r8Y-K6U4Xxb4mr6-0LN4ZlxFF4rjqGPcghZYt7wcVAXUrJAgl9HG_dG2DcXzkuLli1PUtR8pu8xDsGKcWjeSmYywv1RGMiWkXZC9LEFvNu_tvTVkwBARxwNeluQZVhJ-3VYkRiPQGA8HkWcuLO6sqfY8vgxDbsXYSqEa3WcUJmivSPXF2baXyqdgkbGz4U-c7pUA52ub20S6KfX7dnuMOhjihrD7C4rRZU1MJospg-lxZSMmcLlQauvARaOBngi-0WeF9a3YA0lrNAWXzAgfA3MXbUDRI4UB7eLPiOn7AR3IJzzHcquuZpLTLv7pQI3mGTYm9AXDN0RKuyOWGLRChHWhT4vXhX9k1GjG5A-l0oUjLml3Th9ot94Jw0bQ2d3ptDphazfc-diu0RnttoJGsLfb6YRB82MQ7ISd1lON_vYQrUazHYYBngzCPXRthk9_ADli-W0?type=png&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;With regards to the distinction between text, dataset, and collection, the OLAC cmmunity brings up an interesting use case.&lt;/p&gt;
+&lt;p&gt;The 
+&lt;a href=&#34;https://www.dublincore.org/specifications/dublin-core/collection-description/collection-application-profile/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dublin Core™ Collection Description Application Profile&lt;/a&gt; suggests that indexes or catalogs of resources ought to be classified as DCMIType &lt;em&gt;Collection&lt;/em&gt;. The argument is that these are collection because they are assembled and aggregated.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The term &amp;ldquo;collection&amp;rdquo; can be applied to any aggregation of physical and/or digital resources. Those resources may be of any type, so examples might include aggregations of natural objects, created objects, &amp;ldquo;born-digital&amp;rdquo; items, digital surrogates of physical items, and the catalogues of such collections (as aggregations of metadata records). The criteria for aggregation may vary: e.g. by location, by type or form of the items, by provenance of the items, by source or ownership, and so on. Collections may contain any number of items and may have varying levels of permanence.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;If we take this Application Profile and back-port its semantics to dcterms then a 
+&lt;a href=&#34;http://purl.org/dc/dcmitype/Collection&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DCMIType collection&lt;/a&gt; as defined has some interesting ramifications for resources like lexicons, encyclopedia, corpora, dictionaries, newspapers, edited multi-author works, etc. :&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Definition: An aggregation of resources.
+Comment: A collection is described as a group; its parts may also be separately described.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Resources such as annotated bibilographies, indexes, dictionaries, seem to me to be most accuratly described as DCMIType &lt;em&gt;Text&lt;/em&gt;, unless they are being futher described. Even more problematic though is that many of these resources are now engaged with in multiple ways with different audiences. For example, encyclopedias and bibilographies are often read as &lt;em&gt;Text&lt;/em&gt; by consumers, but are engaged with as &lt;em&gt;Datasets&lt;/em&gt; by producers. Is it possible that DCMIType terms are describing the manifestation? Currently Glottolog sugests that the page that a person accesses a list of resource about the Karbi language is a text resource.&lt;/p&gt;
+
+
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-glottolog-46-resources-for-hills-karbi-in-the-olac-search-interface&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/dublin-core-dcmitype/glotologrecords_hu259362def301c4a7d53fb0b3d91e2e70_59487_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Glottolog 4.6 Resources for Hills Karbi in the OLAC Search Interface&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/dublin-core-dcmitype/glotologrecords_hu259362def301c4a7d53fb0b3d91e2e70_59487_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;Glottolog 4.6 Resources for Hills Karbi&#34; width=&#34;954&#34; height=&#34;459&#34; itemprop=&#34;contentUrl&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;p&gt;Glottolog 4.6 Resources for Hills Karbi in the OLAC Search Interface
+      
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;http://dla.library.upenn.edu/dla/olac/record.html?id=glottolog_org_karb1241&#34;&gt; 
+OLAC Search&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
+        &lt;meta itemprop=&#34;name&#34; content=&#34;OLAC Search&#34; /&gt;
+      &lt;/span&gt;
+&lt;/a&gt; &lt;/span&gt;
+&lt;/p&gt;
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;There is also the remaining question, is the Glottolog page actually an &lt;em&gt;Interactive Resource&lt;/em&gt;, which pulls a &lt;em&gt;Dataset&lt;/em&gt;?&lt;/p&gt;
+&lt;p&gt;So, maybe the list of resources is a &lt;em&gt;Collection&lt;/em&gt;, the Glottolog itself as a website is an &lt;em&gt;Interactive Resource&lt;/em&gt;. The data which drives the website is a &lt;em&gt;Dataset&lt;/em&gt;. — leaving nothing as a &lt;em&gt;Text&lt;/em&gt; resource?&lt;/p&gt;
 &lt;!-- WEMI relationships
 | Same-Same | Same-Different |  |  |  |
 |:---:|---|---|---|---|
