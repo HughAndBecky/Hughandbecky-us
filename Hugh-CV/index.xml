@@ -5484,6 +5484,30 @@ Visual Linguistics. &lt;a href=&#34;http://www.visual-linguistics.net/symposium/
     </item>
     
     <item>
+      <title>Arrangement and Relationships Between Audio and Transcripts</title>
+      <link>https://hughandbecky.us/Hugh-CV/talk/2023-arrangement-and-relationships-between-audio-and-transcripts/</link>
+      <pubDate>Sat, 20 May 2023 11:30:00 -0100</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/talk/2023-arrangement-and-relationships-between-audio-and-transcripts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Collection Use and Copyright Considerations.</title>
+      <link>https://hughandbecky.us/Hugh-CV/talk/2023-collection-copyright-and-copyright-controls/</link>
+      <pubDate>Wed, 17 May 2023 11:30:00 -0100</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/talk/2023-collection-copyright-and-copyright-controls/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the boundaries of reported speech in Western Subanon</title>
+      <link>https://hughandbecky.us/Hugh-CV/talk/2023-seals/</link>
+      <pubDate>Tue, 16 May 2023 11:30:00 -0100</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/talk/2023-seals/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A Comparison of Thai and United States’ Copyright Laws as they Apply to Scholarly Video Resources</title>
       <link>https://hughandbecky.us/Hugh-CV/talk/2023-seapavaa-copyright/</link>
       <pubDate>Mon, 08 May 2023 17:00:12 -0700</pubDate>
@@ -6323,6 +6347,21 @@ Visual Linguistics. &lt;a href=&#34;http://www.visual-linguistics.net/symposium/
     </item>
     
     <item>
+      <title>Enriching Library and Archival Records with Ethnolinguistics Minority Language Identification</title>
+      <link>https://hughandbecky.us/Hugh-CV/talk/2023-cni-doctoral-fellow/</link>
+      <pubDate>Wed, 05 Apr 2023 17:00:12 -0700</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/talk/2023-cni-doctoral-fellow/</guid>
+      <description>&lt;div id=&#34;watch&#34;&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/BK8fq0riTS0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
       <title>An Analysis of Crubadan OLAC Records</title>
       <link>https://hughandbecky.us/Hugh-CV/post/crubadan-olac-records/</link>
       <pubDate>Tue, 04 Apr 2023 14:35:45 +0100</pubDate>
@@ -6364,7 +6403,7 @@ Visual Linguistics. &lt;a href=&#34;http://www.visual-linguistics.net/symposium/
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/crubadan-olac-records/_hub4fb0a3d5618c54546bd65640ee26d82_241537_3781aedb7029e4d23bef189367664de8.png&#34; data-caption=&#34;Crubadan record for Karbi (Hills Karbi) in the OLAC Interface&#34;&gt;
 
 
-  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/crubadan-olac-records/_hub4fb0a3d5618c54546bd65640ee26d82_241537_3781aedb7029e4d23bef189367664de8.png&#34; class=&#34;lazyload&#34; alt=&#34;Screenshot of the OLAC Interface&#34; width=&#34;1920&#34; height=&#34;1189&#34; itemprop=&#34;contentUrl&#34;&gt;
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/crubadan-olac-records/_hub4fb0a3d5618c54546bd65640ee26d82_241537_3781aedb7029e4d23bef189367664de8.png&#34; class=&#34;lazyload&#34; alt=&#34;Screen shot of the OLAC Interface&#34; width=&#34;1920&#34; height=&#34;1189&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
 
 
@@ -6385,25 +6424,27 @@ OLAC Interface&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.o
 &lt;/figure&gt;
 
 &lt;ol&gt;
-&lt;li&gt;Is the license actually applicable? That is who is the copyright holder and is the content actually meeting the threshold for copyright?&lt;/li&gt;
+&lt;li&gt;Is the license actually applicable? That is who is the copyright holder and is the content actually meeting the threshold for copyright? The creator is not always the copyright holder. Nor should the creator/author be assumed to be the copyright holder.&lt;/li&gt;
 &lt;li&gt;Why is the source text not indicated in the source field?&lt;/li&gt;
 &lt;li&gt;Where is the source software used to generate the resource?&lt;/li&gt;
 &lt;li&gt;The format is an application/zip and the DCMIType is &lt;em&gt;Dataset&lt;/em&gt;, so which application is the data consumable in? or which formats are used within the .zip file?&lt;/li&gt;
 &lt;li&gt;If an abstract is a summary, can or should that field be used then to declare what are the rows and columns or tables and relationships in the dataset are?&lt;/li&gt;
-&lt;li&gt;How can you have rights without a rightsholder? No copyright holder is declared. The creative commons licese is only valid if there is a valid copyright claim.&lt;/li&gt;
-&lt;li&gt;The specific resource should have a relationship to a Crubadan collection record. It doesnt have these relationships declared. This means that the automatically generated OLAC citation is also malformed.&lt;/li&gt;
+&lt;li&gt;How can you have rights without a rights-holder? No copyright holder is declared. The creative commons license is only valid if there is a valid copyright claim.&lt;/li&gt;
+&lt;li&gt;The specific resource should have a relationship to a Crubadan collection record. It doesn&amp;rsquo;t have these relationships declared. This means that the automatically generated OLAC citation is also malformed.&lt;/li&gt;
 &lt;li&gt;The part record, all records actually, should have the DCTerms citation element included. These records don&amp;rsquo;t.&lt;/li&gt;
-&lt;li&gt;Why are there no LCSH subjects?&lt;/li&gt;
+&lt;li&gt;Why are there no Library of Congress Subject Heading (LCSH) subjects? This is a really hard question to answer. What exactly is the subject of a corpus of letter-frequencies? Computational linguistics? Language Identification? This is where subject hood in language resources seems to break down a bit unless we understand subject to be not just &lt;em&gt;about-ness&lt;/em&gt;, but also &lt;em&gt;of-ness&lt;/em&gt; and &lt;em&gt;for-ness&lt;/em&gt; (utility).&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;The following two revelations about the user interface ought to be incorporated into future versions of the OLAC interface:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;OLAC presents a citation but doesn&amp;rsquo;t pull that from the record. Where does it get that information? — What is the generative process?&lt;/li&gt;
-&lt;li&gt;Why doesn&amp;rsquo;t the OLAC interface report that the links are linkrotted and now 404?&lt;/li&gt;
+&lt;li&gt;Why doesn&amp;rsquo;t the OLAC interface report that the links are link-rotted and now 404?&lt;/li&gt;
+&lt;li&gt;The included XML file appears to be unqualified Dublin Core with the addition of the OLAC metadata. However, the OLAC profile calls for the useage of Qualified Dublin Core. An investigation should be made to see if this is the result of the OLAC infastructure or the data as it was recived by OLAC. (It seems that when this record is compared with the record from 
+&lt;a href=&#34;https://hughandbecky.us/Hugh-CV/post/paradisec-olac-records-and-rights/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PARADISEC OLAC Records and Rights&lt;/a&gt; that OLAC does provide QDC when it has been provided QDC.)&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;The following XML record replicated below is from OLAC. It is retrievable 
 &lt;a href=&#34;http://www.language-archives.org/cgi-bin/olaca3.pl?verb=GetRecord&amp;amp;identifier=oai:crubadan.org:mjw&amp;amp;metadataPrefix=olac&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;, while the record is viewable in the OLAC interface 
 &lt;a href=&#34;http://www.language-archives.org/item/oai:crubadan.org:mjw&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;&amp;lt;OAI-PMH xmlns=&amp;quot;http://www.openarchives.org/OAI/2.0/&amp;quot; xmlns:xsi=&amp;quot;http://www.w3.org/2001/XMLSchema-instance&amp;quot; xsi:schemaLocation=&amp;quot;http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd&amp;quot;&amp;gt;
+&lt;pre&gt;&lt;code class=&#34;language-XML&#34;&gt;&amp;lt;OAI-PMH xmlns=&amp;quot;http://www.openarchives.org/OAI/2.0/&amp;quot; xmlns:xsi=&amp;quot;http://www.w3.org/2001/XMLSchema-instance&amp;quot; xsi:schemaLocation=&amp;quot;http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd&amp;quot;&amp;gt;
 &amp;lt;responseDate&amp;gt;2023-04-04T04:54:39Z&amp;lt;/responseDate&amp;gt;
 &amp;lt;request verb=&amp;quot;GetRecord&amp;quot; identifier=&amp;quot;oai%3Acrubadan.org%3Amjw&amp;quot; metadataPrefix=&amp;quot;olac&amp;quot;&amp;gt;http://www.language-archives.org/cgi-bin/olaca3.pl&amp;lt;/request&amp;gt;
 &amp;lt;GetRecord&amp;gt;
@@ -8849,6 +8890,123 @@ Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schem
       <pubDate>Mon, 13 Feb 2023 17:00:12 -0700</pubDate>
       <guid>https://hughandbecky.us/Hugh-CV/publication/2023-defining-language-revitalization/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>PARADISEC OLAC Records and Rights</title>
+      <link>https://hughandbecky.us/Hugh-CV/post/paradisec-olac-records-and-rights/</link>
+      <pubDate>Mon, 06 Feb 2023 14:35:45 +0100</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/post/paradisec-olac-records-and-rights/</guid>
+      <description>&lt;p&gt;Defining the scope of OLAC records is necessary. That is, a record can&amp;rsquo;t contain everything any body might want, however, while contemplating the following record I had some thoughts&amp;hellip;&lt;/p&gt;
+&lt;p&gt;This PARADISEC record does not have a date of creation, or date of copyright.&lt;/p&gt;
+&lt;p&gt;While the included record does not specify a license such as a creative commons license, some records I have seen opt for a CC-BY-NC license without a record of when the license will expire. Exprirey date is linked to the term of copyright as provided by law within a specific country. Many (if not any) records have any indication of which jurisdiction of the copyright exists under, or who else has the authority to license the materials&amp;hellip; 
+&lt;a href=&#34;https://hugh.thejourneyler.org/2022/what-are-the-rights-of-ownership/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ownership&lt;/a&gt; can include the authority to issue licenses — specifically licenses which might work in situations which are not imagined at the moment of archival.&lt;/p&gt;
+&lt;p&gt;The restriction on the access is rational. The bases of the restriction should be described and linked. The access basis does not remove any copyright considerations but may limit the kinds of licenses which may be applied.&lt;/p&gt;
+
+
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-paradisec-record-for-frog-story-in-the-olac-interface&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/paradisec-olac-records-and-rights/featured_huc0fc9ad1f1cbebce936878f6092d95b6_196944_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;PARADISEC record for Frog story in the OLAC Interface&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/paradisec-olac-records-and-rights/featured_huc0fc9ad1f1cbebce936878f6092d95b6_196944_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;Screen shot of the OLAC Interface&#34; width=&#34;928&#34; height=&#34;864&#34; itemprop=&#34;contentUrl&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;p&gt;PARADISEC record for Frog story in the OLAC Interface
+      
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;http://www.language-archives.org/item/oai:paradisec.org.au:GK1-FM15_61_2c&#34;&gt; 
+OLAC Interface&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
+        &lt;meta itemprop=&#34;name&#34; content=&#34;OLAC Interface&#34; /&gt;
+      &lt;/span&gt;
+&lt;/a&gt; &lt;/span&gt;
+&lt;/p&gt;
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;The following XML record replicated below is from OLAC. It is retrievable 
+&lt;a href=&#34;http://www.language-archives.org/cgi-bin/olaca3.pl?verb=GetRecord&amp;amp;identifier=oai:paradisec.org.au:GK1-FM15_61_2c&amp;amp;metadataPrefix=olac&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;, while the record is viewable in the OLAC interface 
+&lt;a href=&#34;http://www.language-archives.org/item/oai:paradisec.org.au:GK1-FM15_61_2c&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-xml&#34;&gt;&amp;lt;OAI-PMH xmlns=&amp;quot;http://www.openarchives.org/OAI/2.0/&amp;quot; xmlns:xsi=&amp;quot;http://www.w3.org/2001/XMLSchema-instance&amp;quot; xsi:schemaLocation=&amp;quot;http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd&amp;quot;&amp;gt;
+&amp;lt;responseDate&amp;gt;2023-02-06T17:08:18Z&amp;lt;/responseDate&amp;gt;
+&amp;lt;request verb=&amp;quot;GetRecord&amp;quot; identifier=&amp;quot;oai%3Aparadisec.org.au%3AGK1-FM15_61_2c&amp;quot; metadataPrefix=&amp;quot;olac&amp;quot;&amp;gt;http://www.language-archives.org/cgi-bin/olaca3.pl&amp;lt;/request&amp;gt;
+&amp;lt;GetRecord&amp;gt;
+&amp;lt;record&amp;gt;
+&amp;lt;header&amp;gt;
+&amp;lt;identifier&amp;gt;oai:paradisec.org.au:GK1-FM15_61_2c&amp;lt;/identifier&amp;gt;
+&amp;lt;datestamp&amp;gt;2022-06-18&amp;lt;/datestamp&amp;gt;
+&amp;lt;/header&amp;gt;
+&amp;lt;metadata&amp;gt;
+&amp;lt;olac:olac xmlns:dc=&amp;quot;http://purl.org/dc/elements/1.1/&amp;quot; xmlns:dcterms=&amp;quot;http://purl.org/dc/terms/&amp;quot; xmlns:olac=&amp;quot;http://www.language-archives.org/OLAC/1.1/&amp;quot; xsi:schemaLocation=&amp;quot; http://purl.org/dc/elements/1.1/ http://www.language-archives.org/OLAC/1.1/dc.xsd http://purl.org/dc/terms/ http://www.language-archives.org/OLAC/1.1/dcterms.xsd http://www.language-archives.org/OLAC/1.1/ http://www.language-archives.org/OLAC/1.1/olac.xsd &amp;quot;&amp;gt;
+&amp;lt;dc:title&amp;gt;Frog story&amp;lt;/dc:title&amp;gt;
+&amp;lt;dc:contributor xsi:type=&amp;quot;olac:role&amp;quot; olac:code=&amp;quot;compiler&amp;quot;&amp;gt;Felicity Meakins&amp;lt;/dc:contributor&amp;gt;
+&amp;lt;dc:contributor xsi:type=&amp;quot;olac:role&amp;quot; olac:code=&amp;quot;participant&amp;quot;&amp;gt;FAP &amp;lt;/dc:contributor&amp;gt;
+&amp;lt;dc:contributor xsi:type=&amp;quot;olac:role&amp;quot; olac:code=&amp;quot;participant&amp;quot;&amp;gt;FKP &amp;lt;/dc:contributor&amp;gt;
+&amp;lt;dc:contributor xsi:type=&amp;quot;olac:role&amp;quot; olac:code=&amp;quot;recorder&amp;quot;&amp;gt;Cassandra Algy&amp;lt;/dc:contributor&amp;gt;
+&amp;lt;dc:contributor xsi:type=&amp;quot;olac:role&amp;quot; olac:code=&amp;quot;participant&amp;quot;&amp;gt;FAP&#39;s son &amp;lt;/dc:contributor&amp;gt;
+&amp;lt;dc:contributor xsi:type=&amp;quot;olac:role&amp;quot; olac:code=&amp;quot;participant&amp;quot;&amp;gt;FSL &amp;lt;/dc:contributor&amp;gt;
+&amp;lt;dc:contributor xsi:type=&amp;quot;olac:role&amp;quot; olac:code=&amp;quot;speaker&amp;quot;&amp;gt;FAL &amp;lt;/dc:contributor&amp;gt;
+&amp;lt;dc:coverage xsi:type=&amp;quot;dcterms:ISO3166&amp;quot;&amp;gt;AU&amp;lt;/dc:coverage&amp;gt;
+&amp;lt;dc:coverage xsi:type=&amp;quot;dcterms:Box&amp;quot;&amp;gt;northlimit=-16.0724; southlimit=-20.4217; westlimit=129.337; eastlimit=133.145&amp;lt;/dc:coverage&amp;gt;
+&amp;lt;dc:date xsi:type=&amp;quot;dcterms:W3CDTF&amp;quot;&amp;gt;2015-09-30&amp;lt;/dc:date&amp;gt;
+&amp;lt;dcterms:created xsi:type=&amp;quot;dcterms:W3CDTF&amp;quot;&amp;gt;2015-09-30&amp;lt;/dcterms:created&amp;gt;
+&amp;lt;dc:description&amp;gt;Frog Story. FAL is 9 years old. FKP and FAP, FAP&#39;s son and FSL are also present. Cassandra Algy is operating the camera. 3:54min. . Language as given: Gurindji Kriol&amp;lt;/dc:description&amp;gt;
+&amp;lt;dcterms:tableOfContents xsi:type=&amp;quot;dcterms:URI&amp;quot;&amp;gt;http://catalog.paradisec.org.au/repository/GK1/FM15_61_2c/GK1-FM15_61_2c-01.eaf&amp;lt;/dcterms:tableOfContents&amp;gt;
+&amp;lt;dcterms:tableOfContents xsi:type=&amp;quot;dcterms:URI&amp;quot;&amp;gt;http://catalog.paradisec.org.au/repository/GK1/FM15_61_2c/GK1-FM15_61_2c-01.cha&amp;lt;/dcterms:tableOfContents&amp;gt;
+&amp;lt;dcterms:tableOfContents xsi:type=&amp;quot;dcterms:URI&amp;quot;&amp;gt;http://catalog.paradisec.org.au/repository/GK1/FM15_61_2c/GK1-FM15_61_2c-01.txt&amp;lt;/dcterms:tableOfContents&amp;gt;
+&amp;lt;dcterms:tableOfContents xsi:type=&amp;quot;dcterms:URI&amp;quot;&amp;gt;http://catalog.paradisec.org.au/repository/GK1/FM15_61_2c/GK1-FM15_61_2c-01.wav&amp;lt;/dcterms:tableOfContents&amp;gt;
+&amp;lt;dcterms:tableOfContents xsi:type=&amp;quot;dcterms:URI&amp;quot;&amp;gt;http://catalog.paradisec.org.au/repository/GK1/FM15_61_2c/GK1-FM15_61_2c-01.mp3&amp;lt;/dcterms:tableOfContents&amp;gt;
+&amp;lt;dc:format&amp;gt;Digitised: no&amp;lt;/dc:format&amp;gt;
+&amp;lt;dc:identifier&amp;gt;GK1-FM15_61_2c&amp;lt;/dc:identifier&amp;gt;
+&amp;lt;dc:identifier xsi:type=&amp;quot;dcterms:URI&amp;quot;&amp;gt;http://catalog.paradisec.org.au/repository/GK1/FM15_61_2c&amp;lt;/dc:identifier&amp;gt;
+&amp;lt;dcterms:bibliographicCitation&amp;gt;Felicity Meakins (collector), FAP (participant), FKP (participant), Cassandra Algy (recorder), FAP&#39;s son (participant), FSL (participant), FAL (speaker), 2015. Frog story. XML/PLAIN/X-WAV/MPEG. GK1-FM15_61_2c at catalog.paradisec.org.au. https://dx.doi.org/10.26278/KADF-H358&amp;lt;/dcterms:bibliographicCitation&amp;gt;
+&amp;lt;dc:language xsi:type=&amp;quot;olac:language&amp;quot;/&amp;gt;
+&amp;lt;dc:rights&amp;gt;Closed (subject to the access condition details)&amp;lt;/dc:rights&amp;gt;
+&amp;lt;dcterms:accessRights&amp;gt;Closed (subject to the access condition details), If you wish to request access to the audio and transcript files, please contact the depositor, Felicity Meakins, at the School of Languages and Cultures, University of Queensland. No access will be granted to material containing deceased people without prior consent of the families.&amp;lt;/dcterms:accessRights&amp;gt;
+&amp;lt;dc:subject xsi:type=&amp;quot;olac:linguistic-field&amp;quot; olac:code=&amp;quot;language_documentation&amp;quot;/&amp;gt;
+&amp;lt;dc:subject xsi:type=&amp;quot;olac:language&amp;quot;/&amp;gt;
+&amp;lt;dc:type xsi:type=&amp;quot;dcterms:DCMIType&amp;quot;&amp;gt;Sound&amp;lt;/dc:type&amp;gt;
+&amp;lt;/olac:olac&amp;gt;
+&amp;lt;/metadata&amp;gt;
+&amp;lt;/record&amp;gt;
+&amp;lt;/GetRecord&amp;gt;
+&amp;lt;/OAI-PMH&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+</description>
     </item>
     
     <item>
@@ -21594,14 +21752,6 @@ useful, OLAC lacks a deep semantic definition and relies mostly on best practice
 
 
 </description>
-    </item>
-    
-    <item>
-      <title>Reported Speech in Western Subanon</title>
-      <link>https://hughandbecky.us/Hugh-CV/talk/2023-seals/</link>
-      <pubDate>Wed, 30 Jun 2021 11:30:00 -0100</pubDate>
-      <guid>https://hughandbecky.us/Hugh-CV/talk/2023-seals/</guid>
-      <description></description>
     </item>
     
     <item>
@@ -51653,390 +51803,6 @@ Folktale texts, 13-23. Studies in Philippine Linguistics, 2(2). Manila: Linguist
 &lt;p&gt;What is the continued importance of a feature analysis to the field of descriptive linguistics and to the field of historical linguistics and to the field of Phonology?&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://hughandbecky.us/Hugh-CV/talk/2023-arrangement-and-relationships-between-audio-and-transcripts/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://hughandbecky.us/Hugh-CV/talk/2023-arrangement-and-relationships-between-audio-and-transcripts/</guid>
-      <description>&lt;h1 id=&#34;documentation-httpssourcethemescomacademicdocsmanaging-content&#34;&gt;Documentation: &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/&#34;&gt;https://sourcethemes.com/academic/docs/managing-content/&lt;/a&gt;&lt;/h1&gt;
-&lt;p&gt;authors:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;admin&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;title: &amp;ldquo;Arrangement and Relationships Between Audio and Transcripts&amp;rdquo;
-subtitle:
-summary: &amp;ldquo;When and where does community review and peer-review create mutal benefit?&amp;rdquo;
-abstract: &amp;ldquo;Audio recordings of ethnolinguistic minorities have been created in almost every audio format known. Sometimes these recordings have accompanying transcripts. How should these transcripts be arranged and how should they show up in searches? Older archival resource management practices have divided co-created resources by media type and associated preservation requirements. But language scholars are still making new, born-digital, collections of lesser known languages. Modern digital storage solutions do not require the splitting of digital resources in the same ways. Yet, splitting resources and grouping them, as appropriate in digital systems, facilitates clear description, enhances discovery, and eventual reuse by broad audiences. We present some of the common born-digital workflows used in language scholarship, along with the diverse kinds of resources produced. Resources include: audio, video, still images, participant permission documentation, transcripts, translations, annotations, and collection descriptions. We then discuss how these diverse kinds of resources can be connected in rich, coherent sets of items within digital libraries and institutional repositories using the Open Language Archive Community Application Profile. We show examples from specific collections created in Mexico and Nigeria; presenting resource relationships and descriptions using Dublin Core Metadata. We suggest indexing transcriptions as separate items, but linking them with their audio. This proves to be a useful strategy for both transcribed audio and read texts. This approach is favored over arrangement systems which “bundle” the resources as a single entity.&amp;rdquo;&lt;/p&gt;
-&lt;p&gt;event: &amp;ldquo;57th Annual Conference of the Association for Recorded Sound Collections&amp;rdquo;
-event_url: &amp;ldquo;&lt;a href=&#34;https://www.arsc-audio.org/conference.html%22&#34;&gt;https://www.arsc-audio.org/conference.html&amp;quot;&lt;/a&gt;
-location: &amp;ldquo;Pittsburgh, Pennsylvania&amp;rdquo;
-draft: true&lt;/p&gt;
-&lt;p&gt;crafted_citation: &amp;ldquo;Hugh J. Paterson III. 2023. Arrangement and Relationships Between Audio and Transcripts. Paper presented at the 57th Annual Conference of the Association for Recorded Sound Collections. May 20th, 2023.&amp;rdquo;&lt;/p&gt;
-&lt;p&gt;tags: [&amp;ldquo;Archival Bond&amp;rdquo;, &amp;ldquo;Audio&amp;rdquo;, &amp;ldquo;Transcripts&amp;rdquo;]&lt;/p&gt;
-&lt;h1 id=&#34;categories-include-defense-peer-reviewed-conference-master-class-colloquium&#34;&gt;categories include: Defense, Peer Reviewed, Conference, Master Class, Colloquium&lt;/h1&gt;
-&lt;p&gt;categories: [&amp;ldquo;Peer Reviewed&amp;rdquo;, &amp;ldquo;Conference&amp;rdquo;]&lt;/p&gt;
-&lt;p&gt;date: 2023-10-05T11:30:00-01:00
-lastmod:
-featured: false
-draft: false&lt;/p&gt;
-&lt;h1 id=&#34;schedule-page-publish-date-not-publications-date&#34;&gt;Schedule page publish date (NOT publication&amp;rsquo;s date).&lt;/h1&gt;
-&lt;p&gt;publishDate: 2020-12-19T17:00:12-07:00&lt;/p&gt;
-&lt;h1 id=&#34;iso-6393-language-codes-and-script-codes-used-related-to-this-work&#34;&gt;ISO 639‑3 language codes and script codes used related to this work&lt;/h1&gt;
-&lt;p&gt;topic_language: []
-mentioned_language: []
-authored_language:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;eng
-language_sub-variety: []&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;valid-script-options-are-the-values-of-iso-1924-see-httpsenwikipediaorgwikiscript_unicode--zzzz--unknown-zyyy--undetermined-script-zxxx--unwritten-documents--thai--thai-khmr--khmer-grek--greek-arab--arabic-latn--latin-latg--latin-gaelic-variant-latf--latin-fraktur-variant-telu--telugu-hebr--hebrew-cyrl-cyrillic&#34;&gt;Valid Script options are the values of ISO 1924. see: &lt;a href=&#34;https://en.wikipedia.org/wiki/Script_(Unicode);&#34;&gt;https://en.wikipedia.org/wiki/Script_(Unicode);&lt;/a&gt;  Zzzz = Unknown; Zyyy = undetermined script; Zxxx = unwritten documents;  Thai = Thai; Khmr = Khmer; Grek = Greek; Arab = Arabic; Latn = Latin; Latg = Latin (Gaelic variant); Latf = Latin (Fraktur variant); Telu = Telugu; Hebr = Hebrew; Cyrl= Cyrillic&lt;/h1&gt;
-&lt;p&gt;script_used: [&amp;ldquo;latn&amp;rdquo;]
-script_mentioned: []
-orthography_mentioned: []
-orthography_used: []&lt;/p&gt;
-&lt;p&gt;author: []
-locations: []
-people: []
-trips: []
-institutions: []
-countries: []
-cities: []
-written_from: []
-#Print, Event, Audio, Video
-content_types: [&amp;ldquo;Video&amp;rdquo;, &amp;ldquo;Print&amp;rdquo;, &amp;ldquo;Event&amp;rdquo;]&lt;/p&gt;
-&lt;p&gt;#OLAC metadata&lt;/p&gt;
-&lt;p&gt;#http://www.language-archives.org/REC/role.html&lt;/p&gt;
-&lt;h1 id=&#34;valid-or-values-include-annotator-author-compiler-consultant-data_inputter--depositor-developer-editor-illustrator-interpreter-interviewer-participant-performer-photographer-recorder-researcher-research_participant-responder-signer-singer-speaker-sponsor-transcriber-translator&#34;&gt;Valid OR values include: annotator, author, compiler, consultant, data_inputter,  depositor, developer, editor, illustrator, interpreter, interviewer, participant, performer, photographer, recorder, researcher, research_participant, responder, signer, singer, speaker, sponsor, transcriber, translator&lt;/h1&gt;
-&lt;p&gt;olac_roles:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;role: author
-name: Hugh Paterson III&lt;/li&gt;
-&lt;li&gt;role: speaker
-name: Hugh Paterson III&lt;/li&gt;
-&lt;li&gt;role: author
-name: Richard Griscom&lt;/li&gt;
-&lt;li&gt;role: author
-name: Lauren B. Collister&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;httpwwwlanguage-archivesorgrecfieldhtml&#34;&gt;&lt;a href=&#34;http://www.language-archives.org/REC/field.html&#34;&gt;http://www.language-archives.org/REC/field.html&lt;/a&gt;&lt;/h1&gt;
-&lt;p&gt;#Valid OLS values: anthropological_linguistics, applied_linguistics, cognitive_science, computational_linguistics, discourse_analysis, forensic_linguistics, general_linguistics, historical_linguistics, history_of_linguistics, language_acquisition, language_documentation, lexicography, linguistics_and_literature, linguistic_theories, mathematical_linguistics, morphology, neurolinguistics, philosophy_of_language, phonetics, phonology, pragmatics, psycholinguistics, semantics, sociolinguistics, syntax, text_and_corpus_linguistics, translating_and_interpreting, typology, writing_systems&lt;/p&gt;
-&lt;p&gt;olac_linguistic_subject:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;subject_term: language_documentation&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;httpwwwlanguage-archivesorgrectypehtml&#34;&gt;&lt;a href=&#34;http://www.language-archives.org/REC/type.html&#34;&gt;http://www.language-archives.org/REC/type.html&lt;/a&gt;&lt;/h1&gt;
-&lt;p&gt;#Valid OLDT values: language_description, primary_text, lexicon
-olac_linguistic_data_type:&lt;/p&gt;
-&lt;h1 id=&#34;custom-links-optional&#34;&gt;Custom links (optional).&lt;/h1&gt;
-&lt;h1 id=&#34;uncomment-and-edit-lines-below-to-show-custom-links&#34;&gt;Uncomment and edit lines below to show custom links.&lt;/h1&gt;
-&lt;h1 id=&#34;links&#34;&gt;links:&lt;/h1&gt;
-&lt;h1 id=&#34;--name-follow&#34;&gt;- name: Follow&lt;/h1&gt;
-&lt;h1 id=&#34;url-httpstwittercom&#34;&gt;url: &lt;a href=&#34;https://twitter.com&#34;&gt;https://twitter.com&lt;/a&gt;&lt;/h1&gt;
-&lt;h1 id=&#34;icon_pack-fab&#34;&gt;icon_pack: fab&lt;/h1&gt;
-&lt;h1 id=&#34;icon-twitter&#34;&gt;icon: twitter&lt;/h1&gt;
-&lt;p&gt;#links:
-#- name: &amp;ldquo;Marlett&amp;rsquo;s Slides&amp;rdquo;&lt;/p&gt;
-&lt;h1 id=&#34;url-colloquiummaking-it-last-marlettmakingitlast2pdf&#34;&gt;url: &amp;ldquo;colloquium/Making-it-last-Marlett/MakingItLast2.pdf&amp;rdquo;&lt;/h1&gt;
-&lt;p&gt;#- name: &amp;ldquo;Paterson&amp;rsquo;s Slides&amp;rdquo;&lt;/p&gt;
-&lt;h1 id=&#34;url-colloquiummaking-it-last-patersonmaking-it-last-paterson-slidespdf&#34;&gt;url: &amp;ldquo;colloquium/Making-it-last-Paterson/Making-it-last-Paterson-Slides.pdf&amp;rdquo;&lt;/h1&gt;
-&lt;h1 id=&#34;icon_pack-fas&#34;&gt;icon_pack: fas&lt;/h1&gt;
-&lt;h1 id=&#34;icon-archive&#34;&gt;icon: archive&lt;/h1&gt;
-&lt;p&gt;links:
-#- name: Conference Abstract&lt;/p&gt;
-&lt;h1 id=&#34;url-the-role-of-the-language-community-in-peer-review-process-for-collectionspdf&#34;&gt;url: The-Role-of-the-Language-Community-in-Peer-Review-process-for-Collections.pdf&lt;/h1&gt;
-&lt;h1 id=&#34;custom-links-optional-1&#34;&gt;Custom links (optional).&lt;/h1&gt;
-&lt;h1 id=&#34;uncomment-and-edit-lines-below-to-show-custom-links-1&#34;&gt;Uncomment and edit lines below to show custom links.&lt;/h1&gt;
-&lt;h1 id=&#34;links-1&#34;&gt;links:&lt;/h1&gt;
-&lt;h1 id=&#34;--name-follow-1&#34;&gt;- name: Follow&lt;/h1&gt;
-&lt;h1 id=&#34;url-httpstwittercom-1&#34;&gt;url: &lt;a href=&#34;https://twitter.com&#34;&gt;https://twitter.com&lt;/a&gt;&lt;/h1&gt;
-&lt;h1 id=&#34;icon_pack-fab-1&#34;&gt;icon_pack: fab&lt;/h1&gt;
-&lt;h1 id=&#34;icon-twitter-1&#34;&gt;icon: twitter&lt;/h1&gt;
-&lt;p&gt;#- name: Source Files&lt;/p&gt;
-&lt;h1 id=&#34;url-httpsarchiveorg&#34;&gt;url: #https://archive.org&lt;/h1&gt;
-&lt;h1 id=&#34;icon_pack-fas-1&#34;&gt;icon_pack: fas&lt;/h1&gt;
-&lt;h1 id=&#34;icon-archive-1&#34;&gt;icon: archive&lt;/h1&gt;
-&lt;p&gt;#- name: Grant Proposal&lt;/p&gt;
-&lt;h1 id=&#34;url-httpstwittercom-2&#34;&gt;url: #https://twitter.com&lt;/h1&gt;
-&lt;h1 id=&#34;icon_pack-far&#34;&gt;icon_pack: far&lt;/h1&gt;
-&lt;h1 id=&#34;icon-file-alt&#34;&gt;icon: file-alt&lt;/h1&gt;
-&lt;p&gt;#- name: Blog Post&lt;/p&gt;
-&lt;h1 id=&#34;url-httpstwittercom-3&#34;&gt;url: #https://twitter.com&lt;/h1&gt;
-&lt;h1 id=&#34;icon_pack-far-1&#34;&gt;icon_pack: far&lt;/h1&gt;
-&lt;h1 id=&#34;icon-sticky-note&#34;&gt;icon: sticky-note&lt;/h1&gt;
-&lt;p&gt;#- name: Review&lt;/p&gt;
-&lt;h1 id=&#34;url-httpstwittercom-4&#34;&gt;url: #https://twitter.com&lt;/h1&gt;
-&lt;h1 id=&#34;icon_pack-fas-2&#34;&gt;icon_pack: fas&lt;/h1&gt;
-&lt;h1 id=&#34;icon-quote-left&#34;&gt;icon: quote-left&lt;/h1&gt;
-&lt;p&gt;#- name: Reddit&lt;/p&gt;
-&lt;h1 id=&#34;url-httpstwittercom-5&#34;&gt;url: #https://twitter.com&lt;/h1&gt;
-&lt;h1 id=&#34;icon_pack-fab-2&#34;&gt;icon_pack: fab&lt;/h1&gt;
-&lt;h1 id=&#34;icon-reddit-alien&#34;&gt;icon: reddit-alien&lt;/h1&gt;
-&lt;p&gt;#- name: Archive Deposit&lt;/p&gt;
-&lt;h1 id=&#34;url-httpsosfiobe46p&#34;&gt;url: &lt;a href=&#34;https://osf.io/be46p&#34;&gt;https://osf.io/be46p&lt;/a&gt;&lt;/h1&gt;
-&lt;h1 id=&#34;icon_pack-fas-3&#34;&gt;icon_pack: fas&lt;/h1&gt;
-&lt;h1 id=&#34;icon-landmark&#34;&gt;icon: landmark&lt;/h1&gt;
-&lt;p&gt;#- name: Video File
-#url: &lt;a href=&#34;https://osf.io/7h9su&#34;&gt;https://osf.io/7h9su&lt;/a&gt;&lt;/p&gt;
-&lt;h1 id=&#34;icon_pack-fas-4&#34;&gt;icon_pack: fas&lt;/h1&gt;
-&lt;h1 id=&#34;icon-file-video&#34;&gt;icon: file-video&lt;/h1&gt;
-&lt;p&gt;#- name: Amazon&lt;/p&gt;
-&lt;h1 id=&#34;url-httpstwittercom-6&#34;&gt;url: #https://twitter.com&lt;/h1&gt;
-&lt;h1 id=&#34;icon_pack-fab-3&#34;&gt;icon_pack: fab&lt;/h1&gt;
-&lt;h1 id=&#34;icon-amazon&#34;&gt;icon: amazon&lt;/h1&gt;
-&lt;h1 id=&#34;note-there-is-an-official-dataset-theme-item-url_dataset&#34;&gt;Note there is an official Dataset theme item url_dataset&lt;/h1&gt;
-&lt;p&gt;#- name: Data set&lt;/p&gt;
-&lt;h1 id=&#34;url-httpstwittercom-7&#34;&gt;url: #https://twitter.com&lt;/h1&gt;
-&lt;h1 id=&#34;icon_pack-fas-5&#34;&gt;icon_pack: fas&lt;/h1&gt;
-&lt;h1 id=&#34;icon-dice-d20&#34;&gt;icon: dice-d20&lt;/h1&gt;
-&lt;p&gt;#- name: Watch&lt;/p&gt;
-&lt;h1 id=&#34;url-talk2022-the-role-of-the-language-community-in-peer-review-process-for-collectionswatch&#34;&gt;url: /talk/2022-the-role-of-the-language-community-in-peer-review-process-for-collections/#watch&lt;/h1&gt;
-&lt;h1 id=&#34;icon_pack-fas-6&#34;&gt;icon_pack: fas&lt;/h1&gt;
-&lt;h1 id=&#34;icon-video&#34;&gt;icon: video&lt;/h1&gt;
-&lt;h1 id=&#34;optional-filename-of-your-slides-within-your-talks-folder-or-a-url&#34;&gt;Optional filename of your slides within your talk&amp;rsquo;s folder or a URL.&lt;/h1&gt;
-&lt;p&gt;url_preprint:
-url_code:
-url_dataset:
-url_poster:
-url_project:
-url_source:
-#url_video: &lt;a href=&#34;https://youtu.be/Lg6pzBhOnOY&#34;&gt;https://youtu.be/Lg6pzBhOnOY&lt;/a&gt;
-#url_slides: &lt;a href=&#34;https://docs.google.com/presentation/d/1nj2ObQ20IaxNeikaiYgK_nkMqf_IQgAQ04YobQL0qf4/edit?usp=sharing&#34;&gt;https://docs.google.com/presentation/d/1nj2ObQ20IaxNeikaiYgK_nkMqf_IQgAQ04YobQL0qf4/edit?usp=sharing&lt;/a&gt;
-url_pdf:&lt;/p&gt;
-&lt;h1 id=&#34;featured-image&#34;&gt;Featured image&lt;/h1&gt;
-&lt;h1 id=&#34;to-use-add-an-image-named-featuredjpgpng-to-your-pages-folder&#34;&gt;To use, add an image named &lt;code&gt;featured.jpg/png&lt;/code&gt; to your page&amp;rsquo;s folder.&lt;/h1&gt;
-&lt;h1 id=&#34;focal-points-smart-center-topleft-top-topright-left-right-bottomleft-bottom-bottomright&#34;&gt;Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.&lt;/h1&gt;
-&lt;h1 id=&#34;placement-options-1--full-column-width-2--out-set-3--screen-width&#34;&gt;Placement options: 1 = Full column width, 2 = Out-set, 3 = Screen-width.&lt;/h1&gt;
-&lt;h1 id=&#34;credit-uses-name-of-the-photographer&#34;&gt;Credit Uses Name of the photographer.&lt;/h1&gt;
-&lt;h1 id=&#34;fill-is-blank-or-true-it-tells-the-theme-to-fill-vs-fit-the-image-per-hugo-options-fill-is-the-wowchemy-theme-default-but-in-patersons-modified-theme-fit-is-default-to-force-an-item-to-the-wowchemy-normal-behavior-set-fill-to-true&#34;&gt;Fill is blank or true. It tells the theme to fill vs fit the image per hugo options. Fill is the wowchemy theme default, but in Paterson&amp;rsquo;s modified theme fit is default. To force an item to the wowchemy normal behavior set fill to true.&lt;/h1&gt;
-&lt;p&gt;image:
-credit:
-fill:
-placement:
-caption: &amp;quot;&amp;rdquo;
-focal_point: &amp;quot;&amp;rdquo;
-preview_only: false&lt;/p&gt;
-&lt;h1 id=&#34;optional-featured-image-relative-to-staticmedia-folder-so-that-a-different-image-can-be-used-in-on-the-home-page-and-the-project-page&#34;&gt;Optional featured image (relative to &lt;code&gt;static/media/&lt;/code&gt; folder). So that a different image can be used in on the home page and the project page.&lt;/h1&gt;
-&lt;p&gt;header:
-image:
-caption:&lt;/p&gt;
-&lt;h1 id=&#34;projects-optional&#34;&gt;Projects (optional).&lt;/h1&gt;
-&lt;h1 id=&#34;associate-this-post-with-one-or-more-of-your-projects&#34;&gt;Associate this post with one or more of your projects.&lt;/h1&gt;
-&lt;h1 id=&#34;simply-enter-your-projects-folder-or-file-name-without-extension&#34;&gt;Simply enter your project&amp;rsquo;s folder or file name without extension.&lt;/h1&gt;
-&lt;h1 id=&#34;eg-projects--internal-project-references-contentprojectdeep-learningindexmd&#34;&gt;E.g. &lt;code&gt;projects = [&amp;quot;internal-project&amp;quot;]&lt;/code&gt; references &lt;code&gt;content/project/deep-learning/index.md&lt;/code&gt;.&lt;/h1&gt;
-&lt;h1 id=&#34;otherwise-set-projects--&#34;&gt;Otherwise, set &lt;code&gt;projects = []&lt;/code&gt;.&lt;/h1&gt;
-&lt;p&gt;projects: [&amp;ldquo;2021-Language-Documentation-Collection-Assesment&amp;rdquo;, &amp;ldquo;2012-Archive-Usability&amp;rdquo;]&lt;/p&gt;
-&lt;h1 id=&#34;does-the-content-use-math-formatting&#34;&gt;Does the content use math formatting&lt;/h1&gt;
-&lt;p&gt;math: false&lt;/p&gt;
-&lt;h1 id=&#34;does-the-content-use-source-code-highlighting&#34;&gt;Does the content use source code highlighting?&lt;/h1&gt;
-&lt;p&gt;highlight: false&lt;/p&gt;
-&lt;h1 id=&#34;slides-optional&#34;&gt;Slides (optional).&lt;/h1&gt;
-&lt;h1 id=&#34;associate-this-publication-with-markdown-slides&#34;&gt;Associate this publication with Markdown slides.&lt;/h1&gt;
-&lt;h1 id=&#34;simply-enter-your-slide-decks-filename-without-extension&#34;&gt;Simply enter your slide deck&amp;rsquo;s filename without extension.&lt;/h1&gt;
-&lt;h1 id=&#34;eg-slides-example-references-contentslidesexampleindexmd&#34;&gt;E.g. &lt;code&gt;slides: &amp;quot;example&amp;quot;&lt;/code&gt; references &lt;code&gt;content/slides/example/index.md&lt;/code&gt;.&lt;/h1&gt;
-&lt;h1 id=&#34;otherwise-set-slides-&#34;&gt;Otherwise, set &lt;code&gt;slides: &amp;quot;&amp;quot;&lt;/code&gt;.&lt;/h1&gt;
-&lt;p&gt;slides: &amp;quot;&amp;rdquo;&lt;/p&gt;
-&lt;h2 id=&#34;div&#34;&gt;#&lt;div id=&#34;watch&#34;&gt;
-#
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/Lg6pzBhOnOY&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-#&lt;/div&gt;&lt;/h2&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://hughandbecky.us/Hugh-CV/talk/2023-collection-copyright-and-copyright-controls/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://hughandbecky.us/Hugh-CV/talk/2023-collection-copyright-and-copyright-controls/</guid>
-      <description>&lt;h1 id=&#34;documentation-httpssourcethemescomacademicdocsmanaging-content&#34;&gt;Documentation: &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/&#34;&gt;https://sourcethemes.com/academic/docs/managing-content/&lt;/a&gt;&lt;/h1&gt;
-&lt;p&gt;authors:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;admin&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;title: &amp;ldquo;Collection Use and Copyright Controls.&amp;rdquo;
-subtitle:
-summary: &amp;ldquo;Copyright issues for collectors and stweards of collections.&amp;rdquo;
-abstract: &amp;ldquo;TBD&amp;rdquo;&lt;/p&gt;
-&lt;p&gt;event: &amp;ldquo;57th Annual Conference of the Association for Recorded Sound Collections&amp;rdquo;
-event_url: &amp;ldquo;&lt;a href=&#34;https://www.arsc-audio.org/conference.html%22&#34;&gt;https://www.arsc-audio.org/conference.html&amp;quot;&lt;/a&gt;
-location: &amp;ldquo;Pittsburgh, Pennsylvania&amp;rdquo;
-draft: false&lt;/p&gt;
-&lt;p&gt;crafted_citation: &amp;ldquo;Paterson III, Hugh J. 2023. Collection Use and Copyright Controls. Presented at the 57th Annual Conference of the Association for Recorded Sound Collections. Pittsburgh, Pennsylvania. May 17th.&amp;rdquo;&lt;/p&gt;
-&lt;p&gt;tags: [&amp;ldquo;Copyright&amp;rdquo;, &amp;ldquo;Collections&amp;rdquo;]&lt;/p&gt;
-&lt;h1 id=&#34;categories-include-defense-peer-reviewed-conference-master-class-colloquium&#34;&gt;categories include: Defense, Peer Reviewed, Conference, Master Class, Colloquium&lt;/h1&gt;
-&lt;p&gt;categories: [&amp;ldquo;Peer Reviewed&amp;rdquo;, &amp;ldquo;Conference&amp;rdquo;]&lt;/p&gt;
-&lt;p&gt;date: 2023-05-17T11:30:00-01:00
-lastmod:
-featured: false
-draft: false&lt;/p&gt;
-&lt;h1 id=&#34;schedule-page-publish-date-not-publications-date&#34;&gt;Schedule page publish date (NOT publication&amp;rsquo;s date).&lt;/h1&gt;
-&lt;p&gt;publishDate: 2020-12-19T17:00:12-07:00&lt;/p&gt;
-&lt;h1 id=&#34;iso-6393-language-codes-and-script-codes-used-related-to-this-work&#34;&gt;ISO 639‑3 language codes and script codes used related to this work&lt;/h1&gt;
-&lt;p&gt;topic_language: []
-mentioned_language: []
-authored_language:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;eng
-language_sub-variety: []&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;valid-script-options-are-the-values-of-iso-1924-see-httpsenwikipediaorgwikiscript_unicode--zzzz--unknown-zyyy--undetermined-script-zxxx--unwritten-documents--thai--thai-khmr--khmer-grek--greek-arab--arabic-latn--latin-latg--latin-gaelic-variant-latf--latin-fraktur-variant-telu--telugu-hebr--hebrew-cyrl-cyrillic&#34;&gt;Valid Script options are the values of ISO 1924. see: &lt;a href=&#34;https://en.wikipedia.org/wiki/Script_(Unicode);&#34;&gt;https://en.wikipedia.org/wiki/Script_(Unicode);&lt;/a&gt;  Zzzz = Unknown; Zyyy = undetermined script; Zxxx = unwritten documents;  Thai = Thai; Khmr = Khmer; Grek = Greek; Arab = Arabic; Latn = Latin; Latg = Latin (Gaelic variant); Latf = Latin (Fraktur variant); Telu = Telugu; Hebr = Hebrew; Cyrl= Cyrillic&lt;/h1&gt;
-&lt;p&gt;script_used: [&amp;ldquo;latn&amp;rdquo;]
-script_mentioned: []
-orthography_mentioned: []
-orthography_used: []&lt;/p&gt;
-&lt;p&gt;author: []
-locations: []
-people: []
-trips: []
-institutions: []
-countries: []
-cities: []
-written_from: []
-#Print, Event, Audio, Video
-content_types: [&amp;ldquo;Video&amp;rdquo;, &amp;ldquo;Print&amp;rdquo;, &amp;ldquo;Event&amp;rdquo;]&lt;/p&gt;
-&lt;p&gt;#OLAC metadata&lt;/p&gt;
-&lt;p&gt;#http://www.language-archives.org/REC/role.html&lt;/p&gt;
-&lt;h1 id=&#34;valid-or-values-include-annotator-author-compiler-consultant-data_inputter--depositor-developer-editor-illustrator-interpreter-interviewer-participant-performer-photographer-recorder-researcher-research_participant-responder-signer-singer-speaker-sponsor-transcriber-translator&#34;&gt;Valid OR values include: annotator, author, compiler, consultant, data_inputter,  depositor, developer, editor, illustrator, interpreter, interviewer, participant, performer, photographer, recorder, researcher, research_participant, responder, signer, singer, speaker, sponsor, transcriber, translator&lt;/h1&gt;
-&lt;p&gt;olac_roles:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;role: author
-name: Hugh Paterson III&lt;/li&gt;
-&lt;li&gt;role: speaker
-name: Hugh Paterson III&lt;/li&gt;
-&lt;li&gt;role: author
-name: Richard Griscom&lt;/li&gt;
-&lt;li&gt;role: author
-name: Lauren B. Collister&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;httpwwwlanguage-archivesorgrecfieldhtml&#34;&gt;&lt;a href=&#34;http://www.language-archives.org/REC/field.html&#34;&gt;http://www.language-archives.org/REC/field.html&lt;/a&gt;&lt;/h1&gt;
-&lt;p&gt;#Valid OLS values: anthropological_linguistics, applied_linguistics, cognitive_science, computational_linguistics, discourse_analysis, forensic_linguistics, general_linguistics, historical_linguistics, history_of_linguistics, language_acquisition, language_documentation, lexicography, linguistics_and_literature, linguistic_theories, mathematical_linguistics, morphology, neurolinguistics, philosophy_of_language, phonetics, phonology, pragmatics, psycholinguistics, semantics, sociolinguistics, syntax, text_and_corpus_linguistics, translating_and_interpreting, typology, writing_systems&lt;/p&gt;
-&lt;p&gt;olac_linguistic_subject:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;subject_term: language_documentation&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;httpwwwlanguage-archivesorgrectypehtml&#34;&gt;&lt;a href=&#34;http://www.language-archives.org/REC/type.html&#34;&gt;http://www.language-archives.org/REC/type.html&lt;/a&gt;&lt;/h1&gt;
-&lt;p&gt;#Valid OLDT values: language_description, primary_text, lexicon
-olac_linguistic_data_type:&lt;/p&gt;
-&lt;h1 id=&#34;custom-links-optional&#34;&gt;Custom links (optional).&lt;/h1&gt;
-&lt;h1 id=&#34;uncomment-and-edit-lines-below-to-show-custom-links&#34;&gt;Uncomment and edit lines below to show custom links.&lt;/h1&gt;
-&lt;h1 id=&#34;links&#34;&gt;links:&lt;/h1&gt;
-&lt;h1 id=&#34;--name-follow&#34;&gt;- name: Follow&lt;/h1&gt;
-&lt;h1 id=&#34;url-httpstwittercom&#34;&gt;url: &lt;a href=&#34;https://twitter.com&#34;&gt;https://twitter.com&lt;/a&gt;&lt;/h1&gt;
-&lt;h1 id=&#34;icon_pack-fab&#34;&gt;icon_pack: fab&lt;/h1&gt;
-&lt;h1 id=&#34;icon-twitter&#34;&gt;icon: twitter&lt;/h1&gt;
-&lt;p&gt;#links:
-#- name: &amp;ldquo;Marlett&amp;rsquo;s Slides&amp;rdquo;&lt;/p&gt;
-&lt;h1 id=&#34;url-colloquiummaking-it-last-marlettmakingitlast2pdf&#34;&gt;url: &amp;ldquo;colloquium/Making-it-last-Marlett/MakingItLast2.pdf&amp;rdquo;&lt;/h1&gt;
-&lt;p&gt;#- name: &amp;ldquo;Paterson&amp;rsquo;s Slides&amp;rdquo;&lt;/p&gt;
-&lt;h1 id=&#34;url-colloquiummaking-it-last-patersonmaking-it-last-paterson-slidespdf&#34;&gt;url: &amp;ldquo;colloquium/Making-it-last-Paterson/Making-it-last-Paterson-Slides.pdf&amp;rdquo;&lt;/h1&gt;
-&lt;h1 id=&#34;icon_pack-fas&#34;&gt;icon_pack: fas&lt;/h1&gt;
-&lt;h1 id=&#34;icon-archive&#34;&gt;icon: archive&lt;/h1&gt;
-&lt;p&gt;links:
-#- name: Conference Abstract&lt;/p&gt;
-&lt;h1 id=&#34;url-the-role-of-the-language-community-in-peer-review-process-for-collectionspdf&#34;&gt;url: The-Role-of-the-Language-Community-in-Peer-Review-process-for-Collections.pdf&lt;/h1&gt;
-&lt;h1 id=&#34;custom-links-optional-1&#34;&gt;Custom links (optional).&lt;/h1&gt;
-&lt;h1 id=&#34;uncomment-and-edit-lines-below-to-show-custom-links-1&#34;&gt;Uncomment and edit lines below to show custom links.&lt;/h1&gt;
-&lt;h1 id=&#34;links-1&#34;&gt;links:&lt;/h1&gt;
-&lt;h1 id=&#34;--name-follow-1&#34;&gt;- name: Follow&lt;/h1&gt;
-&lt;h1 id=&#34;url-httpstwittercom-1&#34;&gt;url: &lt;a href=&#34;https://twitter.com&#34;&gt;https://twitter.com&lt;/a&gt;&lt;/h1&gt;
-&lt;h1 id=&#34;icon_pack-fab-1&#34;&gt;icon_pack: fab&lt;/h1&gt;
-&lt;h1 id=&#34;icon-twitter-1&#34;&gt;icon: twitter&lt;/h1&gt;
-&lt;p&gt;#- name: Source Files&lt;/p&gt;
-&lt;h1 id=&#34;url-httpsarchiveorg&#34;&gt;url: #https://archive.org&lt;/h1&gt;
-&lt;h1 id=&#34;icon_pack-fas-1&#34;&gt;icon_pack: fas&lt;/h1&gt;
-&lt;h1 id=&#34;icon-archive-1&#34;&gt;icon: archive&lt;/h1&gt;
-&lt;p&gt;#- name: Grant Proposal&lt;/p&gt;
-&lt;h1 id=&#34;url-httpstwittercom-2&#34;&gt;url: #https://twitter.com&lt;/h1&gt;
-&lt;h1 id=&#34;icon_pack-far&#34;&gt;icon_pack: far&lt;/h1&gt;
-&lt;h1 id=&#34;icon-file-alt&#34;&gt;icon: file-alt&lt;/h1&gt;
-&lt;p&gt;#- name: Blog Post&lt;/p&gt;
-&lt;h1 id=&#34;url-httpstwittercom-3&#34;&gt;url: #https://twitter.com&lt;/h1&gt;
-&lt;h1 id=&#34;icon_pack-far-1&#34;&gt;icon_pack: far&lt;/h1&gt;
-&lt;h1 id=&#34;icon-sticky-note&#34;&gt;icon: sticky-note&lt;/h1&gt;
-&lt;p&gt;#- name: Review&lt;/p&gt;
-&lt;h1 id=&#34;url-httpstwittercom-4&#34;&gt;url: #https://twitter.com&lt;/h1&gt;
-&lt;h1 id=&#34;icon_pack-fas-2&#34;&gt;icon_pack: fas&lt;/h1&gt;
-&lt;h1 id=&#34;icon-quote-left&#34;&gt;icon: quote-left&lt;/h1&gt;
-&lt;p&gt;#- name: Reddit&lt;/p&gt;
-&lt;h1 id=&#34;url-httpstwittercom-5&#34;&gt;url: #https://twitter.com&lt;/h1&gt;
-&lt;h1 id=&#34;icon_pack-fab-2&#34;&gt;icon_pack: fab&lt;/h1&gt;
-&lt;h1 id=&#34;icon-reddit-alien&#34;&gt;icon: reddit-alien&lt;/h1&gt;
-&lt;p&gt;#- name: Archive Deposit&lt;/p&gt;
-&lt;h1 id=&#34;url-httpsosfiobe46p&#34;&gt;url: &lt;a href=&#34;https://osf.io/be46p&#34;&gt;https://osf.io/be46p&lt;/a&gt;&lt;/h1&gt;
-&lt;h1 id=&#34;icon_pack-fas-3&#34;&gt;icon_pack: fas&lt;/h1&gt;
-&lt;h1 id=&#34;icon-landmark&#34;&gt;icon: landmark&lt;/h1&gt;
-&lt;p&gt;#- name: Video File
-#url: &lt;a href=&#34;https://osf.io/7h9su&#34;&gt;https://osf.io/7h9su&lt;/a&gt;&lt;/p&gt;
-&lt;h1 id=&#34;icon_pack-fas-4&#34;&gt;icon_pack: fas&lt;/h1&gt;
-&lt;h1 id=&#34;icon-file-video&#34;&gt;icon: file-video&lt;/h1&gt;
-&lt;p&gt;#- name: Amazon&lt;/p&gt;
-&lt;h1 id=&#34;url-httpstwittercom-6&#34;&gt;url: #https://twitter.com&lt;/h1&gt;
-&lt;h1 id=&#34;icon_pack-fab-3&#34;&gt;icon_pack: fab&lt;/h1&gt;
-&lt;h1 id=&#34;icon-amazon&#34;&gt;icon: amazon&lt;/h1&gt;
-&lt;h1 id=&#34;note-there-is-an-official-dataset-theme-item-url_dataset&#34;&gt;Note there is an official Dataset theme item url_dataset&lt;/h1&gt;
-&lt;p&gt;#- name: Data set&lt;/p&gt;
-&lt;h1 id=&#34;url-httpstwittercom-7&#34;&gt;url: #https://twitter.com&lt;/h1&gt;
-&lt;h1 id=&#34;icon_pack-fas-5&#34;&gt;icon_pack: fas&lt;/h1&gt;
-&lt;h1 id=&#34;icon-dice-d20&#34;&gt;icon: dice-d20&lt;/h1&gt;
-&lt;p&gt;#- name: Watch&lt;/p&gt;
-&lt;h1 id=&#34;url-talk2022-the-role-of-the-language-community-in-peer-review-process-for-collectionswatch&#34;&gt;url: /talk/2022-the-role-of-the-language-community-in-peer-review-process-for-collections/#watch&lt;/h1&gt;
-&lt;h1 id=&#34;icon_pack-fas-6&#34;&gt;icon_pack: fas&lt;/h1&gt;
-&lt;h1 id=&#34;icon-video&#34;&gt;icon: video&lt;/h1&gt;
-&lt;h1 id=&#34;optional-filename-of-your-slides-within-your-talks-folder-or-a-url&#34;&gt;Optional filename of your slides within your talk&amp;rsquo;s folder or a URL.&lt;/h1&gt;
-&lt;p&gt;url_preprint:
-url_code:
-url_dataset:
-url_poster:
-url_project:
-url_source:
-#url_video: &lt;a href=&#34;https://youtu.be/Lg6pzBhOnOY&#34;&gt;https://youtu.be/Lg6pzBhOnOY&lt;/a&gt;
-#url_slides: &lt;a href=&#34;https://docs.google.com/presentation/d/1nj2ObQ20IaxNeikaiYgK_nkMqf_IQgAQ04YobQL0qf4/edit?usp=sharing&#34;&gt;https://docs.google.com/presentation/d/1nj2ObQ20IaxNeikaiYgK_nkMqf_IQgAQ04YobQL0qf4/edit?usp=sharing&lt;/a&gt;
-url_pdf:&lt;/p&gt;
-&lt;h1 id=&#34;featured-image&#34;&gt;Featured image&lt;/h1&gt;
-&lt;h1 id=&#34;to-use-add-an-image-named-featuredjpgpng-to-your-pages-folder&#34;&gt;To use, add an image named &lt;code&gt;featured.jpg/png&lt;/code&gt; to your page&amp;rsquo;s folder.&lt;/h1&gt;
-&lt;h1 id=&#34;focal-points-smart-center-topleft-top-topright-left-right-bottomleft-bottom-bottomright&#34;&gt;Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.&lt;/h1&gt;
-&lt;h1 id=&#34;placement-options-1--full-column-width-2--out-set-3--screen-width&#34;&gt;Placement options: 1 = Full column width, 2 = Out-set, 3 = Screen-width.&lt;/h1&gt;
-&lt;h1 id=&#34;credit-uses-name-of-the-photographer&#34;&gt;Credit Uses Name of the photographer.&lt;/h1&gt;
-&lt;h1 id=&#34;fill-is-blank-or-true-it-tells-the-theme-to-fill-vs-fit-the-image-per-hugo-options-fill-is-the-wowchemy-theme-default-but-in-patersons-modified-theme-fit-is-default-to-force-an-item-to-the-wowchemy-normal-behavior-set-fill-to-true&#34;&gt;Fill is blank or true. It tells the theme to fill vs fit the image per hugo options. Fill is the wowchemy theme default, but in Paterson&amp;rsquo;s modified theme fit is default. To force an item to the wowchemy normal behavior set fill to true.&lt;/h1&gt;
-&lt;p&gt;image:
-credit:
-fill:
-placement:
-caption: &amp;quot;&amp;rdquo;
-focal_point: &amp;quot;&amp;rdquo;
-preview_only: false&lt;/p&gt;
-&lt;h1 id=&#34;optional-featured-image-relative-to-staticmedia-folder-so-that-a-different-image-can-be-used-in-on-the-home-page-and-the-project-page&#34;&gt;Optional featured image (relative to &lt;code&gt;static/media/&lt;/code&gt; folder). So that a different image can be used in on the home page and the project page.&lt;/h1&gt;
-&lt;p&gt;header:
-image:
-caption:&lt;/p&gt;
-&lt;h1 id=&#34;projects-optional&#34;&gt;Projects (optional).&lt;/h1&gt;
-&lt;h1 id=&#34;associate-this-post-with-one-or-more-of-your-projects&#34;&gt;Associate this post with one or more of your projects.&lt;/h1&gt;
-&lt;h1 id=&#34;simply-enter-your-projects-folder-or-file-name-without-extension&#34;&gt;Simply enter your project&amp;rsquo;s folder or file name without extension.&lt;/h1&gt;
-&lt;h1 id=&#34;eg-projects--internal-project-references-contentprojectdeep-learningindexmd&#34;&gt;E.g. &lt;code&gt;projects = [&amp;quot;internal-project&amp;quot;]&lt;/code&gt; references &lt;code&gt;content/project/deep-learning/index.md&lt;/code&gt;.&lt;/h1&gt;
-&lt;h1 id=&#34;otherwise-set-projects--&#34;&gt;Otherwise, set &lt;code&gt;projects = []&lt;/code&gt;.&lt;/h1&gt;
-&lt;p&gt;projects: [&amp;ldquo;2021-Language-Documentation-Collection-Assesment&amp;rdquo;, &amp;ldquo;2012-Archive-Usability&amp;rdquo;]&lt;/p&gt;
-&lt;h1 id=&#34;does-the-content-use-math-formatting&#34;&gt;Does the content use math formatting&lt;/h1&gt;
-&lt;p&gt;math: false&lt;/p&gt;
-&lt;h1 id=&#34;does-the-content-use-source-code-highlighting&#34;&gt;Does the content use source code highlighting?&lt;/h1&gt;
-&lt;p&gt;highlight: false&lt;/p&gt;
-&lt;h1 id=&#34;slides-optional&#34;&gt;Slides (optional).&lt;/h1&gt;
-&lt;h1 id=&#34;associate-this-publication-with-markdown-slides&#34;&gt;Associate this publication with Markdown slides.&lt;/h1&gt;
-&lt;h1 id=&#34;simply-enter-your-slide-decks-filename-without-extension&#34;&gt;Simply enter your slide deck&amp;rsquo;s filename without extension.&lt;/h1&gt;
-&lt;h1 id=&#34;eg-slides-example-references-contentslidesexampleindexmd&#34;&gt;E.g. &lt;code&gt;slides: &amp;quot;example&amp;quot;&lt;/code&gt; references &lt;code&gt;content/slides/example/index.md&lt;/code&gt;.&lt;/h1&gt;
-&lt;h1 id=&#34;otherwise-set-slides-&#34;&gt;Otherwise, set &lt;code&gt;slides: &amp;quot;&amp;quot;&lt;/code&gt;.&lt;/h1&gt;
-&lt;p&gt;slides: &amp;quot;&amp;rdquo;&lt;/p&gt;
-&lt;h2 id=&#34;div&#34;&gt;#&lt;div id=&#34;watch&#34;&gt;
-#
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/Lg6pzBhOnOY&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-#&lt;/div&gt;&lt;/h2&gt;
 </description>
     </item>
     

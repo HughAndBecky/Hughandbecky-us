@@ -21,6 +21,30 @@
     </item>
     
     <item>
+      <title>Arrangement and Relationships Between Audio and Transcripts</title>
+      <link>https://hughandbecky.us/Hugh-CV/talk/2023-arrangement-and-relationships-between-audio-and-transcripts/</link>
+      <pubDate>Sat, 20 May 2023 11:30:00 -0100</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/talk/2023-arrangement-and-relationships-between-audio-and-transcripts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Collection Use and Copyright Considerations.</title>
+      <link>https://hughandbecky.us/Hugh-CV/talk/2023-collection-copyright-and-copyright-controls/</link>
+      <pubDate>Wed, 17 May 2023 11:30:00 -0100</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/talk/2023-collection-copyright-and-copyright-controls/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the boundaries of reported speech in Western Subanon</title>
+      <link>https://hughandbecky.us/Hugh-CV/talk/2023-seals/</link>
+      <pubDate>Tue, 16 May 2023 11:30:00 -0100</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/talk/2023-seals/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A Comparison of Thai and United States’ Copyright Laws as they Apply to Scholarly Video Resources</title>
       <link>https://hughandbecky.us/Hugh-CV/talk/2023-seapavaa-copyright/</link>
       <pubDate>Mon, 08 May 2023 17:00:12 -0700</pubDate>
@@ -860,6 +884,21 @@
     </item>
     
     <item>
+      <title>Enriching Library and Archival Records with Ethnolinguistics Minority Language Identification</title>
+      <link>https://hughandbecky.us/Hugh-CV/talk/2023-cni-doctoral-fellow/</link>
+      <pubDate>Wed, 05 Apr 2023 17:00:12 -0700</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/talk/2023-cni-doctoral-fellow/</guid>
+      <description>&lt;div id=&#34;watch&#34;&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/BK8fq0riTS0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
       <title>An Analysis of Crubadan OLAC Records</title>
       <link>https://hughandbecky.us/Hugh-CV/post/crubadan-olac-records/</link>
       <pubDate>Tue, 04 Apr 2023 14:35:45 +0100</pubDate>
@@ -901,7 +940,7 @@
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/crubadan-olac-records/_hub4fb0a3d5618c54546bd65640ee26d82_241537_3781aedb7029e4d23bef189367664de8.png&#34; data-caption=&#34;Crubadan record for Karbi (Hills Karbi) in the OLAC Interface&#34;&gt;
 
 
-  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/crubadan-olac-records/_hub4fb0a3d5618c54546bd65640ee26d82_241537_3781aedb7029e4d23bef189367664de8.png&#34; class=&#34;lazyload&#34; alt=&#34;Screenshot of the OLAC Interface&#34; width=&#34;1920&#34; height=&#34;1189&#34; itemprop=&#34;contentUrl&#34;&gt;
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/crubadan-olac-records/_hub4fb0a3d5618c54546bd65640ee26d82_241537_3781aedb7029e4d23bef189367664de8.png&#34; class=&#34;lazyload&#34; alt=&#34;Screen shot of the OLAC Interface&#34; width=&#34;1920&#34; height=&#34;1189&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
 
 
@@ -922,25 +961,27 @@ OLAC Interface&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.o
 &lt;/figure&gt;
 
 &lt;ol&gt;
-&lt;li&gt;Is the license actually applicable? That is who is the copyright holder and is the content actually meeting the threshold for copyright?&lt;/li&gt;
+&lt;li&gt;Is the license actually applicable? That is who is the copyright holder and is the content actually meeting the threshold for copyright? The creator is not always the copyright holder. Nor should the creator/author be assumed to be the copyright holder.&lt;/li&gt;
 &lt;li&gt;Why is the source text not indicated in the source field?&lt;/li&gt;
 &lt;li&gt;Where is the source software used to generate the resource?&lt;/li&gt;
 &lt;li&gt;The format is an application/zip and the DCMIType is &lt;em&gt;Dataset&lt;/em&gt;, so which application is the data consumable in? or which formats are used within the .zip file?&lt;/li&gt;
 &lt;li&gt;If an abstract is a summary, can or should that field be used then to declare what are the rows and columns or tables and relationships in the dataset are?&lt;/li&gt;
-&lt;li&gt;How can you have rights without a rightsholder? No copyright holder is declared. The creative commons licese is only valid if there is a valid copyright claim.&lt;/li&gt;
-&lt;li&gt;The specific resource should have a relationship to a Crubadan collection record. It doesnt have these relationships declared. This means that the automatically generated OLAC citation is also malformed.&lt;/li&gt;
+&lt;li&gt;How can you have rights without a rights-holder? No copyright holder is declared. The creative commons license is only valid if there is a valid copyright claim.&lt;/li&gt;
+&lt;li&gt;The specific resource should have a relationship to a Crubadan collection record. It doesn&amp;rsquo;t have these relationships declared. This means that the automatically generated OLAC citation is also malformed.&lt;/li&gt;
 &lt;li&gt;The part record, all records actually, should have the DCTerms citation element included. These records don&amp;rsquo;t.&lt;/li&gt;
-&lt;li&gt;Why are there no LCSH subjects?&lt;/li&gt;
+&lt;li&gt;Why are there no Library of Congress Subject Heading (LCSH) subjects? This is a really hard question to answer. What exactly is the subject of a corpus of letter-frequencies? Computational linguistics? Language Identification? This is where subject hood in language resources seems to break down a bit unless we understand subject to be not just &lt;em&gt;about-ness&lt;/em&gt;, but also &lt;em&gt;of-ness&lt;/em&gt; and &lt;em&gt;for-ness&lt;/em&gt; (utility).&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;The following two revelations about the user interface ought to be incorporated into future versions of the OLAC interface:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;OLAC presents a citation but doesn&amp;rsquo;t pull that from the record. Where does it get that information? — What is the generative process?&lt;/li&gt;
-&lt;li&gt;Why doesn&amp;rsquo;t the OLAC interface report that the links are linkrotted and now 404?&lt;/li&gt;
+&lt;li&gt;Why doesn&amp;rsquo;t the OLAC interface report that the links are link-rotted and now 404?&lt;/li&gt;
+&lt;li&gt;The included XML file appears to be unqualified Dublin Core with the addition of the OLAC metadata. However, the OLAC profile calls for the useage of Qualified Dublin Core. An investigation should be made to see if this is the result of the OLAC infastructure or the data as it was recived by OLAC. (It seems that when this record is compared with the record from 
+&lt;a href=&#34;https://hughandbecky.us/Hugh-CV/post/paradisec-olac-records-and-rights/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PARADISEC OLAC Records and Rights&lt;/a&gt; that OLAC does provide QDC when it has been provided QDC.)&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;The following XML record replicated below is from OLAC. It is retrievable 
 &lt;a href=&#34;http://www.language-archives.org/cgi-bin/olaca3.pl?verb=GetRecord&amp;amp;identifier=oai:crubadan.org:mjw&amp;amp;metadataPrefix=olac&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;, while the record is viewable in the OLAC interface 
 &lt;a href=&#34;http://www.language-archives.org/item/oai:crubadan.org:mjw&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;&amp;lt;OAI-PMH xmlns=&amp;quot;http://www.openarchives.org/OAI/2.0/&amp;quot; xmlns:xsi=&amp;quot;http://www.w3.org/2001/XMLSchema-instance&amp;quot; xsi:schemaLocation=&amp;quot;http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd&amp;quot;&amp;gt;
+&lt;pre&gt;&lt;code class=&#34;language-XML&#34;&gt;&amp;lt;OAI-PMH xmlns=&amp;quot;http://www.openarchives.org/OAI/2.0/&amp;quot; xmlns:xsi=&amp;quot;http://www.w3.org/2001/XMLSchema-instance&amp;quot; xsi:schemaLocation=&amp;quot;http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd&amp;quot;&amp;gt;
 &amp;lt;responseDate&amp;gt;2023-04-04T04:54:39Z&amp;lt;/responseDate&amp;gt;
 &amp;lt;request verb=&amp;quot;GetRecord&amp;quot; identifier=&amp;quot;oai%3Acrubadan.org%3Amjw&amp;quot; metadataPrefix=&amp;quot;olac&amp;quot;&amp;gt;http://www.language-archives.org/cgi-bin/olaca3.pl&amp;lt;/request&amp;gt;
 &amp;lt;GetRecord&amp;gt;
@@ -3386,6 +3427,123 @@ Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schem
       <pubDate>Mon, 13 Feb 2023 17:00:12 -0700</pubDate>
       <guid>https://hughandbecky.us/Hugh-CV/publication/2023-defining-language-revitalization/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>PARADISEC OLAC Records and Rights</title>
+      <link>https://hughandbecky.us/Hugh-CV/post/paradisec-olac-records-and-rights/</link>
+      <pubDate>Mon, 06 Feb 2023 14:35:45 +0100</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/post/paradisec-olac-records-and-rights/</guid>
+      <description>&lt;p&gt;Defining the scope of OLAC records is necessary. That is, a record can&amp;rsquo;t contain everything any body might want, however, while contemplating the following record I had some thoughts&amp;hellip;&lt;/p&gt;
+&lt;p&gt;This PARADISEC record does not have a date of creation, or date of copyright.&lt;/p&gt;
+&lt;p&gt;While the included record does not specify a license such as a creative commons license, some records I have seen opt for a CC-BY-NC license without a record of when the license will expire. Exprirey date is linked to the term of copyright as provided by law within a specific country. Many (if not any) records have any indication of which jurisdiction of the copyright exists under, or who else has the authority to license the materials&amp;hellip; 
+&lt;a href=&#34;https://hugh.thejourneyler.org/2022/what-are-the-rights-of-ownership/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ownership&lt;/a&gt; can include the authority to issue licenses — specifically licenses which might work in situations which are not imagined at the moment of archival.&lt;/p&gt;
+&lt;p&gt;The restriction on the access is rational. The bases of the restriction should be described and linked. The access basis does not remove any copyright considerations but may limit the kinds of licenses which may be applied.&lt;/p&gt;
+
+
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-paradisec-record-for-frog-story-in-the-olac-interface&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/paradisec-olac-records-and-rights/featured_huc0fc9ad1f1cbebce936878f6092d95b6_196944_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;PARADISEC record for Frog story in the OLAC Interface&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/paradisec-olac-records-and-rights/featured_huc0fc9ad1f1cbebce936878f6092d95b6_196944_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;Screen shot of the OLAC Interface&#34; width=&#34;928&#34; height=&#34;864&#34; itemprop=&#34;contentUrl&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;p&gt;PARADISEC record for Frog story in the OLAC Interface
+      
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;http://www.language-archives.org/item/oai:paradisec.org.au:GK1-FM15_61_2c&#34;&gt; 
+OLAC Interface&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
+        &lt;meta itemprop=&#34;name&#34; content=&#34;OLAC Interface&#34; /&gt;
+      &lt;/span&gt;
+&lt;/a&gt; &lt;/span&gt;
+&lt;/p&gt;
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;The following XML record replicated below is from OLAC. It is retrievable 
+&lt;a href=&#34;http://www.language-archives.org/cgi-bin/olaca3.pl?verb=GetRecord&amp;amp;identifier=oai:paradisec.org.au:GK1-FM15_61_2c&amp;amp;metadataPrefix=olac&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;, while the record is viewable in the OLAC interface 
+&lt;a href=&#34;http://www.language-archives.org/item/oai:paradisec.org.au:GK1-FM15_61_2c&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-xml&#34;&gt;&amp;lt;OAI-PMH xmlns=&amp;quot;http://www.openarchives.org/OAI/2.0/&amp;quot; xmlns:xsi=&amp;quot;http://www.w3.org/2001/XMLSchema-instance&amp;quot; xsi:schemaLocation=&amp;quot;http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd&amp;quot;&amp;gt;
+&amp;lt;responseDate&amp;gt;2023-02-06T17:08:18Z&amp;lt;/responseDate&amp;gt;
+&amp;lt;request verb=&amp;quot;GetRecord&amp;quot; identifier=&amp;quot;oai%3Aparadisec.org.au%3AGK1-FM15_61_2c&amp;quot; metadataPrefix=&amp;quot;olac&amp;quot;&amp;gt;http://www.language-archives.org/cgi-bin/olaca3.pl&amp;lt;/request&amp;gt;
+&amp;lt;GetRecord&amp;gt;
+&amp;lt;record&amp;gt;
+&amp;lt;header&amp;gt;
+&amp;lt;identifier&amp;gt;oai:paradisec.org.au:GK1-FM15_61_2c&amp;lt;/identifier&amp;gt;
+&amp;lt;datestamp&amp;gt;2022-06-18&amp;lt;/datestamp&amp;gt;
+&amp;lt;/header&amp;gt;
+&amp;lt;metadata&amp;gt;
+&amp;lt;olac:olac xmlns:dc=&amp;quot;http://purl.org/dc/elements/1.1/&amp;quot; xmlns:dcterms=&amp;quot;http://purl.org/dc/terms/&amp;quot; xmlns:olac=&amp;quot;http://www.language-archives.org/OLAC/1.1/&amp;quot; xsi:schemaLocation=&amp;quot; http://purl.org/dc/elements/1.1/ http://www.language-archives.org/OLAC/1.1/dc.xsd http://purl.org/dc/terms/ http://www.language-archives.org/OLAC/1.1/dcterms.xsd http://www.language-archives.org/OLAC/1.1/ http://www.language-archives.org/OLAC/1.1/olac.xsd &amp;quot;&amp;gt;
+&amp;lt;dc:title&amp;gt;Frog story&amp;lt;/dc:title&amp;gt;
+&amp;lt;dc:contributor xsi:type=&amp;quot;olac:role&amp;quot; olac:code=&amp;quot;compiler&amp;quot;&amp;gt;Felicity Meakins&amp;lt;/dc:contributor&amp;gt;
+&amp;lt;dc:contributor xsi:type=&amp;quot;olac:role&amp;quot; olac:code=&amp;quot;participant&amp;quot;&amp;gt;FAP &amp;lt;/dc:contributor&amp;gt;
+&amp;lt;dc:contributor xsi:type=&amp;quot;olac:role&amp;quot; olac:code=&amp;quot;participant&amp;quot;&amp;gt;FKP &amp;lt;/dc:contributor&amp;gt;
+&amp;lt;dc:contributor xsi:type=&amp;quot;olac:role&amp;quot; olac:code=&amp;quot;recorder&amp;quot;&amp;gt;Cassandra Algy&amp;lt;/dc:contributor&amp;gt;
+&amp;lt;dc:contributor xsi:type=&amp;quot;olac:role&amp;quot; olac:code=&amp;quot;participant&amp;quot;&amp;gt;FAP&#39;s son &amp;lt;/dc:contributor&amp;gt;
+&amp;lt;dc:contributor xsi:type=&amp;quot;olac:role&amp;quot; olac:code=&amp;quot;participant&amp;quot;&amp;gt;FSL &amp;lt;/dc:contributor&amp;gt;
+&amp;lt;dc:contributor xsi:type=&amp;quot;olac:role&amp;quot; olac:code=&amp;quot;speaker&amp;quot;&amp;gt;FAL &amp;lt;/dc:contributor&amp;gt;
+&amp;lt;dc:coverage xsi:type=&amp;quot;dcterms:ISO3166&amp;quot;&amp;gt;AU&amp;lt;/dc:coverage&amp;gt;
+&amp;lt;dc:coverage xsi:type=&amp;quot;dcterms:Box&amp;quot;&amp;gt;northlimit=-16.0724; southlimit=-20.4217; westlimit=129.337; eastlimit=133.145&amp;lt;/dc:coverage&amp;gt;
+&amp;lt;dc:date xsi:type=&amp;quot;dcterms:W3CDTF&amp;quot;&amp;gt;2015-09-30&amp;lt;/dc:date&amp;gt;
+&amp;lt;dcterms:created xsi:type=&amp;quot;dcterms:W3CDTF&amp;quot;&amp;gt;2015-09-30&amp;lt;/dcterms:created&amp;gt;
+&amp;lt;dc:description&amp;gt;Frog Story. FAL is 9 years old. FKP and FAP, FAP&#39;s son and FSL are also present. Cassandra Algy is operating the camera. 3:54min. . Language as given: Gurindji Kriol&amp;lt;/dc:description&amp;gt;
+&amp;lt;dcterms:tableOfContents xsi:type=&amp;quot;dcterms:URI&amp;quot;&amp;gt;http://catalog.paradisec.org.au/repository/GK1/FM15_61_2c/GK1-FM15_61_2c-01.eaf&amp;lt;/dcterms:tableOfContents&amp;gt;
+&amp;lt;dcterms:tableOfContents xsi:type=&amp;quot;dcterms:URI&amp;quot;&amp;gt;http://catalog.paradisec.org.au/repository/GK1/FM15_61_2c/GK1-FM15_61_2c-01.cha&amp;lt;/dcterms:tableOfContents&amp;gt;
+&amp;lt;dcterms:tableOfContents xsi:type=&amp;quot;dcterms:URI&amp;quot;&amp;gt;http://catalog.paradisec.org.au/repository/GK1/FM15_61_2c/GK1-FM15_61_2c-01.txt&amp;lt;/dcterms:tableOfContents&amp;gt;
+&amp;lt;dcterms:tableOfContents xsi:type=&amp;quot;dcterms:URI&amp;quot;&amp;gt;http://catalog.paradisec.org.au/repository/GK1/FM15_61_2c/GK1-FM15_61_2c-01.wav&amp;lt;/dcterms:tableOfContents&amp;gt;
+&amp;lt;dcterms:tableOfContents xsi:type=&amp;quot;dcterms:URI&amp;quot;&amp;gt;http://catalog.paradisec.org.au/repository/GK1/FM15_61_2c/GK1-FM15_61_2c-01.mp3&amp;lt;/dcterms:tableOfContents&amp;gt;
+&amp;lt;dc:format&amp;gt;Digitised: no&amp;lt;/dc:format&amp;gt;
+&amp;lt;dc:identifier&amp;gt;GK1-FM15_61_2c&amp;lt;/dc:identifier&amp;gt;
+&amp;lt;dc:identifier xsi:type=&amp;quot;dcterms:URI&amp;quot;&amp;gt;http://catalog.paradisec.org.au/repository/GK1/FM15_61_2c&amp;lt;/dc:identifier&amp;gt;
+&amp;lt;dcterms:bibliographicCitation&amp;gt;Felicity Meakins (collector), FAP (participant), FKP (participant), Cassandra Algy (recorder), FAP&#39;s son (participant), FSL (participant), FAL (speaker), 2015. Frog story. XML/PLAIN/X-WAV/MPEG. GK1-FM15_61_2c at catalog.paradisec.org.au. https://dx.doi.org/10.26278/KADF-H358&amp;lt;/dcterms:bibliographicCitation&amp;gt;
+&amp;lt;dc:language xsi:type=&amp;quot;olac:language&amp;quot;/&amp;gt;
+&amp;lt;dc:rights&amp;gt;Closed (subject to the access condition details)&amp;lt;/dc:rights&amp;gt;
+&amp;lt;dcterms:accessRights&amp;gt;Closed (subject to the access condition details), If you wish to request access to the audio and transcript files, please contact the depositor, Felicity Meakins, at the School of Languages and Cultures, University of Queensland. No access will be granted to material containing deceased people without prior consent of the families.&amp;lt;/dcterms:accessRights&amp;gt;
+&amp;lt;dc:subject xsi:type=&amp;quot;olac:linguistic-field&amp;quot; olac:code=&amp;quot;language_documentation&amp;quot;/&amp;gt;
+&amp;lt;dc:subject xsi:type=&amp;quot;olac:language&amp;quot;/&amp;gt;
+&amp;lt;dc:type xsi:type=&amp;quot;dcterms:DCMIType&amp;quot;&amp;gt;Sound&amp;lt;/dc:type&amp;gt;
+&amp;lt;/olac:olac&amp;gt;
+&amp;lt;/metadata&amp;gt;
+&amp;lt;/record&amp;gt;
+&amp;lt;/GetRecord&amp;gt;
+&amp;lt;/OAI-PMH&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+</description>
     </item>
     
     <item>
@@ -15270,14 +15428,6 @@ Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schem
 
 
 </description>
-    </item>
-    
-    <item>
-      <title>Reported Speech in Western Subanon</title>
-      <link>https://hughandbecky.us/Hugh-CV/talk/2023-seals/</link>
-      <pubDate>Wed, 30 Jun 2021 11:30:00 -0100</pubDate>
-      <guid>https://hughandbecky.us/Hugh-CV/talk/2023-seals/</guid>
-      <description></description>
     </item>
     
     <item>

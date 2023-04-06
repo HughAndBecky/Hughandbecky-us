@@ -21,6 +21,30 @@
     </item>
     
     <item>
+      <title>Arrangement and Relationships Between Audio and Transcripts</title>
+      <link>https://hughandbecky.us/Hugh-CV/talk/2023-arrangement-and-relationships-between-audio-and-transcripts/</link>
+      <pubDate>Sat, 20 May 2023 11:30:00 -0100</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/talk/2023-arrangement-and-relationships-between-audio-and-transcripts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Collection Use and Copyright Considerations.</title>
+      <link>https://hughandbecky.us/Hugh-CV/talk/2023-collection-copyright-and-copyright-controls/</link>
+      <pubDate>Wed, 17 May 2023 11:30:00 -0100</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/talk/2023-collection-copyright-and-copyright-controls/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the boundaries of reported speech in Western Subanon</title>
+      <link>https://hughandbecky.us/Hugh-CV/talk/2023-seals/</link>
+      <pubDate>Tue, 16 May 2023 11:30:00 -0100</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/talk/2023-seals/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A Comparison of Thai and United States’ Copyright Laws as they Apply to Scholarly Video Resources</title>
       <link>https://hughandbecky.us/Hugh-CV/talk/2023-seapavaa-copyright/</link>
       <pubDate>Mon, 08 May 2023 17:00:12 -0700</pubDate>
@@ -856,6 +880,21 @@
 
 
 
+</description>
+    </item>
+    
+    <item>
+      <title>Enriching Library and Archival Records with Ethnolinguistics Minority Language Identification</title>
+      <link>https://hughandbecky.us/Hugh-CV/talk/2023-cni-doctoral-fellow/</link>
+      <pubDate>Wed, 05 Apr 2023 17:00:12 -0700</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/talk/2023-cni-doctoral-fellow/</guid>
+      <description>&lt;div id=&#34;watch&#34;&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/BK8fq0riTS0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
 </description>
     </item>
     
@@ -3351,14 +3390,6 @@
     </item>
     
     <item>
-      <title>Reported Speech in Western Subanon</title>
-      <link>https://hughandbecky.us/Hugh-CV/talk/2023-seals/</link>
-      <pubDate>Wed, 30 Jun 2021 11:30:00 -0100</pubDate>
-      <guid>https://hughandbecky.us/Hugh-CV/talk/2023-seals/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Resource Discovery at the Linguistic Lab Level</title>
       <link>https://hughandbecky.us/Hugh-CV/talk/2021-resource-discovery-at-the-linguistic-lab-level/</link>
       <pubDate>Wed, 23 Jun 2021 17:00:12 -0700</pubDate>
@@ -5637,390 +5668,6 @@ to have a greater involvement in the data collected by feeding the documentation
 
 &lt;/div&gt;
 &lt;p&gt;Note: The slides in this presentation were very similar to those used at ICAL-11 which was mostly the same presentation. This one took on a bit more of an &lt;em&gt;Opimality Theory&lt;/em&gt; flavor. The audio artifact here might actually be the main audio from the ICAL-11 presentation. (My memory is foggy.)&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://hughandbecky.us/Hugh-CV/talk/2023-arrangement-and-relationships-between-audio-and-transcripts/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://hughandbecky.us/Hugh-CV/talk/2023-arrangement-and-relationships-between-audio-and-transcripts/</guid>
-      <description>&lt;h1 id=&#34;documentation-httpssourcethemescomacademicdocsmanaging-content&#34;&gt;Documentation: &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/&#34;&gt;https://sourcethemes.com/academic/docs/managing-content/&lt;/a&gt;&lt;/h1&gt;
-&lt;p&gt;authors:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;admin&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;title: &amp;ldquo;Arrangement and Relationships Between Audio and Transcripts&amp;rdquo;
-subtitle:
-summary: &amp;ldquo;When and where does community review and peer-review create mutal benefit?&amp;rdquo;
-abstract: &amp;ldquo;Audio recordings of ethnolinguistic minorities have been created in almost every audio format known. Sometimes these recordings have accompanying transcripts. How should these transcripts be arranged and how should they show up in searches? Older archival resource management practices have divided co-created resources by media type and associated preservation requirements. But language scholars are still making new, born-digital, collections of lesser known languages. Modern digital storage solutions do not require the splitting of digital resources in the same ways. Yet, splitting resources and grouping them, as appropriate in digital systems, facilitates clear description, enhances discovery, and eventual reuse by broad audiences. We present some of the common born-digital workflows used in language scholarship, along with the diverse kinds of resources produced. Resources include: audio, video, still images, participant permission documentation, transcripts, translations, annotations, and collection descriptions. We then discuss how these diverse kinds of resources can be connected in rich, coherent sets of items within digital libraries and institutional repositories using the Open Language Archive Community Application Profile. We show examples from specific collections created in Mexico and Nigeria; presenting resource relationships and descriptions using Dublin Core Metadata. We suggest indexing transcriptions as separate items, but linking them with their audio. This proves to be a useful strategy for both transcribed audio and read texts. This approach is favored over arrangement systems which “bundle” the resources as a single entity.&amp;rdquo;&lt;/p&gt;
-&lt;p&gt;event: &amp;ldquo;57th Annual Conference of the Association for Recorded Sound Collections&amp;rdquo;
-event_url: &amp;ldquo;&lt;a href=&#34;https://www.arsc-audio.org/conference.html%22&#34;&gt;https://www.arsc-audio.org/conference.html&amp;quot;&lt;/a&gt;
-location: &amp;ldquo;Pittsburgh, Pennsylvania&amp;rdquo;
-draft: true&lt;/p&gt;
-&lt;p&gt;crafted_citation: &amp;ldquo;Hugh J. Paterson III. 2023. Arrangement and Relationships Between Audio and Transcripts. Paper presented at the 57th Annual Conference of the Association for Recorded Sound Collections. May 20th, 2023.&amp;rdquo;&lt;/p&gt;
-&lt;p&gt;tags: [&amp;ldquo;Archival Bond&amp;rdquo;, &amp;ldquo;Audio&amp;rdquo;, &amp;ldquo;Transcripts&amp;rdquo;]&lt;/p&gt;
-&lt;h1 id=&#34;categories-include-defense-peer-reviewed-conference-master-class-colloquium&#34;&gt;categories include: Defense, Peer Reviewed, Conference, Master Class, Colloquium&lt;/h1&gt;
-&lt;p&gt;categories: [&amp;ldquo;Peer Reviewed&amp;rdquo;, &amp;ldquo;Conference&amp;rdquo;]&lt;/p&gt;
-&lt;p&gt;date: 2023-10-05T11:30:00-01:00
-lastmod:
-featured: false
-draft: false&lt;/p&gt;
-&lt;h1 id=&#34;schedule-page-publish-date-not-publications-date&#34;&gt;Schedule page publish date (NOT publication&amp;rsquo;s date).&lt;/h1&gt;
-&lt;p&gt;publishDate: 2020-12-19T17:00:12-07:00&lt;/p&gt;
-&lt;h1 id=&#34;iso-6393-language-codes-and-script-codes-used-related-to-this-work&#34;&gt;ISO 639‑3 language codes and script codes used related to this work&lt;/h1&gt;
-&lt;p&gt;topic_language: []
-mentioned_language: []
-authored_language:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;eng
-language_sub-variety: []&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;valid-script-options-are-the-values-of-iso-1924-see-httpsenwikipediaorgwikiscript_unicode--zzzz--unknown-zyyy--undetermined-script-zxxx--unwritten-documents--thai--thai-khmr--khmer-grek--greek-arab--arabic-latn--latin-latg--latin-gaelic-variant-latf--latin-fraktur-variant-telu--telugu-hebr--hebrew-cyrl-cyrillic&#34;&gt;Valid Script options are the values of ISO 1924. see: &lt;a href=&#34;https://en.wikipedia.org/wiki/Script_(Unicode);&#34;&gt;https://en.wikipedia.org/wiki/Script_(Unicode);&lt;/a&gt;  Zzzz = Unknown; Zyyy = undetermined script; Zxxx = unwritten documents;  Thai = Thai; Khmr = Khmer; Grek = Greek; Arab = Arabic; Latn = Latin; Latg = Latin (Gaelic variant); Latf = Latin (Fraktur variant); Telu = Telugu; Hebr = Hebrew; Cyrl= Cyrillic&lt;/h1&gt;
-&lt;p&gt;script_used: [&amp;ldquo;latn&amp;rdquo;]
-script_mentioned: []
-orthography_mentioned: []
-orthography_used: []&lt;/p&gt;
-&lt;p&gt;author: []
-locations: []
-people: []
-trips: []
-institutions: []
-countries: []
-cities: []
-written_from: []
-#Print, Event, Audio, Video
-content_types: [&amp;ldquo;Video&amp;rdquo;, &amp;ldquo;Print&amp;rdquo;, &amp;ldquo;Event&amp;rdquo;]&lt;/p&gt;
-&lt;p&gt;#OLAC metadata&lt;/p&gt;
-&lt;p&gt;#http://www.language-archives.org/REC/role.html&lt;/p&gt;
-&lt;h1 id=&#34;valid-or-values-include-annotator-author-compiler-consultant-data_inputter--depositor-developer-editor-illustrator-interpreter-interviewer-participant-performer-photographer-recorder-researcher-research_participant-responder-signer-singer-speaker-sponsor-transcriber-translator&#34;&gt;Valid OR values include: annotator, author, compiler, consultant, data_inputter,  depositor, developer, editor, illustrator, interpreter, interviewer, participant, performer, photographer, recorder, researcher, research_participant, responder, signer, singer, speaker, sponsor, transcriber, translator&lt;/h1&gt;
-&lt;p&gt;olac_roles:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;role: author
-name: Hugh Paterson III&lt;/li&gt;
-&lt;li&gt;role: speaker
-name: Hugh Paterson III&lt;/li&gt;
-&lt;li&gt;role: author
-name: Richard Griscom&lt;/li&gt;
-&lt;li&gt;role: author
-name: Lauren B. Collister&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;httpwwwlanguage-archivesorgrecfieldhtml&#34;&gt;&lt;a href=&#34;http://www.language-archives.org/REC/field.html&#34;&gt;http://www.language-archives.org/REC/field.html&lt;/a&gt;&lt;/h1&gt;
-&lt;p&gt;#Valid OLS values: anthropological_linguistics, applied_linguistics, cognitive_science, computational_linguistics, discourse_analysis, forensic_linguistics, general_linguistics, historical_linguistics, history_of_linguistics, language_acquisition, language_documentation, lexicography, linguistics_and_literature, linguistic_theories, mathematical_linguistics, morphology, neurolinguistics, philosophy_of_language, phonetics, phonology, pragmatics, psycholinguistics, semantics, sociolinguistics, syntax, text_and_corpus_linguistics, translating_and_interpreting, typology, writing_systems&lt;/p&gt;
-&lt;p&gt;olac_linguistic_subject:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;subject_term: language_documentation&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;httpwwwlanguage-archivesorgrectypehtml&#34;&gt;&lt;a href=&#34;http://www.language-archives.org/REC/type.html&#34;&gt;http://www.language-archives.org/REC/type.html&lt;/a&gt;&lt;/h1&gt;
-&lt;p&gt;#Valid OLDT values: language_description, primary_text, lexicon
-olac_linguistic_data_type:&lt;/p&gt;
-&lt;h1 id=&#34;custom-links-optional&#34;&gt;Custom links (optional).&lt;/h1&gt;
-&lt;h1 id=&#34;uncomment-and-edit-lines-below-to-show-custom-links&#34;&gt;Uncomment and edit lines below to show custom links.&lt;/h1&gt;
-&lt;h1 id=&#34;links&#34;&gt;links:&lt;/h1&gt;
-&lt;h1 id=&#34;--name-follow&#34;&gt;- name: Follow&lt;/h1&gt;
-&lt;h1 id=&#34;url-httpstwittercom&#34;&gt;url: &lt;a href=&#34;https://twitter.com&#34;&gt;https://twitter.com&lt;/a&gt;&lt;/h1&gt;
-&lt;h1 id=&#34;icon_pack-fab&#34;&gt;icon_pack: fab&lt;/h1&gt;
-&lt;h1 id=&#34;icon-twitter&#34;&gt;icon: twitter&lt;/h1&gt;
-&lt;p&gt;#links:
-#- name: &amp;ldquo;Marlett&amp;rsquo;s Slides&amp;rdquo;&lt;/p&gt;
-&lt;h1 id=&#34;url-colloquiummaking-it-last-marlettmakingitlast2pdf&#34;&gt;url: &amp;ldquo;colloquium/Making-it-last-Marlett/MakingItLast2.pdf&amp;rdquo;&lt;/h1&gt;
-&lt;p&gt;#- name: &amp;ldquo;Paterson&amp;rsquo;s Slides&amp;rdquo;&lt;/p&gt;
-&lt;h1 id=&#34;url-colloquiummaking-it-last-patersonmaking-it-last-paterson-slidespdf&#34;&gt;url: &amp;ldquo;colloquium/Making-it-last-Paterson/Making-it-last-Paterson-Slides.pdf&amp;rdquo;&lt;/h1&gt;
-&lt;h1 id=&#34;icon_pack-fas&#34;&gt;icon_pack: fas&lt;/h1&gt;
-&lt;h1 id=&#34;icon-archive&#34;&gt;icon: archive&lt;/h1&gt;
-&lt;p&gt;links:
-#- name: Conference Abstract&lt;/p&gt;
-&lt;h1 id=&#34;url-the-role-of-the-language-community-in-peer-review-process-for-collectionspdf&#34;&gt;url: The-Role-of-the-Language-Community-in-Peer-Review-process-for-Collections.pdf&lt;/h1&gt;
-&lt;h1 id=&#34;custom-links-optional-1&#34;&gt;Custom links (optional).&lt;/h1&gt;
-&lt;h1 id=&#34;uncomment-and-edit-lines-below-to-show-custom-links-1&#34;&gt;Uncomment and edit lines below to show custom links.&lt;/h1&gt;
-&lt;h1 id=&#34;links-1&#34;&gt;links:&lt;/h1&gt;
-&lt;h1 id=&#34;--name-follow-1&#34;&gt;- name: Follow&lt;/h1&gt;
-&lt;h1 id=&#34;url-httpstwittercom-1&#34;&gt;url: &lt;a href=&#34;https://twitter.com&#34;&gt;https://twitter.com&lt;/a&gt;&lt;/h1&gt;
-&lt;h1 id=&#34;icon_pack-fab-1&#34;&gt;icon_pack: fab&lt;/h1&gt;
-&lt;h1 id=&#34;icon-twitter-1&#34;&gt;icon: twitter&lt;/h1&gt;
-&lt;p&gt;#- name: Source Files&lt;/p&gt;
-&lt;h1 id=&#34;url-httpsarchiveorg&#34;&gt;url: #https://archive.org&lt;/h1&gt;
-&lt;h1 id=&#34;icon_pack-fas-1&#34;&gt;icon_pack: fas&lt;/h1&gt;
-&lt;h1 id=&#34;icon-archive-1&#34;&gt;icon: archive&lt;/h1&gt;
-&lt;p&gt;#- name: Grant Proposal&lt;/p&gt;
-&lt;h1 id=&#34;url-httpstwittercom-2&#34;&gt;url: #https://twitter.com&lt;/h1&gt;
-&lt;h1 id=&#34;icon_pack-far&#34;&gt;icon_pack: far&lt;/h1&gt;
-&lt;h1 id=&#34;icon-file-alt&#34;&gt;icon: file-alt&lt;/h1&gt;
-&lt;p&gt;#- name: Blog Post&lt;/p&gt;
-&lt;h1 id=&#34;url-httpstwittercom-3&#34;&gt;url: #https://twitter.com&lt;/h1&gt;
-&lt;h1 id=&#34;icon_pack-far-1&#34;&gt;icon_pack: far&lt;/h1&gt;
-&lt;h1 id=&#34;icon-sticky-note&#34;&gt;icon: sticky-note&lt;/h1&gt;
-&lt;p&gt;#- name: Review&lt;/p&gt;
-&lt;h1 id=&#34;url-httpstwittercom-4&#34;&gt;url: #https://twitter.com&lt;/h1&gt;
-&lt;h1 id=&#34;icon_pack-fas-2&#34;&gt;icon_pack: fas&lt;/h1&gt;
-&lt;h1 id=&#34;icon-quote-left&#34;&gt;icon: quote-left&lt;/h1&gt;
-&lt;p&gt;#- name: Reddit&lt;/p&gt;
-&lt;h1 id=&#34;url-httpstwittercom-5&#34;&gt;url: #https://twitter.com&lt;/h1&gt;
-&lt;h1 id=&#34;icon_pack-fab-2&#34;&gt;icon_pack: fab&lt;/h1&gt;
-&lt;h1 id=&#34;icon-reddit-alien&#34;&gt;icon: reddit-alien&lt;/h1&gt;
-&lt;p&gt;#- name: Archive Deposit&lt;/p&gt;
-&lt;h1 id=&#34;url-httpsosfiobe46p&#34;&gt;url: &lt;a href=&#34;https://osf.io/be46p&#34;&gt;https://osf.io/be46p&lt;/a&gt;&lt;/h1&gt;
-&lt;h1 id=&#34;icon_pack-fas-3&#34;&gt;icon_pack: fas&lt;/h1&gt;
-&lt;h1 id=&#34;icon-landmark&#34;&gt;icon: landmark&lt;/h1&gt;
-&lt;p&gt;#- name: Video File
-#url: &lt;a href=&#34;https://osf.io/7h9su&#34;&gt;https://osf.io/7h9su&lt;/a&gt;&lt;/p&gt;
-&lt;h1 id=&#34;icon_pack-fas-4&#34;&gt;icon_pack: fas&lt;/h1&gt;
-&lt;h1 id=&#34;icon-file-video&#34;&gt;icon: file-video&lt;/h1&gt;
-&lt;p&gt;#- name: Amazon&lt;/p&gt;
-&lt;h1 id=&#34;url-httpstwittercom-6&#34;&gt;url: #https://twitter.com&lt;/h1&gt;
-&lt;h1 id=&#34;icon_pack-fab-3&#34;&gt;icon_pack: fab&lt;/h1&gt;
-&lt;h1 id=&#34;icon-amazon&#34;&gt;icon: amazon&lt;/h1&gt;
-&lt;h1 id=&#34;note-there-is-an-official-dataset-theme-item-url_dataset&#34;&gt;Note there is an official Dataset theme item url_dataset&lt;/h1&gt;
-&lt;p&gt;#- name: Data set&lt;/p&gt;
-&lt;h1 id=&#34;url-httpstwittercom-7&#34;&gt;url: #https://twitter.com&lt;/h1&gt;
-&lt;h1 id=&#34;icon_pack-fas-5&#34;&gt;icon_pack: fas&lt;/h1&gt;
-&lt;h1 id=&#34;icon-dice-d20&#34;&gt;icon: dice-d20&lt;/h1&gt;
-&lt;p&gt;#- name: Watch&lt;/p&gt;
-&lt;h1 id=&#34;url-talk2022-the-role-of-the-language-community-in-peer-review-process-for-collectionswatch&#34;&gt;url: /talk/2022-the-role-of-the-language-community-in-peer-review-process-for-collections/#watch&lt;/h1&gt;
-&lt;h1 id=&#34;icon_pack-fas-6&#34;&gt;icon_pack: fas&lt;/h1&gt;
-&lt;h1 id=&#34;icon-video&#34;&gt;icon: video&lt;/h1&gt;
-&lt;h1 id=&#34;optional-filename-of-your-slides-within-your-talks-folder-or-a-url&#34;&gt;Optional filename of your slides within your talk&amp;rsquo;s folder or a URL.&lt;/h1&gt;
-&lt;p&gt;url_preprint:
-url_code:
-url_dataset:
-url_poster:
-url_project:
-url_source:
-#url_video: &lt;a href=&#34;https://youtu.be/Lg6pzBhOnOY&#34;&gt;https://youtu.be/Lg6pzBhOnOY&lt;/a&gt;
-#url_slides: &lt;a href=&#34;https://docs.google.com/presentation/d/1nj2ObQ20IaxNeikaiYgK_nkMqf_IQgAQ04YobQL0qf4/edit?usp=sharing&#34;&gt;https://docs.google.com/presentation/d/1nj2ObQ20IaxNeikaiYgK_nkMqf_IQgAQ04YobQL0qf4/edit?usp=sharing&lt;/a&gt;
-url_pdf:&lt;/p&gt;
-&lt;h1 id=&#34;featured-image&#34;&gt;Featured image&lt;/h1&gt;
-&lt;h1 id=&#34;to-use-add-an-image-named-featuredjpgpng-to-your-pages-folder&#34;&gt;To use, add an image named &lt;code&gt;featured.jpg/png&lt;/code&gt; to your page&amp;rsquo;s folder.&lt;/h1&gt;
-&lt;h1 id=&#34;focal-points-smart-center-topleft-top-topright-left-right-bottomleft-bottom-bottomright&#34;&gt;Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.&lt;/h1&gt;
-&lt;h1 id=&#34;placement-options-1--full-column-width-2--out-set-3--screen-width&#34;&gt;Placement options: 1 = Full column width, 2 = Out-set, 3 = Screen-width.&lt;/h1&gt;
-&lt;h1 id=&#34;credit-uses-name-of-the-photographer&#34;&gt;Credit Uses Name of the photographer.&lt;/h1&gt;
-&lt;h1 id=&#34;fill-is-blank-or-true-it-tells-the-theme-to-fill-vs-fit-the-image-per-hugo-options-fill-is-the-wowchemy-theme-default-but-in-patersons-modified-theme-fit-is-default-to-force-an-item-to-the-wowchemy-normal-behavior-set-fill-to-true&#34;&gt;Fill is blank or true. It tells the theme to fill vs fit the image per hugo options. Fill is the wowchemy theme default, but in Paterson&amp;rsquo;s modified theme fit is default. To force an item to the wowchemy normal behavior set fill to true.&lt;/h1&gt;
-&lt;p&gt;image:
-credit:
-fill:
-placement:
-caption: &amp;quot;&amp;rdquo;
-focal_point: &amp;quot;&amp;rdquo;
-preview_only: false&lt;/p&gt;
-&lt;h1 id=&#34;optional-featured-image-relative-to-staticmedia-folder-so-that-a-different-image-can-be-used-in-on-the-home-page-and-the-project-page&#34;&gt;Optional featured image (relative to &lt;code&gt;static/media/&lt;/code&gt; folder). So that a different image can be used in on the home page and the project page.&lt;/h1&gt;
-&lt;p&gt;header:
-image:
-caption:&lt;/p&gt;
-&lt;h1 id=&#34;projects-optional&#34;&gt;Projects (optional).&lt;/h1&gt;
-&lt;h1 id=&#34;associate-this-post-with-one-or-more-of-your-projects&#34;&gt;Associate this post with one or more of your projects.&lt;/h1&gt;
-&lt;h1 id=&#34;simply-enter-your-projects-folder-or-file-name-without-extension&#34;&gt;Simply enter your project&amp;rsquo;s folder or file name without extension.&lt;/h1&gt;
-&lt;h1 id=&#34;eg-projects--internal-project-references-contentprojectdeep-learningindexmd&#34;&gt;E.g. &lt;code&gt;projects = [&amp;quot;internal-project&amp;quot;]&lt;/code&gt; references &lt;code&gt;content/project/deep-learning/index.md&lt;/code&gt;.&lt;/h1&gt;
-&lt;h1 id=&#34;otherwise-set-projects--&#34;&gt;Otherwise, set &lt;code&gt;projects = []&lt;/code&gt;.&lt;/h1&gt;
-&lt;p&gt;projects: [&amp;ldquo;2021-Language-Documentation-Collection-Assesment&amp;rdquo;, &amp;ldquo;2012-Archive-Usability&amp;rdquo;]&lt;/p&gt;
-&lt;h1 id=&#34;does-the-content-use-math-formatting&#34;&gt;Does the content use math formatting&lt;/h1&gt;
-&lt;p&gt;math: false&lt;/p&gt;
-&lt;h1 id=&#34;does-the-content-use-source-code-highlighting&#34;&gt;Does the content use source code highlighting?&lt;/h1&gt;
-&lt;p&gt;highlight: false&lt;/p&gt;
-&lt;h1 id=&#34;slides-optional&#34;&gt;Slides (optional).&lt;/h1&gt;
-&lt;h1 id=&#34;associate-this-publication-with-markdown-slides&#34;&gt;Associate this publication with Markdown slides.&lt;/h1&gt;
-&lt;h1 id=&#34;simply-enter-your-slide-decks-filename-without-extension&#34;&gt;Simply enter your slide deck&amp;rsquo;s filename without extension.&lt;/h1&gt;
-&lt;h1 id=&#34;eg-slides-example-references-contentslidesexampleindexmd&#34;&gt;E.g. &lt;code&gt;slides: &amp;quot;example&amp;quot;&lt;/code&gt; references &lt;code&gt;content/slides/example/index.md&lt;/code&gt;.&lt;/h1&gt;
-&lt;h1 id=&#34;otherwise-set-slides-&#34;&gt;Otherwise, set &lt;code&gt;slides: &amp;quot;&amp;quot;&lt;/code&gt;.&lt;/h1&gt;
-&lt;p&gt;slides: &amp;quot;&amp;rdquo;&lt;/p&gt;
-&lt;h2 id=&#34;div&#34;&gt;#&lt;div id=&#34;watch&#34;&gt;
-#
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/Lg6pzBhOnOY&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-#&lt;/div&gt;&lt;/h2&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://hughandbecky.us/Hugh-CV/talk/2023-collection-copyright-and-copyright-controls/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://hughandbecky.us/Hugh-CV/talk/2023-collection-copyright-and-copyright-controls/</guid>
-      <description>&lt;h1 id=&#34;documentation-httpssourcethemescomacademicdocsmanaging-content&#34;&gt;Documentation: &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/&#34;&gt;https://sourcethemes.com/academic/docs/managing-content/&lt;/a&gt;&lt;/h1&gt;
-&lt;p&gt;authors:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;admin&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;title: &amp;ldquo;Collection Use and Copyright Controls.&amp;rdquo;
-subtitle:
-summary: &amp;ldquo;Copyright issues for collectors and stweards of collections.&amp;rdquo;
-abstract: &amp;ldquo;TBD&amp;rdquo;&lt;/p&gt;
-&lt;p&gt;event: &amp;ldquo;57th Annual Conference of the Association for Recorded Sound Collections&amp;rdquo;
-event_url: &amp;ldquo;&lt;a href=&#34;https://www.arsc-audio.org/conference.html%22&#34;&gt;https://www.arsc-audio.org/conference.html&amp;quot;&lt;/a&gt;
-location: &amp;ldquo;Pittsburgh, Pennsylvania&amp;rdquo;
-draft: false&lt;/p&gt;
-&lt;p&gt;crafted_citation: &amp;ldquo;Paterson III, Hugh J. 2023. Collection Use and Copyright Controls. Presented at the 57th Annual Conference of the Association for Recorded Sound Collections. Pittsburgh, Pennsylvania. May 17th.&amp;rdquo;&lt;/p&gt;
-&lt;p&gt;tags: [&amp;ldquo;Copyright&amp;rdquo;, &amp;ldquo;Collections&amp;rdquo;]&lt;/p&gt;
-&lt;h1 id=&#34;categories-include-defense-peer-reviewed-conference-master-class-colloquium&#34;&gt;categories include: Defense, Peer Reviewed, Conference, Master Class, Colloquium&lt;/h1&gt;
-&lt;p&gt;categories: [&amp;ldquo;Peer Reviewed&amp;rdquo;, &amp;ldquo;Conference&amp;rdquo;]&lt;/p&gt;
-&lt;p&gt;date: 2023-05-17T11:30:00-01:00
-lastmod:
-featured: false
-draft: false&lt;/p&gt;
-&lt;h1 id=&#34;schedule-page-publish-date-not-publications-date&#34;&gt;Schedule page publish date (NOT publication&amp;rsquo;s date).&lt;/h1&gt;
-&lt;p&gt;publishDate: 2020-12-19T17:00:12-07:00&lt;/p&gt;
-&lt;h1 id=&#34;iso-6393-language-codes-and-script-codes-used-related-to-this-work&#34;&gt;ISO 639‑3 language codes and script codes used related to this work&lt;/h1&gt;
-&lt;p&gt;topic_language: []
-mentioned_language: []
-authored_language:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;eng
-language_sub-variety: []&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;valid-script-options-are-the-values-of-iso-1924-see-httpsenwikipediaorgwikiscript_unicode--zzzz--unknown-zyyy--undetermined-script-zxxx--unwritten-documents--thai--thai-khmr--khmer-grek--greek-arab--arabic-latn--latin-latg--latin-gaelic-variant-latf--latin-fraktur-variant-telu--telugu-hebr--hebrew-cyrl-cyrillic&#34;&gt;Valid Script options are the values of ISO 1924. see: &lt;a href=&#34;https://en.wikipedia.org/wiki/Script_(Unicode);&#34;&gt;https://en.wikipedia.org/wiki/Script_(Unicode);&lt;/a&gt;  Zzzz = Unknown; Zyyy = undetermined script; Zxxx = unwritten documents;  Thai = Thai; Khmr = Khmer; Grek = Greek; Arab = Arabic; Latn = Latin; Latg = Latin (Gaelic variant); Latf = Latin (Fraktur variant); Telu = Telugu; Hebr = Hebrew; Cyrl= Cyrillic&lt;/h1&gt;
-&lt;p&gt;script_used: [&amp;ldquo;latn&amp;rdquo;]
-script_mentioned: []
-orthography_mentioned: []
-orthography_used: []&lt;/p&gt;
-&lt;p&gt;author: []
-locations: []
-people: []
-trips: []
-institutions: []
-countries: []
-cities: []
-written_from: []
-#Print, Event, Audio, Video
-content_types: [&amp;ldquo;Video&amp;rdquo;, &amp;ldquo;Print&amp;rdquo;, &amp;ldquo;Event&amp;rdquo;]&lt;/p&gt;
-&lt;p&gt;#OLAC metadata&lt;/p&gt;
-&lt;p&gt;#http://www.language-archives.org/REC/role.html&lt;/p&gt;
-&lt;h1 id=&#34;valid-or-values-include-annotator-author-compiler-consultant-data_inputter--depositor-developer-editor-illustrator-interpreter-interviewer-participant-performer-photographer-recorder-researcher-research_participant-responder-signer-singer-speaker-sponsor-transcriber-translator&#34;&gt;Valid OR values include: annotator, author, compiler, consultant, data_inputter,  depositor, developer, editor, illustrator, interpreter, interviewer, participant, performer, photographer, recorder, researcher, research_participant, responder, signer, singer, speaker, sponsor, transcriber, translator&lt;/h1&gt;
-&lt;p&gt;olac_roles:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;role: author
-name: Hugh Paterson III&lt;/li&gt;
-&lt;li&gt;role: speaker
-name: Hugh Paterson III&lt;/li&gt;
-&lt;li&gt;role: author
-name: Richard Griscom&lt;/li&gt;
-&lt;li&gt;role: author
-name: Lauren B. Collister&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;httpwwwlanguage-archivesorgrecfieldhtml&#34;&gt;&lt;a href=&#34;http://www.language-archives.org/REC/field.html&#34;&gt;http://www.language-archives.org/REC/field.html&lt;/a&gt;&lt;/h1&gt;
-&lt;p&gt;#Valid OLS values: anthropological_linguistics, applied_linguistics, cognitive_science, computational_linguistics, discourse_analysis, forensic_linguistics, general_linguistics, historical_linguistics, history_of_linguistics, language_acquisition, language_documentation, lexicography, linguistics_and_literature, linguistic_theories, mathematical_linguistics, morphology, neurolinguistics, philosophy_of_language, phonetics, phonology, pragmatics, psycholinguistics, semantics, sociolinguistics, syntax, text_and_corpus_linguistics, translating_and_interpreting, typology, writing_systems&lt;/p&gt;
-&lt;p&gt;olac_linguistic_subject:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;subject_term: language_documentation&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;httpwwwlanguage-archivesorgrectypehtml&#34;&gt;&lt;a href=&#34;http://www.language-archives.org/REC/type.html&#34;&gt;http://www.language-archives.org/REC/type.html&lt;/a&gt;&lt;/h1&gt;
-&lt;p&gt;#Valid OLDT values: language_description, primary_text, lexicon
-olac_linguistic_data_type:&lt;/p&gt;
-&lt;h1 id=&#34;custom-links-optional&#34;&gt;Custom links (optional).&lt;/h1&gt;
-&lt;h1 id=&#34;uncomment-and-edit-lines-below-to-show-custom-links&#34;&gt;Uncomment and edit lines below to show custom links.&lt;/h1&gt;
-&lt;h1 id=&#34;links&#34;&gt;links:&lt;/h1&gt;
-&lt;h1 id=&#34;--name-follow&#34;&gt;- name: Follow&lt;/h1&gt;
-&lt;h1 id=&#34;url-httpstwittercom&#34;&gt;url: &lt;a href=&#34;https://twitter.com&#34;&gt;https://twitter.com&lt;/a&gt;&lt;/h1&gt;
-&lt;h1 id=&#34;icon_pack-fab&#34;&gt;icon_pack: fab&lt;/h1&gt;
-&lt;h1 id=&#34;icon-twitter&#34;&gt;icon: twitter&lt;/h1&gt;
-&lt;p&gt;#links:
-#- name: &amp;ldquo;Marlett&amp;rsquo;s Slides&amp;rdquo;&lt;/p&gt;
-&lt;h1 id=&#34;url-colloquiummaking-it-last-marlettmakingitlast2pdf&#34;&gt;url: &amp;ldquo;colloquium/Making-it-last-Marlett/MakingItLast2.pdf&amp;rdquo;&lt;/h1&gt;
-&lt;p&gt;#- name: &amp;ldquo;Paterson&amp;rsquo;s Slides&amp;rdquo;&lt;/p&gt;
-&lt;h1 id=&#34;url-colloquiummaking-it-last-patersonmaking-it-last-paterson-slidespdf&#34;&gt;url: &amp;ldquo;colloquium/Making-it-last-Paterson/Making-it-last-Paterson-Slides.pdf&amp;rdquo;&lt;/h1&gt;
-&lt;h1 id=&#34;icon_pack-fas&#34;&gt;icon_pack: fas&lt;/h1&gt;
-&lt;h1 id=&#34;icon-archive&#34;&gt;icon: archive&lt;/h1&gt;
-&lt;p&gt;links:
-#- name: Conference Abstract&lt;/p&gt;
-&lt;h1 id=&#34;url-the-role-of-the-language-community-in-peer-review-process-for-collectionspdf&#34;&gt;url: The-Role-of-the-Language-Community-in-Peer-Review-process-for-Collections.pdf&lt;/h1&gt;
-&lt;h1 id=&#34;custom-links-optional-1&#34;&gt;Custom links (optional).&lt;/h1&gt;
-&lt;h1 id=&#34;uncomment-and-edit-lines-below-to-show-custom-links-1&#34;&gt;Uncomment and edit lines below to show custom links.&lt;/h1&gt;
-&lt;h1 id=&#34;links-1&#34;&gt;links:&lt;/h1&gt;
-&lt;h1 id=&#34;--name-follow-1&#34;&gt;- name: Follow&lt;/h1&gt;
-&lt;h1 id=&#34;url-httpstwittercom-1&#34;&gt;url: &lt;a href=&#34;https://twitter.com&#34;&gt;https://twitter.com&lt;/a&gt;&lt;/h1&gt;
-&lt;h1 id=&#34;icon_pack-fab-1&#34;&gt;icon_pack: fab&lt;/h1&gt;
-&lt;h1 id=&#34;icon-twitter-1&#34;&gt;icon: twitter&lt;/h1&gt;
-&lt;p&gt;#- name: Source Files&lt;/p&gt;
-&lt;h1 id=&#34;url-httpsarchiveorg&#34;&gt;url: #https://archive.org&lt;/h1&gt;
-&lt;h1 id=&#34;icon_pack-fas-1&#34;&gt;icon_pack: fas&lt;/h1&gt;
-&lt;h1 id=&#34;icon-archive-1&#34;&gt;icon: archive&lt;/h1&gt;
-&lt;p&gt;#- name: Grant Proposal&lt;/p&gt;
-&lt;h1 id=&#34;url-httpstwittercom-2&#34;&gt;url: #https://twitter.com&lt;/h1&gt;
-&lt;h1 id=&#34;icon_pack-far&#34;&gt;icon_pack: far&lt;/h1&gt;
-&lt;h1 id=&#34;icon-file-alt&#34;&gt;icon: file-alt&lt;/h1&gt;
-&lt;p&gt;#- name: Blog Post&lt;/p&gt;
-&lt;h1 id=&#34;url-httpstwittercom-3&#34;&gt;url: #https://twitter.com&lt;/h1&gt;
-&lt;h1 id=&#34;icon_pack-far-1&#34;&gt;icon_pack: far&lt;/h1&gt;
-&lt;h1 id=&#34;icon-sticky-note&#34;&gt;icon: sticky-note&lt;/h1&gt;
-&lt;p&gt;#- name: Review&lt;/p&gt;
-&lt;h1 id=&#34;url-httpstwittercom-4&#34;&gt;url: #https://twitter.com&lt;/h1&gt;
-&lt;h1 id=&#34;icon_pack-fas-2&#34;&gt;icon_pack: fas&lt;/h1&gt;
-&lt;h1 id=&#34;icon-quote-left&#34;&gt;icon: quote-left&lt;/h1&gt;
-&lt;p&gt;#- name: Reddit&lt;/p&gt;
-&lt;h1 id=&#34;url-httpstwittercom-5&#34;&gt;url: #https://twitter.com&lt;/h1&gt;
-&lt;h1 id=&#34;icon_pack-fab-2&#34;&gt;icon_pack: fab&lt;/h1&gt;
-&lt;h1 id=&#34;icon-reddit-alien&#34;&gt;icon: reddit-alien&lt;/h1&gt;
-&lt;p&gt;#- name: Archive Deposit&lt;/p&gt;
-&lt;h1 id=&#34;url-httpsosfiobe46p&#34;&gt;url: &lt;a href=&#34;https://osf.io/be46p&#34;&gt;https://osf.io/be46p&lt;/a&gt;&lt;/h1&gt;
-&lt;h1 id=&#34;icon_pack-fas-3&#34;&gt;icon_pack: fas&lt;/h1&gt;
-&lt;h1 id=&#34;icon-landmark&#34;&gt;icon: landmark&lt;/h1&gt;
-&lt;p&gt;#- name: Video File
-#url: &lt;a href=&#34;https://osf.io/7h9su&#34;&gt;https://osf.io/7h9su&lt;/a&gt;&lt;/p&gt;
-&lt;h1 id=&#34;icon_pack-fas-4&#34;&gt;icon_pack: fas&lt;/h1&gt;
-&lt;h1 id=&#34;icon-file-video&#34;&gt;icon: file-video&lt;/h1&gt;
-&lt;p&gt;#- name: Amazon&lt;/p&gt;
-&lt;h1 id=&#34;url-httpstwittercom-6&#34;&gt;url: #https://twitter.com&lt;/h1&gt;
-&lt;h1 id=&#34;icon_pack-fab-3&#34;&gt;icon_pack: fab&lt;/h1&gt;
-&lt;h1 id=&#34;icon-amazon&#34;&gt;icon: amazon&lt;/h1&gt;
-&lt;h1 id=&#34;note-there-is-an-official-dataset-theme-item-url_dataset&#34;&gt;Note there is an official Dataset theme item url_dataset&lt;/h1&gt;
-&lt;p&gt;#- name: Data set&lt;/p&gt;
-&lt;h1 id=&#34;url-httpstwittercom-7&#34;&gt;url: #https://twitter.com&lt;/h1&gt;
-&lt;h1 id=&#34;icon_pack-fas-5&#34;&gt;icon_pack: fas&lt;/h1&gt;
-&lt;h1 id=&#34;icon-dice-d20&#34;&gt;icon: dice-d20&lt;/h1&gt;
-&lt;p&gt;#- name: Watch&lt;/p&gt;
-&lt;h1 id=&#34;url-talk2022-the-role-of-the-language-community-in-peer-review-process-for-collectionswatch&#34;&gt;url: /talk/2022-the-role-of-the-language-community-in-peer-review-process-for-collections/#watch&lt;/h1&gt;
-&lt;h1 id=&#34;icon_pack-fas-6&#34;&gt;icon_pack: fas&lt;/h1&gt;
-&lt;h1 id=&#34;icon-video&#34;&gt;icon: video&lt;/h1&gt;
-&lt;h1 id=&#34;optional-filename-of-your-slides-within-your-talks-folder-or-a-url&#34;&gt;Optional filename of your slides within your talk&amp;rsquo;s folder or a URL.&lt;/h1&gt;
-&lt;p&gt;url_preprint:
-url_code:
-url_dataset:
-url_poster:
-url_project:
-url_source:
-#url_video: &lt;a href=&#34;https://youtu.be/Lg6pzBhOnOY&#34;&gt;https://youtu.be/Lg6pzBhOnOY&lt;/a&gt;
-#url_slides: &lt;a href=&#34;https://docs.google.com/presentation/d/1nj2ObQ20IaxNeikaiYgK_nkMqf_IQgAQ04YobQL0qf4/edit?usp=sharing&#34;&gt;https://docs.google.com/presentation/d/1nj2ObQ20IaxNeikaiYgK_nkMqf_IQgAQ04YobQL0qf4/edit?usp=sharing&lt;/a&gt;
-url_pdf:&lt;/p&gt;
-&lt;h1 id=&#34;featured-image&#34;&gt;Featured image&lt;/h1&gt;
-&lt;h1 id=&#34;to-use-add-an-image-named-featuredjpgpng-to-your-pages-folder&#34;&gt;To use, add an image named &lt;code&gt;featured.jpg/png&lt;/code&gt; to your page&amp;rsquo;s folder.&lt;/h1&gt;
-&lt;h1 id=&#34;focal-points-smart-center-topleft-top-topright-left-right-bottomleft-bottom-bottomright&#34;&gt;Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.&lt;/h1&gt;
-&lt;h1 id=&#34;placement-options-1--full-column-width-2--out-set-3--screen-width&#34;&gt;Placement options: 1 = Full column width, 2 = Out-set, 3 = Screen-width.&lt;/h1&gt;
-&lt;h1 id=&#34;credit-uses-name-of-the-photographer&#34;&gt;Credit Uses Name of the photographer.&lt;/h1&gt;
-&lt;h1 id=&#34;fill-is-blank-or-true-it-tells-the-theme-to-fill-vs-fit-the-image-per-hugo-options-fill-is-the-wowchemy-theme-default-but-in-patersons-modified-theme-fit-is-default-to-force-an-item-to-the-wowchemy-normal-behavior-set-fill-to-true&#34;&gt;Fill is blank or true. It tells the theme to fill vs fit the image per hugo options. Fill is the wowchemy theme default, but in Paterson&amp;rsquo;s modified theme fit is default. To force an item to the wowchemy normal behavior set fill to true.&lt;/h1&gt;
-&lt;p&gt;image:
-credit:
-fill:
-placement:
-caption: &amp;quot;&amp;rdquo;
-focal_point: &amp;quot;&amp;rdquo;
-preview_only: false&lt;/p&gt;
-&lt;h1 id=&#34;optional-featured-image-relative-to-staticmedia-folder-so-that-a-different-image-can-be-used-in-on-the-home-page-and-the-project-page&#34;&gt;Optional featured image (relative to &lt;code&gt;static/media/&lt;/code&gt; folder). So that a different image can be used in on the home page and the project page.&lt;/h1&gt;
-&lt;p&gt;header:
-image:
-caption:&lt;/p&gt;
-&lt;h1 id=&#34;projects-optional&#34;&gt;Projects (optional).&lt;/h1&gt;
-&lt;h1 id=&#34;associate-this-post-with-one-or-more-of-your-projects&#34;&gt;Associate this post with one or more of your projects.&lt;/h1&gt;
-&lt;h1 id=&#34;simply-enter-your-projects-folder-or-file-name-without-extension&#34;&gt;Simply enter your project&amp;rsquo;s folder or file name without extension.&lt;/h1&gt;
-&lt;h1 id=&#34;eg-projects--internal-project-references-contentprojectdeep-learningindexmd&#34;&gt;E.g. &lt;code&gt;projects = [&amp;quot;internal-project&amp;quot;]&lt;/code&gt; references &lt;code&gt;content/project/deep-learning/index.md&lt;/code&gt;.&lt;/h1&gt;
-&lt;h1 id=&#34;otherwise-set-projects--&#34;&gt;Otherwise, set &lt;code&gt;projects = []&lt;/code&gt;.&lt;/h1&gt;
-&lt;p&gt;projects: [&amp;ldquo;2021-Language-Documentation-Collection-Assesment&amp;rdquo;, &amp;ldquo;2012-Archive-Usability&amp;rdquo;]&lt;/p&gt;
-&lt;h1 id=&#34;does-the-content-use-math-formatting&#34;&gt;Does the content use math formatting&lt;/h1&gt;
-&lt;p&gt;math: false&lt;/p&gt;
-&lt;h1 id=&#34;does-the-content-use-source-code-highlighting&#34;&gt;Does the content use source code highlighting?&lt;/h1&gt;
-&lt;p&gt;highlight: false&lt;/p&gt;
-&lt;h1 id=&#34;slides-optional&#34;&gt;Slides (optional).&lt;/h1&gt;
-&lt;h1 id=&#34;associate-this-publication-with-markdown-slides&#34;&gt;Associate this publication with Markdown slides.&lt;/h1&gt;
-&lt;h1 id=&#34;simply-enter-your-slide-decks-filename-without-extension&#34;&gt;Simply enter your slide deck&amp;rsquo;s filename without extension.&lt;/h1&gt;
-&lt;h1 id=&#34;eg-slides-example-references-contentslidesexampleindexmd&#34;&gt;E.g. &lt;code&gt;slides: &amp;quot;example&amp;quot;&lt;/code&gt; references &lt;code&gt;content/slides/example/index.md&lt;/code&gt;.&lt;/h1&gt;
-&lt;h1 id=&#34;otherwise-set-slides-&#34;&gt;Otherwise, set &lt;code&gt;slides: &amp;quot;&amp;quot;&lt;/code&gt;.&lt;/h1&gt;
-&lt;p&gt;slides: &amp;quot;&amp;rdquo;&lt;/p&gt;
-&lt;h2 id=&#34;div&#34;&gt;#&lt;div id=&#34;watch&#34;&gt;
-#
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/Lg6pzBhOnOY&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-#&lt;/div&gt;&lt;/h2&gt;
 </description>
     </item>
     

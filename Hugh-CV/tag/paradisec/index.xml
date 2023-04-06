@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PARADISEC | Hugh&#39;s Curriculum Vitae</title>
+    <link>https://hughandbecky.us/Hugh-CV/tag/paradisec/</link>
+      <atom:link href="https://hughandbecky.us/Hugh-CV/tag/paradisec/index.xml" rel="self" type="application/rss+xml" />
+    <description>PARADISEC</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2023</copyright><lastBuildDate>Mon, 06 Feb 2023 14:35:45 +0100</lastBuildDate>
+    <image>
+      <url>https://hughandbecky.us/Hugh-CV/media/HughPaterson.jpg</url>
+      <title>PARADISEC</title>
+      <link>https://hughandbecky.us/Hugh-CV/tag/paradisec/</link>
+    </image>
+    
+    <item>
+      <title>PARADISEC OLAC Records and Rights</title>
+      <link>https://hughandbecky.us/Hugh-CV/post/paradisec-olac-records-and-rights/</link>
+      <pubDate>Mon, 06 Feb 2023 14:35:45 +0100</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/post/paradisec-olac-records-and-rights/</guid>
+      <description>&lt;p&gt;Defining the scope of OLAC records is necessary. That is, a record can&amp;rsquo;t contain everything any body might want, however, while contemplating the following record I had some thoughts&amp;hellip;&lt;/p&gt;
+&lt;p&gt;This PARADISEC record does not have a date of creation, or date of copyright.&lt;/p&gt;
+&lt;p&gt;While the included record does not specify a license such as a creative commons license, some records I have seen opt for a CC-BY-NC license without a record of when the license will expire. Exprirey date is linked to the term of copyright as provided by law within a specific country. Many (if not any) records have any indication of which jurisdiction of the copyright exists under, or who else has the authority to license the materials&amp;hellip; 
+&lt;a href=&#34;https://hugh.thejourneyler.org/2022/what-are-the-rights-of-ownership/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ownership&lt;/a&gt; can include the authority to issue licenses — specifically licenses which might work in situations which are not imagined at the moment of archival.&lt;/p&gt;
+&lt;p&gt;The restriction on the access is rational. The bases of the restriction should be described and linked. The access basis does not remove any copyright considerations but may limit the kinds of licenses which may be applied.&lt;/p&gt;
+
+
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-paradisec-record-for-frog-story-in-the-olac-interface&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/paradisec-olac-records-and-rights/featured_huc0fc9ad1f1cbebce936878f6092d95b6_196944_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;PARADISEC record for Frog story in the OLAC Interface&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/paradisec-olac-records-and-rights/featured_huc0fc9ad1f1cbebce936878f6092d95b6_196944_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;Screen shot of the OLAC Interface&#34; width=&#34;928&#34; height=&#34;864&#34; itemprop=&#34;contentUrl&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;p&gt;PARADISEC record for Frog story in the OLAC Interface
+      
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;http://www.language-archives.org/item/oai:paradisec.org.au:GK1-FM15_61_2c&#34;&gt; 
+OLAC Interface&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
+        &lt;meta itemprop=&#34;name&#34; content=&#34;OLAC Interface&#34; /&gt;
+      &lt;/span&gt;
+&lt;/a&gt; &lt;/span&gt;
+&lt;/p&gt;
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;The following XML record replicated below is from OLAC. It is retrievable 
+&lt;a href=&#34;http://www.language-archives.org/cgi-bin/olaca3.pl?verb=GetRecord&amp;amp;identifier=oai:paradisec.org.au:GK1-FM15_61_2c&amp;amp;metadataPrefix=olac&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;, while the record is viewable in the OLAC interface 
+&lt;a href=&#34;http://www.language-archives.org/item/oai:paradisec.org.au:GK1-FM15_61_2c&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-xml&#34;&gt;&amp;lt;OAI-PMH xmlns=&amp;quot;http://www.openarchives.org/OAI/2.0/&amp;quot; xmlns:xsi=&amp;quot;http://www.w3.org/2001/XMLSchema-instance&amp;quot; xsi:schemaLocation=&amp;quot;http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd&amp;quot;&amp;gt;
+&amp;lt;responseDate&amp;gt;2023-02-06T17:08:18Z&amp;lt;/responseDate&amp;gt;
+&amp;lt;request verb=&amp;quot;GetRecord&amp;quot; identifier=&amp;quot;oai%3Aparadisec.org.au%3AGK1-FM15_61_2c&amp;quot; metadataPrefix=&amp;quot;olac&amp;quot;&amp;gt;http://www.language-archives.org/cgi-bin/olaca3.pl&amp;lt;/request&amp;gt;
+&amp;lt;GetRecord&amp;gt;
+&amp;lt;record&amp;gt;
+&amp;lt;header&amp;gt;
+&amp;lt;identifier&amp;gt;oai:paradisec.org.au:GK1-FM15_61_2c&amp;lt;/identifier&amp;gt;
+&amp;lt;datestamp&amp;gt;2022-06-18&amp;lt;/datestamp&amp;gt;
+&amp;lt;/header&amp;gt;
+&amp;lt;metadata&amp;gt;
+&amp;lt;olac:olac xmlns:dc=&amp;quot;http://purl.org/dc/elements/1.1/&amp;quot; xmlns:dcterms=&amp;quot;http://purl.org/dc/terms/&amp;quot; xmlns:olac=&amp;quot;http://www.language-archives.org/OLAC/1.1/&amp;quot; xsi:schemaLocation=&amp;quot; http://purl.org/dc/elements/1.1/ http://www.language-archives.org/OLAC/1.1/dc.xsd http://purl.org/dc/terms/ http://www.language-archives.org/OLAC/1.1/dcterms.xsd http://www.language-archives.org/OLAC/1.1/ http://www.language-archives.org/OLAC/1.1/olac.xsd &amp;quot;&amp;gt;
+&amp;lt;dc:title&amp;gt;Frog story&amp;lt;/dc:title&amp;gt;
+&amp;lt;dc:contributor xsi:type=&amp;quot;olac:role&amp;quot; olac:code=&amp;quot;compiler&amp;quot;&amp;gt;Felicity Meakins&amp;lt;/dc:contributor&amp;gt;
+&amp;lt;dc:contributor xsi:type=&amp;quot;olac:role&amp;quot; olac:code=&amp;quot;participant&amp;quot;&amp;gt;FAP &amp;lt;/dc:contributor&amp;gt;
+&amp;lt;dc:contributor xsi:type=&amp;quot;olac:role&amp;quot; olac:code=&amp;quot;participant&amp;quot;&amp;gt;FKP &amp;lt;/dc:contributor&amp;gt;
+&amp;lt;dc:contributor xsi:type=&amp;quot;olac:role&amp;quot; olac:code=&amp;quot;recorder&amp;quot;&amp;gt;Cassandra Algy&amp;lt;/dc:contributor&amp;gt;
+&amp;lt;dc:contributor xsi:type=&amp;quot;olac:role&amp;quot; olac:code=&amp;quot;participant&amp;quot;&amp;gt;FAP&#39;s son &amp;lt;/dc:contributor&amp;gt;
+&amp;lt;dc:contributor xsi:type=&amp;quot;olac:role&amp;quot; olac:code=&amp;quot;participant&amp;quot;&amp;gt;FSL &amp;lt;/dc:contributor&amp;gt;
+&amp;lt;dc:contributor xsi:type=&amp;quot;olac:role&amp;quot; olac:code=&amp;quot;speaker&amp;quot;&amp;gt;FAL &amp;lt;/dc:contributor&amp;gt;
+&amp;lt;dc:coverage xsi:type=&amp;quot;dcterms:ISO3166&amp;quot;&amp;gt;AU&amp;lt;/dc:coverage&amp;gt;
+&amp;lt;dc:coverage xsi:type=&amp;quot;dcterms:Box&amp;quot;&amp;gt;northlimit=-16.0724; southlimit=-20.4217; westlimit=129.337; eastlimit=133.145&amp;lt;/dc:coverage&amp;gt;
+&amp;lt;dc:date xsi:type=&amp;quot;dcterms:W3CDTF&amp;quot;&amp;gt;2015-09-30&amp;lt;/dc:date&amp;gt;
+&amp;lt;dcterms:created xsi:type=&amp;quot;dcterms:W3CDTF&amp;quot;&amp;gt;2015-09-30&amp;lt;/dcterms:created&amp;gt;
+&amp;lt;dc:description&amp;gt;Frog Story. FAL is 9 years old. FKP and FAP, FAP&#39;s son and FSL are also present. Cassandra Algy is operating the camera. 3:54min. . Language as given: Gurindji Kriol&amp;lt;/dc:description&amp;gt;
+&amp;lt;dcterms:tableOfContents xsi:type=&amp;quot;dcterms:URI&amp;quot;&amp;gt;http://catalog.paradisec.org.au/repository/GK1/FM15_61_2c/GK1-FM15_61_2c-01.eaf&amp;lt;/dcterms:tableOfContents&amp;gt;
+&amp;lt;dcterms:tableOfContents xsi:type=&amp;quot;dcterms:URI&amp;quot;&amp;gt;http://catalog.paradisec.org.au/repository/GK1/FM15_61_2c/GK1-FM15_61_2c-01.cha&amp;lt;/dcterms:tableOfContents&amp;gt;
+&amp;lt;dcterms:tableOfContents xsi:type=&amp;quot;dcterms:URI&amp;quot;&amp;gt;http://catalog.paradisec.org.au/repository/GK1/FM15_61_2c/GK1-FM15_61_2c-01.txt&amp;lt;/dcterms:tableOfContents&amp;gt;
+&amp;lt;dcterms:tableOfContents xsi:type=&amp;quot;dcterms:URI&amp;quot;&amp;gt;http://catalog.paradisec.org.au/repository/GK1/FM15_61_2c/GK1-FM15_61_2c-01.wav&amp;lt;/dcterms:tableOfContents&amp;gt;
+&amp;lt;dcterms:tableOfContents xsi:type=&amp;quot;dcterms:URI&amp;quot;&amp;gt;http://catalog.paradisec.org.au/repository/GK1/FM15_61_2c/GK1-FM15_61_2c-01.mp3&amp;lt;/dcterms:tableOfContents&amp;gt;
+&amp;lt;dc:format&amp;gt;Digitised: no&amp;lt;/dc:format&amp;gt;
+&amp;lt;dc:identifier&amp;gt;GK1-FM15_61_2c&amp;lt;/dc:identifier&amp;gt;
+&amp;lt;dc:identifier xsi:type=&amp;quot;dcterms:URI&amp;quot;&amp;gt;http://catalog.paradisec.org.au/repository/GK1/FM15_61_2c&amp;lt;/dc:identifier&amp;gt;
+&amp;lt;dcterms:bibliographicCitation&amp;gt;Felicity Meakins (collector), FAP (participant), FKP (participant), Cassandra Algy (recorder), FAP&#39;s son (participant), FSL (participant), FAL (speaker), 2015. Frog story. XML/PLAIN/X-WAV/MPEG. GK1-FM15_61_2c at catalog.paradisec.org.au. https://dx.doi.org/10.26278/KADF-H358&amp;lt;/dcterms:bibliographicCitation&amp;gt;
+&amp;lt;dc:language xsi:type=&amp;quot;olac:language&amp;quot;/&amp;gt;
+&amp;lt;dc:rights&amp;gt;Closed (subject to the access condition details)&amp;lt;/dc:rights&amp;gt;
+&amp;lt;dcterms:accessRights&amp;gt;Closed (subject to the access condition details), If you wish to request access to the audio and transcript files, please contact the depositor, Felicity Meakins, at the School of Languages and Cultures, University of Queensland. No access will be granted to material containing deceased people without prior consent of the families.&amp;lt;/dcterms:accessRights&amp;gt;
+&amp;lt;dc:subject xsi:type=&amp;quot;olac:linguistic-field&amp;quot; olac:code=&amp;quot;language_documentation&amp;quot;/&amp;gt;
+&amp;lt;dc:subject xsi:type=&amp;quot;olac:language&amp;quot;/&amp;gt;
+&amp;lt;dc:type xsi:type=&amp;quot;dcterms:DCMIType&amp;quot;&amp;gt;Sound&amp;lt;/dc:type&amp;gt;
+&amp;lt;/olac:olac&amp;gt;
+&amp;lt;/metadata&amp;gt;
+&amp;lt;/record&amp;gt;
+&amp;lt;/GetRecord&amp;gt;
+&amp;lt;/OAI-PMH&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

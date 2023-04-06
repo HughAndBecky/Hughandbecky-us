@@ -5,12 +5,20 @@
     <link>https://hughandbecky.us/Hugh-CV/tag/collections/</link>
       <atom:link href="https://hughandbecky.us/Hugh-CV/tag/collections/index.xml" rel="self" type="application/rss+xml" />
     <description>Collections</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2023</copyright><lastBuildDate>Sat, 07 Jan 2023 14:35:45 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2023</copyright><lastBuildDate>Wed, 17 May 2023 11:30:00 -0100</lastBuildDate>
     <image>
       <url>https://hughandbecky.us/Hugh-CV/media/HughPaterson.jpg</url>
       <title>Collections</title>
       <link>https://hughandbecky.us/Hugh-CV/tag/collections/</link>
     </image>
+    
+    <item>
+      <title>Collection Use and Copyright Considerations.</title>
+      <link>https://hughandbecky.us/Hugh-CV/talk/2023-collection-copyright-and-copyright-controls/</link>
+      <pubDate>Wed, 17 May 2023 11:30:00 -0100</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/talk/2023-collection-copyright-and-copyright-controls/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>An Application of OAI Sets for OLAC</title>

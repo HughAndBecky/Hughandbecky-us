@@ -54,7 +54,7 @@
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/crubadan-olac-records/_hub4fb0a3d5618c54546bd65640ee26d82_241537_3781aedb7029e4d23bef189367664de8.png&#34; data-caption=&#34;Crubadan record for Karbi (Hills Karbi) in the OLAC Interface&#34;&gt;
 
 
-  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/crubadan-olac-records/_hub4fb0a3d5618c54546bd65640ee26d82_241537_3781aedb7029e4d23bef189367664de8.png&#34; class=&#34;lazyload&#34; alt=&#34;Screenshot of the OLAC Interface&#34; width=&#34;1920&#34; height=&#34;1189&#34; itemprop=&#34;contentUrl&#34;&gt;
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/crubadan-olac-records/_hub4fb0a3d5618c54546bd65640ee26d82_241537_3781aedb7029e4d23bef189367664de8.png&#34; class=&#34;lazyload&#34; alt=&#34;Screen shot of the OLAC Interface&#34; width=&#34;1920&#34; height=&#34;1189&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
 
 
@@ -75,25 +75,27 @@ OLAC Interface&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.o
 &lt;/figure&gt;
 
 &lt;ol&gt;
-&lt;li&gt;Is the license actually applicable? That is who is the copyright holder and is the content actually meeting the threshold for copyright?&lt;/li&gt;
+&lt;li&gt;Is the license actually applicable? That is who is the copyright holder and is the content actually meeting the threshold for copyright? The creator is not always the copyright holder. Nor should the creator/author be assumed to be the copyright holder.&lt;/li&gt;
 &lt;li&gt;Why is the source text not indicated in the source field?&lt;/li&gt;
 &lt;li&gt;Where is the source software used to generate the resource?&lt;/li&gt;
 &lt;li&gt;The format is an application/zip and the DCMIType is &lt;em&gt;Dataset&lt;/em&gt;, so which application is the data consumable in? or which formats are used within the .zip file?&lt;/li&gt;
 &lt;li&gt;If an abstract is a summary, can or should that field be used then to declare what are the rows and columns or tables and relationships in the dataset are?&lt;/li&gt;
-&lt;li&gt;How can you have rights without a rightsholder? No copyright holder is declared. The creative commons licese is only valid if there is a valid copyright claim.&lt;/li&gt;
-&lt;li&gt;The specific resource should have a relationship to a Crubadan collection record. It doesnt have these relationships declared. This means that the automatically generated OLAC citation is also malformed.&lt;/li&gt;
+&lt;li&gt;How can you have rights without a rights-holder? No copyright holder is declared. The creative commons license is only valid if there is a valid copyright claim.&lt;/li&gt;
+&lt;li&gt;The specific resource should have a relationship to a Crubadan collection record. It doesn&amp;rsquo;t have these relationships declared. This means that the automatically generated OLAC citation is also malformed.&lt;/li&gt;
 &lt;li&gt;The part record, all records actually, should have the DCTerms citation element included. These records don&amp;rsquo;t.&lt;/li&gt;
-&lt;li&gt;Why are there no LCSH subjects?&lt;/li&gt;
+&lt;li&gt;Why are there no Library of Congress Subject Heading (LCSH) subjects? This is a really hard question to answer. What exactly is the subject of a corpus of letter-frequencies? Computational linguistics? Language Identification? This is where subject hood in language resources seems to break down a bit unless we understand subject to be not just &lt;em&gt;about-ness&lt;/em&gt;, but also &lt;em&gt;of-ness&lt;/em&gt; and &lt;em&gt;for-ness&lt;/em&gt; (utility).&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;The following two revelations about the user interface ought to be incorporated into future versions of the OLAC interface:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;OLAC presents a citation but doesn&amp;rsquo;t pull that from the record. Where does it get that information? — What is the generative process?&lt;/li&gt;
-&lt;li&gt;Why doesn&amp;rsquo;t the OLAC interface report that the links are linkrotted and now 404?&lt;/li&gt;
+&lt;li&gt;Why doesn&amp;rsquo;t the OLAC interface report that the links are link-rotted and now 404?&lt;/li&gt;
+&lt;li&gt;The included XML file appears to be unqualified Dublin Core with the addition of the OLAC metadata. However, the OLAC profile calls for the useage of Qualified Dublin Core. An investigation should be made to see if this is the result of the OLAC infastructure or the data as it was recived by OLAC. (It seems that when this record is compared with the record from 
+&lt;a href=&#34;https://hughandbecky.us/Hugh-CV/post/paradisec-olac-records-and-rights/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PARADISEC OLAC Records and Rights&lt;/a&gt; that OLAC does provide QDC when it has been provided QDC.)&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;The following XML record replicated below is from OLAC. It is retrievable 
 &lt;a href=&#34;http://www.language-archives.org/cgi-bin/olaca3.pl?verb=GetRecord&amp;amp;identifier=oai:crubadan.org:mjw&amp;amp;metadataPrefix=olac&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;, while the record is viewable in the OLAC interface 
 &lt;a href=&#34;http://www.language-archives.org/item/oai:crubadan.org:mjw&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;&amp;lt;OAI-PMH xmlns=&amp;quot;http://www.openarchives.org/OAI/2.0/&amp;quot; xmlns:xsi=&amp;quot;http://www.w3.org/2001/XMLSchema-instance&amp;quot; xsi:schemaLocation=&amp;quot;http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd&amp;quot;&amp;gt;
+&lt;pre&gt;&lt;code class=&#34;language-XML&#34;&gt;&amp;lt;OAI-PMH xmlns=&amp;quot;http://www.openarchives.org/OAI/2.0/&amp;quot; xmlns:xsi=&amp;quot;http://www.w3.org/2001/XMLSchema-instance&amp;quot; xsi:schemaLocation=&amp;quot;http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd&amp;quot;&amp;gt;
 &amp;lt;responseDate&amp;gt;2023-04-04T04:54:39Z&amp;lt;/responseDate&amp;gt;
 &amp;lt;request verb=&amp;quot;GetRecord&amp;quot; identifier=&amp;quot;oai%3Acrubadan.org%3Amjw&amp;quot; metadataPrefix=&amp;quot;olac&amp;quot;&amp;gt;http://www.language-archives.org/cgi-bin/olaca3.pl&amp;lt;/request&amp;gt;
 &amp;lt;GetRecord&amp;gt;
