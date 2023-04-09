@@ -5,12 +5,838 @@
     <link>https://hughandbecky.us/Hugh-CV/author/hugh-paterson-iii/</link>
       <atom:link href="https://hughandbecky.us/Hugh-CV/author/hugh-paterson-iii/index.xml" rel="self" type="application/rss+xml" />
     <description>Hugh Paterson III</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2023</copyright><lastBuildDate>Thu, 01 Jun 2023 17:00:12 -0700</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2023</copyright><lastBuildDate>Mon, 04 Sep 2023 11:30:00 -0100</lastBuildDate>
     <image>
       <url>https://hughandbecky.us/Hugh-CV/media/HughPaterson.jpg</url>
       <title>Hugh Paterson III</title>
       <link>https://hughandbecky.us/Hugh-CV/author/hugh-paterson-iii/</link>
     </image>
+    
+    <item>
+      <title>Proto-Malayo-Polynesian: Some Phonetic Evidence for *l</title>
+      <link>https://hughandbecky.us/Hugh-CV/talk/2023-ichl26/</link>
+      <pubDate>Mon, 04 Sep 2023 11:30:00 -0100</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/talk/2023-ichl26/</guid>
+      <description>&lt;p&gt;Correspondences for the interdental and PAn *l&lt;/p&gt;
+&lt;!-- The javascript way&lt;script&gt;if (window.innerWidth &gt; 700){document.querySelector(&#39;.article-style&#39;).style.overflowX = &#39;visible&#39;;}&lt;/script&gt;
+&lt;style&gt;#tg-ZAuTS { width: 85vw; position: relative; left: calc(-50vw + 70%); z-index: 1; !important}&lt;/style&gt; --&gt;
+&lt;!-- currently the style tags below apply This ought to be moved to a short code following the instructions here: https://www.mybluelinux.com/how-create-bootstrap-tables-in-hugo/ and some of the complex table&#39;s CSS has been modified. For example, I added no-hypenation and really the long URLs ought to be broken more and the text given the room it needs. --&gt;
+&lt;style&gt;/* 0. apply these rules when the screen is big enough*/ @media screen and (min-width: 800px) {
+
+/* 1. extend child table beyond max-width of parent */
+  #tg-ZAuTS {
+    position: relative;
+    /* set the width and the left rules to allow for margins */
+    width: 90vw;
+    left: calc(-50vw + 60%);
+  }
+/* 2. override the parents overflow rule so the table can be visible */
+  .article-style {
+    overflow-x: visible !important;
+  }
+wbr:before {
+  /* Unicode zero width space */
+  content: &#34;\200B&#34;;
+  white-space: normal;
+}
+}
+&lt;/style&gt;
+&lt;style type=&#34;text/css&#34;&gt;
+.tg  {border-collapse:collapse;border-spacing: 2px; border-color: grey;border-top-color: grey;border-bottom-color: grey;margin:0px auto; margin-bottom: 1rem;}
+.tg td{border-color:black;border-style:solid;border-width:0px;font-size: 0.8rem; overflow:hidden;padding:10px 5px;word-break:normal; hyphens: none;}
+.tg th{border-color:black;border-style:solid;border-width:0px;font-size: 0.8rem;
+  font-weight:bold;overflow:hidden;padding:10px 5px;word-break:normal; hyphens: none;}
+.tg .tg-j1i3{border-color:inherit;position:-webkit-sticky;position:sticky;text-align:left;top:-1px;vertical-align:top; will-change: transform;}
+.tg .tg-ih3h{border-color:inherit;position:-webkit-sticky;position:sticky;text-align:center;top:-1px;vertical-align:top; will-change: transform;}
+.tg .tg-q01z{border-color:inherit;position:-webkit-sticky;position:sticky;text-align:center;top:-1px;
+  vertical-align:top; will-change: transform;}
+.tg .tg-exmw{border-color:inherit;position:-webkit-sticky;position:sticky;text-align:center;top:-1px;
+  vertical-align:top; will-change: transform;}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+.tg-sort-header::-moz-selection{background:0 0}
+.tg-sort-header::selection{background:0 0}.tg-sort-header{cursor:pointer}
+.tg-sort-header:after{content:&#39;&#39;;float:right;margin-top:7px;border-width:0 5px 5px;border-style:solid; border-color:#404040 transparent;visibility:hidden}
+.tg-sort-header:hover:after{visibility:visible}
+.tg-sort-asc:after,.tg-sort-asc:hover:after,.tg-sort-desc:after{visibility:visible;opacity:.4}
+.tg-sort-desc:after{border-bottom:none;border-width:5px 5px 0}@media screen and (max-width: 767px) {.tg {width: auto !important;}.tg col {width: auto !important;}.tg-wrap {overflow-x: auto;-webkit-overflow-scrolling: touch;margin: auto 0px;}}&lt;/style&gt;
+&lt;div class=&#34;tg-wrap&#34;&gt;&lt;table id=&#34;tg-ZAuTS&#34; class=&#34;tg&#34;&gt;
+&lt;thead&gt;
+  &lt;tr&gt;
+    &lt;th class=&#34;tg-j1i3&#34;&gt;English&lt;/th&gt;
+    &lt;th class=&#34;tg-j1i3&#34;&gt;Butbut&lt;/th&gt;
+    &lt;th class=&#34;tg-j1i3&#34;&gt;Lubuagen&lt;/th&gt;
+    &lt;th class=&#34;tg-j1i3&#34;&gt;Majukayong&lt;/th&gt;
+    &lt;th class=&#34;tg-j1i3&#34;&gt;Minangali&lt;/th&gt;
+    &lt;th class=&#34;tg-j1i3&#34;&gt;Kagayanen&lt;/th&gt;
+    &lt;th class=&#34;tg-j1i3&#34;&gt;Kalagan&lt;/th&gt;
+    &lt;th class=&#34;tg-j1i3&#34;&gt;Southern Catanduanes Bicolano&lt;/th&gt;
+    &lt;th class=&#34;tg-j1i3&#34;&gt;Blust (1999)&lt;/th&gt;
+  &lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+  &lt;tr&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;[eng]&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;[kyb]&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;[knb]&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;[knb]&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;[knb]&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;[knb]&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;[knb]&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;[knb]&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;[knb]&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;three&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;tuˈð̞u&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;tiˈð̞u&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;tuˈð̞u&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;tuð̞u&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;ˈtallo&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;toð̞o&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;tuð̞u&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;*telu&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;moon&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;ˈhʷuð̞an&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;ˈbuð̞an&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;sɔˈð̞ag&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;soð̞ag&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;ˈbuð̞an&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;boð̞an&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;buð̞an&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;*bulaN / *qiNas&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;path&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;ˈʧað̞an&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;ˈkeð̞sa̞&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;ˈqað̞sa&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;ʔað̞sa&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;ˈdað̞an&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;dað̞an&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;dað̞a&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;*zalan&lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;&lt;/div&gt;
+&lt;script charset=&#34;utf-8&#34;&gt;var TGSort=window.TGSort||function(n){&#34;use strict&#34;;function r(n){return n?n.length:0}function t(n,t,e,o=0){for(e=r(n);o&lt;e;++o)t(n[o],o)}function e(n){return n.split(&#34;&#34;).reverse().join(&#34;&#34;)}function o(n){var e=n[0];return t(n,function(n){for(;!n.startsWith(e);)e=e.substring(0,r(e)-1)}),r(e)}function u(n,r,e=[]){return t(n,function(n){r(n)&amp;&amp;e.push(n)}),e}var a=parseFloat;function i(n,r){return function(t){var e=&#34;&#34;;return t.replace(n,function(n,t,o){return e=t.replace(r,&#34;&#34;)+&#34;.&#34;+(o||&#34;&#34;).substring(1)}),a(e)}}var s=i(/^(?:\s*)([+-]?(?:\d+)(?:,\d{3})*)(\.\d*)?$/g,/,/g),c=i(/^(?:\s*)([+-]?(?:\d+)(?:\.\d{3})*)(,\d*)?$/g,/\./g);function f(n){var t=a(n);return!isNaN(t)&amp;&amp;r(&#34;&#34;+t)+1&gt;=r(n)?t:NaN}function d(n){var e=[],o=n;return t([f,s,c],function(u){var a=[],i=[];t(n,function(n,r){r=u(n),a.push(r),r||i.push(n)}),r(i)&lt;r(o)&amp;&amp;(o=i,e=a)}),r(u(o,function(n){return n==o[0]}))==r(o)?e:[]}function v(n){if(&#34;TABLE&#34;==n.nodeName){for(var a=function(r){var e,o,u=[],a=[];return function n(r,e){e(r),t(r.childNodes,function(r){n(r,e)})}(n,function(n){&#34;TR&#34;==(o=n.nodeName)?(e=[],u.push(e),a.push(n)):&#34;TD&#34;!=o&amp;&amp;&#34;TH&#34;!=o||e.push(n)}),[u,a]}(),i=a[0],s=a[1],c=r(i),f=c&gt;1&amp;&amp;r(i[0])&lt;r(i[1])?1:0,v=f+1,p=i[f],h=r(p),l=[],g=[],N=[],m=v;m&lt;c;++m){for(var T=0;T&lt;h;++T){r(g)&lt;h&amp;&amp;g.push([]);var C=i[m][T],L=C.textContent||C.innerText||&#34;&#34;;g[T].push(L.trim())}N.push(m-v)}t(p,function(n,t){l[t]=0;var a=n.classList;a.add(&#34;tg-sort-header&#34;),n.addEventListener(&#34;click&#34;,function(){var n=l[t];!function(){for(var n=0;n&lt;h;++n){var r=p[n].classList;r.remove(&#34;tg-sort-asc&#34;),r.remove(&#34;tg-sort-desc&#34;),l[n]=0}}(),(n=1==n?-1:+!n)&amp;&amp;a.add(n&gt;0?&#34;tg-sort-asc&#34;:&#34;tg-sort-desc&#34;),l[t]=n;var i,f=g[t],m=function(r,t){return n*f[r].localeCompare(f[t])||n*(r-t)},T=function(n){var t=d(n);if(!r(t)){var u=o(n),a=o(n.map(e));t=d(n.map(function(n){return n.substring(u,r(n)-a)}))}return t}(f);(r(T)||r(T=r(u(i=f.map(Date.parse),isNaN))?[]:i))&amp;&amp;(m=function(r,t){var e=T[r],o=T[t],u=isNaN(e),a=isNaN(o);return u&amp;&amp;a?0:u?-n:a?n:e&gt;o?n:e&lt;o?-n:n*(r-t)});var C,L=N.slice();L.sort(m);for(var E=v;E&lt;c;++E)(C=s[E].parentNode).removeChild(s[E]);for(E=v;E&lt;c;++E)C.appendChild(s[v+L[E-v]])})})}}n.addEventListener(&#34;DOMContentLoaded&#34;,function(){for(var t=n.getElementsByClassName(&#34;tg&#34;),e=0;e&lt;r(t);++e)try{v(t[e])}catch(n){}})}(document)&lt;/script&gt;&lt;/div&gt;
+&lt;!--
+| English  	| Butbut 	| Lubuagen  	| Majukayong 	| Minangali 	| Kagayanen 	| Kalagan 	| Southern Catanduanes Bicolano  	| Blust (1999) 	|
+|---	|---	|---	|---	|---	|---	|---	|---	|---	|
+| [eng] 	| [kyb] 	| [knb] 	| [knb] 	| [knb] 	| [knb] 	| [knb] 	| [knb] 	| [knb] 	|
+| three 	| tuˈð̞u 	| tiˈð̞u 	| tuˈð̞u 	| tuð̞u 	| ˈtallo 	| toð̞o 	| tuð̞u 	| *telu 	|
+| moon 	| ˈhʷuð̞an 	| ˈbuð̞an 	| sɔˈð̞ag 	| soð̞ag 	| ˈbuð̞an 	| boð̞an 	| buð̞an 	| *bulaN / *qiNas 	|
+| path 	| ˈʧað̞an 	| ˈkeð̞sa̞   	| ˈqað̞sa 	| ʔað̞sa 	| ˈdað̞an 	| dað̞an 	| dað̞a 	| *zalan 	|
+
+--&gt;
+&lt;h2 id=&#34;abstract-bibliography&#34;&gt;Abstract Bibliography&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+&lt;section class=&#34;hugo-cite-bibliography&#34;&gt;
+  &lt;dl&gt;
+    
+
+      &lt;div id=&#34;ambrazaitis_multimodal_2017&#34;&gt;
+        &lt;dt&gt;
+          Ambrazaitis&amp;#32;&amp;amp;&amp;#32;House
+
+          
+          (2017)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Ambrazaitis&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Gilbert&#34; /&gt;
+    G.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;House&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;David&#34; /&gt;
+    D.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2017&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;Multimodal prominences: Exploring the patterning and usage of focal pitch accents, head beats and eyebrow beats in Swedish television news readings&lt;/span&gt;.&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;Speech Communication&lt;/span&gt;,&amp;#32;95&lt;/i&gt;.&amp;#32;&lt;span itemprop=&#34;pagination&#34;&gt;100–113&lt;/span&gt;.
+  &lt;a href=&#34;https://doi.org/10.1016/j.specom.2017.08.008&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://doi.org/10.1016/j.specom.2017.08.008&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;blench_unusual_2012-2&#34;&gt;
+        &lt;dt&gt;
+          Harley
+
+          
+          (2012)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Chapter&#34;
+      data-type=&#34;chapter&#34;&gt;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Harley&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Matthew&#34; /&gt;
+    M.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2012&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;Unusual sounds in Nigerian languages&lt;/span&gt;.&amp;#32;In&amp;#32;&lt;span itemprop=&#34;editor&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Blench&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;R.&#34; /&gt;
+    R.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;editor&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;McGill&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Stuart&#34; /&gt;
+    S.&lt;/span&gt; (Eds.),&amp;#32;&lt;span itemprop=&#34;about&#34;&gt;
+    &lt;i&gt;Advances in Minority Language Research in Nigeria&lt;/i&gt;&lt;/span&gt;.&amp;#32;(&lt;span&gt;pp.&amp;#32;38–65&lt;/span&gt;).
+  &lt;meta itemprop=&#34;contentLocation&#34;
+        value=&#34;Köln&#34;&gt;&amp;#32;&lt;span itemprop=&#34;publisher&#34;
+               itemtype=&#34;http://schema.org/Organization&#34;
+               itemscope=&#34;&#34;&gt;
+      &lt;span itemprop=&#34;name&#34;&gt;R. Köppe&lt;/span&gt;&lt;/span&gt;.&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;blust_austronesian_2013-1&#34;&gt;
+        &lt;dt&gt;
+          Blust&amp;#32;&amp;amp;&amp;#32;Trussel
+
+          
+          (2013)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Blust&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Robert&#34; /&gt;
+    R.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Trussel&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Stephen&#34; /&gt;
+    S.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2013&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;The Austronesian Comparative Dictionary: A Work in Progress&lt;/span&gt;.&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;Oceanic Linguistics&lt;/span&gt;,&amp;#32;52(2)&lt;/i&gt;.&amp;#32;&lt;span itemprop=&#34;pagination&#34;&gt;493–523&lt;/span&gt;.&amp;#32;Retrieved from&amp;#32;
+  &lt;a href=&#34;https://www.jstor.org/stable/43286361&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://www.jstor.org/stable/43286361&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;blust1999subgrouping&#34;&gt;
+        &lt;dt&gt;
+          Blust
+
+          
+          (1999)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Chapter&#34;
+      data-type=&#34;chapter&#34;&gt;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Blust&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Robert&#34; /&gt;
+    R.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;1999&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;Subgrouping, Circularity and Extinction: Some Issues in Austronesian Comparative Linguistics&lt;/span&gt;.&amp;#32;In&amp;#32;&lt;span itemprop=&#34;editor&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Zeitoun&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Elizabeth&#34; /&gt;
+    E.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;editor&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Li&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Paul Jen-kuei&#34; /&gt;
+    P.&lt;/span&gt; (Eds.),&amp;#32;&lt;span itemprop=&#34;about&#34;&gt;
+    &lt;i&gt;Selected papers from the Eighth International Conference on Austronesian Linguistics&lt;/i&gt;&lt;/span&gt;.&amp;#32;(&lt;span&gt;pp.&amp;#32;31–94&lt;/span&gt;).
+  &lt;meta itemprop=&#34;contentLocation&#34;
+        value=&#34;Taipei&#34;&gt;&amp;#32;&lt;span itemprop=&#34;publisher&#34;
+               itemtype=&#34;http://schema.org/Organization&#34;
+               itemscope=&#34;&#34;&gt;
+      &lt;span itemprop=&#34;name&#34;&gt;Institute of Linguistics (Preparatory Office), Academia Sinica&lt;/span&gt;&lt;/span&gt;.&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;everett_phonetic_1982-1&#34;&gt;
+        &lt;dt&gt;
+          Everett
+
+          
+          (1982)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Everett&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Daniel Leonard&#34; /&gt;
+    D.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;1982&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;Phonetic rarities in Pirahã&lt;/span&gt;.&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;Journal of the International Phonetic Association&lt;/span&gt;,&amp;#32;12(2)&lt;/i&gt;.&amp;#32;&lt;span itemprop=&#34;pagination&#34;&gt;94–96&lt;/span&gt;.
+  &lt;a href=&#34;https://doi.org/10.1017/S0025100300002498&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://doi.org/10.1017/S0025100300002498&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;havenhill_visual_2018-1&#34;&gt;
+        &lt;dt&gt;
+          Havenhill&amp;#32;&amp;amp;&amp;#32;Do
+
+          
+          (2018)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Havenhill&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Jonathan&#34; /&gt;
+    J.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Do&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Youngah&#34; /&gt;
+    Y.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2018&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;Visual Speech Perception Cues Constrain Patterns of Articulatory Variation and Sound Change&lt;/span&gt;.&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;Frontiers in Psychology&lt;/span&gt;,&amp;#32;9&lt;/i&gt;.&amp;#32;&lt;span itemprop=&#34;pagination&#34;&gt;Article 728&lt;/span&gt;.
+  &lt;a href=&#34;https://doi.org/10.3389/fpsyg.2018.00728&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://doi.org/10.3389/fpsyg.2018.00728&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;leung_tonal_1991&#34;&gt;
+        &lt;dt&gt;
+          Leung
+
+          
+          (1991)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Book&#34;
+      data-type=&#34;book&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Leung&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Elizabeth Woon-Yee&#34; /&gt;
+    E.&lt;/span&gt;&amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;1991&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;
+    &lt;i&gt;The Tonal Phonology of Llogoori: A Study of Llogoori Verbs&lt;/i&gt;&lt;/span&gt;.
+  &amp;#32;
+  &lt;span itemprop=&#34;publisher&#34;
+             itemtype=&#34;http://schema.org/Organization&#34;
+             itemscope&gt;
+    &lt;span itemprop=&#34;name&#34;&gt;Phonetics Laboratory, Department of Modern Languages and Linguistics, Cornell University&lt;/span&gt;&lt;/span&gt;.&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;mielke_articulation_2011&#34;&gt;
+        &lt;dt&gt;
+          Mielke,&amp;#32;
+          Olson,&amp;#32;
+          Baker&amp;#32;&amp;amp;&amp;#32;Archangeli
+
+          
+          (2011)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Mielke&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Jeff&#34; /&gt;
+    J.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Olson&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Kenneth S.&#34; /&gt;
+    K.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Baker&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Adam&#34; /&gt;
+    A.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Archangeli&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Diana&#34; /&gt;
+    D.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2011&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;Articulation of the Kagayanen interdental approximant: An ultrasound study&lt;/span&gt;.&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;Journal of Phonetics&lt;/span&gt;,&amp;#32;39(3)&lt;/i&gt;.&amp;#32;&lt;span itemprop=&#34;pagination&#34;&gt;403–412&lt;/span&gt;.
+  &lt;a href=&#34;https://doi.org/10.1016/j.wocn.2011.02.008&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://doi.org/10.1016/j.wocn.2011.02.008&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;olson_acoustic_2008&#34;&gt;
+        &lt;dt&gt;
+          Olson&amp;#32;&amp;amp;&amp;#32;Mielke
+
+          
+          (2008)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Olson&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Kenneth S.&#34; /&gt;
+    K.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Mielke&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Jeff&#34; /&gt;
+    J.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2008&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;Acoustic properties of the interdental approximant in Kagayanen&lt;/span&gt;.&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;The Journal of the Acoustical Society of America&lt;/span&gt;,&amp;#32;123(5)&lt;/i&gt;.&amp;#32;&lt;span itemprop=&#34;pagination&#34;&gt;3460–3460&lt;/span&gt;.
+  &lt;a href=&#34;https://doi.org/10.1121/1.2934307&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://doi.org/10.1121/1.2934307&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;olson_buhinon_2009-1&#34;&gt;
+        &lt;dt&gt;
+          Olson,&amp;#32;
+          Ballenas&amp;#32;&amp;amp;&amp;#32;Borromeo
+
+          
+          (2009)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Olson&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Kenneth S.&#34; /&gt;
+    K.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Ballenas&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Emy T.&#34; /&gt;
+    E.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Borromeo&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Nilo M.&#34; /&gt;
+    N.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2009&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;Buhi&amp;rsquo;non (Bikol) Digital Wordlist: Presentation Form&lt;/span&gt;.&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;Language Documentation &amp;amp; Conservation&lt;/span&gt;,&amp;#32;3(2)&lt;/i&gt;.&amp;#32;&lt;span itemprop=&#34;pagination&#34;&gt;213–225&lt;/span&gt;.&amp;#32;Retrieved from&amp;#32;
+  &lt;a href=&#34;http://hdl.handle.net/10125/4440&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;http://hdl.handle.net/10125/4440&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;olson_minangali_2008-2&#34;&gt;
+        &lt;dt&gt;
+          Olson,&amp;#32;
+          Machlan&amp;#32;&amp;amp;&amp;#32;Amangao
+
+          
+          (2008)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Olson&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Kenneth S&#34; /&gt;
+    K.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Machlan&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Glenn&#34; /&gt;
+    G.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Amangao&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Nelson&#34; /&gt;
+    N.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2008&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;Minangali (Kalinga) Digital Wordlist: Presentation Form&lt;/span&gt;.&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;Language Documentation &amp;amp; Conservation&lt;/span&gt;,&amp;#32;2(1)&lt;/i&gt;.&amp;#32;&lt;span itemprop=&#34;pagination&#34;&gt;146–156&lt;/span&gt;.&amp;#32;Retrieved from&amp;#32;
+  &lt;a href=&#34;http://hdl.handle.net/10125/1772&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;http://hdl.handle.net/10125/1772&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;olson_phonetic_2010-1&#34;&gt;
+        &lt;dt&gt;
+          Olson,&amp;#32;
+          Mielke,&amp;#32;
+          Sanicas-Daguman,&amp;#32;
+          Pebley&amp;#32;&amp;amp;&amp;#32;Paterson III
+
+          
+          (2010)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Olson&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Kenneth S.&#34; /&gt;
+    K.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Mielke&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Jeff&#34; /&gt;
+    J.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Sanicas-Daguman&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Josephine&#34; /&gt;
+    J.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Pebley&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Carol Jean&#34; /&gt;
+    C.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Paterson III&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Hugh J.&#34; /&gt;
+    H.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2010&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;The phonetic status of the (inter)dental approximant&lt;/span&gt;.&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;Journal of the International Phonetic Association&lt;/span&gt;,&amp;#32;40(2)&lt;/i&gt;.&amp;#32;&lt;span itemprop=&#34;pagination&#34;&gt;199–215&lt;/span&gt;.
+  &lt;a href=&#34;https://doi.org/10.1017/S0025100309990296&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://doi.org/10.1017/S0025100309990296&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;perniss_why_2018&#34;&gt;
+        &lt;dt&gt;
+          Perniss
+
+          
+          (2018)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Perniss&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Pamela&#34; /&gt;
+    P.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2018&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;Why We Should Study Multimodal Language&lt;/span&gt;.&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;Frontiers in Psychology&lt;/span&gt;,&amp;#32;9&lt;/i&gt;.&amp;#32;&lt;span itemprop=&#34;pagination&#34;&gt;1109&lt;/span&gt;.
+  &lt;a href=&#34;https://doi.org/10.3389/fpsyg.2018.01109&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://doi.org/10.3389/fpsyg.2018.01109&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;vigliocco_language_2014&#34;&gt;
+        &lt;dt&gt;
+          Vigliocco,&amp;#32;
+          Perniss&amp;#32;&amp;amp;&amp;#32;Vinson
+
+          
+          (2014)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Vigliocco&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Gabriella&#34; /&gt;
+    G.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Perniss&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Pamela&#34; /&gt;
+    P.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Vinson&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;David&#34; /&gt;
+    D.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2014&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;Language as a multimodal phenomenon: implications for language learning, processing and evolution&lt;/span&gt;.&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;Philosophical Transactions of the Royal Society B: Biological Sciences&lt;/span&gt;,&amp;#32;369(1651)&lt;/i&gt;.&amp;#32;&lt;span itemprop=&#34;pagination&#34;&gt;20130292&lt;/span&gt;.
+  &lt;a href=&#34;https://doi.org/10.1098/rstb.2013.0292&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://doi.org/10.1098/rstb.2013.0292&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;zorc_bisayan_1975&#34;&gt;
+        &lt;dt&gt;
+          Zorc
+
+          
+          (1975)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Thesis&#34;
+      data-type=&#34;thesis&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Zorc&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;R David&#34; /&gt;
+    R.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;1975&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;
+    &lt;i&gt;The Bisayan dialects of the Philippines: subgrouping and reconstruction&lt;/i&gt;
+  &lt;/span&gt;&lt;span itemprop=&#34;inSupportOf&#34;&gt;&amp;nbsp;(Ph.D Dissertation)&lt;/span&gt;.&amp;nbsp;
+&lt;meta itemprop=&#34;contentLocation&#34;
+        value=&#34;Ithaca, New York&#34;&gt;&amp;#32;
+  &lt;span itemprop=&#34;publisher&#34;
+             itemtype=&#34;http://schema.org/EducationalOrganization&#34;
+             itemscope&gt;
+    &lt;span itemprop=&#34;name&#34;&gt;Cornell University&lt;/span&gt;, &amp;#32; &lt;span itemprop=&#34;location&#34;&gt;Ithaca, New York&lt;/span&gt;&lt;/span&gt;.&lt;/span&gt;
+
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+  &lt;/dl&gt;
+&lt;/section&gt;
+
+
+
+</description>
+    </item>
     
     <item>
       <title>Regulating the US Consumer Data Market: Comparing the Material Scope of US Consumer Data Privacy Laws and the GDPR</title>
@@ -29,7 +855,7 @@
     </item>
     
     <item>
-      <title>Collection Use and Copyright Considerations.</title>
+      <title>Collection Use and Copyright Considerations</title>
       <link>https://hughandbecky.us/Hugh-CV/talk/2023-collection-copyright-and-copyright-controls/</link>
       <pubDate>Wed, 17 May 2023 11:30:00 -0100</pubDate>
       <guid>https://hughandbecky.us/Hugh-CV/talk/2023-collection-copyright-and-copyright-controls/</guid>
@@ -37,7 +863,7 @@
     </item>
     
     <item>
-      <title>On the boundaries of reported speech in Western Subanon</title>
+      <title>On the Boundaries of Reported Speech in Western Subanon</title>
       <link>https://hughandbecky.us/Hugh-CV/talk/2023-seals/</link>
       <pubDate>Tue, 16 May 2023 11:30:00 -0100</pubDate>
       <guid>https://hughandbecky.us/Hugh-CV/talk/2023-seals/</guid>
@@ -16566,117 +17392,176 @@ Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schem
 &lt;/ol&gt;
 &lt;p&gt;For the OLAC subjects I have looked at already, the following table lists what I hypothesis as being the OLAC intended equivalent. I haven&amp;rsquo;t worked my way through the whole table yet. When I have worked through the whole set of OLAC terms I will present this data in a more beautiful way. Currently it is in a markdown table and as a 
 &lt;a href=&#34;olac-subjects.json&#34;&gt;JSON file&lt;/a&gt;.&lt;/p&gt;
-&lt;table&gt;
+&lt;!-- The javascript way&lt;script&gt;if (window.innerWidth &gt; 700){document.querySelector(&#39;.article-style&#39;).style.overflowX = &#39;visible&#39;;}&lt;/script&gt;
+&lt;style&gt;#tg-ZAuTS { width: 85vw; position: relative; left: calc(-50vw + 70%); z-index: 1; !important}&lt;/style&gt; --&gt;
+&lt;!-- currently the style tags below apply This ought to be moved to a short code following the instructions here: https://www.mybluelinux.com/how-create-bootstrap-tables-in-hugo/ and some of the complex table&#39;s CSS has been modified. For example, I added no-hypenation and really the long URLs ought to be broken more and the text given the room it needs. --&gt;
+&lt;style&gt;/* 0. apply these rules when the screen is big enough*/ @media screen and (min-width: 800px) {
+
+/* 1. extend child table beyond max-width of parent */
+  #tg-ZAuTS {
+    position: relative;
+    /* set the width and the left rules to allow for margins */
+    width: 90vw;
+    left: calc(-50vw + 60%);
+  }
+/* 2. override the parents overflow rule so the table can be visible */
+  .article-style {
+    overflow-x: visible !important;
+  }
+wbr:before {
+  /* Unicode zero width space */
+  content: &#34;\200B&#34;;
+  white-space: normal;
+}
+}
+&lt;/style&gt;
+&lt;style type=&#34;text/css&#34;&gt;
+.tg  {border-collapse:collapse;border-spacing: 2px; border-color: grey;border-top-color: grey;border-bottom-color: grey;margin:0px auto; margin-bottom: 1rem;}
+.tg td{border-color:black;border-style:solid;border-width:0px;font-size: 0.8rem; overflow:hidden;padding:10px 5px;word-break:normal; hyphens: none;}
+.tg th{border-color:black;border-style:solid;border-width:0px;font-size: 0.8rem;
+  font-weight:bold;overflow:hidden;padding:10px 5px;word-break:normal; hyphens: none;}
+.tg .tg-j1i3{border-color:inherit;position:-webkit-sticky;position:sticky;text-align:left;top:-1px;vertical-align:top; will-change: transform;}
+.tg .tg-ih3h{border-color:inherit;position:-webkit-sticky;position:sticky;text-align:center;top:-1px;vertical-align:top; will-change: transform;}
+.tg .tg-q01z{border-color:inherit;position:-webkit-sticky;position:sticky;text-align:center;top:-1px;
+  vertical-align:top; will-change: transform;}
+.tg .tg-exmw{border-color:inherit;position:-webkit-sticky;position:sticky;text-align:center;top:-1px;
+  vertical-align:top; will-change: transform;}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+.tg-sort-header::-moz-selection{background:0 0}
+.tg-sort-header::selection{background:0 0}.tg-sort-header{cursor:pointer}
+.tg-sort-header:after{content:&#39;&#39;;float:right;margin-top:7px;border-width:0 5px 5px;border-style:solid; border-color:#404040 transparent;visibility:hidden}
+.tg-sort-header:hover:after{visibility:visible}
+.tg-sort-asc:after,.tg-sort-asc:hover:after,.tg-sort-desc:after{visibility:visible;opacity:.4}
+.tg-sort-desc:after{border-bottom:none;border-width:5px 5px 0}@media screen and (max-width: 767px) {.tg {width: auto !important;}.tg col {width: auto !important;}.tg-wrap {overflow-x: auto;-webkit-overflow-scrolling: touch;margin: auto 0px;}}&lt;/style&gt;
+&lt;div class=&#34;tg-wrap&#34;&gt;&lt;table id=&#34;tg-ZAuTS&#34; class=&#34;tg&#34;&gt;
 &lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;OLAC Term&lt;/th&gt;
-&lt;th&gt;OLAC ID&lt;/th&gt;
-&lt;th&gt;Equivelentcy status&lt;/th&gt;
-&lt;th&gt;LCSH Term&lt;/th&gt;
-&lt;th&gt;LCSH ID&lt;/th&gt;
-&lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;th class=&#34;tg-j1i3&#34;&gt;OLAC Term&lt;/th&gt;
+    &lt;th class=&#34;tg-j1i3&#34;&gt;OLAC ID&lt;/th&gt;
+    &lt;th class=&#34;tg-j1i3&#34;&gt;Equivelentcy status&lt;/th&gt;
+    &lt;th class=&#34;tg-j1i3&#34;&gt;LCSH Term&lt;/th&gt;
+    &lt;th class=&#34;tg-j1i3&#34;&gt;LCSH ID&lt;/th&gt;
+  &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;anthropological_linguistics&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://www.language-archives.org/REC/field.html#anthropological_linguistics&#34;&gt;http://www.language-archives.org/REC/field.html#anthropological_linguistics&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;The category is equivalent to the Library of Congress subject heading of the same name.&lt;/td&gt;
-&lt;td&gt;anthropological linguistics&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://id.loc.gov/authorities/subjects/sh85005577&#34;&gt;http://id.loc.gov/authorities/subjects/sh85005577&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;cognitive_science&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://www.language-archives.org/REC/field.html#cognitive_science&#34;&gt;http://www.language-archives.org/REC/field.html#cognitive_science&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;The category is equivalent to the Library of Congress subject heading of the same name.&lt;/td&gt;
-&lt;td&gt;Cognitive science&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://id.loc.gov/authorities/subjects/sh88006179&#34;&gt;http://id.loc.gov/authorities/subjects/sh88006179&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;computational_linguistics&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://www.language-archives.org/REC/field.html#computational_linguistics&#34;&gt;http://www.language-archives.org/REC/field.html#computational_linguistics&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;The category is equivalent to the Library of Congress subject heading of the same name.&lt;/td&gt;
-&lt;td&gt;Computational linguistics&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://id.loc.gov/authorities/subjects/sh85077224&#34;&gt;http://id.loc.gov/authorities/subjects/sh85077224&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;discourse_analysis&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://www.language-archives.org/REC/field.html#discourse_analysis&#34;&gt;http://www.language-archives.org/REC/field.html#discourse_analysis&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;The category is equivalent to the Library of Congress subject heading of the same name.&lt;/td&gt;
-&lt;td&gt;Discourse analysis&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://id.loc.gov/authorities/subjects/sh85038362&#34;&gt;http://id.loc.gov/authorities/subjects/sh85038362&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;forensic_linguistics&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://www.language-archives.org/REC/field.html#forensic_linguistics&#34;&gt;http://www.language-archives.org/REC/field.html#forensic_linguistics&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;The category is equivalent to the Library of Congress subject heading of the same name.&lt;/td&gt;
-&lt;td&gt;Forensic linguistics&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://id.loc.gov/authorities/subjects/sh90004158&#34;&gt;http://id.loc.gov/authorities/subjects/sh90004158&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;phonology&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://www.language-archives.org/REC/field.html#phonology&#34;&gt;http://www.language-archives.org/REC/field.html#phonology&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;This is Hugh&amp;rsquo;s Guess&lt;/td&gt;
-&lt;td&gt;Grammar, Comparative and general&amp;ndash;Phonology&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;historical_linguistics&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://www.language-archives.org/REC/field.html#historical_linguistics&#34;&gt;http://www.language-archives.org/REC/field.html#historical_linguistics&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;The category is equivalent to the Library of Congress subject heading of the same name.&lt;/td&gt;
-&lt;td&gt;Historical linguistics&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://id.loc.gov/authorities/subjects/sh85061192&#34;&gt;http://id.loc.gov/authorities/subjects/sh85061192&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;lexicography&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://www.language-archives.org/REC/field.html#lexicography&#34;&gt;http://www.language-archives.org/REC/field.html#lexicography&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;The category is equivalent to the Library of Congress subject heading of the same name.&lt;/td&gt;
-&lt;td&gt;Lexicography&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://id.loc.gov/authorities/subjects/sh85076357&#34;&gt;http://id.loc.gov/authorities/subjects/sh85076357&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;general_linguistics&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://www.language-archives.org/REC/field.html#general_linguistics&#34;&gt;http://www.language-archives.org/REC/field.html#general_linguistics&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;This is Hugh&amp;rsquo;s Guess&lt;/td&gt;
-&lt;td&gt;Linguistics&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://id.loc.gov/authorities/subjects/sh85077222&#34;&gt;http://id.loc.gov/authorities/subjects/sh85077222&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;phonetics&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://www.language-archives.org/REC/field.html#phonetics&#34;&gt;http://www.language-archives.org/REC/field.html#phonetics&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;The category is equivalent to the Library of Congress subject heading of the same name.&lt;/td&gt;
-&lt;td&gt;Phonetics&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://id.loc.gov/authorities/subjects/sh85101053&#34;&gt;http://id.loc.gov/authorities/subjects/sh85101053&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;pragmatics&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://www.language-archives.org/REC/field.html#pragmatics&#34;&gt;http://www.language-archives.org/REC/field.html#pragmatics&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;The category is equivalent to the Library of Congress subject heading of the same name.&lt;/td&gt;
-&lt;td&gt;Pragmatics&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://id.loc.gov/authorities/subjects/sh85106058&#34;&gt;http://id.loc.gov/authorities/subjects/sh85106058&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;semantics&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://www.language-archives.org/REC/field.html#semantics&#34;&gt;http://www.language-archives.org/REC/field.html#semantics&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;The category is equivalent to the Library of Congress subject heading of the same name.&lt;/td&gt;
-&lt;td&gt;Semantics&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://id.loc.gov/authorities/subjects/sh85119870&#34;&gt;http://id.loc.gov/authorities/subjects/sh85119870&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;sociolinguistics&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://www.language-archives.org/REC/field.html#sociolinguistics&#34;&gt;http://www.language-archives.org/REC/field.html#sociolinguistics&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;The category is equivalent to the Library of Congress subject heading of the same name.&lt;/td&gt;
-&lt;td&gt;Sociolinguistics&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://id.loc.gov/authorities/subjects/sh85124195&#34;&gt;http://id.loc.gov/authorities/subjects/sh85124195&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;typology&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://www.language-archives.org/REC/field.html#typology&#34;&gt;http://www.language-archives.org/REC/field.html#typology&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;The category is equivalent to the Library of Congress subject heading of the same name.&lt;/td&gt;
-&lt;td&gt;Typology (Linguistics)&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://id.loc.gov/authorities/subjects/sh85139174&#34;&gt;http://id.loc.gov/authorities/subjects/sh85139174&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;anthropological_linguistics&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;a href=&#34;http://www.language-archives.org/REC/field.html#anthropological_linguistics&#34;&gt;&lt;span style=&#34;color:#905&#34;&gt;http://www.language-archives.org/REC/field.html#anthropological_linguistics&lt;/span&gt;&lt;/a&gt;&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;The category is equivalent to the Library of Congress subject heading of the same name.&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;anthropological linguistics&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;a href=&#34;http://id.loc.gov/authorities/subjects/sh85005577&#34;&gt;&lt;span style=&#34;color:#905&#34;&gt;http://id.loc.gov/authorities/subjects/sh85005577&lt;/span&gt;&lt;/a&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;cognitive_science&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;a href=&#34;http://www.language-archives.org/REC/field.html#cognitive_science&#34;&gt;&lt;span style=&#34;color:#905&#34;&gt;http://www.language-archives.org/REC/field.html#cognitive_science&lt;/span&gt;&lt;/a&gt;&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;The category is equivalent to the Library of Congress subject heading of the same name.&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;Cognitive science&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;a href=&#34;http://id.loc.gov/authorities/subjects/sh88006179&#34;&gt;&lt;span style=&#34;color:#905&#34;&gt;http://id.loc.gov/authorities/subjects/sh88006179&lt;/span&gt;&lt;/a&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;computational_linguistics&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;a href=&#34;http://www.language-archives.org/REC/field.html#computational_linguistics&#34;&gt;&lt;span style=&#34;color:#905&#34;&gt;http://www.language-archives.org/REC/field.html#computational_linguistics&lt;/span&gt;&lt;/a&gt;&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;The category is equivalent to the Library of Congress subject heading of the same name.&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;Computational linguistics&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;a href=&#34;http://id.loc.gov/authorities/subjects/sh85077224&#34;&gt;&lt;span style=&#34;color:#905&#34;&gt;http://id.loc.gov/authorities/subjects/sh85077224&lt;/span&gt;&lt;/a&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;discourse_analysis&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;a href=&#34;http://www.language-archives.org/REC/field.html#discourse_analysis&#34;&gt;&lt;span style=&#34;color:#905&#34;&gt;http://www.language-archives.org/REC/field.html#discourse_analysis&lt;/span&gt;&lt;/a&gt;&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;The category is equivalent to the Library of Congress subject heading of the same name.&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;Discourse analysis&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;a href=&#34;http://id.loc.gov/authorities/subjects/sh85038362&#34;&gt;&lt;span style=&#34;color:#905&#34;&gt;http://id.loc.gov/authorities/subjects/sh85038362&lt;/span&gt;&lt;/a&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;forensic_linguistics&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;a href=&#34;http://www.language-archives.org/REC/field.html#forensic_linguistics&#34;&gt;&lt;span style=&#34;color:#905&#34;&gt;http://www.language-archives.org/REC/field.html#forensic_linguistics&lt;/span&gt;&lt;/a&gt;&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;The category is equivalent to the Library of Congress subject heading of the same name.&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;Forensic linguistics&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;a href=&#34;http://id.loc.gov/authorities/subjects/sh90004158&#34;&gt;&lt;span style=&#34;color:#905&#34;&gt;http://id.loc.gov/authorities/subjects/sh90004158&lt;/span&gt;&lt;/a&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;phonology&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;a href=&#34;http://www.language-archives.org/REC/field.html#phonology&#34;&gt;&lt;span style=&#34;color:#905&#34;&gt;http://www.language-archives.org/REC/field.html#phonology&lt;/span&gt;&lt;/a&gt;&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;This is Hugh&#39;s Guess&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;Grammar, Comparative and general--Phonology&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;historical_linguistics&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;a href=&#34;http://www.language-archives.org/REC/field.html#historical_linguistics&#34;&gt;&lt;span style=&#34;color:#905&#34;&gt;http://www.language-archives.org/REC/field.html#historical_linguistics&lt;/span&gt;&lt;/a&gt;&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;The category is equivalent to the Library of Congress subject heading of the same name.&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;Historical linguistics&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;a href=&#34;http://id.loc.gov/authorities/subjects/sh85061192&#34;&gt;&lt;span style=&#34;color:#905&#34;&gt;http://id.loc.gov/authorities/subjects/sh85061192&lt;/span&gt;&lt;/a&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;lexicography&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;a href=&#34;http://www.language-archives.org/REC/field.html#lexicography&#34;&gt;&lt;span style=&#34;color:#905&#34;&gt;http://www.language-archives.org/REC/field.html#lexicography&lt;/span&gt;&lt;/a&gt;&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;The category is equivalent to the Library of Congress subject heading of the same name.&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;Lexicography&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;a href=&#34;http://id.loc.gov/authorities/subjects/sh85076357&#34;&gt;&lt;span style=&#34;color:#905&#34;&gt;http://id.loc.gov/authorities/subjects/sh85076357&lt;/span&gt;&lt;/a&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;general_linguistics&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;a href=&#34;http://www.language-archives.org/REC/field.html#general_linguistics&#34;&gt;&lt;span style=&#34;color:#905&#34;&gt;http://www.language-archives.org/REC/field.html#general_linguistics&lt;/span&gt;&lt;/a&gt;&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;This is Hugh&#39;s Guess&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;Linguistics&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;a href=&#34;http://id.loc.gov/authorities/subjects/sh85077222&#34;&gt;&lt;span style=&#34;color:#905&#34;&gt;http://id.loc.gov/authorities/subjects/sh85077222&lt;/span&gt;&lt;/a&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;phonetics&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;a href=&#34;http://www.language-archives.org/REC/field.html#phonetics&#34;&gt;&lt;span style=&#34;color:#905&#34;&gt;http://www.language-archives.org/REC/field.html#phonetics&lt;/span&gt;&lt;/a&gt;&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;The category is equivalent to the Library of Congress subject heading of the same name.&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;Phonetics&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;a href=&#34;http://id.loc.gov/authorities/subjects/sh85101053&#34;&gt;&lt;span style=&#34;color:#905&#34;&gt;http://id.loc.gov/authorities/subjects/sh85101053&lt;/span&gt;&lt;/a&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;pragmatics&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;a href=&#34;http://www.language-archives.org/REC/field.html#pragmatics&#34;&gt;&lt;span style=&#34;color:#905&#34;&gt;http://www.language-archives.org/REC/field.html#pragmatics&lt;/span&gt;&lt;/a&gt;&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;The category is equivalent to the Library of Congress subject heading of the same name.&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;Pragmatics&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;a href=&#34;http://id.loc.gov/authorities/subjects/sh85106058&#34;&gt;&lt;span style=&#34;color:#905&#34;&gt;http://id.loc.gov/authorities/subjects/sh85106058&lt;/span&gt;&lt;/a&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;semantics&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;a href=&#34;http://www.language-archives.org/REC/field.html#semantics&#34;&gt;&lt;span style=&#34;color:#905&#34;&gt;http://www.language-archives.org/REC/field.html#semantics&lt;/span&gt;&lt;/a&gt;&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;The category is equivalent to the Library of Congress subject heading of the same name.&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;Semantics&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;a href=&#34;http://id.loc.gov/authorities/subjects/sh85119870&#34;&gt;&lt;span style=&#34;color:#905&#34;&gt;http://id.loc.gov/authorities/subjects/sh85119870&lt;/span&gt;&lt;/a&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;sociolinguistics&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;a href=&#34;http://www.language-archives.org/REC/field.html#sociolinguistics&#34;&gt;&lt;span style=&#34;color:#905&#34;&gt;http://www.language-archives.org/REC/field.html#sociolinguistics&lt;/span&gt;&lt;/a&gt;&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;The category is equivalent to the Library of Congress subject heading of the same name.&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;Sociolinguistics&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;a href=&#34;http://id.loc.gov/authorities/subjects/sh85124195&#34;&gt;&lt;span style=&#34;color:#905&#34;&gt;http://id.loc.gov/authorities/subjects/sh85124195&lt;/span&gt;&lt;/a&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;typology&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;a href=&#34;http://www.language-archives.org/REC/field.html#typology&#34;&gt;&lt;span style=&#34;color:#905&#34;&gt;http://www.language-archives.org/REC/field.html#typology&lt;/span&gt;&lt;/a&gt;&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;The category is equivalent to the Library of Congress subject heading of the same name.&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;Typology (Linguistics)&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;a href=&#34;http://id.loc.gov/authorities/subjects/sh85139174&#34;&gt;&lt;span style=&#34;color:#905&#34;&gt;http://id.loc.gov/authorities/subjects/sh85139174&lt;/span&gt;&lt;/a&gt;&lt;/td&gt;
+  &lt;/tr&gt;
 &lt;/tbody&gt;
-&lt;/table&gt;
+&lt;/table&gt;&lt;/div&gt;
+&lt;!--
+| OLAC Term | OLAC ID | Equivelentcy status | LCSH Term | LCSH ID |
+|-|-|-|-|-|
+| anthropological_linguistics | http://www.language-archives.org/REC/field.html#anthropological_linguistics | The category is equivalent to the Library of Congress subject heading of the same name. | anthropological linguistics | http://id.loc.gov/authorities/subjects/sh85005577 |
+| cognitive_science | http://www.language-archives.org/REC/field.html#cognitive_science | The category is equivalent to the Library of Congress subject heading of the same name. | Cognitive science | http://id.loc.gov/authorities/subjects/sh88006179 |
+| computational_linguistics | http://www.language-archives.org/REC/field.html#computational_linguistics | The category is equivalent to the Library of Congress subject heading of the same name. | Computational linguistics | http://id.loc.gov/authorities/subjects/sh85077224 |
+| discourse_analysis | http://www.language-archives.org/REC/field.html#discourse_analysis | The category is equivalent to the Library of Congress subject heading of the same name. | Discourse analysis | http://id.loc.gov/authorities/subjects/sh85038362 |
+| forensic_linguistics | http://www.language-archives.org/REC/field.html#forensic_linguistics | The category is equivalent to the Library of Congress subject heading of the same name. | Forensic linguistics | http://id.loc.gov/authorities/subjects/sh90004158 |
+| phonology | http://www.language-archives.org/REC/field.html#phonology | This is Hugh&#39;s Guess | Grammar, Comparative and general--Phonology |  |
+| historical_linguistics | http://www.language-archives.org/REC/field.html#historical_linguistics | The category is equivalent to the Library of Congress subject heading of the same name. | Historical linguistics | http://id.loc.gov/authorities/subjects/sh85061192 |
+| lexicography | http://www.language-archives.org/REC/field.html#lexicography | The category is equivalent to the Library of Congress subject heading of the same name. | Lexicography | http://id.loc.gov/authorities/subjects/sh85076357 |
+| general_linguistics | http://www.language-archives.org/REC/field.html#general_linguistics | This is Hugh&#39;s Guess | Linguistics | http://id.loc.gov/authorities/subjects/sh85077222 |
+| phonetics | http://www.language-archives.org/REC/field.html#phonetics | The category is equivalent to the Library of Congress subject heading of the same name. | Phonetics | http://id.loc.gov/authorities/subjects/sh85101053 |
+| pragmatics | http://www.language-archives.org/REC/field.html#pragmatics | The category is equivalent to the Library of Congress subject heading of the same name. | Pragmatics | http://id.loc.gov/authorities/subjects/sh85106058 |
+| semantics | http://www.language-archives.org/REC/field.html#semantics | The category is equivalent to the Library of Congress subject heading of the same name. | Semantics | http://id.loc.gov/authorities/subjects/sh85119870 |
+| sociolinguistics | http://www.language-archives.org/REC/field.html#sociolinguistics | The category is equivalent to the Library of Congress subject heading of the same name. | Sociolinguistics | http://id.loc.gov/authorities/subjects/sh85124195 |
+| typology | http://www.language-archives.org/REC/field.html#typology | The category is equivalent to the Library of Congress subject heading of the same name. | Typology (Linguistics) | http://id.loc.gov/authorities/subjects/sh85139174 |
+--&gt;
 
   
 

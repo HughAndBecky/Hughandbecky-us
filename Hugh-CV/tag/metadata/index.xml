@@ -8130,117 +8130,176 @@ useful, OLAC lacks a deep semantic definition and relies mostly on best practice
 &lt;/ol&gt;
 &lt;p&gt;For the OLAC subjects I have looked at already, the following table lists what I hypothesis as being the OLAC intended equivalent. I haven&amp;rsquo;t worked my way through the whole table yet. When I have worked through the whole set of OLAC terms I will present this data in a more beautiful way. Currently it is in a markdown table and as a 
 &lt;a href=&#34;olac-subjects.json&#34;&gt;JSON file&lt;/a&gt;.&lt;/p&gt;
-&lt;table&gt;
+&lt;!-- The javascript way&lt;script&gt;if (window.innerWidth &gt; 700){document.querySelector(&#39;.article-style&#39;).style.overflowX = &#39;visible&#39;;}&lt;/script&gt;
+&lt;style&gt;#tg-ZAuTS { width: 85vw; position: relative; left: calc(-50vw + 70%); z-index: 1; !important}&lt;/style&gt; --&gt;
+&lt;!-- currently the style tags below apply This ought to be moved to a short code following the instructions here: https://www.mybluelinux.com/how-create-bootstrap-tables-in-hugo/ and some of the complex table&#39;s CSS has been modified. For example, I added no-hypenation and really the long URLs ought to be broken more and the text given the room it needs. --&gt;
+&lt;style&gt;/* 0. apply these rules when the screen is big enough*/ @media screen and (min-width: 800px) {
+
+/* 1. extend child table beyond max-width of parent */
+  #tg-ZAuTS {
+    position: relative;
+    /* set the width and the left rules to allow for margins */
+    width: 90vw;
+    left: calc(-50vw + 60%);
+  }
+/* 2. override the parents overflow rule so the table can be visible */
+  .article-style {
+    overflow-x: visible !important;
+  }
+wbr:before {
+  /* Unicode zero width space */
+  content: &#34;\200B&#34;;
+  white-space: normal;
+}
+}
+&lt;/style&gt;
+&lt;style type=&#34;text/css&#34;&gt;
+.tg  {border-collapse:collapse;border-spacing: 2px; border-color: grey;border-top-color: grey;border-bottom-color: grey;margin:0px auto; margin-bottom: 1rem;}
+.tg td{border-color:black;border-style:solid;border-width:0px;font-size: 0.8rem; overflow:hidden;padding:10px 5px;word-break:normal; hyphens: none;}
+.tg th{border-color:black;border-style:solid;border-width:0px;font-size: 0.8rem;
+  font-weight:bold;overflow:hidden;padding:10px 5px;word-break:normal; hyphens: none;}
+.tg .tg-j1i3{border-color:inherit;position:-webkit-sticky;position:sticky;text-align:left;top:-1px;vertical-align:top; will-change: transform;}
+.tg .tg-ih3h{border-color:inherit;position:-webkit-sticky;position:sticky;text-align:center;top:-1px;vertical-align:top; will-change: transform;}
+.tg .tg-q01z{border-color:inherit;position:-webkit-sticky;position:sticky;text-align:center;top:-1px;
+  vertical-align:top; will-change: transform;}
+.tg .tg-exmw{border-color:inherit;position:-webkit-sticky;position:sticky;text-align:center;top:-1px;
+  vertical-align:top; will-change: transform;}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+.tg-sort-header::-moz-selection{background:0 0}
+.tg-sort-header::selection{background:0 0}.tg-sort-header{cursor:pointer}
+.tg-sort-header:after{content:&#39;&#39;;float:right;margin-top:7px;border-width:0 5px 5px;border-style:solid; border-color:#404040 transparent;visibility:hidden}
+.tg-sort-header:hover:after{visibility:visible}
+.tg-sort-asc:after,.tg-sort-asc:hover:after,.tg-sort-desc:after{visibility:visible;opacity:.4}
+.tg-sort-desc:after{border-bottom:none;border-width:5px 5px 0}@media screen and (max-width: 767px) {.tg {width: auto !important;}.tg col {width: auto !important;}.tg-wrap {overflow-x: auto;-webkit-overflow-scrolling: touch;margin: auto 0px;}}&lt;/style&gt;
+&lt;div class=&#34;tg-wrap&#34;&gt;&lt;table id=&#34;tg-ZAuTS&#34; class=&#34;tg&#34;&gt;
 &lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;OLAC Term&lt;/th&gt;
-&lt;th&gt;OLAC ID&lt;/th&gt;
-&lt;th&gt;Equivelentcy status&lt;/th&gt;
-&lt;th&gt;LCSH Term&lt;/th&gt;
-&lt;th&gt;LCSH ID&lt;/th&gt;
-&lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;th class=&#34;tg-j1i3&#34;&gt;OLAC Term&lt;/th&gt;
+    &lt;th class=&#34;tg-j1i3&#34;&gt;OLAC ID&lt;/th&gt;
+    &lt;th class=&#34;tg-j1i3&#34;&gt;Equivelentcy status&lt;/th&gt;
+    &lt;th class=&#34;tg-j1i3&#34;&gt;LCSH Term&lt;/th&gt;
+    &lt;th class=&#34;tg-j1i3&#34;&gt;LCSH ID&lt;/th&gt;
+  &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;anthropological_linguistics&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://www.language-archives.org/REC/field.html#anthropological_linguistics&#34;&gt;http://www.language-archives.org/REC/field.html#anthropological_linguistics&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;The category is equivalent to the Library of Congress subject heading of the same name.&lt;/td&gt;
-&lt;td&gt;anthropological linguistics&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://id.loc.gov/authorities/subjects/sh85005577&#34;&gt;http://id.loc.gov/authorities/subjects/sh85005577&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;cognitive_science&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://www.language-archives.org/REC/field.html#cognitive_science&#34;&gt;http://www.language-archives.org/REC/field.html#cognitive_science&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;The category is equivalent to the Library of Congress subject heading of the same name.&lt;/td&gt;
-&lt;td&gt;Cognitive science&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://id.loc.gov/authorities/subjects/sh88006179&#34;&gt;http://id.loc.gov/authorities/subjects/sh88006179&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;computational_linguistics&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://www.language-archives.org/REC/field.html#computational_linguistics&#34;&gt;http://www.language-archives.org/REC/field.html#computational_linguistics&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;The category is equivalent to the Library of Congress subject heading of the same name.&lt;/td&gt;
-&lt;td&gt;Computational linguistics&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://id.loc.gov/authorities/subjects/sh85077224&#34;&gt;http://id.loc.gov/authorities/subjects/sh85077224&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;discourse_analysis&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://www.language-archives.org/REC/field.html#discourse_analysis&#34;&gt;http://www.language-archives.org/REC/field.html#discourse_analysis&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;The category is equivalent to the Library of Congress subject heading of the same name.&lt;/td&gt;
-&lt;td&gt;Discourse analysis&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://id.loc.gov/authorities/subjects/sh85038362&#34;&gt;http://id.loc.gov/authorities/subjects/sh85038362&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;forensic_linguistics&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://www.language-archives.org/REC/field.html#forensic_linguistics&#34;&gt;http://www.language-archives.org/REC/field.html#forensic_linguistics&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;The category is equivalent to the Library of Congress subject heading of the same name.&lt;/td&gt;
-&lt;td&gt;Forensic linguistics&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://id.loc.gov/authorities/subjects/sh90004158&#34;&gt;http://id.loc.gov/authorities/subjects/sh90004158&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;phonology&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://www.language-archives.org/REC/field.html#phonology&#34;&gt;http://www.language-archives.org/REC/field.html#phonology&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;This is Hugh&amp;rsquo;s Guess&lt;/td&gt;
-&lt;td&gt;Grammar, Comparative and general&amp;ndash;Phonology&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;historical_linguistics&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://www.language-archives.org/REC/field.html#historical_linguistics&#34;&gt;http://www.language-archives.org/REC/field.html#historical_linguistics&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;The category is equivalent to the Library of Congress subject heading of the same name.&lt;/td&gt;
-&lt;td&gt;Historical linguistics&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://id.loc.gov/authorities/subjects/sh85061192&#34;&gt;http://id.loc.gov/authorities/subjects/sh85061192&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;lexicography&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://www.language-archives.org/REC/field.html#lexicography&#34;&gt;http://www.language-archives.org/REC/field.html#lexicography&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;The category is equivalent to the Library of Congress subject heading of the same name.&lt;/td&gt;
-&lt;td&gt;Lexicography&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://id.loc.gov/authorities/subjects/sh85076357&#34;&gt;http://id.loc.gov/authorities/subjects/sh85076357&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;general_linguistics&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://www.language-archives.org/REC/field.html#general_linguistics&#34;&gt;http://www.language-archives.org/REC/field.html#general_linguistics&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;This is Hugh&amp;rsquo;s Guess&lt;/td&gt;
-&lt;td&gt;Linguistics&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://id.loc.gov/authorities/subjects/sh85077222&#34;&gt;http://id.loc.gov/authorities/subjects/sh85077222&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;phonetics&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://www.language-archives.org/REC/field.html#phonetics&#34;&gt;http://www.language-archives.org/REC/field.html#phonetics&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;The category is equivalent to the Library of Congress subject heading of the same name.&lt;/td&gt;
-&lt;td&gt;Phonetics&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://id.loc.gov/authorities/subjects/sh85101053&#34;&gt;http://id.loc.gov/authorities/subjects/sh85101053&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;pragmatics&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://www.language-archives.org/REC/field.html#pragmatics&#34;&gt;http://www.language-archives.org/REC/field.html#pragmatics&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;The category is equivalent to the Library of Congress subject heading of the same name.&lt;/td&gt;
-&lt;td&gt;Pragmatics&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://id.loc.gov/authorities/subjects/sh85106058&#34;&gt;http://id.loc.gov/authorities/subjects/sh85106058&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;semantics&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://www.language-archives.org/REC/field.html#semantics&#34;&gt;http://www.language-archives.org/REC/field.html#semantics&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;The category is equivalent to the Library of Congress subject heading of the same name.&lt;/td&gt;
-&lt;td&gt;Semantics&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://id.loc.gov/authorities/subjects/sh85119870&#34;&gt;http://id.loc.gov/authorities/subjects/sh85119870&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;sociolinguistics&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://www.language-archives.org/REC/field.html#sociolinguistics&#34;&gt;http://www.language-archives.org/REC/field.html#sociolinguistics&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;The category is equivalent to the Library of Congress subject heading of the same name.&lt;/td&gt;
-&lt;td&gt;Sociolinguistics&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://id.loc.gov/authorities/subjects/sh85124195&#34;&gt;http://id.loc.gov/authorities/subjects/sh85124195&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;typology&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://www.language-archives.org/REC/field.html#typology&#34;&gt;http://www.language-archives.org/REC/field.html#typology&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;The category is equivalent to the Library of Congress subject heading of the same name.&lt;/td&gt;
-&lt;td&gt;Typology (Linguistics)&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://id.loc.gov/authorities/subjects/sh85139174&#34;&gt;http://id.loc.gov/authorities/subjects/sh85139174&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;anthropological_linguistics&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;a href=&#34;http://www.language-archives.org/REC/field.html#anthropological_linguistics&#34;&gt;&lt;span style=&#34;color:#905&#34;&gt;http://www.language-archives.org/REC/field.html#anthropological_linguistics&lt;/span&gt;&lt;/a&gt;&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;The category is equivalent to the Library of Congress subject heading of the same name.&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;anthropological linguistics&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;a href=&#34;http://id.loc.gov/authorities/subjects/sh85005577&#34;&gt;&lt;span style=&#34;color:#905&#34;&gt;http://id.loc.gov/authorities/subjects/sh85005577&lt;/span&gt;&lt;/a&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;cognitive_science&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;a href=&#34;http://www.language-archives.org/REC/field.html#cognitive_science&#34;&gt;&lt;span style=&#34;color:#905&#34;&gt;http://www.language-archives.org/REC/field.html#cognitive_science&lt;/span&gt;&lt;/a&gt;&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;The category is equivalent to the Library of Congress subject heading of the same name.&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;Cognitive science&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;a href=&#34;http://id.loc.gov/authorities/subjects/sh88006179&#34;&gt;&lt;span style=&#34;color:#905&#34;&gt;http://id.loc.gov/authorities/subjects/sh88006179&lt;/span&gt;&lt;/a&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;computational_linguistics&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;a href=&#34;http://www.language-archives.org/REC/field.html#computational_linguistics&#34;&gt;&lt;span style=&#34;color:#905&#34;&gt;http://www.language-archives.org/REC/field.html#computational_linguistics&lt;/span&gt;&lt;/a&gt;&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;The category is equivalent to the Library of Congress subject heading of the same name.&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;Computational linguistics&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;a href=&#34;http://id.loc.gov/authorities/subjects/sh85077224&#34;&gt;&lt;span style=&#34;color:#905&#34;&gt;http://id.loc.gov/authorities/subjects/sh85077224&lt;/span&gt;&lt;/a&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;discourse_analysis&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;a href=&#34;http://www.language-archives.org/REC/field.html#discourse_analysis&#34;&gt;&lt;span style=&#34;color:#905&#34;&gt;http://www.language-archives.org/REC/field.html#discourse_analysis&lt;/span&gt;&lt;/a&gt;&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;The category is equivalent to the Library of Congress subject heading of the same name.&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;Discourse analysis&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;a href=&#34;http://id.loc.gov/authorities/subjects/sh85038362&#34;&gt;&lt;span style=&#34;color:#905&#34;&gt;http://id.loc.gov/authorities/subjects/sh85038362&lt;/span&gt;&lt;/a&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;forensic_linguistics&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;a href=&#34;http://www.language-archives.org/REC/field.html#forensic_linguistics&#34;&gt;&lt;span style=&#34;color:#905&#34;&gt;http://www.language-archives.org/REC/field.html#forensic_linguistics&lt;/span&gt;&lt;/a&gt;&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;The category is equivalent to the Library of Congress subject heading of the same name.&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;Forensic linguistics&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;a href=&#34;http://id.loc.gov/authorities/subjects/sh90004158&#34;&gt;&lt;span style=&#34;color:#905&#34;&gt;http://id.loc.gov/authorities/subjects/sh90004158&lt;/span&gt;&lt;/a&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;phonology&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;a href=&#34;http://www.language-archives.org/REC/field.html#phonology&#34;&gt;&lt;span style=&#34;color:#905&#34;&gt;http://www.language-archives.org/REC/field.html#phonology&lt;/span&gt;&lt;/a&gt;&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;This is Hugh&#39;s Guess&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;Grammar, Comparative and general--Phonology&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;historical_linguistics&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;a href=&#34;http://www.language-archives.org/REC/field.html#historical_linguistics&#34;&gt;&lt;span style=&#34;color:#905&#34;&gt;http://www.language-archives.org/REC/field.html#historical_linguistics&lt;/span&gt;&lt;/a&gt;&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;The category is equivalent to the Library of Congress subject heading of the same name.&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;Historical linguistics&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;a href=&#34;http://id.loc.gov/authorities/subjects/sh85061192&#34;&gt;&lt;span style=&#34;color:#905&#34;&gt;http://id.loc.gov/authorities/subjects/sh85061192&lt;/span&gt;&lt;/a&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;lexicography&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;a href=&#34;http://www.language-archives.org/REC/field.html#lexicography&#34;&gt;&lt;span style=&#34;color:#905&#34;&gt;http://www.language-archives.org/REC/field.html#lexicography&lt;/span&gt;&lt;/a&gt;&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;The category is equivalent to the Library of Congress subject heading of the same name.&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;Lexicography&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;a href=&#34;http://id.loc.gov/authorities/subjects/sh85076357&#34;&gt;&lt;span style=&#34;color:#905&#34;&gt;http://id.loc.gov/authorities/subjects/sh85076357&lt;/span&gt;&lt;/a&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;general_linguistics&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;a href=&#34;http://www.language-archives.org/REC/field.html#general_linguistics&#34;&gt;&lt;span style=&#34;color:#905&#34;&gt;http://www.language-archives.org/REC/field.html#general_linguistics&lt;/span&gt;&lt;/a&gt;&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;This is Hugh&#39;s Guess&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;Linguistics&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;a href=&#34;http://id.loc.gov/authorities/subjects/sh85077222&#34;&gt;&lt;span style=&#34;color:#905&#34;&gt;http://id.loc.gov/authorities/subjects/sh85077222&lt;/span&gt;&lt;/a&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;phonetics&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;a href=&#34;http://www.language-archives.org/REC/field.html#phonetics&#34;&gt;&lt;span style=&#34;color:#905&#34;&gt;http://www.language-archives.org/REC/field.html#phonetics&lt;/span&gt;&lt;/a&gt;&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;The category is equivalent to the Library of Congress subject heading of the same name.&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;Phonetics&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;a href=&#34;http://id.loc.gov/authorities/subjects/sh85101053&#34;&gt;&lt;span style=&#34;color:#905&#34;&gt;http://id.loc.gov/authorities/subjects/sh85101053&lt;/span&gt;&lt;/a&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;pragmatics&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;a href=&#34;http://www.language-archives.org/REC/field.html#pragmatics&#34;&gt;&lt;span style=&#34;color:#905&#34;&gt;http://www.language-archives.org/REC/field.html#pragmatics&lt;/span&gt;&lt;/a&gt;&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;The category is equivalent to the Library of Congress subject heading of the same name.&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;Pragmatics&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;a href=&#34;http://id.loc.gov/authorities/subjects/sh85106058&#34;&gt;&lt;span style=&#34;color:#905&#34;&gt;http://id.loc.gov/authorities/subjects/sh85106058&lt;/span&gt;&lt;/a&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;semantics&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;a href=&#34;http://www.language-archives.org/REC/field.html#semantics&#34;&gt;&lt;span style=&#34;color:#905&#34;&gt;http://www.language-archives.org/REC/field.html#semantics&lt;/span&gt;&lt;/a&gt;&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;The category is equivalent to the Library of Congress subject heading of the same name.&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;Semantics&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;a href=&#34;http://id.loc.gov/authorities/subjects/sh85119870&#34;&gt;&lt;span style=&#34;color:#905&#34;&gt;http://id.loc.gov/authorities/subjects/sh85119870&lt;/span&gt;&lt;/a&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;sociolinguistics&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;a href=&#34;http://www.language-archives.org/REC/field.html#sociolinguistics&#34;&gt;&lt;span style=&#34;color:#905&#34;&gt;http://www.language-archives.org/REC/field.html#sociolinguistics&lt;/span&gt;&lt;/a&gt;&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;The category is equivalent to the Library of Congress subject heading of the same name.&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;Sociolinguistics&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;a href=&#34;http://id.loc.gov/authorities/subjects/sh85124195&#34;&gt;&lt;span style=&#34;color:#905&#34;&gt;http://id.loc.gov/authorities/subjects/sh85124195&lt;/span&gt;&lt;/a&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;typology&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;a href=&#34;http://www.language-archives.org/REC/field.html#typology&#34;&gt;&lt;span style=&#34;color:#905&#34;&gt;http://www.language-archives.org/REC/field.html#typology&lt;/span&gt;&lt;/a&gt;&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;The category is equivalent to the Library of Congress subject heading of the same name.&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;Typology (Linguistics)&lt;/td&gt;
+    &lt;td class=&#34;tg-0pky&#34;&gt;&lt;a href=&#34;http://id.loc.gov/authorities/subjects/sh85139174&#34;&gt;&lt;span style=&#34;color:#905&#34;&gt;http://id.loc.gov/authorities/subjects/sh85139174&lt;/span&gt;&lt;/a&gt;&lt;/td&gt;
+  &lt;/tr&gt;
 &lt;/tbody&gt;
-&lt;/table&gt;
+&lt;/table&gt;&lt;/div&gt;
+&lt;!--
+| OLAC Term | OLAC ID | Equivelentcy status | LCSH Term | LCSH ID |
+|-|-|-|-|-|
+| anthropological_linguistics | http://www.language-archives.org/REC/field.html#anthropological_linguistics | The category is equivalent to the Library of Congress subject heading of the same name. | anthropological linguistics | http://id.loc.gov/authorities/subjects/sh85005577 |
+| cognitive_science | http://www.language-archives.org/REC/field.html#cognitive_science | The category is equivalent to the Library of Congress subject heading of the same name. | Cognitive science | http://id.loc.gov/authorities/subjects/sh88006179 |
+| computational_linguistics | http://www.language-archives.org/REC/field.html#computational_linguistics | The category is equivalent to the Library of Congress subject heading of the same name. | Computational linguistics | http://id.loc.gov/authorities/subjects/sh85077224 |
+| discourse_analysis | http://www.language-archives.org/REC/field.html#discourse_analysis | The category is equivalent to the Library of Congress subject heading of the same name. | Discourse analysis | http://id.loc.gov/authorities/subjects/sh85038362 |
+| forensic_linguistics | http://www.language-archives.org/REC/field.html#forensic_linguistics | The category is equivalent to the Library of Congress subject heading of the same name. | Forensic linguistics | http://id.loc.gov/authorities/subjects/sh90004158 |
+| phonology | http://www.language-archives.org/REC/field.html#phonology | This is Hugh&#39;s Guess | Grammar, Comparative and general--Phonology |  |
+| historical_linguistics | http://www.language-archives.org/REC/field.html#historical_linguistics | The category is equivalent to the Library of Congress subject heading of the same name. | Historical linguistics | http://id.loc.gov/authorities/subjects/sh85061192 |
+| lexicography | http://www.language-archives.org/REC/field.html#lexicography | The category is equivalent to the Library of Congress subject heading of the same name. | Lexicography | http://id.loc.gov/authorities/subjects/sh85076357 |
+| general_linguistics | http://www.language-archives.org/REC/field.html#general_linguistics | This is Hugh&#39;s Guess | Linguistics | http://id.loc.gov/authorities/subjects/sh85077222 |
+| phonetics | http://www.language-archives.org/REC/field.html#phonetics | The category is equivalent to the Library of Congress subject heading of the same name. | Phonetics | http://id.loc.gov/authorities/subjects/sh85101053 |
+| pragmatics | http://www.language-archives.org/REC/field.html#pragmatics | The category is equivalent to the Library of Congress subject heading of the same name. | Pragmatics | http://id.loc.gov/authorities/subjects/sh85106058 |
+| semantics | http://www.language-archives.org/REC/field.html#semantics | The category is equivalent to the Library of Congress subject heading of the same name. | Semantics | http://id.loc.gov/authorities/subjects/sh85119870 |
+| sociolinguistics | http://www.language-archives.org/REC/field.html#sociolinguistics | The category is equivalent to the Library of Congress subject heading of the same name. | Sociolinguistics | http://id.loc.gov/authorities/subjects/sh85124195 |
+| typology | http://www.language-archives.org/REC/field.html#typology | The category is equivalent to the Library of Congress subject heading of the same name. | Typology (Linguistics) | http://id.loc.gov/authorities/subjects/sh85139174 |
+--&gt;
 
   
 
