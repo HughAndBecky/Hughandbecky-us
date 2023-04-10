@@ -178,7 +178,7 @@
   </url>
   
   <url>
-    <loc>https://hughandbecky.us/Hugh-CV/content_types/event/</loc>
+    <loc>https://hughandbecky.us/Hugh-CV/content-type/event/</loc>
     <lastmod>2023-09-04T11:30:00-01:00</lastmod>
   </url>
   
@@ -213,7 +213,7 @@
   </url>
   
   <url>
-    <loc>https://hughandbecky.us/Hugh-CV/content_types/print/</loc>
+    <loc>https://hughandbecky.us/Hugh-CV/content-type/print/</loc>
     <lastmod>2023-09-04T11:30:00-01:00</lastmod>
   </url>
   
@@ -303,12 +303,17 @@
   </url>
   
   <url>
-    <loc>https://hughandbecky.us/Hugh-CV/tag/transcripts/</loc>
+    <loc>https://hughandbecky.us/Hugh-CV/content-type/movingimage/</loc>
     <lastmod>2023-05-20T11:30:00-01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://hughandbecky.us/Hugh-CV/content_types/video/</loc>
+    <loc>https://hughandbecky.us/Hugh-CV/content-type/text/</loc>
+    <lastmod>2023-05-20T11:30:00-01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hughandbecky.us/Hugh-CV/tag/transcripts/</loc>
     <lastmod>2023-05-20T11:30:00-01:00</lastmod>
   </url>
   
@@ -533,6 +538,11 @@
   </url>
   
   <url>
+    <loc>https://hughandbecky.us/Hugh-CV/content-type/stillimage/</loc>
+    <lastmod>2023-02-13T17:00:12-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://hughandbecky.us/Hugh-CV/tag/dctermsrights/</loc>
     <lastmod>2023-02-06T14:35:45+01:00</lastmod>
   </url>
@@ -694,6 +704,11 @@
   
   <url>
     <loc>https://hughandbecky.us/Hugh-CV/language/pxm/</loc>
+    <lastmod>2022-12-01T17:00:12-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hughandbecky.us/Hugh-CV/content-type/sound/</loc>
     <lastmod>2022-12-01T17:00:12-07:00</lastmod>
   </url>
   
@@ -1239,11 +1254,6 @@
   
   <url>
     <loc>https://hughandbecky.us/Hugh-CV/tag/resource-discovery/</loc>
-    <lastmod>2022-03-08T14:35:45+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hughandbecky.us/Hugh-CV/content_types/text/</loc>
     <lastmod>2022-03-08T14:35:45+01:00</lastmod>
   </url>
   
@@ -1889,11 +1899,6 @@
   
   <url>
     <loc>https://hughandbecky.us/Hugh-CV/language/asg/</loc>
-    <lastmod>2020-08-10T09:30:22-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hughandbecky.us/Hugh-CV/content_types/audio/</loc>
     <lastmod>2020-08-10T09:30:22-07:00</lastmod>
   </url>
   
@@ -2848,11 +2853,6 @@
   </url>
   
   <url>
-    <loc>https://hughandbecky.us/Hugh-CV/content_types/stillimage/</loc>
-    <lastmod>2017-07-29T14:35:45+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://hughandbecky.us/Hugh-CV/cities/tungan-magajiya/</loc>
     <lastmod>2017-07-29T14:35:45+01:00</lastmod>
   </url>
@@ -3243,11 +3243,6 @@
   </url>
   
   <url>
-    <loc>https://hughandbecky.us/Hugh-CV/content_types/image/</loc>
-    <lastmod>2014-12-10T01:41:38-07:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://hughandbecky.us/Hugh-CV/tag/infogrpahic/</loc>
     <lastmod>2014-12-10T01:41:38-07:00</lastmod>
   </url>
@@ -3388,6 +3383,36 @@
   </url>
   
   <url>
+    <loc>https://hughandbecky.us/Hugh-CV/post/dating-photos-and-passing-on-knowledge/</loc>
+    <lastmod>2013-10-17T14:35:45+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hughandbecky.us/Hugh-CV/tag/dcmitypestillimage/</loc>
+    <lastmod>2013-10-17T14:35:45+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hughandbecky.us/Hugh-CV/tag/digitization/</loc>
+    <lastmod>2013-10-17T14:35:45+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hughandbecky.us/Hugh-CV/tag/file-names/</loc>
+    <lastmod>2013-10-17T14:35:45+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hughandbecky.us/Hugh-CV/tag/photographs/</loc>
+    <lastmod>2013-10-17T14:35:45+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hughandbecky.us/Hugh-CV/tag/project-transfer/</loc>
+    <lastmod>2013-10-17T14:35:45+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://hughandbecky.us/Hugh-CV/tag/gesture/</loc>
     <lastmod>2013-10-11T14:35:45+01:00</lastmod>
   </url>
@@ -3399,11 +3424,6 @@
   
   <url>
     <loc>https://hughandbecky.us/Hugh-CV/category/language-data-note/</loc>
-    <lastmod>2013-10-11T14:35:45+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hughandbecky.us/Hugh-CV/content_types/movingimage/</loc>
     <lastmod>2013-10-11T14:35:45+01:00</lastmod>
   </url>
   
@@ -3798,11 +3818,6 @@
   </url>
   
   <url>
-    <loc>https://hughandbecky.us/Hugh-CV/tag/digitization/</loc>
-    <lastmod>2012-02-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://hughandbecky.us/Hugh-CV/category/digitization/</loc>
     <lastmod>2012-02-24T00:00:00+00:00</lastmod>
   </url>
@@ -3944,6 +3959,21 @@
   
   <url>
     <loc>https://hughandbecky.us/Hugh-CV/talk/2011-getting-things-out-of-flex/</loc>
+    <lastmod>2011-10-17T20:58:01-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hughandbecky.us/Hugh-CV/cities/kota-kinabalu/</loc>
+    <lastmod>2011-10-17T20:58:01-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hughandbecky.us/Hugh-CV/country/malaysia/</loc>
+    <lastmod>2011-10-17T20:58:01-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hughandbecky.us/Hugh-CV/institutions/universiti-malaysia-sabah/</loc>
     <lastmod>2011-10-17T20:58:01-07:00</lastmod>
   </url>
   

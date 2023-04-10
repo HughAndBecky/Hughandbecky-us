@@ -2612,10 +2612,8 @@ wbr:before {
   font-weight:bold;overflow:hidden;padding:10px 5px;word-break:normal; hyphens: none;}
 .tg .tg-j1i3{border-color:inherit;position:-webkit-sticky;position:sticky;text-align:left;top:-1px;vertical-align:top; will-change: transform;}
 .tg .tg-ih3h{border-color:inherit;position:-webkit-sticky;position:sticky;text-align:center;top:-1px;vertical-align:top; will-change: transform;}
-.tg .tg-q01z{border-color:inherit;position:-webkit-sticky;position:sticky;text-align:center;top:-1px;
-  vertical-align:top; will-change: transform;}
-.tg .tg-exmw{border-color:inherit;position:-webkit-sticky;position:sticky;text-align:center;top:-1px;
-  vertical-align:top; will-change: transform;}
+.tg .tg-q01z{border-color:inherit;position:-webkit-sticky;position:sticky;text-align:center;top:-1px;vertical-align:top; will-change: transform;}
+.tg .tg-exmw{border-color:inherit;position:-webkit-sticky;position:sticky;text-align:center;top:-1px;vertical-align:top; will-change: transform;}
 .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
 .tg-sort-header::-moz-selection{background:0 0}
 .tg-sort-header::selection{background:0 0}.tg-sort-header{cursor:pointer}

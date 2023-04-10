@@ -5511,10 +5511,8 @@ wbr:before {
   font-weight:bold;overflow:hidden;padding:10px 5px;word-break:normal; hyphens: none;}
 .tg .tg-j1i3{border-color:inherit;position:-webkit-sticky;position:sticky;text-align:left;top:-1px;vertical-align:top; will-change: transform;}
 .tg .tg-ih3h{border-color:inherit;position:-webkit-sticky;position:sticky;text-align:center;top:-1px;vertical-align:top; will-change: transform;}
-.tg .tg-q01z{border-color:inherit;position:-webkit-sticky;position:sticky;text-align:center;top:-1px;
-  vertical-align:top; will-change: transform;}
-.tg .tg-exmw{border-color:inherit;position:-webkit-sticky;position:sticky;text-align:center;top:-1px;
-  vertical-align:top; will-change: transform;}
+.tg .tg-q01z{border-color:inherit;position:-webkit-sticky;position:sticky;text-align:center;top:-1px;vertical-align:top; will-change: transform;}
+.tg .tg-exmw{border-color:inherit;position:-webkit-sticky;position:sticky;text-align:center;top:-1px;vertical-align:top; will-change: transform;}
 .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
 .tg-sort-header::-moz-selection{background:0 0}
 .tg-sort-header::selection{background:0 0}.tg-sort-header{cursor:pointer}
@@ -5582,7 +5580,7 @@ wbr:before {
     &lt;td class=&#34;tg-0pky&#34;&gt;*zalan&lt;/td&gt;
   &lt;/tr&gt;
 &lt;/tbody&gt;
-&lt;/table&gt;&lt;/div&gt;
+&lt;/table&gt;
 &lt;script charset=&#34;utf-8&#34;&gt;var TGSort=window.TGSort||function(n){&#34;use strict&#34;;function r(n){return n?n.length:0}function t(n,t,e,o=0){for(e=r(n);o&lt;e;++o)t(n[o],o)}function e(n){return n.split(&#34;&#34;).reverse().join(&#34;&#34;)}function o(n){var e=n[0];return t(n,function(n){for(;!n.startsWith(e);)e=e.substring(0,r(e)-1)}),r(e)}function u(n,r,e=[]){return t(n,function(n){r(n)&amp;&amp;e.push(n)}),e}var a=parseFloat;function i(n,r){return function(t){var e=&#34;&#34;;return t.replace(n,function(n,t,o){return e=t.replace(r,&#34;&#34;)+&#34;.&#34;+(o||&#34;&#34;).substring(1)}),a(e)}}var s=i(/^(?:\s*)([+-]?(?:\d+)(?:,\d{3})*)(\.\d*)?$/g,/,/g),c=i(/^(?:\s*)([+-]?(?:\d+)(?:\.\d{3})*)(,\d*)?$/g,/\./g);function f(n){var t=a(n);return!isNaN(t)&amp;&amp;r(&#34;&#34;+t)+1&gt;=r(n)?t:NaN}function d(n){var e=[],o=n;return t([f,s,c],function(u){var a=[],i=[];t(n,function(n,r){r=u(n),a.push(r),r||i.push(n)}),r(i)&lt;r(o)&amp;&amp;(o=i,e=a)}),r(u(o,function(n){return n==o[0]}))==r(o)?e:[]}function v(n){if(&#34;TABLE&#34;==n.nodeName){for(var a=function(r){var e,o,u=[],a=[];return function n(r,e){e(r),t(r.childNodes,function(r){n(r,e)})}(n,function(n){&#34;TR&#34;==(o=n.nodeName)?(e=[],u.push(e),a.push(n)):&#34;TD&#34;!=o&amp;&amp;&#34;TH&#34;!=o||e.push(n)}),[u,a]}(),i=a[0],s=a[1],c=r(i),f=c&gt;1&amp;&amp;r(i[0])&lt;r(i[1])?1:0,v=f+1,p=i[f],h=r(p),l=[],g=[],N=[],m=v;m&lt;c;++m){for(var T=0;T&lt;h;++T){r(g)&lt;h&amp;&amp;g.push([]);var C=i[m][T],L=C.textContent||C.innerText||&#34;&#34;;g[T].push(L.trim())}N.push(m-v)}t(p,function(n,t){l[t]=0;var a=n.classList;a.add(&#34;tg-sort-header&#34;),n.addEventListener(&#34;click&#34;,function(){var n=l[t];!function(){for(var n=0;n&lt;h;++n){var r=p[n].classList;r.remove(&#34;tg-sort-asc&#34;),r.remove(&#34;tg-sort-desc&#34;),l[n]=0}}(),(n=1==n?-1:+!n)&amp;&amp;a.add(n&gt;0?&#34;tg-sort-asc&#34;:&#34;tg-sort-desc&#34;),l[t]=n;var i,f=g[t],m=function(r,t){return n*f[r].localeCompare(f[t])||n*(r-t)},T=function(n){var t=d(n);if(!r(t)){var u=o(n),a=o(n.map(e));t=d(n.map(function(n){return n.substring(u,r(n)-a)}))}return t}(f);(r(T)||r(T=r(u(i=f.map(Date.parse),isNaN))?[]:i))&amp;&amp;(m=function(r,t){var e=T[r],o=T[t],u=isNaN(e),a=isNaN(o);return u&amp;&amp;a?0:u?-n:a?n:e&gt;o?n:e&lt;o?-n:n*(r-t)});var C,L=N.slice();L.sort(m);for(var E=v;E&lt;c;++E)(C=s[E].parentNode).removeChild(s[E]);for(E=v;E&lt;c;++E)C.appendChild(s[v+L[E-v]])})})}}n.addEventListener(&#34;DOMContentLoaded&#34;,function(){for(var t=n.getElementsByClassName(&#34;tg&#34;),e=0;e&lt;r(t);++e)try{v(t[e])}catch(n){}})}(document)&lt;/script&gt;&lt;/div&gt;
 &lt;!--
 | English  	| Butbut 	| Lubuagen  	| Majukayong 	| Minangali 	| Kagayanen 	| Kalagan 	| Southern Catanduanes Bicolano  	| Blust (1999) 	|
@@ -10964,10 +10962,8 @@ wbr:before {
   font-weight:bold;overflow:hidden;padding:10px 5px;word-break:normal; hyphens: none;}
 .tg .tg-j1i3{border-color:inherit;position:-webkit-sticky;position:sticky;text-align:left;top:-1px;vertical-align:top; will-change: transform;}
 .tg .tg-ih3h{border-color:inherit;position:-webkit-sticky;position:sticky;text-align:center;top:-1px;vertical-align:top; will-change: transform;}
-.tg .tg-q01z{border-color:inherit;position:-webkit-sticky;position:sticky;text-align:center;top:-1px;
-  vertical-align:top; will-change: transform;}
-.tg .tg-exmw{border-color:inherit;position:-webkit-sticky;position:sticky;text-align:center;top:-1px;
-  vertical-align:top; will-change: transform;}
+.tg .tg-q01z{border-color:inherit;position:-webkit-sticky;position:sticky;text-align:center;top:-1px;vertical-align:top; will-change: transform;}
+.tg .tg-exmw{border-color:inherit;position:-webkit-sticky;position:sticky;text-align:center;top:-1px;vertical-align:top; will-change: transform;}
 .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
 .tg-sort-header::-moz-selection{background:0 0}
 .tg-sort-header::selection{background:0 0}.tg-sort-header{cursor:pointer}
@@ -48326,6 +48322,24 @@ Lumen Learning&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.o
 
 &lt;/figure&gt;
 
+</description>
+    </item>
+    
+    <item>
+      <title>Dating Photos and passing on Knowledge</title>
+      <link>https://hughandbecky.us/Hugh-CV/post/dating-photos-and-passing-on-knowledge/</link>
+      <pubDate>Thu, 17 Oct 2013 14:35:45 +0100</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/post/dating-photos-and-passing-on-knowledge/</guid>
+      <description>&lt;p&gt;I have been reading &lt;a href=&#34;http://scanyourentirelife.com/2013/how-to-date-photos-family-photo-collections-sort-organize/&#34; title=&#34;Dating Photos&#34; target=&#34;_blank&#34;&gt;the blog &amp;ldquo;Scan Your Entire Life&amp;quot;&lt;/a&gt;, and its links about scanning family photos.&lt;/p&gt;
+&lt;p&gt;I think one relevant point that it brings out for professional contexts, such as in archives, is: &amp;ldquo;Additionally, it [the way of naming the files] will now be documented for whomever inherits all of your work, that you didn’t know this information.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;Especially with photos, which have a high metadata field to file-count ratio, representing a high curation workload. A metadata schema needs to help archivists administratively determine known unknowns rather than just empty elements.  It is one thing to choose not to describe something, it is another to not have access to the information and be unable to describe something.&lt;/p&gt;
+&lt;p&gt;Some of the links I was also reading:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://scanyourentirelife.com/2013/how-to-date-photos-family-photo-collections-sort-organize/&#34; title=&#34;How to Date Photos&#34; target=&#34;_blank&#34;&gt;&lt;a href=&#34;http://scanyourentirelife.com/2013/how-to-date-photos-family-photo-collections-sort-organize&#34;&gt;http://scanyourentirelife.com/2013/how-to-date-photos-family-photo-collections-sort-organize&lt;/a&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://scanyourentirelife.com/2010/what-everybody-ought-know-when-naming-your-scanned-photos-part-1/&#34; title=&#34;What everybody ought to know about scanning photos part 1&#34; target=&#34;_blank&#34;&gt;&lt;a href=&#34;http://scanyourentirelife.com/2010/what-everybody-ought-know-when-naming-your-scanned-photos-part-1/&#34;&gt;http://scanyourentirelife.com/2010/what-everybody-ought-know-when-naming-your-scanned-photos-part-1/&lt;/a&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.scanyourentirelife.com/2010/everybody-ought-know-when-naming-your-scanned-photos-part-2/&#34; title=&#34;What everybody ought to know about scanning photos part 2&#34; target=&#34;_blank&#34;&gt;&lt;a href=&#34;http://www.scanyourentirelife.com/2010/everybody-ought-know-when-naming-your-scanned-photos-part-2/&#34;&gt;http://www.scanyourentirelife.com/2010/everybody-ought-know-when-naming-your-scanned-photos-part-2/&lt;/a&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://scanyourentirelife.com/2011/best-way-add-description-caption-your-scanned-photos/&#34; title=&#34;The Best way to add description and caption information to your photos&#34; target=&#34;_blank&#34;&gt;&lt;a href=&#34;http://scanyourentirelife.com/2011/best-way-add-description-caption-your-scanned-photos/&#34;&gt;http://scanyourentirelife.com/2011/best-way-add-description-caption-your-scanned-photos/&lt;/a&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
