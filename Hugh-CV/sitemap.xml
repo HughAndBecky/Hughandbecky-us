@@ -158,6 +158,11 @@
   </url>
   
   <url>
+    <loc>https://hughandbecky.us/Hugh-CV/presentation_types/2/</loc>
+    <lastmod>2023-09-04T11:30:00-01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://hughandbecky.us/Hugh-CV/authors/</loc>
     <lastmod>2023-09-04T11:30:00-01:00</lastmod>
   </url>
@@ -213,7 +218,7 @@
   </url>
   
   <url>
-    <loc>https://hughandbecky.us/Hugh-CV/content-type/print/</loc>
+    <loc>https://hughandbecky.us/Hugh-CV/presentation_types/</loc>
     <lastmod>2023-09-04T11:30:00-01:00</lastmod>
   </url>
   
@@ -230,6 +235,41 @@
   <url>
     <loc>https://hughandbecky.us/Hugh-CV/tags/</loc>
     <lastmod>2023-09-04T11:30:00-01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hughandbecky.us/Hugh-CV/content-type/text/</loc>
+    <lastmod>2023-09-04T11:30:00-01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hughandbecky.us/Hugh-CV/talk/2023-diversity-and-identity-categories-for-oai-data-providers-in-the-open-language-archives-network/</loc>
+    <lastmod>2023-06-15T17:00:12-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hughandbecky.us/Hugh-CV/tag/knowledge-organization/</loc>
+    <lastmod>2023-06-15T17:00:12-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hughandbecky.us/Hugh-CV/tag/metadata/</loc>
+    <lastmod>2023-06-15T17:00:12-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hughandbecky.us/Hugh-CV/content-type/movingimage/</loc>
+    <lastmod>2023-06-15T17:00:12-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hughandbecky.us/Hugh-CV/tag/olac/</loc>
+    <lastmod>2023-06-15T17:00:12-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hughandbecky.us/Hugh-CV/tag/terminology/</loc>
+    <lastmod>2023-06-15T17:00:12-07:00</lastmod>
   </url>
   
   <url>
@@ -268,6 +308,11 @@
   </url>
   
   <url>
+    <loc>https://hughandbecky.us/Hugh-CV/content-type/print/</loc>
+    <lastmod>2023-06-01T17:00:12-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://hughandbecky.us/Hugh-CV/tag/privacy-comparative-law/</loc>
     <lastmod>2023-06-01T17:00:12-07:00</lastmod>
   </url>
@@ -299,16 +344,6 @@
   
   <url>
     <loc>https://hughandbecky.us/Hugh-CV/tag/audio/</loc>
-    <lastmod>2023-05-20T11:30:00-01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hughandbecky.us/Hugh-CV/content-type/movingimage/</loc>
-    <lastmod>2023-05-20T11:30:00-01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hughandbecky.us/Hugh-CV/content-type/text/</loc>
     <lastmod>2023-05-20T11:30:00-01:00</lastmod>
   </url>
   
@@ -433,11 +468,6 @@
   </url>
   
   <url>
-    <loc>https://hughandbecky.us/Hugh-CV/tag/olac/</loc>
-    <lastmod>2023-04-04T14:35:45+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://hughandbecky.us/Hugh-CV/tag/olac-interface-improvements/</loc>
     <lastmod>2023-04-04T14:35:45+01:00</lastmod>
   </url>
@@ -488,17 +518,7 @@
   </url>
   
   <url>
-    <loc>https://hughandbecky.us/Hugh-CV/tag/metadata/</loc>
-    <lastmod>2023-03-02T17:00:12-07:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://hughandbecky.us/Hugh-CV/talk/2023-supporting-diversity-through-a-typology-of-data-providers-what-is-an-archive/</loc>
-    <lastmod>2023-03-02T17:00:12-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hughandbecky.us/Hugh-CV/tag/terminology/</loc>
     <lastmod>2023-03-02T17:00:12-07:00</lastmod>
   </url>
   
@@ -3720,6 +3740,41 @@
   <url>
     <loc>https://hughandbecky.us/Hugh-CV/language/ven/</loc>
     <lastmod>2012-07-06T11:30:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hughandbecky.us/Hugh-CV/tag/cultural-evangelism/</loc>
+    <lastmod>2012-06-12T14:16:50-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hughandbecky.us/Hugh-CV/tag/culture/</loc>
+    <lastmod>2012-06-12T14:16:50-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hughandbecky.us/Hugh-CV/tag/digital-materiality/</loc>
+    <lastmod>2012-06-12T14:16:50-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hughandbecky.us/Hugh-CV/tag/digital-media/</loc>
+    <lastmod>2012-06-12T14:16:50-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hughandbecky.us/Hugh-CV/tag/digital-native/</loc>
+    <lastmod>2012-06-12T14:16:50-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hughandbecky.us/Hugh-CV/post/language-and-culture-documentation-vs-cultural-digital-natives/</loc>
+    <lastmod>2012-06-12T14:16:50-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hughandbecky.us/Hugh-CV/written_from/texas/</loc>
+    <lastmod>2012-06-12T14:16:50-07:00</lastmod>
   </url>
   
   <url>
