@@ -112,7 +112,6 @@ figcaption {
   font-size: .65em;
   color: black;
   text-align: right;
-  direction: rtl;
   text-decoration: none!important;
 }
 figcaption span.img-attribution {
