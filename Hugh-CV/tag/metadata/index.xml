@@ -1441,6 +1441,30 @@ From these factors, I derive three broad categories with a total of twelve speci
     </item>
     
     <item>
+      <title>OLAC: Multi-Audience Service Architecture</title>
+      <link>https://hughandbecky.us/Hugh-CV/post/olac-infrastructure-for-multiple-audiences/</link>
+      <pubDate>Tue, 18 Apr 2023 14:35:45 +0100</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/post/olac-infrastructure-for-multiple-audiences/</guid>
+      <description>&lt;p&gt;When thinking about rebuilding the OLAC infrastructure the components ought to be built to consider the functions illustrated.&lt;/p&gt;
+&lt;p&gt;First there needs to be an OAI-PMH harvester. This harvests the various records from OAI-PMH static and dynamic repositories. This harvest needs to be persisted with an assigned DOI at regular intervals in its XML source format. The harvest represents exactly what data providers are sending to the harvester.&lt;/p&gt;
+&lt;p&gt;The harvested content then needs to flow through a metadata utility. The utility evaluates the records; assigning a quality metric to each record. The utility then has the power, via scripts, to change values and the structure of the record. These changes ought to be recorded in the OAI provenance section of the record. Changes made need to be communicated back to the data provider as well as to any viewing experience. The exact power of the utility needs to be documented with a text based narrative independent of the code base. The code should be publicly accessible and re-deployable in local environments. The code and its documentation should also be given a DOI; versioned as necessary.&lt;/p&gt;
+&lt;p&gt;The content which flows out of the utility should be persisted at the same interval that the RAW data is persisted at. It should be persisted in an XML encoding of the OLAC Metadata Application Profile (OAI-PMH ListSet format). Corrected (or enhanced) data should be made available via a dynamic OAI-PMH endpoint. Finally, a script which converts the whole dataset to JSON-LD should available for users who want to convert the data to JSON-LD (as a set).&lt;/p&gt;
+&lt;p&gt;Finally, the end-user search experience should be a dynamic, responsive website, driven by the metadata in the enhanced dataset. End-user website could use a variety of software magic to enhance human and machine access or awareness to the resources. For example:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;pages about resources can be encoded with schema.org metadata&lt;/li&gt;
+&lt;li&gt;search interfaces could leverage other open datasets or ontologies&lt;/li&gt;
+&lt;li&gt;metadata from the record could be converted to MODS and made accessible via the unAPI so that tools like Zotero can access the resource.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Building the architecture in three distinct parts of the pipeline allows for modular increments to the system. This is desirable for the maintainability of the OLAC infrastructure.&lt;/p&gt;
+&lt;p&gt;Independent of theses systems are:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;any infrastructure for supporting community activities around maintaining the aggregator and metadata profile&lt;/li&gt;
+&lt;li&gt;the repository validator.&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Supporting Diversity Through a Typology of Data Providers: What is an Archive?</title>
       <link>https://hughandbecky.us/Hugh-CV/talk/2023-supporting-diversity-through-a-typology-of-data-providers-what-is-an-archive/</link>
       <pubDate>Thu, 02 Mar 2023 17:00:12 -0700</pubDate>
