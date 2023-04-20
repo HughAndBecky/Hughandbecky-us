@@ -8,8 +8,8 @@
 
   <meta name="author" content="Hugh Paterson III">
 
-  <meta name="description" content="When thinking about rebuilding the OLAC infrastructure the components ought to be built to consider the functions illustrated.
-First there needs to be an OAI-PMH harvester. This harvests the various records from OAI-PMH static and dynamic repositories.">
+  <meta name="description" content="When thinking about rebuilding the OLAC infrastructure the components ought to be built to consider three distinct functions: Harvesting, Data clean-up or Enhancing, and data Engagement (viewing/browsing/exploration).
+First there needs to be an OAI-PMH harvester.">
   <link rel="alternate" hreflang="en-us" href="https://hughandbecky.us/Hugh-CV/post/olac-infrastructure-for-multiple-audiences/">
 
 
@@ -224,8 +224,8 @@ First there needs to be an OAI-PMH harvester. This harvests the various records 
   <meta property="og:site_name" content="Hugh&#39;s Curriculum Vitae">
   <meta property="og:url" content="https://hughandbecky.us/Hugh-CV/post/olac-infrastructure-for-multiple-audiences/">
   <meta property="og:title" content="OLAC: Multi-Audience Service Architecture | Hugh&#39;s Curriculum Vitae">
-  <meta property="og:description" content="When thinking about rebuilding the OLAC infrastructure the components ought to be built to consider the functions illustrated.
-First there needs to be an OAI-PMH harvester. This harvests the various records from OAI-PMH static and dynamic repositories."><meta property="og:image" content="https://hughandbecky.us/Hugh-CV/post/olac-infrastructure-for-multiple-audiences/featured.png">
+  <meta property="og:description" content="When thinking about rebuilding the OLAC infrastructure the components ought to be built to consider three distinct functions: Harvesting, Data clean-up or Enhancing, and data Engagement (viewing/browsing/exploration).
+First there needs to be an OAI-PMH harvester."><meta property="og:image" content="https://hughandbecky.us/Hugh-CV/post/olac-infrastructure-for-multiple-audiences/featured.png">
   <meta property="twitter:image" content="https://hughandbecky.us/Hugh-CV/post/olac-infrastructure-for-multiple-audiences/featured.png"><meta property="og:locale" content="en-us"><meta property="article:published_time" content="2023-04-18T14:35:45&#43;01:00"><meta property="article:modified_time" content="2023-04-18T14:35:45&#43;01:00">
 
 
@@ -271,7 +271,7 @@ First there needs to be an OAI-PMH harvester. This harvests the various records 
       "url": "https://hughandbecky.us/Hugh-CV/images/logo.svg"
     }
   },
-  "description": "When thinking about rebuilding the OLAC infrastructure the components ought to be built to consider the functions illustrated.\nFirst there needs to be an OAI-PMH harvester. This harvests the various records from OAI-PMH static and dynamic repositories."
+  "description": "When thinking about rebuilding the OLAC infrastructure the components ought to be built to consider three distinct functions: Harvesting, Data clean-up or Enhancing, and data Engagement (viewing/browsing/exploration).\nFirst there needs to be an OAI-PMH harvester."
 }
 </script>
 
@@ -847,7 +847,7 @@ First there needs to be an OAI-PMH harvester. This harvests the various records 
   <div class="article-container">
 
     <div class="article-style">
-      <p>When thinking about rebuilding the OLAC infrastructure the components ought to be built to consider the functions illustrated.</p>
+      <p>When thinking about rebuilding the OLAC infrastructure the components ought to be built to consider three distinct functions: <em>Harvesting</em>, Data clean-up or <em>Enhancing</em>, and data <em>Engagement</em> (viewing/browsing/exploration).</p>
 <p>First there needs to be an OAI-PMH harvester. This harvests the various records from OAI-PMH static and dynamic repositories. This harvest needs to be persisted with an assigned DOI at regular intervals in its XML source format. The harvest represents exactly what data providers are sending to the harvester.</p>
 <p>The harvested content then needs to flow through a metadata utility. The utility evaluates the records; assigning a quality metric to each record. The utility then has the power, via scripts, to change values and the structure of the record. These changes ought to be recorded in the OAI provenance section of the record. Changes made need to be communicated back to the data provider as well as to any viewing experience. The exact power of the utility needs to be documented with a text based narrative independent of the code base. The code should be publicly accessible and re-deployable in local environments. The code and its documentation should also be given a DOI; versioned as necessary.</p>
 <p>The content which flows out of the utility should be persisted at the same interval that the RAW data is persisted at. It should be persisted in an XML encoding of the OLAC Metadata Application Profile (OAI-PMH ListSet format). Corrected (or enhanced) data should be made available via a dynamic OAI-PMH endpoint. Finally, a script which converts the whole dataset to JSON-LD should available for users who want to convert the data to JSON-LD (as a set).</p>
@@ -855,13 +855,14 @@ First there needs to be an OAI-PMH harvester. This harvests the various records 
 <ol>
 <li>pages about resources can be encoded with schema.org metadata</li>
 <li>search interfaces could leverage other open datasets or ontologies</li>
-<li>metadata from the record could be converted to MODS and made accessible via the unAPI so that tools like Zotero can access the resource.</li>
+<li>metadata from the record could be converted to MODS and made accessible via the unAPI so that tools like Zotero can access the bibliographic information for the resource.</li>
 </ol>
 <p>Building the architecture in three distinct parts of the pipeline allows for modular increments to the system. This is desirable for the maintainability of the OLAC infrastructure.</p>
 <p>Independent of theses systems are:</p>
 <ol>
 <li>any infrastructure for supporting community activities around maintaining the aggregator and metadata profile</li>
-<li>the repository validator.</li>
+<li>the new repository onboarding process</li>
+<li>the repository validator — which should be locally exicutable as well as hosted on a server.</li>
 </ol>
 
     </div>
@@ -1056,6 +1057,8 @@ First there needs to be an OAI-PMH harvester. This harvests the various records 
     <h3>Related</h3>
     <ul>
       
+      <li><a href="/Hugh-CV/post/olac-usage-data/">OLAC Usage Data</a>&nbsp;&nbsp;<span class="badge badge-light" style="font-size: 0.6em; vertical-align: middle;">post</span></li>
+      
       <li><a href="/Hugh-CV/post/metadata-quality-assessment-and-olac/">Metadata Quality Assessment &amp; OLAC</a>&nbsp;&nbsp;<span class="badge badge-light" style="font-size: 0.6em; vertical-align: middle;">post</span></li>
       
       <li><a href="/Hugh-CV/post/olac-term-consolidation/">OLAC Term Consolidation</a>&nbsp;&nbsp;<span class="badge badge-light" style="font-size: 0.6em; vertical-align: middle;">post</span></li>
@@ -1063,8 +1066,6 @@ First there needs to be an OAI-PMH harvester. This harvests the various records 
       <li><a href="/Hugh-CV/post/olac-translations/">OLAC Translations</a>&nbsp;&nbsp;<span class="badge badge-light" style="font-size: 0.6em; vertical-align: middle;">post</span></li>
       
       <li><a href="/Hugh-CV/post/olac-roles/">OLAC Roles and MARC Relator Role Equivalents</a>&nbsp;&nbsp;<span class="badge badge-light" style="font-size: 0.6em; vertical-align: middle;">post</span></li>
-      
-      <li><a href="/Hugh-CV/post/dublin-core-theory/">Some questions on the theory presented in the Dublin Core</a>&nbsp;&nbsp;<span class="badge badge-light" style="font-size: 0.6em; vertical-align: middle;">post</span></li>
       
     </ul>
   </div>

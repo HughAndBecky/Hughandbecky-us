@@ -1445,7 +1445,7 @@ From these factors, I derive three broad categories with a total of twelve speci
       <link>https://hughandbecky.us/Hugh-CV/post/olac-infrastructure-for-multiple-audiences/</link>
       <pubDate>Tue, 18 Apr 2023 14:35:45 +0100</pubDate>
       <guid>https://hughandbecky.us/Hugh-CV/post/olac-infrastructure-for-multiple-audiences/</guid>
-      <description>&lt;p&gt;When thinking about rebuilding the OLAC infrastructure the components ought to be built to consider the functions illustrated.&lt;/p&gt;
+      <description>&lt;p&gt;When thinking about rebuilding the OLAC infrastructure the components ought to be built to consider three distinct functions: &lt;em&gt;Harvesting&lt;/em&gt;, Data clean-up or &lt;em&gt;Enhancing&lt;/em&gt;, and data &lt;em&gt;Engagement&lt;/em&gt; (viewing/browsing/exploration).&lt;/p&gt;
 &lt;p&gt;First there needs to be an OAI-PMH harvester. This harvests the various records from OAI-PMH static and dynamic repositories. This harvest needs to be persisted with an assigned DOI at regular intervals in its XML source format. The harvest represents exactly what data providers are sending to the harvester.&lt;/p&gt;
 &lt;p&gt;The harvested content then needs to flow through a metadata utility. The utility evaluates the records; assigning a quality metric to each record. The utility then has the power, via scripts, to change values and the structure of the record. These changes ought to be recorded in the OAI provenance section of the record. Changes made need to be communicated back to the data provider as well as to any viewing experience. The exact power of the utility needs to be documented with a text based narrative independent of the code base. The code should be publicly accessible and re-deployable in local environments. The code and its documentation should also be given a DOI; versioned as necessary.&lt;/p&gt;
 &lt;p&gt;The content which flows out of the utility should be persisted at the same interval that the RAW data is persisted at. It should be persisted in an XML encoding of the OLAC Metadata Application Profile (OAI-PMH ListSet format). Corrected (or enhanced) data should be made available via a dynamic OAI-PMH endpoint. Finally, a script which converts the whole dataset to JSON-LD should available for users who want to convert the data to JSON-LD (as a set).&lt;/p&gt;
@@ -1453,14 +1453,325 @@ From these factors, I derive three broad categories with a total of twelve speci
 &lt;ol&gt;
 &lt;li&gt;pages about resources can be encoded with schema.org metadata&lt;/li&gt;
 &lt;li&gt;search interfaces could leverage other open datasets or ontologies&lt;/li&gt;
-&lt;li&gt;metadata from the record could be converted to MODS and made accessible via the unAPI so that tools like Zotero can access the resource.&lt;/li&gt;
+&lt;li&gt;metadata from the record could be converted to MODS and made accessible via the unAPI so that tools like Zotero can access the bibliographic information for the resource.&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;Building the architecture in three distinct parts of the pipeline allows for modular increments to the system. This is desirable for the maintainability of the OLAC infrastructure.&lt;/p&gt;
 &lt;p&gt;Independent of theses systems are:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;any infrastructure for supporting community activities around maintaining the aggregator and metadata profile&lt;/li&gt;
-&lt;li&gt;the repository validator.&lt;/li&gt;
+&lt;li&gt;the new repository onboarding process&lt;/li&gt;
+&lt;li&gt;the repository validator — which should be locally exicutable as well as hosted on a server.&lt;/li&gt;
 &lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>OLAC Usage Data</title>
+      <link>https://hughandbecky.us/Hugh-CV/post/olac-usage-data/</link>
+      <pubDate>Fri, 14 Apr 2023 14:35:45 +0100</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/post/olac-usage-data/</guid>
+      <description>&lt;p&gt;I was recently reading 
+
+
+
+
+
+
+
+&lt;span class=&#34;hugo-cite-intext&#34;
+        itemprop=&#34;citation&#34;&gt;(&lt;a href=&#34;#wenige_retrieval_2018-1&#34;&gt;&lt;span class=&#34;visually-hidden&#34;&gt;Citation: &lt;/span&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;meta itemprop=&#34;givenName&#34; content=&#34;Lisa&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Wenige&lt;/span&gt;&lt;/span&gt;
+      &lt;em&gt;et al.&lt;/em&gt;,&amp;#32;
+      &lt;span itemprop=&#34;datePublished&#34;&gt;2018&lt;/span&gt;&lt;/a&gt;)
+    &lt;span class=&#34;hugo-cite-citation&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Wenige&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Lisa&#34; /&gt;
+    L.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Ruhland&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Johannes&#34; /&gt;
+    J.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2018&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;Retrieval by recommendation: using LOD technologies to improve digital library search&lt;/span&gt;.&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;International Journal on Digital Libraries&lt;/span&gt;,&amp;#32;19(2-3)&lt;/i&gt;.&amp;#32;&lt;span itemprop=&#34;pagination&#34;&gt;253–269&lt;/span&gt;.
+  &lt;a href=&#34;https://doi.org/10.1007/s00799-017-0224-8&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://doi.org/10.1007/s00799-017-0224-8&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/span&gt;&lt;/span&gt;
+ on recommender systems within digital libraries with an mind on OLAC and how to help OLAC website visitors to find relevant resources.&lt;/p&gt;
+&lt;p&gt;The current OLAC XSLT based interface assumes that the end-user person starts with the geographical entity as the known entity and then drills down to find a language. Then finally they can discover the known resources about the language. It uses geography as a proxy for language collection. The faceted search interface at search.language-archives.org makes a different assumption. It allows the user to start their search via unconstrained text input and then filter by something like 18 different attributes potentially found within the record. The XSLT method uses information not contained directly within the record whereas the faceted search method is limited to record context.&lt;/p&gt;
+&lt;p&gt;In 
+
+
+
+
+
+
+
+&lt;span class=&#34;hugo-cite-intext&#34;
+        itemprop=&#34;citation&#34;&gt;(&lt;a href=&#34;#bird_towards_2021&#34;&gt;&lt;span class=&#34;visually-hidden&#34;&gt;Citation: &lt;/span&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;meta itemprop=&#34;givenName&#34; content=&#34;Steven&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Bird&lt;/span&gt;&lt;/span&gt;
+      &lt;em&gt;et al.&lt;/em&gt;,&amp;#32;
+      &lt;span itemprop=&#34;datePublished&#34;&gt;2021&lt;/span&gt;&lt;/a&gt;)
+    &lt;span class=&#34;hugo-cite-citation&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/CreativeWork&#34;
+      data-type=&#34;paper-conference&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Bird&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Steven&#34; /&gt;
+    S.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Simons&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Gary F&#34; /&gt;
+    G.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2021&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;
+    &lt;i&gt;Towards an Agenda for Open Language Archiving&lt;/i&gt;&lt;/span&gt;.
+  &lt;meta itemprop=&#34;contentLocation&#34;
+        content=&#34;Denton, Texas&#34;&gt;&amp;#32;
+  &lt;span itemprop=&#34;publisher&#34; itemtype=&#34;http://schema.org/Organization&#34; itemscope=&#34;&#34;&gt;
+    &lt;span itemprop=&#34;name&#34;&gt;University of North Texas&lt;/span&gt;&lt;/span&gt;.
+  &lt;a href=&#34;https://doi.org/10.12794/langarc1851171&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://doi.org/10.12794/langarc1851171&lt;/a&gt;&lt;/span&gt;
+
+&lt;/span&gt;&lt;/span&gt;
+ 
+
+
+
+
+
+
+
+&lt;span class=&#34;hugo-cite-intext&#34;
+        itemprop=&#34;citation&#34;&gt;(&lt;a href=&#34;#bird_open_2022&#34;&gt;&lt;span class=&#34;visually-hidden&#34;&gt;Citation: &lt;/span&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;meta itemprop=&#34;givenName&#34; content=&#34;Steven&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Bird&lt;/span&gt;&lt;/span&gt;
+      &lt;em&gt;et al.&lt;/em&gt;,&amp;#32;
+      &lt;span itemprop=&#34;datePublished&#34;&gt;2022&lt;/span&gt;&lt;/a&gt;)
+    &lt;span class=&#34;hugo-cite-citation&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Bird&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Steven&#34; /&gt;
+    S.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Simons&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Gary F&#34; /&gt;
+    G.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2022&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;The Open Language Archives Community: A 20-year update&lt;/span&gt;.&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;The Electronic Library&lt;/span&gt;,&amp;#32;40(5)&lt;/i&gt;.&amp;#32;&lt;span itemprop=&#34;pagination&#34;&gt;507–524&lt;/span&gt;.
+  &lt;a href=&#34;https://doi.org/10.1108/EL-08-2022-0192&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://doi.org/10.1108/EL-08-2022-0192&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/span&gt;&lt;/span&gt;
+ it is mentioned that several thousand click throughs on the OLAC website per month. I would like to get a hold of this data:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;to verify the claim in the literature.&lt;/li&gt;
+&lt;li&gt;to determine in which types of resources people are most interested, but also the breadth of interest.&lt;/li&gt;
+&lt;li&gt;to determine which pathways through the website people are following. Where are they starting, where are they stopping. How much back and forth-do-they do? What are the popular facets?&lt;/li&gt;
+&lt;li&gt;to determine at which data providers people are ending up.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Having this data would be a first step in an investigation related to relevance negotiation behavior of end-users as they perform search tasks. This sort of knowledge should be a first order task as we think about user-interface and user-interaction design for the future of OLAC and language resource discovery.&lt;/p&gt;
+&lt;h2 id=&#34;bibliography&#34;&gt;Bibliography&lt;/h2&gt;
+
+  
+
+  
+
+
+
+
+
+
+
+
+
+
+&lt;section class=&#34;hugo-cite-bibliography&#34;&gt;
+  &lt;dl&gt;
+    
+
+      &lt;div id=&#34;bird_open_2022&#34;&gt;
+        &lt;dt&gt;
+          Bird&amp;#32;&amp;amp;&amp;#32;Simons
+
+          
+          (2022)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Bird&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Steven&#34; /&gt;
+    S.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Simons&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Gary F&#34; /&gt;
+    G.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2022&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;The Open Language Archives Community: A 20-year update&lt;/span&gt;.&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;The Electronic Library&lt;/span&gt;,&amp;#32;40(5)&lt;/i&gt;.&amp;#32;&lt;span itemprop=&#34;pagination&#34;&gt;507–524&lt;/span&gt;.
+  &lt;a href=&#34;https://doi.org/10.1108/EL-08-2022-0192&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://doi.org/10.1108/EL-08-2022-0192&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;bird_towards_2021&#34;&gt;
+        &lt;dt&gt;
+          Bird&amp;#32;&amp;amp;&amp;#32;Simons
+
+          
+          (2021)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/CreativeWork&#34;
+      data-type=&#34;paper-conference&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Bird&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Steven&#34; /&gt;
+    S.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Simons&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Gary F&#34; /&gt;
+    G.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2021&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;
+    &lt;i&gt;Towards an Agenda for Open Language Archiving&lt;/i&gt;&lt;/span&gt;.
+  &lt;meta itemprop=&#34;contentLocation&#34;
+        content=&#34;Denton, Texas&#34;&gt;&amp;#32;
+  &lt;span itemprop=&#34;publisher&#34; itemtype=&#34;http://schema.org/Organization&#34; itemscope=&#34;&#34;&gt;
+    &lt;span itemprop=&#34;name&#34;&gt;University of North Texas&lt;/span&gt;&lt;/span&gt;.
+  &lt;a href=&#34;https://doi.org/10.12794/langarc1851171&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://doi.org/10.12794/langarc1851171&lt;/a&gt;&lt;/span&gt;
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;wenige_retrieval_2018-1&#34;&gt;
+        &lt;dt&gt;
+          Wenige&amp;#32;&amp;amp;&amp;#32;Ruhland
+
+          
+          (2018)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Wenige&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Lisa&#34; /&gt;
+    L.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Ruhland&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Johannes&#34; /&gt;
+    J.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2018&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;Retrieval by recommendation: using LOD technologies to improve digital library search&lt;/span&gt;.&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;International Journal on Digital Libraries&lt;/span&gt;,&amp;#32;19(2-3)&lt;/i&gt;.&amp;#32;&lt;span itemprop=&#34;pagination&#34;&gt;253–269&lt;/span&gt;.
+  &lt;a href=&#34;https://doi.org/10.1007/s00799-017-0224-8&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://doi.org/10.1007/s00799-017-0224-8&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+  &lt;/dl&gt;
+&lt;/section&gt;
+
+
+
+&lt;!-- 
+Bird, S., &amp; Simons, G. F. (2021). Towards an Agenda for Open Language Archiving. In O. Zavalina &amp; S. L. Chelliah (Eds.), Proceedings of the International Workshop on Digital Language Archives: LangArc 2021 (pp. 25–28). University of North Texas. https://doi.org/10.12794/langarc1851171
+
+Bird, S., &amp; Simons, G. F. (2022). The Open Language Archives Community: A 20-year update. The Electronic Library, 40(5), 507–524. https://doi.org/10.1108/EL-08-2022-0192
+
+Wenige, L., &amp; Ruhland, J. (2018). Retrieval by recommendation: Using LOD technologies to improve digital library search. International Journal on Digital Libraries, 19(2–3), 253–269. https://doi.org/10.1007/s00799-017-0224-8 --&gt;
 </description>
     </item>
     
