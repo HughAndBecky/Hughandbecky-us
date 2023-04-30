@@ -218,19 +218,9 @@
 
 
 
-
-
-
-
-
-  
-
-
-
   
   
-
-
+  
 
 
 
@@ -246,29 +236,19 @@
 
 
 &lt;figure id=&#34;figure-library-records-vs-bibliographic-record&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
-
-
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/books/zotero-examples/frbr/Bibliographic-Reference_hue77177fc423b3d22f686ca1ec4b42b1a_80348_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Library Records vs. Bibliographic Record&#34;&gt;
-
 
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/books/zotero-examples/frbr/Bibliographic-Reference_hue77177fc423b3d22f686ca1ec4b42b1a_80348_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;Library Records vs. Bibliographic Record&#34; width=&#34;1210&#34; height=&#34;676&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
-
-
   
   
   &lt;figcaption&gt;
     &lt;p&gt;Library Records vs. Bibliographic Record
       
-&lt;span class=&#34;img-attribution&#34;&gt;Credit: 
-Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
         &lt;meta itemprop=&#34;name&#34; content=&#34;Hugh Paterson III&#34; /&gt;
-      &lt;/span&gt;
-&lt;/span&gt;
-&lt;/p&gt;
+      &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
   &lt;/figcaption&gt;
-
-
 &lt;/figure&gt;
 
 I find that library models, and their cascading levels of description, help me to think about the thing I am referencing. That is, am I referencing the whole conceptual &amp;ldquo;work&amp;rdquo; such as &lt;em&gt;Beethoven&amp;rsquo;s 9th symphony&lt;/em&gt;, or am I referencing a specific item (instance/manifestation) of that work (such as the performace by the Oslo Philharmonic on the 4th of January 2019), or something in between (such as the score of a particular movement within the symphony, by a particular publisher)? Understanding how the different parts are linked together can help us make sure we have all the information necessary for anyone who might seek to follow our trail.&lt;/p&gt;
@@ -278,19 +258,9 @@ I find that library models, and their cascading levels of description, help me t
 
 
 
-
-
-
-
-
-  
-
-
-
   
   
-
-
+  
 
 
 
@@ -306,29 +276,19 @@ I find that library models, and their cascading levels of description, help me t
 
 
 &lt;figure id=&#34;figure-functional-requirements-for-bibliographic-records-model-of-class-1-entities&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
-
-
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/books/zotero-examples/frbr/FRBR-Model_hu7651d6a7549042a096c3f80a1ff76522_41901_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Functional Requirements for Bibliographic Records model of class 1 entities&#34;&gt;
-
 
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/books/zotero-examples/frbr/FRBR-Model_hu7651d6a7549042a096c3f80a1ff76522_41901_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;Simplified FRBR model.&#34; width=&#34;813&#34; height=&#34;376&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
-
-
   
   
   &lt;figcaption&gt;
     &lt;p&gt;Functional Requirements for Bibliographic Records model of class 1 entities
       
-&lt;span class=&#34;img-attribution&#34;&gt;Credit: 
-Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
         &lt;meta itemprop=&#34;name&#34; content=&#34;Hugh Paterson III&#34; /&gt;
-      &lt;/span&gt;
-&lt;/span&gt;
-&lt;/p&gt;
+      &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
   &lt;/figcaption&gt;
-
-
 &lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;As a fairly straight forward model FRBR, has the power to force users of the model to ask questions like: &amp;ldquo;am I dealing with two expressions of the same work&amp;rdquo;, or &amp;ldquo;am I dealing with two manifestations of the same expression&amp;rdquo;, or even &amp;ldquo;am I dealing with two different works&amp;rdquo;?&lt;/p&gt;
@@ -337,19 +297,9 @@ Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schem
 
 
 
-
-
-
-
-
-  
-
-
-
   
   
-
-
+  
 
 
 
@@ -365,29 +315,19 @@ Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schem
 
 
 &lt;figure id=&#34;figure-frbr-applied-to-the-typical-academic-output&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
-
-
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/books/zotero-examples/frbr/Academic-Example-FRBR_hu21b553853a83effed8691c447de8751c_62979_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;FRBR applied to the typical academic output&#34;&gt;
-
 
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/books/zotero-examples/frbr/Academic-Example-FRBR_hu21b553853a83effed8691c447de8751c_62979_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;FRBR applied to the typical academic output&#34; width=&#34;1684&#34; height=&#34;1046&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
-
-
   
   
   &lt;figcaption&gt;
     &lt;p&gt;FRBR applied to the typical academic output
       
-&lt;span class=&#34;img-attribution&#34;&gt;Credit: 
-replicated from another source by Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: replicated from another source by Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
         &lt;meta itemprop=&#34;name&#34; content=&#34;replicated from another source by Hugh Paterson III&#34; /&gt;
-      &lt;/span&gt;
-&lt;/span&gt;
-&lt;/p&gt;
+      &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
   &lt;/figcaption&gt;
-
-
 &lt;/figure&gt;
 &lt;/p&gt;
 &lt;h2 id=&#34;how-do-manuals-of-style-requirements-map-to-frbr-concepts&#34;&gt;How do &amp;lsquo;Manuals of Style&amp;rsquo; requirements map to FRBR concepts?&lt;/h2&gt;
@@ -483,39 +423,19 @@ original-title*	[standard] title of the original version (e.g. “Война и 
 
 
 
-
-
-
-
-
-
-
-
-
 &lt;figure id=&#34;figure-a-blank-zotero-record-in-zotero-version-50962&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
-
-
   &lt;a data-fancybox=&#34;&#34; href=&#34;../ZoteroUI.png&#34; data-caption=&#34;A blank Zotero record in Zotero version 5.0.96.2.&#34;&gt;
-
-
-  &lt;img src=&#34;../ZoteroUI.png&#34; alt=&#34;A blank Zotero record in Zotero version 5.0.96.2.&#34;   itemprop=&#34;contentUrl&#34;&gt;
+&lt;img src=&#34;../ZoteroUI.png&#34; alt=&#34;A blank Zotero record in Zotero version 5.0.96.2.&#34;   itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
-
-
   
   
   &lt;figcaption&gt;
     &lt;p&gt;A blank Zotero record in Zotero version 5.0.96.2.
       
-&lt;span class=&#34;img-attribution&#34;&gt;Credit: 
-Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
         &lt;meta itemprop=&#34;name&#34; content=&#34;Hugh Paterson III&#34; /&gt;
-      &lt;/span&gt;
-&lt;/span&gt;
-&lt;/p&gt;
+      &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
   &lt;/figcaption&gt;
-
-
 &lt;/figure&gt;
 
 &lt;h2 id=&#34;zotero-fields&#34;&gt;Zotero Fields&lt;/h2&gt;
@@ -647,19 +567,9 @@ Original Author	Original Author	A type of Creator. The original creator of a wor
 
 
 
-
-
-
-
-
-  
-
-
-
   
   
-
-
+  
 
 
 
@@ -675,29 +585,19 @@ Original Author	Original Author	A type of Creator. The original creator of a wor
 
 
 &lt;figure id=&#34;figure-zotero-record-for-an-archived-webpage&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
-
-
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/books/zotero-examples/website/archived-webpage_hueb663bcda4f7ad5b407fcc992b2f2e21_53354_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Zotero record for an archived webpage.&#34;&gt;
-
 
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/books/zotero-examples/website/archived-webpage_hueb663bcda4f7ad5b407fcc992b2f2e21_53354_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;Zotero record for an archived webpage.&#34; width=&#34;649&#34; height=&#34;451&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
-
-
   
   
   &lt;figcaption&gt;
     &lt;p&gt;Zotero record for an archived webpage.
       
-&lt;span class=&#34;img-attribution&#34;&gt;Credit: 
-Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
         &lt;meta itemprop=&#34;name&#34; content=&#34;Hugh Paterson III&#34; /&gt;
-      &lt;/span&gt;
-&lt;/span&gt;
-&lt;/p&gt;
+      &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
   &lt;/figcaption&gt;
-
-
 &lt;/figure&gt;
 
 &lt;h2 id=&#34;the-need-for-referencing-archived-web-pages&#34;&gt;The Need for Referencing Archived Web Pages&lt;/h2&gt;
@@ -1247,19 +1147,9 @@ Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schem
 
 
 
-
-
-
-
-
-  
-
-
-
   
   
-
-
+  
 
 
 
@@ -1275,29 +1165,19 @@ Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schem
 
 
 &lt;figure id=&#34;figure-zoteros-extra-field-with-a-doi-in-it&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
-
-
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/books/zotero-examples/zotero-extra-field/Extra-Field-arrow_hu9a3afedf59797a38106daa6b14380e9f_66299_2000x2000_fit_q90_lanczos.jpeg&#34; data-caption=&#34;Zotero&amp;amp;rsquo;s Extra Field with a DOI in it.&#34;&gt;
-
 
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/books/zotero-examples/zotero-extra-field/Extra-Field-arrow_hu9a3afedf59797a38106daa6b14380e9f_66299_2000x2000_fit_q90_lanczos.jpeg&#34; class=&#34;lazyload&#34; alt=&#34;Zotero&amp;#39;s Extra Field with a DOI in it.&#34; width=&#34;578&#34; height=&#34;653&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
-
-
   
   
   &lt;figcaption&gt;
     &lt;p&gt;Zotero&amp;rsquo;s Extra Field with a DOI in it.
       
-&lt;span class=&#34;img-attribution&#34;&gt;Credit: 
-Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
         &lt;meta itemprop=&#34;name&#34; content=&#34;Hugh Paterson III&#34; /&gt;
-      &lt;/span&gt;
-&lt;/span&gt;
-&lt;/p&gt;
+      &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
   &lt;/figcaption&gt;
-
-
 &lt;/figure&gt;
 &lt;/p&gt;
 &lt;h2 id=&#34;adding-csl-types-and-variables&#34;&gt;Adding CSL Types and Variables&lt;/h2&gt;
@@ -1308,19 +1188,9 @@ Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schem
 
 
 
-
-
-
-
-
-  
-
-
-
   
   
-
-
+  
 
 
 
@@ -1336,48 +1206,28 @@ Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schem
 
 
 &lt;figure id=&#34;figure-zoteros-extra-field-can-get-larger-if-given-more-space--making-writing-in-it-easier&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
-
-
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/books/zotero-examples/zotero-extra-field/Zotero-Extra_hue9d81b3b1cb67c031c98ef29bbd8ae11_10805_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Zotero&amp;amp;rsquo;s Extra Field can get larger if given more space — making writing in it easier.&#34;&gt;
-
 
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/books/zotero-examples/zotero-extra-field/Zotero-Extra_hue9d81b3b1cb67c031c98ef29bbd8ae11_10805_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;Zotero&amp;#39;s Extra Field can get larger if given more space — making writing in it easier.&#34; width=&#34;542&#34; height=&#34;246&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
-
-
   
   
   &lt;figcaption&gt;
     &lt;p&gt;Zotero&amp;rsquo;s Extra Field can get larger if given more space — making writing in it easier.
       
-&lt;span class=&#34;img-attribution&#34;&gt;Credit: 
-Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
         &lt;meta itemprop=&#34;name&#34; content=&#34;Hugh Paterson III&#34; /&gt;
-      &lt;/span&gt;
-&lt;/span&gt;
-&lt;/p&gt;
+      &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
   &lt;/figcaption&gt;
-
-
 &lt;/figure&gt;
 
 &lt;p&gt;While the exact combination of the values added to the Extra field are likely never to be used, the following image illustrates that several CSL values can be added to Zotero&amp;rsquo;s Extra field.&amp;rdquo;
 
 
 
-
-
-
-
-
-  
-
-
-
   
   
-
-
+  
 
 
 
@@ -1393,29 +1243,19 @@ Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schem
 
 
 &lt;figure id=&#34;figure-several-csl-values-can-be-added-to-the-extra-field&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
-
-
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/books/zotero-examples/zotero-extra-field/Multi-Extra_hu21560cc55beb2bc988e08ce97d9bad0e_8967_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Several CSL values can be added to the Extra field.&#34;&gt;
-
 
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/books/zotero-examples/zotero-extra-field/Multi-Extra_hu21560cc55beb2bc988e08ce97d9bad0e_8967_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;Several CSL values can be added to the Extra field.&#34; width=&#34;541&#34; height=&#34;113&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
-
-
   
   
   &lt;figcaption&gt;
     &lt;p&gt;Several CSL values can be added to the Extra field.
       
-&lt;span class=&#34;img-attribution&#34;&gt;Credit: 
-Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
         &lt;meta itemprop=&#34;name&#34; content=&#34;Hugh Paterson III&#34; /&gt;
-      &lt;/span&gt;
-&lt;/span&gt;
-&lt;/p&gt;
+      &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
   &lt;/figcaption&gt;
-
-
 &lt;/figure&gt;
 &lt;/p&gt;
 &lt;h2 id=&#34;custom-types-and-fields&#34;&gt;Custom Types and Fields&lt;/h2&gt;
@@ -1438,19 +1278,9 @@ Zotero has lots of fields. These are available via different item templates whic
 
 
 
-
-
-
-
-
-  
-
-
-
   
   
-
-
+  
 
 
 
@@ -1466,29 +1296,19 @@ Zotero has lots of fields. These are available via different item templates whic
 
 
 &lt;figure id=&#34;figure-item-type-_book_-indicated-with-arrow-and-other-fields-indicated-in-rectangle&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
-
-
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/books/zotero-examples/zotero-fields/Zotero-UI_hud9d81d7797f18d04e9a26fa00cf24445_43790_2000x2000_fit_q90_lanczos.jpeg&#34; data-caption=&#34;Item type &amp;lt;em&amp;gt;book&amp;lt;/em&amp;gt; indicated with arrow and other fields indicated in rectangle.&#34;&gt;
-
 
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/books/zotero-examples/zotero-fields/Zotero-UI_hud9d81d7797f18d04e9a26fa00cf24445_43790_2000x2000_fit_q90_lanczos.jpeg&#34; class=&#34;lazyload&#34; alt=&#34;Item type _book_ indicated with arrow and other fields indicated in rectangle.&#34; width=&#34;563&#34; height=&#34;643&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
-
-
   
   
   &lt;figcaption&gt;
     &lt;p&gt;Item type &lt;em&gt;book&lt;/em&gt; indicated with arrow and other fields indicated in rectangle.
       
-&lt;span class=&#34;img-attribution&#34;&gt;Credit: 
-Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
         &lt;meta itemprop=&#34;name&#34; content=&#34;Hugh Paterson III&#34; /&gt;
-      &lt;/span&gt;
-&lt;/span&gt;
-&lt;/p&gt;
+      &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
   &lt;/figcaption&gt;
-
-
 &lt;/figure&gt;
 
 &lt;h2 id=&#34;zotero-item-types1&#34;&gt;Zotero Item Types&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/h2&gt;

@@ -88,19 +88,9 @@
 
 
 
-
-
-
-
-
-  
-
-
-
   
   
-
-
+  
 
 
 
@@ -116,29 +106,19 @@
 
 
 &lt;figure id=&#34;figure-a-picture-made-of-words--reinhard-döhl-apfel-1965-note-that-arabic-art-also-contains-many-images-constructed-of-text&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
-
-
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/dublin-core-dcmitype/DohlApfel_hud551a789fbb81b0c92f5be46b382cf02_35956_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;A picture made of words.  Reinhard Döhl, “Apfel” (1965). Note that Arabic art also contains many images constructed of text.&#34;&gt;
-
 
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/dublin-core-dcmitype/DohlApfel_hud551a789fbb81b0c92f5be46b382cf02_35956_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34; Reinhard Döhl, “Apfel” (1965)&#34; width=&#34;270&#34; height=&#34;250&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
-
-
   
   
   &lt;figcaption&gt;
     &lt;p&gt;A picture made of words.  Reinhard Döhl, “Apfel” (1965). Note that Arabic art also contains many images constructed of text.
       
-&lt;span class=&#34;img-attribution&#34;&gt;Credit: 
-Reinhard Döhl&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: Reinhard Döhl&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
         &lt;meta itemprop=&#34;name&#34; content=&#34;Reinhard Döhl&#34; /&gt;
-      &lt;/span&gt;
-&lt;/span&gt;
-&lt;/p&gt;
+      &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
   &lt;/figcaption&gt;
-
-
 &lt;/figure&gt;
 
 &lt;p&gt;If we follow the 1-to-1 principle in Dublin Core then only one qualified DCMIType should be applied to any specific record. So which one? I have created the following flowchart to guide a person through the process of selecting the most appropriate DCMIType term. Clicking the diagram opens it up within the mermaid editor where the text can be more easily read.&lt;/p&gt;
@@ -160,19 +140,9 @@ Comment: A collection is described as a group; its parts may also be separately 
 
 
 
-
-
-
-
-
-  
-
-
-
   
   
-
-
+  
 
 
 
@@ -188,29 +158,19 @@ Comment: A collection is described as a group; its parts may also be separately 
 
 
 &lt;figure id=&#34;figure-glottolog-46-resources-for-hills-karbi-in-the-olac-search-interface&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
-
-
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/dublin-core-dcmitype/glotologrecords_hu259362def301c4a7d53fb0b3d91e2e70_59487_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Glottolog 4.6 Resources for Hills Karbi in the OLAC Search Interface&#34;&gt;
-
 
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/dublin-core-dcmitype/glotologrecords_hu259362def301c4a7d53fb0b3d91e2e70_59487_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;Glottolog 4.6 Resources for Hills Karbi&#34; width=&#34;954&#34; height=&#34;459&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
-
-
   
   
   &lt;figcaption&gt;
     &lt;p&gt;Glottolog 4.6 Resources for Hills Karbi in the OLAC Search Interface
       
-&lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;http://dla.library.upenn.edu/dla/olac/record.html?id=glottolog_org_karb1241&#34;&gt; 
-OLAC Search&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;http://dla.library.upenn.edu/dla/olac/record.html?id=glottolog_org_karb1241&#34;&gt; OLAC Search&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
         &lt;meta itemprop=&#34;name&#34; content=&#34;OLAC Search&#34; /&gt;
-      &lt;/span&gt;
-&lt;/a&gt; &lt;/span&gt;
-&lt;/p&gt;
+      &lt;/span&gt;&lt;/a&gt; &lt;/span&gt;&lt;/p&gt;
   &lt;/figcaption&gt;
-
-
 &lt;/figure&gt;
 
 &lt;p&gt;There is also the remaining question, is the Glottolog page actually an &lt;em&gt;Interactive Resource&lt;/em&gt;, which pulls a &lt;em&gt;Dataset&lt;/em&gt;?&lt;/p&gt;

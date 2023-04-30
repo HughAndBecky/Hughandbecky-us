@@ -49,19 +49,9 @@
 
 
 
-
-
-
-
-
-  
-
-
-
   
   
-
-
+  
 
 
 
@@ -77,29 +67,19 @@
 
 
 &lt;figure id=&#34;figure-notice-of-nsf-grant-award&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
-
-
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/olac-grant-aggregator/NSF-Grant_hue2c2cdacdb65db441481dd609fada4c1_318924_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Notice of NSF Grant award&#34;&gt;
-
 
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/olac-grant-aggregator/NSF-Grant_hue2c2cdacdb65db441481dd609fada4c1_318924_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;Notice of NSF Grant award&#34; width=&#34;1436&#34; height=&#34;881&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
-
-
   
   
   &lt;figcaption&gt;
     &lt;p&gt;Notice of NSF Grant award
       
-&lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=0966411&amp;amp;WT.z_pims_id=12816&#34;&gt; 
-NSF&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=0966411&amp;amp;WT.z_pims_id=12816&#34;&gt; NSF&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
         &lt;meta itemprop=&#34;name&#34; content=&#34;NSF&#34; /&gt;
-      &lt;/span&gt;
-&lt;/a&gt; &lt;/span&gt;
-&lt;/p&gt;
+      &lt;/span&gt;&lt;/a&gt; &lt;/span&gt;&lt;/p&gt;
   &lt;/figcaption&gt;
-
-
 &lt;/figure&gt;
 
 &lt;p&gt;I was particularly happy to find that NSF does have a &lt;em&gt;grant offering&lt;/em&gt; and &lt;em&gt;grant awarded&lt;/em&gt; 
@@ -166,19 +146,9 @@ I am not sure how this is done exactly… but here is the link: &lt;a href=&#34;
 &lt;em&gt;I think you can do this in the interface. Though it was not obvious on how to do it&lt;/em&gt;. 
 
 
-
-
-
-
-
-  
-
-
-
   
   
-
-
+  
 
 
 
@@ -194,29 +164,19 @@ I am not sure how this is done exactly… but here is the link: &lt;a href=&#34;
 
 
 &lt;figure id=&#34;figure-endnote-display-fields&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
-
-
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/using-endnote-x4-for-mac/Endnote_Display_Fields_hu6175e2e8318e865aaff9b1ae3a8c3023_108510_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Endnote Display Fields.&#34;&gt;
-
 
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/using-endnote-x4-for-mac/Endnote_Display_Fields_hu6175e2e8318e865aaff9b1ae3a8c3023_108510_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;Endnote Display Fields&#34; width=&#34;724&#34; height=&#34;466&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
-
-
   
   
   &lt;figcaption&gt;
     &lt;p&gt;Endnote Display Fields.
       
-&lt;span class=&#34;img-attribution&#34;&gt;Credit: 
-Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
         &lt;meta itemprop=&#34;name&#34; content=&#34;Hugh Paterson III&#34; /&gt;
-      &lt;/span&gt;
-&lt;/span&gt;
-&lt;/p&gt;
+      &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
   &lt;/figcaption&gt;
-
-
 &lt;/figure&gt;
 &lt;/p&gt;
 &lt;/li&gt;
@@ -245,19 +205,9 @@ Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schem
 &lt;em&gt;I have Volume and Issue Data. Some of the citation data pulled in for some items has the issue set as 02, 03, etc. I want to be able to find all the issues which start with a zero so I can remove the zeros. Most stylesheets do not remove the zeros and also do not allow for them&lt;/em&gt;. 
 
 
-
-
-
-
-
-  
-
-
-
   
   
-
-
+  
 
 
 
@@ -273,29 +223,19 @@ Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schem
 
 
 &lt;figure id=&#34;figure-items-are-not-selectable-based-on-issue-data&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
-
-
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/using-endnote-x4-for-mac/Issue_data_hu6175e2e8318e865aaff9b1ae3a8c3023_170476_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Items are not selectable based on Issue Data.&#34;&gt;
-
 
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/using-endnote-x4-for-mac/Issue_data_hu6175e2e8318e865aaff9b1ae3a8c3023_170476_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;Items are not selectable based on Issue Data&#34; width=&#34;748&#34; height=&#34;900&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
-
-
   
   
   &lt;figcaption&gt;
     &lt;p&gt;Items are not selectable based on Issue Data.
       
-&lt;span class=&#34;img-attribution&#34;&gt;Credit: 
-Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
         &lt;meta itemprop=&#34;name&#34; content=&#34;Hugh Paterson III&#34; /&gt;
-      &lt;/span&gt;
-&lt;/span&gt;
-&lt;/p&gt;
+      &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
   &lt;/figcaption&gt;
-
-
 &lt;/figure&gt;
 &lt;/p&gt;
 &lt;/li&gt;
@@ -306,19 +246,9 @@ Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schem
 &lt;p&gt;Can not open the folder which contains a PDF included in an Endnote Library. 
 
 
-
-
-
-
-
-  
-
-
-
   
   
-
-
+  
 
 
 
@@ -334,29 +264,19 @@ Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schem
 
 
 &lt;figure id=&#34;figure-endnote-does-not-have-a-way-to-open-the-containing-folder-of-a-pdf&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
-
-
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/using-endnote-x4-for-mac/_hu6175e2e8318e865aaff9b1ae3a8c3023_309625_77c2b327ef372c8dec87fdc16cb9099e.jpg&#34; data-caption=&#34;Endnote does not have a way to open the containing folder of a PDF.&#34;&gt;
-
 
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/using-endnote-x4-for-mac/_hu6175e2e8318e865aaff9b1ae3a8c3023_309625_77c2b327ef372c8dec87fdc16cb9099e.jpg&#34; class=&#34;lazyload&#34; alt=&#34;Endnote does not have a way to open the containing folder of a PDF&#34; width=&#34;1440&#34; height=&#34;900&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
-
-
   
   
   &lt;figcaption&gt;
     &lt;p&gt;Endnote does not have a way to open the containing folder of a PDF.
       
-&lt;span class=&#34;img-attribution&#34;&gt;Credit: 
-Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
         &lt;meta itemprop=&#34;name&#34; content=&#34;Hugh Paterson III&#34; /&gt;
-      &lt;/span&gt;
-&lt;/span&gt;
-&lt;/p&gt;
+      &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
   &lt;/figcaption&gt;
-
-
 &lt;/figure&gt;
 &lt;/p&gt;
 &lt;/li&gt;
@@ -364,19 +284,9 @@ Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schem
 
 
 
-
-
-
-
-
-  
-
-
-
   
   
-
-
+  
 
 
 
@@ -392,29 +302,19 @@ Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schem
 
 
 &lt;figure id=&#34;figure-endnote-does-not-have-a-way-to-open-the-containing-folder-of-an-included-pdf&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
-
-
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/using-endnote-x4-for-mac/_hu6175e2e8318e865aaff9b1ae3a8c3023_44705_d588c9cd8c507a3a0886c75d1395a4e2.jpg&#34; data-caption=&#34;Endnote does not have a way to open the containing folder of an included PDF.&#34;&gt;
-
 
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/using-endnote-x4-for-mac/_hu6175e2e8318e865aaff9b1ae3a8c3023_44705_d588c9cd8c507a3a0886c75d1395a4e2.jpg&#34; class=&#34;lazyload&#34; alt=&#34;Endnote does not have a way to open the containing folder of an included PDF&#34; width=&#34;495&#34; height=&#34;360&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
-
-
   
   
   &lt;figcaption&gt;
     &lt;p&gt;Endnote does not have a way to open the containing folder of an included PDF.
       
-&lt;span class=&#34;img-attribution&#34;&gt;Credit: 
-Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
         &lt;meta itemprop=&#34;name&#34; content=&#34;Hugh Paterson III&#34; /&gt;
-      &lt;/span&gt;
-&lt;/span&gt;
-&lt;/p&gt;
+      &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
   &lt;/figcaption&gt;
-
-
 &lt;/figure&gt;
 
 &lt;ol start=&#34;11&#34;&gt;
@@ -440,19 +340,9 @@ This is in the Help Menus I was expecting it on the producers website or in a bo
 i.e. I want to create a smart group of all the references with a PDF attached but I only want it to pull from the items in a particular group (or set of groups). 
 
 
-
-
-
-
-
-  
-
-
-
   
   
-
-
+  
 
 
 
@@ -468,29 +358,19 @@ i.e. I want to create a smart group of all the references with a PDF attached bu
 
 
 &lt;figure id=&#34;figure-endnote-has-no-option-for-part-of-group-filter&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
-
-
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/using-endnote-x4-for-mac/Endnote_no_option_for_part_of_group_filter_hu6175e2e8318e865aaff9b1ae3a8c3023_255471_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Endnote has no option for &amp;#39;part of group&amp;#39; filter.&#34;&gt;
-
 
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/using-endnote-x4-for-mac/Endnote_no_option_for_part_of_group_filter_hu6175e2e8318e865aaff9b1ae3a8c3023_255471_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;Endnote has no option for \&amp;#39;part of group\&amp;#39; filter&#34; width=&#34;1440&#34; height=&#34;900&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
-
-
   
   
   &lt;figcaption&gt;
     &lt;p&gt;Endnote has no option for &#39;part of group&#39; filter.
       
-&lt;span class=&#34;img-attribution&#34;&gt;Credit: 
-Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
         &lt;meta itemprop=&#34;name&#34; content=&#34;Hugh Paterson III&#34; /&gt;
-      &lt;/span&gt;
-&lt;/span&gt;
-&lt;/p&gt;
+      &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
   &lt;/figcaption&gt;
-
-
 &lt;/figure&gt;
 &lt;/p&gt;
 &lt;/li&gt;
@@ -498,19 +378,9 @@ Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schem
 &lt;p&gt;There is no PDF Preview within the application. The existing Preview is for seeing the current citation in the selected citation style. (Preview of the output.) It would be helpful if there was also a preview pane for viewing the PDF or the attached file. 
 
 
-
-
-
-
-
-  
-
-
-
   
   
-
-
+  
 
 
 
@@ -526,29 +396,19 @@ Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schem
 
 
 &lt;figure id=&#34;figure-no-pdf-preview-internal-to-endnote&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
-
-
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/using-endnote-x4-for-mac/No_PDF_Preview_internal_to_Endnote_hu6175e2e8318e865aaff9b1ae3a8c3023_245019_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;No PDF Preview internal to Endnote.&#34;&gt;
-
 
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/using-endnote-x4-for-mac/No_PDF_Preview_internal_to_Endnote_hu6175e2e8318e865aaff9b1ae3a8c3023_245019_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;No PDF Preview internal to Endnote&#34; width=&#34;1290&#34; height=&#34;877&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
-
-
   
   
   &lt;figcaption&gt;
     &lt;p&gt;No PDF Preview internal to Endnote.
       
-&lt;span class=&#34;img-attribution&#34;&gt;Credit: 
-Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
         &lt;meta itemprop=&#34;name&#34; content=&#34;Hugh Paterson III&#34; /&gt;
-      &lt;/span&gt;
-&lt;/span&gt;
-&lt;/p&gt;
+      &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
   &lt;/figcaption&gt;
-
-
 &lt;/figure&gt;
 &lt;/p&gt;
 &lt;/li&gt;

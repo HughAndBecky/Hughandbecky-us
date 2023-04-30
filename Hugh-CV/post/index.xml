@@ -356,19 +356,9 @@ Wenige, L., &amp; Ruhland, J. (2018). Retrieval by recommendation: Using LOD tec
 
 
 
-
-
-
-
-
-  
-
-
-
   
   
-
-
+  
 
 
 
@@ -384,29 +374,19 @@ Wenige, L., &amp; Ruhland, J. (2018). Retrieval by recommendation: Using LOD tec
 
 
 &lt;figure id=&#34;figure-crubadan-record-for-karbi-hills-karbi-in-the-olac-interface&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
-
-
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/crubadan-olac-records/_hub4fb0a3d5618c54546bd65640ee26d82_241537_3781aedb7029e4d23bef189367664de8.png&#34; data-caption=&#34;Crubadan record for Karbi (Hills Karbi) in the OLAC Interface&#34;&gt;
-
 
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/crubadan-olac-records/_hub4fb0a3d5618c54546bd65640ee26d82_241537_3781aedb7029e4d23bef189367664de8.png&#34; class=&#34;lazyload&#34; alt=&#34;Screen shot of the OLAC Interface&#34; width=&#34;1920&#34; height=&#34;1189&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
-
-
   
   
   &lt;figcaption&gt;
     &lt;p&gt;Crubadan record for Karbi (Hills Karbi) in the OLAC Interface
       
-&lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;http://www.language-archives.org/item/oai:crubadan.org:mjw&#34;&gt; 
-OLAC Interface&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;http://www.language-archives.org/item/oai:crubadan.org:mjw&#34;&gt; OLAC Interface&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
         &lt;meta itemprop=&#34;name&#34; content=&#34;OLAC Interface&#34; /&gt;
-      &lt;/span&gt;
-&lt;/a&gt; &lt;/span&gt;
-&lt;/p&gt;
+      &lt;/span&gt;&lt;/a&gt; &lt;/span&gt;&lt;/p&gt;
   &lt;/figcaption&gt;
-
-
 &lt;/figure&gt;
 
 &lt;ol&gt;
@@ -1360,19 +1340,9 @@ Note: I am working from the OAI-PMH framework and looking at record cohesion/rec
 
 
 
-
-
-
-
-
-  
-
-
-
   
   
-
-
+  
 
 
 
@@ -1388,48 +1358,28 @@ Note: I am working from the OAI-PMH framework and looking at record cohesion/rec
 
 
 &lt;figure id=&#34;figure-audio-transcriptions-illustrated-with-their-dublin-core-relationships&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
-
-
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/dublin-core-dcmitype-physicalobject/transcription_hu4a128525df4cc7f09f7356396c758cc6_119881_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Audio transcriptions illustrated with their Dublin Core relationships.&#34;&gt;
-
 
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/dublin-core-dcmitype-physicalobject/transcription_hu4a128525df4cc7f09f7356396c758cc6_119881_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;A diagram indicating the relationships between language resources.&#34; width=&#34;1013&#34; height=&#34;601&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
-
-
   
   
   &lt;figcaption&gt;
     &lt;p&gt;Audio transcriptions illustrated with their Dublin Core relationships.
       
-&lt;span class=&#34;img-attribution&#34;&gt;Credit: 
-Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
         &lt;meta itemprop=&#34;name&#34; content=&#34;Hugh Paterson III&#34; /&gt;
-      &lt;/span&gt;
-&lt;/span&gt;
-&lt;/p&gt;
+      &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
   &lt;/figcaption&gt;
-
-
 &lt;/figure&gt;
 
 &lt;p&gt;Now this diagram can be extended to include the physical objects used to create the primary orginal audio file.
 
 
 
-
-
-
-
-
-  
-
-
-
   
   
-
-
+  
 
 
 
@@ -1445,29 +1395,19 @@ Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schem
 
 
 &lt;figure id=&#34;figure-microphones-and-recorders-illustrated-with-their-dublin-core-relationships&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
-
-
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/dublin-core-dcmitype-physicalobject/Microphone_hu718801aa1d8a67b92ff4aaf14b1c5da4_146248_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Microphones and recorders illustrated with their Dublin Core relationships.&#34;&gt;
-
 
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/dublin-core-dcmitype-physicalobject/Microphone_hu718801aa1d8a67b92ff4aaf14b1c5da4_146248_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;A diagram indicating the relationships between language resources.&#34; width=&#34;1477&#34; height=&#34;976&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
-
-
   
   
   &lt;figcaption&gt;
     &lt;p&gt;Microphones and recorders illustrated with their Dublin Core relationships.
       
-&lt;span class=&#34;img-attribution&#34;&gt;Credit: 
-Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
         &lt;meta itemprop=&#34;name&#34; content=&#34;Hugh Paterson III&#34; /&gt;
-      &lt;/span&gt;
-&lt;/span&gt;
-&lt;/p&gt;
+      &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
   &lt;/figcaption&gt;
-
-
 &lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;The relationship between the manifestation record and the record for the physical objects can be expressed through the Dublin Core element &lt;code&gt;Source&lt;/code&gt; which is a special type of relationship.&lt;/p&gt;
@@ -2645,19 +2585,9 @@ Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schem
 
 
 
-
-
-
-
-
-  
-
-
-
   
   
-
-
+  
 
 
 
@@ -2673,29 +2603,19 @@ Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schem
 
 
 &lt;figure id=&#34;figure-paradisec-record-for-frog-story-in-the-olac-interface&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
-
-
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/paradisec-olac-records-and-rights/featured_huc0fc9ad1f1cbebce936878f6092d95b6_196944_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;PARADISEC record for Frog story in the OLAC Interface&#34;&gt;
-
 
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/paradisec-olac-records-and-rights/featured_huc0fc9ad1f1cbebce936878f6092d95b6_196944_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;Screen shot of the OLAC Interface&#34; width=&#34;928&#34; height=&#34;864&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
-
-
   
   
   &lt;figcaption&gt;
     &lt;p&gt;PARADISEC record for Frog story in the OLAC Interface
       
-&lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;http://www.language-archives.org/item/oai:paradisec.org.au:GK1-FM15_61_2c&#34;&gt; 
-OLAC Interface&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;http://www.language-archives.org/item/oai:paradisec.org.au:GK1-FM15_61_2c&#34;&gt; OLAC Interface&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
         &lt;meta itemprop=&#34;name&#34; content=&#34;OLAC Interface&#34; /&gt;
-      &lt;/span&gt;
-&lt;/a&gt; &lt;/span&gt;
-&lt;/p&gt;
+      &lt;/span&gt;&lt;/a&gt; &lt;/span&gt;&lt;/p&gt;
   &lt;/figcaption&gt;
-
-
 &lt;/figure&gt;
 
 &lt;p&gt;The following XML record replicated below is from OLAC. It is retrievable 
@@ -2914,19 +2834,9 @@ OLAC Interface&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.o
 
 
 
-
-
-
-
-
-  
-
-
-
   
   
-
-
+  
 
 
 
@@ -2942,29 +2852,19 @@ OLAC Interface&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.o
 
 
 &lt;figure id=&#34;figure-a-picture-made-of-words--reinhard-döhl-apfel-1965-note-that-arabic-art-also-contains-many-images-constructed-of-text&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
-
-
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/dublin-core-dcmitype/DohlApfel_hud551a789fbb81b0c92f5be46b382cf02_35956_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;A picture made of words.  Reinhard Döhl, “Apfel” (1965). Note that Arabic art also contains many images constructed of text.&#34;&gt;
-
 
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/dublin-core-dcmitype/DohlApfel_hud551a789fbb81b0c92f5be46b382cf02_35956_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34; Reinhard Döhl, “Apfel” (1965)&#34; width=&#34;270&#34; height=&#34;250&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
-
-
   
   
   &lt;figcaption&gt;
     &lt;p&gt;A picture made of words.  Reinhard Döhl, “Apfel” (1965). Note that Arabic art also contains many images constructed of text.
       
-&lt;span class=&#34;img-attribution&#34;&gt;Credit: 
-Reinhard Döhl&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: Reinhard Döhl&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
         &lt;meta itemprop=&#34;name&#34; content=&#34;Reinhard Döhl&#34; /&gt;
-      &lt;/span&gt;
-&lt;/span&gt;
-&lt;/p&gt;
+      &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
   &lt;/figcaption&gt;
-
-
 &lt;/figure&gt;
 
 &lt;p&gt;If we follow the 1-to-1 principle in Dublin Core then only one qualified DCMIType should be applied to any specific record. So which one? I have created the following flowchart to guide a person through the process of selecting the most appropriate DCMIType term. Clicking the diagram opens it up within the mermaid editor where the text can be more easily read.&lt;/p&gt;
@@ -2986,19 +2886,9 @@ Comment: A collection is described as a group; its parts may also be separately 
 
 
 
-
-
-
-
-
-  
-
-
-
   
   
-
-
+  
 
 
 
@@ -3014,29 +2904,19 @@ Comment: A collection is described as a group; its parts may also be separately 
 
 
 &lt;figure id=&#34;figure-glottolog-46-resources-for-hills-karbi-in-the-olac-search-interface&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
-
-
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/dublin-core-dcmitype/glotologrecords_hu259362def301c4a7d53fb0b3d91e2e70_59487_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Glottolog 4.6 Resources for Hills Karbi in the OLAC Search Interface&#34;&gt;
-
 
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/dublin-core-dcmitype/glotologrecords_hu259362def301c4a7d53fb0b3d91e2e70_59487_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;Glottolog 4.6 Resources for Hills Karbi&#34; width=&#34;954&#34; height=&#34;459&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
-
-
   
   
   &lt;figcaption&gt;
     &lt;p&gt;Glottolog 4.6 Resources for Hills Karbi in the OLAC Search Interface
       
-&lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;http://dla.library.upenn.edu/dla/olac/record.html?id=glottolog_org_karb1241&#34;&gt; 
-OLAC Search&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;http://dla.library.upenn.edu/dla/olac/record.html?id=glottolog_org_karb1241&#34;&gt; OLAC Search&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
         &lt;meta itemprop=&#34;name&#34; content=&#34;OLAC Search&#34; /&gt;
-      &lt;/span&gt;
-&lt;/a&gt; &lt;/span&gt;
-&lt;/p&gt;
+      &lt;/span&gt;&lt;/a&gt; &lt;/span&gt;&lt;/p&gt;
   &lt;/figcaption&gt;
-
-
 &lt;/figure&gt;
 
 &lt;p&gt;There is also the remaining question, is the Glottolog page actually an &lt;em&gt;Interactive Resource&lt;/em&gt;, which pulls a &lt;em&gt;Dataset&lt;/em&gt;?&lt;/p&gt;
@@ -3206,19 +3086,9 @@ wbr:before {
 
 
 
-
-
-
-
-
-  
-
-
-
   
   
-
-
+  
 
 
 
@@ -3234,29 +3104,19 @@ wbr:before {
 
 
 &lt;figure id=&#34;figure-comparison-of-several-language-keyboards&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
-
-
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/keyboard-comparisons/Keyboard-Comparisons_hub693d90d202bf86fe5303b0651a1df61_185696_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Comparison of several language keyboards&#34;&gt;
-
 
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/keyboard-comparisons/Keyboard-Comparisons_hub693d90d202bf86fe5303b0651a1df61_185696_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;Comparison of several language keyboards&#34; width=&#34;1120&#34; height=&#34;1070&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
-
-
   
   
   &lt;figcaption&gt;
     &lt;p&gt;Comparison of several language keyboards
       
-&lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;http://hugh4.us&#34;&gt; 
-Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;http://hugh4.us&#34;&gt; Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
         &lt;meta itemprop=&#34;name&#34; content=&#34;Hugh Paterson III&#34; /&gt;
-      &lt;/span&gt;
-&lt;/a&gt; &lt;/span&gt;
-&lt;/p&gt;
+      &lt;/span&gt;&lt;/a&gt; &lt;/span&gt;&lt;/p&gt;
   &lt;/figcaption&gt;
-
-
 &lt;/figure&gt;
 
 </description>
@@ -5648,19 +5508,9 @@ The xsi:type attribute may be used in instance documents to indicate the type of
 
 
 
-
-
-
-
-
-  
-
-
-
   
   
-
-
+  
 
 
 
@@ -5676,29 +5526,19 @@ The xsi:type attribute may be used in instance documents to indicate the type of
 
 
 &lt;figure id=&#34;figure-screenshot-of-dcmitype-metadata&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
-
-
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/olac-term-consolidation/OLAC-DCMITypes_hu4186249c5d4dbeb42df841edc39557cb_38035_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Screenshot of DCMIType metadata&#34;&gt;
-
 
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/olac-term-consolidation/OLAC-DCMITypes_hu4186249c5d4dbeb42df841edc39557cb_38035_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;Screenshot of DCMIType metadata&#34; width=&#34;713&#34; height=&#34;387&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
-
-
   
   
   &lt;figcaption&gt;
     &lt;p&gt;Screenshot of DCMIType metadata
       
-&lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;http://dla.library.upenn.edu/dla/olac/browse.html?browse=dcmi_type_facet&amp;amp;&#34;&gt; 
-OLAC metadata screenshot on 24 September 2022 by Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;http://dla.library.upenn.edu/dla/olac/browse.html?browse=dcmi_type_facet&amp;amp;&#34;&gt; OLAC metadata screenshot on 24 September 2022 by Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
         &lt;meta itemprop=&#34;name&#34; content=&#34;OLAC metadata screenshot on 24 September 2022 by Hugh Paterson III&#34; /&gt;
-      &lt;/span&gt;
-&lt;/a&gt; &lt;/span&gt;
-&lt;/p&gt;
+      &lt;/span&gt;&lt;/a&gt; &lt;/span&gt;&lt;/p&gt;
   &lt;/figcaption&gt;
-
-
 &lt;/figure&gt;
 
 &lt;h2 id=&#34;bibliography&#34;&gt;Bibliography&lt;/h2&gt;
@@ -5795,19 +5635,9 @@ OLAC metadata screenshot on 24 September 2022 by Hugh Paterson III&lt;span itemp
 
 
 
-
-
-
-
-
-  
-
-
-
   
   
-
-
+  
 
 
 
@@ -5823,29 +5653,19 @@ OLAC metadata screenshot on 24 September 2022 by Hugh Paterson III&lt;span itemp
 
 
 &lt;figure id=&#34;figure-the-five-classes-of-constituents&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
-
-
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/olac-customer-segments/basic-constituents_hu4f6154890ea88ac09b021b2d314d85e2_38565_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;The five classes of constituents&#34;&gt;
-
 
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/olac-customer-segments/basic-constituents_hu4f6154890ea88ac09b021b2d314d85e2_38565_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;The five classes of constituents on a buisess model canvas&#34; width=&#34;837&#34; height=&#34;606&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
-
-
   
   
   &lt;figcaption&gt;
     &lt;p&gt;The five classes of constituents
       
-&lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;https://hugh4.us&#34;&gt; 
-Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;https://hugh4.us&#34;&gt; Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
         &lt;meta itemprop=&#34;name&#34; content=&#34;Hugh Paterson III&#34; /&gt;
-      &lt;/span&gt;
-&lt;/a&gt; &lt;/span&gt;
-&lt;/p&gt;
+      &lt;/span&gt;&lt;/a&gt; &lt;/span&gt;&lt;/p&gt;
   &lt;/figcaption&gt;
-
-
 &lt;/figure&gt;
 
 &lt;p&gt;If we were to draw users pathways for this web experience we would want to identify each of the tasks of each person and then map that to feature and URLs. In this post I am only going to be looking at data types. That is, the kinds of data that each of the constituents desires to interact with or obtain.&lt;/p&gt;
@@ -5859,19 +5679,9 @@ Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schem
 
 
 
-
-
-
-
-
-  
-
-
-
   
   
-
-
+  
 
 
 
@@ -5887,48 +5697,28 @@ Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schem
 
 
 &lt;figure id=&#34;figure-data-expressions-in-indicated-as-channels-in-the-bmc&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
-
-
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/olac-customer-segments/Channels_hua2e42e196fdfbe41d08fa11c77e312ed_42619_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Data Expressions in indicated as channels in the BMC&#34;&gt;
-
 
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/olac-customer-segments/Channels_hua2e42e196fdfbe41d08fa11c77e312ed_42619_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;Data Expressions in indicated as channels in the BMC.&#34; width=&#34;836&#34; height=&#34;616&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
-
-
   
   
   &lt;figcaption&gt;
     &lt;p&gt;Data Expressions in indicated as channels in the BMC
       
-&lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;https://hugh4.us&#34;&gt; 
-Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;https://hugh4.us&#34;&gt; Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
         &lt;meta itemprop=&#34;name&#34; content=&#34;Hugh Paterson III&#34; /&gt;
-      &lt;/span&gt;
-&lt;/a&gt; &lt;/span&gt;
-&lt;/p&gt;
+      &lt;/span&gt;&lt;/a&gt; &lt;/span&gt;&lt;/p&gt;
   &lt;/figcaption&gt;
-
-
 &lt;/figure&gt;
 
 &lt;p&gt;In the next image I write down some of the positive reasons that people come to the website. That is, the value they come to the site to recieve. My interpretation is that the following reasons exist for each of the constituenties:&lt;/p&gt;
 
 
 
-
-
-
-
-
-  
-
-
-
   
   
-
-
+  
 
 
 
@@ -5944,47 +5734,27 @@ Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schem
 
 
 &lt;figure id=&#34;figure-value-proposition-statements&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
-
-
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/olac-customer-segments/vps_hu94d96e08112c6484dbebdf8709e4b64a_54817_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Value Proposition Statements&#34;&gt;
-
 
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/olac-customer-segments/vps_hu94d96e08112c6484dbebdf8709e4b64a_54817_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;Value Proposition Statements in the BMC.&#34; width=&#34;827&#34; height=&#34;610&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
-
-
   
   
   &lt;figcaption&gt;
     &lt;p&gt;Value Proposition Statements
       
-&lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;https://hugh4.us&#34;&gt; 
-Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;https://hugh4.us&#34;&gt; Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
         &lt;meta itemprop=&#34;name&#34; content=&#34;Hugh Paterson III&#34; /&gt;
-      &lt;/span&gt;
-&lt;/a&gt; &lt;/span&gt;
-&lt;/p&gt;
+      &lt;/span&gt;&lt;/a&gt; &lt;/span&gt;&lt;/p&gt;
   &lt;/figcaption&gt;
-
-
 &lt;/figure&gt;
 
 
 
 
-
-
-
-
-
-  
-
-
-
   
   
-
-
+  
 
 
 
@@ -6000,29 +5770,19 @@ Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schem
 
 
 &lt;figure id=&#34;figure-where-technology-needs-to-change-to-continue-to-deliver-value&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
-
-
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/olac-customer-segments/OLAC-full_hu7e050f84c9d8e6228ce72f09cd6a63c3_68467_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Where technology needs to change to continue to deliver value&#34;&gt;
-
 
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/olac-customer-segments/OLAC-full_hu7e050f84c9d8e6228ce72f09cd6a63c3_68467_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;Technology changes needed.&#34; width=&#34;1090&#34; height=&#34;612&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
-
-
   
   
   &lt;figcaption&gt;
     &lt;p&gt;Where technology needs to change to continue to deliver value
       
-&lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;https://hugh4.us&#34;&gt; 
-Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;https://hugh4.us&#34;&gt; Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
         &lt;meta itemprop=&#34;name&#34; content=&#34;Hugh Paterson III&#34; /&gt;
-      &lt;/span&gt;
-&lt;/a&gt; &lt;/span&gt;
-&lt;/p&gt;
+      &lt;/span&gt;&lt;/a&gt; &lt;/span&gt;&lt;/p&gt;
   &lt;/figcaption&gt;
-
-
 &lt;/figure&gt;
 
 </description>
@@ -6650,19 +6410,9 @@ used instead, thereby fulfilling the promise of linked data. Both Billey and Ser
 
 
 
-
-
-
-
-
-  
-
-
-
   
   
-
-
+  
 
 
 
@@ -6678,17 +6428,10 @@ used instead, thereby fulfilling the promise of linked data. Both Billey and Ser
 
 
 &lt;figure  itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
-
-
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/olac-social-network/Screenshot-from-2021-05-21-16-29-57_hu8f117742bdb43334962e5f6d9dc61581_86953_2000x2000_fit_lanczos_2.png&#34; &gt;
 
-
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/olac-social-network/Screenshot-from-2021-05-21-16-29-57_hu8f117742bdb43334962e5f6d9dc61581_86953_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;SIL Language and Culture Archive history&#34; width=&#34;557&#34; height=&#34;651&#34; itemprop=&#34;contentUrl&#34;&gt;
-&lt;/a&gt;
-
-
-
-&lt;/figure&gt;
+&lt;/a&gt;&lt;/figure&gt;
 
 &lt;p&gt;Another way to look at the issues which beset the network of OLAC data providers is to look at the network of technologies responsible for the data feed. To do this is challenging. Exact roles are not specified in the OLAC documentation. These roles appear in the OAI header for each data provider and the aggregation of these can be found in two places on the the OLAC website 
 &lt;a href=&#34;http://www.language-archives.org/archives&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt; (along with the detail pages) and 
@@ -6697,19 +6440,9 @@ used instead, thereby fulfilling the promise of linked data. Both Billey and Ser
 
 
 
-
-
-
-
-
-  
-
-
-
   
   
-
-
+  
 
 
 
@@ -6725,17 +6458,10 @@ used instead, thereby fulfilling the promise of linked data. Both Billey and Ser
 
 
 &lt;figure  itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
-
-
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/olac-social-network/OLAC-Social-Network_hu72b1b19ca22bcc3417d6156e773f683c_1373076_2000x2000_fit_lanczos_2.png&#34; &gt;
 
-
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/olac-social-network/OLAC-Social-Network_hu72b1b19ca22bcc3417d6156e773f683c_1373076_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;SIL Language and Culture Archive history&#34; width=&#34;5589&#34; height=&#34;2403&#34; itemprop=&#34;contentUrl&#34;&gt;
-&lt;/a&gt;
-
-
-
-&lt;/figure&gt;
+&lt;/a&gt;&lt;/figure&gt;
 
 &lt;p&gt;While conducting this analysis it became apparent that there were several clades of providers which developed. By clade I mean a group of data providers which evolved together sharing an exposure to OLAC metadata and a technologist. Those clades are indicated in this image. The indicated clades are to be treated as suspect, but I think there is reason to believe that there is a great amount of sociological influence which permits these clades to form. For example, I know that at one time Gary Simons assisted AILLIA with their OLAC feed, so perhaps that archive might belong in a common clade with the entities within the SIL clade. If that is the case then maybe the SIL clade ought to be renamed as the Gary Simons clade. I also suspect there might be a CLARIN clade, but I don&amp;rsquo;t know for sure or how these relationships are or were structured. I also suspect that there might be or was an Australian clade in which 
 &lt;a href=&#34;https://nthieberger.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nick Thieberger&lt;/a&gt; would have been influential. If this is the case then the Hawaii clade may be suspect and rather than two clades (Hawaii and Australia) there may only be one which would include those entities assisted or guided by Professor Thieberger.&lt;/p&gt;
@@ -6790,19 +6516,9 @@ used instead, thereby fulfilling the promise of linked data. Both Billey and Ser
 
 
 
-
-
-
-
-
-  
-
-
-
   
   
-
-
+  
 
 
 
@@ -6818,48 +6534,28 @@ used instead, thereby fulfilling the promise of linked data. Both Billey and Ser
 
 
 &lt;figure id=&#34;figure-facceted-view-of-archives-respondin-positivly-to-the-term-serial&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
-
-
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/olac-and-unicode-errors/Archives-with-Serials_hu381872adbb12057ca61766a6a04cfce8_94355_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Facceted view of Archives respondin positivly to the term &amp;amp;lsquo;serial&amp;amp;rsquo;.&#34;&gt;
-
 
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/olac-and-unicode-errors/Archives-with-Serials_hu381872adbb12057ca61766a6a04cfce8_94355_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;Facceted view of Archives respondin positivly to the term &amp;#39;serial&amp;#39;.&#34; width=&#34;1602&#34; height=&#34;406&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
-
-
   
   
   &lt;figcaption&gt;
     &lt;p&gt;Facceted view of Archives respondin positivly to the term &amp;lsquo;serial&amp;rsquo;.
       
-&lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;http://dla.library.upenn.edu/dla/olac/browse.html?q=Serial&amp;amp;browse=archive_facet&amp;amp;&#34;&gt; 
-OLAC website via Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;http://dla.library.upenn.edu/dla/olac/browse.html?q=Serial&amp;amp;browse=archive_facet&amp;amp;&#34;&gt; OLAC website via Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
         &lt;meta itemprop=&#34;name&#34; content=&#34;OLAC website via Hugh Paterson III&#34; /&gt;
-      &lt;/span&gt;
-&lt;/a&gt; &lt;/span&gt;
-&lt;/p&gt;
+      &lt;/span&gt;&lt;/a&gt; &lt;/span&gt;&lt;/p&gt;
   &lt;/figcaption&gt;
-
-
 &lt;/figure&gt;
 
 &lt;p&gt;When using the OLAC faceted search and when I click a link for records in the Pacific Collection at the University of Hawai&amp;rsquo;i at Mānoa Hamilton Library, as seen on the page in link, I get an error message, as seen in the figure below, saying that it is interpreting a character incorrectly (decimal 129, which appears in the file &lt;code&gt;output-library.xsl; Line#: 96; Column#: -1&lt;/code&gt;). &lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 
 
 
-
-
-
-
-
-  
-
-
-
   
   
-
-
+  
 
 
 
@@ -6875,29 +6571,19 @@ OLAC website via Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&
 
 
 &lt;figure id=&#34;figure-java-error&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
-
-
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/olac-and-unicode-errors/Javaerror_hu0af51de72307cc76758c49dae9e4fa3b_101821_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;JAVA error&#34;&gt;
-
 
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/olac-and-unicode-errors/Javaerror_hu0af51de72307cc76758c49dae9e4fa3b_101821_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;JAVA error.&#34; width=&#34;1080&#34; height=&#34;514&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
-
-
   
   
   &lt;figcaption&gt;
     &lt;p&gt;JAVA error
       
-&lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;http://dla.library.upenn.edu/dla/olac/search.html?q=Serial&amp;amp;fq=archive_facet%3A%22Pacific%20Collection%20at%20the%20University%20of%20Hawai%27i%20at%20M%C4%81noa%20Hamilton%20Library%22&#34;&gt; 
-OLAC website via Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;http://dla.library.upenn.edu/dla/olac/search.html?q=Serial&amp;amp;fq=archive_facet%3A%22Pacific%20Collection%20at%20the%20University%20of%20Hawai%27i%20at%20M%C4%81noa%20Hamilton%20Library%22&#34;&gt; OLAC website via Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
         &lt;meta itemprop=&#34;name&#34; content=&#34;OLAC website via Hugh Paterson III&#34; /&gt;
-      &lt;/span&gt;
-&lt;/a&gt; &lt;/span&gt;
-&lt;/p&gt;
+      &lt;/span&gt;&lt;/a&gt; &lt;/span&gt;&lt;/p&gt;
   &lt;/figcaption&gt;
-
-
 &lt;/figure&gt;
 
 &lt;p&gt;I am wondering if this is because the input is encoded in Latin Supplement 1(ISO-8859-1 (Latin-1)), rather than Unicode UTF-8, or if it is because of some error on the OLAC processing side. It seems unlikely that a library system would be using decimal 129, which is a control character. I wonder if it left over from a MARC import?&lt;/p&gt;
@@ -7178,19 +6864,9 @@ Hit search and they get misinterpreted as &lt;code&gt;Ã Ã¡Ã¢Ã£Ã¤Ã¥Ã�
 
 
 
-
-
-
-
-
-  
-
-
-
   
   
-
-
+  
 
 
 
@@ -7206,29 +6882,19 @@ Hit search and they get misinterpreted as &lt;code&gt;Ã Ã¡Ã¢Ã£Ã¤Ã¥Ã�
 
 
 &lt;figure id=&#34;figure-types-of-olac-data-providers&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
-
-
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/diversity-and-typology-across-olac-providers/Data_contributors_hu8da133b01ff086a7adb712d959fc9935_89197_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Types of OLAC Data Providers.&#34;&gt;
-
 
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/diversity-and-typology-across-olac-providers/Data_contributors_hu8da133b01ff086a7adb712d959fc9935_89197_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;Types of OLAC Data Providers.&#34; width=&#34;2318&#34; height=&#34;840&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
-
-
   
   
   &lt;figcaption&gt;
     &lt;p&gt;Types of OLAC Data Providers.
       
-&lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;http://hugh4.us&#34;&gt; 
-Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;http://hugh4.us&#34;&gt; Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
         &lt;meta itemprop=&#34;name&#34; content=&#34;Hugh Paterson III&#34; /&gt;
-      &lt;/span&gt;
-&lt;/a&gt; &lt;/span&gt;
-&lt;/p&gt;
+      &lt;/span&gt;&lt;/a&gt; &lt;/span&gt;&lt;/p&gt;
   &lt;/figcaption&gt;
-
-
 &lt;/figure&gt;
 
 &lt;!-- It is an interesting difference presented in this paper: http://www.language-archives.org/documents/community-providers.html were B&amp;S take the following approach to parsing (open language (archive community)).
@@ -7342,19 +7008,9 @@ Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schem
 
 
 
-
-
-
-
-
-  
-
-
-
   
   
-
-
+  
 
 
 
@@ -7370,17 +7026,10 @@ Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schem
 
 
 &lt;figure  itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
-
-
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/olac-social-perspective/Views-on-OLAC_hu2f05db6142d27c16357970e88be38e2a_76599_2000x2000_fit_lanczos_2.png&#34; &gt;
 
-
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/olac-social-perspective/Views-on-OLAC_hu2f05db6142d27c16357970e88be38e2a_76599_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;Topdown vs Bottomup view on OLAC.&#34; width=&#34;1162&#34; height=&#34;816&#34; itemprop=&#34;contentUrl&#34;&gt;
-&lt;/a&gt;
-
-
-
-&lt;/figure&gt;
+&lt;/a&gt;&lt;/figure&gt;
 
 &lt;p&gt;In this case several articles in the literature make it clear that there is a systematic foundation of technologies which form the capabilities of OLAC 
 
@@ -7474,19 +7123,9 @@ Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schem
 
 
 
-
-
-
-
-
-  
-
-
-
   
   
-
-
+  
 
 
 
@@ -7502,17 +7141,10 @@ Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schem
 
 
 &lt;figure  itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
-
-
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/olac-social-perspective/OLAC-Observer-Bias_hu1bc84dd011562a4046a66942a09923ab_109295_2000x2000_fit_lanczos_2.png&#34; &gt;
 
-
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/olac-social-perspective/OLAC-Observer-Bias_hu1bc84dd011562a4046a66942a09923ab_109295_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;Q: What is the difference between a microscope and a telescope? A: The side of the lens that the analyst sits on.&#34; width=&#34;960&#34; height=&#34;540&#34; itemprop=&#34;contentUrl&#34;&gt;
-&lt;/a&gt;
-
-
-
-&lt;/figure&gt;
+&lt;/a&gt;&lt;/figure&gt;
 
 &lt;p&gt;I have collected several critiques of OLAC and present them below. I then discuss the perspective bias and why I think these critiques are understandable, but not well grounded.&lt;/p&gt;
 &lt;p&gt;In 2013 Peter Austin wrote:&lt;/p&gt;
@@ -9147,19 +8779,9 @@ wbr:before {
 
 
 
-
-
-
-
-
-  
-
-
-
   
   
-
-
+  
 
 
 
@@ -9175,17 +8797,10 @@ wbr:before {
 
 
 &lt;figure  itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
-
-
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/writing-system-versions/constable2003_hu259b6ab67378f924615731584e28b6b1_79585_2000x2000_fit_lanczos_2.png&#34; &gt;
 
-
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/writing-system-versions/constable2003_hu259b6ab67378f924615731584e28b6b1_79585_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;Orthography and writing system relationship diagram&#34; width=&#34;977&#34; height=&#34;768&#34; itemprop=&#34;contentUrl&#34;&gt;
-&lt;/a&gt;
-
-
-
-&lt;/figure&gt;
+&lt;/a&gt;&lt;/figure&gt;
 
 &lt;p&gt;For example the following languages and their writing system histories demonstrate some of the complexities which a catalog of writing system evolutions would need to consider.&lt;/p&gt;
 &lt;h3 id=&#34;tarok&#34;&gt;Tarok&lt;/h3&gt;
@@ -9204,19 +8819,9 @@ wbr:before {
 
 
 
-
-
-
-
-
-  
-
-
-
   
   
-
-
+  
 
 
 
@@ -9232,17 +8837,10 @@ wbr:before {
 
 
 &lt;figure  itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
-
-
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/writing-system-versions/_hud31f8fad7e8db30f66c4d96ada19c9e6_143486_b41ddd6e2f1e83ec4db9b7301f4fbfde.png&#34; &gt;
 
-
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/writing-system-versions/_hud31f8fad7e8db30f66c4d96ada19c9e6_143486_b41ddd6e2f1e83ec4db9b7301f4fbfde.png&#34; class=&#34;lazyload&#34; alt=&#34;Database Categories&#34; width=&#34;4078&#34; height=&#34;706&#34; itemprop=&#34;contentUrl&#34;&gt;
-&lt;/a&gt;
-
-
-
-&lt;/figure&gt;
+&lt;/a&gt;&lt;/figure&gt;
 
 &lt;h2 id=&#34;bibliography&#34;&gt;Bibliography&lt;/h2&gt;
 
@@ -10932,19 +10530,9 @@ Check for the other files in the official FLEx repo at: &lt;a href=&#34;https://
 
 
 
-
-
-
-
-
-  
-
-
-
   
   
-
-
+  
 
 
 
@@ -10960,29 +10548,19 @@ Check for the other files in the official FLEx repo at: &lt;a href=&#34;https://
 
 
 &lt;figure id=&#34;figure-types-of-browser-based-tools&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
-
-
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/presenting-oral-texts-with-transcriptions-online/Types-of-Browser-based-tools_hua36818c6bed2e8af187cca8f2012a317_155372_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Types of browser based tools&#34;&gt;
-
 
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/presenting-oral-texts-with-transcriptions-online/Types-of-Browser-based-tools_hua36818c6bed2e8af187cca8f2012a317_155372_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;Taxonomy of browser based tools&#34; width=&#34;1576&#34; height=&#34;588&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
-
-
   
   
   &lt;figcaption&gt;
     &lt;p&gt;Types of browser based tools
       
-&lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;https://hughandbecky.us/Hugh-CV/post/presenting-oral-texts-with-transcriptions-online&#34;&gt; 
-Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;https://hughandbecky.us/Hugh-CV/post/presenting-oral-texts-with-transcriptions-online&#34;&gt; Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
         &lt;meta itemprop=&#34;name&#34; content=&#34;Hugh Paterson III&#34; /&gt;
-      &lt;/span&gt;
-&lt;/a&gt; &lt;/span&gt;
-&lt;/p&gt;
+      &lt;/span&gt;&lt;/a&gt; &lt;/span&gt;&lt;/p&gt;
   &lt;/figcaption&gt;
-
-
 &lt;/figure&gt;
 
 &lt;!-- For example many publishers use or require Leipzig glossing rules which point to a &#34;standard&#34; set of abbreviations, to be used in print publications. However, these abbreviations do not have a concrete set of definitions. Therefore one can never be exactly sure what an author means when they use these abbreviations (but in general shared conventions are more helpful than not). What I have noticed with respect to these abbreviations is that due to the mental/visual prominence the abbreviations have in print media, they are often being used in corpus annotations. To complicate matters, when additional annotations are needed but are not present in the Leipzig Glossing Rules chaos ensues. That is, authors choose to create their own abbreviations on an ad-hoc basis. Additionally abbreviations used in the Leipzig Glossing Rules by field linguists are often different from those used by computational linguists working on TreeBanks or WordNets creating a gap in the cross-discipline uses of corpora. --&gt;
@@ -11005,19 +10583,9 @@ Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schem
 
 
 
-
-
-
-
-
-  
-
-
-
   
   
-
-
+  
 
 
 
@@ -11033,29 +10601,19 @@ Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schem
 
 
 &lt;figure id=&#34;figure-german-example-showing-output-and-code-taken-from-the-leipzigjs-website&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
-
-
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/presenting-oral-texts-with-transcriptions-online/leipzig_hub10e4c6c263b7731bb1ac0e1e9ed1f4e_114603_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;German example showing output and code taken from the leipzig.js website&#34;&gt;
-
 
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/presenting-oral-texts-with-transcriptions-online/leipzig_hub10e4c6c263b7731bb1ac0e1e9ed1f4e_114603_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;Example taken from leipzig.js website&#34; width=&#34;715&#34; height=&#34;847&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
-
-
   
   
   &lt;figcaption&gt;
     &lt;p&gt;German example showing output and code taken from the leipzig.js website
       
-&lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;https://bdchauvette.net/leipzig.js/examples/&#34;&gt; 
-Ben Chauvette&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;https://bdchauvette.net/leipzig.js/examples/&#34;&gt; Ben Chauvette&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
         &lt;meta itemprop=&#34;name&#34; content=&#34;Ben Chauvette&#34; /&gt;
-      &lt;/span&gt;
-&lt;/a&gt; &lt;/span&gt;
-&lt;/p&gt;
+      &lt;/span&gt;&lt;/a&gt; &lt;/span&gt;&lt;/p&gt;
   &lt;/figcaption&gt;
-
-
 &lt;/figure&gt;
 &lt;/p&gt;
 &lt;h3 id=&#34;iath-elan-text-sync-tool-etst&#34;&gt;IATH ELAN Text-Sync Tool (ETST)&lt;/h3&gt;
@@ -11109,19 +10667,9 @@ Ben Chauvette&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.or
 
 
 
-
-
-
-
-
-  
-
-
-
   
   
-
-
+  
 
 
 
@@ -11137,29 +10685,19 @@ Ben Chauvette&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.or
 
 
 &lt;figure id=&#34;figure-time-aligned-audio-and-text-where-text-is-automatically-highlighted-as-the-audio-plays&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
-
-
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/presenting-oral-texts-with-transcriptions-online/IATHELAN_hu7827a15245c69c5d5e8c519632c5e7d8_331560_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Time aligned audio and text where text is automatically highlighted as the audio plays.&#34;&gt;
-
 
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/presenting-oral-texts-with-transcriptions-online/IATHELAN_hu7827a15245c69c5d5e8c519632c5e7d8_331560_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;Example of time aligned audio and text&#34; width=&#34;1423&#34; height=&#34;865&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
-
-
   
   
   &lt;figcaption&gt;
     &lt;p&gt;Time aligned audio and text where text is automatically highlighted as the audio plays.
       
-&lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;http://community.village.virginia.edu/etst/example.php&#34;&gt; 
-Lise &amp;amp; Douglas&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;http://community.village.virginia.edu/etst/example.php&#34;&gt; Lise &amp;amp; Douglas&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
         &lt;meta itemprop=&#34;name&#34; content=&#34;Lise &amp;amp; Douglas&#34; /&gt;
-      &lt;/span&gt;
-&lt;/a&gt; &lt;/span&gt;
-&lt;/p&gt;
+      &lt;/span&gt;&lt;/a&gt; &lt;/span&gt;&lt;/p&gt;
   &lt;/figcaption&gt;
-
-
 &lt;/figure&gt;
 &lt;/p&gt;
 &lt;h3 id=&#34;lingview&#34;&gt;LingView&lt;/h3&gt;
@@ -11216,19 +10754,9 @@ Lise &amp;amp; Douglas&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://
 
 
 
-
-
-
-
-
-  
-
-
-
   
   
-
-
+  
 
 
 
@@ -11244,17 +10772,10 @@ Lise &amp;amp; Douglas&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://
 
 
 &lt;figure  itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
-
-
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/presenting-oral-texts-with-transcriptions-online/LingView_hu22559aeae75463bc8faa9e4d77838f02_511347_2000x2000_fit_lanczos_2.png&#34; &gt;
 
-
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/presenting-oral-texts-with-transcriptions-online/LingView_hu22559aeae75463bc8faa9e4d77838f02_511347_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;mulit-cast screenshot&#34; width=&#34;1854&#34; height=&#34;824&#34; itemprop=&#34;contentUrl&#34;&gt;
-&lt;/a&gt;
-
-
-
-&lt;/figure&gt;
+&lt;/a&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;h3 id=&#34;california-state-university-long-beach-interface&#34;&gt;California State University Long Beach Interface&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;Produced by&lt;/strong&gt;: Michael Ahland &amp;amp; Cem Demir as part of the Pahka&amp;rsquo;anil Text Project&lt;br/&gt;
@@ -11266,19 +10787,9 @@ Lise &amp;amp; Douglas&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://
 
 
 
-
-
-
-
-
-  
-
-
-
   
   
-
-
+  
 
 
 
@@ -11294,17 +10805,10 @@ Lise &amp;amp; Douglas&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://
 
 
 &lt;figure  itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
-
-
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/presenting-oral-texts-with-transcriptions-online/CSULB_hudb0370fef0e167a80649bdef8b646f78_129500_2000x2000_fit_lanczos_2.png&#34; &gt;
 
-
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/presenting-oral-texts-with-transcriptions-online/CSULB_hudb0370fef0e167a80649bdef8b646f78_129500_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;mulit-cast screenshot&#34; width=&#34;1843&#34; height=&#34;835&#34; itemprop=&#34;contentUrl&#34;&gt;
-&lt;/a&gt;
-
-
-
-&lt;/figure&gt;
+&lt;/a&gt;&lt;/figure&gt;
 
 &lt;h3 id=&#34;wavesurferjs--elan&#34;&gt;wavesurfer.js + ELAN&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;Produced by&lt;/strong&gt;: J. Reuben Wetherbee&lt;br/&gt;
@@ -11318,19 +10822,9 @@ Lise &amp;amp; Douglas&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://
 
 
 
-
-
-
-
-
-  
-
-
-
   
   
-
-
+  
 
 
 
@@ -11346,17 +10840,10 @@ Lise &amp;amp; Douglas&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://
 
 
 &lt;figure  itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
-
-
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/presenting-oral-texts-with-transcriptions-online/ELAN-wavesurfer_hu0f61d3cc2abf421572dfe77fb5597d70_75522_2000x2000_fit_lanczos_2.png&#34; &gt;
 
-
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/presenting-oral-texts-with-transcriptions-online/ELAN-wavesurfer_hu0f61d3cc2abf421572dfe77fb5597d70_75522_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;ELAN wavesurfer interface&#34; width=&#34;920&#34; height=&#34;776&#34; itemprop=&#34;contentUrl&#34;&gt;
-&lt;/a&gt;
-
-
-
-&lt;/figure&gt;
+&lt;/a&gt;&lt;/figure&gt;
 
 &lt;h2 id=&#34;require-back-end-databases&#34;&gt;Require Back-end Databases&lt;/h2&gt;
 &lt;h3 id=&#34;ethnographic-e-research-online-presentation-system-eopas&#34;&gt;Ethnographic E-Research Online Presentation System (EOPAS)&lt;/h3&gt;
@@ -11460,19 +10947,9 @@ Lise &amp;amp; Douglas&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://
 
 
 
-
-
-
-
-
-  
-
-
-
   
   
-
-
+  
 
 
 
@@ -11488,29 +10965,19 @@ Lise &amp;amp; Douglas&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://
 
 
 &lt;figure id=&#34;figure-screenshot-of-eopas&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
-
-
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/presenting-oral-texts-with-transcriptions-online/eopas_hu3800efd0c53c43f441e1c6b75aa4780d_791550_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Screenshot of Eopas&#34;&gt;
-
 
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/presenting-oral-texts-with-transcriptions-online/eopas_hu3800efd0c53c43f441e1c6b75aa4780d_791550_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;Screenshot of Eopa&#34; width=&#34;1026&#34; height=&#34;775&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
-
-
   
   
   &lt;figcaption&gt;
     &lt;p&gt;Screenshot of Eopas
       
-&lt;span class=&#34;img-attribution&#34;&gt;Credit: 
-Nick Thieberger&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: Nick Thieberger&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
         &lt;meta itemprop=&#34;name&#34; content=&#34;Nick Thieberger&#34; /&gt;
-      &lt;/span&gt;
-&lt;/span&gt;
-&lt;/p&gt;
+      &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
   &lt;/figcaption&gt;
-
-
 &lt;/figure&gt;
 
 &lt;h3 id=&#34;nabu-collection-viewer&#34;&gt;Nabu collection viewer&lt;/h3&gt;
@@ -11521,19 +10988,9 @@ Nick Thieberger&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.
 
 
 
-
-
-
-
-
-  
-
-
-
   
   
-
-
+  
 
 
 
@@ -11549,29 +11006,19 @@ Nick Thieberger&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.
 
 
 &lt;figure id=&#34;figure-screenshot-of-nabu-collection-viewer&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
-
-
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/presenting-oral-texts-with-transcriptions-online/Nabu_hu54745e7fefb1c102b9ebf913d7633783_65695_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Screenshot of Nabu Collection viewer&#34;&gt;
-
 
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/presenting-oral-texts-with-transcriptions-online/Nabu_hu54745e7fefb1c102b9ebf913d7633783_65695_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;Screenshot of Nabu Collection viewer&#34; width=&#34;1465&#34; height=&#34;857&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
-
-
   
   
   &lt;figcaption&gt;
     &lt;p&gt;Screenshot of Nabu Collection viewer
       
-&lt;span class=&#34;img-attribution&#34;&gt;Credit: 
-Nick Thieberger&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: Nick Thieberger&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
         &lt;meta itemprop=&#34;name&#34; content=&#34;Nick Thieberger&#34; /&gt;
-      &lt;/span&gt;
-&lt;/span&gt;
-&lt;/p&gt;
+      &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
   &lt;/figcaption&gt;
-
-
 &lt;/figure&gt;
 
 &lt;h3 id=&#34;typecraft&#34;&gt;TypeCraft&lt;/h3&gt;
@@ -11670,19 +11117,9 @@ Nick Thieberger&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.
 
 
 
-
-
-
-
-
-  
-
-
-
   
   
-
-
+  
 
 
 
@@ -11698,29 +11135,19 @@ Nick Thieberger&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.
 
 
 &lt;figure id=&#34;figure-audio-is-at-the-very-bottom-of-the-screen-the-text-is-not-highlighted-as-it-is-played&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
-
-
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/presenting-oral-texts-with-transcriptions-online/multi-cast_hub075d7be7fd51d658edcc068bfd23fd0_115657_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Audio is at the very bottom of the screen. The text is not highlighted as it is played.&#34;&gt;
-
 
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/presenting-oral-texts-with-transcriptions-online/multi-cast_hub075d7be7fd51d658edcc068bfd23fd0_115657_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;mulit-cast screenshot&#34; width=&#34;1902&#34; height=&#34;915&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
-
-
   
   
   &lt;figcaption&gt;
     &lt;p&gt;Audio is at the very bottom of the screen. The text is not highlighted as it is played.
       
-&lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;https://multicast.aspra.uni-bamberg.de/php/preview.php?v=2101&amp;amp;corpus=arta&amp;amp;text=alisiya&#34;&gt; 
-Geoffrey Haig &amp;amp; Nils Norman Schiborr&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;https://multicast.aspra.uni-bamberg.de/php/preview.php?v=2101&amp;amp;corpus=arta&amp;amp;text=alisiya&#34;&gt; Geoffrey Haig &amp;amp; Nils Norman Schiborr&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
         &lt;meta itemprop=&#34;name&#34; content=&#34;Geoffrey Haig &amp;amp; Nils Norman Schiborr&#34; /&gt;
-      &lt;/span&gt;
-&lt;/a&gt; &lt;/span&gt;
-&lt;/p&gt;
+      &lt;/span&gt;&lt;/a&gt; &lt;/span&gt;&lt;/p&gt;
   &lt;/figcaption&gt;
-
-
 &lt;/figure&gt;
 &lt;/p&gt;
 &lt;h3 id=&#34;pangloss&#34;&gt;Pangloss&lt;/h3&gt;
@@ -11882,19 +11309,9 @@ Geoffrey Haig &amp;amp; Nils Norman Schiborr&lt;span itemprop=&#34;creator&#34; 
 
 
 
-
-
-
-
-
-  
-
-
-
   
   
-
-
+  
 
 
 
@@ -11910,17 +11327,10 @@ Geoffrey Haig &amp;amp; Nils Norman Schiborr&lt;span itemprop=&#34;creator&#34; 
 
 
 &lt;figure  itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
-
-
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/presenting-oral-texts-with-transcriptions-online/Pangloss_hub8cf7e90014ba857c943350251fd247e_128451_2000x2000_fit_lanczos_2.png&#34; &gt;
 
-
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/presenting-oral-texts-with-transcriptions-online/Pangloss_hub8cf7e90014ba857c943350251fd247e_128451_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;mulit-cast screenshot&#34; width=&#34;1593&#34; height=&#34;879&#34; itemprop=&#34;contentUrl&#34;&gt;
-&lt;/a&gt;
-
-
-
-&lt;/figure&gt;
+&lt;/a&gt;&lt;/figure&gt;
 
 &lt;h3 id=&#34;eastlingplayer&#34;&gt;Eastlingplayer&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;Produced by&lt;/strong&gt;:  CNRS-LACITO &amp;amp; Alexis Michaud&lt;br/&gt;
@@ -21881,19 +21291,9 @@ Existing keyboard layouts for the languages of the texts in question will be ana
 
 
 
-
-
-
-
-
-  
-
-
-
   
   
-
-
+  
 
 
 
@@ -21909,29 +21309,19 @@ Existing keyboard layouts for the languages of the texts in question will be ana
 
 
 &lt;figure id=&#34;figure-juvenile-king-cobra-at-medtoxin-laboratories-deland-fl&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
-
-
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/nigerian-snake/2305151475_bbf786020f_k_hu092e02540d20bd644921ec2e00b905a3_483484_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Juvenile King Cobra at Medtoxin Laboratories, Deland, FL.&#34;&gt;
-
 
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/nigerian-snake/2305151475_bbf786020f_k_hu092e02540d20bd644921ec2e00b905a3_483484_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;Juvenile King Cobra.&#34; width=&#34;2048&#34; height=&#34;1187&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
-
-
   
   
   &lt;figcaption&gt;
     &lt;p&gt;Juvenile King Cobra at Medtoxin Laboratories, Deland, FL.
       
-&lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;https://www.flickr.com/photos/audreysmithnaturequest/2305151475&#34;&gt; 
-Audrey Smith&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;https://www.flickr.com/photos/audreysmithnaturequest/2305151475&#34;&gt; Audrey Smith&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
         &lt;meta itemprop=&#34;name&#34; content=&#34;Audrey Smith&#34; /&gt;
-      &lt;/span&gt;
-&lt;/a&gt; &lt;/span&gt;
-&lt;/p&gt;
+      &lt;/span&gt;&lt;/a&gt; &lt;/span&gt;&lt;/p&gt;
   &lt;/figcaption&gt;
-
-
 &lt;/figure&gt;
 
 &lt;h2 id=&#34;new-and-general-field-guides&#34;&gt;New and General Field Guides&lt;/h2&gt;
@@ -26560,19 +25950,9 @@ Audrey Smith&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org
 
 
 
-
-
-
-
-
-  
-
-
-
   
   
-
-
+  
 
 
 
@@ -26588,47 +25968,27 @@ Audrey Smith&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org
 
 
 &lt;figure id=&#34;figure-bottom-of-page&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
-
-
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/website-license-vs-content-license/Bottom-of-page_hu6da07655c86f6ebcd4582582f273570d_233266_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Bottom of Page&#34;&gt;
-
 
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/website-license-vs-content-license/Bottom-of-page_hu6da07655c86f6ebcd4582582f273570d_233266_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;Image of webpage footer&#34; width=&#34;1920&#34; height=&#34;1080&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
-
-
   
   
   &lt;figcaption&gt;
     &lt;p&gt;Bottom of Page
       
-&lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;http://www.rapidwords.net/resources/files/rwc-questionnaire&#34;&gt; 
-rapidwords.net (SIL International)&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;http://www.rapidwords.net/resources/files/rwc-questionnaire&#34;&gt; rapidwords.net (SIL International)&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
         &lt;meta itemprop=&#34;name&#34; content=&#34;rapidwords.net (SIL International)&#34; /&gt;
-      &lt;/span&gt;
-&lt;/a&gt; &lt;/span&gt;
-&lt;/p&gt;
+      &lt;/span&gt;&lt;/a&gt; &lt;/span&gt;&lt;/p&gt;
   &lt;/figcaption&gt;
-
-
 &lt;/figure&gt;
 
 
 
 
-
-
-
-
-
-  
-
-
-
   
   
-
-
+  
 
 
 
@@ -26644,29 +26004,19 @@ rapidwords.net (SIL International)&lt;span itemprop=&#34;creator&#34; itemtype=&
 
 
 &lt;figure id=&#34;figure-bottom-of-page&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
-
-
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/website-license-vs-content-license/Top-of-page_hu92947ba777579ad27f0550a26096e373_491839_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Bottom of Page&#34;&gt;
-
 
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/website-license-vs-content-license/Top-of-page_hu92947ba777579ad27f0550a26096e373_491839_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;Image of webpage footer&#34; width=&#34;1920&#34; height=&#34;1080&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
-
-
   
   
   &lt;figcaption&gt;
     &lt;p&gt;Bottom of Page
       
-&lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;http://www.rapidwords.net/resources/files/rwc-questionnaire&#34;&gt; 
-rapidwords.net (SIL International)&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;http://www.rapidwords.net/resources/files/rwc-questionnaire&#34;&gt; rapidwords.net (SIL International)&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
         &lt;meta itemprop=&#34;name&#34; content=&#34;rapidwords.net (SIL International)&#34; /&gt;
-      &lt;/span&gt;
-&lt;/a&gt; &lt;/span&gt;
-&lt;/p&gt;
+      &lt;/span&gt;&lt;/a&gt; &lt;/span&gt;&lt;/p&gt;
   &lt;/figcaption&gt;
-
-
 &lt;/figure&gt;
 
 &lt;p&gt;In the footer, I see a copyright statement and then a CC-BY-SA license. Many websites who choose to put copyright and license material in the footer are really only referencing the Theme files of their web-page, or the immediately on-screen content. This is very common for open-source themes for WordPress, Drupal, and Joomla. It is unclear to me if this is the case on the RapidWords website. Or is the footer referring to the entire content of the website inclusive of the downloadable content? If it is referring to the theme files, then they ought to be licensed as code not as a creative work according to the Creative Commons Foundation. (The Creative Commons Foundation recommends not using Creative Commons Licenses for code base projects and points to other more appropriate licenses.)&lt;/p&gt;
@@ -26674,19 +26024,9 @@ rapidwords.net (SIL International)&lt;span itemprop=&#34;creator&#34; itemtype=&
 
 
 
-
-
-
-
-
-  
-
-
-
   
   
-
-
+  
 
 
 
@@ -26702,29 +26042,19 @@ rapidwords.net (SIL International)&lt;span itemprop=&#34;creator&#34; itemtype=&
 
 
 &lt;figure id=&#34;figure-close-up-of-screen-content&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
-
-
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/website-license-vs-content-license/decalkfgkndojdgc_huf9c93931f5b10e522981e6221644a41f_12481_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Close-up of screen content&#34;&gt;
-
 
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/website-license-vs-content-license/decalkfgkndojdgc_huf9c93931f5b10e522981e6221644a41f_12481_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;Close-up of screen content&#34; width=&#34;518&#34; height=&#34;211&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
-
-
   
   
   &lt;figcaption&gt;
     &lt;p&gt;Close-up of screen content
       
-&lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;http://www.rapidwords.net/resources/files/rwc-questionnaire&#34;&gt; 
-rapidwords.net (SIL International)&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;http://www.rapidwords.net/resources/files/rwc-questionnaire&#34;&gt; rapidwords.net (SIL International)&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
         &lt;meta itemprop=&#34;name&#34; content=&#34;rapidwords.net (SIL International)&#34; /&gt;
-      &lt;/span&gt;
-&lt;/a&gt; &lt;/span&gt;
-&lt;/p&gt;
+      &lt;/span&gt;&lt;/a&gt; &lt;/span&gt;&lt;/p&gt;
   &lt;/figcaption&gt;
-
-
 &lt;/figure&gt;
 
 &lt;p&gt;Then when I download the PDF of the content via the PDF button provided the content of the PDF only contains the copyright statement not the CC-BY-SA statement. Further adding confusion because the website is offering a PDF to me but then saying that the PDF is &amp;ldquo;all rights reserved&amp;rdquo;.&lt;/p&gt;
@@ -26751,19 +26081,9 @@ Because there is a footer on the web-page with a CC license, is the website user
 
 
 
-
-
-
-
-
-  
-
-
-
   
   
-
-
+  
 
 
 
@@ -26779,29 +26099,19 @@ Because there is a footer on the web-page with a CC license, is the website user
 
 
 &lt;figure id=&#34;figure-european-migration-destinations-from-nigeria&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
-
-
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/language-survey/European-migration_hub4c222a784b79103e28ddadfc55199f0_174013_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;European migration destinations from Nigeria.&#34;&gt;
-
 
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/language-survey/European-migration_hub4c222a784b79103e28ddadfc55199f0_174013_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;European migration destinations from Nigeria.&#34; width=&#34;894&#34; height=&#34;667&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
-
-
   
   
   &lt;figcaption&gt;
     &lt;p&gt;European migration destinations from Nigeria.
       
-&lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;http://www.lucify.com/the-flow-towards-europe&#34;&gt; 
-lucify.com&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;http://www.lucify.com/the-flow-towards-europe&#34;&gt; lucify.com&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
         &lt;meta itemprop=&#34;name&#34; content=&#34;lucify.com&#34; /&gt;
-      &lt;/span&gt;
-&lt;/a&gt; &lt;/span&gt;
-&lt;/p&gt;
+      &lt;/span&gt;&lt;/a&gt; &lt;/span&gt;&lt;/p&gt;
   &lt;/figcaption&gt;
-
-
 &lt;/figure&gt;
 
 &lt;h2 id=&#34;comments&#34;&gt;Comments&lt;/h2&gt;
@@ -26879,19 +26189,9 @@ A 6 minute introduction to crafting a personalized style sheet for an annotated 
       <description>
 
 
-
-
-
-
-
-  
-
-
-
   
   
-
-
+  
 
 
 
@@ -26907,47 +26207,27 @@ A 6 minute introduction to crafting a personalized style sheet for an annotated 
 
 
 &lt;figure id=&#34;figure-version-10&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
-
-
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/characters-trying-to-get-the-concepts-straight/Characters_hu97dbfb1fbb6f49a63a701f7b1634095b_158756_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Version 1.0&#34;&gt;
-
 
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/characters-trying-to-get-the-concepts-straight/Characters_hu97dbfb1fbb6f49a63a701f7b1634095b_158756_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;An infographic explaining the parts of Unicode characters: version 1.0.&#34; width=&#34;768&#34; height=&#34;977&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
-
-
   
   
   &lt;figcaption&gt;
     &lt;p&gt;Version 1.0
       
-&lt;span class=&#34;img-attribution&#34;&gt;Credit: 
-Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
         &lt;meta itemprop=&#34;name&#34; content=&#34;Hugh Paterson III&#34; /&gt;
-      &lt;/span&gt;
-&lt;/span&gt;
-&lt;/p&gt;
+      &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
   &lt;/figcaption&gt;
-
-
 &lt;/figure&gt;
 
 
 
 
-
-
-
-
-
-  
-
-
-
   
   
-
-
+  
 
 
 
@@ -26963,29 +26243,19 @@ Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schem
 
 
 &lt;figure id=&#34;figure-version-11&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
-
-
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/characters-trying-to-get-the-concepts-straight/Characters2_hu97dbfb1fbb6f49a63a701f7b1634095b_152970_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Version 1.1&#34;&gt;
-
 
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/characters-trying-to-get-the-concepts-straight/Characters2_hu97dbfb1fbb6f49a63a701f7b1634095b_152970_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;An infographic explaining the parts of Unicode characters: version 1.1.&#34; width=&#34;768&#34; height=&#34;977&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
-
-
   
   
   &lt;figcaption&gt;
     &lt;p&gt;Version 1.1
       
-&lt;span class=&#34;img-attribution&#34;&gt;Credit: 
-Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
         &lt;meta itemprop=&#34;name&#34; content=&#34;Hugh Paterson III&#34; /&gt;
-      &lt;/span&gt;
-&lt;/span&gt;
-&lt;/p&gt;
+      &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
   &lt;/figcaption&gt;
-
-
 &lt;/figure&gt;
 
 &lt;!-- O&#39;Brien, Kirby What could I do so that I could be more succinct in my presentation? I feel like there are four things that detract from the message of the infographic... can you name them?
@@ -27205,19 +26475,9 @@ Comment: It&#39;s not clear whether this spatial relationships between each box 
 
 
 
-
-
-
-
-
-  
-
-
-
   
   
-
-
+  
 
 
 
@@ -27233,47 +26493,27 @@ Comment: It&#39;s not clear whether this spatial relationships between each box 
 
 
 &lt;figure id=&#34;figure-worldcatorg-login-notice&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
-
-
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/are-we-up-front-with-our-users/USA-data2_hu877bf32cbb78377c6cb9b2b226d7edb3_273346_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;worldcat.org login notice&#34;&gt;
-
 
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/are-we-up-front-with-our-users/USA-data2_hu877bf32cbb78377c6cb9b2b226d7edb3_273346_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;Example Notice of laws governing data interactions and responsibilities.&#34; width=&#34;1349&#34; height=&#34;872&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
-
-
   
   
   &lt;figcaption&gt;
     &lt;p&gt;worldcat.org login notice
       
-&lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;https://worldcat.org&#34;&gt; 
-worldcat.org&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;https://worldcat.org&#34;&gt; worldcat.org&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
         &lt;meta itemprop=&#34;name&#34; content=&#34;worldcat.org&#34; /&gt;
-      &lt;/span&gt;
-&lt;/a&gt; &lt;/span&gt;
-&lt;/p&gt;
+      &lt;/span&gt;&lt;/a&gt; &lt;/span&gt;&lt;/p&gt;
   &lt;/figcaption&gt;
-
-
 &lt;/figure&gt;
 
 
 
 
-
-
-
-
-
-  
-
-
-
   
   
-
-
+  
 
 
 
@@ -27289,29 +26529,19 @@ worldcat.org&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org
 
 
 &lt;figure id=&#34;figure-worldcatorg-login-noticecloseup&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
-
-
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/are-we-up-front-with-our-users/USA-Data_hu27281f63c05ac7e3c68cad3f831b2b5c_35913_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;worldcat.org login notice—closeup&#34;&gt;
-
 
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/are-we-up-front-with-our-users/USA-Data_hu27281f63c05ac7e3c68cad3f831b2b5c_35913_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;Closeup of notice of laws governing data interactions and responsibilities.&#34; width=&#34;392&#34; height=&#34;299&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
-
-
   
   
   &lt;figcaption&gt;
     &lt;p&gt;worldcat.org login notice—closeup
       
-&lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;https://worldcat.org&#34;&gt; 
-worldcat.org&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;https://worldcat.org&#34;&gt; worldcat.org&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
         &lt;meta itemprop=&#34;name&#34; content=&#34;worldcat.org&#34; /&gt;
-      &lt;/span&gt;
-&lt;/a&gt; &lt;/span&gt;
-&lt;/p&gt;
+      &lt;/span&gt;&lt;/a&gt; &lt;/span&gt;&lt;/p&gt;
   &lt;/figcaption&gt;
-
-
 &lt;/figure&gt;
 
 </description>
@@ -27403,19 +26633,9 @@ A position statement on data citation and attribution in our field.
       <description>&lt;p&gt;
 
 
-
-
-
-
-
-  
-
-
-
   
   
-
-
+  
 
 
 
@@ -27431,29 +26651,19 @@ A position statement on data citation and attribution in our field.
 
 
 &lt;figure id=&#34;figure-a-work-flow-for-evaluating-and-categorizing-responses-related-to-archived-lexical-data-sets&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
-
-
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/process-for-evaluating-the-archiving-of-lexica-datasets/Lexical-Database-Explination-public_hu1f42cb37e1842396c0670ff6101a09bb_209777_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;A work-flow for evaluating and categorizing responses related to archived lexical data sets.&#34;&gt;
-
 
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/process-for-evaluating-the-archiving-of-lexica-datasets/Lexical-Database-Explination-public_hu1f42cb37e1842396c0670ff6101a09bb_209777_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;A work-flow for evaluating and categorizing responses related to archived lexical data sets.&#34; width=&#34;1130&#34; height=&#34;1466&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
-
-
   
   
   &lt;figcaption&gt;
     &lt;p&gt;A work-flow for evaluating and categorizing responses related to archived lexical data sets.
       
-&lt;span class=&#34;img-attribution&#34;&gt;Credit: 
-Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
         &lt;meta itemprop=&#34;name&#34; content=&#34;Hugh Paterson III&#34; /&gt;
-      &lt;/span&gt;
-&lt;/span&gt;
-&lt;/p&gt;
+      &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
   &lt;/figcaption&gt;
-
-
 &lt;/figure&gt;
 
 Note: This workflow would later be used in both:&lt;/p&gt;
@@ -27546,19 +26756,9 @@ Note: This workflow would later be used in both:&lt;/p&gt;
 
 
 
-
-
-
-
-
-  
-
-
-
   
   
-
-
+  
 
 
 
@@ -27574,29 +26774,19 @@ Note: This workflow would later be used in both:&lt;/p&gt;
 
 
 &lt;figure id=&#34;figure-image-adapted-from-lumen-learning-2014-slide-show-presentation-open-education-in-the-most-pilot-program&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
-
-
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/open-educational-resources-links/featured_hu81bc1a06ad23d1a3394f8e66fdd45308_40173_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Image adapted from Lumen Learning. (2014). Slide Show Presentation Open Education in the MOST Pilot Program.&#34;&gt;
-
 
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/open-educational-resources-links/featured_hu81bc1a06ad23d1a3394f8e66fdd45308_40173_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1215&#34; height=&#34;575&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
-
-
   
   
   &lt;figcaption&gt;
     &lt;p&gt;Image adapted from Lumen Learning. (2014). Slide Show Presentation Open Education in the MOST Pilot Program.
       
-&lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;https://lumenlearning.com&#34;&gt; 
-Lumen Learning&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;https://lumenlearning.com&#34;&gt; Lumen Learning&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
         &lt;meta itemprop=&#34;name&#34; content=&#34;Lumen Learning&#34; /&gt;
-      &lt;/span&gt;
-&lt;/a&gt; &lt;/span&gt;
-&lt;/p&gt;
+      &lt;/span&gt;&lt;/a&gt; &lt;/span&gt;&lt;/p&gt;
   &lt;/figcaption&gt;
-
-
 &lt;/figure&gt;
 
 </description>
@@ -27687,19 +26877,9 @@ Lumen Learning&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.o
 
 
 
-
-
-
-
-
-  
-
-
-
   
   
-
-
+  
 
 
 
@@ -27715,29 +26895,19 @@ Lumen Learning&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.o
 
 
 &lt;figure id=&#34;figure-command-line-draging-a-path-into-the-terminal&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
-
-
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/mass-import-to-endnote/references-folder_hu32c096761f8736ba2671964aa27d9564_16087_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Command line: draging a path into the terminal.&#34;&gt;
-
 
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/mass-import-to-endnote/references-folder_hu32c096761f8736ba2671964aa27d9564_16087_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;Command line: draging a path into the terminal&#34; width=&#34;663&#34; height=&#34;450&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
-
-
   
   
   &lt;figcaption&gt;
     &lt;p&gt;Command line: draging a path into the terminal.
       
-&lt;span class=&#34;img-attribution&#34;&gt;Credit: 
-Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
         &lt;meta itemprop=&#34;name&#34; content=&#34;Hugh Paterson III&#34; /&gt;
-      &lt;/span&gt;
-&lt;/span&gt;
-&lt;/p&gt;
+      &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
   &lt;/figcaption&gt;
-
-
 &lt;/figure&gt;
 
 &lt;p&gt;Type a &lt;code&gt;&amp;gt;&lt;/code&gt; symbol and the new &lt;code&gt;.ris&lt;/code&gt; file&amp;rsquo;s name. The result is a concatenation of all the data from the many &lt;code&gt;.ris&lt;/code&gt; files into one &lt;code&gt;.ris&lt;/code&gt; file. This allows me to go back to EndNote and import all the one massive &lt;code&gt;.ris&lt;/code&gt; file and save clicks.&lt;/p&gt;
@@ -27745,19 +26915,9 @@ Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schem
 
 
 
-
-
-
-
-
-  
-
-
-
   
   
-
-
+  
 
 
 
@@ -27773,29 +26933,19 @@ Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schem
 
 
 &lt;figure id=&#34;figure-command-line-draging-a-path-into-the-terminal&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
-
-
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/mass-import-to-endnote/commandline-example_hub045d3573b155fc84ef5b63eb5898357_12919_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Command line: draging a path into the terminal.&#34;&gt;
-
 
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/mass-import-to-endnote/commandline-example_hub045d3573b155fc84ef5b63eb5898357_12919_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;Command line: draging a path into the terminal&#34; width=&#34;1019&#34; height=&#34;457&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
-
-
   
   
   &lt;figcaption&gt;
     &lt;p&gt;Command line: draging a path into the terminal.
       
-&lt;span class=&#34;img-attribution&#34;&gt;Credit: 
-Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
         &lt;meta itemprop=&#34;name&#34; content=&#34;Hugh Paterson III&#34; /&gt;
-      &lt;/span&gt;
-&lt;/span&gt;
-&lt;/p&gt;
+      &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
   &lt;/figcaption&gt;
-
-
 &lt;/figure&gt;
 
 </description>
@@ -27814,19 +26964,9 @@ Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schem
 
 
 
-
-
-
-
-
-  
-
-
-
   
   
-
-
+  
 
 
 
@@ -27842,17 +26982,10 @@ Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schem
 
 
 &lt;figure  itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
-
-
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/lca-curation-workflow-network/NetworkGraph-LCA_hu9046408fde021e7ac81feb07247ffa8d_451744_2000x2000_fit_lanczos_2.png&#34; &gt;
 
-
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/lca-curation-workflow-network/NetworkGraph-LCA_hu9046408fde021e7ac81feb07247ffa8d_451744_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;Network Diagram&#34; width=&#34;984&#34; height=&#34;599&#34; itemprop=&#34;contentUrl&#34;&gt;
-&lt;/a&gt;
-
-
-
-&lt;/figure&gt;
+&lt;/a&gt;&lt;/figure&gt;
 
 </description>
     </item>
@@ -27867,19 +27000,9 @@ Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schem
 
 
 
-
-
-
-
-
-  
-
-
-
   
   
-
-
+  
 
 
 
@@ -27895,29 +27018,19 @@ Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schem
 
 
 &lt;figure id=&#34;figure-distractable&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
-
-
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/visual-data-and-interactive-data/how-to-focus_50290d04c13f4_w618_hu05d9cc6042e38b1b1163267cf162c24b_156781_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Distractable&#34;&gt;
-
 
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/visual-data-and-interactive-data/how-to-focus_50290d04c13f4_w618_hu05d9cc6042e38b1b1163267cf162c24b_156781_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;Distraction tree&#34; width=&#34;618&#34; height=&#34;450&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
-
-
   
   
   &lt;figcaption&gt;
     &lt;p&gt;Distractable
       
-&lt;span class=&#34;img-attribution&#34;&gt;Credit: 
-Learning Fundamentals&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: Learning Fundamentals&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
         &lt;meta itemprop=&#34;name&#34; content=&#34;Learning Fundamentals&#34; /&gt;
-      &lt;/span&gt;
-&lt;/span&gt;
-&lt;/p&gt;
+      &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
   &lt;/figcaption&gt;
-
-
 &lt;/figure&gt;
 
 &lt;p&gt;I could put all these items within the image in an linear outline format. However, by putting it in a picture format the viewer (of the story [data+graphic element]) is more likely to read some of it because they find some of the elements of iconicity interesting. The outline does not show relationships in two-dimensional space either.&lt;/p&gt;
@@ -27930,19 +27043,9 @@ Learning Fundamentals&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://s
 
 
 
-
-
-
-
-
-  
-
-
-
   
   
-
-
+  
 
 
 
@@ -27958,29 +27061,19 @@ Learning Fundamentals&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://s
 
 
 &lt;figure id=&#34;figure-world-literacy-rates&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
-
-
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/visual-data-and-interactive-data/UN-Literacy-Rates-2013-05-12-at-2.25.42-PM_huf760559bf516a711f812cd6c232dbd36_112029_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;World Literacy Rates&#34;&gt;
-
 
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/visual-data-and-interactive-data/UN-Literacy-Rates-2013-05-12-at-2.25.42-PM_huf760559bf516a711f812cd6c232dbd36_112029_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;World Literacy Rates, Map at UNESCO&#34; width=&#34;711&#34; height=&#34;699&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
-
-
   
   
   &lt;figcaption&gt;
     &lt;p&gt;World Literacy Rates
       
-&lt;span class=&#34;img-attribution&#34;&gt;Credit: 
-UNESCO&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: UNESCO&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
         &lt;meta itemprop=&#34;name&#34; content=&#34;UNESCO&#34; /&gt;
-      &lt;/span&gt;
-&lt;/span&gt;
-&lt;/p&gt;
+      &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
   &lt;/figcaption&gt;
-
-
 &lt;/figure&gt;
 
 &lt;h4 id=&#34;helping-citizens-know-how-they-are-using-energy&#34;&gt;Helping Citizens know how they are using energy.&lt;/h4&gt;
@@ -27989,19 +27082,9 @@ UNESCO&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Perso
 
 
 
-
-
-
-
-
-  
-
-
-
   
   
-
-
+  
 
 
 
@@ -28017,29 +27100,19 @@ UNESCO&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Perso
 
 
 &lt;figure id=&#34;figure-energy-consumption&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
-
-
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/visual-data-and-interactive-data/Percentages-Energy-2013-05-12-at-2.28.19-PM_hu5813022a56d7fe76c6e19785c194be43_260878_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Energy Consumption&#34;&gt;
-
 
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/visual-data-and-interactive-data/Percentages-Energy-2013-05-12-at-2.28.19-PM_hu5813022a56d7fe76c6e19785c194be43_260878_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;Bubble Chart in the shape of a tree with bubbles matching the size of consumption&#34; width=&#34;1003&#34; height=&#34;715&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
-
-
   
   
   &lt;figcaption&gt;
     &lt;p&gt;Energy Consumption
       
-&lt;span class=&#34;img-attribution&#34;&gt;Credit: 
-evoenergy.co.uk&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: evoenergy.co.uk&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
         &lt;meta itemprop=&#34;name&#34; content=&#34;evoenergy.co.uk&#34; /&gt;
-      &lt;/span&gt;
-&lt;/span&gt;
-&lt;/p&gt;
+      &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
   &lt;/figcaption&gt;
-
-
 &lt;/figure&gt;
 
 &lt;h4 id=&#34;helping-citizens-know-how-their-money-is-being-spent&#34;&gt;Helping citizens know how their money is being spent:&lt;/h4&gt;
@@ -28048,19 +27121,9 @@ evoenergy.co.uk&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.
 
 
 
-
-
-
-
-
-  
-
-
-
   
   
-
-
+  
 
 
 
@@ -28076,29 +27139,19 @@ evoenergy.co.uk&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.
 
 
 &lt;figure id=&#34;figure-government-spending-in-wales&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
-
-
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/visual-data-and-interactive-data/Money-in-Wales-2013-05-12-at-2.27.13-PM_hu11676a4054b579ba91846068131a5d02_97077_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Government spending in Wales&#34;&gt;
-
 
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/visual-data-and-interactive-data/Money-in-Wales-2013-05-12-at-2.27.13-PM_hu11676a4054b579ba91846068131a5d02_97077_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;Government spending in Wales&#34; width=&#34;1034&#34; height=&#34;693&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
-
-
   
   
   &lt;figcaption&gt;
     &lt;p&gt;Government spending in Wales
       
-&lt;span class=&#34;img-attribution&#34;&gt;Credit: 
-wheredoesmymoneygo.org&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: wheredoesmymoneygo.org&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
         &lt;meta itemprop=&#34;name&#34; content=&#34;wheredoesmymoneygo.org&#34; /&gt;
-      &lt;/span&gt;
-&lt;/span&gt;
-&lt;/p&gt;
+      &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
   &lt;/figcaption&gt;
-
-
 &lt;/figure&gt;
 
 &lt;h4 id=&#34;who-re-tweets-remarks-from-the-candidate---showing-political-affinity-to-the-remarks&#34;&gt;Who re-tweets remarks from the candidate - showing political affinity to the remarks.&lt;/h4&gt;
@@ -28110,19 +27163,9 @@ This twitter map was also featured in the
 
 
 
-
-
-
-
-
-  
-
-
-
   
   
-
-
+  
 
 
 
@@ -28138,29 +27181,19 @@ This twitter map was also featured in the
 
 
 &lt;figure id=&#34;figure-who-re-tweets-remarks-from-the-candidate&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
-
-
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/visual-data-and-interactive-data/Political-Twitter-2013-05-14-at-1.18.55-PM_hubc4e8d83e0826446d852f00ff67b0ea9_318197_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Who re-tweets remarks from the candidate&#34;&gt;
-
 
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/visual-data-and-interactive-data/Political-Twitter-2013-05-14-at-1.18.55-PM_hubc4e8d83e0826446d852f00ff67b0ea9_318197_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;Map of re-tweets for a political candidate&#34; width=&#34;1217&#34; height=&#34;816&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
-
-
   
   
   &lt;figcaption&gt;
     &lt;p&gt;Who re-tweets remarks from the candidate
       
-&lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;https://web.archive.org/web/20130430020812if_/https://election.twitter.com/map/#t243902647571185664&#34;&gt; 
-Twitter&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;https://web.archive.org/web/20130430020812if_/https://election.twitter.com/map/#t243902647571185664&#34;&gt; Twitter&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
         &lt;meta itemprop=&#34;name&#34; content=&#34;Twitter&#34; /&gt;
-      &lt;/span&gt;
-&lt;/a&gt; &lt;/span&gt;
-&lt;/p&gt;
+      &lt;/span&gt;&lt;/a&gt; &lt;/span&gt;&lt;/p&gt;
   &lt;/figcaption&gt;
-
-
 &lt;/figure&gt;
 
 &lt;h4 id=&#34;california-elections&#34;&gt;California Elections&lt;/h4&gt;
@@ -28169,19 +27202,9 @@ Twitter&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Pers
 
 
 
-
-
-
-
-
-  
-
-
-
   
   
-
-
+  
 
 
 
@@ -28197,48 +27220,28 @@ Twitter&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Pers
 
 
 &lt;figure id=&#34;figure-california-elections-visualized-live&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
-
-
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/visual-data-and-interactive-data/Cali-Elections-2013-05-14-at-1.34.28-PM_hu225a1f71ad9e6d72571cfb92687dfd7b_124019_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;California Elections visualized live&#34;&gt;
-
 
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/visual-data-and-interactive-data/Cali-Elections-2013-05-14-at-1.34.28-PM_hu225a1f71ad9e6d72571cfb92687dfd7b_124019_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;California Elections visualized live&#34; width=&#34;916&#34; height=&#34;669&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
-
-
   
   
   &lt;figcaption&gt;
     &lt;p&gt;California Elections visualized live
       
-&lt;span class=&#34;img-attribution&#34;&gt;Credit: 
-WYNC &amp;amp; KPCC&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: WYNC &amp;amp; KPCC&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
         &lt;meta itemprop=&#34;name&#34; content=&#34;WYNC &amp;amp; KPCC&#34; /&gt;
-      &lt;/span&gt;
-&lt;/span&gt;
-&lt;/p&gt;
+      &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
   &lt;/figcaption&gt;
-
-
 &lt;/figure&gt;
 
 &lt;h4 id=&#34;facebook-mapping-the-worlds-friendships&#34;&gt;Facebook: Mapping the World&amp;rsquo;s Friendships&lt;/h4&gt;
 
 
 
-
-
-
-
-
-  
-
-
-
   
   
-
-
+  
 
 
 
@@ -28254,29 +27257,19 @@ WYNC &amp;amp; KPCC&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://sch
 
 
 &lt;figure id=&#34;figure-the-us-occupied-the-marshall-islands-from-1944-until-1986-and-10-percent-of-the-islands-residents-hail-from-the-us-the-top-destination-for-marshallese-immigrants-is-the-united-states-where-they-mostly-reside-in-hawaii-oregon-california-and-arkansas&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
-
-
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/visual-data-and-interactive-data/fb3_hu196dfc9b73be07aae16707f4ff85b40b_74860_2000x2000_fit_lanczos.gif&#34; data-caption=&#34;The U.S. occupied the Marshall Islands from 1944 until 1986, and 10 percent of the islands&amp;amp;rsquo; residents hail from the U.S. The top destination for Marshallese immigrants is the United States, where they mostly reside in Hawaii, Oregon, California and Arkansas.&#34;&gt;
-
 
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/visual-data-and-interactive-data/fb3_hu196dfc9b73be07aae16707f4ff85b40b_74860_2000x2000_fit_lanczos.gif&#34; class=&#34;lazyload&#34; alt=&#34;Map of Facebook Relationships&#34; width=&#34;958&#34; height=&#34;677&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
-
-
   
   
   &lt;figcaption&gt;
     &lt;p&gt;The U.S. occupied the Marshall Islands from 1944 until 1986, and 10 percent of the islands&amp;rsquo; residents hail from the U.S. The top destination for Marshallese immigrants is the United States, where they mostly reside in Hawaii, Oregon, California and Arkansas.
       
-&lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;https://web.archive.org/web/20121017045328/http://content.stamen.com/facebook_mapping_the_worlds_friendships&#34;&gt; 
-Stamen Studio&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;https://web.archive.org/web/20121017045328/http://content.stamen.com/facebook_mapping_the_worlds_friendships&#34;&gt; Stamen Studio&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
         &lt;meta itemprop=&#34;name&#34; content=&#34;Stamen Studio&#34; /&gt;
-      &lt;/span&gt;
-&lt;/a&gt; &lt;/span&gt;
-&lt;/p&gt;
+      &lt;/span&gt;&lt;/a&gt; &lt;/span&gt;&lt;/p&gt;
   &lt;/figcaption&gt;
-
-
 &lt;/figure&gt;
 
 &lt;h4 id=&#34;other-non-interactive-info-graphics&#34;&gt;Other non-interactive info graphics&lt;/h4&gt;
@@ -28285,19 +27278,9 @@ Stamen Studio&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.or
 
 
 
-
-
-
-
-
-  
-
-
-
   
   
-
-
+  
 
 
 
@@ -28313,48 +27296,28 @@ Stamen Studio&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.or
 
 
 &lt;figure id=&#34;figure-us-population-by-longitude--latitude&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
-
-
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/visual-data-and-interactive-data/us-population-by-longitude_5066047b7c9e1_w1500_hua8c3d6862769ab9f73b855c75a732dd7_1537564_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;US Population By Longitude &amp;amp;amp; Latitude&#34;&gt;
-
 
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/visual-data-and-interactive-data/us-population-by-longitude_5066047b7c9e1_w1500_hua8c3d6862769ab9f73b855c75a732dd7_1537564_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;US Population By Longitude &amp;amp; Latitude&#34; width=&#34;1500&#34; height=&#34;1909&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
-
-
   
   
   &lt;figcaption&gt;
     &lt;p&gt;US Population By Longitude &amp;amp; Latitude
       
-&lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;https://ifweassume.blogspot.com/2012/09/us-population-by-longitude-latitude.html&#34;&gt; 
-James Davenport&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;https://ifweassume.blogspot.com/2012/09/us-population-by-longitude-latitude.html&#34;&gt; James Davenport&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
         &lt;meta itemprop=&#34;name&#34; content=&#34;James Davenport&#34; /&gt;
-      &lt;/span&gt;
-&lt;/a&gt; &lt;/span&gt;
-&lt;/p&gt;
+      &lt;/span&gt;&lt;/a&gt; &lt;/span&gt;&lt;/p&gt;
   &lt;/figcaption&gt;
-
-
 &lt;/figure&gt;
 
 &lt;p&gt;A similar story is told via the following map. However, a key difference is that the above map shows the distribution across the country, while the map below emphasizes change over time.&lt;/p&gt;
 
 
 
-
-
-
-
-
-  
-
-
-
   
   
-
-
+  
 
 
 
@@ -28370,29 +27333,19 @@ James Davenport&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.
 
 
 &lt;figure id=&#34;figure-mean-center-of-population-for-the-united-states-1790-to-2010&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
-
-
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/visual-data-and-interactive-data/2010-Center-of-population_hubf83f6e6e67e39869d1218507f785efc_372528_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Mean Center of Population for the United States: 1790 to 2010&#34;&gt;
-
 
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/visual-data-and-interactive-data/2010-Center-of-population_hubf83f6e6e67e39869d1218507f785efc_372528_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;Mean Center of Population for the United States: 1790 to 2010&#34; width=&#34;1100&#34; height=&#34;850&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
-
-
   
   
   &lt;figcaption&gt;
     &lt;p&gt;Mean Center of Population for the United States: 1790 to 2010
       
-&lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;https://web.archive.org/web/20110902052712/http://www.census.gov/geo/www/2010census/centerpop2010/centerpop_mean2010.pdf&#34;&gt; 
-U.S. Census Bureau, Geography Division&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;https://web.archive.org/web/20110902052712/http://www.census.gov/geo/www/2010census/centerpop2010/centerpop_mean2010.pdf&#34;&gt; U.S. Census Bureau, Geography Division&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
         &lt;meta itemprop=&#34;name&#34; content=&#34;U.S. Census Bureau, Geography Division&#34; /&gt;
-      &lt;/span&gt;
-&lt;/a&gt; &lt;/span&gt;
-&lt;/p&gt;
+      &lt;/span&gt;&lt;/a&gt; &lt;/span&gt;&lt;/p&gt;
   &lt;/figcaption&gt;
-
-
 &lt;/figure&gt;
 
 &lt;h4 id=&#34;video-based-infographics&#34;&gt;Video based infographics&lt;/h4&gt;
@@ -28478,19 +27431,9 @@ U.S. Census Bureau, Geography Division&lt;span itemprop=&#34;creator&#34; itemty
 
 
 
-
-
-
-
-
-  
-
-
-
   
   
-
-
+  
 
 
 
@@ -28506,29 +27449,19 @@ U.S. Census Bureau, Geography Division&lt;span itemprop=&#34;creator&#34; itemty
 
 
 &lt;figure id=&#34;figure-the-data-management-space-for-linguists-with-sil-software&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
-
-
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/the-data-management-space-for-linguists/_hu4ff5960dacb67496f7fa9cf08672f8ac_129511_a0e754edaf6b6d4ac60e182eea0f9f99.jpg&#34; data-caption=&#34;The Data Management Space for linguists with SIL software.&#34;&gt;
-
 
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/the-data-management-space-for-linguists/_hu4ff5960dacb67496f7fa9cf08672f8ac_129511_a0e754edaf6b6d4ac60e182eea0f9f99.jpg&#34; class=&#34;lazyload&#34; alt=&#34;The Data Management Space for linguists with SIL software.&#34; width=&#34;733&#34; height=&#34;576&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
-
-
   
   
   &lt;figcaption&gt;
     &lt;p&gt;The Data Management Space for linguists with SIL software.
       
-&lt;span class=&#34;img-attribution&#34;&gt;Credit: 
-Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
         &lt;meta itemprop=&#34;name&#34; content=&#34;Hugh Paterson III&#34; /&gt;
-      &lt;/span&gt;
-&lt;/span&gt;
-&lt;/p&gt;
+      &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
   &lt;/figcaption&gt;
-
-
 &lt;/figure&gt;
 
 </description>
@@ -28545,19 +27478,9 @@ Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schem
 
 
 
-
-
-
-
-
-  
-
-
-
   
   
-
-
+  
 
 
 
@@ -28573,29 +27496,19 @@ Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schem
 
 
 &lt;figure id=&#34;figure-facebook-user-base-graph-from-2010&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
-
-
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/socio-linguistic-profiles-for-language-documentation/Facebook-mapping-image_hu0aef8681ee99a41516320eb7e1527399_2066885_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Facebook User Base Graph from 2010&#34;&gt;
-
 
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/socio-linguistic-profiles-for-language-documentation/Facebook-mapping-image_hu0aef8681ee99a41516320eb7e1527399_2066885_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;Facebook User Base Graph from 2010&#34; width=&#34;1600&#34; height=&#34;797&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
-
-
   
   
   &lt;figcaption&gt;
     &lt;p&gt;Facebook User Base Graph from 2010
       
-&lt;span class=&#34;img-attribution&#34;&gt;Credit: 
-Facebook&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: Facebook&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
         &lt;meta itemprop=&#34;name&#34; content=&#34;Facebook&#34; /&gt;
-      &lt;/span&gt;
-&lt;/span&gt;
-&lt;/p&gt;
+      &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
   &lt;/figcaption&gt;
-
-
 &lt;/figure&gt;
 
 &lt;p&gt;Below is a list of elements which Facebook is collecting (it is also collecting log-in locations and times). So, some of these questions are certainly in-scope of what language documenters would minimally like to know about their indigenous language speaking informants and collaborators. Others of these questions are certainly not in-scope for the recommended socio-linguistic profile from language documenters or socio-linguists.&lt;/p&gt;
@@ -29034,19 +27947,9 @@ Red-eye, red-eye!&lt;/p&gt;
 
 
 
-
-
-
-
-
-  
-
-
-
   
   
-
-
+  
 
 
 
@@ -29062,29 +27965,19 @@ Red-eye, red-eye!&lt;/p&gt;
 
 
 &lt;figure id=&#34;figure-notice-of-nsf-grant-award&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
-
-
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/olac-grant-aggregator/NSF-Grant_hue2c2cdacdb65db441481dd609fada4c1_318924_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Notice of NSF Grant award&#34;&gt;
-
 
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/olac-grant-aggregator/NSF-Grant_hue2c2cdacdb65db441481dd609fada4c1_318924_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;Notice of NSF Grant award&#34; width=&#34;1436&#34; height=&#34;881&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
-
-
   
   
   &lt;figcaption&gt;
     &lt;p&gt;Notice of NSF Grant award
       
-&lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=0966411&amp;amp;WT.z_pims_id=12816&#34;&gt; 
-NSF&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=0966411&amp;amp;WT.z_pims_id=12816&#34;&gt; NSF&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
         &lt;meta itemprop=&#34;name&#34; content=&#34;NSF&#34; /&gt;
-      &lt;/span&gt;
-&lt;/a&gt; &lt;/span&gt;
-&lt;/p&gt;
+      &lt;/span&gt;&lt;/a&gt; &lt;/span&gt;&lt;/p&gt;
   &lt;/figcaption&gt;
-
-
 &lt;/figure&gt;
 
 &lt;p&gt;I was particularly happy to find that NSF does have a &lt;em&gt;grant offering&lt;/em&gt; and &lt;em&gt;grant awarded&lt;/em&gt; 
@@ -29452,19 +28345,9 @@ NSF&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#
 
 
 
-
-
-
-
-
-  
-
-
-
   
   
-
-
+  
 
 
 
@@ -29480,29 +28363,19 @@ NSF&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#
 
 
 &lt;figure id=&#34;figure-audio-archive-presenting-the-collection-the-tape-and-the-digital-manifestation&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
-
-
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/resources-for-digitizing-audio-as-part-of-archiving/Audio-Archive_hu51630dfbea76444c7729246fb14fe7d0_77766_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Audio Archive: Presenting the Collection, the tape and the digital manifestation.&#34;&gt;
-
 
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/resources-for-digitizing-audio-as-part-of-archiving/Audio-Archive_hu51630dfbea76444c7729246fb14fe7d0_77766_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;Audio Archive: Presenting the Collection, the tape and the digital manifestation.&#34; width=&#34;733&#34; height=&#34;576&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
-
-
   
   
   &lt;figcaption&gt;
     &lt;p&gt;Audio Archive: Presenting the Collection, the tape and the digital manifestation.
       
-&lt;span class=&#34;img-attribution&#34;&gt;Credit: 
-Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
         &lt;meta itemprop=&#34;name&#34; content=&#34;Hugh Paterson III&#34; /&gt;
-      &lt;/span&gt;
-&lt;/span&gt;
-&lt;/p&gt;
+      &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
   &lt;/figcaption&gt;
-
-
 &lt;/figure&gt;
 
 </description>
@@ -29561,19 +28434,9 @@ Part of the discussion at the workshop was on how we can make corpora which are 
 
 
 
-
-
-
-
-
-  
-
-
-
   
   
-
-
+  
 
 
 
@@ -29589,48 +28452,28 @@ Part of the discussion at the workshop was on how we can make corpora which are 
 
 
 &lt;figure id=&#34;figure-things-to-measure&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
-
-
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/metadata-dynamics-for-linguistic-and-sociolinguistic-corpora/Things-to-measure_hudb2aa5fdfc77cb2a5f1c164e530bcf5c_100561_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Things to measure&#34;&gt;
-
 
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/metadata-dynamics-for-linguistic-and-sociolinguistic-corpora/Things-to-measure_hudb2aa5fdfc77cb2a5f1c164e530bcf5c_100561_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;Things to measure in a socio-linguistic corpus&#34; width=&#34;756&#34; height=&#34;553&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
-
-
   
   
   &lt;figcaption&gt;
     &lt;p&gt;Things to measure
       
-&lt;span class=&#34;img-attribution&#34;&gt;Credit: 
-Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
         &lt;meta itemprop=&#34;name&#34; content=&#34;Hugh Paterson III&#34; /&gt;
-      &lt;/span&gt;
-&lt;/span&gt;
-&lt;/p&gt;
+      &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
   &lt;/figcaption&gt;
-
-
 &lt;/figure&gt;
 
 &lt;p&gt;This does not mean that the corpus does not also need to be cross cut with these other &amp;ldquo;sub-kinds&amp;rdquo;. However, these sub-kinds are significantly more in number and will very from project to project. Some of these metadata kinds will be collected in a speaker profile questionnaire. But some of these metadata can only be provided with reflection on the event. To demonstrate the cross cutting of these metadata elements on a corpus I have provided the following diagram. It uses categories which were mentioned in the workshop and is not intended to be comprehensive. In this second diagram, the cross cutting elements might themselves be taxonomies. They may have controlled vocabularies or they may have an open set of possible values, they may also represent a scale.&lt;/p&gt;
 
 
 
-
-
-
-
-
-  
-
-
-
   
   
-
-
+  
 
 
 
@@ -29646,29 +28489,19 @@ Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schem
 
 
 &lt;figure id=&#34;figure-taxonomies-for-social-demographics-and-social-dynamics-for-speakers-in-corpora&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
-
-
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/metadata-dynamics-for-linguistic-and-sociolinguistic-corpora/Explaining-tiers_huce82558c4b604cd77d6c5fee429274c5_107158_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Taxonomies for social demographics and social dynamics for speakers in corpora.&#34;&gt;
-
 
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/metadata-dynamics-for-linguistic-and-sociolinguistic-corpora/Explaining-tiers_huce82558c4b604cd77d6c5fee429274c5_107158_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;Taxonomies for social demographics and social dynamics for speakers in corpora&#34; width=&#34;756&#34; height=&#34;553&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
-
-
   
   
   &lt;figcaption&gt;
     &lt;p&gt;Taxonomies for social demographics and social dynamics for speakers in corpora.
       
-&lt;span class=&#34;img-attribution&#34;&gt;Credit: 
-Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
         &lt;meta itemprop=&#34;name&#34; content=&#34;Hugh Paterson III&#34; /&gt;
-      &lt;/span&gt;
-&lt;/span&gt;
-&lt;/p&gt;
+      &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
   &lt;/figcaption&gt;
-
-
 &lt;/figure&gt;
 
 &lt;p&gt;Both of these diagrams tend to illustrate what in this workshop were referred to a &amp;ldquo;event level&amp;rdquo; metadata, rather than &amp;ldquo;corpus level&amp;rdquo; metadata.&lt;/p&gt;
@@ -30104,19 +28937,9 @@ I have been exposed to the following taxonomy of metadata types though course wo
 
 
 
-
-
-
-
-
-  
-
-
-
   
   
-
-
+  
 
 
 
@@ -30132,29 +28955,19 @@ I have been exposed to the following taxonomy of metadata types though course wo
 
 
 &lt;figure id=&#34;figure-record-and-volume-levels&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
-
-
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/headphones-for-language-documentation/Record-and-Volume-Levels_hu6175e2e8318e865aaff9b1ae3a8c3023_61731_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Record and Volume Levels.&#34;&gt;
-
 
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/headphones-for-language-documentation/Record-and-Volume-Levels_hu6175e2e8318e865aaff9b1ae3a8c3023_61731_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;Record and Volume Levels&#34; width=&#34;525&#34; height=&#34;547&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
-
-
   
   
   &lt;figcaption&gt;
     &lt;p&gt;Record and Volume Levels.
       
-&lt;span class=&#34;img-attribution&#34;&gt;Credit: 
-Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
         &lt;meta itemprop=&#34;name&#34; content=&#34;Hugh Paterson III&#34; /&gt;
-      &lt;/span&gt;
-&lt;/span&gt;
-&lt;/p&gt;
+      &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
   &lt;/figcaption&gt;
-
-
 &lt;/figure&gt;
 
 &lt;p&gt;Just as Language Documentation is about &lt;em&gt;Capturing the Event&lt;/em&gt;,
@@ -30277,19 +29090,9 @@ Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schem
 
 
 
-
-
-
-
-
-  
-
-
-
   
   
-
-
+  
 
 
 
@@ -30305,29 +29108,19 @@ Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schem
 
 
 &lt;figure id=&#34;figure-various-kinds-of-headphones-as-displayed-by-apple&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
-
-
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/headphones-for-language-documentation/infographic-headphones_huddf3cab4712093ab2c6060d1c7076aea_9180_2000x2000_fit_lanczos.gif&#34; data-caption=&#34;Various kinds of headphones as displayed by Apple&#34;&gt;
-
 
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/headphones-for-language-documentation/infographic-headphones_huddf3cab4712093ab2c6060d1c7076aea_9180_2000x2000_fit_lanczos.gif&#34; class=&#34;lazyload&#34; alt=&#34;Various kinds of headphones as displayed by Apple&#34; width=&#34;504&#34; height=&#34;140&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
-
-
   
   
   &lt;figcaption&gt;
     &lt;p&gt;Various kinds of headphones as displayed by Apple
       
-&lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;http://web.archive.org/web/20110401153030/http://store.apple.com/us/browse/guide/headphones?mco=MTM3NTk3OTE&#34;&gt; 
-Apple, Inc&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;http://web.archive.org/web/20110401153030/http://store.apple.com/us/browse/guide/headphones?mco=MTM3NTk3OTE&#34;&gt; Apple, Inc&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
         &lt;meta itemprop=&#34;name&#34; content=&#34;Apple, Inc&#34; /&gt;
-      &lt;/span&gt;
-&lt;/a&gt; &lt;/span&gt;
-&lt;/p&gt;
+      &lt;/span&gt;&lt;/a&gt; &lt;/span&gt;&lt;/p&gt;
   &lt;/figcaption&gt;
-
-
 &lt;/figure&gt;
 
 &lt;ul&gt;
@@ -30369,19 +29162,9 @@ These come in two varieties:
 
 
 
-
-
-
-
-
-  
-
-
-
   
   
-
-
+  
 
 
 
@@ -30397,29 +29180,19 @@ These come in two varieties:
 
 
 &lt;figure id=&#34;figure-headphone-frequency-response-graph-by-pcmag-comparing-three-sets-of-headphones&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
-
-
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/headphones-for-language-documentation/Headphone-Frequency-Response.jpg_hue08168cb7baf6d897c9c144ed5b2c473_23633_2000x2000_fit_lanczos.gif&#34; data-caption=&#34;Headphone Frequency Response graph by PCMag comparing three sets of headphones.&#34;&gt;
-
 
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/headphones-for-language-documentation/Headphone-Frequency-Response.jpg_hue08168cb7baf6d897c9c144ed5b2c473_23633_2000x2000_fit_lanczos.gif&#34; class=&#34;lazyload&#34; alt=&#34;Headphone Frequency Response graph by PCMag comparing three sets of headphones.&#34; width=&#34;565&#34; height=&#34;436&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
-
-
   
   
   &lt;figcaption&gt;
     &lt;p&gt;Headphone Frequency Response graph by PCMag comparing three sets of headphones.
       
-&lt;span class=&#34;img-attribution&#34;&gt;Credit: 
-PCMag&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: PCMag&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
         &lt;meta itemprop=&#34;name&#34; content=&#34;PCMag&#34; /&gt;
-      &lt;/span&gt;
-&lt;/span&gt;
-&lt;/p&gt;
+      &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
   &lt;/figcaption&gt;
-
-
 &lt;/figure&gt;
 
 &lt;p&gt;&lt;strong&gt;Price:&lt;/strong&gt;&lt;/p&gt;
@@ -30434,19 +29207,9 @@ PCMag&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person
 
 
 
-
-
-
-
-
-  
-
-
-
   
   
-
-
+  
 
 
 
@@ -30462,29 +29225,19 @@ PCMag&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person
 
 
 &lt;figure id=&#34;figure-apple-earbuds&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
-
-
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/headphones-for-language-documentation/800px-IPod_Earbuds_hu6ca3b43693da92da26df9a9bd625b2f2_89304_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Apple Earbuds&#34;&gt;
-
 
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/headphones-for-language-documentation/800px-IPod_Earbuds_hu6ca3b43693da92da26df9a9bd625b2f2_89304_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;Apple Earbuds&#34; width=&#34;800&#34; height=&#34;434&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
-
-
   
   
   &lt;figcaption&gt;
     &lt;p&gt;Apple Earbuds
       
-&lt;span class=&#34;img-attribution&#34;&gt;Credit: 
-The Internet&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: The Internet&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
         &lt;meta itemprop=&#34;name&#34; content=&#34;The Internet&#34; /&gt;
-      &lt;/span&gt;
-&lt;/span&gt;
-&lt;/p&gt;
+      &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
   &lt;/figcaption&gt;
-
-
 &lt;/figure&gt;
 
 &lt;p&gt;Headphone Type: Canal&lt;/p&gt;
@@ -30503,19 +29256,9 @@ How I use them: I listen to my iPod with them. I also listen to music through my
 
 
 
-
-
-
-
-
-  
-
-
-
   
   
-
-
+  
 
 
 
@@ -30531,29 +29274,19 @@ How I use them: I listen to my iPod with them. I also listen to music through my
 
 
 &lt;figure id=&#34;figure-olympus-earbuds&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
-
-
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/headphones-for-language-documentation/olympus-headphones_huaf860957bdecf405de174b49098fa288_1100494_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Olympus Earbuds&#34;&gt;
-
 
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/headphones-for-language-documentation/olympus-headphones_huaf860957bdecf405de174b49098fa288_1100494_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;Olympus Earbuds&#34; width=&#34;1600&#34; height=&#34;1200&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
-
-
   
   
   &lt;figcaption&gt;
     &lt;p&gt;Olympus Earbuds
       
-&lt;span class=&#34;img-attribution&#34;&gt;Credit: 
-Hugh&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: Hugh&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
         &lt;meta itemprop=&#34;name&#34; content=&#34;Hugh&#34; /&gt;
-      &lt;/span&gt;
-&lt;/span&gt;
-&lt;/p&gt;
+      &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
   &lt;/figcaption&gt;
-
-
 &lt;/figure&gt;
 
 &lt;p&gt;Headphone Type: Canal&lt;/p&gt;
@@ -30569,19 +29302,9 @@ Hugh&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&
 
 
 
-
-
-
-
-
-  
-
-
-
   
   
-
-
+  
 
 
 
@@ -30597,29 +29320,19 @@ Hugh&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&
 
 
 &lt;figure id=&#34;figure-actively-monitoring-the-audio-though-the-video-camera&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
-
-
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/headphones-for-language-documentation/work_mex-015_hu8d07cad679e1601233e6c7935d1f1a1b_364643_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Actively monitoring the audio though the video camera.&#34;&gt;
-
 
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/headphones-for-language-documentation/work_mex-015_hu8d07cad679e1601233e6c7935d1f1a1b_364643_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;Olympus Earbuds in use.&#34; width=&#34;1280&#34; height=&#34;720&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
-
-
   
   
   &lt;figcaption&gt;
     &lt;p&gt;Actively monitoring the audio though the video camera.
       
-&lt;span class=&#34;img-attribution&#34;&gt;Credit: 
-Kevin Cline&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: Kevin Cline&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
         &lt;meta itemprop=&#34;name&#34; content=&#34;Kevin Cline&#34; /&gt;
-      &lt;/span&gt;
-&lt;/span&gt;
-&lt;/p&gt;
+      &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
   &lt;/figcaption&gt;
-
-
 &lt;/figure&gt;
 
 &lt;h3 id=&#34;samson-ch700&#34;&gt;Samson CH700&lt;/h3&gt;
@@ -30629,19 +29342,9 @@ Kevin Cline&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/
 
 
 
-
-
-
-
-
-  
-
-
-
   
   
-
-
+  
 
 
 
@@ -30657,29 +29360,19 @@ Kevin Cline&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/
 
 
 &lt;figure id=&#34;figure-samson-ch700&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
-
-
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/headphones-for-language-documentation/CH700_hu079a24657d5c46b14837aada86e7e493_21045_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Samson CH700&#34;&gt;
-
 
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/headphones-for-language-documentation/CH700_hu079a24657d5c46b14837aada86e7e493_21045_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;Samson CH700&#34; width=&#34;235&#34; height=&#34;358&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
-
-
   
   
   &lt;figcaption&gt;
     &lt;p&gt;Samson CH700
       
-&lt;span class=&#34;img-attribution&#34;&gt;Credit: 
-The Internet&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: The Internet&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
         &lt;meta itemprop=&#34;name&#34; content=&#34;The Internet&#34; /&gt;
-      &lt;/span&gt;
-&lt;/span&gt;
-&lt;/p&gt;
+      &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
   &lt;/figcaption&gt;
-
-
 &lt;/figure&gt;
 
 &lt;p&gt;Headphone Type: Closed Back&lt;/p&gt;
@@ -30699,19 +29392,9 @@ The Internet&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org
 
 
 
-
-
-
-
-
-  
-
-
-
   
   
-
-
+  
 
 
 
@@ -30727,29 +29410,19 @@ The Internet&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org
 
 
 &lt;figure id=&#34;figure-sony-mdr-v600&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
-
-
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/headphones-for-language-documentation/MDR-V600_hu3e029789b840208e6f964512072103f9_121497_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Sony MDR-V600&#34;&gt;
-
 
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/headphones-for-language-documentation/MDR-V600_hu3e029789b840208e6f964512072103f9_121497_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;Sony MDR-V600&#34; width=&#34;600&#34; height=&#34;600&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
-
-
   
   
   &lt;figcaption&gt;
     &lt;p&gt;Sony MDR-V600
       
-&lt;span class=&#34;img-attribution&#34;&gt;Credit: 
-The Internet&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: The Internet&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
         &lt;meta itemprop=&#34;name&#34; content=&#34;The Internet&#34; /&gt;
-      &lt;/span&gt;
-&lt;/span&gt;
-&lt;/p&gt;
+      &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
   &lt;/figcaption&gt;
-
-
 &lt;/figure&gt;
 
 &lt;p&gt;Headphone Type: Closed Back&lt;/p&gt;
@@ -30767,19 +29440,9 @@ The Internet&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org
 
 
 
-
-
-
-
-
-  
-
-
-
   
   
-
-
+  
 
 
 
@@ -30795,29 +29458,19 @@ The Internet&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org
 
 
 &lt;figure id=&#34;figure-wearing-mdr-v600-headphones-while-recording-an-elicitation-session&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
-
-
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/headphones-for-language-documentation/work_mex-003_hu824fe1720ce4594e0816ae0aa3199ec1_228711_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Wearing MDR-V600 headphones while recording an elicitation session.&#34;&gt;
-
 
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/headphones-for-language-documentation/work_mex-003_hu824fe1720ce4594e0816ae0aa3199ec1_228711_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;Wearing MDR-V600 headphones while recording an elicitation session.&#34; width=&#34;960&#34; height=&#34;1280&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
-
-
   
   
   &lt;figcaption&gt;
     &lt;p&gt;Wearing MDR-V600 headphones while recording an elicitation session.
       
-&lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;https://scholar.google.es/citations?user=o1m8hsMAAAAJ&amp;amp;hl=en&#34;&gt; 
-Stephen Marlett&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;https://scholar.google.es/citations?user=o1m8hsMAAAAJ&amp;amp;hl=en&#34;&gt; Stephen Marlett&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
         &lt;meta itemprop=&#34;name&#34; content=&#34;Stephen Marlett&#34; /&gt;
-      &lt;/span&gt;
-&lt;/a&gt; &lt;/span&gt;
-&lt;/p&gt;
+      &lt;/span&gt;&lt;/a&gt; &lt;/span&gt;&lt;/p&gt;
   &lt;/figcaption&gt;
-
-
 &lt;/figure&gt;
 
 &lt;h2 id=&#34;bibliography&#34;&gt;Bibliography&lt;/h2&gt;
@@ -31108,19 +29761,9 @@ For pragmatic reasons it makes sense for SIL to start where it already has conta
 &lt;em&gt;I think you can do this in the interface. Though it was not obvious on how to do it&lt;/em&gt;. 
 
 
-
-
-
-
-
-  
-
-
-
   
   
-
-
+  
 
 
 
@@ -31136,29 +29779,19 @@ For pragmatic reasons it makes sense for SIL to start where it already has conta
 
 
 &lt;figure id=&#34;figure-endnote-display-fields&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
-
-
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/using-endnote-x4-for-mac/Endnote_Display_Fields_hu6175e2e8318e865aaff9b1ae3a8c3023_108510_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Endnote Display Fields.&#34;&gt;
-
 
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/using-endnote-x4-for-mac/Endnote_Display_Fields_hu6175e2e8318e865aaff9b1ae3a8c3023_108510_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;Endnote Display Fields&#34; width=&#34;724&#34; height=&#34;466&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
-
-
   
   
   &lt;figcaption&gt;
     &lt;p&gt;Endnote Display Fields.
       
-&lt;span class=&#34;img-attribution&#34;&gt;Credit: 
-Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
         &lt;meta itemprop=&#34;name&#34; content=&#34;Hugh Paterson III&#34; /&gt;
-      &lt;/span&gt;
-&lt;/span&gt;
-&lt;/p&gt;
+      &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
   &lt;/figcaption&gt;
-
-
 &lt;/figure&gt;
 &lt;/p&gt;
 &lt;/li&gt;
@@ -31187,19 +29820,9 @@ Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schem
 &lt;em&gt;I have Volume and Issue Data. Some of the citation data pulled in for some items has the issue set as 02, 03, etc. I want to be able to find all the issues which start with a zero so I can remove the zeros. Most stylesheets do not remove the zeros and also do not allow for them&lt;/em&gt;. 
 
 
-
-
-
-
-
-  
-
-
-
   
   
-
-
+  
 
 
 
@@ -31215,29 +29838,19 @@ Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schem
 
 
 &lt;figure id=&#34;figure-items-are-not-selectable-based-on-issue-data&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
-
-
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/using-endnote-x4-for-mac/Issue_data_hu6175e2e8318e865aaff9b1ae3a8c3023_170476_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Items are not selectable based on Issue Data.&#34;&gt;
-
 
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/using-endnote-x4-for-mac/Issue_data_hu6175e2e8318e865aaff9b1ae3a8c3023_170476_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;Items are not selectable based on Issue Data&#34; width=&#34;748&#34; height=&#34;900&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
-
-
   
   
   &lt;figcaption&gt;
     &lt;p&gt;Items are not selectable based on Issue Data.
       
-&lt;span class=&#34;img-attribution&#34;&gt;Credit: 
-Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
         &lt;meta itemprop=&#34;name&#34; content=&#34;Hugh Paterson III&#34; /&gt;
-      &lt;/span&gt;
-&lt;/span&gt;
-&lt;/p&gt;
+      &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
   &lt;/figcaption&gt;
-
-
 &lt;/figure&gt;
 &lt;/p&gt;
 &lt;/li&gt;
@@ -31248,19 +29861,9 @@ Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schem
 &lt;p&gt;Can not open the folder which contains a PDF included in an Endnote Library. 
 
 
-
-
-
-
-
-  
-
-
-
   
   
-
-
+  
 
 
 
@@ -31276,29 +29879,19 @@ Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schem
 
 
 &lt;figure id=&#34;figure-endnote-does-not-have-a-way-to-open-the-containing-folder-of-a-pdf&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
-
-
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/using-endnote-x4-for-mac/_hu6175e2e8318e865aaff9b1ae3a8c3023_309625_77c2b327ef372c8dec87fdc16cb9099e.jpg&#34; data-caption=&#34;Endnote does not have a way to open the containing folder of a PDF.&#34;&gt;
-
 
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/using-endnote-x4-for-mac/_hu6175e2e8318e865aaff9b1ae3a8c3023_309625_77c2b327ef372c8dec87fdc16cb9099e.jpg&#34; class=&#34;lazyload&#34; alt=&#34;Endnote does not have a way to open the containing folder of a PDF&#34; width=&#34;1440&#34; height=&#34;900&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
-
-
   
   
   &lt;figcaption&gt;
     &lt;p&gt;Endnote does not have a way to open the containing folder of a PDF.
       
-&lt;span class=&#34;img-attribution&#34;&gt;Credit: 
-Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
         &lt;meta itemprop=&#34;name&#34; content=&#34;Hugh Paterson III&#34; /&gt;
-      &lt;/span&gt;
-&lt;/span&gt;
-&lt;/p&gt;
+      &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
   &lt;/figcaption&gt;
-
-
 &lt;/figure&gt;
 &lt;/p&gt;
 &lt;/li&gt;
@@ -31306,19 +29899,9 @@ Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schem
 
 
 
-
-
-
-
-
-  
-
-
-
   
   
-
-
+  
 
 
 
@@ -31334,29 +29917,19 @@ Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schem
 
 
 &lt;figure id=&#34;figure-endnote-does-not-have-a-way-to-open-the-containing-folder-of-an-included-pdf&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
-
-
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/using-endnote-x4-for-mac/_hu6175e2e8318e865aaff9b1ae3a8c3023_44705_d588c9cd8c507a3a0886c75d1395a4e2.jpg&#34; data-caption=&#34;Endnote does not have a way to open the containing folder of an included PDF.&#34;&gt;
-
 
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/using-endnote-x4-for-mac/_hu6175e2e8318e865aaff9b1ae3a8c3023_44705_d588c9cd8c507a3a0886c75d1395a4e2.jpg&#34; class=&#34;lazyload&#34; alt=&#34;Endnote does not have a way to open the containing folder of an included PDF&#34; width=&#34;495&#34; height=&#34;360&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
-
-
   
   
   &lt;figcaption&gt;
     &lt;p&gt;Endnote does not have a way to open the containing folder of an included PDF.
       
-&lt;span class=&#34;img-attribution&#34;&gt;Credit: 
-Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
         &lt;meta itemprop=&#34;name&#34; content=&#34;Hugh Paterson III&#34; /&gt;
-      &lt;/span&gt;
-&lt;/span&gt;
-&lt;/p&gt;
+      &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
   &lt;/figcaption&gt;
-
-
 &lt;/figure&gt;
 
 &lt;ol start=&#34;11&#34;&gt;
@@ -31382,19 +29955,9 @@ This is in the Help Menus I was expecting it on the producers website or in a bo
 i.e. I want to create a smart group of all the references with a PDF attached but I only want it to pull from the items in a particular group (or set of groups). 
 
 
-
-
-
-
-
-  
-
-
-
   
   
-
-
+  
 
 
 
@@ -31410,29 +29973,19 @@ i.e. I want to create a smart group of all the references with a PDF attached bu
 
 
 &lt;figure id=&#34;figure-endnote-has-no-option-for-part-of-group-filter&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
-
-
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/using-endnote-x4-for-mac/Endnote_no_option_for_part_of_group_filter_hu6175e2e8318e865aaff9b1ae3a8c3023_255471_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Endnote has no option for &amp;#39;part of group&amp;#39; filter.&#34;&gt;
-
 
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/using-endnote-x4-for-mac/Endnote_no_option_for_part_of_group_filter_hu6175e2e8318e865aaff9b1ae3a8c3023_255471_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;Endnote has no option for \&amp;#39;part of group\&amp;#39; filter&#34; width=&#34;1440&#34; height=&#34;900&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
-
-
   
   
   &lt;figcaption&gt;
     &lt;p&gt;Endnote has no option for &#39;part of group&#39; filter.
       
-&lt;span class=&#34;img-attribution&#34;&gt;Credit: 
-Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
         &lt;meta itemprop=&#34;name&#34; content=&#34;Hugh Paterson III&#34; /&gt;
-      &lt;/span&gt;
-&lt;/span&gt;
-&lt;/p&gt;
+      &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
   &lt;/figcaption&gt;
-
-
 &lt;/figure&gt;
 &lt;/p&gt;
 &lt;/li&gt;
@@ -31440,19 +29993,9 @@ Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schem
 &lt;p&gt;There is no PDF Preview within the application. The existing Preview is for seeing the current citation in the selected citation style. (Preview of the output.) It would be helpful if there was also a preview pane for viewing the PDF or the attached file. 
 
 
-
-
-
-
-
-  
-
-
-
   
   
-
-
+  
 
 
 
@@ -31468,29 +30011,19 @@ Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schem
 
 
 &lt;figure id=&#34;figure-no-pdf-preview-internal-to-endnote&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
-
-
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/using-endnote-x4-for-mac/No_PDF_Preview_internal_to_Endnote_hu6175e2e8318e865aaff9b1ae3a8c3023_245019_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;No PDF Preview internal to Endnote.&#34;&gt;
-
 
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/using-endnote-x4-for-mac/No_PDF_Preview_internal_to_Endnote_hu6175e2e8318e865aaff9b1ae3a8c3023_245019_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;No PDF Preview internal to Endnote&#34; width=&#34;1290&#34; height=&#34;877&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
-
-
   
   
   &lt;figcaption&gt;
     &lt;p&gt;No PDF Preview internal to Endnote.
       
-&lt;span class=&#34;img-attribution&#34;&gt;Credit: 
-Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
         &lt;meta itemprop=&#34;name&#34; content=&#34;Hugh Paterson III&#34; /&gt;
-      &lt;/span&gt;
-&lt;/span&gt;
-&lt;/p&gt;
+      &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
   &lt;/figcaption&gt;
-
-
 &lt;/figure&gt;
 &lt;/p&gt;
 &lt;/li&gt;

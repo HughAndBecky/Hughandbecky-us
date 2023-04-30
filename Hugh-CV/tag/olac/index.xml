@@ -1784,19 +1784,9 @@ Wenige, L., &amp; Ruhland, J. (2018). Retrieval by recommendation: Using LOD tec
 
 
 
-
-
-
-
-
-  
-
-
-
   
   
-
-
+  
 
 
 
@@ -1812,29 +1802,19 @@ Wenige, L., &amp; Ruhland, J. (2018). Retrieval by recommendation: Using LOD tec
 
 
 &lt;figure id=&#34;figure-crubadan-record-for-karbi-hills-karbi-in-the-olac-interface&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
-
-
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/crubadan-olac-records/_hub4fb0a3d5618c54546bd65640ee26d82_241537_3781aedb7029e4d23bef189367664de8.png&#34; data-caption=&#34;Crubadan record for Karbi (Hills Karbi) in the OLAC Interface&#34;&gt;
-
 
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/crubadan-olac-records/_hub4fb0a3d5618c54546bd65640ee26d82_241537_3781aedb7029e4d23bef189367664de8.png&#34; class=&#34;lazyload&#34; alt=&#34;Screen shot of the OLAC Interface&#34; width=&#34;1920&#34; height=&#34;1189&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
-
-
   
   
   &lt;figcaption&gt;
     &lt;p&gt;Crubadan record for Karbi (Hills Karbi) in the OLAC Interface
       
-&lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;http://www.language-archives.org/item/oai:crubadan.org:mjw&#34;&gt; 
-OLAC Interface&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;http://www.language-archives.org/item/oai:crubadan.org:mjw&#34;&gt; OLAC Interface&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
         &lt;meta itemprop=&#34;name&#34; content=&#34;OLAC Interface&#34; /&gt;
-      &lt;/span&gt;
-&lt;/a&gt; &lt;/span&gt;
-&lt;/p&gt;
+      &lt;/span&gt;&lt;/a&gt; &lt;/span&gt;&lt;/p&gt;
   &lt;/figcaption&gt;
-
-
 &lt;/figure&gt;
 
 &lt;ol&gt;
@@ -2788,19 +2768,9 @@ Note: I am working from the OAI-PMH framework and looking at record cohesion/rec
 
 
 
-
-
-
-
-
-  
-
-
-
   
   
-
-
+  
 
 
 
@@ -2816,48 +2786,28 @@ Note: I am working from the OAI-PMH framework and looking at record cohesion/rec
 
 
 &lt;figure id=&#34;figure-audio-transcriptions-illustrated-with-their-dublin-core-relationships&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
-
-
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/dublin-core-dcmitype-physicalobject/transcription_hu4a128525df4cc7f09f7356396c758cc6_119881_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Audio transcriptions illustrated with their Dublin Core relationships.&#34;&gt;
-
 
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/dublin-core-dcmitype-physicalobject/transcription_hu4a128525df4cc7f09f7356396c758cc6_119881_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;A diagram indicating the relationships between language resources.&#34; width=&#34;1013&#34; height=&#34;601&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
-
-
   
   
   &lt;figcaption&gt;
     &lt;p&gt;Audio transcriptions illustrated with their Dublin Core relationships.
       
-&lt;span class=&#34;img-attribution&#34;&gt;Credit: 
-Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
         &lt;meta itemprop=&#34;name&#34; content=&#34;Hugh Paterson III&#34; /&gt;
-      &lt;/span&gt;
-&lt;/span&gt;
-&lt;/p&gt;
+      &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
   &lt;/figcaption&gt;
-
-
 &lt;/figure&gt;
 
 &lt;p&gt;Now this diagram can be extended to include the physical objects used to create the primary orginal audio file.
 
 
 
-
-
-
-
-
-  
-
-
-
   
   
-
-
+  
 
 
 
@@ -2873,29 +2823,19 @@ Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schem
 
 
 &lt;figure id=&#34;figure-microphones-and-recorders-illustrated-with-their-dublin-core-relationships&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
-
-
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/dublin-core-dcmitype-physicalobject/Microphone_hu718801aa1d8a67b92ff4aaf14b1c5da4_146248_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Microphones and recorders illustrated with their Dublin Core relationships.&#34;&gt;
-
 
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/dublin-core-dcmitype-physicalobject/Microphone_hu718801aa1d8a67b92ff4aaf14b1c5da4_146248_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;A diagram indicating the relationships between language resources.&#34; width=&#34;1477&#34; height=&#34;976&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
-
-
   
   
   &lt;figcaption&gt;
     &lt;p&gt;Microphones and recorders illustrated with their Dublin Core relationships.
       
-&lt;span class=&#34;img-attribution&#34;&gt;Credit: 
-Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
         &lt;meta itemprop=&#34;name&#34; content=&#34;Hugh Paterson III&#34; /&gt;
-      &lt;/span&gt;
-&lt;/span&gt;
-&lt;/p&gt;
+      &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
   &lt;/figcaption&gt;
-
-
 &lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;The relationship between the manifestation record and the record for the physical objects can be expressed through the Dublin Core element &lt;code&gt;Source&lt;/code&gt; which is a special type of relationship.&lt;/p&gt;
@@ -4311,19 +4251,9 @@ Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schem
 
 
 
-
-
-
-
-
-  
-
-
-
   
   
-
-
+  
 
 
 
@@ -4339,29 +4269,19 @@ Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schem
 
 
 &lt;figure id=&#34;figure-paradisec-record-for-frog-story-in-the-olac-interface&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
-
-
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/paradisec-olac-records-and-rights/featured_huc0fc9ad1f1cbebce936878f6092d95b6_196944_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;PARADISEC record for Frog story in the OLAC Interface&#34;&gt;
-
 
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/paradisec-olac-records-and-rights/featured_huc0fc9ad1f1cbebce936878f6092d95b6_196944_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;Screen shot of the OLAC Interface&#34; width=&#34;928&#34; height=&#34;864&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
-
-
   
   
   &lt;figcaption&gt;
     &lt;p&gt;PARADISEC record for Frog story in the OLAC Interface
       
-&lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;http://www.language-archives.org/item/oai:paradisec.org.au:GK1-FM15_61_2c&#34;&gt; 
-OLAC Interface&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;http://www.language-archives.org/item/oai:paradisec.org.au:GK1-FM15_61_2c&#34;&gt; OLAC Interface&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
         &lt;meta itemprop=&#34;name&#34; content=&#34;OLAC Interface&#34; /&gt;
-      &lt;/span&gt;
-&lt;/a&gt; &lt;/span&gt;
-&lt;/p&gt;
+      &lt;/span&gt;&lt;/a&gt; &lt;/span&gt;&lt;/p&gt;
   &lt;/figcaption&gt;
-
-
 &lt;/figure&gt;
 
 &lt;p&gt;The following XML record replicated below is from OLAC. It is retrievable 
@@ -4580,19 +4500,9 @@ OLAC Interface&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.o
 
 
 
-
-
-
-
-
-  
-
-
-
   
   
-
-
+  
 
 
 
@@ -4608,29 +4518,19 @@ OLAC Interface&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.o
 
 
 &lt;figure id=&#34;figure-a-picture-made-of-words--reinhard-döhl-apfel-1965-note-that-arabic-art-also-contains-many-images-constructed-of-text&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
-
-
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/dublin-core-dcmitype/DohlApfel_hud551a789fbb81b0c92f5be46b382cf02_35956_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;A picture made of words.  Reinhard Döhl, “Apfel” (1965). Note that Arabic art also contains many images constructed of text.&#34;&gt;
-
 
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/dublin-core-dcmitype/DohlApfel_hud551a789fbb81b0c92f5be46b382cf02_35956_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34; Reinhard Döhl, “Apfel” (1965)&#34; width=&#34;270&#34; height=&#34;250&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
-
-
   
   
   &lt;figcaption&gt;
     &lt;p&gt;A picture made of words.  Reinhard Döhl, “Apfel” (1965). Note that Arabic art also contains many images constructed of text.
       
-&lt;span class=&#34;img-attribution&#34;&gt;Credit: 
-Reinhard Döhl&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: Reinhard Döhl&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
         &lt;meta itemprop=&#34;name&#34; content=&#34;Reinhard Döhl&#34; /&gt;
-      &lt;/span&gt;
-&lt;/span&gt;
-&lt;/p&gt;
+      &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
   &lt;/figcaption&gt;
-
-
 &lt;/figure&gt;
 
 &lt;p&gt;If we follow the 1-to-1 principle in Dublin Core then only one qualified DCMIType should be applied to any specific record. So which one? I have created the following flowchart to guide a person through the process of selecting the most appropriate DCMIType term. Clicking the diagram opens it up within the mermaid editor where the text can be more easily read.&lt;/p&gt;
@@ -4652,19 +4552,9 @@ Comment: A collection is described as a group; its parts may also be separately 
 
 
 
-
-
-
-
-
-  
-
-
-
   
   
-
-
+  
 
 
 
@@ -4680,29 +4570,19 @@ Comment: A collection is described as a group; its parts may also be separately 
 
 
 &lt;figure id=&#34;figure-glottolog-46-resources-for-hills-karbi-in-the-olac-search-interface&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
-
-
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/dublin-core-dcmitype/glotologrecords_hu259362def301c4a7d53fb0b3d91e2e70_59487_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Glottolog 4.6 Resources for Hills Karbi in the OLAC Search Interface&#34;&gt;
-
 
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/dublin-core-dcmitype/glotologrecords_hu259362def301c4a7d53fb0b3d91e2e70_59487_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;Glottolog 4.6 Resources for Hills Karbi&#34; width=&#34;954&#34; height=&#34;459&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
-
-
   
   
   &lt;figcaption&gt;
     &lt;p&gt;Glottolog 4.6 Resources for Hills Karbi in the OLAC Search Interface
       
-&lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;http://dla.library.upenn.edu/dla/olac/record.html?id=glottolog_org_karb1241&#34;&gt; 
-OLAC Search&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;http://dla.library.upenn.edu/dla/olac/record.html?id=glottolog_org_karb1241&#34;&gt; OLAC Search&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
         &lt;meta itemprop=&#34;name&#34; content=&#34;OLAC Search&#34; /&gt;
-      &lt;/span&gt;
-&lt;/a&gt; &lt;/span&gt;
-&lt;/p&gt;
+      &lt;/span&gt;&lt;/a&gt; &lt;/span&gt;&lt;/p&gt;
   &lt;/figcaption&gt;
-
-
 &lt;/figure&gt;
 
 &lt;p&gt;There is also the remaining question, is the Glottolog page actually an &lt;em&gt;Interactive Resource&lt;/em&gt;, which pulls a &lt;em&gt;Dataset&lt;/em&gt;?&lt;/p&gt;
@@ -8176,19 +8056,9 @@ The xsi:type attribute may be used in instance documents to indicate the type of
 
 
 
-
-
-
-
-
-  
-
-
-
   
   
-
-
+  
 
 
 
@@ -8204,29 +8074,19 @@ The xsi:type attribute may be used in instance documents to indicate the type of
 
 
 &lt;figure id=&#34;figure-screenshot-of-dcmitype-metadata&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
-
-
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/olac-term-consolidation/OLAC-DCMITypes_hu4186249c5d4dbeb42df841edc39557cb_38035_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Screenshot of DCMIType metadata&#34;&gt;
-
 
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/olac-term-consolidation/OLAC-DCMITypes_hu4186249c5d4dbeb42df841edc39557cb_38035_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;Screenshot of DCMIType metadata&#34; width=&#34;713&#34; height=&#34;387&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
-
-
   
   
   &lt;figcaption&gt;
     &lt;p&gt;Screenshot of DCMIType metadata
       
-&lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;http://dla.library.upenn.edu/dla/olac/browse.html?browse=dcmi_type_facet&amp;amp;&#34;&gt; 
-OLAC metadata screenshot on 24 September 2022 by Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;http://dla.library.upenn.edu/dla/olac/browse.html?browse=dcmi_type_facet&amp;amp;&#34;&gt; OLAC metadata screenshot on 24 September 2022 by Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
         &lt;meta itemprop=&#34;name&#34; content=&#34;OLAC metadata screenshot on 24 September 2022 by Hugh Paterson III&#34; /&gt;
-      &lt;/span&gt;
-&lt;/a&gt; &lt;/span&gt;
-&lt;/p&gt;
+      &lt;/span&gt;&lt;/a&gt; &lt;/span&gt;&lt;/p&gt;
   &lt;/figcaption&gt;
-
-
 &lt;/figure&gt;
 
 &lt;h2 id=&#34;bibliography&#34;&gt;Bibliography&lt;/h2&gt;
@@ -8323,19 +8183,9 @@ OLAC metadata screenshot on 24 September 2022 by Hugh Paterson III&lt;span itemp
 
 
 
-
-
-
-
-
-  
-
-
-
   
   
-
-
+  
 
 
 
@@ -8351,29 +8201,19 @@ OLAC metadata screenshot on 24 September 2022 by Hugh Paterson III&lt;span itemp
 
 
 &lt;figure id=&#34;figure-the-five-classes-of-constituents&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
-
-
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/olac-customer-segments/basic-constituents_hu4f6154890ea88ac09b021b2d314d85e2_38565_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;The five classes of constituents&#34;&gt;
-
 
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/olac-customer-segments/basic-constituents_hu4f6154890ea88ac09b021b2d314d85e2_38565_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;The five classes of constituents on a buisess model canvas&#34; width=&#34;837&#34; height=&#34;606&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
-
-
   
   
   &lt;figcaption&gt;
     &lt;p&gt;The five classes of constituents
       
-&lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;https://hugh4.us&#34;&gt; 
-Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;https://hugh4.us&#34;&gt; Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
         &lt;meta itemprop=&#34;name&#34; content=&#34;Hugh Paterson III&#34; /&gt;
-      &lt;/span&gt;
-&lt;/a&gt; &lt;/span&gt;
-&lt;/p&gt;
+      &lt;/span&gt;&lt;/a&gt; &lt;/span&gt;&lt;/p&gt;
   &lt;/figcaption&gt;
-
-
 &lt;/figure&gt;
 
 &lt;p&gt;If we were to draw users pathways for this web experience we would want to identify each of the tasks of each person and then map that to feature and URLs. In this post I am only going to be looking at data types. That is, the kinds of data that each of the constituents desires to interact with or obtain.&lt;/p&gt;
@@ -8387,19 +8227,9 @@ Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schem
 
 
 
-
-
-
-
-
-  
-
-
-
   
   
-
-
+  
 
 
 
@@ -8415,48 +8245,28 @@ Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schem
 
 
 &lt;figure id=&#34;figure-data-expressions-in-indicated-as-channels-in-the-bmc&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
-
-
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/olac-customer-segments/Channels_hua2e42e196fdfbe41d08fa11c77e312ed_42619_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Data Expressions in indicated as channels in the BMC&#34;&gt;
-
 
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/olac-customer-segments/Channels_hua2e42e196fdfbe41d08fa11c77e312ed_42619_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;Data Expressions in indicated as channels in the BMC.&#34; width=&#34;836&#34; height=&#34;616&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
-
-
   
   
   &lt;figcaption&gt;
     &lt;p&gt;Data Expressions in indicated as channels in the BMC
       
-&lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;https://hugh4.us&#34;&gt; 
-Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;https://hugh4.us&#34;&gt; Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
         &lt;meta itemprop=&#34;name&#34; content=&#34;Hugh Paterson III&#34; /&gt;
-      &lt;/span&gt;
-&lt;/a&gt; &lt;/span&gt;
-&lt;/p&gt;
+      &lt;/span&gt;&lt;/a&gt; &lt;/span&gt;&lt;/p&gt;
   &lt;/figcaption&gt;
-
-
 &lt;/figure&gt;
 
 &lt;p&gt;In the next image I write down some of the positive reasons that people come to the website. That is, the value they come to the site to recieve. My interpretation is that the following reasons exist for each of the constituenties:&lt;/p&gt;
 
 
 
-
-
-
-
-
-  
-
-
-
   
   
-
-
+  
 
 
 
@@ -8472,47 +8282,27 @@ Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schem
 
 
 &lt;figure id=&#34;figure-value-proposition-statements&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
-
-
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/olac-customer-segments/vps_hu94d96e08112c6484dbebdf8709e4b64a_54817_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Value Proposition Statements&#34;&gt;
-
 
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/olac-customer-segments/vps_hu94d96e08112c6484dbebdf8709e4b64a_54817_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;Value Proposition Statements in the BMC.&#34; width=&#34;827&#34; height=&#34;610&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
-
-
   
   
   &lt;figcaption&gt;
     &lt;p&gt;Value Proposition Statements
       
-&lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;https://hugh4.us&#34;&gt; 
-Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;https://hugh4.us&#34;&gt; Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
         &lt;meta itemprop=&#34;name&#34; content=&#34;Hugh Paterson III&#34; /&gt;
-      &lt;/span&gt;
-&lt;/a&gt; &lt;/span&gt;
-&lt;/p&gt;
+      &lt;/span&gt;&lt;/a&gt; &lt;/span&gt;&lt;/p&gt;
   &lt;/figcaption&gt;
-
-
 &lt;/figure&gt;
 
 
 
 
-
-
-
-
-
-  
-
-
-
   
   
-
-
+  
 
 
 
@@ -8528,29 +8318,19 @@ Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schem
 
 
 &lt;figure id=&#34;figure-where-technology-needs-to-change-to-continue-to-deliver-value&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
-
-
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/olac-customer-segments/OLAC-full_hu7e050f84c9d8e6228ce72f09cd6a63c3_68467_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Where technology needs to change to continue to deliver value&#34;&gt;
-
 
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/olac-customer-segments/OLAC-full_hu7e050f84c9d8e6228ce72f09cd6a63c3_68467_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;Technology changes needed.&#34; width=&#34;1090&#34; height=&#34;612&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
-
-
   
   
   &lt;figcaption&gt;
     &lt;p&gt;Where technology needs to change to continue to deliver value
       
-&lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;https://hugh4.us&#34;&gt; 
-Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;https://hugh4.us&#34;&gt; Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
         &lt;meta itemprop=&#34;name&#34; content=&#34;Hugh Paterson III&#34; /&gt;
-      &lt;/span&gt;
-&lt;/a&gt; &lt;/span&gt;
-&lt;/p&gt;
+      &lt;/span&gt;&lt;/a&gt; &lt;/span&gt;&lt;/p&gt;
   &lt;/figcaption&gt;
-
-
 &lt;/figure&gt;
 
 </description>
@@ -8725,19 +8505,9 @@ Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schem
 
 
 
-
-
-
-
-
-  
-
-
-
   
   
-
-
+  
 
 
 
@@ -8753,17 +8523,10 @@ Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schem
 
 
 &lt;figure  itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
-
-
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/olac-social-network/Screenshot-from-2021-05-21-16-29-57_hu8f117742bdb43334962e5f6d9dc61581_86953_2000x2000_fit_lanczos_2.png&#34; &gt;
 
-
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/olac-social-network/Screenshot-from-2021-05-21-16-29-57_hu8f117742bdb43334962e5f6d9dc61581_86953_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;SIL Language and Culture Archive history&#34; width=&#34;557&#34; height=&#34;651&#34; itemprop=&#34;contentUrl&#34;&gt;
-&lt;/a&gt;
-
-
-
-&lt;/figure&gt;
+&lt;/a&gt;&lt;/figure&gt;
 
 &lt;p&gt;Another way to look at the issues which beset the network of OLAC data providers is to look at the network of technologies responsible for the data feed. To do this is challenging. Exact roles are not specified in the OLAC documentation. These roles appear in the OAI header for each data provider and the aggregation of these can be found in two places on the the OLAC website 
 &lt;a href=&#34;http://www.language-archives.org/archives&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt; (along with the detail pages) and 
@@ -8772,19 +8535,9 @@ Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schem
 
 
 
-
-
-
-
-
-  
-
-
-
   
   
-
-
+  
 
 
 
@@ -8800,17 +8553,10 @@ Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schem
 
 
 &lt;figure  itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
-
-
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/olac-social-network/OLAC-Social-Network_hu72b1b19ca22bcc3417d6156e773f683c_1373076_2000x2000_fit_lanczos_2.png&#34; &gt;
 
-
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/olac-social-network/OLAC-Social-Network_hu72b1b19ca22bcc3417d6156e773f683c_1373076_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;SIL Language and Culture Archive history&#34; width=&#34;5589&#34; height=&#34;2403&#34; itemprop=&#34;contentUrl&#34;&gt;
-&lt;/a&gt;
-
-
-
-&lt;/figure&gt;
+&lt;/a&gt;&lt;/figure&gt;
 
 &lt;p&gt;While conducting this analysis it became apparent that there were several clades of providers which developed. By clade I mean a group of data providers which evolved together sharing an exposure to OLAC metadata and a technologist. Those clades are indicated in this image. The indicated clades are to be treated as suspect, but I think there is reason to believe that there is a great amount of sociological influence which permits these clades to form. For example, I know that at one time Gary Simons assisted AILLIA with their OLAC feed, so perhaps that archive might belong in a common clade with the entities within the SIL clade. If that is the case then maybe the SIL clade ought to be renamed as the Gary Simons clade. I also suspect there might be a CLARIN clade, but I don&amp;rsquo;t know for sure or how these relationships are or were structured. I also suspect that there might be or was an Australian clade in which 
 &lt;a href=&#34;https://nthieberger.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nick Thieberger&lt;/a&gt; would have been influential. If this is the case then the Hawaii clade may be suspect and rather than two clades (Hawaii and Australia) there may only be one which would include those entities assisted or guided by Professor Thieberger.&lt;/p&gt;
@@ -8855,19 +8601,9 @@ Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schem
 
 
 
-
-
-
-
-
-  
-
-
-
   
   
-
-
+  
 
 
 
@@ -8883,48 +8619,28 @@ Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schem
 
 
 &lt;figure id=&#34;figure-facceted-view-of-archives-respondin-positivly-to-the-term-serial&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
-
-
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/olac-and-unicode-errors/Archives-with-Serials_hu381872adbb12057ca61766a6a04cfce8_94355_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Facceted view of Archives respondin positivly to the term &amp;amp;lsquo;serial&amp;amp;rsquo;.&#34;&gt;
-
 
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/olac-and-unicode-errors/Archives-with-Serials_hu381872adbb12057ca61766a6a04cfce8_94355_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;Facceted view of Archives respondin positivly to the term &amp;#39;serial&amp;#39;.&#34; width=&#34;1602&#34; height=&#34;406&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
-
-
   
   
   &lt;figcaption&gt;
     &lt;p&gt;Facceted view of Archives respondin positivly to the term &amp;lsquo;serial&amp;rsquo;.
       
-&lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;http://dla.library.upenn.edu/dla/olac/browse.html?q=Serial&amp;amp;browse=archive_facet&amp;amp;&#34;&gt; 
-OLAC website via Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;http://dla.library.upenn.edu/dla/olac/browse.html?q=Serial&amp;amp;browse=archive_facet&amp;amp;&#34;&gt; OLAC website via Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
         &lt;meta itemprop=&#34;name&#34; content=&#34;OLAC website via Hugh Paterson III&#34; /&gt;
-      &lt;/span&gt;
-&lt;/a&gt; &lt;/span&gt;
-&lt;/p&gt;
+      &lt;/span&gt;&lt;/a&gt; &lt;/span&gt;&lt;/p&gt;
   &lt;/figcaption&gt;
-
-
 &lt;/figure&gt;
 
 &lt;p&gt;When using the OLAC faceted search and when I click a link for records in the Pacific Collection at the University of Hawai&amp;rsquo;i at Mānoa Hamilton Library, as seen on the page in link, I get an error message, as seen in the figure below, saying that it is interpreting a character incorrectly (decimal 129, which appears in the file &lt;code&gt;output-library.xsl; Line#: 96; Column#: -1&lt;/code&gt;). &lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 
 
 
-
-
-
-
-
-  
-
-
-
   
   
-
-
+  
 
 
 
@@ -8940,29 +8656,19 @@ OLAC website via Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&
 
 
 &lt;figure id=&#34;figure-java-error&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
-
-
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/olac-and-unicode-errors/Javaerror_hu0af51de72307cc76758c49dae9e4fa3b_101821_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;JAVA error&#34;&gt;
-
 
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/olac-and-unicode-errors/Javaerror_hu0af51de72307cc76758c49dae9e4fa3b_101821_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;JAVA error.&#34; width=&#34;1080&#34; height=&#34;514&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
-
-
   
   
   &lt;figcaption&gt;
     &lt;p&gt;JAVA error
       
-&lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;http://dla.library.upenn.edu/dla/olac/search.html?q=Serial&amp;amp;fq=archive_facet%3A%22Pacific%20Collection%20at%20the%20University%20of%20Hawai%27i%20at%20M%C4%81noa%20Hamilton%20Library%22&#34;&gt; 
-OLAC website via Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;http://dla.library.upenn.edu/dla/olac/search.html?q=Serial&amp;amp;fq=archive_facet%3A%22Pacific%20Collection%20at%20the%20University%20of%20Hawai%27i%20at%20M%C4%81noa%20Hamilton%20Library%22&#34;&gt; OLAC website via Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
         &lt;meta itemprop=&#34;name&#34; content=&#34;OLAC website via Hugh Paterson III&#34; /&gt;
-      &lt;/span&gt;
-&lt;/a&gt; &lt;/span&gt;
-&lt;/p&gt;
+      &lt;/span&gt;&lt;/a&gt; &lt;/span&gt;&lt;/p&gt;
   &lt;/figcaption&gt;
-
-
 &lt;/figure&gt;
 
 &lt;p&gt;I am wondering if this is because the input is encoded in Latin Supplement 1(ISO-8859-1 (Latin-1)), rather than Unicode UTF-8, or if it is because of some error on the OLAC processing side. It seems unlikely that a library system would be using decimal 129, which is a control character. I wonder if it left over from a MARC import?&lt;/p&gt;
@@ -12628,19 +12334,9 @@ Hit search and they get misinterpreted as &lt;code&gt;Ã Ã¡Ã¢Ã£Ã¤Ã¥Ã�
 
 
 
-
-
-
-
-
-  
-
-
-
   
   
-
-
+  
 
 
 
@@ -12656,29 +12352,19 @@ Hit search and they get misinterpreted as &lt;code&gt;Ã Ã¡Ã¢Ã£Ã¤Ã¥Ã�
 
 
 &lt;figure id=&#34;figure-types-of-olac-data-providers&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
-
-
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/diversity-and-typology-across-olac-providers/Data_contributors_hu8da133b01ff086a7adb712d959fc9935_89197_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Types of OLAC Data Providers.&#34;&gt;
-
 
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/diversity-and-typology-across-olac-providers/Data_contributors_hu8da133b01ff086a7adb712d959fc9935_89197_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;Types of OLAC Data Providers.&#34; width=&#34;2318&#34; height=&#34;840&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
-
-
   
   
   &lt;figcaption&gt;
     &lt;p&gt;Types of OLAC Data Providers.
       
-&lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;http://hugh4.us&#34;&gt; 
-Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;http://hugh4.us&#34;&gt; Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
         &lt;meta itemprop=&#34;name&#34; content=&#34;Hugh Paterson III&#34; /&gt;
-      &lt;/span&gt;
-&lt;/a&gt; &lt;/span&gt;
-&lt;/p&gt;
+      &lt;/span&gt;&lt;/a&gt; &lt;/span&gt;&lt;/p&gt;
   &lt;/figcaption&gt;
-
-
 &lt;/figure&gt;
 
 &lt;!-- It is an interesting difference presented in this paper: http://www.language-archives.org/documents/community-providers.html were B&amp;S take the following approach to parsing (open language (archive community)).
@@ -12906,19 +12592,9 @@ Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schem
 
 
 
-
-
-
-
-
-  
-
-
-
   
   
-
-
+  
 
 
 
@@ -12934,17 +12610,10 @@ Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schem
 
 
 &lt;figure  itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
-
-
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/publication/2021-where-have-all-the-collections-gone/Where-have-all-the-Collections-Gone_hubee254452cc2b7ded0f237c542931053_864615_2000x2000_fit_lanczos_2.png&#34; &gt;
 
-
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/publication/2021-where-have-all-the-collections-gone/Where-have-all-the-Collections-Gone_hubee254452cc2b7ded0f237c542931053_864615_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;Image of Poster&#34; width=&#34;2678&#34; height=&#34;3041&#34; itemprop=&#34;contentUrl&#34;&gt;
-&lt;/a&gt;
-
-
-
-&lt;/figure&gt;
+&lt;/a&gt;&lt;/figure&gt;
 &lt;/p&gt;
 </description>
     </item>
@@ -15387,19 +15056,9 @@ wbr:before {
 
 
 
-
-
-
-
-
-  
-
-
-
   
   
-
-
+  
 
 
 
@@ -15415,29 +15074,19 @@ wbr:before {
 
 
 &lt;figure id=&#34;figure-notice-of-nsf-grant-award&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
-
-
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/olac-grant-aggregator/NSF-Grant_hue2c2cdacdb65db441481dd609fada4c1_318924_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Notice of NSF Grant award&#34;&gt;
-
 
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/olac-grant-aggregator/NSF-Grant_hue2c2cdacdb65db441481dd609fada4c1_318924_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;Notice of NSF Grant award&#34; width=&#34;1436&#34; height=&#34;881&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
-
-
   
   
   &lt;figcaption&gt;
     &lt;p&gt;Notice of NSF Grant award
       
-&lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=0966411&amp;amp;WT.z_pims_id=12816&#34;&gt; 
-NSF&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=0966411&amp;amp;WT.z_pims_id=12816&#34;&gt; NSF&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
         &lt;meta itemprop=&#34;name&#34; content=&#34;NSF&#34; /&gt;
-      &lt;/span&gt;
-&lt;/a&gt; &lt;/span&gt;
-&lt;/p&gt;
+      &lt;/span&gt;&lt;/a&gt; &lt;/span&gt;&lt;/p&gt;
   &lt;/figcaption&gt;
-
-
 &lt;/figure&gt;
 
 &lt;p&gt;I was particularly happy to find that NSF does have a &lt;em&gt;grant offering&lt;/em&gt; and &lt;em&gt;grant awarded&lt;/em&gt; 
