@@ -25,34 +25,19 @@
   
   
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure id=&#34;figure-crubadan-record-for-karbi-hills-karbi-in-the-olac-interface&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
+&lt;figure id=&#34;figure-crubadan-record-for-karbi-hills-karbi-in-the-olac-interface&#34;itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/crubadan-olac-records/_hub4fb0a3d5618c54546bd65640ee26d82_241537_3781aedb7029e4d23bef189367664de8.png&#34; data-caption=&#34;Crubadan record for Karbi (Hills Karbi) in the OLAC Interface&#34;&gt;
 
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/crubadan-olac-records/_hub4fb0a3d5618c54546bd65640ee26d82_241537_3781aedb7029e4d23bef189367664de8.png&#34; class=&#34;lazyload&#34; alt=&#34;Screen shot of the OLAC Interface&#34; width=&#34;1920&#34; height=&#34;1189&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
-  
   
   &lt;figcaption&gt;
     &lt;p&gt;Crubadan record for Karbi (Hills Karbi) in the OLAC Interface
       
 &lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;http://www.language-archives.org/item/oai:crubadan.org:mjw&#34;&gt; OLAC Interface&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
         &lt;meta itemprop=&#34;name&#34; content=&#34;OLAC Interface&#34; /&gt;
-      &lt;/span&gt;&lt;/a&gt; &lt;/span&gt;&lt;/p&gt;
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
+      &lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+  &lt;/figcaption&gt;&lt;/figure&gt;
 
 &lt;ol&gt;
 &lt;li&gt;Is the license actually applicable? That is who is the copyright holder and is the content actually meeting the threshold for copyright? The creator is not always the copyright holder. Nor should the creator/author be assumed to be the copyright holder.&lt;/li&gt;
@@ -1009,25 +994,11 @@ Note: I am working from the OAI-PMH framework and looking at record cohesion/rec
   
   
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure id=&#34;figure-audio-transcriptions-illustrated-with-their-dublin-core-relationships&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
+&lt;figure id=&#34;figure-audio-transcriptions-illustrated-with-their-dublin-core-relationships&#34;itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/dublin-core-dcmitype-physicalobject/transcription_hu4a128525df4cc7f09f7356396c758cc6_119881_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Audio transcriptions illustrated with their Dublin Core relationships.&#34;&gt;
 
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/dublin-core-dcmitype-physicalobject/transcription_hu4a128525df4cc7f09f7356396c758cc6_119881_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;A diagram indicating the relationships between language resources.&#34; width=&#34;1013&#34; height=&#34;601&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
-  
   
   &lt;figcaption&gt;
     &lt;p&gt;Audio transcriptions illustrated with their Dublin Core relationships.
@@ -1035,8 +1006,7 @@ Note: I am working from the OAI-PMH framework and looking at record cohesion/rec
 &lt;span class=&#34;img-attribution&#34;&gt;Credit: Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
         &lt;meta itemprop=&#34;name&#34; content=&#34;Hugh Paterson III&#34; /&gt;
       &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
+  &lt;/figcaption&gt;&lt;/figure&gt;
 
 &lt;p&gt;Now this diagram can be extended to include the physical objects used to create the primary orginal audio file.
 
@@ -1046,25 +1016,11 @@ Note: I am working from the OAI-PMH framework and looking at record cohesion/rec
   
   
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure id=&#34;figure-microphones-and-recorders-illustrated-with-their-dublin-core-relationships&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
+&lt;figure id=&#34;figure-microphones-and-recorders-illustrated-with-their-dublin-core-relationships&#34;itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/dublin-core-dcmitype-physicalobject/Microphone_hu718801aa1d8a67b92ff4aaf14b1c5da4_146248_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Microphones and recorders illustrated with their Dublin Core relationships.&#34;&gt;
 
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/dublin-core-dcmitype-physicalobject/Microphone_hu718801aa1d8a67b92ff4aaf14b1c5da4_146248_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;A diagram indicating the relationships between language resources.&#34; width=&#34;1477&#34; height=&#34;976&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
-  
   
   &lt;figcaption&gt;
     &lt;p&gt;Microphones and recorders illustrated with their Dublin Core relationships.
@@ -1072,8 +1028,7 @@ Note: I am working from the OAI-PMH framework and looking at record cohesion/rec
 &lt;span class=&#34;img-attribution&#34;&gt;Credit: Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
         &lt;meta itemprop=&#34;name&#34; content=&#34;Hugh Paterson III&#34; /&gt;
       &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
+  &lt;/figcaption&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;The relationship between the manifestation record and the record for the physical objects can be expressed through the Dublin Core element &lt;code&gt;Source&lt;/code&gt; which is a special type of relationship.&lt;/p&gt;
 &lt;blockquote&gt;
@@ -2254,34 +2209,19 @@ Note: I am working from the OAI-PMH framework and looking at record cohesion/rec
   
   
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure id=&#34;figure-paradisec-record-for-frog-story-in-the-olac-interface&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
+&lt;figure id=&#34;figure-paradisec-record-for-frog-story-in-the-olac-interface&#34;itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/paradisec-olac-records-and-rights/featured_huc0fc9ad1f1cbebce936878f6092d95b6_196944_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;PARADISEC record for Frog story in the OLAC Interface&#34;&gt;
 
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/paradisec-olac-records-and-rights/featured_huc0fc9ad1f1cbebce936878f6092d95b6_196944_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;Screen shot of the OLAC Interface&#34; width=&#34;928&#34; height=&#34;864&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
-  
   
   &lt;figcaption&gt;
     &lt;p&gt;PARADISEC record for Frog story in the OLAC Interface
       
 &lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;http://www.language-archives.org/item/oai:paradisec.org.au:GK1-FM15_61_2c&#34;&gt; OLAC Interface&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
         &lt;meta itemprop=&#34;name&#34; content=&#34;OLAC Interface&#34; /&gt;
-      &lt;/span&gt;&lt;/a&gt; &lt;/span&gt;&lt;/p&gt;
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
+      &lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+  &lt;/figcaption&gt;&lt;/figure&gt;
 
 &lt;p&gt;The following XML record replicated below is from OLAC. It is retrievable 
 &lt;a href=&#34;http://www.language-archives.org/cgi-bin/olaca3.pl?verb=GetRecord&amp;amp;identifier=oai:paradisec.org.au:GK1-FM15_61_2c&amp;amp;metadataPrefix=olac&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;, while the record is viewable in the OLAC interface 
@@ -2461,25 +2401,11 @@ Note: I am working from the OAI-PMH framework and looking at record cohesion/rec
   
   
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure id=&#34;figure-a-picture-made-of-words--reinhard-döhl-apfel-1965-note-that-arabic-art-also-contains-many-images-constructed-of-text&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
+&lt;figure id=&#34;figure-a-picture-made-of-words--reinhard-döhl-apfel-1965-note-that-arabic-art-also-contains-many-images-constructed-of-text&#34;itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/dublin-core-dcmitype/DohlApfel_hud551a789fbb81b0c92f5be46b382cf02_35956_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;A picture made of words.  Reinhard Döhl, “Apfel” (1965). Note that Arabic art also contains many images constructed of text.&#34;&gt;
 
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/dublin-core-dcmitype/DohlApfel_hud551a789fbb81b0c92f5be46b382cf02_35956_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34; Reinhard Döhl, “Apfel” (1965)&#34; width=&#34;270&#34; height=&#34;250&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
-  
   
   &lt;figcaption&gt;
     &lt;p&gt;A picture made of words.  Reinhard Döhl, “Apfel” (1965). Note that Arabic art also contains many images constructed of text.
@@ -2487,8 +2413,7 @@ Note: I am working from the OAI-PMH framework and looking at record cohesion/rec
 &lt;span class=&#34;img-attribution&#34;&gt;Credit: Reinhard Döhl&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
         &lt;meta itemprop=&#34;name&#34; content=&#34;Reinhard Döhl&#34; /&gt;
       &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
+  &lt;/figcaption&gt;&lt;/figure&gt;
 
 &lt;p&gt;If we follow the 1-to-1 principle in Dublin Core then only one qualified DCMIType should be applied to any specific record. So which one? I have created the following flowchart to guide a person through the process of selecting the most appropriate DCMIType term. Clicking the diagram opens it up within the mermaid editor where the text can be more easily read.&lt;/p&gt;
 &lt;p&gt;
@@ -2513,34 +2438,19 @@ Comment: A collection is described as a group; its parts may also be separately 
   
   
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure id=&#34;figure-glottolog-46-resources-for-hills-karbi-in-the-olac-search-interface&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
+&lt;figure id=&#34;figure-glottolog-46-resources-for-hills-karbi-in-the-olac-search-interface&#34;itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/dublin-core-dcmitype/glotologrecords_hu259362def301c4a7d53fb0b3d91e2e70_59487_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Glottolog 4.6 Resources for Hills Karbi in the OLAC Search Interface&#34;&gt;
 
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/dublin-core-dcmitype/glotologrecords_hu259362def301c4a7d53fb0b3d91e2e70_59487_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;Glottolog 4.6 Resources for Hills Karbi&#34; width=&#34;954&#34; height=&#34;459&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
-  
   
   &lt;figcaption&gt;
     &lt;p&gt;Glottolog 4.6 Resources for Hills Karbi in the OLAC Search Interface
       
 &lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;http://dla.library.upenn.edu/dla/olac/record.html?id=glottolog_org_karb1241&#34;&gt; OLAC Search&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
         &lt;meta itemprop=&#34;name&#34; content=&#34;OLAC Search&#34; /&gt;
-      &lt;/span&gt;&lt;/a&gt; &lt;/span&gt;&lt;/p&gt;
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
+      &lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+  &lt;/figcaption&gt;&lt;/figure&gt;
 
 &lt;p&gt;There is also the remaining question, is the Glottolog page actually an &lt;em&gt;Interactive Resource&lt;/em&gt;, which pulls a &lt;em&gt;Dataset&lt;/em&gt;?&lt;/p&gt;
 &lt;p&gt;So, maybe the list of resources is a &lt;em&gt;Collection&lt;/em&gt;, the Glottolog itself as a website is an &lt;em&gt;Interactive Resource&lt;/em&gt;. The data which drives the website is a &lt;em&gt;Dataset&lt;/em&gt;. — leaving nothing as a &lt;em&gt;Text&lt;/em&gt; resource?&lt;/p&gt;

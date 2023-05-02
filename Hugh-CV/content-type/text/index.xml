@@ -4343,34 +4343,19 @@ From these factors, I derive three broad categories with a total of twelve speci
   
   
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure id=&#34;figure-types-of-olac-data-providers&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
+&lt;figure id=&#34;figure-types-of-olac-data-providers&#34;itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/diversity-and-typology-across-olac-providers/Data_contributors_hu8da133b01ff086a7adb712d959fc9935_89197_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Types of OLAC Data Providers.&#34;&gt;
 
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/diversity-and-typology-across-olac-providers/Data_contributors_hu8da133b01ff086a7adb712d959fc9935_89197_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;Types of OLAC Data Providers.&#34; width=&#34;2318&#34; height=&#34;840&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
-  
   
   &lt;figcaption&gt;
     &lt;p&gt;Types of OLAC Data Providers.
       
 &lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;http://hugh4.us&#34;&gt; Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
         &lt;meta itemprop=&#34;name&#34; content=&#34;Hugh Paterson III&#34; /&gt;
-      &lt;/span&gt;&lt;/a&gt; &lt;/span&gt;&lt;/p&gt;
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
+      &lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+  &lt;/figcaption&gt;&lt;/figure&gt;
 
 &lt;!-- It is an interesting difference presented in this paper: http://www.language-archives.org/documents/community-providers.html were B&amp;S take the following approach to parsing (open language (archive community)).
 
@@ -6657,34 +6642,19 @@ From these factors, I derive three broad categories with a total of twelve speci
   
   
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure id=&#34;figure-types-of-browser-based-tools&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
+&lt;figure id=&#34;figure-types-of-browser-based-tools&#34;itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/presenting-oral-texts-with-transcriptions-online/Types-of-Browser-based-tools_hua36818c6bed2e8af187cca8f2012a317_155372_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Types of browser based tools&#34;&gt;
 
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/presenting-oral-texts-with-transcriptions-online/Types-of-Browser-based-tools_hua36818c6bed2e8af187cca8f2012a317_155372_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;Taxonomy of browser based tools&#34; width=&#34;1576&#34; height=&#34;588&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
-  
   
   &lt;figcaption&gt;
     &lt;p&gt;Types of browser based tools
       
 &lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;https://hughandbecky.us/Hugh-CV/post/presenting-oral-texts-with-transcriptions-online&#34;&gt; Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
         &lt;meta itemprop=&#34;name&#34; content=&#34;Hugh Paterson III&#34; /&gt;
-      &lt;/span&gt;&lt;/a&gt; &lt;/span&gt;&lt;/p&gt;
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
+      &lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+  &lt;/figcaption&gt;&lt;/figure&gt;
 
 &lt;!-- For example many publishers use or require Leipzig glossing rules which point to a &#34;standard&#34; set of abbreviations, to be used in print publications. However, these abbreviations do not have a concrete set of definitions. Therefore one can never be exactly sure what an author means when they use these abbreviations (but in general shared conventions are more helpful than not). What I have noticed with respect to these abbreviations is that due to the mental/visual prominence the abbreviations have in print media, they are often being used in corpus annotations. To complicate matters, when additional annotations are needed but are not present in the Leipzig Glossing Rules chaos ensues. That is, authors choose to create their own abbreviations on an ad-hoc basis. Additionally abbreviations used in the Leipzig Glossing Rules by field linguists are often different from those used by computational linguists working on TreeBanks or WordNets creating a gap in the cross-discipline uses of corpora. --&gt;
 &lt;p&gt;While what is presented in terms of the content is still very important, &lt;em&gt;how&lt;/em&gt; it is presented in an interactive mode is also important. That is, how is the experience crafted around the audio or video and the transcribed segments in terms of the &lt;em&gt;interaction design&lt;/em&gt; and &lt;em&gt;visual design&lt;/em&gt;? I started to compile a list of these interactions which I present below. However, two significant components are influential in the life cycle of software and hence these interactions. First, the viral nature of the interaction, i.e., how easy is it to propagate the interaction in new contexts. Second, what is the life cycle of the technology undergirding the browser based experience? That is, how does the technology choice expose the user to obsolecence and technolgical debt. These two factors should be top ranking considerations when a project desires to &amp;ldquo;publish&amp;rdquo; or present interlinear texts online. In addition to these two factors, the following three design considerations will also impact the sustainability and maintainability of the online presence for the corpora and ought to be considered while planning for implementation.&lt;/p&gt;
@@ -6710,34 +6680,19 @@ From these factors, I derive three broad categories with a total of twelve speci
   
   
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure id=&#34;figure-german-example-showing-output-and-code-taken-from-the-leipzigjs-website&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
+&lt;figure id=&#34;figure-german-example-showing-output-and-code-taken-from-the-leipzigjs-website&#34;itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/presenting-oral-texts-with-transcriptions-online/leipzig_hub10e4c6c263b7731bb1ac0e1e9ed1f4e_114603_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;German example showing output and code taken from the leipzig.js website&#34;&gt;
 
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/presenting-oral-texts-with-transcriptions-online/leipzig_hub10e4c6c263b7731bb1ac0e1e9ed1f4e_114603_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;Example taken from leipzig.js website&#34; width=&#34;715&#34; height=&#34;847&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
-  
   
   &lt;figcaption&gt;
     &lt;p&gt;German example showing output and code taken from the leipzig.js website
       
 &lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;https://bdchauvette.net/leipzig.js/examples/&#34;&gt; Ben Chauvette&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
         &lt;meta itemprop=&#34;name&#34; content=&#34;Ben Chauvette&#34; /&gt;
-      &lt;/span&gt;&lt;/a&gt; &lt;/span&gt;&lt;/p&gt;
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
+      &lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+  &lt;/figcaption&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;h3 id=&#34;iath-elan-text-sync-tool-etst&#34;&gt;IATH ELAN Text-Sync Tool (ETST)&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;Produced by&lt;/strong&gt;: Lise Dobrin &amp;amp; Douglas Ross  
@@ -6794,34 +6749,19 @@ From these factors, I derive three broad categories with a total of twelve speci
   
   
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure id=&#34;figure-time-aligned-audio-and-text-where-text-is-automatically-highlighted-as-the-audio-plays&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
+&lt;figure id=&#34;figure-time-aligned-audio-and-text-where-text-is-automatically-highlighted-as-the-audio-plays&#34;itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/presenting-oral-texts-with-transcriptions-online/IATHELAN_hu7827a15245c69c5d5e8c519632c5e7d8_331560_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Time aligned audio and text where text is automatically highlighted as the audio plays.&#34;&gt;
 
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/presenting-oral-texts-with-transcriptions-online/IATHELAN_hu7827a15245c69c5d5e8c519632c5e7d8_331560_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;Example of time aligned audio and text&#34; width=&#34;1423&#34; height=&#34;865&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
-  
   
   &lt;figcaption&gt;
     &lt;p&gt;Time aligned audio and text where text is automatically highlighted as the audio plays.
       
 &lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;http://community.village.virginia.edu/etst/example.php&#34;&gt; Lise &amp;amp; Douglas&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
         &lt;meta itemprop=&#34;name&#34; content=&#34;Lise &amp;amp; Douglas&#34; /&gt;
-      &lt;/span&gt;&lt;/a&gt; &lt;/span&gt;&lt;/p&gt;
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
+      &lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+  &lt;/figcaption&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;h3 id=&#34;lingview&#34;&gt;LingView&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;Produced by&lt;/strong&gt;: 
@@ -6881,20 +6821,7 @@ From these factors, I derive three broad categories with a total of twelve speci
   
   
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
+&lt;figure itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/presenting-oral-texts-with-transcriptions-online/LingView_hu22559aeae75463bc8faa9e4d77838f02_511347_2000x2000_fit_lanczos_2.png&#34; &gt;
 
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/presenting-oral-texts-with-transcriptions-online/LingView_hu22559aeae75463bc8faa9e4d77838f02_511347_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;mulit-cast screenshot&#34; width=&#34;1854&#34; height=&#34;824&#34; itemprop=&#34;contentUrl&#34;&gt;
@@ -6914,20 +6841,7 @@ From these factors, I derive three broad categories with a total of twelve speci
   
   
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
+&lt;figure itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/presenting-oral-texts-with-transcriptions-online/CSULB_hudb0370fef0e167a80649bdef8b646f78_129500_2000x2000_fit_lanczos_2.png&#34; &gt;
 
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/presenting-oral-texts-with-transcriptions-online/CSULB_hudb0370fef0e167a80649bdef8b646f78_129500_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;mulit-cast screenshot&#34; width=&#34;1843&#34; height=&#34;835&#34; itemprop=&#34;contentUrl&#34;&gt;
@@ -6949,20 +6863,7 @@ From these factors, I derive three broad categories with a total of twelve speci
   
   
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
+&lt;figure itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/presenting-oral-texts-with-transcriptions-online/ELAN-wavesurfer_hu0f61d3cc2abf421572dfe77fb5597d70_75522_2000x2000_fit_lanczos_2.png&#34; &gt;
 
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/presenting-oral-texts-with-transcriptions-online/ELAN-wavesurfer_hu0f61d3cc2abf421572dfe77fb5597d70_75522_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;ELAN wavesurfer interface&#34; width=&#34;920&#34; height=&#34;776&#34; itemprop=&#34;contentUrl&#34;&gt;
@@ -7074,25 +6975,11 @@ From these factors, I derive three broad categories with a total of twelve speci
   
   
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure id=&#34;figure-screenshot-of-eopas&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
+&lt;figure id=&#34;figure-screenshot-of-eopas&#34;itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/presenting-oral-texts-with-transcriptions-online/eopas_hu3800efd0c53c43f441e1c6b75aa4780d_791550_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Screenshot of Eopas&#34;&gt;
 
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/presenting-oral-texts-with-transcriptions-online/eopas_hu3800efd0c53c43f441e1c6b75aa4780d_791550_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;Screenshot of Eopa&#34; width=&#34;1026&#34; height=&#34;775&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
-  
   
   &lt;figcaption&gt;
     &lt;p&gt;Screenshot of Eopas
@@ -7100,8 +6987,7 @@ From these factors, I derive three broad categories with a total of twelve speci
 &lt;span class=&#34;img-attribution&#34;&gt;Credit: Nick Thieberger&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
         &lt;meta itemprop=&#34;name&#34; content=&#34;Nick Thieberger&#34; /&gt;
       &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
+  &lt;/figcaption&gt;&lt;/figure&gt;
 
 &lt;h3 id=&#34;nabu-collection-viewer&#34;&gt;Nabu collection viewer&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;Produced by&lt;/strong&gt;: Nick Thieberger&lt;br/&gt;
@@ -7115,25 +7001,11 @@ From these factors, I derive three broad categories with a total of twelve speci
   
   
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure id=&#34;figure-screenshot-of-nabu-collection-viewer&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
+&lt;figure id=&#34;figure-screenshot-of-nabu-collection-viewer&#34;itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/presenting-oral-texts-with-transcriptions-online/Nabu_hu54745e7fefb1c102b9ebf913d7633783_65695_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Screenshot of Nabu Collection viewer&#34;&gt;
 
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/presenting-oral-texts-with-transcriptions-online/Nabu_hu54745e7fefb1c102b9ebf913d7633783_65695_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;Screenshot of Nabu Collection viewer&#34; width=&#34;1465&#34; height=&#34;857&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
-  
   
   &lt;figcaption&gt;
     &lt;p&gt;Screenshot of Nabu Collection viewer
@@ -7141,8 +7013,7 @@ From these factors, I derive three broad categories with a total of twelve speci
 &lt;span class=&#34;img-attribution&#34;&gt;Credit: Nick Thieberger&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
         &lt;meta itemprop=&#34;name&#34; content=&#34;Nick Thieberger&#34; /&gt;
       &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
+  &lt;/figcaption&gt;&lt;/figure&gt;
 
 &lt;h3 id=&#34;typecraft&#34;&gt;TypeCraft&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;Produced by&lt;/strong&gt;: 
@@ -7244,34 +7115,19 @@ From these factors, I derive three broad categories with a total of twelve speci
   
   
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure id=&#34;figure-audio-is-at-the-very-bottom-of-the-screen-the-text-is-not-highlighted-as-it-is-played&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
+&lt;figure id=&#34;figure-audio-is-at-the-very-bottom-of-the-screen-the-text-is-not-highlighted-as-it-is-played&#34;itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/presenting-oral-texts-with-transcriptions-online/multi-cast_hub075d7be7fd51d658edcc068bfd23fd0_115657_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Audio is at the very bottom of the screen. The text is not highlighted as it is played.&#34;&gt;
 
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/presenting-oral-texts-with-transcriptions-online/multi-cast_hub075d7be7fd51d658edcc068bfd23fd0_115657_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;mulit-cast screenshot&#34; width=&#34;1902&#34; height=&#34;915&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
-  
   
   &lt;figcaption&gt;
     &lt;p&gt;Audio is at the very bottom of the screen. The text is not highlighted as it is played.
       
 &lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;https://multicast.aspra.uni-bamberg.de/php/preview.php?v=2101&amp;amp;corpus=arta&amp;amp;text=alisiya&#34;&gt; Geoffrey Haig &amp;amp; Nils Norman Schiborr&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
         &lt;meta itemprop=&#34;name&#34; content=&#34;Geoffrey Haig &amp;amp; Nils Norman Schiborr&#34; /&gt;
-      &lt;/span&gt;&lt;/a&gt; &lt;/span&gt;&lt;/p&gt;
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
+      &lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+  &lt;/figcaption&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;h3 id=&#34;pangloss&#34;&gt;Pangloss&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;Produced by&lt;/strong&gt;: CNRS-LACITO 
@@ -7436,20 +7292,7 @@ From these factors, I derive three broad categories with a total of twelve speci
   
   
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
+&lt;figure itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/presenting-oral-texts-with-transcriptions-online/Pangloss_hub8cf7e90014ba857c943350251fd247e_128451_2000x2000_fit_lanczos_2.png&#34; &gt;
 
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/presenting-oral-texts-with-transcriptions-online/Pangloss_hub8cf7e90014ba857c943350251fd247e_128451_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;mulit-cast screenshot&#34; width=&#34;1593&#34; height=&#34;879&#34; itemprop=&#34;contentUrl&#34;&gt;
@@ -12272,34 +12115,19 @@ My suspicion though is that passing the PDF through GhostSript also removes some
   
   
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure id=&#34;figure-bottom-of-page&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
+&lt;figure id=&#34;figure-bottom-of-page&#34;itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/website-license-vs-content-license/Bottom-of-page_hu6da07655c86f6ebcd4582582f273570d_233266_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Bottom of Page&#34;&gt;
 
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/website-license-vs-content-license/Bottom-of-page_hu6da07655c86f6ebcd4582582f273570d_233266_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;Image of webpage footer&#34; width=&#34;1920&#34; height=&#34;1080&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
   
-  
   &lt;figcaption&gt;
     &lt;p&gt;Bottom of Page
       
 &lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;http://www.rapidwords.net/resources/files/rwc-questionnaire&#34;&gt; rapidwords.net (SIL International)&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
         &lt;meta itemprop=&#34;name&#34; content=&#34;rapidwords.net (SIL International)&#34; /&gt;
-      &lt;/span&gt;&lt;/a&gt; &lt;/span&gt;&lt;/p&gt;
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
+      &lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+  &lt;/figcaption&gt;&lt;/figure&gt;
 
 
 
@@ -12308,34 +12136,19 @@ My suspicion though is that passing the PDF through GhostSript also removes some
   
   
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure id=&#34;figure-bottom-of-page&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
+&lt;figure id=&#34;figure-bottom-of-page&#34;itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/website-license-vs-content-license/Top-of-page_hu92947ba777579ad27f0550a26096e373_491839_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Bottom of Page&#34;&gt;
 
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/website-license-vs-content-license/Top-of-page_hu92947ba777579ad27f0550a26096e373_491839_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;Image of webpage footer&#34; width=&#34;1920&#34; height=&#34;1080&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
   
-  
   &lt;figcaption&gt;
     &lt;p&gt;Bottom of Page
       
 &lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;http://www.rapidwords.net/resources/files/rwc-questionnaire&#34;&gt; rapidwords.net (SIL International)&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
         &lt;meta itemprop=&#34;name&#34; content=&#34;rapidwords.net (SIL International)&#34; /&gt;
-      &lt;/span&gt;&lt;/a&gt; &lt;/span&gt;&lt;/p&gt;
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
+      &lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+  &lt;/figcaption&gt;&lt;/figure&gt;
 
 &lt;p&gt;In the footer, I see a copyright statement and then a CC-BY-SA license. Many websites who choose to put copyright and license material in the footer are really only referencing the Theme files of their web-page, or the immediately on-screen content. This is very common for open-source themes for WordPress, Drupal, and Joomla. It is unclear to me if this is the case on the RapidWords website. Or is the footer referring to the entire content of the website inclusive of the downloadable content? If it is referring to the theme files, then they ought to be licensed as code not as a creative work according to the Creative Commons Foundation. (The Creative Commons Foundation recommends not using Creative Commons Licenses for code base projects and points to other more appropriate licenses.)&lt;/p&gt;
 &lt;p&gt;When I go the content of the web-page link above (see screens shot), there is a CC license field in the middel of the page. This field is empty and in lieu of a license, I find a copyright statement saying all &amp;ldquo;rights are reserved&amp;rdquo;. So which is it? CC-BY-SA or All rights reserved?&lt;/p&gt;
@@ -12346,34 +12159,19 @@ My suspicion though is that passing the PDF through GhostSript also removes some
   
   
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure id=&#34;figure-close-up-of-screen-content&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
+&lt;figure id=&#34;figure-close-up-of-screen-content&#34;itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/website-license-vs-content-license/decalkfgkndojdgc_huf9c93931f5b10e522981e6221644a41f_12481_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Close-up of screen content&#34;&gt;
 
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/website-license-vs-content-license/decalkfgkndojdgc_huf9c93931f5b10e522981e6221644a41f_12481_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;Close-up of screen content&#34; width=&#34;518&#34; height=&#34;211&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
-  
   
   &lt;figcaption&gt;
     &lt;p&gt;Close-up of screen content
       
 &lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;http://www.rapidwords.net/resources/files/rwc-questionnaire&#34;&gt; rapidwords.net (SIL International)&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
         &lt;meta itemprop=&#34;name&#34; content=&#34;rapidwords.net (SIL International)&#34; /&gt;
-      &lt;/span&gt;&lt;/a&gt; &lt;/span&gt;&lt;/p&gt;
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
+      &lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+  &lt;/figcaption&gt;&lt;/figure&gt;
 
 &lt;p&gt;Then when I download the PDF of the content via the PDF button provided the content of the PDF only contains the copyright statement not the CC-BY-SA statement. Further adding confusion because the website is offering a PDF to me but then saying that the PDF is &amp;ldquo;all rights reserved&amp;rdquo;.&lt;/p&gt;
 &lt;p&gt;Also, when one downloads the resources under the resource section the resources do not have a license statement in them (I would have expected a copyright and a license statement in the footer of each printable page in the downloaded document).
@@ -12461,25 +12259,11 @@ In the spirit of taking baby steps, we have started to amass a pile of data (ask
   
   
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure id=&#34;figure-version-10&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
+&lt;figure id=&#34;figure-version-10&#34;itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/characters-trying-to-get-the-concepts-straight/Characters_hu97dbfb1fbb6f49a63a701f7b1634095b_158756_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Version 1.0&#34;&gt;
 
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/characters-trying-to-get-the-concepts-straight/Characters_hu97dbfb1fbb6f49a63a701f7b1634095b_158756_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;An infographic explaining the parts of Unicode characters: version 1.0.&#34; width=&#34;768&#34; height=&#34;977&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
-  
   
   &lt;figcaption&gt;
     &lt;p&gt;Version 1.0
@@ -12487,8 +12271,7 @@ In the spirit of taking baby steps, we have started to amass a pile of data (ask
 &lt;span class=&#34;img-attribution&#34;&gt;Credit: Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
         &lt;meta itemprop=&#34;name&#34; content=&#34;Hugh Paterson III&#34; /&gt;
       &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
+  &lt;/figcaption&gt;&lt;/figure&gt;
 
 
 
@@ -12497,25 +12280,11 @@ In the spirit of taking baby steps, we have started to amass a pile of data (ask
   
   
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure id=&#34;figure-version-11&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
+&lt;figure id=&#34;figure-version-11&#34;itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/characters-trying-to-get-the-concepts-straight/Characters2_hu97dbfb1fbb6f49a63a701f7b1634095b_152970_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Version 1.1&#34;&gt;
 
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/characters-trying-to-get-the-concepts-straight/Characters2_hu97dbfb1fbb6f49a63a701f7b1634095b_152970_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;An infographic explaining the parts of Unicode characters: version 1.1.&#34; width=&#34;768&#34; height=&#34;977&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
-  
   
   &lt;figcaption&gt;
     &lt;p&gt;Version 1.1
@@ -12523,8 +12292,7 @@ In the spirit of taking baby steps, we have started to amass a pile of data (ask
 &lt;span class=&#34;img-attribution&#34;&gt;Credit: Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
         &lt;meta itemprop=&#34;name&#34; content=&#34;Hugh Paterson III&#34; /&gt;
       &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
+  &lt;/figcaption&gt;&lt;/figure&gt;
 
 &lt;!-- O&#39;Brien, Kirby What could I do so that I could be more succinct in my presentation? I feel like there are four things that detract from the message of the infographic... can you name them?
 
@@ -12677,34 +12445,19 @@ Comment: It&#39;s not clear whether this spatial relationships between each box 
   
   
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure id=&#34;figure-worldcatorg-login-notice&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
+&lt;figure id=&#34;figure-worldcatorg-login-notice&#34;itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/are-we-up-front-with-our-users/USA-data2_hu877bf32cbb78377c6cb9b2b226d7edb3_273346_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;worldcat.org login notice&#34;&gt;
 
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/are-we-up-front-with-our-users/USA-data2_hu877bf32cbb78377c6cb9b2b226d7edb3_273346_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;Example Notice of laws governing data interactions and responsibilities.&#34; width=&#34;1349&#34; height=&#34;872&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
-  
   
   &lt;figcaption&gt;
     &lt;p&gt;worldcat.org login notice
       
 &lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;https://worldcat.org&#34;&gt; worldcat.org&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
         &lt;meta itemprop=&#34;name&#34; content=&#34;worldcat.org&#34; /&gt;
-      &lt;/span&gt;&lt;/a&gt; &lt;/span&gt;&lt;/p&gt;
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
+      &lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+  &lt;/figcaption&gt;&lt;/figure&gt;
 
 
 
@@ -12713,34 +12466,19 @@ Comment: It&#39;s not clear whether this spatial relationships between each box 
   
   
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure id=&#34;figure-worldcatorg-login-noticecloseup&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
+&lt;figure id=&#34;figure-worldcatorg-login-noticecloseup&#34;itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/are-we-up-front-with-our-users/USA-Data_hu27281f63c05ac7e3c68cad3f831b2b5c_35913_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;worldcat.org login notice—closeup&#34;&gt;
 
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/are-we-up-front-with-our-users/USA-Data_hu27281f63c05ac7e3c68cad3f831b2b5c_35913_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;Closeup of notice of laws governing data interactions and responsibilities.&#34; width=&#34;392&#34; height=&#34;299&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
-  
   
   &lt;figcaption&gt;
     &lt;p&gt;worldcat.org login notice—closeup
       
 &lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;https://worldcat.org&#34;&gt; worldcat.org&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
         &lt;meta itemprop=&#34;name&#34; content=&#34;worldcat.org&#34; /&gt;
-      &lt;/span&gt;&lt;/a&gt; &lt;/span&gt;&lt;/p&gt;
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
+      &lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+  &lt;/figcaption&gt;&lt;/figure&gt;
 
 </description>
     </item>
@@ -12851,25 +12589,11 @@ Comment: It&#39;s not clear whether this spatial relationships between each box 
   
   
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure id=&#34;figure-the-data-management-space-for-linguists-with-sil-software&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
+&lt;figure id=&#34;figure-the-data-management-space-for-linguists-with-sil-software&#34;itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/the-data-management-space-for-linguists/_hu4ff5960dacb67496f7fa9cf08672f8ac_129511_a0e754edaf6b6d4ac60e182eea0f9f99.jpg&#34; data-caption=&#34;The Data Management Space for linguists with SIL software.&#34;&gt;
 
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/the-data-management-space-for-linguists/_hu4ff5960dacb67496f7fa9cf08672f8ac_129511_a0e754edaf6b6d4ac60e182eea0f9f99.jpg&#34; class=&#34;lazyload&#34; alt=&#34;The Data Management Space for linguists with SIL software.&#34; width=&#34;733&#34; height=&#34;576&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
-  
   
   &lt;figcaption&gt;
     &lt;p&gt;The Data Management Space for linguists with SIL software.
@@ -12877,8 +12601,7 @@ Comment: It&#39;s not clear whether this spatial relationships between each box 
 &lt;span class=&#34;img-attribution&#34;&gt;Credit: Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
         &lt;meta itemprop=&#34;name&#34; content=&#34;Hugh Paterson III&#34; /&gt;
       &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
+  &lt;/figcaption&gt;&lt;/figure&gt;
 
 </description>
     </item>
@@ -12898,25 +12621,11 @@ Comment: It&#39;s not clear whether this spatial relationships between each box 
   
   
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure id=&#34;figure-facebook-user-base-graph-from-2010&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
+&lt;figure id=&#34;figure-facebook-user-base-graph-from-2010&#34;itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/socio-linguistic-profiles-for-language-documentation/Facebook-mapping-image_hu0aef8681ee99a41516320eb7e1527399_2066885_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Facebook User Base Graph from 2010&#34;&gt;
 
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/socio-linguistic-profiles-for-language-documentation/Facebook-mapping-image_hu0aef8681ee99a41516320eb7e1527399_2066885_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;Facebook User Base Graph from 2010&#34; width=&#34;1600&#34; height=&#34;797&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
-  
   
   &lt;figcaption&gt;
     &lt;p&gt;Facebook User Base Graph from 2010
@@ -12924,8 +12633,7 @@ Comment: It&#39;s not clear whether this spatial relationships between each box 
 &lt;span class=&#34;img-attribution&#34;&gt;Credit: Facebook&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
         &lt;meta itemprop=&#34;name&#34; content=&#34;Facebook&#34; /&gt;
       &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
+  &lt;/figcaption&gt;&lt;/figure&gt;
 
 &lt;p&gt;Below is a list of elements which Facebook is collecting (it is also collecting log-in locations and times). So, some of these questions are certainly in-scope of what language documenters would minimally like to know about their indigenous language speaking informants and collaborators. Others of these questions are certainly not in-scope for the recommended socio-linguistic profile from language documenters or socio-linguists.&lt;/p&gt;
 &lt;h3 id=&#34;facebook-data-catagories-on-user-profiles&#34;&gt;FaceBook data catagories on user profiles&lt;/h3&gt;
@@ -13415,34 +13123,19 @@ Red-eye, red-eye!&lt;/p&gt;
   
   
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure id=&#34;figure-notice-of-nsf-grant-award&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
+&lt;figure id=&#34;figure-notice-of-nsf-grant-award&#34;itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/olac-grant-aggregator/NSF-Grant_hue2c2cdacdb65db441481dd609fada4c1_318924_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Notice of NSF Grant award&#34;&gt;
 
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/olac-grant-aggregator/NSF-Grant_hue2c2cdacdb65db441481dd609fada4c1_318924_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;Notice of NSF Grant award&#34; width=&#34;1436&#34; height=&#34;881&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
-  
   
   &lt;figcaption&gt;
     &lt;p&gt;Notice of NSF Grant award
       
 &lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=0966411&amp;amp;WT.z_pims_id=12816&#34;&gt; NSF&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
         &lt;meta itemprop=&#34;name&#34; content=&#34;NSF&#34; /&gt;
-      &lt;/span&gt;&lt;/a&gt; &lt;/span&gt;&lt;/p&gt;
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
+      &lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+  &lt;/figcaption&gt;&lt;/figure&gt;
 
 &lt;p&gt;I was particularly happy to find that NSF does have a &lt;em&gt;grant offering&lt;/em&gt; and &lt;em&gt;grant awarded&lt;/em&gt; 
 &lt;a href=&#34;http://www.nsf.gov/awardsearch/progSearch.do?WT.si_n=ClickedAbstractsRecentAwards&amp;amp;WT.si_x=1&amp;amp;WT.si_cs=1&amp;amp;WT.z_pims_id=12816&amp;amp;SearchType=progSearch&amp;amp;page=2&amp;amp;QueryText=&amp;amp;ProgOrganization=&amp;amp;ProgOfficer=&amp;amp;ProgEleCode=7719&amp;amp;BooleanElement=true&amp;amp;ProgRefCode=&amp;amp;BooleanRef=true&amp;amp;ProgProgram=&amp;amp;ProgFoaCode=&amp;amp;RestrictActive=on&amp;amp;Search=Search#results&#34; title=&#34;NSF Grants&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;search section&lt;/a&gt;. But aggregating this knowledge with prior research would really give interested parties in particular languages the integrated perspective of how funding has impacted the development and research of minority languages.&lt;/p&gt;
@@ -13490,25 +13183,11 @@ Red-eye, red-eye!&lt;/p&gt;
   
   
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure id=&#34;figure-audio-archive-presenting-the-collection-the-tape-and-the-digital-manifestation&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
+&lt;figure id=&#34;figure-audio-archive-presenting-the-collection-the-tape-and-the-digital-manifestation&#34;itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/resources-for-digitizing-audio-as-part-of-archiving/Audio-Archive_hu51630dfbea76444c7729246fb14fe7d0_77766_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Audio Archive: Presenting the Collection, the tape and the digital manifestation.&#34;&gt;
 
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/resources-for-digitizing-audio-as-part-of-archiving/Audio-Archive_hu51630dfbea76444c7729246fb14fe7d0_77766_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;Audio Archive: Presenting the Collection, the tape and the digital manifestation.&#34; width=&#34;733&#34; height=&#34;576&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
-  
   
   &lt;figcaption&gt;
     &lt;p&gt;Audio Archive: Presenting the Collection, the tape and the digital manifestation.
@@ -13516,8 +13195,7 @@ Red-eye, red-eye!&lt;/p&gt;
 &lt;span class=&#34;img-attribution&#34;&gt;Credit: Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
         &lt;meta itemprop=&#34;name&#34; content=&#34;Hugh Paterson III&#34; /&gt;
       &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
+  &lt;/figcaption&gt;&lt;/figure&gt;
 
 </description>
     </item>
@@ -13555,25 +13233,11 @@ Part of the discussion at the workshop was on how we can make corpora which are 
   
   
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure id=&#34;figure-things-to-measure&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
+&lt;figure id=&#34;figure-things-to-measure&#34;itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/metadata-dynamics-for-linguistic-and-sociolinguistic-corpora/Things-to-measure_hudb2aa5fdfc77cb2a5f1c164e530bcf5c_100561_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Things to measure&#34;&gt;
 
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/metadata-dynamics-for-linguistic-and-sociolinguistic-corpora/Things-to-measure_hudb2aa5fdfc77cb2a5f1c164e530bcf5c_100561_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;Things to measure in a socio-linguistic corpus&#34; width=&#34;756&#34; height=&#34;553&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
-  
   
   &lt;figcaption&gt;
     &lt;p&gt;Things to measure
@@ -13581,8 +13245,7 @@ Part of the discussion at the workshop was on how we can make corpora which are 
 &lt;span class=&#34;img-attribution&#34;&gt;Credit: Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
         &lt;meta itemprop=&#34;name&#34; content=&#34;Hugh Paterson III&#34; /&gt;
       &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
+  &lt;/figcaption&gt;&lt;/figure&gt;
 
 &lt;p&gt;This does not mean that the corpus does not also need to be cross cut with these other &amp;ldquo;sub-kinds&amp;rdquo;. However, these sub-kinds are significantly more in number and will very from project to project. Some of these metadata kinds will be collected in a speaker profile questionnaire. But some of these metadata can only be provided with reflection on the event. To demonstrate the cross cutting of these metadata elements on a corpus I have provided the following diagram. It uses categories which were mentioned in the workshop and is not intended to be comprehensive. In this second diagram, the cross cutting elements might themselves be taxonomies. They may have controlled vocabularies or they may have an open set of possible values, they may also represent a scale.&lt;/p&gt;
 
@@ -13592,25 +13255,11 @@ Part of the discussion at the workshop was on how we can make corpora which are 
   
   
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure id=&#34;figure-taxonomies-for-social-demographics-and-social-dynamics-for-speakers-in-corpora&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
+&lt;figure id=&#34;figure-taxonomies-for-social-demographics-and-social-dynamics-for-speakers-in-corpora&#34;itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/metadata-dynamics-for-linguistic-and-sociolinguistic-corpora/Explaining-tiers_huce82558c4b604cd77d6c5fee429274c5_107158_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Taxonomies for social demographics and social dynamics for speakers in corpora.&#34;&gt;
 
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/metadata-dynamics-for-linguistic-and-sociolinguistic-corpora/Explaining-tiers_huce82558c4b604cd77d6c5fee429274c5_107158_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;Taxonomies for social demographics and social dynamics for speakers in corpora&#34; width=&#34;756&#34; height=&#34;553&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
-  
   
   &lt;figcaption&gt;
     &lt;p&gt;Taxonomies for social demographics and social dynamics for speakers in corpora.
@@ -13618,8 +13267,7 @@ Part of the discussion at the workshop was on how we can make corpora which are 
 &lt;span class=&#34;img-attribution&#34;&gt;Credit: Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
         &lt;meta itemprop=&#34;name&#34; content=&#34;Hugh Paterson III&#34; /&gt;
       &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
+  &lt;/figcaption&gt;&lt;/figure&gt;
 
 &lt;p&gt;Both of these diagrams tend to illustrate what in this workshop were referred to a &amp;ldquo;event level&amp;rdquo; metadata, rather than &amp;ldquo;corpus level&amp;rdquo; metadata.&lt;/p&gt;
 &lt;h3 id=&#34;a-note-on-corpus-level-metadata-vs-descriptive-metadata&#34;&gt;A note on corpus level metadata v.s. descriptive metadata&lt;/h3&gt;

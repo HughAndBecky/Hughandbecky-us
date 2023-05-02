@@ -69,25 +69,11 @@ A 6 minute introduction to crafting a personalized style sheet for an annotated 
   
   
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure id=&#34;figure-command-line-draging-a-path-into-the-terminal&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
+&lt;figure id=&#34;figure-command-line-draging-a-path-into-the-terminal&#34;itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/mass-import-to-endnote/references-folder_hu32c096761f8736ba2671964aa27d9564_16087_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Command line: draging a path into the terminal.&#34;&gt;
 
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/mass-import-to-endnote/references-folder_hu32c096761f8736ba2671964aa27d9564_16087_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;Command line: draging a path into the terminal&#34; width=&#34;663&#34; height=&#34;450&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
-  
   
   &lt;figcaption&gt;
     &lt;p&gt;Command line: draging a path into the terminal.
@@ -95,8 +81,7 @@ A 6 minute introduction to crafting a personalized style sheet for an annotated 
 &lt;span class=&#34;img-attribution&#34;&gt;Credit: Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
         &lt;meta itemprop=&#34;name&#34; content=&#34;Hugh Paterson III&#34; /&gt;
       &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
+  &lt;/figcaption&gt;&lt;/figure&gt;
 
 &lt;p&gt;Type a &lt;code&gt;&amp;gt;&lt;/code&gt; symbol and the new &lt;code&gt;.ris&lt;/code&gt; file&amp;rsquo;s name. The result is a concatenation of all the data from the many &lt;code&gt;.ris&lt;/code&gt; files into one &lt;code&gt;.ris&lt;/code&gt; file. This allows me to go back to EndNote and import all the one massive &lt;code&gt;.ris&lt;/code&gt; file and save clicks.&lt;/p&gt;
 &lt;p&gt;One can also use the star/wildcard character like this &lt;code&gt;$ cat *.ris &amp;gt; new.ris&lt;/code&gt;. This will concatenate all the .ris files within the folder into the &lt;code&gt;new.ris&lt;/code&gt; file.&lt;/p&gt;
@@ -107,25 +92,11 @@ A 6 minute introduction to crafting a personalized style sheet for an annotated 
   
   
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure id=&#34;figure-command-line-draging-a-path-into-the-terminal&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
+&lt;figure id=&#34;figure-command-line-draging-a-path-into-the-terminal&#34;itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/mass-import-to-endnote/commandline-example_hub045d3573b155fc84ef5b63eb5898357_12919_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Command line: draging a path into the terminal.&#34;&gt;
 
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/mass-import-to-endnote/commandline-example_hub045d3573b155fc84ef5b63eb5898357_12919_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;Command line: draging a path into the terminal&#34; width=&#34;1019&#34; height=&#34;457&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
-  
   
   &lt;figcaption&gt;
     &lt;p&gt;Command line: draging a path into the terminal.
@@ -133,8 +104,7 @@ A 6 minute introduction to crafting a personalized style sheet for an annotated 
 &lt;span class=&#34;img-attribution&#34;&gt;Credit: Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
         &lt;meta itemprop=&#34;name&#34; content=&#34;Hugh Paterson III&#34; /&gt;
       &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
+  &lt;/figcaption&gt;&lt;/figure&gt;
 
 </description>
     </item>
@@ -178,25 +148,11 @@ A 6 minute introduction to crafting a personalized style sheet for an annotated 
   
   
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure id=&#34;figure-endnote-display-fields&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
+&lt;figure id=&#34;figure-endnote-display-fields&#34;itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/using-endnote-x4-for-mac/Endnote_Display_Fields_hu6175e2e8318e865aaff9b1ae3a8c3023_108510_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Endnote Display Fields.&#34;&gt;
 
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/using-endnote-x4-for-mac/Endnote_Display_Fields_hu6175e2e8318e865aaff9b1ae3a8c3023_108510_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;Endnote Display Fields&#34; width=&#34;724&#34; height=&#34;466&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
-  
   
   &lt;figcaption&gt;
     &lt;p&gt;Endnote Display Fields.
@@ -204,8 +160,7 @@ A 6 minute introduction to crafting a personalized style sheet for an annotated 
 &lt;span class=&#34;img-attribution&#34;&gt;Credit: Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
         &lt;meta itemprop=&#34;name&#34; content=&#34;Hugh Paterson III&#34; /&gt;
       &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
+  &lt;/figcaption&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
@@ -237,25 +192,11 @@ A 6 minute introduction to crafting a personalized style sheet for an annotated 
   
   
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure id=&#34;figure-items-are-not-selectable-based-on-issue-data&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
+&lt;figure id=&#34;figure-items-are-not-selectable-based-on-issue-data&#34;itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/using-endnote-x4-for-mac/Issue_data_hu6175e2e8318e865aaff9b1ae3a8c3023_170476_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Items are not selectable based on Issue Data.&#34;&gt;
 
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/using-endnote-x4-for-mac/Issue_data_hu6175e2e8318e865aaff9b1ae3a8c3023_170476_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;Items are not selectable based on Issue Data&#34; width=&#34;748&#34; height=&#34;900&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
-  
   
   &lt;figcaption&gt;
     &lt;p&gt;Items are not selectable based on Issue Data.
@@ -263,8 +204,7 @@ A 6 minute introduction to crafting a personalized style sheet for an annotated 
 &lt;span class=&#34;img-attribution&#34;&gt;Credit: Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
         &lt;meta itemprop=&#34;name&#34; content=&#34;Hugh Paterson III&#34; /&gt;
       &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
+  &lt;/figcaption&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
@@ -278,25 +218,11 @@ A 6 minute introduction to crafting a personalized style sheet for an annotated 
   
   
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure id=&#34;figure-endnote-does-not-have-a-way-to-open-the-containing-folder-of-a-pdf&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
+&lt;figure id=&#34;figure-endnote-does-not-have-a-way-to-open-the-containing-folder-of-a-pdf&#34;itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/using-endnote-x4-for-mac/_hu6175e2e8318e865aaff9b1ae3a8c3023_309625_77c2b327ef372c8dec87fdc16cb9099e.jpg&#34; data-caption=&#34;Endnote does not have a way to open the containing folder of a PDF.&#34;&gt;
 
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/using-endnote-x4-for-mac/_hu6175e2e8318e865aaff9b1ae3a8c3023_309625_77c2b327ef372c8dec87fdc16cb9099e.jpg&#34; class=&#34;lazyload&#34; alt=&#34;Endnote does not have a way to open the containing folder of a PDF&#34; width=&#34;1440&#34; height=&#34;900&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
-  
   
   &lt;figcaption&gt;
     &lt;p&gt;Endnote does not have a way to open the containing folder of a PDF.
@@ -304,8 +230,7 @@ A 6 minute introduction to crafting a personalized style sheet for an annotated 
 &lt;span class=&#34;img-attribution&#34;&gt;Credit: Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
         &lt;meta itemprop=&#34;name&#34; content=&#34;Hugh Paterson III&#34; /&gt;
       &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
+  &lt;/figcaption&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
@@ -316,25 +241,11 @@ A 6 minute introduction to crafting a personalized style sheet for an annotated 
   
   
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure id=&#34;figure-endnote-does-not-have-a-way-to-open-the-containing-folder-of-an-included-pdf&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
+&lt;figure id=&#34;figure-endnote-does-not-have-a-way-to-open-the-containing-folder-of-an-included-pdf&#34;itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/using-endnote-x4-for-mac/_hu6175e2e8318e865aaff9b1ae3a8c3023_44705_d588c9cd8c507a3a0886c75d1395a4e2.jpg&#34; data-caption=&#34;Endnote does not have a way to open the containing folder of an included PDF.&#34;&gt;
 
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/using-endnote-x4-for-mac/_hu6175e2e8318e865aaff9b1ae3a8c3023_44705_d588c9cd8c507a3a0886c75d1395a4e2.jpg&#34; class=&#34;lazyload&#34; alt=&#34;Endnote does not have a way to open the containing folder of an included PDF&#34; width=&#34;495&#34; height=&#34;360&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
-  
   
   &lt;figcaption&gt;
     &lt;p&gt;Endnote does not have a way to open the containing folder of an included PDF.
@@ -342,8 +253,7 @@ A 6 minute introduction to crafting a personalized style sheet for an annotated 
 &lt;span class=&#34;img-attribution&#34;&gt;Credit: Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
         &lt;meta itemprop=&#34;name&#34; content=&#34;Hugh Paterson III&#34; /&gt;
       &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
+  &lt;/figcaption&gt;&lt;/figure&gt;
 
 &lt;ol start=&#34;11&#34;&gt;
 &lt;li&gt;
@@ -372,25 +282,11 @@ i.e. I want to create a smart group of all the references with a PDF attached bu
   
   
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure id=&#34;figure-endnote-has-no-option-for-part-of-group-filter&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
+&lt;figure id=&#34;figure-endnote-has-no-option-for-part-of-group-filter&#34;itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/using-endnote-x4-for-mac/Endnote_no_option_for_part_of_group_filter_hu6175e2e8318e865aaff9b1ae3a8c3023_255471_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Endnote has no option for &amp;#39;part of group&amp;#39; filter.&#34;&gt;
 
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/using-endnote-x4-for-mac/Endnote_no_option_for_part_of_group_filter_hu6175e2e8318e865aaff9b1ae3a8c3023_255471_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;Endnote has no option for \&amp;#39;part of group\&amp;#39; filter&#34; width=&#34;1440&#34; height=&#34;900&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
-  
   
   &lt;figcaption&gt;
     &lt;p&gt;Endnote has no option for &#39;part of group&#39; filter.
@@ -398,8 +294,7 @@ i.e. I want to create a smart group of all the references with a PDF attached bu
 &lt;span class=&#34;img-attribution&#34;&gt;Credit: Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
         &lt;meta itemprop=&#34;name&#34; content=&#34;Hugh Paterson III&#34; /&gt;
       &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
+  &lt;/figcaption&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
@@ -410,25 +305,11 @@ i.e. I want to create a smart group of all the references with a PDF attached bu
   
   
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure id=&#34;figure-no-pdf-preview-internal-to-endnote&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
+&lt;figure id=&#34;figure-no-pdf-preview-internal-to-endnote&#34;itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/using-endnote-x4-for-mac/No_PDF_Preview_internal_to_Endnote_hu6175e2e8318e865aaff9b1ae3a8c3023_245019_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;No PDF Preview internal to Endnote.&#34;&gt;
 
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/using-endnote-x4-for-mac/No_PDF_Preview_internal_to_Endnote_hu6175e2e8318e865aaff9b1ae3a8c3023_245019_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;No PDF Preview internal to Endnote&#34; width=&#34;1290&#34; height=&#34;877&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
-  
   
   &lt;figcaption&gt;
     &lt;p&gt;No PDF Preview internal to Endnote.
@@ -436,8 +317,7 @@ i.e. I want to create a smart group of all the references with a PDF attached bu
 &lt;span class=&#34;img-attribution&#34;&gt;Credit: Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
         &lt;meta itemprop=&#34;name&#34; content=&#34;Hugh Paterson III&#34; /&gt;
       &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
+  &lt;/figcaption&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;

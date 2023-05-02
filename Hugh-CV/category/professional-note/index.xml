@@ -73,34 +73,19 @@
   
   
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure id=&#34;figure-types-of-browser-based-tools&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
+&lt;figure id=&#34;figure-types-of-browser-based-tools&#34;itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/presenting-oral-texts-with-transcriptions-online/Types-of-Browser-based-tools_hua36818c6bed2e8af187cca8f2012a317_155372_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Types of browser based tools&#34;&gt;
 
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/presenting-oral-texts-with-transcriptions-online/Types-of-Browser-based-tools_hua36818c6bed2e8af187cca8f2012a317_155372_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;Taxonomy of browser based tools&#34; width=&#34;1576&#34; height=&#34;588&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
-  
   
   &lt;figcaption&gt;
     &lt;p&gt;Types of browser based tools
       
 &lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;https://hughandbecky.us/Hugh-CV/post/presenting-oral-texts-with-transcriptions-online&#34;&gt; Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
         &lt;meta itemprop=&#34;name&#34; content=&#34;Hugh Paterson III&#34; /&gt;
-      &lt;/span&gt;&lt;/a&gt; &lt;/span&gt;&lt;/p&gt;
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
+      &lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+  &lt;/figcaption&gt;&lt;/figure&gt;
 
 &lt;!-- For example many publishers use or require Leipzig glossing rules which point to a &#34;standard&#34; set of abbreviations, to be used in print publications. However, these abbreviations do not have a concrete set of definitions. Therefore one can never be exactly sure what an author means when they use these abbreviations (but in general shared conventions are more helpful than not). What I have noticed with respect to these abbreviations is that due to the mental/visual prominence the abbreviations have in print media, they are often being used in corpus annotations. To complicate matters, when additional annotations are needed but are not present in the Leipzig Glossing Rules chaos ensues. That is, authors choose to create their own abbreviations on an ad-hoc basis. Additionally abbreviations used in the Leipzig Glossing Rules by field linguists are often different from those used by computational linguists working on TreeBanks or WordNets creating a gap in the cross-discipline uses of corpora. --&gt;
 &lt;p&gt;While what is presented in terms of the content is still very important, &lt;em&gt;how&lt;/em&gt; it is presented in an interactive mode is also important. That is, how is the experience crafted around the audio or video and the transcribed segments in terms of the &lt;em&gt;interaction design&lt;/em&gt; and &lt;em&gt;visual design&lt;/em&gt;? I started to compile a list of these interactions which I present below. However, two significant components are influential in the life cycle of software and hence these interactions. First, the viral nature of the interaction, i.e., how easy is it to propagate the interaction in new contexts. Second, what is the life cycle of the technology undergirding the browser based experience? That is, how does the technology choice expose the user to obsolecence and technolgical debt. These two factors should be top ranking considerations when a project desires to &amp;ldquo;publish&amp;rdquo; or present interlinear texts online. In addition to these two factors, the following three design considerations will also impact the sustainability and maintainability of the online presence for the corpora and ought to be considered while planning for implementation.&lt;/p&gt;
@@ -126,34 +111,19 @@
   
   
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure id=&#34;figure-german-example-showing-output-and-code-taken-from-the-leipzigjs-website&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
+&lt;figure id=&#34;figure-german-example-showing-output-and-code-taken-from-the-leipzigjs-website&#34;itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/presenting-oral-texts-with-transcriptions-online/leipzig_hub10e4c6c263b7731bb1ac0e1e9ed1f4e_114603_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;German example showing output and code taken from the leipzig.js website&#34;&gt;
 
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/presenting-oral-texts-with-transcriptions-online/leipzig_hub10e4c6c263b7731bb1ac0e1e9ed1f4e_114603_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;Example taken from leipzig.js website&#34; width=&#34;715&#34; height=&#34;847&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
-  
   
   &lt;figcaption&gt;
     &lt;p&gt;German example showing output and code taken from the leipzig.js website
       
 &lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;https://bdchauvette.net/leipzig.js/examples/&#34;&gt; Ben Chauvette&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
         &lt;meta itemprop=&#34;name&#34; content=&#34;Ben Chauvette&#34; /&gt;
-      &lt;/span&gt;&lt;/a&gt; &lt;/span&gt;&lt;/p&gt;
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
+      &lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+  &lt;/figcaption&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;h3 id=&#34;iath-elan-text-sync-tool-etst&#34;&gt;IATH ELAN Text-Sync Tool (ETST)&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;Produced by&lt;/strong&gt;: Lise Dobrin &amp;amp; Douglas Ross  
@@ -210,34 +180,19 @@
   
   
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure id=&#34;figure-time-aligned-audio-and-text-where-text-is-automatically-highlighted-as-the-audio-plays&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
+&lt;figure id=&#34;figure-time-aligned-audio-and-text-where-text-is-automatically-highlighted-as-the-audio-plays&#34;itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/presenting-oral-texts-with-transcriptions-online/IATHELAN_hu7827a15245c69c5d5e8c519632c5e7d8_331560_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Time aligned audio and text where text is automatically highlighted as the audio plays.&#34;&gt;
 
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/presenting-oral-texts-with-transcriptions-online/IATHELAN_hu7827a15245c69c5d5e8c519632c5e7d8_331560_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;Example of time aligned audio and text&#34; width=&#34;1423&#34; height=&#34;865&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
-  
   
   &lt;figcaption&gt;
     &lt;p&gt;Time aligned audio and text where text is automatically highlighted as the audio plays.
       
 &lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;http://community.village.virginia.edu/etst/example.php&#34;&gt; Lise &amp;amp; Douglas&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
         &lt;meta itemprop=&#34;name&#34; content=&#34;Lise &amp;amp; Douglas&#34; /&gt;
-      &lt;/span&gt;&lt;/a&gt; &lt;/span&gt;&lt;/p&gt;
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
+      &lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+  &lt;/figcaption&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;h3 id=&#34;lingview&#34;&gt;LingView&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;Produced by&lt;/strong&gt;: 
@@ -297,20 +252,7 @@
   
   
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
+&lt;figure itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/presenting-oral-texts-with-transcriptions-online/LingView_hu22559aeae75463bc8faa9e4d77838f02_511347_2000x2000_fit_lanczos_2.png&#34; &gt;
 
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/presenting-oral-texts-with-transcriptions-online/LingView_hu22559aeae75463bc8faa9e4d77838f02_511347_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;mulit-cast screenshot&#34; width=&#34;1854&#34; height=&#34;824&#34; itemprop=&#34;contentUrl&#34;&gt;
@@ -330,20 +272,7 @@
   
   
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
+&lt;figure itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/presenting-oral-texts-with-transcriptions-online/CSULB_hudb0370fef0e167a80649bdef8b646f78_129500_2000x2000_fit_lanczos_2.png&#34; &gt;
 
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/presenting-oral-texts-with-transcriptions-online/CSULB_hudb0370fef0e167a80649bdef8b646f78_129500_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;mulit-cast screenshot&#34; width=&#34;1843&#34; height=&#34;835&#34; itemprop=&#34;contentUrl&#34;&gt;
@@ -365,20 +294,7 @@
   
   
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
+&lt;figure itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/presenting-oral-texts-with-transcriptions-online/ELAN-wavesurfer_hu0f61d3cc2abf421572dfe77fb5597d70_75522_2000x2000_fit_lanczos_2.png&#34; &gt;
 
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/presenting-oral-texts-with-transcriptions-online/ELAN-wavesurfer_hu0f61d3cc2abf421572dfe77fb5597d70_75522_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;ELAN wavesurfer interface&#34; width=&#34;920&#34; height=&#34;776&#34; itemprop=&#34;contentUrl&#34;&gt;
@@ -490,25 +406,11 @@
   
   
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure id=&#34;figure-screenshot-of-eopas&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
+&lt;figure id=&#34;figure-screenshot-of-eopas&#34;itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/presenting-oral-texts-with-transcriptions-online/eopas_hu3800efd0c53c43f441e1c6b75aa4780d_791550_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Screenshot of Eopas&#34;&gt;
 
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/presenting-oral-texts-with-transcriptions-online/eopas_hu3800efd0c53c43f441e1c6b75aa4780d_791550_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;Screenshot of Eopa&#34; width=&#34;1026&#34; height=&#34;775&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
-  
   
   &lt;figcaption&gt;
     &lt;p&gt;Screenshot of Eopas
@@ -516,8 +418,7 @@
 &lt;span class=&#34;img-attribution&#34;&gt;Credit: Nick Thieberger&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
         &lt;meta itemprop=&#34;name&#34; content=&#34;Nick Thieberger&#34; /&gt;
       &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
+  &lt;/figcaption&gt;&lt;/figure&gt;
 
 &lt;h3 id=&#34;nabu-collection-viewer&#34;&gt;Nabu collection viewer&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;Produced by&lt;/strong&gt;: Nick Thieberger&lt;br/&gt;
@@ -531,25 +432,11 @@
   
   
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure id=&#34;figure-screenshot-of-nabu-collection-viewer&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
+&lt;figure id=&#34;figure-screenshot-of-nabu-collection-viewer&#34;itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/presenting-oral-texts-with-transcriptions-online/Nabu_hu54745e7fefb1c102b9ebf913d7633783_65695_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Screenshot of Nabu Collection viewer&#34;&gt;
 
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/presenting-oral-texts-with-transcriptions-online/Nabu_hu54745e7fefb1c102b9ebf913d7633783_65695_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;Screenshot of Nabu Collection viewer&#34; width=&#34;1465&#34; height=&#34;857&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
-  
   
   &lt;figcaption&gt;
     &lt;p&gt;Screenshot of Nabu Collection viewer
@@ -557,8 +444,7 @@
 &lt;span class=&#34;img-attribution&#34;&gt;Credit: Nick Thieberger&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
         &lt;meta itemprop=&#34;name&#34; content=&#34;Nick Thieberger&#34; /&gt;
       &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
+  &lt;/figcaption&gt;&lt;/figure&gt;
 
 &lt;h3 id=&#34;typecraft&#34;&gt;TypeCraft&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;Produced by&lt;/strong&gt;: 
@@ -660,34 +546,19 @@
   
   
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure id=&#34;figure-audio-is-at-the-very-bottom-of-the-screen-the-text-is-not-highlighted-as-it-is-played&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
+&lt;figure id=&#34;figure-audio-is-at-the-very-bottom-of-the-screen-the-text-is-not-highlighted-as-it-is-played&#34;itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/presenting-oral-texts-with-transcriptions-online/multi-cast_hub075d7be7fd51d658edcc068bfd23fd0_115657_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Audio is at the very bottom of the screen. The text is not highlighted as it is played.&#34;&gt;
 
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/presenting-oral-texts-with-transcriptions-online/multi-cast_hub075d7be7fd51d658edcc068bfd23fd0_115657_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;mulit-cast screenshot&#34; width=&#34;1902&#34; height=&#34;915&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
-  
   
   &lt;figcaption&gt;
     &lt;p&gt;Audio is at the very bottom of the screen. The text is not highlighted as it is played.
       
 &lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;https://multicast.aspra.uni-bamberg.de/php/preview.php?v=2101&amp;amp;corpus=arta&amp;amp;text=alisiya&#34;&gt; Geoffrey Haig &amp;amp; Nils Norman Schiborr&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
         &lt;meta itemprop=&#34;name&#34; content=&#34;Geoffrey Haig &amp;amp; Nils Norman Schiborr&#34; /&gt;
-      &lt;/span&gt;&lt;/a&gt; &lt;/span&gt;&lt;/p&gt;
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
+      &lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+  &lt;/figcaption&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;h3 id=&#34;pangloss&#34;&gt;Pangloss&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;Produced by&lt;/strong&gt;: CNRS-LACITO 
@@ -852,20 +723,7 @@
   
   
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
+&lt;figure itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/presenting-oral-texts-with-transcriptions-online/Pangloss_hub8cf7e90014ba857c943350251fd247e_128451_2000x2000_fit_lanczos_2.png&#34; &gt;
 
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/presenting-oral-texts-with-transcriptions-online/Pangloss_hub8cf7e90014ba857c943350251fd247e_128451_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;mulit-cast screenshot&#34; width=&#34;1593&#34; height=&#34;879&#34; itemprop=&#34;contentUrl&#34;&gt;
@@ -1775,34 +1633,19 @@ https://sigann.github.io/LAW-XIV-2020/pdf/2020.law-1.9.pdf
   
   
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure id=&#34;figure-juvenile-king-cobra-at-medtoxin-laboratories-deland-fl&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
+&lt;figure id=&#34;figure-juvenile-king-cobra-at-medtoxin-laboratories-deland-fl&#34;itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/nigerian-snake/2305151475_bbf786020f_k_hu092e02540d20bd644921ec2e00b905a3_483484_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Juvenile King Cobra at Medtoxin Laboratories, Deland, FL.&#34;&gt;
 
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/nigerian-snake/2305151475_bbf786020f_k_hu092e02540d20bd644921ec2e00b905a3_483484_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;Juvenile King Cobra.&#34; width=&#34;2048&#34; height=&#34;1187&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
-  
   
   &lt;figcaption&gt;
     &lt;p&gt;Juvenile King Cobra at Medtoxin Laboratories, Deland, FL.
       
 &lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;https://www.flickr.com/photos/audreysmithnaturequest/2305151475&#34;&gt; Audrey Smith&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
         &lt;meta itemprop=&#34;name&#34; content=&#34;Audrey Smith&#34; /&gt;
-      &lt;/span&gt;&lt;/a&gt; &lt;/span&gt;&lt;/p&gt;
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
+      &lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+  &lt;/figcaption&gt;&lt;/figure&gt;
 
 &lt;h2 id=&#34;new-and-general-field-guides&#34;&gt;New and General Field Guides&lt;/h2&gt;
 &lt;h3 id=&#34;snakes&#34;&gt;Snakes&lt;/h3&gt;
@@ -6458,20 +6301,7 @@ https://sigann.github.io/LAW-XIV-2020/pdf/2020.law-1.9.pdf
   
   
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
+&lt;figure itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/lca-curation-workflow-network/NetworkGraph-LCA_hu9046408fde021e7ac81feb07247ffa8d_451744_2000x2000_fit_lanczos_2.png&#34; &gt;
 
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/lca-curation-workflow-network/NetworkGraph-LCA_hu9046408fde021e7ac81feb07247ffa8d_451744_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;Network Diagram&#34; width=&#34;984&#34; height=&#34;599&#34; itemprop=&#34;contentUrl&#34;&gt;

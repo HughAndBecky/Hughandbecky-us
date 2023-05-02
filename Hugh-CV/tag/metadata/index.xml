@@ -4415,34 +4415,19 @@ The xsi:type attribute may be used in instance documents to indicate the type of
   
   
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure id=&#34;figure-screenshot-of-dcmitype-metadata&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
+&lt;figure id=&#34;figure-screenshot-of-dcmitype-metadata&#34;itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/olac-term-consolidation/OLAC-DCMITypes_hu4186249c5d4dbeb42df841edc39557cb_38035_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Screenshot of DCMIType metadata&#34;&gt;
 
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/olac-term-consolidation/OLAC-DCMITypes_hu4186249c5d4dbeb42df841edc39557cb_38035_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;Screenshot of DCMIType metadata&#34; width=&#34;713&#34; height=&#34;387&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
-  
   
   &lt;figcaption&gt;
     &lt;p&gt;Screenshot of DCMIType metadata
       
 &lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;http://dla.library.upenn.edu/dla/olac/browse.html?browse=dcmi_type_facet&amp;amp;&#34;&gt; OLAC metadata screenshot on 24 September 2022 by Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
         &lt;meta itemprop=&#34;name&#34; content=&#34;OLAC metadata screenshot on 24 September 2022 by Hugh Paterson III&#34; /&gt;
-      &lt;/span&gt;&lt;/a&gt; &lt;/span&gt;&lt;/p&gt;
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
+      &lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+  &lt;/figcaption&gt;&lt;/figure&gt;
 
 &lt;h2 id=&#34;bibliography&#34;&gt;Bibliography&lt;/h2&gt;
 
@@ -8252,34 +8237,19 @@ The xsi:type attribute may be used in instance documents to indicate the type of
   
   
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure id=&#34;figure-types-of-olac-data-providers&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
+&lt;figure id=&#34;figure-types-of-olac-data-providers&#34;itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/diversity-and-typology-across-olac-providers/Data_contributors_hu8da133b01ff086a7adb712d959fc9935_89197_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Types of OLAC Data Providers.&#34;&gt;
 
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/diversity-and-typology-across-olac-providers/Data_contributors_hu8da133b01ff086a7adb712d959fc9935_89197_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;Types of OLAC Data Providers.&#34; width=&#34;2318&#34; height=&#34;840&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
-  
   
   &lt;figcaption&gt;
     &lt;p&gt;Types of OLAC Data Providers.
       
 &lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;http://hugh4.us&#34;&gt; Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
         &lt;meta itemprop=&#34;name&#34; content=&#34;Hugh Paterson III&#34; /&gt;
-      &lt;/span&gt;&lt;/a&gt; &lt;/span&gt;&lt;/p&gt;
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
+      &lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+  &lt;/figcaption&gt;&lt;/figure&gt;
 
 &lt;!-- It is an interesting difference presented in this paper: http://www.language-archives.org/documents/community-providers.html were B&amp;S take the following approach to parsing (open language (archive community)).
 
@@ -8396,20 +8366,7 @@ The xsi:type attribute may be used in instance documents to indicate the type of
   
   
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
+&lt;figure itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/olac-social-perspective/Views-on-OLAC_hu2f05db6142d27c16357970e88be38e2a_76599_2000x2000_fit_lanczos_2.png&#34; &gt;
 
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/olac-social-perspective/Views-on-OLAC_hu2f05db6142d27c16357970e88be38e2a_76599_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;Topdown vs Bottomup view on OLAC.&#34; width=&#34;1162&#34; height=&#34;816&#34; itemprop=&#34;contentUrl&#34;&gt;
@@ -8511,20 +8468,7 @@ The xsi:type attribute may be used in instance documents to indicate the type of
   
   
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
+&lt;figure itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/olac-social-perspective/OLAC-Observer-Bias_hu1bc84dd011562a4046a66942a09923ab_109295_2000x2000_fit_lanczos_2.png&#34; &gt;
 
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/olac-social-perspective/OLAC-Observer-Bias_hu1bc84dd011562a4046a66942a09923ab_109295_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;Q: What is the difference between a microscope and a telescope? A: The side of the lens that the analyst sits on.&#34; width=&#34;960&#34; height=&#34;540&#34; itemprop=&#34;contentUrl&#34;&gt;
@@ -9301,20 +9245,7 @@ useful, OLAC lacks a deep semantic definition and relies mostly on best practice
   
   
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
+&lt;figure itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/publication/2021-where-have-all-the-collections-gone/Where-have-all-the-Collections-Gone_hubee254452cc2b7ded0f237c542931053_864615_2000x2000_fit_lanczos_2.png&#34; &gt;
 
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/publication/2021-where-have-all-the-collections-gone/Where-have-all-the-Collections-Gone_hubee254452cc2b7ded0f237c542931053_864615_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;Image of Poster&#34; width=&#34;2678&#34; height=&#34;3041&#34; itemprop=&#34;contentUrl&#34;&gt;
@@ -10946,25 +10877,11 @@ wbr:before {
   
   
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure id=&#34;figure-facebook-user-base-graph-from-2010&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
+&lt;figure id=&#34;figure-facebook-user-base-graph-from-2010&#34;itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/socio-linguistic-profiles-for-language-documentation/Facebook-mapping-image_hu0aef8681ee99a41516320eb7e1527399_2066885_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Facebook User Base Graph from 2010&#34;&gt;
 
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/socio-linguistic-profiles-for-language-documentation/Facebook-mapping-image_hu0aef8681ee99a41516320eb7e1527399_2066885_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;Facebook User Base Graph from 2010&#34; width=&#34;1600&#34; height=&#34;797&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
-  
   
   &lt;figcaption&gt;
     &lt;p&gt;Facebook User Base Graph from 2010
@@ -10972,8 +10889,7 @@ wbr:before {
 &lt;span class=&#34;img-attribution&#34;&gt;Credit: Facebook&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
         &lt;meta itemprop=&#34;name&#34; content=&#34;Facebook&#34; /&gt;
       &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
+  &lt;/figcaption&gt;&lt;/figure&gt;
 
 &lt;p&gt;Below is a list of elements which Facebook is collecting (it is also collecting log-in locations and times). So, some of these questions are certainly in-scope of what language documenters would minimally like to know about their indigenous language speaking informants and collaborators. Others of these questions are certainly not in-scope for the recommended socio-linguistic profile from language documenters or socio-linguists.&lt;/p&gt;
 &lt;h3 id=&#34;facebook-data-catagories-on-user-profiles&#34;&gt;FaceBook data catagories on user profiles&lt;/h3&gt;
@@ -11318,34 +11234,19 @@ Bibliography called, but no references
   
   
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure id=&#34;figure-notice-of-nsf-grant-award&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
+&lt;figure id=&#34;figure-notice-of-nsf-grant-award&#34;itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/olac-grant-aggregator/NSF-Grant_hue2c2cdacdb65db441481dd609fada4c1_318924_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Notice of NSF Grant award&#34;&gt;
 
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/olac-grant-aggregator/NSF-Grant_hue2c2cdacdb65db441481dd609fada4c1_318924_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;Notice of NSF Grant award&#34; width=&#34;1436&#34; height=&#34;881&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
-  
   
   &lt;figcaption&gt;
     &lt;p&gt;Notice of NSF Grant award
       
 &lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=0966411&amp;amp;WT.z_pims_id=12816&#34;&gt; NSF&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
         &lt;meta itemprop=&#34;name&#34; content=&#34;NSF&#34; /&gt;
-      &lt;/span&gt;&lt;/a&gt; &lt;/span&gt;&lt;/p&gt;
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
+      &lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+  &lt;/figcaption&gt;&lt;/figure&gt;
 
 &lt;p&gt;I was particularly happy to find that NSF does have a &lt;em&gt;grant offering&lt;/em&gt; and &lt;em&gt;grant awarded&lt;/em&gt; 
 &lt;a href=&#34;http://www.nsf.gov/awardsearch/progSearch.do?WT.si_n=ClickedAbstractsRecentAwards&amp;amp;WT.si_x=1&amp;amp;WT.si_cs=1&amp;amp;WT.z_pims_id=12816&amp;amp;SearchType=progSearch&amp;amp;page=2&amp;amp;QueryText=&amp;amp;ProgOrganization=&amp;amp;ProgOfficer=&amp;amp;ProgEleCode=7719&amp;amp;BooleanElement=true&amp;amp;ProgRefCode=&amp;amp;BooleanRef=true&amp;amp;ProgProgram=&amp;amp;ProgFoaCode=&amp;amp;RestrictActive=on&amp;amp;Search=Search#results&#34; title=&#34;NSF Grants&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;search section&lt;/a&gt;. But aggregating this knowledge with prior research would really give interested parties in particular languages the integrated perspective of how funding has impacted the development and research of minority languages.&lt;/p&gt;
@@ -11385,25 +11286,11 @@ Part of the discussion at the workshop was on how we can make corpora which are 
   
   
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure id=&#34;figure-things-to-measure&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
+&lt;figure id=&#34;figure-things-to-measure&#34;itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/metadata-dynamics-for-linguistic-and-sociolinguistic-corpora/Things-to-measure_hudb2aa5fdfc77cb2a5f1c164e530bcf5c_100561_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Things to measure&#34;&gt;
 
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/metadata-dynamics-for-linguistic-and-sociolinguistic-corpora/Things-to-measure_hudb2aa5fdfc77cb2a5f1c164e530bcf5c_100561_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;Things to measure in a socio-linguistic corpus&#34; width=&#34;756&#34; height=&#34;553&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
-  
   
   &lt;figcaption&gt;
     &lt;p&gt;Things to measure
@@ -11411,8 +11298,7 @@ Part of the discussion at the workshop was on how we can make corpora which are 
 &lt;span class=&#34;img-attribution&#34;&gt;Credit: Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
         &lt;meta itemprop=&#34;name&#34; content=&#34;Hugh Paterson III&#34; /&gt;
       &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
+  &lt;/figcaption&gt;&lt;/figure&gt;
 
 &lt;p&gt;This does not mean that the corpus does not also need to be cross cut with these other &amp;ldquo;sub-kinds&amp;rdquo;. However, these sub-kinds are significantly more in number and will very from project to project. Some of these metadata kinds will be collected in a speaker profile questionnaire. But some of these metadata can only be provided with reflection on the event. To demonstrate the cross cutting of these metadata elements on a corpus I have provided the following diagram. It uses categories which were mentioned in the workshop and is not intended to be comprehensive. In this second diagram, the cross cutting elements might themselves be taxonomies. They may have controlled vocabularies or they may have an open set of possible values, they may also represent a scale.&lt;/p&gt;
 
@@ -11422,25 +11308,11 @@ Part of the discussion at the workshop was on how we can make corpora which are 
   
   
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure id=&#34;figure-taxonomies-for-social-demographics-and-social-dynamics-for-speakers-in-corpora&#34; itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
+&lt;figure id=&#34;figure-taxonomies-for-social-demographics-and-social-dynamics-for-speakers-in-corpora&#34;itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/metadata-dynamics-for-linguistic-and-sociolinguistic-corpora/Explaining-tiers_huce82558c4b604cd77d6c5fee429274c5_107158_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Taxonomies for social demographics and social dynamics for speakers in corpora.&#34;&gt;
 
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/metadata-dynamics-for-linguistic-and-sociolinguistic-corpora/Explaining-tiers_huce82558c4b604cd77d6c5fee429274c5_107158_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;Taxonomies for social demographics and social dynamics for speakers in corpora&#34; width=&#34;756&#34; height=&#34;553&#34; itemprop=&#34;contentUrl&#34;&gt;
 &lt;/a&gt;
-  
   
   &lt;figcaption&gt;
     &lt;p&gt;Taxonomies for social demographics and social dynamics for speakers in corpora.
@@ -11448,8 +11320,7 @@ Part of the discussion at the workshop was on how we can make corpora which are 
 &lt;span class=&#34;img-attribution&#34;&gt;Credit: Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
         &lt;meta itemprop=&#34;name&#34; content=&#34;Hugh Paterson III&#34; /&gt;
       &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
+  &lt;/figcaption&gt;&lt;/figure&gt;
 
 &lt;p&gt;Both of these diagrams tend to illustrate what in this workshop were referred to a &amp;ldquo;event level&amp;rdquo; metadata, rather than &amp;ldquo;corpus level&amp;rdquo; metadata.&lt;/p&gt;
 &lt;h3 id=&#34;a-note-on-corpus-level-metadata-vs-descriptive-metadata&#34;&gt;A note on corpus level metadata v.s. descriptive metadata&lt;/h3&gt;
