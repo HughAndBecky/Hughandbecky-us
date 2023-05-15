@@ -4,11 +4,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="generator" content="Source Themes Academic 4.8.0">
-
-  <meta name="author" content="Hugh Paterson III">
-
-  <meta name="description" content="A short note with commandline instructions for converting FLExText for inclusion into XLingPaper.">
+  <meta name="generator" content="Source Themes Academic 4.8.0"><meta name="author" content="Hugh Paterson III"><meta name="description" content="A short note with commandline instructions for converting FLExText for inclusion into XLingPaper.">
   <link rel="alternate" hreflang="en-us" href="https://hughandbecky.us/Hugh-CV/post/flextext-to-xlingpaper/">
 
 
@@ -198,7 +194,6 @@
   
 
 
-  
   <link rel="manifest" href="/Hugh-CV/index.webmanifest">
   <link rel="icon" type="image/png" href="/Hugh-CV/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_32x32_fill_lanczos_center_2.png">
   <link rel="apple-touch-icon" type="image/png" href="/Hugh-CV/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_192x192_fill_lanczos_center_2.png">
@@ -211,9 +206,7 @@
   
   
   
-  
     
-  
   
   <meta property="twitter:card" content="summary_large_image">
   
@@ -305,10 +298,7 @@
 <meta name="DC.Subject" content="FLEx">
 <meta name="DC.Description" content="A short note with commandline instructions for converting FLExText for inclusion into XLingPaper.">
 <meta name="dcterms.abstract" content="A short note with commandline instructions for converting FLExText for inclusion into XLingPaper.">
-<meta name="eprints.abstract" content="A short note with commandline instructions for converting FLExText for inclusion into XLingPaper.">
-
-
-<meta name="dcterms.issued" content="2021-05-07">
+<meta name="eprints.abstract" content="A short note with commandline instructions for converting FLExText for inclusion into XLingPaper."><meta name="dcterms.issued" content="2021-05-07">
 <meta name="DC.Date" content="2021-05-07">
 <meta name="citation_publication_date" content="2021">
 
@@ -323,10 +313,7 @@
 
 
 
- 
-
-
-<title>Converting FLExText Files to XLingPaper Interlinear Texts | Hugh&#39;s Curriculum Vitae</title>
+ <title>Converting FLExText Files to XLingPaper Interlinear Texts | Hugh&#39;s Curriculum Vitae</title>
 </head>
 
 
@@ -691,8 +678,6 @@
 
   <article class="article">
 
-  
-
 
 
 
@@ -812,12 +797,9 @@
   
 </div>
 
+<div class="article-container">
 
-
-  <div class="article-container">
-
-    <div class="article-style">
-      <p>Let&rsquo;s assume that we have a generous friend who has gifted us an interlinearized text from FLEx with morpheme level glossing in the format of <code>.flextext</code>. (<code>.flextext</code> is an XML formated file.) And lets say we want to type set that file in XLingPaper. How can we do that?</p>
+    <div class="article-style"><p>Let&rsquo;s assume that we have a generous friend who has gifted us an interlinearized text from FLEx with morpheme level glossing in the format of <code>.flextext</code>. (<code>.flextext</code> is an XML formated file.) And lets say we want to type set that file in XLingPaper. How can we do that?</p>
 <p>One might be tempted to import the <code>.flextext</code> file into FLEx so that it can be re-exported with the XLingPaper exports from the FLEx menus, but this is not really a viable option becasue if we import that FLExText to an empty FLEx database, FLEx will not import the morpheme level annotations — it will recognize the free-translation and the baseline text. Bascially anything which is related to the lexicon part of the database is not viewable in the imported database.</p>
 <p>However all is not lost we can use the XSLT transforms from FLEx by copying them to a usable location as the data start of those transforms is also <code>.flextext</code>.</p>
 <p>I run linux. On the command line I used <code>locate</code> to find the XSL file titled <code>xml2XLingPapConcatMorphemes.xsl</code> with <code>$ locate xml2XLingPapConcat</code></p>
@@ -830,10 +812,7 @@ Mine was located at: <code>/opt/xxe-perso-7_6_0/bin/saxon.jar</code></p>
 <p>I then needed to change where I told Saxon the files were located. In my case I coppied the <code>.xsl</code> files to their own folder within my project folder for simpler operation.</p>
 <p>There are other <code>.xsl</code> files for transforming FLExTexts to interlinear files in XLingPaper. These can be seen by using <code>locate</code> or in the official repo:
 Check for the other files in the official FLEx repo at: <a href="https://gerrit.lsdev.sil.org/admin/repos/FieldWorks,">https://gerrit.lsdev.sil.org/admin/repos/FieldWorks,</a> or specifically look at XLingPaper export xsl transforms as discussed in their origional merge into the FLEx project: <a href="https://gerrit.lsdev.sil.org/c/FieldWorks/+/1961">https://gerrit.lsdev.sil.org/c/FieldWorks/+/1961</a></p>
-
-    </div>
-
-    
+</div>
 
 
 
@@ -1039,9 +1018,7 @@ Check for the other files in the official FLEx repo at: <a href="https://gerrit.
 
 
 
-
-
-  </div>
+</div>
 </article>
 
       
@@ -1162,7 +1139,7 @@ Check for the other files in the official FLEx repo at: <a href="https://gerrit.
   
   <p class="powered-by">
     
-      <a href="/Hugh-CV/tag/privacy-policy/">Privacy Policy</a>
+      <a href="/Hugh-CV/privacy-policy/">Privacy Policy</a>
     
     
   </p>

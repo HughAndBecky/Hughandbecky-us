@@ -1063,6 +1063,31 @@
   </url>
   
   <url>
+    <loc>https://hughandbecky.us/Hugh-CV/tag/about-ness/</loc>
+    <lastmod>2022-11-07T14:35:45+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hughandbecky.us/Hugh-CV/post/dc-table-of-contents/</loc>
+    <lastmod>2022-11-07T14:35:45+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hughandbecky.us/Hugh-CV/tag/dcmitype-text/</loc>
+    <lastmod>2022-11-07T14:35:45+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hughandbecky.us/Hugh-CV/tag/is-ness/</loc>
+    <lastmod>2022-11-07T14:35:45+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hughandbecky.us/Hugh-CV/tag/journal-articles/</loc>
+    <lastmod>2022-11-07T14:35:45+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://hughandbecky.us/Hugh-CV/tag/language/</loc>
     <lastmod>2022-11-01T14:35:45+01:00</lastmod>
   </url>
@@ -1698,12 +1723,7 @@
   </url>
   
   <url>
-    <loc>https://hughandbecky.us/Hugh-CV/category/archive/</loc>
-    <lastmod>2021-06-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hughandbecky.us/Hugh-CV/category/journal/</loc>
+    <loc>https://hughandbecky.us/Hugh-CV/tag/journal/</loc>
     <lastmod>2021-06-27T00:00:00+00:00</lastmod>
   </url>
   
@@ -1718,7 +1738,12 @@
   </url>
   
   <url>
-    <loc>https://hughandbecky.us/Hugh-CV/category/publication/</loc>
+    <loc>https://hughandbecky.us/Hugh-CV/tag/publication/</loc>
+    <lastmod>2021-06-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hughandbecky.us/Hugh-CV/category/research-project/</loc>
     <lastmod>2021-06-27T00:00:00+00:00</lastmod>
   </url>
   
@@ -2488,11 +2513,6 @@
   </url>
   
   <url>
-    <loc>https://hughandbecky.us/Hugh-CV/category/architecture/</loc>
-    <lastmod>2019-10-17T20:18:54+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://hughandbecky.us/Hugh-CV/locations/arkansas/</loc>
     <lastmod>2019-10-17T20:18:54+00:00</lastmod>
   </url>
@@ -2528,32 +2548,12 @@
   </url>
   
   <url>
-    <loc>https://hughandbecky.us/Hugh-CV/tag/canvas/</loc>
-    <lastmod>2019-10-17T20:18:54+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hughandbecky.us/Hugh-CV/category/canvas/</loc>
-    <lastmod>2019-10-17T20:18:54+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hughandbecky.us/Hugh-CV/art/crayon/</loc>
-    <lastmod>2019-10-17T20:18:54+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://hughandbecky.us/Hugh-CV/tag/cedar/</loc>
     <lastmod>2019-10-17T20:18:54+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://hughandbecky.us/Hugh-CV/tag/crayon/</loc>
-    <lastmod>2019-10-17T20:18:54+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hughandbecky.us/Hugh-CV/category/crayon/</loc>
+    <loc>https://hughandbecky.us/Hugh-CV/tag/design/</loc>
     <lastmod>2019-10-17T20:18:54+00:00</lastmod>
   </url>
   
@@ -2648,7 +2648,7 @@
   </url>
   
   <url>
-    <loc>https://hughandbecky.us/Hugh-CV/category/nature/</loc>
+    <loc>https://hughandbecky.us/Hugh-CV/tag/nature/</loc>
     <lastmod>2019-10-17T20:18:54+00:00</lastmod>
   </url>
   
@@ -2738,7 +2738,7 @@
   </url>
   
   <url>
-    <loc>https://hughandbecky.us/Hugh-CV/category/wood/</loc>
+    <loc>https://hughandbecky.us/Hugh-CV/tag/wood/</loc>
     <lastmod>2019-10-17T20:18:54+00:00</lastmod>
   </url>
   
@@ -2755,6 +2755,26 @@
   <url>
     <loc>https://hughandbecky.us/Hugh-CV/art/woodworking/</loc>
     <lastmod>2019-10-17T20:18:54+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hughandbecky.us/Hugh-CV/tag/canvas/</loc>
+    <lastmod>2019-10-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hughandbecky.us/Hugh-CV/category/canvas/</loc>
+    <lastmod>2019-10-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hughandbecky.us/Hugh-CV/art/crayon/</loc>
+    <lastmod>2019-10-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hughandbecky.us/Hugh-CV/tag/crayon/</loc>
+    <lastmod>2019-10-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -2905,6 +2925,11 @@
   <url>
     <loc>https://hughandbecky.us/Hugh-CV/post/tei-lexicon-bibliography/</loc>
     <lastmod>2018-08-08T14:35:45-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hughandbecky.us/Hugh-CV/privacy-policy/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
   </url>
   
   <url>
@@ -3533,11 +3558,6 @@
   </url>
   
   <url>
-    <loc>https://hughandbecky.us/Hugh-CV/tag/design/</loc>
-    <lastmod>2014-06-04T14:14:38-07:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://hughandbecky.us/Hugh-CV/tag/discrimination/</loc>
     <lastmod>2014-06-04T14:14:38-07:00</lastmod>
   </url>
@@ -3850,6 +3870,11 @@
   <url>
     <loc>https://hughandbecky.us/Hugh-CV/tag/two-sided-market/</loc>
     <lastmod>2013-02-03T01:41:38-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hughandbecky.us/Hugh-CV/category/architecture/</loc>
+    <lastmod>2012-10-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>

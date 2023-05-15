@@ -4,11 +4,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="generator" content="Source Themes Academic 4.8.0">
-
-  <meta name="author" content="Hugh Paterson III">
-
-  <meta name="description" content="OLAC technical infrastructure needs to be build as three seperate interacting systems. Each system with a unique function related to data: _Harvesting_,  _Enhancing_, _Engagement_.">
+  <meta name="generator" content="Source Themes Academic 4.8.0"><meta name="author" content="Hugh Paterson III"><meta name="description" content="OLAC technical infrastructure needs to be build as three seperate interacting systems. Each system with a unique function related to data: _Harvesting_,  _Enhancing_, _Engagement_.">
   <link rel="alternate" hreflang="en-us" href="https://hughandbecky.us/Hugh-CV/post/olac-infrastructure-for-multiple-audiences/">
 
 
@@ -198,7 +194,6 @@
   
 
 
-  
   <link rel="manifest" href="/Hugh-CV/index.webmanifest">
   <link rel="icon" type="image/png" href="/Hugh-CV/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_32x32_fill_lanczos_center_2.png">
   <link rel="apple-touch-icon" type="image/png" href="/Hugh-CV/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_192x192_fill_lanczos_center_2.png">
@@ -211,9 +206,7 @@
   
   
   
-  
     
-  
   
   <meta property="twitter:card" content="summary_large_image">
   
@@ -309,8 +302,6 @@
 <meta name="DC.Subject" content="Metadata">
 <meta name="DC.Subject" content="Data Management">
 <meta name="DC.Subject" content="OLAC">
-
-
 <meta name="dcterms.issued" content="2023-04-18">
 <meta name="DC.Date" content="2023-04-18">
 <meta name="citation_publication_date" content="2023">
@@ -326,10 +317,7 @@
 
 
 
- 
-
-
-<title>OLAC: Multi-Audience Service Architecture | Hugh&#39;s Curriculum Vitae</title>
+ <title>OLAC: Multi-Audience Service Architecture | Hugh&#39;s Curriculum Vitae</title>
 </head>
 
 
@@ -694,8 +682,6 @@
 
   <article class="article">
 
-  
-
 
 
 
@@ -840,12 +826,9 @@
   </div>
 </div>
 
+<div class="article-container">
 
-
-  <div class="article-container">
-
-    <div class="article-style">
-      <p>When thinking about rebuilding the OLAC infrastructure the components ought to be built to consider three distinct functions: <em>Harvesting</em>, Data clean-up or <em>Enhancing</em>, and data <em>Engagement</em> (viewing/browsing/exploration).</p>
+    <div class="article-style"><p>When thinking about rebuilding the OLAC infrastructure the components ought to be built to consider three distinct functions: <em>Harvesting</em>, Data clean-up or <em>Enhancing</em>, and data <em>Engagement</em> (viewing/browsing/exploration).</p>
 <p>First there needs to be an OAI-PMH harvester. This harvests the various records from OAI-PMH static and dynamic repositories. This harvest needs to be persisted with an assigned DOI at regular intervals in its XML source format. The harvest represents exactly what data providers are sending to the harvester.</p>
 <p>The harvested content then needs to flow through a metadata utility. The utility evaluates the records; assigning a quality metric to each record. The utility then has the power, via scripts, to change values and the structure of the record. These changes ought to be recorded in the OAI provenance section of the record. Changes made need to be communicated back to the data provider as well as to any viewing experience. The exact power of the utility needs to be documented with a text based narrative independent of the code base. The code should be publicly accessible and re-deployable in local environments. The code and its documentation should also be given a DOI; versioned as necessary.</p>
 <p>The content which flows out of the utility should be persisted at the same interval that the RAW data is persisted at. It should be persisted in an XML encoding of the OLAC Metadata Application Profile (OAI-PMH ListSet format). Corrected (or enhanced) data should be made available via a dynamic OAI-PMH endpoint. Finally, a script which converts the whole dataset to JSON-LD should available for users who want to convert the data to JSON-LD (as a set).</p>
@@ -862,10 +845,7 @@
 <li>the new repository onboarding process</li>
 <li>the repository validator — which should be locally exicutable as well as hosted on a server.</li>
 </ol>
-
-    </div>
-
-    
+</div>
 
 
 
@@ -1061,9 +1041,9 @@
       
       <li><a href="/Hugh-CV/post/olac-roles/">OLAC Roles and MARC Relator Role Equivalents</a>&nbsp;&nbsp;<span class="badge badge-light" style="font-size: 0.6em; vertical-align: middle;">post</span></li>
       
-      <li><a href="/Hugh-CV/post/metadata-quality-assessment-and-olac/">Metadata Quality Assessment &amp; OLAC</a>&nbsp;&nbsp;<span class="badge badge-light" style="font-size: 0.6em; vertical-align: middle;">post</span></li>
+      <li><a href="/Hugh-CV/post/dc-table-of-contents/">Abstract and Table of Contents</a>&nbsp;&nbsp;<span class="badge badge-light" style="font-size: 0.6em; vertical-align: middle;">post</span></li>
       
-      <li><a href="/Hugh-CV/post/dublin-core-theory/">Some questions on the theory presented in the Dublin Core</a>&nbsp;&nbsp;<span class="badge badge-light" style="font-size: 0.6em; vertical-align: middle;">post</span></li>
+      <li><a href="/Hugh-CV/post/metadata-quality-assessment-and-olac/">Metadata Quality Assessment &amp; OLAC</a>&nbsp;&nbsp;<span class="badge badge-light" style="font-size: 0.6em; vertical-align: middle;">post</span></li>
       
     </ul>
   </div>
@@ -1071,9 +1051,7 @@
 
 
 
-
-
-  </div>
+</div>
 </article>
 
       
@@ -1194,7 +1172,7 @@
   
   <p class="powered-by">
     
-      <a href="/Hugh-CV/tag/privacy-policy/">Privacy Policy</a>
+      <a href="/Hugh-CV/privacy-policy/">Privacy Policy</a>
     
     
   </p>

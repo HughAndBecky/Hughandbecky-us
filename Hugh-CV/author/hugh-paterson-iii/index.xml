@@ -3319,7 +3319,7 @@ From these factors, I derive three broad categories with a total of twelve speci
 &lt;li&gt;to determine at which data providers people are ending up.&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;Having this data would be a first step in an investigation related to relevance negotiation behavior of end-users as they perform search tasks. This sort of knowledge should be a first order task as we think about user-interface and user-interaction design for the future of OLAC and language resource discovery.&lt;/p&gt;
-&lt;h2 id=&#34;bibliography&#34;&gt;Bibliography&lt;/h2&gt;
+&lt;h3 id=&#34;references&#34;&gt;References&lt;/h3&gt;
 
   
 
@@ -7401,6 +7401,255 @@ wbr:before {
 |  |  |  |  |  | csp | Consultant to a project | A person or organization relevant to a resource, who is engaged specifically to provide an intellectual overview of a strategic or operational task and by analysis, specification, or instruction, to create or propose a cost-effective course of action or solution | http://id.loc.gov/vocabulary/relators/csp |
 
 --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Abstract and Table of Contents</title>
+      <link>https://hughandbecky.us/Hugh-CV/post/dc-table-of-contents/</link>
+      <pubDate>Mon, 07 Nov 2022 14:35:45 +0100</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/post/dc-table-of-contents/</guid>
+      <description>&lt;p&gt;In the context of my UNT based PhD course work, I had several interesting discussions about the applicability of certain Dublin Core elements to certain types of materials. The conversation came around to indexing journal articles, generally a DCMIType: &lt;em&gt;Text&lt;/em&gt; using Dublin Core. It was overtly stated that the Dublin Core element &lt;code&gt;tableOfContents&lt;/code&gt; (dcterms name space), was not applicable to the material type (journal articles). I strongly disagree, as does also examples present in the literature 
+
+
+
+
+
+
+
+&lt;span class=&#34;hugo-cite-intext&#34;
+        itemprop=&#34;citation&#34;&gt;(&lt;a href=&#34;#habing_cole_mischo_2001&#34;&gt;&lt;span class=&#34;visually-hidden&#34;&gt;Citation: &lt;/span&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;meta itemprop=&#34;givenName&#34; content=&#34;Thomas G.&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Habing&lt;/span&gt;&lt;/span&gt;
+      &lt;em&gt;et al.&lt;/em&gt;,&amp;#32;
+      &lt;span itemprop=&#34;datePublished&#34;&gt;2001&lt;/span&gt;&lt;/a&gt;)
+    &lt;span class=&#34;hugo-cite-citation&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Chapter&#34;
+      data-type=&#34;chapter&#34;&gt;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Habing&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Thomas G.&#34; /&gt;
+    T.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Cole&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Timothy W.&#34; /&gt;
+    T.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Mischo&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;William H.&#34; /&gt;
+    W.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2001&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;Qualified dublin core using RDF for sci-tech journal articles&lt;/span&gt;.&amp;#32;In&lt;span itemprop=&#34;about&#34;&gt;
+    &lt;i&gt;International Conference on Dublin Core and Metadata Applications, DC-2001, October 24-26&lt;/i&gt;&lt;/span&gt;.&amp;#32;(&lt;span&gt;pp.&amp;#32;pp. 242–246&lt;/span&gt;).
+  &lt;meta itemprop=&#34;contentLocation&#34;
+        value=&#34;Universe&#34;&gt;&amp;#32;&lt;span itemprop=&#34;publisher&#34;
+               itemtype=&#34;http://schema.org/Organization&#34;
+               itemscope=&#34;&#34;&gt;
+      &lt;span itemprop=&#34;name&#34;&gt;NII&lt;/span&gt;&lt;/span&gt;.&amp;#32;Retrieved from&amp;#32;
+  &lt;a href=&#34;https://dcpapers.dublincore.org/pubs/article/view/665&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://dcpapers.dublincore.org/pubs/article/view/665&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/span&gt;&lt;/span&gt;
+.&lt;/p&gt;
+&lt;p&gt;In comparison with an abstract, sometimes a table of contents for an article can deliver a substantial understanding of what it is about. A table of contents displays an article&amp;rsquo;s structure. In fact many law review articles actually include a table of contents prior to the main part of the article. Law review articles can be over 70 pages in length. An outline offers useful information to the potential reader. The principle applies to linguistic articles as well. Below is an example of an outline from a linguistics article 
+
+
+
+
+
+
+
+&lt;span class=&#34;hugo-cite-intext&#34;
+        itemprop=&#34;citation&#34;&gt;(&lt;a href=&#34;#roberts_tone_2011-1&#34;&gt;&lt;span class=&#34;visually-hidden&#34;&gt;Citation: &lt;/span&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;meta itemprop=&#34;givenName&#34; content=&#34;David&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Roberts&lt;/span&gt;&lt;/span&gt;,&amp;#32;
+      &lt;span itemprop=&#34;datePublished&#34;&gt;2011&lt;/span&gt;&lt;/a&gt;)
+    &lt;span class=&#34;hugo-cite-citation&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Roberts&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;David&#34; /&gt;
+    D.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2011&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;A tone orthography typology&lt;/span&gt;.&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;Written Language &amp;amp; Literacy&lt;/span&gt;,&amp;#32;14(1)&lt;/i&gt;.&amp;#32;&lt;span itemprop=&#34;pagination&#34;&gt;82–108&lt;/span&gt;.
+  &lt;a href=&#34;https://doi.org/10.1075/wll.14.1.05rob&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://doi.org/10.1075/wll.14.1.05rob&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/span&gt;&lt;/span&gt;
+.&lt;/p&gt;
+&lt;p&gt;One of the exercises that we have gone through is to think about metadata in terms of &lt;em&gt;about-ness&lt;/em&gt; and &lt;em&gt;is-ness&lt;/em&gt;. It is interestin to think that if an abstract is a sample of about-ness, then a table of contents is sample if is-ness.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;1. Introduction
+2. The six parameters
+2.1 First parameter: Domain
+2.2 Second parameter: Target
+2.2.1 Tones
+2.2.2 Grammar
+2.2.3 Lexicon
+2.2.4 Dual strategies
+2.3 Third parameter: Symbol
+2.3.1 Phonographic representations
+2.3.2 Semiographic representations
+2.4 Fourth parameter: Position
+2.5 Fifth parameter: Density
+2.5.1 Introduction
+2.5.2 Zero density
+2.5.3 Partial density
+2.5.4 Exhaustive density
+2.6 Sixth parameter: Depth
+2.6.1 Introduction
+2.6.2 Surface representation
+2.6.3 Deep representation
+2.6.4 Shallow (transparent) representation
+3. Conclusion
+Abbreviations
+Notes
+Bibliographical references
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h3 id=&#34;references&#34;&gt;References&lt;/h3&gt;
+
+  
+
+  
+
+
+
+
+
+
+
+
+
+
+&lt;section class=&#34;hugo-cite-bibliography&#34;&gt;
+  &lt;dl&gt;
+    
+
+      &lt;div id=&#34;habing_cole_mischo_2001&#34;&gt;
+        &lt;dt&gt;
+          Habing,&amp;#32;
+          Cole&amp;#32;&amp;amp;&amp;#32;Mischo
+
+          
+          (2001)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Chapter&#34;
+      data-type=&#34;chapter&#34;&gt;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Habing&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Thomas G.&#34; /&gt;
+    T.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Cole&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Timothy W.&#34; /&gt;
+    T.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Mischo&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;William H.&#34; /&gt;
+    W.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2001&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;Qualified dublin core using RDF for sci-tech journal articles&lt;/span&gt;.&amp;#32;In&lt;span itemprop=&#34;about&#34;&gt;
+    &lt;i&gt;International Conference on Dublin Core and Metadata Applications, DC-2001, October 24-26&lt;/i&gt;&lt;/span&gt;.&amp;#32;(&lt;span&gt;pp.&amp;#32;pp. 242–246&lt;/span&gt;).
+  &lt;meta itemprop=&#34;contentLocation&#34;
+        value=&#34;Universe&#34;&gt;&amp;#32;&lt;span itemprop=&#34;publisher&#34;
+               itemtype=&#34;http://schema.org/Organization&#34;
+               itemscope=&#34;&#34;&gt;
+      &lt;span itemprop=&#34;name&#34;&gt;NII&lt;/span&gt;&lt;/span&gt;.&amp;#32;Retrieved from&amp;#32;
+  &lt;a href=&#34;https://dcpapers.dublincore.org/pubs/article/view/665&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://dcpapers.dublincore.org/pubs/article/view/665&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;roberts_tone_2011-1&#34;&gt;
+        &lt;dt&gt;
+          Roberts
+
+          
+          (2011)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Roberts&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;David&#34; /&gt;
+    D.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2011&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;A tone orthography typology&lt;/span&gt;.&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;Written Language &amp;amp; Literacy&lt;/span&gt;,&amp;#32;14(1)&lt;/i&gt;.&amp;#32;&lt;span itemprop=&#34;pagination&#34;&gt;82–108&lt;/span&gt;.
+  &lt;a href=&#34;https://doi.org/10.1075/wll.14.1.05rob&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://doi.org/10.1075/wll.14.1.05rob&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+  &lt;/dl&gt;
+&lt;/section&gt;
+
+
+
 </description>
     </item>
     
@@ -15216,7 +15465,7 @@ Hit search and they get misinterpreted as &lt;code&gt;Ã Ã¡Ã¢Ã£Ã¤Ã¥Ã�
 &lt;li&gt;great examples about Rights permissions.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;While I don&amp;rsquo;t agree with all of the exampels Lissonnet puts forward, I do think that some of these are worth exploring in other contexts outside of the where she is primarily working. Some of these issues are re-stated in the short paper. Simons I believe mentions the issue with the names. While person id&amp;rsquo;s and identifier types are acknowleged in various places such as schema.org and Dublin Core forums and community groups.&lt;/p&gt;
-&lt;h3 id=&#34;bibliography&#34;&gt;Bibliography&lt;/h3&gt;
+&lt;h3 id=&#34;references&#34;&gt;References&lt;/h3&gt;
 
 
 
@@ -28229,62 +28478,6 @@ https://phrase.com/blog/posts/how-to-select-fonts-when-localizing-apps-and-websi
     </item>
     
     <item>
-      <title>Canvas Art</title>
-      <link>https://hughandbecky.us/Hugh-CV/art/crayon/</link>
-      <pubDate>Thu, 17 Oct 2019 20:18:54 +0000</pubDate>
-      <guid>https://hughandbecky.us/Hugh-CV/art/crayon/</guid>
-      <description>
-
-
-
-
-
-
-
-  
-  
-
-
-&lt;div class=&#34;gallery&#34;&gt;
-
-  
-  
-  
-  
-    
-    
-    
-    
-    
-  &lt;a data-fancybox=&#34;gallery-Canvas&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/crayon/Canvas/IMG_6708.jpg&#34; &gt;
-  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/crayon/Canvas/IMG_6708_hudddf1bd25e2d6e10b7496d9e30abe8fe_1900913_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-  &lt;a data-fancybox=&#34;gallery-Canvas&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/crayon/Canvas/IMG_6710.jpg&#34; &gt;
-  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/crayon/Canvas/IMG_6710_hudaa4345dba6ea6bf4c9bd1bd055aae07_2317125_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-  &lt;a data-fancybox=&#34;gallery-Canvas&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/crayon/Canvas/IMG_6712.jpg&#34; &gt;
-  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/crayon/Canvas/IMG_6712_hu50810b9e4e2af98987a78dd1de9bcc4a_2152242_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
-  &lt;/a&gt;
-  
-
-  
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Dutch Baby</title>
       <link>https://hughandbecky.us/Hugh-CV/winterfest-details/dutch-baby/</link>
       <pubDate>Thu, 17 Oct 2019 20:18:54 +0000</pubDate>
@@ -30235,6 +30428,62 @@ Chopping Apples. --&gt;
 
   
 &lt;/div&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Canvas Art</title>
+      <link>https://hughandbecky.us/Hugh-CV/art/crayon/</link>
+      <pubDate>Thu, 17 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/art/crayon/</guid>
+      <description>
+
+
+
+
+
+
+
+  
+  
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+
+  
+  
+  
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-Canvas&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/crayon/Canvas/IMG_6708.jpg&#34; &gt;
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/crayon/Canvas/IMG_6708_hudddf1bd25e2d6e10b7496d9e30abe8fe_1900913_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-Canvas&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/crayon/Canvas/IMG_6710.jpg&#34; &gt;
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/crayon/Canvas/IMG_6710_hudaa4345dba6ea6bf4c9bd1bd055aae07_2317125_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-Canvas&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/crayon/Canvas/IMG_6712.jpg&#34; &gt;
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/crayon/Canvas/IMG_6712_hu50810b9e4e2af98987a78dd1de9bcc4a_2152242_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+
+  
+&lt;/div&gt;
 </description>
     </item>
     
@@ -39133,6 +39382,7 @@ Comment: Hugh, I like this a lot. Two other terms that you might consider integr
 Reply: Dec 10, 2014
 Name: Megan Mercado
 Comment: It&#39;s not clear whether this spatial relationships between each box are meaningful or not. Are you trying to communicate some terms being subsets of or containing others? --&gt;
+&lt;h3 id=&#34;references&#34;&gt;References&lt;/h3&gt;
 
 
 
