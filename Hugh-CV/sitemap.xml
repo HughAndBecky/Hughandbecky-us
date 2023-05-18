@@ -353,7 +353,7 @@
   </url>
   
   <url>
-    <loc>https://hughandbecky.us/Hugh-CV/talk/2023-collection-copyright-and-copyright-controls/</loc>
+    <loc>https://hughandbecky.us/Hugh-CV/talk/2023-collection-copyright-for-collectors-and-managers/</loc>
     <lastmod>2023-05-17T11:30:00-01:00</lastmod>
   </url>
   
@@ -369,6 +369,11 @@
   
   <url>
     <loc>https://hughandbecky.us/Hugh-CV/category/master-class/</loc>
+    <lastmod>2023-05-17T11:30:00-01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hughandbecky.us/Hugh-CV/tag/risk-managment/</loc>
     <lastmod>2023-05-17T11:30:00-01:00</lastmod>
   </url>
   
@@ -1073,7 +1078,17 @@
   </url>
   
   <url>
+    <loc>https://hughandbecky.us/Hugh-CV/countries/</loc>
+    <lastmod>2022-11-07T14:35:45+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://hughandbecky.us/Hugh-CV/tag/dcmitype-text/</loc>
+    <lastmod>2022-11-07T14:35:45+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hughandbecky.us/Hugh-CV/institutions/</loc>
     <lastmod>2022-11-07T14:35:45+01:00</lastmod>
   </url>
   
@@ -1084,6 +1099,21 @@
   
   <url>
     <loc>https://hughandbecky.us/Hugh-CV/tag/journal-articles/</loc>
+    <lastmod>2022-11-07T14:35:45+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hughandbecky.us/Hugh-CV/written_from/oregon/</loc>
+    <lastmod>2022-11-07T14:35:45+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hughandbecky.us/Hugh-CV/institutions/university-of-north-texas/</loc>
+    <lastmod>2022-11-07T14:35:45+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hughandbecky.us/Hugh-CV/country/usa/</loc>
     <lastmod>2022-11-07T14:35:45+01:00</lastmod>
   </url>
   
@@ -1623,11 +1653,6 @@
   </url>
   
   <url>
-    <loc>https://hughandbecky.us/Hugh-CV/institutions/</loc>
-    <lastmod>2021-09-27T17:00:12-01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://hughandbecky.us/Hugh-CV/institutions/international-association-of-sound-and-audiovisual-archives/</loc>
     <lastmod>2021-09-27T17:00:12-01:00</lastmod>
   </url>
@@ -2153,11 +2178,6 @@
   </url>
   
   <url>
-    <loc>https://hughandbecky.us/Hugh-CV/countries/</loc>
-    <lastmod>2020-08-10T09:30:22-07:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://hughandbecky.us/Hugh-CV/language/dam/</loc>
     <lastmod>2020-08-10T09:30:22-07:00</lastmod>
   </url>
@@ -2588,11 +2608,6 @@
   </url>
   
   <url>
-    <loc>https://hughandbecky.us/Hugh-CV/winterfest-details/hoodoo/</loc>
-    <lastmod>2019-10-17T20:18:54+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://hughandbecky.us/Hugh-CV/winterfest-details/hot-chocolate/</loc>
     <lastmod>2019-10-17T20:18:54+00:00</lastmod>
   </url>
@@ -2604,11 +2619,6 @@
   
   <url>
     <loc>https://hughandbecky.us/Hugh-CV/people_taxonomy/hugh/</loc>
-    <lastmod>2019-10-17T20:18:54+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hughandbecky.us/Hugh-CV/people_taxonomy/katja/</loc>
     <lastmod>2019-10-17T20:18:54+00:00</lastmod>
   </url>
   
@@ -2703,11 +2713,6 @@
   </url>
   
   <url>
-    <loc>https://hughandbecky.us/Hugh-CV/tag/skiing/</loc>
-    <lastmod>2019-10-17T20:18:54+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://hughandbecky.us/Hugh-CV/tag/sun/</loc>
     <lastmod>2019-10-17T20:18:54+00:00</lastmod>
   </url>
@@ -2719,11 +2724,6 @@
   
   <url>
     <loc>https://hughandbecky.us/Hugh-CV/winterfest-details/uozo/</loc>
-    <lastmod>2019-10-17T20:18:54+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hughandbecky.us/Hugh-CV/country/usa/</loc>
     <lastmod>2019-10-17T20:18:54+00:00</lastmod>
   </url>
   
@@ -3713,6 +3713,11 @@
   </url>
   
   <url>
+    <loc>https://hughandbecky.us/Hugh-CV/institutions/twitter/</loc>
+    <lastmod>2013-07-15T14:14:38-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://hughandbecky.us/Hugh-CV/post/twitter-as-an-encouragement-to-write-a-minority-language/</loc>
     <lastmod>2013-07-15T14:14:38-07:00</lastmod>
   </url>
@@ -3739,11 +3744,6 @@
   
   <url>
     <loc>https://hughandbecky.us/Hugh-CV/tag/network-graphs/</loc>
-    <lastmod>2013-05-23T14:35:45+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hughandbecky.us/Hugh-CV/written_from/oregon/</loc>
     <lastmod>2013-05-23T14:35:45+01:00</lastmod>
   </url>
   
