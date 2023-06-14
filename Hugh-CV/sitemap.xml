@@ -243,27 +243,47 @@
   </url>
   
   <url>
+    <loc>https://hughandbecky.us/Hugh-CV/tag/archive/</loc>
+    <lastmod>2023-07-19T17:00:12-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hughandbecky.us/Hugh-CV/tag/dcmitype/</loc>
+    <lastmod>2023-07-19T17:00:12-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hughandbecky.us/Hugh-CV/talk/2023-saa-research-forum17/</loc>
+    <lastmod>2023-07-19T17:00:12-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hughandbecky.us/Hugh-CV/tag/metadata/</loc>
+    <lastmod>2023-07-19T17:00:12-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hughandbecky.us/Hugh-CV/content-type/movingimage/</loc>
+    <lastmod>2023-07-19T17:00:12-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hughandbecky.us/Hugh-CV/tag/olac/</loc>
+    <lastmod>2023-07-19T17:00:12-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hughandbecky.us/Hugh-CV/tag/physcialobject/</loc>
+    <lastmod>2023-07-19T17:00:12-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://hughandbecky.us/Hugh-CV/talk/2023-diversity-and-identity-categories-for-oai-data-providers-in-the-open-language-archives-network/</loc>
     <lastmod>2023-06-15T17:00:12-07:00</lastmod>
   </url>
   
   <url>
     <loc>https://hughandbecky.us/Hugh-CV/tag/knowledge-organization/</loc>
-    <lastmod>2023-06-15T17:00:12-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hughandbecky.us/Hugh-CV/tag/metadata/</loc>
-    <lastmod>2023-06-15T17:00:12-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hughandbecky.us/Hugh-CV/content-type/movingimage/</loc>
-    <lastmod>2023-06-15T17:00:12-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hughandbecky.us/Hugh-CV/tag/olac/</loc>
     <lastmod>2023-06-15T17:00:12-07:00</lastmod>
   </url>
   
@@ -330,6 +350,41 @@
   <url>
     <loc>https://hughandbecky.us/Hugh-CV/author/young-eun-moon/</loc>
     <lastmod>2023-06-01T17:00:12-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hughandbecky.us/Hugh-CV/category/jot/</loc>
+    <lastmod>2023-05-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hughandbecky.us/Hugh-CV/tag/jupyter/</loc>
+    <lastmod>2023-05-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hughandbecky.us/Hugh-CV/post/juypter-ubuntu-16/</loc>
+    <lastmod>2023-05-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hughandbecky.us/Hugh-CV/post/</loc>
+    <lastmod>2023-05-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hughandbecky.us/Hugh-CV/category/professional-development-notes/</loc>
+    <lastmod>2023-05-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hughandbecky.us/Hugh-CV/tag/python/</loc>
+    <lastmod>2023-05-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hughandbecky.us/Hugh-CV/tag/ubuntu/</loc>
+    <lastmod>2023-05-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -433,17 +488,7 @@
   </url>
   
   <url>
-    <loc>https://hughandbecky.us/Hugh-CV/category/jot/</loc>
-    <lastmod>2023-04-18T14:35:45+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://hughandbecky.us/Hugh-CV/post/olac-infrastructure-for-multiple-audiences/</loc>
-    <lastmod>2023-04-18T14:35:45+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hughandbecky.us/Hugh-CV/post/</loc>
     <lastmod>2023-04-18T14:35:45+01:00</lastmod>
   </url>
   
@@ -625,11 +670,6 @@
   <url>
     <loc>https://hughandbecky.us/Hugh-CV/category/research-note/</loc>
     <lastmod>2023-04-04T14:35:45+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hughandbecky.us/Hugh-CV/tag/dcmitype/</loc>
-    <lastmod>2023-03-19T14:35:45+01:00</lastmod>
   </url>
   
   <url>
@@ -1393,11 +1433,6 @@
   </url>
   
   <url>
-    <loc>https://hughandbecky.us/Hugh-CV/tag/archive/</loc>
-    <lastmod>2022-05-12T17:00:12-07:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://hughandbecky.us/Hugh-CV/publication/2022-where-have-all-the-collections-gone-analysis-of-olac-data-contributors-use-of-dcmitype-collection/</loc>
     <lastmod>2022-05-12T17:00:12-07:00</lastmod>
   </url>
@@ -1864,11 +1899,6 @@
   
   <url>
     <loc>https://hughandbecky.us/Hugh-CV/tag/flextext/</loc>
-    <lastmod>2021-05-07T14:35:45+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hughandbecky.us/Hugh-CV/category/professional-development-notes/</loc>
     <lastmod>2021-05-07T14:35:45+01:00</lastmod>
   </url>
   
@@ -3430,6 +3460,11 @@
   <url>
     <loc>https://hughandbecky.us/Hugh-CV/publication/2015-tone-transcription/</loc>
     <lastmod>2015-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hughandbecky.us/Hugh-CV/post/keyboard-file-types/</loc>
+    <lastmod>2015-06-02T14:35:45+01:00</lastmod>
   </url>
   
   <url>

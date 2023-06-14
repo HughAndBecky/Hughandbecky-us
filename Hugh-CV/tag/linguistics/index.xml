@@ -23,7 +23,7 @@
 &lt;a href=&#34;https://www.dublincore.org/specifications/dublin-core/dcmi-terms&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dublin Core&lt;/a&gt; and 
 &lt;a href=&#34;http://www.openarchives.org/OAI/openarchivesprotocol.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OAI&lt;/a&gt;. Essentially OLAC OAI feeds (to the OLAC aggregator) are modified (or &amp;ldquo;enhanced&amp;rdquo; using the XML attribute &lt;code&gt;xsi:type=&amp;quot; &amp;quot;&lt;/code&gt;) OAI-PMH feeds. The OAI protocol was originally developed to be used by repository software to communicate with other repositories—in an effort to make a network of repositories. The OAI protocol works well as designed. The OLAC implementation of OAI inherits some of the OAI provided terms and concepts. When OLAC was first created, the profile was originally assumed to be describing archived language resources, and archives were assumed to be repositories—at least in the OAI sense. Many, including recent publications talk about &amp;ldquo;archives&amp;rdquo; providing records to the OLAC aggregator. These claims and references are interesting, confusing, and inaccurate—though if the sense of archive, is really and OAI repository, then I seen the connection. However, that is not what most people think of when they hear &lt;em&gt;language archive&lt;/em&gt; or &lt;em&gt;archive&lt;/em&gt;.&lt;/p&gt;
 &lt;p&gt;The framing of terms from the OAI context is laid out in the 
-&lt;a href=&#34;http://www.openarchives.org/OAI/openarchivesprotocol.html#Introduction&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;introduction to the OAI-PMH standard&lt;/a&gt;. The following definitions are given. [^1]&lt;/p&gt;
+&lt;a href=&#34;http://www.openarchives.org/OAI/openarchivesprotocol.html#Introduction&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;introduction to the OAI-PMH standard&lt;/a&gt;. The following definitions are given. &lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;em&gt;Data Providers&lt;/em&gt; administer systems that support the OAI-PMH as a means of exposing metadata; and&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;Service Providers&lt;/em&gt; use metadata harvested via the OAI-PMH as a basis for building value-added services.&lt;/li&gt;
@@ -82,9 +82,15 @@
       &lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
   &lt;/figcaption&gt;&lt;/figure&gt;
 
-&lt;!-- It is an interesting difference presented in this paper: http://www.language-archives.org/documents/community-providers.html were B&amp;S take the following approach to parsing (open language (archive community)).
-
-[1]: Additional discussion on the OAI name terms can be found in slide 23 of the linked slide presentation: http://eprints.rclis.org/4586/1/tutorial3muller.pdf
+&lt;!-- It is an interesting difference presented in this paper: http://www.language-archives.org/documents/community-providers.html were B&amp;S take the following approach to parsing (open language (archive community)).--&gt;
+&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;Additional discussion on the OAI name terms can be found in slide 23 of the linked slide presentation: &lt;a href=&#34;http://eprints.rclis.org/4586/1/tutorial3muller.pdf&#34;&gt;http://eprints.rclis.org/4586/1/tutorial3muller.pdf&lt;/a&gt; &lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/section&gt;
 </description>
     </item>
     

@@ -604,6 +604,117 @@ Existing keyboard layouts for the languages of the texts in question will be ana
     </item>
     
     <item>
+      <title>Keyboard File Types</title>
+      <link>https://hughandbecky.us/Hugh-CV/post/keyboard-file-types/</link>
+      <pubDate>Tue, 02 Jun 2015 14:35:45 +0100</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/post/keyboard-file-types/</guid>
+      <description>&lt;p&gt;This post attempts to list various kinds of keyboard layout files, and specifications.&lt;/p&gt;
+&lt;h2 id=&#34;formats&#34;&gt;Formats&lt;/h2&gt;
+&lt;h3 id=&#34;as-a-text-file&#34;&gt;As a text file&lt;/h3&gt;
+&lt;p&gt;The included text file is included so that it can be refeenced by applications using BASH. If someone wants to make it a JSON array, fork, and send a pull requests. Otherwise, ordering has been thoughtless. Formating has been &lt;code&gt;&amp;lt;File extension&amp;gt;&lt;/code&gt; &lt;code&gt;tab&lt;/code&gt; &lt;code&gt;#&lt;/code&gt; &lt;code&gt;Brief comment.&lt;/code&gt; &lt;code&gt;tab&lt;/code&gt; &lt;code&gt;See:&lt;/code&gt; &lt;code&gt;space&lt;/code&gt; &lt;code&gt;relevant URL&lt;/code&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;as-a-table&#34;&gt;As a table&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;File Extension&lt;/th&gt;
+&lt;th&gt;Brief Comment&lt;/th&gt;
+&lt;th&gt;Relevant URL&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;.keylayout&lt;/td&gt;
+&lt;td&gt;OSX XML file for keyboard definition.&lt;/td&gt;
+&lt;td&gt;See: &lt;a href=&#34;https://developer.apple.com/library/mac/technotes/tn2056/_index.html&#34;&gt;https://developer.apple.com/library/mac/technotes/tn2056/_index.html&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;.bundle&lt;/td&gt;
+&lt;td&gt;OSX set of files containing various parts of the keyboard information including Language Metadata.&lt;/td&gt;
+&lt;td&gt;See: &lt;a href=&#34;https://developer.apple.com/library/mac/documentation/CoreFoundation/Conceptual/CFBundles/BundleTypes/BundleTypes.html#//apple_ref/doc/uid/10000123i-CH101-SW13&#34;&gt;https://developer.apple.com/library/mac/documentation/CoreFoundation/Conceptual/CFBundles/BundleTypes/BundleTypes.html#//apple_ref/doc/uid/10000123i-CH101-SW13&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;.kmn&lt;/td&gt;
+&lt;td&gt;Raw Keyman file&lt;/td&gt;
+&lt;td&gt;See: &lt;a href=&#34;http://help.keyman.com/developer/7.0/filetype_kmn.php&#34;&gt;http://help.keyman.com/developer/7.0/filetype_kmn.php&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;.kmx&lt;/td&gt;
+&lt;td&gt;Compiled Keyman file&lt;/td&gt;
+&lt;td&gt;See: &lt;a href=&#34;http://help.keyman.com/developer/7.0/filetype_kmn.php&#34;&gt;http://help.keyman.com/developer/7.0/filetype_kmn.php&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;.kxx&lt;/td&gt;
+&lt;td&gt;Compiled Keyman file&lt;/td&gt;
+&lt;td&gt;See: &lt;a href=&#34;http://help.keyman.com/developer/7.0/filetype_kmn.php&#34;&gt;http://help.keyman.com/developer/7.0/filetype_kmn.php&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;.xkb&lt;/td&gt;
+&lt;td&gt;Linux keyboard file&lt;/td&gt;
+&lt;td&gt;See: &lt;a href=&#34;https://wiki.archlinux.org/index.php/X_KeyBoard_extension&#34;&gt;https://wiki.archlinux.org/index.php/X_KeyBoard_extension&lt;/a&gt; ; &lt;a href=&#34;http://www.x.org/wiki/XKB/&#34;&gt;http://www.x.org/wiki/XKB/&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;.klc&lt;/td&gt;
+&lt;td&gt;Raw keyboard layout file for MSKLC; Consider MSKLC&lt;/td&gt;
+&lt;td&gt;See: &lt;a href=&#34;https://msdn.microsoft.com/en-us/goglobal/bb964665.aspx&#34;&gt;https://msdn.microsoft.com/en-us/goglobal/bb964665.aspx&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;.msi&lt;/td&gt;
+&lt;td&gt;Compiled installer for keyboard layout file for MSKLC.&lt;/td&gt;
+&lt;td&gt;See: &lt;a href=&#34;http://www.languagegeek.com/keyboard_general/msklc_installation.html&#34;&gt;http://www.languagegeek.com/keyboard_general/msklc_installation.html&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;.ahk&lt;/td&gt;
+&lt;td&gt;AutoHotKey script file.&lt;/td&gt;
+&lt;td&gt;See: &lt;a href=&#34;http://www.autohotkey.com/docs/Scripts.htm&#34;&gt;http://www.autohotkey.com/docs/Scripts.htm&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;.kcm&lt;/td&gt;
+&lt;td&gt;Native Keyboard Layout Files for Android.&lt;/td&gt;
+&lt;td&gt;See: &lt;a href=&#34;https://source.android.com/devices/input/key-character-map-files.html&#34;&gt;https://source.android.com/devices/input/key-character-map-files.html&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;.kl&lt;/td&gt;
+&lt;td&gt;A the keyboard layout format for kAndroid.&lt;/td&gt;
+&lt;td&gt;See: &lt;a href=&#34;http://www.kandroid.org/online-pdk/guide/keymaps_keyboard_input.html&#34;&gt;http://www.kandroid.org/online-pdk/guide/keymaps_keyboard_input.html&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;.apk&lt;/td&gt;
+&lt;td&gt;A packaged version of AnySoftKeyboard for Android.&lt;/td&gt;
+&lt;td&gt;See: &lt;a href=&#34;https://github.com/AnySoftKeyboard/AnySoftKeyboard&#34;&gt;https://github.com/AnySoftKeyboard/AnySoftKeyboard&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;.json&lt;/td&gt;
+&lt;td&gt;This is technically a data format. Several JavaScript keyboard applications have use some sort of data serialization. This is used by JACKeyboards.&lt;/td&gt;
+&lt;td&gt;See: &lt;a href=&#34;https://github.com/JaredCrawford/KeyboardLayouts&#34;&gt;https://github.com/JaredCrawford/KeyboardLayouts&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;.xml&lt;/td&gt;
+&lt;td&gt;CLDR data uses an XML Markup format.&lt;/td&gt;
+&lt;td&gt;See: &lt;a href=&#34;http://cldr.unicode.org/index/charts/keyboards&#34;&gt;http://cldr.unicode.org/index/charts/keyboards&lt;/a&gt; ; &lt;a href=&#34;http://www.unicode.org/reports/tr35/tr35-keyboards.htmlContents&#34;&gt;http://www.unicode.org/reports/tr35/tr35-keyboards.htmlContents&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;list-of-file-types&#34;&gt;List of file types&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;.keylayout	# OSX XML file for keyboard definition.	See: &lt;a href=&#34;https://developer.apple.com/library/mac/technotes/tn2056/_index.html&#34;&gt;https://developer.apple.com/library/mac/technotes/tn2056/_index.html&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;.bundle	# OSX set of files containing various parts of the keyboard information including Language Metadata.	https://developer.apple.com/library/mac/documentation/CoreFoundation/Conceptual/CFBundles/BundleTypes/BundleTypes.html#//apple_ref/doc/uid/10000123i-CH101-SW13&lt;/li&gt;
+&lt;li&gt;.kmn	# Raw Keyman file	See: &lt;a href=&#34;http://help.keyman.com/developer/7.0/filetype_kmn.php&#34;&gt;http://help.keyman.com/developer/7.0/filetype_kmn.php&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;.kmx	# Compiled Keyman file	See: &lt;a href=&#34;http://help.keyman.com/developer/7.0/filetype_kmn.php&#34;&gt;http://help.keyman.com/developer/7.0/filetype_kmn.php&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;.kxx	# Compiled Keyman file	See: &lt;a href=&#34;http://help.keyman.com/developer/7.0/filetype_kmn.php&#34;&gt;http://help.keyman.com/developer/7.0/filetype_kmn.php&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;.xkb	# Linux keyboard file	See: &lt;a href=&#34;https://wiki.archlinux.org/index.php/X_KeyBoard_extension&#34;&gt;https://wiki.archlinux.org/index.php/X_KeyBoard_extension&lt;/a&gt; ; &lt;a href=&#34;http://www.x.org/wiki/XKB/&#34;&gt;http://www.x.org/wiki/XKB/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;.klc	# Raw keyboardlayout file for MSKLC; Consider MSKLC	See: &lt;a href=&#34;https://msdn.microsoft.com/en-us/goglobal/bb964665.aspx&#34;&gt;https://msdn.microsoft.com/en-us/goglobal/bb964665.aspx&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;.msi	# Compiled installer for keyboard layout file for MSKLC.	See: &lt;a href=&#34;http://www.languagegeek.com/keyboard_general/msklc_installation.html&#34;&gt;http://www.languagegeek.com/keyboard_general/msklc_installation.html&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;.ahk	# AutoHotKey script file.	See: &lt;a href=&#34;http://www.autohotkey.com/docs/Scripts.htm&#34;&gt;http://www.autohotkey.com/docs/Scripts.htm&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;.kcm	# Native Keyboard Layout Files for Android.	See: &lt;a href=&#34;https://source.android.com/devices/input/key-character-map-files.html&#34;&gt;https://source.android.com/devices/input/key-character-map-files.html&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;.kl	# A the keyboard layout format for kAndroid.	See: &lt;a href=&#34;http://www.kandroid.org/online-pdk/guide/keymaps_keyboard_input.html&#34;&gt;http://www.kandroid.org/online-pdk/guide/keymaps_keyboard_input.html&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;.apk	#  A packaged version of anysoftkeyboard for Android.	See: &lt;a href=&#34;https://github.com/AnySoftKeyboard/AnySoftKeyboard&#34;&gt;https://github.com/AnySoftKeyboard/AnySoftKeyboard&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;.json	# This is technically a data format. Several JavaScript keyboard applications have use some sort of data serialization. This is used by JACKeyboards.	See: &lt;a href=&#34;https://github.com/JaredCrawford/KeyboardLayouts&#34;&gt;https://github.com/JaredCrawford/KeyboardLayouts&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;.xml	# CLDR data uses an XML Markup format.	See: &lt;a href=&#34;http://cldr.unicode.org/index/charts/keyboards&#34;&gt;http://cldr.unicode.org/index/charts/keyboards&lt;/a&gt; ; &lt;a href=&#34;http://www.unicode.org/reports/tr35/tr35-keyboards.html#Contents&#34;&gt;http://www.unicode.org/reports/tr35/tr35-keyboards.html#Contents&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>African Languages: Assessing the text input difficulty</title>
       <link>https://hughandbecky.us/Hugh-CV/talk/2015-africa-assessing-the-difficulty-of-text-input/</link>
       <pubDate>Thu, 26 Mar 2015 00:00:00 +0000</pubDate>

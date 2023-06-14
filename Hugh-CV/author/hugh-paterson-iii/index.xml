@@ -834,6 +834,405 @@ wbr:before {
     </item>
     
     <item>
+      <title>Dublin Core&#39;s DCMIType ‘PhysicalObject’ and its use across the Open Language Archives Community</title>
+      <link>https://hughandbecky.us/Hugh-CV/talk/2023-saa-research-forum17/</link>
+      <pubDate>Wed, 19 Jul 2023 17:00:12 -0700</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/talk/2023-saa-research-forum17/</guid>
+      <description>&lt;h3 id=&#34;abstract-bibliography&#34;&gt;Abstract Bibliography&lt;/h3&gt;
+
+
+
+
+
+
+
+
+
+
+
+&lt;section class=&#34;hugo-cite-bibliography&#34;&gt;
+  &lt;dl&gt;
+    
+
+      &lt;div id=&#34;bird_extending_2003-2&#34;&gt;
+        &lt;dt&gt;
+          Bird&amp;#32;&amp;amp;&amp;#32;Simons
+
+          
+          (2003)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Bird&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Steven&#34; /&gt;
+    S.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Simons&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Gary F.&#34; /&gt;
+    G.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2003&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;Extending Dublin Core Metadata to Support the Description and Discovery of Language Resources&lt;/span&gt;.&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;Computers and the Humanities&lt;/span&gt;,&amp;#32;37(4)&lt;/i&gt;.&amp;#32;&lt;span itemprop=&#34;pagination&#34;&gt;375–388&lt;/span&gt;.
+  &lt;a href=&#34;https://doi.org/10.1023/A:1025720518994&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://doi.org/10.1023/A:1025720518994&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;bird_olac_2001-4&#34;&gt;
+        &lt;dt&gt;
+          Bird&amp;#32;&amp;amp;&amp;#32;Simons
+
+          
+          (2001)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Chapter&#34;
+      data-type=&#34;chapter&#34;&gt;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Bird&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Steven&#34; /&gt;
+    S.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Simons&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Gary F.&#34; /&gt;
+    G.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2001&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;The OLAC metadata set and controlled vocabularies&lt;/span&gt;.&amp;#32;In&amp;#32;&lt;span itemprop=&#34;editor&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;DeClerck&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Thierry&#34; /&gt;
+    T.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;editor&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Krauwer&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Steven&#34; /&gt;
+    S.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;editor&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Rosner&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Mike&#34; /&gt;
+    M.&lt;/span&gt; (Eds.),&amp;#32;&lt;span itemprop=&#34;about&#34;&gt;
+    &lt;i&gt;Proceedings of ACL/EACL Workshop on Sharing Tools and Resources for Research and Education&lt;/i&gt;&lt;/span&gt;.&amp;#32;(&lt;span&gt;pp.&amp;#32;7–18&lt;/span&gt;).
+  &lt;meta itemprop=&#34;contentLocation&#34;
+        value=&#34;Université de Toulouse, France&#34;&gt;&amp;#32;&lt;span itemprop=&#34;publisher&#34;
+               itemtype=&#34;http://schema.org/Organization&#34;
+               itemscope=&#34;&#34;&gt;
+      &lt;span itemprop=&#34;name&#34;&gt;EACL-ACL; elsnet&lt;/span&gt;&lt;/span&gt;.&amp;#32;Retrieved from&amp;#32;
+  &lt;a href=&#34;https://www.aclweb.org/anthology/W01-1506&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://www.aclweb.org/anthology/W01-1506&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;dublin_core_metadata_initiative_dcmi_physical_2018&#34;&gt;
+        &lt;dt&gt;
+          
+
+          
+          (2018)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/WebPage&#34;
+      data-type=&#34;webpage&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;/span&gt;(&lt;span itemprop=&#34;datePublished&#34;&gt;2018,&amp;#32;10/23&lt;/span&gt;).&amp;#32;Retrieved from&amp;#32;
+  &lt;a href=&#34;https://www.dublincore.org/specifications/dublin-core/dcmi-terms/dcmitype/PhysicalObject/&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://www.dublincore.org/specifications/dublin-core/dcmi-terms/dcmitype/PhysicalObject/&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;paterson_iii_olac_2021&#34;&gt;
+        &lt;dt&gt;
+          Paterson III
+
+          
+          (2021)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/CreativeWork&#34;
+      data-type=&#34;dataset&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Paterson III&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Hugh J&#34; /&gt;
+    H.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2021&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;
+    &lt;i&gt;OLAC Nightly Data Dump (XML) from 18 July 2021&lt;/i&gt;&lt;/span&gt;.
+  &amp;#32;
+  &lt;span itemprop=&#34;publisher&#34; itemtype=&#34;http://schema.org/Organization&#34; itemscope=&#34;&#34;&gt;
+    &lt;span itemprop=&#34;name&#34;&gt;OLAC: Open Language Archives Community&lt;/span&gt;&lt;/span&gt;.
+  &lt;a href=&#34;https://doi.org/10.5281/ZENODO.5112131&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://doi.org/10.5281/ZENODO.5112131&lt;/a&gt;&lt;/span&gt;
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;paterson_iii_where_2022&#34;&gt;
+        &lt;dt&gt;
+          Paterson III
+
+          
+          (2022)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/CreativeWork&#34;
+      data-type=&#34;paper-conference&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Paterson III&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Hugh J&#34; /&gt;
+    H.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2022&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;
+    &lt;i&gt;Where Have All the Collections Gone?: Analysis of OLAC Data Contributors&amp;rsquo; use of DCMIType &amp;lsquo;Collection&amp;rsquo;&lt;/i&gt;&lt;/span&gt;.
+  &lt;meta itemprop=&#34;contentLocation&#34;
+        content=&#34;Chicago, IL&#34;&gt;&amp;#32;
+  &lt;span itemprop=&#34;publisher&#34; itemtype=&#34;http://schema.org/Organization&#34; itemscope=&#34;&#34;&gt;
+    &lt;span itemprop=&#34;name&#34;&gt;Society of American Archivists&lt;/span&gt;&lt;/span&gt;.&amp;#32;Retrieved from&amp;#32;
+  &lt;a href=&#34;https://www2.archivists.org/am2021/research-forum-2021/agenda#peer&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://www2.archivists.org/am2021/research-forum-2021/agenda#peer&lt;/a&gt;&lt;/span&gt;
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;simons_building_2003-1&#34;&gt;
+        &lt;dt&gt;
+          Simons&amp;#32;&amp;amp;&amp;#32;Bird
+
+          
+          (2003)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Simons&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Gary F.&#34; /&gt;
+    G.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Bird&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Steven&#34; /&gt;
+    S.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2003&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;Building an Open Language Archives Community on the OAI foundation&lt;/span&gt;.&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;Library Hi Tech&lt;/span&gt;,&amp;#32;21(2)&lt;/i&gt;.&amp;#32;&lt;span itemprop=&#34;pagination&#34;&gt;210–218&lt;/span&gt;.
+  &lt;a href=&#34;https://doi.org/10.1108/07378830310479848&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://doi.org/10.1108/07378830310479848&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;simons_olac_2008-3&#34;&gt;
+        &lt;dt&gt;
+          Simons,&amp;#32;
+          Bird&amp;#32;&amp;amp;&amp;#32;Spanne
+
+          
+          (2008)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/CreativeWork&#34;
+      data-type=&#34;Informational Note&#34;&gt;
+  (N.A.).
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2008&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;
+    &lt;i&gt;OLAC Metadata Usage Guidelines&lt;/i&gt;&lt;/span&gt; (
+  &lt;span span itemprop=&#34;workExample&#34;&gt;2008-07-11&lt;/span&gt;
+  ).
+  &amp;#32;
+  &lt;span itemprop=&#34;publisher&#34; itemtype=&#34;http://schema.org/Organization&#34; itemscope=&#34;&#34;&gt;
+    &lt;span itemprop=&#34;name&#34;&gt;Open Language Archive Community&lt;/span&gt;&lt;/span&gt;.&amp;#32;Retrieved from&amp;#32;
+  &lt;a href=&#34;http://www.language-archives.org/NOTE/usage-20080711.html&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;http://www.language-archives.org/NOTE/usage-20080711.html&lt;/a&gt;&lt;/span&gt;
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;sserwanga_exploration_2023&#34;&gt;
+        &lt;dt&gt;
+          Zavalin&amp;#32;&amp;amp;&amp;#32;Zavalina
+
+          
+          (2023)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Chapter&#34;
+      data-type=&#34;chapter&#34;&gt;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Zavalin&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Vyacheslav&#34; /&gt;
+    V.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Zavalina&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Oksana L.&#34; /&gt;
+    O.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2023&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;Exploration of Accuracy, Completeness and Consistency in Metadata for Physical Objects in Museum Collections&lt;/span&gt;.&amp;#32;In&amp;#32;&lt;span itemprop=&#34;editor&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Sserwanga&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Isaac&#34; /&gt;
+    I.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;editor&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Goulding&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Anne&#34; /&gt;
+    A.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;editor&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Moulaison-Sandy&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Heather&#34; /&gt;
+    H.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;editor&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Du&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Jia Tina&#34; /&gt;
+    J.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;editor&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Soares&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;António Lucas&#34; /&gt;
+    A.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;editor&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Hessami&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Viviane&#34; /&gt;
+    V.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;editor&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Frank&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Rebecca D.&#34; /&gt;
+    R.&lt;/span&gt; (Eds.),&amp;#32;&lt;span itemprop=&#34;about&#34;&gt;
+    &lt;i&gt;Information for a Better World: Normality, Virtuality, Physicality, Inclusivity&lt;/i&gt;&lt;/span&gt;.&amp;#32;(&lt;span&gt;pp.&amp;#32;83–90&lt;/span&gt;).
+  &lt;meta itemprop=&#34;contentLocation&#34;
+        value=&#34;Cham&#34;&gt;&amp;#32;&lt;span itemprop=&#34;publisher&#34;
+               itemtype=&#34;http://schema.org/Organization&#34;
+               itemscope=&#34;&#34;&gt;
+      &lt;span itemprop=&#34;name&#34;&gt;Springer Nature Switzerland&lt;/span&gt;&lt;/span&gt;.
+  &lt;a href=&#34;https://doi.org/10.1007/978-3-031-28032-0_7&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://doi.org/10.1007/978-3-031-28032-0_7&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+  &lt;/dl&gt;
+&lt;/section&gt;
+
+
+
+</description>
+    </item>
+    
+    <item>
       <title>Diversity and Identity: Categories for OAI data-providers in the Open Language Archives Network</title>
       <link>https://hughandbecky.us/Hugh-CV/talk/2023-diversity-and-identity-categories-for-oai-data-providers-in-the-open-language-archives-network/</link>
       <pubDate>Thu, 15 Jun 2023 17:00:12 -0700</pubDate>
@@ -2270,6 +2669,15 @@ From these factors, I derive three broad categories with a total of twelve speci
     </item>
     
     <item>
+      <title>Jupyter with Python 3 on Ubuntu 16.04</title>
+      <link>https://hughandbecky.us/Hugh-CV/post/juypter-ubuntu-16/</link>
+      <pubDate>Sat, 27 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/post/juypter-ubuntu-16/</guid>
+      <description>&lt;p&gt;The article at the following link is most helpful: &lt;a href=&#34;https://datawookie.dev/blog/2017/06/setting-up-jupyter-with-python-3-on-ubuntu&#34;&gt;https://datawookie.dev/blog/2017/06/setting-up-jupyter-with-python-3-on-ubuntu&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Arrangement and Relationships Between Audio and Transcripts</title>
       <link>https://hughandbecky.us/Hugh-CV/talk/2023-arrangement-and-relationships-between-audio-and-transcripts/</link>
       <pubDate>Sat, 20 May 2023 11:30:00 -0100</pubDate>
@@ -2297,6 +2705,13 @@ From these factors, I derive three broad categories with a total of twelve speci
 &lt;a href=&#34;https://en.wikipedia.org/wiki/Copyright_law_of_the_United_States&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wikipedia article on copyright&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;
 &lt;a href=&#34;https://www.copyright.gov/circs/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;US Copyright Office Circulars&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Other interesting things include:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://en.wikipedia.org/wiki/Database_right#:~:text=Database%20rights%20are%20independent%20of,be%20protected%20by%20database%20right.&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Database Rights&lt;/a&gt; — What happens when public domain audio is distributed, is that distributed form a database? Where are the limits on the definition of &amp;ldquo;Database&amp;rdquo;?&lt;/li&gt;
+&lt;li&gt;The issue of database rights is interesting because 
+&lt;a href=&#34;https://en.wikipedia.org/wiki/TRIPS_Agreement&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TRIPS&lt;/a&gt; does require it to be added to national laws, but the USA doesn&amp;rsquo;t currently have it.&lt;/li&gt;
 &lt;/ol&gt;
 </description>
     </item>
@@ -15672,7 +16087,7 @@ Hit search and they get misinterpreted as &lt;code&gt;Ã Ã¡Ã¢Ã£Ã¤Ã¥Ã�
 &lt;a href=&#34;https://www.dublincore.org/specifications/dublin-core/dcmi-terms&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dublin Core&lt;/a&gt; and 
 &lt;a href=&#34;http://www.openarchives.org/OAI/openarchivesprotocol.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OAI&lt;/a&gt;. Essentially OLAC OAI feeds (to the OLAC aggregator) are modified (or &amp;ldquo;enhanced&amp;rdquo; using the XML attribute &lt;code&gt;xsi:type=&amp;quot; &amp;quot;&lt;/code&gt;) OAI-PMH feeds. The OAI protocol was originally developed to be used by repository software to communicate with other repositories—in an effort to make a network of repositories. The OAI protocol works well as designed. The OLAC implementation of OAI inherits some of the OAI provided terms and concepts. When OLAC was first created, the profile was originally assumed to be describing archived language resources, and archives were assumed to be repositories—at least in the OAI sense. Many, including recent publications talk about &amp;ldquo;archives&amp;rdquo; providing records to the OLAC aggregator. These claims and references are interesting, confusing, and inaccurate—though if the sense of archive, is really and OAI repository, then I seen the connection. However, that is not what most people think of when they hear &lt;em&gt;language archive&lt;/em&gt; or &lt;em&gt;archive&lt;/em&gt;.&lt;/p&gt;
 &lt;p&gt;The framing of terms from the OAI context is laid out in the 
-&lt;a href=&#34;http://www.openarchives.org/OAI/openarchivesprotocol.html#Introduction&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;introduction to the OAI-PMH standard&lt;/a&gt;. The following definitions are given. [^1]&lt;/p&gt;
+&lt;a href=&#34;http://www.openarchives.org/OAI/openarchivesprotocol.html#Introduction&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;introduction to the OAI-PMH standard&lt;/a&gt;. The following definitions are given. &lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;em&gt;Data Providers&lt;/em&gt; administer systems that support the OAI-PMH as a means of exposing metadata; and&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;Service Providers&lt;/em&gt; use metadata harvested via the OAI-PMH as a basis for building value-added services.&lt;/li&gt;
@@ -15731,9 +16146,15 @@ Hit search and they get misinterpreted as &lt;code&gt;Ã Ã¡Ã¢Ã£Ã¤Ã¥Ã�
       &lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
   &lt;/figcaption&gt;&lt;/figure&gt;
 
-&lt;!-- It is an interesting difference presented in this paper: http://www.language-archives.org/documents/community-providers.html were B&amp;S take the following approach to parsing (open language (archive community)).
-
-[1]: Additional discussion on the OAI name terms can be found in slide 23 of the linked slide presentation: http://eprints.rclis.org/4586/1/tutorial3muller.pdf
+&lt;!-- It is an interesting difference presented in this paper: http://www.language-archives.org/documents/community-providers.html were B&amp;S take the following approach to parsing (open language (archive community)).--&gt;
+&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;Additional discussion on the OAI name terms can be found in slide 23 of the linked slide presentation: &lt;a href=&#34;http://eprints.rclis.org/4586/1/tutorial3muller.pdf&#34;&gt;http://eprints.rclis.org/4586/1/tutorial3muller.pdf&lt;/a&gt; &lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/section&gt;
 </description>
     </item>
     
@@ -39026,6 +39447,117 @@ https://hbr.org/2016/06/some-companies-are-banning-email-and-getting-more-done
       <description>&lt;p&gt;This was a poster presentation presented at the 18th International Conference of Phonetic Sciences in 2015. Links are to the poster and the 5 page paper is in the conference proceedings.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Referenceable as&lt;/strong&gt;:&lt;/p&gt;
 &lt;p&gt;Hugh J. Paterson III (2015) Phonetic transcription of tone in the IPA.  In The Scottish Consortium for ICPhS 2015 (Ed.). &lt;em&gt;Proceedings of the 18th International Conference of Phonetic Sciences&lt;/em&gt; Paper number 507.1-5. University of Glasgow: Glasgow, UK.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Keyboard File Types</title>
+      <link>https://hughandbecky.us/Hugh-CV/post/keyboard-file-types/</link>
+      <pubDate>Tue, 02 Jun 2015 14:35:45 +0100</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/post/keyboard-file-types/</guid>
+      <description>&lt;p&gt;This post attempts to list various kinds of keyboard layout files, and specifications.&lt;/p&gt;
+&lt;h2 id=&#34;formats&#34;&gt;Formats&lt;/h2&gt;
+&lt;h3 id=&#34;as-a-text-file&#34;&gt;As a text file&lt;/h3&gt;
+&lt;p&gt;The included text file is included so that it can be refeenced by applications using BASH. If someone wants to make it a JSON array, fork, and send a pull requests. Otherwise, ordering has been thoughtless. Formating has been &lt;code&gt;&amp;lt;File extension&amp;gt;&lt;/code&gt; &lt;code&gt;tab&lt;/code&gt; &lt;code&gt;#&lt;/code&gt; &lt;code&gt;Brief comment.&lt;/code&gt; &lt;code&gt;tab&lt;/code&gt; &lt;code&gt;See:&lt;/code&gt; &lt;code&gt;space&lt;/code&gt; &lt;code&gt;relevant URL&lt;/code&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;as-a-table&#34;&gt;As a table&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;File Extension&lt;/th&gt;
+&lt;th&gt;Brief Comment&lt;/th&gt;
+&lt;th&gt;Relevant URL&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;.keylayout&lt;/td&gt;
+&lt;td&gt;OSX XML file for keyboard definition.&lt;/td&gt;
+&lt;td&gt;See: &lt;a href=&#34;https://developer.apple.com/library/mac/technotes/tn2056/_index.html&#34;&gt;https://developer.apple.com/library/mac/technotes/tn2056/_index.html&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;.bundle&lt;/td&gt;
+&lt;td&gt;OSX set of files containing various parts of the keyboard information including Language Metadata.&lt;/td&gt;
+&lt;td&gt;See: &lt;a href=&#34;https://developer.apple.com/library/mac/documentation/CoreFoundation/Conceptual/CFBundles/BundleTypes/BundleTypes.html#//apple_ref/doc/uid/10000123i-CH101-SW13&#34;&gt;https://developer.apple.com/library/mac/documentation/CoreFoundation/Conceptual/CFBundles/BundleTypes/BundleTypes.html#//apple_ref/doc/uid/10000123i-CH101-SW13&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;.kmn&lt;/td&gt;
+&lt;td&gt;Raw Keyman file&lt;/td&gt;
+&lt;td&gt;See: &lt;a href=&#34;http://help.keyman.com/developer/7.0/filetype_kmn.php&#34;&gt;http://help.keyman.com/developer/7.0/filetype_kmn.php&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;.kmx&lt;/td&gt;
+&lt;td&gt;Compiled Keyman file&lt;/td&gt;
+&lt;td&gt;See: &lt;a href=&#34;http://help.keyman.com/developer/7.0/filetype_kmn.php&#34;&gt;http://help.keyman.com/developer/7.0/filetype_kmn.php&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;.kxx&lt;/td&gt;
+&lt;td&gt;Compiled Keyman file&lt;/td&gt;
+&lt;td&gt;See: &lt;a href=&#34;http://help.keyman.com/developer/7.0/filetype_kmn.php&#34;&gt;http://help.keyman.com/developer/7.0/filetype_kmn.php&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;.xkb&lt;/td&gt;
+&lt;td&gt;Linux keyboard file&lt;/td&gt;
+&lt;td&gt;See: &lt;a href=&#34;https://wiki.archlinux.org/index.php/X_KeyBoard_extension&#34;&gt;https://wiki.archlinux.org/index.php/X_KeyBoard_extension&lt;/a&gt; ; &lt;a href=&#34;http://www.x.org/wiki/XKB/&#34;&gt;http://www.x.org/wiki/XKB/&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;.klc&lt;/td&gt;
+&lt;td&gt;Raw keyboard layout file for MSKLC; Consider MSKLC&lt;/td&gt;
+&lt;td&gt;See: &lt;a href=&#34;https://msdn.microsoft.com/en-us/goglobal/bb964665.aspx&#34;&gt;https://msdn.microsoft.com/en-us/goglobal/bb964665.aspx&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;.msi&lt;/td&gt;
+&lt;td&gt;Compiled installer for keyboard layout file for MSKLC.&lt;/td&gt;
+&lt;td&gt;See: &lt;a href=&#34;http://www.languagegeek.com/keyboard_general/msklc_installation.html&#34;&gt;http://www.languagegeek.com/keyboard_general/msklc_installation.html&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;.ahk&lt;/td&gt;
+&lt;td&gt;AutoHotKey script file.&lt;/td&gt;
+&lt;td&gt;See: &lt;a href=&#34;http://www.autohotkey.com/docs/Scripts.htm&#34;&gt;http://www.autohotkey.com/docs/Scripts.htm&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;.kcm&lt;/td&gt;
+&lt;td&gt;Native Keyboard Layout Files for Android.&lt;/td&gt;
+&lt;td&gt;See: &lt;a href=&#34;https://source.android.com/devices/input/key-character-map-files.html&#34;&gt;https://source.android.com/devices/input/key-character-map-files.html&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;.kl&lt;/td&gt;
+&lt;td&gt;A the keyboard layout format for kAndroid.&lt;/td&gt;
+&lt;td&gt;See: &lt;a href=&#34;http://www.kandroid.org/online-pdk/guide/keymaps_keyboard_input.html&#34;&gt;http://www.kandroid.org/online-pdk/guide/keymaps_keyboard_input.html&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;.apk&lt;/td&gt;
+&lt;td&gt;A packaged version of AnySoftKeyboard for Android.&lt;/td&gt;
+&lt;td&gt;See: &lt;a href=&#34;https://github.com/AnySoftKeyboard/AnySoftKeyboard&#34;&gt;https://github.com/AnySoftKeyboard/AnySoftKeyboard&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;.json&lt;/td&gt;
+&lt;td&gt;This is technically a data format. Several JavaScript keyboard applications have use some sort of data serialization. This is used by JACKeyboards.&lt;/td&gt;
+&lt;td&gt;See: &lt;a href=&#34;https://github.com/JaredCrawford/KeyboardLayouts&#34;&gt;https://github.com/JaredCrawford/KeyboardLayouts&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;.xml&lt;/td&gt;
+&lt;td&gt;CLDR data uses an XML Markup format.&lt;/td&gt;
+&lt;td&gt;See: &lt;a href=&#34;http://cldr.unicode.org/index/charts/keyboards&#34;&gt;http://cldr.unicode.org/index/charts/keyboards&lt;/a&gt; ; &lt;a href=&#34;http://www.unicode.org/reports/tr35/tr35-keyboards.htmlContents&#34;&gt;http://www.unicode.org/reports/tr35/tr35-keyboards.htmlContents&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;list-of-file-types&#34;&gt;List of file types&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;.keylayout	# OSX XML file for keyboard definition.	See: &lt;a href=&#34;https://developer.apple.com/library/mac/technotes/tn2056/_index.html&#34;&gt;https://developer.apple.com/library/mac/technotes/tn2056/_index.html&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;.bundle	# OSX set of files containing various parts of the keyboard information including Language Metadata.	https://developer.apple.com/library/mac/documentation/CoreFoundation/Conceptual/CFBundles/BundleTypes/BundleTypes.html#//apple_ref/doc/uid/10000123i-CH101-SW13&lt;/li&gt;
+&lt;li&gt;.kmn	# Raw Keyman file	See: &lt;a href=&#34;http://help.keyman.com/developer/7.0/filetype_kmn.php&#34;&gt;http://help.keyman.com/developer/7.0/filetype_kmn.php&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;.kmx	# Compiled Keyman file	See: &lt;a href=&#34;http://help.keyman.com/developer/7.0/filetype_kmn.php&#34;&gt;http://help.keyman.com/developer/7.0/filetype_kmn.php&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;.kxx	# Compiled Keyman file	See: &lt;a href=&#34;http://help.keyman.com/developer/7.0/filetype_kmn.php&#34;&gt;http://help.keyman.com/developer/7.0/filetype_kmn.php&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;.xkb	# Linux keyboard file	See: &lt;a href=&#34;https://wiki.archlinux.org/index.php/X_KeyBoard_extension&#34;&gt;https://wiki.archlinux.org/index.php/X_KeyBoard_extension&lt;/a&gt; ; &lt;a href=&#34;http://www.x.org/wiki/XKB/&#34;&gt;http://www.x.org/wiki/XKB/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;.klc	# Raw keyboardlayout file for MSKLC; Consider MSKLC	See: &lt;a href=&#34;https://msdn.microsoft.com/en-us/goglobal/bb964665.aspx&#34;&gt;https://msdn.microsoft.com/en-us/goglobal/bb964665.aspx&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;.msi	# Compiled installer for keyboard layout file for MSKLC.	See: &lt;a href=&#34;http://www.languagegeek.com/keyboard_general/msklc_installation.html&#34;&gt;http://www.languagegeek.com/keyboard_general/msklc_installation.html&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;.ahk	# AutoHotKey script file.	See: &lt;a href=&#34;http://www.autohotkey.com/docs/Scripts.htm&#34;&gt;http://www.autohotkey.com/docs/Scripts.htm&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;.kcm	# Native Keyboard Layout Files for Android.	See: &lt;a href=&#34;https://source.android.com/devices/input/key-character-map-files.html&#34;&gt;https://source.android.com/devices/input/key-character-map-files.html&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;.kl	# A the keyboard layout format for kAndroid.	See: &lt;a href=&#34;http://www.kandroid.org/online-pdk/guide/keymaps_keyboard_input.html&#34;&gt;http://www.kandroid.org/online-pdk/guide/keymaps_keyboard_input.html&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;.apk	#  A packaged version of anysoftkeyboard for Android.	See: &lt;a href=&#34;https://github.com/AnySoftKeyboard/AnySoftKeyboard&#34;&gt;https://github.com/AnySoftKeyboard/AnySoftKeyboard&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;.json	# This is technically a data format. Several JavaScript keyboard applications have use some sort of data serialization. This is used by JACKeyboards.	See: &lt;a href=&#34;https://github.com/JaredCrawford/KeyboardLayouts&#34;&gt;https://github.com/JaredCrawford/KeyboardLayouts&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;.xml	# CLDR data uses an XML Markup format.	See: &lt;a href=&#34;http://cldr.unicode.org/index/charts/keyboards&#34;&gt;http://cldr.unicode.org/index/charts/keyboards&lt;/a&gt; ; &lt;a href=&#34;http://www.unicode.org/reports/tr35/tr35-keyboards.html#Contents&#34;&gt;http://www.unicode.org/reports/tr35/tr35-keyboards.html#Contents&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     

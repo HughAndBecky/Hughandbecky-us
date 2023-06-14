@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jupyter | Hugh&#39;s Curriculum Vitae</title>
+    <link>https://hughandbecky.us/Hugh-CV/tag/jupyter/</link>
+      <atom:link href="https://hughandbecky.us/Hugh-CV/tag/jupyter/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jupyter</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2023</copyright><lastBuildDate>Sat, 27 May 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://hughandbecky.us/Hugh-CV/media/HughPaterson.jpg</url>
+      <title>Jupyter</title>
+      <link>https://hughandbecky.us/Hugh-CV/tag/jupyter/</link>
+    </image>
+    
+    <item>
+      <title>Jupyter with Python 3 on Ubuntu 16.04</title>
+      <link>https://hughandbecky.us/Hugh-CV/post/juypter-ubuntu-16/</link>
+      <pubDate>Sat, 27 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/post/juypter-ubuntu-16/</guid>
+      <description>&lt;p&gt;The article at the following link is most helpful: &lt;a href=&#34;https://datawookie.dev/blog/2017/06/setting-up-jupyter-with-python-3-on-ubuntu&#34;&gt;https://datawookie.dev/blog/2017/06/setting-up-jupyter-with-python-3-on-ubuntu&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

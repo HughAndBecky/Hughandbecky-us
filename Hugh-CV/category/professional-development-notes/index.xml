@@ -5,12 +5,21 @@
     <link>https://hughandbecky.us/Hugh-CV/category/professional-development-notes/</link>
       <atom:link href="https://hughandbecky.us/Hugh-CV/category/professional-development-notes/index.xml" rel="self" type="application/rss+xml" />
     <description>Professional Development Notes</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2023</copyright><lastBuildDate>Fri, 07 May 2021 14:35:45 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2023</copyright><lastBuildDate>Sat, 27 May 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://hughandbecky.us/Hugh-CV/media/HughPaterson.jpg</url>
       <title>Professional Development Notes</title>
       <link>https://hughandbecky.us/Hugh-CV/category/professional-development-notes/</link>
     </image>
+    
+    <item>
+      <title>Jupyter with Python 3 on Ubuntu 16.04</title>
+      <link>https://hughandbecky.us/Hugh-CV/post/juypter-ubuntu-16/</link>
+      <pubDate>Sat, 27 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/post/juypter-ubuntu-16/</guid>
+      <description>&lt;p&gt;The article at the following link is most helpful: &lt;a href=&#34;https://datawookie.dev/blog/2017/06/setting-up-jupyter-with-python-3-on-ubuntu&#34;&gt;https://datawookie.dev/blog/2017/06/setting-up-jupyter-with-python-3-on-ubuntu&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Converting FLExText Files to XLingPaper Interlinear Texts</title>
