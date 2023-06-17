@@ -5,12 +5,21 @@
     <link>https://hughandbecky.us/Hugh-CV/project/</link>
       <atom:link href="https://hughandbecky.us/Hugh-CV/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2023</copyright><lastBuildDate>Wed, 27 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2023</copyright><lastBuildDate>Thu, 01 Jun 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://hughandbecky.us/Hugh-CV/media/HughPaterson.jpg</url>
       <title>Projects</title>
       <link>https://hughandbecky.us/Hugh-CV/project/</link>
     </image>
+    
+    <item>
+      <title>The Bridge</title>
+      <link>https://hughandbecky.us/Hugh-CV/project/2023-language-learning-corpora/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/project/2023-language-learning-corpora/</guid>
+      <description>&lt;p&gt;The Bridge is linked data application supporting curriculum development. It was developed with Latin in mind, but has been extended to Greek as well. It quickly helps instructors and students find new vocabulary words in newly assigned texts, based on texts they have already encountered in their curriculum. I was invited to become involved through my Drexel LEADING Fellowship.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Multilingual Metadata &amp; Metadata Translation</title>
