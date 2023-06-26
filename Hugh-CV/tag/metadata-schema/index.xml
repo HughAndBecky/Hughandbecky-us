@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Metadata schema | Hugh&#39;s Curriculum Vitae</title>
+    <link>https://hughandbecky.us/Hugh-CV/tag/metadata-schema/</link>
+      <atom:link href="https://hughandbecky.us/Hugh-CV/tag/metadata-schema/index.xml" rel="self" type="application/rss+xml" />
+    <description>Metadata schema</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2023</copyright><lastBuildDate>Fri, 30 Jun 2023 11:30:00 -0100</lastBuildDate>
+    <image>
+      <url>https://hughandbecky.us/Hugh-CV/media/HughPaterson.jpg</url>
+      <title>Metadata schema</title>
+      <link>https://hughandbecky.us/Hugh-CV/tag/metadata-schema/</link>
+    </image>
+    
+    <item>
+      <title>Towards Making Shared Metadata Interoperable across the Open Language Archives Community</title>
+      <link>https://hughandbecky.us/Hugh-CV/talk/2023-olac-making-shared-metadata-interoperable/</link>
+      <pubDate>Fri, 30 Jun 2023 11:30:00 -0100</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/talk/2023-olac-making-shared-metadata-interoperable/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
