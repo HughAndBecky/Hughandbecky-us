@@ -5,12 +5,411 @@
     <link>https://hughandbecky.us/Hugh-CV/tag/dcmitype-physicalobject/</link>
       <atom:link href="https://hughandbecky.us/Hugh-CV/tag/dcmitype-physicalobject/index.xml" rel="self" type="application/rss+xml" />
     <description>DCMIType: PhysicalObject</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2023</copyright><lastBuildDate>Sun, 19 Mar 2023 14:35:45 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2023</copyright><lastBuildDate>Wed, 19 Jul 2023 17:00:12 -0700</lastBuildDate>
     <image>
       <url>https://hughandbecky.us/Hugh-CV/media/HughPaterson.jpg</url>
       <title>DCMIType: PhysicalObject</title>
       <link>https://hughandbecky.us/Hugh-CV/tag/dcmitype-physicalobject/</link>
     </image>
+    
+    <item>
+      <title>Dublin Core&#39;s DCMIType ‘PhysicalObject’ and its use across the Open Language Archives Community</title>
+      <link>https://hughandbecky.us/Hugh-CV/talk/2023-dc-physicalobject/</link>
+      <pubDate>Wed, 19 Jul 2023 17:00:12 -0700</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/talk/2023-dc-physicalobject/</guid>
+      <description>&lt;h3 id=&#34;abstract-bibliography&#34;&gt;Abstract Bibliography&lt;/h3&gt;
+
+
+
+
+
+
+
+
+
+
+
+&lt;section class=&#34;hugo-cite-bibliography&#34;&gt;
+  &lt;dl&gt;
+    
+
+      &lt;div id=&#34;bird_extending_2003-2&#34;&gt;
+        &lt;dt&gt;
+          Bird&amp;#32;&amp;amp;&amp;#32;Simons
+
+          
+          (2003)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Bird&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Steven&#34; /&gt;
+    S.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Simons&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Gary F.&#34; /&gt;
+    G.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2003&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;Extending Dublin Core Metadata to Support the Description and Discovery of Language Resources&lt;/span&gt;.&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;Computers and the Humanities&lt;/span&gt;,&amp;#32;37(4)&lt;/i&gt;.&amp;#32;&lt;span itemprop=&#34;pagination&#34;&gt;375–388&lt;/span&gt;.
+  &lt;a href=&#34;https://doi.org/10.1023/A:1025720518994&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://doi.org/10.1023/A:1025720518994&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;bird_olac_2001-4&#34;&gt;
+        &lt;dt&gt;
+          Bird&amp;#32;&amp;amp;&amp;#32;Simons
+
+          
+          (2001)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Chapter&#34;
+      data-type=&#34;chapter&#34;&gt;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Bird&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Steven&#34; /&gt;
+    S.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Simons&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Gary F.&#34; /&gt;
+    G.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2001&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;The OLAC metadata set and controlled vocabularies&lt;/span&gt;.&amp;#32;In&amp;#32;&lt;span itemprop=&#34;editor&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;DeClerck&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Thierry&#34; /&gt;
+    T.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;editor&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Krauwer&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Steven&#34; /&gt;
+    S.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;editor&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Rosner&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Mike&#34; /&gt;
+    M.&lt;/span&gt; (Eds.),&amp;#32;&lt;span itemprop=&#34;about&#34;&gt;
+    &lt;i&gt;Proceedings of ACL/EACL Workshop on Sharing Tools and Resources for Research and Education&lt;/i&gt;&lt;/span&gt;.&amp;#32;(&lt;span&gt;pp.&amp;#32;7–18&lt;/span&gt;).
+  &lt;meta itemprop=&#34;contentLocation&#34;
+        value=&#34;Université de Toulouse, France&#34;&gt;&amp;#32;&lt;span itemprop=&#34;publisher&#34;
+               itemtype=&#34;http://schema.org/Organization&#34;
+               itemscope=&#34;&#34;&gt;
+      &lt;span itemprop=&#34;name&#34;&gt;EACL-ACL; elsnet&lt;/span&gt;&lt;/span&gt;.&amp;#32;Retrieved from&amp;#32;
+  &lt;a href=&#34;https://www.aclweb.org/anthology/W01-1506&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://www.aclweb.org/anthology/W01-1506&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;dublin_core_metadata_initiative_dcmi_physical_2018&#34;&gt;
+        &lt;dt&gt;
+          
+
+          
+          (2018)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/WebPage&#34;
+      data-type=&#34;webpage&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;/span&gt;(&lt;span itemprop=&#34;datePublished&#34;&gt;2018,&amp;#32;10/23&lt;/span&gt;).&amp;#32;Retrieved from&amp;#32;
+  &lt;a href=&#34;https://www.dublincore.org/specifications/dublin-core/dcmi-terms/dcmitype/PhysicalObject/&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://www.dublincore.org/specifications/dublin-core/dcmi-terms/dcmitype/PhysicalObject/&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;paterson_iii_olac_2021&#34;&gt;
+        &lt;dt&gt;
+          Paterson III
+
+          
+          (2021)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/CreativeWork&#34;
+      data-type=&#34;dataset&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Paterson III&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Hugh J&#34; /&gt;
+    H.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2021&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;
+    &lt;i&gt;OLAC Nightly Data Dump (XML) from 18 July 2021&lt;/i&gt;&lt;/span&gt;.
+  &amp;#32;
+  &lt;span itemprop=&#34;publisher&#34; itemtype=&#34;http://schema.org/Organization&#34; itemscope=&#34;&#34;&gt;
+    &lt;span itemprop=&#34;name&#34;&gt;OLAC: Open Language Archives Community&lt;/span&gt;&lt;/span&gt;.
+  &lt;a href=&#34;https://doi.org/10.5281/ZENODO.5112131&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://doi.org/10.5281/ZENODO.5112131&lt;/a&gt;&lt;/span&gt;
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;paterson_iii_where_2022&#34;&gt;
+        &lt;dt&gt;
+          Paterson III
+
+          
+          (2022)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/CreativeWork&#34;
+      data-type=&#34;paper-conference&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Paterson III&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Hugh J&#34; /&gt;
+    H.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2022&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;
+    &lt;i&gt;Where Have All the Collections Gone?: Analysis of OLAC Data Contributors&amp;rsquo; use of DCMIType &amp;lsquo;Collection&amp;rsquo;&lt;/i&gt;&lt;/span&gt;.
+  &lt;meta itemprop=&#34;contentLocation&#34;
+        content=&#34;Chicago, IL&#34;&gt;&amp;#32;
+  &lt;span itemprop=&#34;publisher&#34; itemtype=&#34;http://schema.org/Organization&#34; itemscope=&#34;&#34;&gt;
+    &lt;span itemprop=&#34;name&#34;&gt;Society of American Archivists&lt;/span&gt;&lt;/span&gt;.&amp;#32;Retrieved from&amp;#32;
+  &lt;a href=&#34;https://www2.archivists.org/am2021/research-forum-2021/agenda#peer&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://www2.archivists.org/am2021/research-forum-2021/agenda#peer&lt;/a&gt;&lt;/span&gt;
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;simons_building_2003-1&#34;&gt;
+        &lt;dt&gt;
+          Simons&amp;#32;&amp;amp;&amp;#32;Bird
+
+          
+          (2003)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Simons&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Gary F.&#34; /&gt;
+    G.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Bird&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Steven&#34; /&gt;
+    S.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2003&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;Building an Open Language Archives Community on the OAI foundation&lt;/span&gt;.&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;Library Hi Tech&lt;/span&gt;,&amp;#32;21(2)&lt;/i&gt;.&amp;#32;&lt;span itemprop=&#34;pagination&#34;&gt;210–218&lt;/span&gt;.
+  &lt;a href=&#34;https://doi.org/10.1108/07378830310479848&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://doi.org/10.1108/07378830310479848&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;simons_olac_2008-3&#34;&gt;
+        &lt;dt&gt;
+          Simons,&amp;#32;
+          Bird&amp;#32;&amp;amp;&amp;#32;Spanne
+
+          
+          (2008)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/CreativeWork&#34;
+      data-type=&#34;Informational Note&#34;&gt;
+  (N.A.).
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2008&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;
+    &lt;i&gt;OLAC Metadata Usage Guidelines&lt;/i&gt;&lt;/span&gt; (
+  &lt;span span itemprop=&#34;workExample&#34;&gt;2008-07-11&lt;/span&gt;
+  ).
+  &amp;#32;
+  &lt;span itemprop=&#34;publisher&#34; itemtype=&#34;http://schema.org/Organization&#34; itemscope=&#34;&#34;&gt;
+    &lt;span itemprop=&#34;name&#34;&gt;Open Language Archive Community&lt;/span&gt;&lt;/span&gt;.&amp;#32;Retrieved from&amp;#32;
+  &lt;a href=&#34;http://www.language-archives.org/NOTE/usage-20080711.html&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;http://www.language-archives.org/NOTE/usage-20080711.html&lt;/a&gt;&lt;/span&gt;
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;sserwanga_exploration_2023&#34;&gt;
+        &lt;dt&gt;
+          Zavalin&amp;#32;&amp;amp;&amp;#32;Zavalina
+
+          
+          (2023)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Chapter&#34;
+      data-type=&#34;chapter&#34;&gt;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Zavalin&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Vyacheslav&#34; /&gt;
+    V.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Zavalina&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Oksana L.&#34; /&gt;
+    O.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2023&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;Exploration of Accuracy, Completeness and Consistency in Metadata for Physical Objects in Museum Collections&lt;/span&gt;.&amp;#32;In&amp;#32;&lt;span itemprop=&#34;editor&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Sserwanga&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Isaac&#34; /&gt;
+    I.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;editor&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Goulding&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Anne&#34; /&gt;
+    A.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;editor&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Moulaison-Sandy&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Heather&#34; /&gt;
+    H.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;editor&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Du&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Jia Tina&#34; /&gt;
+    J.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;editor&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Soares&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;António Lucas&#34; /&gt;
+    A.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;editor&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Hessami&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Viviane&#34; /&gt;
+    V.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;editor&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Frank&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Rebecca D.&#34; /&gt;
+    R.&lt;/span&gt; (Eds.),&amp;#32;&lt;span itemprop=&#34;about&#34;&gt;
+    &lt;i&gt;Information for a Better World: Normality, Virtuality, Physicality, Inclusivity&lt;/i&gt;&lt;/span&gt;.&amp;#32;(&lt;span&gt;pp.&amp;#32;83–90&lt;/span&gt;).
+  &lt;meta itemprop=&#34;contentLocation&#34;
+        value=&#34;Cham&#34;&gt;&amp;#32;&lt;span itemprop=&#34;publisher&#34;
+               itemtype=&#34;http://schema.org/Organization&#34;
+               itemscope=&#34;&#34;&gt;
+      &lt;span itemprop=&#34;name&#34;&gt;Springer Nature Switzerland&lt;/span&gt;&lt;/span&gt;.
+  &lt;a href=&#34;https://doi.org/10.1007/978-3-031-28032-0_7&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://doi.org/10.1007/978-3-031-28032-0_7&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+  &lt;/dl&gt;
+&lt;/section&gt;
+
+
+
+</description>
+    </item>
     
     <item>
       <title>Dublin Core DCMIType: PhysicalObject</title>
@@ -2098,6 +2497,160 @@ Note: I am working from the OAI-PMH framework and looking at record cohesion/rec
 &lt;ol&gt;
 &lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
 &lt;p&gt;see also: &lt;a href=&#34;http://purl.org/dc/terms/coverage&#34;&gt;http://purl.org/dc/terms/coverage&lt;/a&gt; &lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/section&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Dublin Core DCMIType Chooser</title>
+      <link>https://hughandbecky.us/Hugh-CV/post/dublin-core-dcmitype/</link>
+      <pubDate>Thu, 15 Dec 2022 14:35:45 +0100</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/post/dublin-core-dcmitype/</guid>
+      <description>&lt;p&gt;Some users of Dublin Core choose not to use the DCMIType vocabulary. I find the DCMIType vocabulary deeply integral to good description using the Dublin Core framework. It adds a distinct way to orient the is-ness of the object within the capable description of items via the Dublin Core framework. I admit that it can be confusing at times. For example, I have found some resources which are hard to categorize. I have placed some of these in the following table. The description of the resource is on the left while the ambigious possibilities appear in the right two columns.&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;center&#34;&gt;Object&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;DCMIType 1&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;DCMIType 2&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Picture made from words&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Text&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Image&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;
+&lt;a href=&#34;https://en.wikipedia.org/wiki/Rosetta_Stone&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Rosetta Stone&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Text&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;PhysicalObject&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Cassette Tape&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Sound&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;PhysicalObject&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Moon Rock&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;PhysicalObject&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;(I actually &lt;br/&gt;think this one is pretty clear)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Spatula&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;PhysicalObject&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;InteractiveResource&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Board Game&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;InteractiveResource&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;PhysicalObject&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Uncompiled code&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Text&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Software&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Video Game&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;MovingImage&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;InteractiveResource&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;ChatBot&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Software&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;InteractiveResource&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Song on YouTube with just lyrics presented&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;MovingImage&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Collection&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Catalog of resources&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Text&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Dataset or Collection&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+
+
+  
+  
+  
+
+&lt;figure id=&#34;figure-a-picture-made-of-words--reinhard-döhl-apfel-1965-note-that-arabic-art-also-contains-many-images-constructed-of-text&#34;itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/dublin-core-dcmitype/DohlApfel_hud551a789fbb81b0c92f5be46b382cf02_35956_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;A picture made of words.  Reinhard Döhl, “Apfel” (1965). Note that Arabic art also contains many images constructed of text.&#34;&gt;
+
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/dublin-core-dcmitype/DohlApfel_hud551a789fbb81b0c92f5be46b382cf02_35956_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34; Reinhard Döhl, “Apfel” (1965)&#34; width=&#34;270&#34; height=&#34;250&#34; itemprop=&#34;contentUrl&#34;&gt;
+&lt;/a&gt;
+  
+  &lt;figcaption&gt;
+    &lt;p&gt;A picture made of words.  Reinhard Döhl, “Apfel” (1965). Note that Arabic art also contains many images constructed of text.
+      
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: Reinhard Döhl&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
+        &lt;meta itemprop=&#34;name&#34; content=&#34;Reinhard Döhl&#34; /&gt;
+      &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+  &lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p&gt;If we follow the 1-to-1 principle in Dublin Core then only one qualified DCMIType should be applied to any specific record. So which one? I have created the following flowchart to guide a person through the process of selecting the most appropriate DCMIType term. Clicking the diagram opens it up within the mermaid editor where the text can be more easily read.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://mermaid.live/edit#pako:eNqlVl1v2jAU_SuWnzYJGAHWtKjqNMFaVVXX70lb6YNxLsRrYme2A2W0_33XTgkQqq1liAd87Xvu8bkfeE65ioB26VizLCbX_YEk-Pl82--dHl_PMiA8VsqAviP1-sHjEViiwahcc3gkF813hypJ1JT0YqYtucjBWKGkeV-gXDSdE7kI5seG2BhKV7I_1AdcpRkiR0SN_Nrkw_rigPn09AwR-LhfFUZrVWGcF8m0SJkWyYxYeLA5Syqu38E8Eo40gTtut1dWZQ1yY5AEpAe9cmP_Ay4bnkkvQcDRzMcaKZ0yS6bCxiTi3UO_vHuO0FqSa_-FHHKbCLNKrbWkdrRw5EpakNb7oSQbejGtmRyjXkIS5k9ZNkygnoh7IMbqnNtcQxmiXXI7-4duHjyPhEOruHuGv9qNYN5XUIBMlb4nMZvAgoRIHQcJRGksFq1kosaCs8TjKi3wTkhaslV2DtIHkMgPayZJjlM2hkpyrsqNLZJThriRHLRlQj4S8UKQ_8b3GqVqIuT4pUucLne2iHJUZvHkxSyuNpHrZGecxoLHROfSEIWlQlLGY8zPQvuTEtI1TIXtNZo8TY_-WpYnSyGMGtkp0xupfDa_HftoiR0xywxUKfcL64q4r8Y-K6U4Xxb4mr6-0LN4ZlxFF4rjqGPcghZYt7wcVAXUrJAgl9HG_dG2DcXzkuLli1PUtR8pu8xDsGKcWjeSmYywv1RGMiWkXZC9LEFvNu_tvTVkwBARxwNeluQZVhJ-3VYkRiPQGA8HkWcuLO6sqfY8vgxDbsXYSqEa3WcUJmivSPXF2baXyqdgkbGz4U-c7pUA52ub20S6KfX7dnuMOhjihrD7C4rRZU1MJospg-lxZSMmcLlQauvARaOBngi-0WeF9a3YA0lrNAWXzAgfA3MXbUDRI4UB7eLPiOn7AR3IJzzHcquuZpLTLv7pQI3mGTYm9AXDN0RKuyOWGLRChHWhT4vXhX9k1GjG5A-l0oUjLml3Th9ot94Jw0bQ2d3ptDphazfc-diu0RnttoJGsLfb6YRB82MQ7ISd1lON_vYQrUazHYYBngzCPXRthk9_ADli-W0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://mermaid.ink/img/pako:eNqlVl1v2jAU_SuWnzYJGAHWtKjqNMFaVVXX70lb6YNxLsRrYme2A2W0_33XTgkQqq1liAd87Xvu8bkfeE65ioB26VizLCbX_YEk-Pl82--dHl_PMiA8VsqAviP1-sHjEViiwahcc3gkF813hypJ1JT0YqYtucjBWKGkeV-gXDSdE7kI5seG2BhKV7I_1AdcpRkiR0SN_Nrkw_rigPn09AwR-LhfFUZrVWGcF8m0SJkWyYxYeLA5Syqu38E8Eo40gTtut1dWZQ1yY5AEpAe9cmP_Ay4bnkkvQcDRzMcaKZ0yS6bCxiTi3UO_vHuO0FqSa_-FHHKbCLNKrbWkdrRw5EpakNb7oSQbejGtmRyjXkIS5k9ZNkygnoh7IMbqnNtcQxmiXXI7-4duHjyPhEOruHuGv9qNYN5XUIBMlb4nMZvAgoRIHQcJRGksFq1kosaCs8TjKi3wTkhaslV2DtIHkMgPayZJjlM2hkpyrsqNLZJThriRHLRlQj4S8UKQ_8b3GqVqIuT4pUucLne2iHJUZvHkxSyuNpHrZGecxoLHROfSEIWlQlLGY8zPQvuTEtI1TIXtNZo8TY_-WpYnSyGMGtkp0xupfDa_HftoiR0xywxUKfcL64q4r8Y-K6U4Xxb4mr6-0LN4ZlxFF4rjqGPcghZYt7wcVAXUrJAgl9HG_dG2DcXzkuLli1PUtR8pu8xDsGKcWjeSmYywv1RGMiWkXZC9LEFvNu_tvTVkwBARxwNeluQZVhJ-3VYkRiPQGA8HkWcuLO6sqfY8vgxDbsXYSqEa3WcUJmivSPXF2baXyqdgkbGz4U-c7pUA52ub20S6KfX7dnuMOhjihrD7C4rRZU1MJospg-lxZSMmcLlQauvARaOBngi-0WeF9a3YA0lrNAWXzAgfA3MXbUDRI4UB7eLPiOn7AR3IJzzHcquuZpLTLv7pQI3mGTYm9AXDN0RKuyOWGLRChHWhT4vXhX9k1GjG5A-l0oUjLml3Th9ot94Jw0bQ2d3ptDphazfc-diu0RnttoJGsLfb6YRB82MQ7ISd1lON_vYQrUazHYYBngzCPXRthk9_ADli-W0?type=png&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;With regards to the distinction between text, dataset, and collection, the OLAC cmmunity brings up an interesting use case.&lt;/p&gt;
+&lt;p&gt;The 
+&lt;a href=&#34;https://www.dublincore.org/specifications/dublin-core/collection-description/collection-application-profile/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dublin Core™ Collection Description Application Profile&lt;/a&gt; suggests that indexes or catalogs of resources ought to be classified as DCMIType &lt;em&gt;Collection&lt;/em&gt;. The argument is that these are collection because they are assembled and aggregated.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The term &amp;ldquo;collection&amp;rdquo; can be applied to any aggregation of physical and/or digital resources. Those resources may be of any type, so examples might include aggregations of natural objects, created objects, &amp;ldquo;born-digital&amp;rdquo; items, digital surrogates of physical items, and the catalogues of such collections (as aggregations of metadata records). The criteria for aggregation may vary: e.g. by location, by type or form of the items, by provenance of the items, by source or ownership, and so on. Collections may contain any number of items and may have varying levels of permanence.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;If we take this Application Profile and back-port its semantics to dcterms then a 
+&lt;a href=&#34;http://purl.org/dc/dcmitype/Collection&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DCMIType collection&lt;/a&gt; as defined has some interesting ramifications for resources like lexicons, encyclopedia, corpora, dictionaries, newspapers, edited multi-author works, etc. :&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Definition: An aggregation of resources.
+Comment: A collection is described as a group; its parts may also be separately described.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Resources such as annotated bibilographies, indexes, dictionaries, seem to me to be most accuratly described as DCMIType &lt;em&gt;Text&lt;/em&gt;, unless they are being futher described. Even more problematic though is that many of these resources are now engaged with in multiple ways with different audiences. For example, encyclopedias and bibilographies are often read as &lt;em&gt;Text&lt;/em&gt; by consumers, but are engaged with as &lt;em&gt;Datasets&lt;/em&gt; by producers. Is it possible that DCMIType terms are describing the manifestation? Currently Glottolog sugests that the page that a person accesses a list of resource about the Karbi language is a text resource.&lt;/p&gt;
+
+
+
+  
+  
+  
+
+&lt;figure id=&#34;figure-glottolog-46-resources-for-hills-karbi-in-the-olac-search-interface&#34;itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/dublin-core-dcmitype/glotologrecords_hu259362def301c4a7d53fb0b3d91e2e70_59487_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Glottolog 4.6 Resources for Hills Karbi in the OLAC Search Interface&#34;&gt;
+
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/dublin-core-dcmitype/glotologrecords_hu259362def301c4a7d53fb0b3d91e2e70_59487_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;Glottolog 4.6 Resources for Hills Karbi&#34; width=&#34;954&#34; height=&#34;459&#34; itemprop=&#34;contentUrl&#34;&gt;
+&lt;/a&gt;
+  
+  &lt;figcaption&gt;
+    &lt;p&gt;Glottolog 4.6 Resources for Hills Karbi in the OLAC Search Interface
+      
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;http://dla.library.upenn.edu/dla/olac/record.html?id=glottolog_org_karb1241&#34;&gt; OLAC Search&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
+        &lt;meta itemprop=&#34;name&#34; content=&#34;OLAC Search&#34; /&gt;
+      &lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+  &lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p&gt;There is also the remaining question, is the Glottolog page actually an &lt;em&gt;Interactive Resource&lt;/em&gt;, which pulls a &lt;em&gt;Dataset&lt;/em&gt;?&lt;/p&gt;
+&lt;p&gt;So, maybe the list of resources is a &lt;em&gt;Collection&lt;/em&gt;, the Glottolog itself as a website is an &lt;em&gt;Interactive Resource&lt;/em&gt;. The data which drives the website is a &lt;em&gt;Dataset&lt;/em&gt;. — leaving nothing as a &lt;em&gt;Text&lt;/em&gt; resource?&lt;/p&gt;
+&lt;!-- WEMI relationships
+| Same-Same | Same-Different |  |  |  |
+|:---:|---|---|---|---|
+| SW:SW |  |  |  |  |
+| W:W | SW:W |  |  |  |
+| E:E | SW:E | W:E |  |  |
+| M:M | SW:M | W:M | E:M |  |
+| I:I | SW:I | W:I | E:I | M:I |
+
+--&gt;
+&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;The definition of note of the DCMIType for &lt;code&gt;Text&lt;/code&gt; states: &amp;ldquo;Examples include books, letters, dissertations, poems, newspapers, articles, archives of mailing lists. Note that facsimiles or images of texts are still of the genre Text.&amp;rdquo; So I understand that the apple and the worm image would be classified as text. &lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;/section&gt;
