@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>lat | Hugh&#39;s Curriculum Vitae</title>
+    <link>https://hughandbecky.us/Hugh-CV/language/lat/</link>
+      <atom:link href="https://hughandbecky.us/Hugh-CV/language/lat/index.xml" rel="self" type="application/rss+xml" />
+    <description>lat</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2023</copyright><lastBuildDate>Tue, 05 Sep 2023 17:00:12 -0700</lastBuildDate>
+    <image>
+      <url>https://hughandbecky.us/Hugh-CV/media/HughPaterson.jpg</url>
+      <title>lat</title>
+      <link>https://hughandbecky.us/Hugh-CV/language/lat/</link>
+    </image>
+    
+    <item>
+      <title>LexR: a Preliminary Readability Metric for Latin</title>
+      <link>https://hughandbecky.us/Hugh-CV/talk/2023-lexr/</link>
+      <pubDate>Tue, 05 Sep 2023 17:00:12 -0700</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/talk/2023-lexr/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
