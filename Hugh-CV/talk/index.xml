@@ -139,7 +139,31 @@
       <link>https://hughandbecky.us/Hugh-CV/talk/2023-ichl26/</link>
       <pubDate>Mon, 04 Sep 2023 11:30:00 -0100</pubDate>
       <guid>https://hughandbecky.us/Hugh-CV/talk/2023-ichl26/</guid>
-      <description>&lt;p&gt;Correspondences for the interdental and PAn *l&lt;/p&gt;
+      <description>&lt;div id=&#34;listen&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  &lt;audio controls id=&#34;listen&#34;&gt;
+    &lt;source src=&#34;ichl26.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+  &lt;/audio&gt;
+
+
+&lt;/div&gt;
+&lt;p&gt;Correspondences for the interdental and PAn *l&lt;/p&gt;
 &lt;!-- The javascript way&lt;script&gt;if (window.innerWidth &gt; 700){document.querySelector(&#39;.article-style&#39;).style.overflowX = &#39;visible&#39;;}&lt;/script&gt;
 &lt;style&gt;#tg-ZAuTS { width: 85vw; position: relative; left: calc(-50vw + 70%); z-index: 1; !important}&lt;/style&gt; --&gt;
 &lt;!-- currently the style tags below apply This ought to be moved to a short code following the instructions here: https://www.mybluelinux.com/how-create-bootstrap-tables-in-hugo/ and some of the complex table&#39;s CSS has been modified. For example, I added no-hypenation and really the long URLs ought to be broken more and the text given the room it needs. --&gt;
