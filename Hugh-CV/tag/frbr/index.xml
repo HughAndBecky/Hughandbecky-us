@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>FRBR | Hugh&#39;s Curriculum Vitae</title>
+    <link>https://hughandbecky.us/Hugh-CV/tag/frbr/</link>
+      <atom:link href="https://hughandbecky.us/Hugh-CV/tag/frbr/index.xml" rel="self" type="application/rss+xml" />
+    <description>FRBR</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2023</copyright><lastBuildDate>Wed, 08 Nov 2023 10:40:00 +0900</lastBuildDate>
+    <image>
+      <url>https://hughandbecky.us/Hugh-CV/media/HughPaterson.jpg</url>
+      <title>FRBR</title>
+      <link>https://hughandbecky.us/Hugh-CV/tag/frbr/</link>
+    </image>
+    
+    <item>
+      <title>Considering WEMI and the Digital Artifacts Around Language Documentation Transcripts</title>
+      <link>https://hughandbecky.us/Hugh-CV/talk/2023-wemi-language-documentation-transcripts/</link>
+      <pubDate>Wed, 08 Nov 2023 10:40:00 +0900</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/talk/2023-wemi-language-documentation-transcripts/</guid>
+      <description>&lt;p&gt;There will be a full published paper in addition to the presentation.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

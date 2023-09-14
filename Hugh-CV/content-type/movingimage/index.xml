@@ -5,12 +5,21 @@
     <link>https://hughandbecky.us/Hugh-CV/content-type/movingimage/</link>
       <atom:link href="https://hughandbecky.us/Hugh-CV/content-type/movingimage/index.xml" rel="self" type="application/rss+xml" />
     <description>MovingImage</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2023</copyright><lastBuildDate>Wed, 19 Jul 2023 17:00:12 -0700</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2023</copyright><lastBuildDate>Wed, 08 Nov 2023 10:40:00 +0900</lastBuildDate>
     <image>
       <url>https://hughandbecky.us/Hugh-CV/media/HughPaterson.jpg</url>
       <title>MovingImage</title>
       <link>https://hughandbecky.us/Hugh-CV/content-type/movingimage/</link>
     </image>
+    
+    <item>
+      <title>Considering WEMI and the Digital Artifacts Around Language Documentation Transcripts</title>
+      <link>https://hughandbecky.us/Hugh-CV/talk/2023-wemi-language-documentation-transcripts/</link>
+      <pubDate>Wed, 08 Nov 2023 10:40:00 +0900</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/talk/2023-wemi-language-documentation-transcripts/</guid>
+      <description>&lt;p&gt;There will be a full published paper in addition to the presentation.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Dublin Core&#39;s DCMIType ‘PhysicalObject’ and its use across the Open Language Archives Community</title>
