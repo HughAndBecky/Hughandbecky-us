@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pedagogy | Hugh&#39;s Curriculum Vitae</title>
+    <link>https://hughandbecky.us/Hugh-CV/category/pedagogy/</link>
+      <atom:link href="https://hughandbecky.us/Hugh-CV/category/pedagogy/index.xml" rel="self" type="application/rss+xml" />
+    <description>Pedagogy</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2023</copyright><lastBuildDate>Tue, 15 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://hughandbecky.us/Hugh-CV/media/HughPaterson.jpg</url>
+      <title>Pedagogy</title>
+      <link>https://hughandbecky.us/Hugh-CV/category/pedagogy/</link>
+    </image>
+    
+    <item>
+      <title>Community Memory and Language Archiving &amp; Curation Training</title>
+      <link>https://hughandbecky.us/Hugh-CV/project/2023-language-archiving-curriculum/</link>
+      <pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/project/2023-language-archiving-curriculum/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Bridge</title>
+      <link>https://hughandbecky.us/Hugh-CV/project/2023-language-learning-corpora/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/project/2023-language-learning-corpora/</guid>
+      <description>&lt;p&gt;The Bridge is linked data application supporting curriculum development. It was developed with Latin in mind, but has been extended to Greek as well. It quickly helps instructors and students find new vocabulary words in newly assigned texts, based on texts they have already encountered in their curriculum. I was invited to become involved through my Drexel LEADING Fellowship.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
