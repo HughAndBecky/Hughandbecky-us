@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Latin Digital Humanities | Hugh&#39;s Curriculum Vitae</title>
+    <link>https://hughandbecky.us/Hugh-CV/tag/latin-digital-humanities/</link>
+      <atom:link href="https://hughandbecky.us/Hugh-CV/tag/latin-digital-humanities/index.xml" rel="self" type="application/rss+xml" />
+    <description>Latin Digital Humanities</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2024</copyright><lastBuildDate>Tue, 09 Jan 2024 17:00:12 -0700</lastBuildDate>
+    <image>
+      <url>https://hughandbecky.us/Hugh-CV/media/HughPaterson.jpg</url>
+      <title>Latin Digital Humanities</title>
+      <link>https://hughandbecky.us/Hugh-CV/tag/latin-digital-humanities/</link>
+    </image>
+    
+    <item>
+      <title>The Bridge Informatics Report</title>
+      <link>https://hughandbecky.us/Hugh-CV/publication/2024-the-bridge-informatics/</link>
+      <pubDate>Tue, 09 Jan 2024 17:00:12 -0700</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/publication/2024-the-bridge-informatics/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
