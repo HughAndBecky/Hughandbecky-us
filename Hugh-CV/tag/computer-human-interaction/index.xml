@@ -1,24 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Linguistics | Hugh&#39;s Curriculum Vitae</title>
-    <link>https://hughandbecky.us/Hugh-CV/category/linguistics/</link>
-      <atom:link href="https://hughandbecky.us/Hugh-CV/category/linguistics/index.xml" rel="self" type="application/rss+xml" />
-    <description>Linguistics</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2024</copyright><lastBuildDate>Wed, 16 Nov 2022 17:00:12 -0700</lastBuildDate>
+    <title>Computer Human Interaction | Hugh&#39;s Curriculum Vitae</title>
+    <link>https://hughandbecky.us/Hugh-CV/tag/computer-human-interaction/</link>
+      <atom:link href="https://hughandbecky.us/Hugh-CV/tag/computer-human-interaction/index.xml" rel="self" type="application/rss+xml" />
+    <description>Computer Human Interaction</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2024</copyright><lastBuildDate>Tue, 15 Nov 2022 15:00:00 +0800</lastBuildDate>
     <image>
       <url>https://hughandbecky.us/Hugh-CV/media/HughPaterson.jpg</url>
-      <title>Linguistics</title>
-      <link>https://hughandbecky.us/Hugh-CV/category/linguistics/</link>
+      <title>Computer Human Interaction</title>
+      <link>https://hughandbecky.us/Hugh-CV/tag/computer-human-interaction/</link>
     </image>
-    
-    <item>
-      <title>Orthographies with Punctuation-like Letters Indicating Tone</title>
-      <link>https://hughandbecky.us/Hugh-CV/publication/2022-orthographies-with-punctuation-like-letters-indicating-tone/</link>
-      <pubDate>Wed, 16 Nov 2022 17:00:12 -0700</pubDate>
-      <guid>https://hughandbecky.us/Hugh-CV/publication/2022-orthographies-with-punctuation-like-letters-indicating-tone/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Language, Script, Orthography, and Text-input: Rating Text-input Difficulty Across Languages</title>
