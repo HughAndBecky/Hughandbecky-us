@@ -812,10 +812,10 @@
 
 <div class="article-container">
 
-    <div class="article-style"><p>In the course of writing a paper I needed to take screen shots of webpages and include those as figures in the paper. I could take a screenshot save it as a .png or .jpg and call it good. However these sorts of images do not provide a great deal of resolution and do not look clean in a published paper. Especially when dealing with screenshots as the resolution is not very high — at least in my experince. I could print the web page to PDF but a post-script style PDF would basically create an image and wrap it in a PDF. This is not really any better than the screenshot solution.</p>
-<p>With a quick internet search I uncovered two potential solutions: 
+    <div class="article-style"><p>In the course of writing a paper I needed to take screen shots of webpages and include those as figures in the paper. I could take a screenshot save it as a .png or .jpg and call it good. However these sorts of images do not provide a great deal of resolution and do not look clean in a published paper. Especially when dealing with screenshots as the resolution is not very high — at least in my experience. I could print the web page to PDF but a post-script style PDF would basically create an image and wrap it in a PDF. This is not really any better than the screenshot solution.</p>
+<p>With a quick internet search I discovered two potential solutions: 
 <a href="https://wkhtmltopdf.org" target="_blank" rel="noopener">wkhtmltopdf</a> and 
-<a href="http://cssbox.sourceforge.net/webvector/" target="_blank" rel="noopener">WebVector/CSSBox</a>. I decided to try out <code>wkhtmltopdf</code>. It was simple and easy to install on linux. It produces great resutls with a bit of tinkering (
+<a href="http://cssbox.sourceforge.net/webvector/" target="_blank" rel="noopener">WebVector/CSSBox</a>. I decided to try out <code>wkhtmltopdf</code>. It was simple and easy to install on Linux. It produces great results with a bit of tinkering (
 <a href="https://wkhtmltopdf.org/usage/wkhtmltopdf.txt" target="_blank" rel="noopener">manual here</a>). Though it should be noted that <code>wkhtmltopdf</code> is based on webkit which has mostly not seen progressive development. I also tried WebVector (specifically on the website Pangloss) and it did not produce expected results.</p>
 <p>Playing around with wkhtmltopdf I was able to produce a PDF of several webpages I was looking to include. I used the following workflow after install:</p>
 <p>I adjusted my screen size to fit the type of display I wanted. Then I measured it via 
@@ -824,12 +824,13 @@ In the end the code I used looked like this:</p>
 <p><code>wkhtmltopdf --no-print-media-type --viewport-size 1100 --page-height 6.25in --page-width 7.75in -T 1mm -B 1mm -R 1mm -L 1mm --load-media-error-handling skip --enable-javascript --javascript-delay 2000 https://www.sil.org/resources/archives/52216 sil-item.pdf</code></p>
 <p><code>wkhtmltopdf --no-print-media-type --viewport-size 1100 --page-height 8in --page-width 7.75in -T 1mm -B 1mm -R 1mm -L 1mm --load-media-error-handling skip --enable-javascript --javascript-delay 2000 https://scholarspace.manoa.hawaii.edu/handle/10125/30788 K-item.pdf</code></p>
 <p><code>wkhtmltopdf --no-print-media-type --viewport-size 1100 --page-height 8.75in --page-width 7in -T 1mm -B 1mm -R 1mm -L 1mm --load-media-error-handling skip --enable-javascript --javascript-delay 2000 http://www.language-archives.org/item/oai:sil.org:52216 olac-item1.pdf</code></p>
-<p>This produced a nice PDF. But I needed to get rid of the second page. I did this with PDF-Shuffler and just deleted the second page.
-I wanted to include the final PDF in XLingPaper which uses XeLaTeX on the back end. However one of the current dependencies only allows PDFs of version 1.4 or older. So I had to &ldquo;back version&rdquo; the PDF version to 1.4. I the following code (adjustin for file names) to do that.</p>
+<p>This produced a nice PDF. But I needed to get rid of the second page. I did this with 
+<a href="https://sourceforge.net/projects/pdfshuffler" target="_blank" rel="noopener">PDF-Shuffler</a> and just deleted the second page.
+I wanted to include the final PDF in XLingPaper which uses XeLaTeX on the back end. However one of XLingPaper&rsquo;s current dependencies only allows PDFs of version 1.4 or older. So I had to &ldquo;back version&rdquo; the PDF version to 1.4. I the following code (adjusting for file names) to do that.</p>
 <p><code>gs -q -sDEVICE=pdfwrite -dCompatibilityLevel=1.4 -o out.pdf in.pdf</code> <!-- https://superuser.com/questions/25598/linux-pdf-version-converter -->
-My suspicion though is that passing the PDF through GhostSript also removes some of the mark-up features which already exist in the PDF via <code>wkhtmltopdf</code>. This may include some of the links and embedded fonts — but on this last point I am not 100 percent sure.</p>
-<p>In an earlier version of this workflow I was using standard size pages (A4, A3, etc.). Doing so required that I then cut the PDF so that the usable portion was able to usefully be scaled in xlingpaper. To do this I used 
-<a href="https://pdfresizer.com" target="_blank" rel="noopener">pdfresizer.com</a> to reduce the physical dimensions of pdf paes. However this was not necessary to maintain because I was able to specify the dimentions I needed directly in <code>wkhtmltopdf</code>.</p>
+My suspicion though is that passing the PDF through GhostScript also removes some of the mark-up features which already exist in the PDF via <code>wkhtmltopdf</code>. This may include some of the links and embedded fonts — but on this last point I am not 100 percent sure.</p>
+<p>In an earlier version of this workflow I was using standard size pages (A4, A3, etc.). Doing so required that I then cut the PDF so that the usable portion was able to usefully be scaled in XLingPaper. To do this I used 
+<a href="https://pdfresizer.com" target="_blank" rel="noopener">pdfresizer.com</a> to reduce the physical dimensions of pdf pages. However this was not necessary to maintain because I was able to specify the dimensions I needed directly in <code>wkhtmltopdf</code>.</p>
 </div>
 
 

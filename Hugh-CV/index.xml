@@ -33460,10 +33460,10 @@ https://sigann.github.io/LAW-XIV-2020/pdf/2020.law-1.9.pdf
       <link>https://hughandbecky.us/Hugh-CV/post/pdfs-of-webpages/</link>
       <pubDate>Fri, 15 Jan 2021 00:00:00 +0000</pubDate>
       <guid>https://hughandbecky.us/Hugh-CV/post/pdfs-of-webpages/</guid>
-      <description>&lt;p&gt;In the course of writing a paper I needed to take screen shots of webpages and include those as figures in the paper. I could take a screenshot save it as a .png or .jpg and call it good. However these sorts of images do not provide a great deal of resolution and do not look clean in a published paper. Especially when dealing with screenshots as the resolution is not very high — at least in my experince. I could print the web page to PDF but a post-script style PDF would basically create an image and wrap it in a PDF. This is not really any better than the screenshot solution.&lt;/p&gt;
-&lt;p&gt;With a quick internet search I uncovered two potential solutions: 
+      <description>&lt;p&gt;In the course of writing a paper I needed to take screen shots of webpages and include those as figures in the paper. I could take a screenshot save it as a .png or .jpg and call it good. However these sorts of images do not provide a great deal of resolution and do not look clean in a published paper. Especially when dealing with screenshots as the resolution is not very high — at least in my experience. I could print the web page to PDF but a post-script style PDF would basically create an image and wrap it in a PDF. This is not really any better than the screenshot solution.&lt;/p&gt;
+&lt;p&gt;With a quick internet search I discovered two potential solutions: 
 &lt;a href=&#34;https://wkhtmltopdf.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;wkhtmltopdf&lt;/a&gt; and 
-&lt;a href=&#34;http://cssbox.sourceforge.net/webvector/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;WebVector/CSSBox&lt;/a&gt;. I decided to try out &lt;code&gt;wkhtmltopdf&lt;/code&gt;. It was simple and easy to install on linux. It produces great resutls with a bit of tinkering (
+&lt;a href=&#34;http://cssbox.sourceforge.net/webvector/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;WebVector/CSSBox&lt;/a&gt;. I decided to try out &lt;code&gt;wkhtmltopdf&lt;/code&gt;. It was simple and easy to install on Linux. It produces great results with a bit of tinkering (
 &lt;a href=&#34;https://wkhtmltopdf.org/usage/wkhtmltopdf.txt&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;manual here&lt;/a&gt;). Though it should be noted that &lt;code&gt;wkhtmltopdf&lt;/code&gt; is based on webkit which has mostly not seen progressive development. I also tried WebVector (specifically on the website Pangloss) and it did not produce expected results.&lt;/p&gt;
 &lt;p&gt;Playing around with wkhtmltopdf I was able to produce a PDF of several webpages I was looking to include. I used the following workflow after install:&lt;/p&gt;
 &lt;p&gt;I adjusted my screen size to fit the type of display I wanted. Then I measured it via 
@@ -33472,12 +33472,13 @@ In the end the code I used looked like this:&lt;/p&gt;
 &lt;p&gt;&lt;code&gt;wkhtmltopdf --no-print-media-type --viewport-size 1100 --page-height 6.25in --page-width 7.75in -T 1mm -B 1mm -R 1mm -L 1mm --load-media-error-handling skip --enable-javascript --javascript-delay 2000 https://www.sil.org/resources/archives/52216 sil-item.pdf&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;&lt;code&gt;wkhtmltopdf --no-print-media-type --viewport-size 1100 --page-height 8in --page-width 7.75in -T 1mm -B 1mm -R 1mm -L 1mm --load-media-error-handling skip --enable-javascript --javascript-delay 2000 https://scholarspace.manoa.hawaii.edu/handle/10125/30788 K-item.pdf&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;&lt;code&gt;wkhtmltopdf --no-print-media-type --viewport-size 1100 --page-height 8.75in --page-width 7in -T 1mm -B 1mm -R 1mm -L 1mm --load-media-error-handling skip --enable-javascript --javascript-delay 2000 http://www.language-archives.org/item/oai:sil.org:52216 olac-item1.pdf&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;This produced a nice PDF. But I needed to get rid of the second page. I did this with PDF-Shuffler and just deleted the second page.
-I wanted to include the final PDF in XLingPaper which uses XeLaTeX on the back end. However one of the current dependencies only allows PDFs of version 1.4 or older. So I had to &amp;ldquo;back version&amp;rdquo; the PDF version to 1.4. I the following code (adjustin for file names) to do that.&lt;/p&gt;
+&lt;p&gt;This produced a nice PDF. But I needed to get rid of the second page. I did this with 
+&lt;a href=&#34;https://sourceforge.net/projects/pdfshuffler&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF-Shuffler&lt;/a&gt; and just deleted the second page.
+I wanted to include the final PDF in XLingPaper which uses XeLaTeX on the back end. However one of XLingPaper&amp;rsquo;s current dependencies only allows PDFs of version 1.4 or older. So I had to &amp;ldquo;back version&amp;rdquo; the PDF version to 1.4. I the following code (adjusting for file names) to do that.&lt;/p&gt;
 &lt;p&gt;&lt;code&gt;gs -q -sDEVICE=pdfwrite -dCompatibilityLevel=1.4 -o out.pdf in.pdf&lt;/code&gt; &lt;!-- https://superuser.com/questions/25598/linux-pdf-version-converter --&gt;
-My suspicion though is that passing the PDF through GhostSript also removes some of the mark-up features which already exist in the PDF via &lt;code&gt;wkhtmltopdf&lt;/code&gt;. This may include some of the links and embedded fonts — but on this last point I am not 100 percent sure.&lt;/p&gt;
-&lt;p&gt;In an earlier version of this workflow I was using standard size pages (A4, A3, etc.). Doing so required that I then cut the PDF so that the usable portion was able to usefully be scaled in xlingpaper. To do this I used 
-&lt;a href=&#34;https://pdfresizer.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;pdfresizer.com&lt;/a&gt; to reduce the physical dimensions of pdf paes. However this was not necessary to maintain because I was able to specify the dimentions I needed directly in &lt;code&gt;wkhtmltopdf&lt;/code&gt;.&lt;/p&gt;
+My suspicion though is that passing the PDF through GhostScript also removes some of the mark-up features which already exist in the PDF via &lt;code&gt;wkhtmltopdf&lt;/code&gt;. This may include some of the links and embedded fonts — but on this last point I am not 100 percent sure.&lt;/p&gt;
+&lt;p&gt;In an earlier version of this workflow I was using standard size pages (A4, A3, etc.). Doing so required that I then cut the PDF so that the usable portion was able to usefully be scaled in XLingPaper. To do this I used 
+&lt;a href=&#34;https://pdfresizer.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;pdfresizer.com&lt;/a&gt; to reduce the physical dimensions of pdf pages. However this was not necessary to maintain because I was able to specify the dimensions I needed directly in &lt;code&gt;wkhtmltopdf&lt;/code&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -38770,7 +38771,7 @@ Chopping Apples. --&gt;
 
 &lt;/div&gt;
 &lt;h2 id=&#34;toys-games-and-play-things&#34;&gt;Toys, Games, and Play-things&lt;/h2&gt;
-&lt;p&gt;My favorite things to make are small fun filling objects. My first &amp;ldquo;big&amp;rdquo; project was the chess set in 9th grade. My dad made me a truck for my second Christmas, I made my daughter a truck for her second Christmas. An unfinished dice box. And a box for our hand holds for the climbing wall. I repaired a broken dice box made out of walnut for my brother. And then I made my own dice box with a black and red stripes out of felt. After moving back to the USA from France, I built knot boards for my kids to learn knots in the car on the drive across the USA.&lt;/p&gt;
+&lt;p&gt;My favorite things to make are small fun filling objects. My first &amp;ldquo;big&amp;rdquo; project was the chess set in 9th grade. My dad made me a truck for my second Christmas, I made my daughter a truck for her second Christmas. An unfinished dice box. And a box for our hand holds for the climbing wall. I repaired a broken dice box made out of walnut for my brother. And then I made my own dice box with a black and red stripes out of felt. After moving back to the USA from France, I built knot boards for my kids to learn knots in the car on the drive across the USA. From time to time I need to repair the Brio train tracks.s&lt;/p&gt;
 
 
 
@@ -38954,6 +38955,28 @@ Chopping Apples. --&gt;
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Toys/RenderedImage2_huc181d9fecfaafc5ba3a180f00b60348e_987959_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
+    
+    
+    
+    
+    
+      
+    
+  &lt;a data-fancybox=&#34;gallery-Toys&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Toys/photo_2024-03-24_21-04-27.jpg&#34; &gt;
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Toys/photo_2024-03-24_21-04-27_huf905107ddfd3e29ce9dd1bc60c5ee0cb_245077_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;143&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+    
+  &lt;a data-fancybox=&#34;gallery-Toys&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Toys/photo_2024-03-24_21-47-51.jpg&#34; &gt;
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Toys/photo_2024-03-24_21-47-51_hu5776071dacac9192450add9c8b5bcbe1_219979_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;143&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
 
   
 &lt;/div&gt;
@@ -38962,7 +38985,7 @@ Chopping Apples. --&gt;
 &lt;a href=&#34;https://www.wood-database.com/bulletwood&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bullet wood&lt;/a&gt;, 
 &lt;a href=&#34;https://www.wood-database.com/red-oak&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Red Oak&lt;/a&gt;, and 
 &lt;a href=&#34;https://www.wood-database.com/burma-padauk&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Padauk&lt;/a&gt;) and hand holds (
-&lt;a href=&#34;https://www.wood-database.com/bigleaf-maple&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Big Leaf Maple&lt;/a&gt;). At three and a half we started climbing on basalt columns.&lt;/p&gt;
+&lt;a href=&#34;https://www.wood-database.com/bigleaf-maple&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Big Leaf Maple&lt;/a&gt;). At age three and a half we started climbing on basalt columns.&lt;/p&gt;
 
 
 
@@ -39116,6 +39139,107 @@ Chopping Apples. --&gt;
 
   
 &lt;/div&gt;
+&lt;h2 id=&#34;climbing-wall-2&#34;&gt;Climbing Wall 2&lt;/h2&gt;
+&lt;p&gt;In 2021 I built a 10 foot high wall for my nephews in their garage.&lt;/p&gt;
+
+
+
+
+
+
+
+
+  
+  
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+
+  
+  
+  
+  
+    
+    
+    
+    
+    
+      
+    
+  &lt;a data-fancybox=&#34;gallery-Climbing-Wall-2&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Climbing-Wall-2/photo_2024-03-24_21-41-31.jpg&#34; &gt;
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Climbing-Wall-2/photo_2024-03-24_21-41-31_hu46407f7d858a0b692ae959bcb9bfd15a_283814_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;143&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+
+  
+&lt;/div&gt;
+&lt;h2 id=&#34;climbing-wall-3&#34;&gt;Climbing Wall 3&lt;/h2&gt;
+&lt;p&gt;In 2022 I built a seven foot high wall for my daughter to climb on from Birch and Western Maple.&lt;/p&gt;
+
+
+
+
+
+
+
+
+  
+  
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+
+  
+  
+  
+  
+    
+    
+    
+    
+    
+      
+    
+  &lt;a data-fancybox=&#34;gallery-Climbing-Wall-3&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Climbing-Wall-3/photo_2024-03-24_21-02-07.jpg&#34; &gt;
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Climbing-Wall-3/photo_2024-03-24_21-02-07_hud88ef3530e141f96178eb25ecff298ed_234473_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+    
+  &lt;a data-fancybox=&#34;gallery-Climbing-Wall-3&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Climbing-Wall-3/photo_2024-03-24_21-03-02.jpg&#34; &gt;
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Climbing-Wall-3/photo_2024-03-24_21-03-02_huf07d271fc632591e2455e708ad6a5037_174236_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;338&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+    
+  &lt;a data-fancybox=&#34;gallery-Climbing-Wall-3&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Climbing-Wall-3/photo_2024-03-24_21-04-27.jpg&#34; &gt;
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Climbing-Wall-3/photo_2024-03-24_21-04-27_hu956a09139046906586e46c3a1a934fbc_231090_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+    
+  &lt;a data-fancybox=&#34;gallery-Climbing-Wall-3&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Climbing-Wall-3/photo_2024-03-24_21-31-31.jpg&#34; &gt;
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Climbing-Wall-3/photo_2024-03-24_21-31-31_hu33ec11e1624257fc25e2af9ab7ebd623_256304_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+
+  
+&lt;/div&gt;
 &lt;h2 id=&#34;decks-floors-fences-and-garden-features&#34;&gt;Decks, Floors, Fences and Garden Features&lt;/h2&gt;
 &lt;p&gt;Cedar deck. Later a Red Wood planter was added (circa 2015). Hickory engineered hardwood flooring. A metal and wood fence (2019).
 
@@ -39233,6 +39357,17 @@ Chopping Apples. --&gt;
     
   &lt;a data-fancybox=&#34;gallery-Decks&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Decks/IMG_0272.jpg&#34; &gt;
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Decks/IMG_0272_hu17476ee0cf693f516e0b06efc4920aaf_3782222_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+    
+  &lt;a data-fancybox=&#34;gallery-Decks&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Decks/photo_2024-03-24_21-48-00.jpg&#34; &gt;
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Decks/photo_2024-03-24_21-48-00_hu9d88f9c4f1a51c7bcd1a1b99c00c5f2b_237088_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
 
@@ -41077,7 +41212,7 @@ Chopping Apples. --&gt;
     </item>
     
     <item>
-      <title>Copyright and the distributed lexicon</title>
+      <title>Copyright and the Distributed Lexicon</title>
       <link>https://hughandbecky.us/Hugh-CV/talk/2019-copyright-and-the-distributed-lexicon/</link>
       <pubDate>Sun, 03 Mar 2019 00:00:00 +1100</pubDate>
       <guid>https://hughandbecky.us/Hugh-CV/talk/2019-copyright-and-the-distributed-lexicon/</guid>
@@ -47694,7 +47829,7 @@ Because there is a footer on the web-page with a CC license, is the website user
     </item>
     
     <item>
-      <title>Legal concepts in linguistics, Language Documentation &amp; Language Development</title>
+      <title>Legal Concepts in Linguistics, Language Documentation &amp; Language Development</title>
       <link>https://hughandbecky.us/Hugh-CV/project/2017-legal-issues-in-linguistics/</link>
       <pubDate>Sat, 18 Feb 2017 00:00:00 +0000</pubDate>
       <guid>https://hughandbecky.us/Hugh-CV/project/2017-legal-issues-in-linguistics/</guid>
