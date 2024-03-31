@@ -5,12 +5,73 @@
     <link>https://hughandbecky.us/Hugh-CV/tag/tex/</link>
       <atom:link href="https://hughandbecky.us/Hugh-CV/tag/tex/index.xml" rel="self" type="application/rss+xml" />
     <description>TeX</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2024</copyright><lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2024</copyright><lastBuildDate>Thu, 12 Jan 2023 14:35:45 +0100</lastBuildDate>
     <image>
       <url>https://hughandbecky.us/Hugh-CV/media/HughPaterson.jpg</url>
       <title>TeX</title>
       <link>https://hughandbecky.us/Hugh-CV/tag/tex/</link>
     </image>
+    
+    <item>
+      <title>Typesetting Code in TeX with Minted</title>
+      <link>https://hughandbecky.us/Hugh-CV/post/typesetting-xml-in-latex/</link>
+      <pubDate>Thu, 12 Jan 2023 14:35:45 +0100</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/post/typesetting-xml-in-latex/</guid>
+      <description>&lt;p&gt;When I wrote my M.A. Thesis I needed to typeset some code. I used XLingPaper for my Thesis. It is a tool that stores the content in XML and then processes the content down to TeX for processing into PDF. Because of its XML basis and focus only on Linguistic examples rather than code examples, I needed to process the code I wanted to display as a seperate PDF and then include the PDF within the master PDF as an image. I was very intrigued by ways to typeset code directly in TeX. My go-to method now includes using a package called 
+&lt;a href=&#34;https://ctan.org/pkg/minted?lang=en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Minted&lt;/a&gt;. As with most packages of good repute 
+&lt;a href=&#34;https://www.overleaf.com/learn/latex/Code_Highlighting_with_minted&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Overleaf has a quick introduction&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;For one of my projects I wanted to test line wrapping within the illustrated code. So in the minted package I tested these two options invoked as 
+&lt;a href=&#34;https://tex.stackexchange.com/questions/251321/break-lines-at-any-character-in-minted&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;suggested via stackexchange&lt;/a&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;breaksymbolleft=\carriagereturn&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;breakanywhere&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;In my opinion, for my use-case the &lt;code&gt;breakanyware&lt;/code&gt; method is much nicer than when not invoked and the carriagereturn helpfully indicates to the reader that the line continues. Often code would wrap in wierd places otherwise. Notice how line 8 and 9 are different in the following images.&lt;/p&gt;
+
+
+
+  
+  
+  
+
+&lt;figure id=&#34;figure-illustrating-code-wrapping-with-default-settings&#34;itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/typesetting-xml-in-latex/breakanywhere_hu4292d48c10720a5377b3b9b515b836d9_27464_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Illustrating code wrapping with default settings.&#34;&gt;
+
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/typesetting-xml-in-latex/breakanywhere_hu4292d48c10720a5377b3b9b515b836d9_27464_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;Illustrating code wrapping with default settings.&#34; width=&#34;1001&#34; height=&#34;114&#34; itemprop=&#34;contentUrl&#34;&gt;
+&lt;/a&gt;
+  
+  &lt;figcaption&gt;
+    &lt;p&gt;Illustrating code wrapping with default settings.
+      
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
+        &lt;meta itemprop=&#34;name&#34; content=&#34;Hugh Paterson III&#34; /&gt;
+      &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+  &lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+
+  
+  
+  
+
+&lt;figure id=&#34;figure-a-much-nicer-and-readable-line-wrapping&#34;itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/typesetting-xml-in-latex/Automatic-lineWrapping_hu0a8122a4b7dc9c012d8345cd73fae91b_61905_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;A much nicer and readable line wrapping.&#34;&gt;
+
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/post/typesetting-xml-in-latex/Automatic-lineWrapping_hu0a8122a4b7dc9c012d8345cd73fae91b_61905_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;IA much nicer and readable line wrapping.&#34; width=&#34;1074&#34; height=&#34;225&#34; itemprop=&#34;contentUrl&#34;&gt;
+&lt;/a&gt;
+  
+  &lt;figcaption&gt;
+    &lt;p&gt;A much nicer and readable line wrapping.
+      
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
+        &lt;meta itemprop=&#34;name&#34; content=&#34;Hugh Paterson III&#34; /&gt;
+      &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+  &lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p&gt;I also tried the XLingPaper approach of adding a zerowidth space where I wanted TeX to allow breaks in code chunks but it seems latex does not like that character. So the workaround is to use an expansion or direct &lt;code&gt;\hspace 0pt&lt;/code&gt; type of contstruct but because the application of this typesetting procedure is code LaTeX treates it as verbatum (shows it as code) and therefore it doesn&amp;rsquo;t work.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>XLingPaper</title>

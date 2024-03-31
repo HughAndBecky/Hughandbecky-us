@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Purple Heart | Hugh&#39;s Curriculum Vitae</title>
+    <title>Purpleheart | Hugh&#39;s Curriculum Vitae</title>
     <link>https://hughandbecky.us/Hugh-CV/woods/purple-heart/</link>
       <atom:link href="https://hughandbecky.us/Hugh-CV/woods/purple-heart/index.xml" rel="self" type="application/rss+xml" />
-    <description>Purple Heart</description>
+    <description>Purpleheart</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2024</copyright><lastBuildDate>Wed, 05 Apr 2023 14:35:45 +0100</lastBuildDate>
     <image>
       <url>https://hughandbecky.us/Hugh-CV/media/HughPaterson.jpg</url>
-      <title>Purple Heart</title>
+      <title>Purpleheart</title>
       <link>https://hughandbecky.us/Hugh-CV/woods/purple-heart/</link>
     </image>
     
@@ -33,6 +33,14 @@
       <link>https://hughandbecky.us/Hugh-CV/boards/aab-007/</link>
       <pubDate>Wed, 05 Apr 2023 14:35:45 +0100</pubDate>
       <guid>https://hughandbecky.us/Hugh-CV/boards/aab-007/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AAB-010</title>
+      <link>https://hughandbecky.us/Hugh-CV/boards/aab-010/</link>
+      <pubDate>Wed, 05 Apr 2023 14:35:45 +0100</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/boards/aab-010/</guid>
       <description></description>
     </item>
     
