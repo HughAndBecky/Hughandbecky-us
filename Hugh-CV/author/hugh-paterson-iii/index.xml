@@ -4340,6 +4340,38 @@ Wenige, L., &amp; Ruhland, J. (2018). Retrieval by recommendation: Using LOD tec
     </item>
     
     <item>
+      <title>AAB-006</title>
+      <link>https://hughandbecky.us/Hugh-CV/boards/aab-006/</link>
+      <pubDate>Wed, 05 Apr 2023 14:35:45 +0100</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/boards/aab-006/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AAB-007</title>
+      <link>https://hughandbecky.us/Hugh-CV/boards/aab-007/</link>
+      <pubDate>Wed, 05 Apr 2023 14:35:45 +0100</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/boards/aab-007/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AAB-008</title>
+      <link>https://hughandbecky.us/Hugh-CV/boards/aab-008/</link>
+      <pubDate>Wed, 05 Apr 2023 14:35:45 +0100</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/boards/aab-008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AAB-009</title>
+      <link>https://hughandbecky.us/Hugh-CV/boards/aab-009/</link>
+      <pubDate>Wed, 05 Apr 2023 14:35:45 +0100</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/boards/aab-009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>An Analysis of Crubadan OLAC Records</title>
       <link>https://hughandbecky.us/Hugh-CV/post/crubadan-olac-records/</link>
       <pubDate>Tue, 04 Apr 2023 14:35:45 +0100</pubDate>
@@ -7475,6 +7507,22 @@ Greetings,
 &lt;p&gt;A new display of these vocabularies ought to be multi-lingual and driven from a .json-LD .ttl or RDF file.&lt;/p&gt;
 &lt;p&gt;For reference on the discussion of translations see: &lt;a href=&#34;https://listserv.linguistlist.org/pipermail/olac-implementers/2003-November/000242.html&#34;&gt;https://listserv.linguistlist.org/pipermail/olac-implementers/2003-November/000242.html&lt;/a&gt;&lt;/p&gt;
 &lt;!-- I should look at how LRMI and DOAP are doing translations --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Git URL Change</title>
+      <link>https://hughandbecky.us/Hugh-CV/post/git-url-change/</link>
+      <pubDate>Wed, 23 Nov 2022 14:35:45 +0100</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/post/git-url-change/</guid>
+      <description>&lt;p&gt;From time to time I download something via HTTPS and then need to push it back via SSH. This note reminds me that I&amp;rsquo;ve done this task before even though I need to look it up again. The full instrctions for setting the remote relationship is in the 
+&lt;a href=&#34;https://git-scm.com/docs/git-remote&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;git documentation&lt;/a&gt;.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Open Terminal .&lt;/li&gt;
+&lt;li&gt;Change the current working directory to your local project.&lt;/li&gt;
+&lt;li&gt;Change your remote&amp;rsquo;s URL from HTTPS to SSH with the git remote set-url command.  &lt;code&gt;$ git remote set-url origin git@github.com:USERNAME/REPOSITORY.git.&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Verify that the remote URL has changed. &lt;code&gt;$ git remote -v&lt;/code&gt;&lt;/li&gt;
+&lt;/ol&gt;
 </description>
     </item>
     
@@ -30742,6 +30790,39 @@ Chopping Apples. --&gt;
   &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Climbing-Wall-2/photo_2024-03-24_21-41-31_hu46407f7d858a0b692ae959bcb9bfd15a_283814_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;143&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
+    
+    
+    
+    
+    
+      
+    
+  &lt;a data-fancybox=&#34;gallery-Climbing-Wall-2&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Climbing-Wall-2/photo_2024-03-24_22-38-31.jpg&#34; &gt;
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Climbing-Wall-2/photo_2024-03-24_22-38-31_hu88a4da39e85d162f14ef890f8f9b0481_190300_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;107&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+    
+  &lt;a data-fancybox=&#34;gallery-Climbing-Wall-2&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Climbing-Wall-2/photo_2024-03-24_22-38-42.jpg&#34; &gt;
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Climbing-Wall-2/photo_2024-03-24_22-38-42_hu6ca460e1e1fca778265f9b6393878324_228590_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;338&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+    
+  &lt;a data-fancybox=&#34;gallery-Climbing-Wall-2&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Climbing-Wall-2/photo_2024-03-24_23-00-24.jpg&#34; &gt;
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/art/woodworking/Climbing-Wall-2/photo_2024-03-24_23-00-24_huf73ac6e538ec70063d0c27ba12f3058f_226406_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
 
   
 &lt;/div&gt;
@@ -42244,6 +42325,35 @@ I worked with IT staff to produce an automated reporting mechanism to track team
 &lt;p&gt;This means implementing the 
 &lt;a href=&#34;https://www.openarchives.org/pmh/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OAI-PMH protocol&lt;/a&gt; so that OLAC can harvest it.
 I am not sure how this is done exactly… but here is the link: &lt;a href=&#34;http://www.language-archives.org/&#34;&gt;http://www.language-archives.org/&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Some Geo-Linguistic Resources</title>
+      <link>https://hughandbecky.us/Hugh-CV/post/some-geo-linguistic-resources/</link>
+      <pubDate>Thu, 26 Jan 2012 01:41:38 -0700</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/post/some-geo-linguistic-resources/</guid>
+      <description>&lt;p&gt;SIL is well known for its language maps. Publicized and integrated with the Ethnologue. Here are some other projects or collections in Geo-linguistics.&lt;/p&gt;
+&lt;h2 id=&#34;languagelinguistic-gis-projects&#34;&gt;Language/Linguistic GIS Projects&lt;/h2&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://web.archive.org/web/20191205225808/http://www.llmap.org/map/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.llmap.org&lt;/a&gt; was a ERSI based plotting of language regions and dialects from various linguistic maps take from the literature. These maps images were then plotted over geographical space. Currently what remains is available 
+&lt;a href=&#34;https://github.com/linguistlist/LL-MAP&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;via GitHub&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;An index of language Atlases 
+&lt;a href=&#34;https://nanopdf.com/download/verzeichnis-der-atlanten_pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.uni-marburg.de/fb09/dsa/mitarbeiter/lameli/atlanten.pdf&lt;/a&gt; by Prof. Dr. 
+&lt;a href=&#34;https://www.uni-marburg.de/de/fb09/dsa/einrichtung/personen/lameli&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Alfred Lameli&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The book (and series 
+&lt;a href=&#34;https://www.degruyter.com/document/doi/10.1515/9783110219166/html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Volume 2 Language Mapping&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Using ERSI from GMI &lt;a href=&#34;http://langscape.umd.edu&#34;&gt;http://langscape.umd.edu&lt;/a&gt; My understanding is that they were violating the license from GMI and so SIL, who was the author of the GMI content, and then assumed GMI assets when the organization folded, asked that they comply with the license.&lt;/p&gt;
+&lt;h2 id=&#34;other-digitalweb-based-mapping-projects-beyond-sil&#34;&gt;Other Digital/Web-based Mapping Projects beyond SIL&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;http://maps.stamen.com/#toner/12/37.7706/-122.3782&#34;&gt;http://maps.stamen.com/#toner/12/37.7706/-122.3782&lt;/a&gt; A set of really nice looking tiles.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://lingvarium.org&#34;&gt;http://lingvarium.org&lt;/a&gt; A website of Geo-linguistic intrigue.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://lingvarium.org/koryakov/index.shtml&#34;&gt;http://lingvarium.org/koryakov/index.shtml&lt;/a&gt; Maps of areas within the former USSR/Russia.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://iling-ran.ru/beta/about_en&#34;&gt;http://iling-ran.ru/beta/about_en&lt;/a&gt; and 
+&lt;a href=&#34;https://web.archive.org/web/20111209210508/http://iling-ran.ru/beta/about_en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;historically&lt;/a&gt; has information about language atlases.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://web.archive.org/web/20180222090000/http://mlm.humanities.manchester.ac.uk/maps.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://mlm.humanities.manchester.ac.uk/maps.html&lt;/a&gt; has a variety of language maps for the UK.&lt;/p&gt;
+&lt;p&gt;Maps of language communities in the 
+&lt;a href=&#34;https://web.archive.org/web/20140326065614/https://joshberer.wordpress.com/maps/middle-east/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Middle East&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     

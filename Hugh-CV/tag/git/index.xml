@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>git | Hugh&#39;s Curriculum Vitae</title>
+    <link>https://hughandbecky.us/Hugh-CV/tag/git/</link>
+      <atom:link href="https://hughandbecky.us/Hugh-CV/tag/git/index.xml" rel="self" type="application/rss+xml" />
+    <description>git</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2024</copyright><lastBuildDate>Wed, 23 Nov 2022 14:35:45 +0100</lastBuildDate>
+    <image>
+      <url>https://hughandbecky.us/Hugh-CV/media/HughPaterson.jpg</url>
+      <title>git</title>
+      <link>https://hughandbecky.us/Hugh-CV/tag/git/</link>
+    </image>
+    
+    <item>
+      <title>Git URL Change</title>
+      <link>https://hughandbecky.us/Hugh-CV/post/git-url-change/</link>
+      <pubDate>Wed, 23 Nov 2022 14:35:45 +0100</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/post/git-url-change/</guid>
+      <description>&lt;p&gt;From time to time I download something via HTTPS and then need to push it back via SSH. This note reminds me that I&amp;rsquo;ve done this task before even though I need to look it up again. The full instrctions for setting the remote relationship is in the 
+&lt;a href=&#34;https://git-scm.com/docs/git-remote&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;git documentation&lt;/a&gt;.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Open Terminal .&lt;/li&gt;
+&lt;li&gt;Change the current working directory to your local project.&lt;/li&gt;
+&lt;li&gt;Change your remote&amp;rsquo;s URL from HTTPS to SSH with the git remote set-url command.  &lt;code&gt;$ git remote set-url origin git@github.com:USERNAME/REPOSITORY.git.&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Verify that the remote URL has changed. &lt;code&gt;$ git remote -v&lt;/code&gt;&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
