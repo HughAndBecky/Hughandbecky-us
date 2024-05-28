@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categorization | Hugh&#39;s Curriculum Vitae</title>
+    <link>https://hughandbecky.us/Hugh-CV/tag/categorization/</link>
+      <atom:link href="https://hughandbecky.us/Hugh-CV/tag/categorization/index.xml" rel="self" type="application/rss+xml" />
+    <description>Categorization</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2024</copyright><lastBuildDate>Tue, 28 May 2024 14:35:45 -0700</lastBuildDate>
+    <image>
+      <url>https://hughandbecky.us/Hugh-CV/media/HughPaterson.jpg</url>
+      <title>Categorization</title>
+      <link>https://hughandbecky.us/Hugh-CV/tag/categorization/</link>
+    </image>
+    
+    <item>
+      <title>Publishing-Taxonomies-in-Information-Science</title>
+      <link>https://hughandbecky.us/Hugh-CV/post/publishing-taxonomies-in-information-science/</link>
+      <pubDate>Tue, 28 May 2024 14:35:45 -0700</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/post/publishing-taxonomies-in-information-science/</guid>
+      <description>&lt;p&gt;Several of my publications in Information Science have publisher-centric schemes for categorizing the topics of the would-be published work. I wonder if anyone has done a congurency or equivalency analysis of these publisher centeric schemes.&lt;/p&gt;
+&lt;p&gt;Several that I can think of right now are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The ALISE Research Taxonomy &lt;a href=&#34;https://www.alise.org/research-taxonomy-&#34;&gt;https://www.alise.org/research-taxonomy-&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;The IEEE Taxonomy &lt;a href=&#34;https://www.ieee.org/content/dam/ieee-org/ieee/web/org/pubs/ieee-taxonomy.pdf;&#34;&gt;https://www.ieee.org/content/dam/ieee-org/ieee/web/org/pubs/ieee-taxonomy.pdf;&lt;/a&gt; &lt;a href=&#34;https://www.ieee.org/publications/services/thesaurus-thank-you.html&#34;&gt;https://www.ieee.org/publications/services/thesaurus-thank-you.html&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;ACM Computing Classification System &lt;a href=&#34;https://dl.acm.org/ccs&#34;&gt;https://dl.acm.org/ccs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Library of Congress Subject Headings &lt;a href=&#34;https://id.loc.gov/authorities/subjects.html&#34;&gt;https://id.loc.gov/authorities/subjects.html&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
