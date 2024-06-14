@@ -1,4 +1,2 @@
-
-User-agent: *
-
-Sitemap: https://hughandbecky.us/Becky-CV/sitemap.xml
+User-agent: GPTBot
+Disallow: /
