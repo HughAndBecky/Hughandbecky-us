@@ -29,6 +29,109 @@
     </item>
     
     <item>
+      <title>Additional OLAC Collections</title>
+      <link>https://hughandbecky.us/Hugh-CV/post/additional-olac-collections/</link>
+      <pubDate>Wed, 15 May 2024 14:35:45 -0700</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/post/additional-olac-collections/</guid>
+      <description>&lt;p&gt;In 2022 I 
+&lt;a href=&#34;https://hughandbecky.us/Hugh-CV/publication/2022-where-have-all-the-collections-gone-analysis-of-olac-data-contributors-use-of-dcmitype-collection&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;published about the lack of DCMIType usage to indicate collection records within OLAC records&lt;/a&gt;. That publication didn&amp;rsquo;t look at the use of  &lt;code&gt;&amp;lt;dc:type&amp;gt;&amp;lt;/dc:type&amp;gt;&lt;/code&gt; in an unqualified way to indicate collections. The analysis of that original paper should be revisited, or amended in this light. Today I found a new-to-me and interesting method to discovering in a qantifiable way additional un-marked collection reocords. It seems that the OLAC provider from cocoon &lt;code&gt;crdo.vjf.cnrs.fr&lt;/code&gt; as not used the DCMIType declaration for collections but has used an undeclared type of &lt;code&gt;&amp;lt;dc:type&amp;gt;archives&amp;lt;/dc:type&amp;gt;&lt;/code&gt;. Archives are sets of artifacts and therefore meet the DCMIType definiition for collection. A quick search of the OLAC dataset &lt;code&gt;grep -i &#39;&amp;lt;dc:type&amp;gt;archives&amp;lt;/dc:type&amp;gt;&#39; ListRecords-20210718.xml | uniq -c&lt;/code&gt; indicates that there are 314 of these records. There were no records indicated for the terms &lt;em&gt;set&lt;/em&gt;, &lt;em&gt;collection&lt;/em&gt;, or &lt;em&gt;group&lt;/em&gt;. However, there were quite a few with the dc:type term &lt;em&gt;corpus&lt;/em&gt;&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;center&#34;&gt;Count&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;Type Value&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;1&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;dc:type&#34;&gt;dc:type&lt;/a&gt;Corpus Analysis , Shallow Generation&amp;lt;/dc:type&amp;gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;1&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;dc:type&#34;&gt;dc:type&lt;/a&gt;Corpus Analysis , Information Extraction , Processing Mark-Up Languages&amp;lt;/dc:type&amp;gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;1396&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;dc:type&#34;&gt;dc:type&lt;/a&gt;corpus&amp;lt;/dc:type&amp;gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;1280&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;dc:type&#34;&gt;dc:type&lt;/a&gt;Corpus&amp;lt;/dc:type&amp;gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;2&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;dc:type&#34;&gt;dc:type&lt;/a&gt;corpus&amp;lt;/dc:type&amp;gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;The following OLAC record exemplifies the use of &lt;code&gt;&amp;lt;dc:type&amp;gt;archives&amp;lt;/dc:type&amp;gt;&lt;/code&gt;.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;&amp;lt;record xmlns=&amp;quot;http://www.openarchives.org/OAI/2.0/&amp;quot;&amp;gt;
+	&amp;lt;header&amp;gt;
+		&amp;lt;identifier&amp;gt;oai:crdo.vjf.cnrs.fr:cocoon-aa28f80a-9f0b-3c3e-b636-a2b47570b0f4&amp;lt;/identifier&amp;gt;
+		&amp;lt;datestamp&amp;gt;2021-02-26&amp;lt;/datestamp&amp;gt;
+	&amp;lt;/header&amp;gt;
+	&amp;lt;metadata&amp;gt;
+		&amp;lt;olac:olac xmlns:dc=&amp;quot;http://purl.org/dc/elements/1.1/&amp;quot; xmlns:dcterms=&amp;quot;http://purl.org/dc/terms/&amp;quot; xmlns:olac=&amp;quot;http://www.language-archives.org/OLAC/1.1/&amp;quot; xmlns:xsi=&amp;quot;http://www.w3.org/2001/XMLSchema-instance&amp;quot; xsi:schemaLocation=&amp;quot;http://purl.org/dc/elements/1.1/ http://www.language-archives.org/OLAC/1.1/dc.xsd http://purl.org/dc/terms/ http://www.language-archives.org/OLAC/1.1/dcterms.xsd http://www.language-archives.org/OLAC/1.1/ http://www.language-archives.org/OLAC/1.1/olac.xsd&amp;quot;&amp;gt;
+			&amp;lt;dc:contributor olac:code=&amp;quot;compiler&amp;quot; xsi:type=&amp;quot;olac:role&amp;quot;&amp;gt;Philippe Stern (1895-1979)&amp;lt;/dc:contributor&amp;gt;
+			&amp;lt;dc:coverage&amp;gt;Congo (République)&amp;lt;/dc:coverage&amp;gt;
+			&amp;lt;dc:coverage&amp;gt;Afrique&amp;lt;/dc:coverage&amp;gt;
+			&amp;lt;dc:coverage&amp;gt;Afrique-Equatoriale française (1910-1958)&amp;lt;/dc:coverage&amp;gt;
+			&amp;lt;dc:coverage&amp;gt;Moyen-Congo (1906-1958)&amp;lt;/dc:coverage&amp;gt;
+			&amp;lt;dc:coverage&amp;gt;Congo&amp;lt;/dc:coverage&amp;gt;
+			&amp;lt;dc:coverage&amp;gt;1931&amp;lt;/dc:coverage&amp;gt;
+			&amp;lt;dcterms:spatial xsi:type=&amp;quot;dcterms:ISO3166&amp;quot;&amp;gt;FR&amp;lt;/dcterms:spatial&amp;gt;
+			&amp;lt;dcterms:spatial&amp;gt;France, Île-de-France, Paris&amp;lt;/dcterms:spatial&amp;gt;
+			&amp;lt;dcterms:spatial xsi:type=&amp;quot;dcterms:Point&amp;quot;&amp;gt;east=2.34444;north=48.86&amp;lt;/dcterms:spatial&amp;gt;
+			&amp;lt;dcterms:created xsi:type=&amp;quot;dcterms:W3CDTF&amp;quot;&amp;gt;1931-07-31&amp;lt;/dcterms:created&amp;gt;
+			&amp;lt;dcterms:available xsi:type=&amp;quot;dcterms:W3CDTF&amp;quot;&amp;gt;2018-09-05&amp;lt;/dcterms:available&amp;gt;
+			&amp;lt;dc:description&amp;gt;Enregistré en France&amp;lt;/dc:description&amp;gt;
+			&amp;lt;dc:description&amp;gt;Face B : chant responsorial entre un soliste et un choeur.&amp;lt;/dc:description&amp;gt;
+			&amp;lt;dc:description&amp;gt;Date et lieu d&#39;enregistrement restitués d&#39;après le carnet à souche recensant chaque session d&#39;enregistrement.&amp;lt;/dc:description&amp;gt;
+			&amp;lt;dc:format xsi:type=&amp;quot;dcterms:IMT&amp;quot;&amp;gt;audio/mpeg&amp;lt;/dc:format&amp;gt;
+			&amp;lt;dcterms:extent&amp;gt;PT02M57S&amp;lt;/dcterms:extent&amp;gt;
+			&amp;lt;dcterms:medium&amp;gt;1 disque : 78 t, aig. ; 25 cm&amp;lt;/dcterms:medium&amp;gt;
+			&amp;lt;dcterms:medium&amp;gt;disque pre-lp (= long play, pour disques 78 tours) : enregistrement electrique ; aiguille&amp;lt;/dcterms:medium&amp;gt;
+			&amp;lt;dc:identifier xsi:type=&amp;quot;dcterms:URI&amp;quot;&amp;gt;https://cocoon.huma-num.fr/exist/crdo/meta/cocoon-aa28f80a-9f0b-3c3e-b636-a2b47570b0f4&amp;lt;/dc:identifier&amp;gt;
+			&amp;lt;dc:identifier xsi:type=&amp;quot;dcterms:URI&amp;quot;&amp;gt;https://doi.org/10.34847/cocoon.aa28f80a-9f0b-3c3e-b636-a2b47570b0f4&amp;lt;/dc:identifier&amp;gt;
+			&amp;lt;dc:identifier&amp;gt;Cote BNF: FRBNF37928526&amp;lt;/dc:identifier&amp;gt;
+			&amp;lt;dc:identifier&amp;gt;Université de Paris-Musée de la parole et du geste. Numéro(s) de matrice: AP 3504, AP 3505&amp;lt;/dc:identifier&amp;gt;
+			&amp;lt;dc:identifier&amp;gt;Université de Paris-Musée de la parole et du geste. 3504 (n °de face), 3505 (n° de face)&amp;lt;/dc:identifier&amp;gt;
+			&amp;lt;dc:identifier xsi:type=&amp;quot;dcterms:URI&amp;quot;&amp;gt;https://cocoon.huma-num.fr/data/bnf/bpt6k128475d_f1.mp3&amp;lt;/dc:identifier&amp;gt;
+			&amp;lt;dc:identifier&amp;gt;Ancienne cote: crdo-cb379285269_f1&amp;lt;/dc:identifier&amp;gt;
+			&amp;lt;dc:language olac:code=&amp;quot;lin&amp;quot; xsi:type=&amp;quot;olac:language&amp;quot;&amp;gt;Lingala&amp;lt;/dc:language&amp;gt;
+			&amp;lt;dc:publisher&amp;gt;Musée de la parole et du geste&amp;lt;/dc:publisher&amp;gt;
+			&amp;lt;dc:relation xsi:type=&amp;quot;dcterms:URI&amp;quot;&amp;gt;oai:crdo.vjf.cnrs.fr:cocoon-e02da709-849b-3679-9f8d-cb4bd688e5b1&amp;lt;/dc:relation&amp;gt;
+			&amp;lt;dcterms:isPartOf xsi:type=&amp;quot;dcterms:URI&amp;quot;&amp;gt;oai:crdo.vjf.cnrs.fr:cocoon-7530d167-577f-35a0-932c-a3094726b2ec&amp;lt;/dcterms:isPartOf&amp;gt;
+			&amp;lt;dc:rights&amp;gt;Public domain&amp;lt;/dc:rights&amp;gt;
+			&amp;lt;dc:rights&amp;gt;Domaine public&amp;lt;/dc:rights&amp;gt;
+			&amp;lt;dcterms:accessRights&amp;gt;Freely accessible&amp;lt;/dcterms:accessRights&amp;gt;
+			&amp;lt;dcterms:license xsi:type=&amp;quot;dcterms:URI&amp;quot;&amp;gt;http://creativecommons.org/publicdomain/mark/1.0/&amp;lt;/dcterms:license&amp;gt;
+			&amp;lt;dc:source xsi:type=&amp;quot;dcterms:URI&amp;quot;&amp;gt;http://ark.bnf.fr/ark:/12148/cb379285269&amp;lt;/dc:source&amp;gt;
+			&amp;lt;dc:subject&amp;gt;Chants funèbres&amp;lt;/dc:subject&amp;gt;
+			&amp;lt;dc:subject&amp;gt;Guérisseurs&amp;lt;/dc:subject&amp;gt;
+			&amp;lt;dc:subject&amp;gt;Pluriarc, Musique de&amp;lt;/dc:subject&amp;gt;
+			&amp;lt;dc:subject olac:code=&amp;quot;lin&amp;quot; xsi:type=&amp;quot;olac:language&amp;quot;&amp;gt;Lingala&amp;lt;/dc:subject&amp;gt;
+			&amp;lt;dc:title&amp;gt;Okala : chant de funérailles / Mme Nio Niobi, chant solo de femme. Chant de sorcier : demande de guérison ; MM. Monbeza, Mahoukou et Kangoud, chant solo et choeur ; accompagnement de pluriarc. Face 1&amp;lt;/dc:title&amp;gt;
+			&amp;lt;dcterms:alternative&amp;gt;Traditions, Afrique, Afrique-Equatoriale française (1910-1958), Moyen-Congo (1906-1958), Congo, 1931&amp;lt;/dcterms:alternative&amp;gt;
+			&amp;lt;dc:type xsi:type=&amp;quot;dcterms:DCMIType&amp;quot;&amp;gt;Sound&amp;lt;/dc:type&amp;gt;
+			&amp;lt;dc:type&amp;gt;Traditions&amp;lt;/dc:type&amp;gt;
+			&amp;lt;dc:type&amp;gt;Chansons&amp;lt;/dc:type&amp;gt;
+			&amp;lt;dc:type olac:code=&amp;quot;singing&amp;quot; xsi:type=&amp;quot;olac:discourse-type&amp;quot;/&amp;gt;
+			&amp;lt;dc:type&amp;gt;chanson d&#39;autres langues&amp;lt;/dc:type&amp;gt;
+			&amp;lt;dc:type&amp;gt;musique traditionnelle étrangère&amp;lt;/dc:type&amp;gt;
+			&amp;lt;dc:type&amp;gt;musiques traditionnelles&amp;lt;/dc:type&amp;gt;
+			&amp;lt;dc:type&amp;gt;archives&amp;lt;/dc:type&amp;gt;
+			&amp;lt;dcterms:provenance&amp;gt;Fonds du Musée de la parole et du geste (Exposition coloniale internationale 1931)&amp;lt;/dcterms:provenance&amp;gt;
+		&amp;lt;/olac:olac&amp;gt;
+	&amp;lt;/metadata&amp;gt;
+&amp;lt;/record&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;A second point of interest might be to look at the usage of the tableOfContents element usage especially by PARADISEC, as a taset indication of a collection record.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Reflections on Writing</title>
       <link>https://hughandbecky.us/Hugh-CV/post/reflections-on-writing/</link>
       <pubDate>Wed, 15 May 2024 14:35:45 -0700</pubDate>
@@ -40,15 +143,16 @@
 &lt;li&gt;My undergraduate philosophy professor taught me an outline with points, counterpoints and counter-counterpoints. As an undergrad I appreciated this, but it wasn’t enough to build a great paper. I still needed a greater understanding of the whole picture of a “good composition”.&lt;/li&gt;
 &lt;li&gt;Cindy Parker told me I needed a proofreader. I do. It wasn’t until my second graduate degree that I was able to form a relationship with someone who volunteered to read my writing and offer suggestions. Now that person is a crucial part of my writing process.&lt;/li&gt;
 &lt;li&gt;Ken Olson taught me to lay hands on everything I reference and cite. He also pointedly told me to reference everything in the literature. I shouldn’t let my prejudice or theoretical persuasion preclude an investigation-of or desire-to reference some work.&lt;/li&gt;
+&lt;li&gt;Steven Paker, a UMass-Amherst graduate, boldly proclaimed in his class that if one didn&amp;rsquo;t agree with what was in the literature, one should publish against it. That is, be bold in one&amp;rsquo;s writing. Be oppositional! Call others out and show them with data why their suggestions have limits in their applications. Of course his area of research was optimality theory, specifically phonology, but the advice remained relevant more broadly.&lt;/li&gt;
 &lt;li&gt;Stephen Marlett taught me that my bibliography and references section is a social and political statement. It is a piece of social negotiation and pragmatics. It is the evidence of allegiances.&lt;/li&gt;
 &lt;li&gt;Gary Simons taught me that you can write a paper which just points out a problem, however, one should write a paper, and the better paper, is one that presents a solution to a problem. It is one thing to attack. It’s another thing to replace.&lt;/li&gt;
 &lt;li&gt;Michael Ahland taught me the five-point outline. Prior to working with Michael I wasn’t sure what the parts were or how to assess the “whole” of a written work.&lt;/li&gt;
 &lt;li&gt;Diana Weber told me I didn’t read like other people read. This helped me better understand how I engage with text, composition, and opened me up to the possibility that others experience my composition in ways different from me.&lt;/li&gt;
 &lt;li&gt;Doris Payne taught me to define all my terms and critically consider what I accept as evidence. Defining my terms is not something that brings clarity to me, but rather brings clarity to my reader.&lt;/li&gt;
 &lt;li&gt;Keith Snider harped on removing unnecessary nominalizations and preposition phrases. Occasionally, I oblige. Long germanic relative clauses are still with me.&lt;/li&gt;
-&lt;li&gt;Andy Black challenged me in the tools I chose to use to compose and write. Now I use GoogleDocs to get short thoughts out fast with a wide blank page-like background. When needed, I then process them into LaTeX for formal publication or Markdown for storage or blogs. GoogleDocs also allows fast synchronous or asynchronous editing. I stay away from all forms of Microsoft products. Fonts have a big impact on my ability to read as I type. With the wrong font I can not compose as fast. Many times I find myself sketchnoting with an A5 size, unlined notebook and a 3B leaded pencil. Sketchnoting allows me to switch from outlining to drawing to graphing with ease. I bring these images into Figma for professional SVG creation. The outlines become the main points in my more developed writings. Andy’s tool XLingPaper was instrumental in allowing me to focus on specific portions of my text and also stick to and simultaneously stick to an outline format. I have come to learn that good writing sometimes means meta-writing. Or at least meta-outlining. It is where one writes the outline, the things to discuss, and then the reason why it is there.&lt;/li&gt;
+&lt;li&gt;Andy Black challenged me in the tools I chose to use to compose and write. Now I use GoogleDocs to get short thoughts out fast with a wide blank page-like background. When needed, I then process them into LaTeX for formal publication or Markdown for storage or blogs. GoogleDocs also allows fast synchronous or asynchronous editing. I stay away from all forms of Microsoft products. Fonts have a big impact on my ability to read as I type. With the wrong font I can not compose as fast. Many times I find myself sketchnoting with an A5 size, unlined notebook and a 3B leaded pencil. Sketchnoting allows me to switch from outlining to drawing to graphing with ease. I bring these images into Figma for professional SVG creation. The outlines become the main points in my more developed writings. Andy’s tool XLingPaper was instrumental in allowing me to focus on specific portions of my text and also stick to and simultaneously stick to an outline format. I have come to learn that good writing sometimes means meta-writing. Or at least meta-outlining. It is where one writes the outline, the things to discuss, and then the reason why it is in the conversation or &amp;ldquo;discussion&amp;rdquo;. Finally, by using XLingPaper, I had to read my document twice, one time each in a different font. One in a code writer, and once in a stylized PDF.&lt;/li&gt;
 &lt;li&gt;Stephen Moitozo taught me that conferences are trade shows where what is on display and for trade are intellectual ideas. Truth matters less than the ability to trade and negotiate a deal. If one writes a paper that is just about the application of a process that paper has minimal impact. If one writes a paper presenting a tool that others can use that has a broad reach, especially if they are claiming that their methodology is better than other peoples methodology and those people can come to the author to negotiate a deal to use the methodology.&lt;/li&gt;
-&lt;li&gt;Alexandre François via “Phonotactics and the prestopped velar lateral of Hiw: resolving the ambiguity of a complex segment” and Alexis Michaud inspire me in my writing via their clear style of writing which leads the reader along to their conclusions and simultaneously precludes any objections.&lt;/li&gt;
+&lt;li&gt;Alexandre François via “Phonotactics and the prestopped velar lateral of Hiw: resolving the ambiguity of a complex segment” and Alexis Michaud both inspire me in my writing via their clear style of writing which leads the reader along to their conclusions and simultaneously precludes any objections.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
