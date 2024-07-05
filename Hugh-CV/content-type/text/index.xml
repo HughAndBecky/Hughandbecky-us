@@ -5,7 +5,7 @@
     <link>https://hughandbecky.us/Hugh-CV/content-type/text/</link>
       <atom:link href="https://hughandbecky.us/Hugh-CV/content-type/text/index.xml" rel="self" type="application/rss+xml" />
     <description>Text</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2024</copyright><lastBuildDate>Tue, 28 May 2024 14:35:45 -0700</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2024</copyright><lastBuildDate>Tue, 03 Sep 2024 10:40:00 +0200</lastBuildDate>
     <image>
       <url>https://hughandbecky.us/Hugh-CV/media/HughPaterson.jpg</url>
       <title>Text</title>
@@ -13,25 +13,928 @@
     </image>
     
     <item>
-      <title>Publishing-Taxonomies-in-Information-Science</title>
-      <link>https://hughandbecky.us/Hugh-CV/post/publishing-taxonomies-in-information-science/</link>
-      <pubDate>Tue, 28 May 2024 14:35:45 -0700</pubDate>
-      <guid>https://hughandbecky.us/Hugh-CV/post/publishing-taxonomies-in-information-science/</guid>
-      <description>&lt;p&gt;Several of my publications in Information Science have publisher-centric schemes for categorizing the topics of the would-be published work. I wonder if anyone has done a congurency or equivalency analysis of these publisher centeric schemes.&lt;/p&gt;
-&lt;p&gt;Several that I can think of right now are:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;The ALISE Research Taxonomy &lt;a href=&#34;https://www.alise.org/research-taxonomy-&#34;&gt;https://www.alise.org/research-taxonomy-&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;The IEEE Taxonomy &lt;a href=&#34;https://www.ieee.org/content/dam/ieee-org/ieee/web/org/pubs/ieee-taxonomy.pdf;&#34;&gt;https://www.ieee.org/content/dam/ieee-org/ieee/web/org/pubs/ieee-taxonomy.pdf;&lt;/a&gt; &lt;a href=&#34;https://www.ieee.org/publications/services/thesaurus-thank-you.html&#34;&gt;https://www.ieee.org/publications/services/thesaurus-thank-you.html&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;ACM Computing Classification System &lt;a href=&#34;https://dl.acm.org/ccs&#34;&gt;https://dl.acm.org/ccs&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Library of Congress Subject Headings &lt;a href=&#34;https://id.loc.gov/authorities/subjects.html&#34;&gt;https://id.loc.gov/authorities/subjects.html&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
+      <title>A Corpus with Latin Poetry have you: The Lost OLAC Discourse Type</title>
+      <link>https://hughandbecky.us/Hugh-CV/talk/2024-latin-corpus-genre/</link>
+      <pubDate>Tue, 03 Sep 2024 10:40:00 +0200</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/talk/2024-latin-corpus-genre/</guid>
+      <description>&lt;h3 id=&#34;bibliography-to-the-abstract&#34;&gt;Bibliography to the abstract&lt;/h3&gt;
+
+
+
+
+
+
+
+
+
+
+
+&lt;section class=&#34;hugo-cite-bibliography&#34;&gt;
+  &lt;dl&gt;
+    
+
+      &lt;div id=&#34;aristar-dry_linguistic_2002&#34;&gt;
+        &lt;dt&gt;
+          Aristar-Dry&amp;#32;&amp;amp;&amp;#32;Sriram
+
+          
+          (2002)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/CreativeWork&#34;
+      data-type=&#34;speech&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Aristar-Dry&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Helen&#34; /&gt;
+    H.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Sriram&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Gayathri&#34; /&gt;
+    G.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2002&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;
+    &lt;i&gt;Linguistic Data Types &amp;amp; Discourse Types &amp;amp; Linguistic Fields&lt;/i&gt;&lt;/span&gt;.
+  &lt;meta itemprop=&#34;contentLocation&#34;
+        content=&#34;University of Pennsylvania&#34;&gt;&amp;#32;Retrieved from&amp;#32;
+  &lt;a href=&#34;http://www.language-archives.org/events/olac02/proceedings.pdf&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;http://www.language-archives.org/events/olac02/proceedings.pdf&lt;/a&gt;&lt;/span&gt;
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;biber_representativeness_1993-1&#34;&gt;
+        &lt;dt&gt;
+          Biber
+
+          
+          (1993)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Biber&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Douglas&#34; /&gt;
+    D.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;1993&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;Representativeness in Corpus Design&lt;/span&gt;.&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;Literary and Linguistic Computing&lt;/span&gt;,&amp;#32;8(4)&lt;/i&gt;.&amp;#32;&lt;span itemprop=&#34;pagination&#34;&gt;243–257&lt;/span&gt;.
+  &lt;a href=&#34;https://doi.org/10.1093/llc/8.4.243&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://doi.org/10.1093/llc/8.4.243&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;biber_using_1993-1&#34;&gt;
+        &lt;dt&gt;
+          Biber
+
+          
+          (1993)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Biber&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Douglas&#34; /&gt;
+    D.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;1993&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;Using Register-Diversified Corpora for General Language Studies&lt;/span&gt;.&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;Computational Linguistics&lt;/span&gt;,&amp;#32;19(2)&lt;/i&gt;.&amp;#32;&lt;span itemprop=&#34;pagination&#34;&gt;219–241&lt;/span&gt;.&amp;#32;Retrieved from&amp;#32;
+  &lt;a href=&#34;https://www.aclweb.org/anthology/J93-2001&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://www.aclweb.org/anthology/J93-2001&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;bird_extending_2003-2&#34;&gt;
+        &lt;dt&gt;
+          Bird&amp;#32;&amp;amp;&amp;#32;Simons
+
+          
+          (2003)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Bird&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Steven&#34; /&gt;
+    S.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Simons&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Gary F.&#34; /&gt;
+    G.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2003&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;Extending Dublin Core Metadata to Support the Description and Discovery of Language Resources&lt;/span&gt;.&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;Computers and the Humanities&lt;/span&gt;,&amp;#32;37(4)&lt;/i&gt;.&amp;#32;&lt;span itemprop=&#34;pagination&#34;&gt;375–388&lt;/span&gt;.
+  &lt;a href=&#34;https://doi.org/10.1023/A:1025720518994&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://doi.org/10.1023/A:1025720518994&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;bird_olac_2001-4&#34;&gt;
+        &lt;dt&gt;
+          Bird&amp;#32;&amp;amp;&amp;#32;Simons
+
+          
+          (2001)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Chapter&#34;
+      data-type=&#34;chapter&#34;&gt;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Bird&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Steven&#34; /&gt;
+    S.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Simons&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Gary F.&#34; /&gt;
+    G.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2001&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;The OLAC metadata set and controlled vocabularies&lt;/span&gt;.&amp;#32;In&amp;#32;&lt;span itemprop=&#34;editor&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;DeClerck&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Thierry&#34; /&gt;
+    T.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;editor&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Krauwer&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Steven&#34; /&gt;
+    S.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;editor&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Rosner&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Mike&#34; /&gt;
+    M.&lt;/span&gt; (Eds.),&amp;#32;&lt;span itemprop=&#34;about&#34;&gt;
+    &lt;i&gt;Proceedings of ACL/EACL Workshop on Sharing Tools and Resources for Research and Education&lt;/i&gt;&lt;/span&gt;.&amp;#32;(&lt;span&gt;pp.&amp;#32;7–18&lt;/span&gt;).
+  &lt;meta itemprop=&#34;contentLocation&#34;
+        value=&#34;Université de Toulouse, France&#34;&gt;&amp;#32;&lt;span itemprop=&#34;publisher&#34;
+               itemtype=&#34;http://schema.org/Organization&#34;
+               itemscope=&#34;&#34;&gt;
+      &lt;span itemprop=&#34;name&#34;&gt;EACL-ACL; elsnet&lt;/span&gt;&lt;/span&gt;.&amp;#32;Retrieved from&amp;#32;
+  &lt;a href=&#34;https://www.aclweb.org/anthology/W01-1506&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://www.aclweb.org/anthology/W01-1506&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;bird_towards_2021-1&#34;&gt;
+        &lt;dt&gt;
+          Bird&amp;#32;&amp;amp;&amp;#32;Simons
+
+          
+          (2021)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Bird&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Steven&#34; /&gt;
+    S.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Simons&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Gary F.&#34; /&gt;
+    G.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2021&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;Towards an Agenda for Open Language Archiving&lt;/span&gt;.&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;Proceedings of the International Workshop on Digital Language Archives: LangArc 2021&lt;/span&gt;&lt;/i&gt;.&amp;#32;&lt;span itemprop=&#34;pagination&#34;&gt;25–28&lt;/span&gt;.
+  &lt;a href=&#34;https://doi.org/10.12794/langarc1851171&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://doi.org/10.12794/langarc1851171&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;chaudhuri_small_2019&#34;&gt;
+        &lt;dt&gt;
+          Chaudhuri,&amp;#32;
+          Dasgupta,&amp;#32;
+          Dexter&amp;#32;&amp;amp;&amp;#32;Iyer
+
+          
+          (2019)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Chaudhuri&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Pramit&#34; /&gt;
+    P.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Dasgupta&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Tathagata&#34; /&gt;
+    T.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Dexter&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Joseph P&#34; /&gt;
+    J.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Iyer&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Krithika&#34; /&gt;
+    K.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2019&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;A small set of stylometric features differentiates Latin prose and verse&lt;/span&gt;.&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;Digital Scholarship in the Humanities&lt;/span&gt;,&amp;#32;34(4)&lt;/i&gt;.&amp;#32;&lt;span itemprop=&#34;pagination&#34;&gt;716–729&lt;/span&gt;.
+  &lt;a href=&#34;https://doi.org/10.1093/llc/fqy070&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://doi.org/10.1093/llc/fqy070&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;clackson_language_2011&#34;&gt;
+        &lt;dt&gt;
+          Ferri
+
+          
+          (2011)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Chapter&#34;
+      data-type=&#34;chapter&#34;&gt;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Ferri&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Rolando&#34; /&gt;
+    R.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2011&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;The Language of Latin Epic and Lyric Poetry&lt;/span&gt;.&amp;#32;In&amp;#32;&lt;span itemprop=&#34;editor&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Clackson&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;James&#34; /&gt;
+    J.&lt;/span&gt; (Eds.),&amp;#32;&lt;span itemprop=&#34;about&#34;&gt;
+    &lt;i&gt;A Companion to the Latin Language&lt;/i&gt;&lt;/span&gt;.&amp;#32;(&lt;span itemprop=&#34;workExample&#34;&gt;1&lt;/span&gt;, &lt;span&gt;pp.&amp;#32;344–366&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;publisher&#34;
+               itemtype=&#34;http://schema.org/Organization&#34;
+               itemscope=&#34;&#34;&gt;
+      &lt;span itemprop=&#34;name&#34;&gt;Wiley&lt;/span&gt;&lt;/span&gt;.
+  &lt;a href=&#34;https://doi.org/10.1002/9781444343397.ch20&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://doi.org/10.1002/9781444343397.ch20&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;dragon_form_2020-1&#34;&gt;
+        &lt;dt&gt;
+          Dragon
+
+          
+          (2020)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Dragon&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Patricia M.&#34; /&gt;
+    P.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2020&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;Form and Genre Access to Academic Library Digital Collections&lt;/span&gt;.&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;Journal of Library Metadata&lt;/span&gt;,&amp;#32;20(1)&lt;/i&gt;.&amp;#32;&lt;span itemprop=&#34;pagination&#34;&gt;29–49&lt;/span&gt;.
+  &lt;a href=&#34;https://doi.org/10.1080/19386389.2020.1723203&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://doi.org/10.1080/19386389.2020.1723203&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;egbert_designing_2022&#34;&gt;
+        &lt;dt&gt;
+          Egbert,&amp;#32;
+          Biber&amp;#32;&amp;amp;&amp;#32;Gray
+
+          
+          (2022)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Book&#34;
+      data-type=&#34;book&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Egbert&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Jesse&#34; /&gt;
+    J.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Biber&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Douglas&#34; /&gt;
+    D.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Gray&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Bethany&#34; /&gt;
+    B.&lt;/span&gt;&amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2022&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;
+    &lt;i&gt;Designing and Evaluating Language Corpora: A Practical Framework for Corpus Representativeness&lt;/i&gt;&lt;/span&gt;.
+  &lt;meta itemprop=&#34;locationCreated&#34;
+        value=&#34;Cambridge&#34;&gt;&amp;#32;
+  &lt;span itemprop=&#34;publisher&#34;
+             itemtype=&#34;http://schema.org/Organization&#34;
+             itemscope&gt;
+    &lt;span itemprop=&#34;name&#34;&gt;Cambridge University Press&lt;/span&gt;&lt;/span&gt;.
+  &lt;a href=&#34;https://doi.org/10.1017/9781316584880&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://doi.org/10.1017/9781316584880&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;gale_latin_2004&#34;&gt;
+        &lt;dt&gt;
+          Gale
+
+          
+          (2004)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Book&#34;
+      data-type=&#34;book&#34;&gt;&lt;span itemprop=&#34;editor&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Gale&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Monica&#34; /&gt;
+    M.&lt;/span&gt;&amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2004&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;
+    &lt;i&gt;Latin epic and didactic poetry: genre, tradition and individuality&lt;/i&gt;&lt;/span&gt;.
+  &lt;meta itemprop=&#34;locationCreated&#34;
+        value=&#34;Swansea&#34;&gt;&amp;#32;
+  &lt;span itemprop=&#34;publisher&#34;
+             itemtype=&#34;http://schema.org/Organization&#34;
+             itemscope&gt;
+    &lt;span itemprop=&#34;name&#34;&gt;The Classical Press of Wales&lt;/span&gt;&lt;/span&gt;.
+  &lt;a href=&#34;https://doi.org/10.2307/j.ctv1n357vk&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://doi.org/10.2307/j.ctv1n357vk&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;johnson_olac_2012-1&#34;&gt;
+        &lt;dt&gt;
+          Johnson&amp;#32;&amp;amp;&amp;#32;Aristar Dry
+
+          
+          (2012)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/CreativeWork&#34;
+      data-type=&#34;standard&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Johnson&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Heidi&#34; /&gt;
+    H.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Aristar Dry&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Helen&#34; /&gt;
+    H.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2012&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;
+    &lt;i&gt;OLAC Discourse Type Vocabulary&lt;/i&gt;&lt;/span&gt;.
+  &lt;meta itemprop=&#34;contentLocation&#34;
+        content=&#34;Dallas, TX&#34;&gt;&amp;#32;
+  &lt;span itemprop=&#34;publisher&#34; itemtype=&#34;http://schema.org/Organization&#34; itemscope=&#34;&#34;&gt;
+    &lt;span itemprop=&#34;name&#34;&gt;Open Language Archive Community&lt;/span&gt;&lt;/span&gt;.&amp;#32;Retrieved from&amp;#32;
+  &lt;a href=&#34;http://www.language-archives.org/REC/discourse.html&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;http://www.language-archives.org/REC/discourse.html&lt;/a&gt;&lt;/span&gt;
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;library_of_congress_library_nodate&#34;&gt;
+        &lt;dt&gt;
+          
+
+          
+          (n.d.)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/WebPage&#34;
+      data-type=&#34;webpage&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;/span&gt;
+  (s.d.).&amp;#32;Retrieved from&amp;#32;
+  &lt;a href=&#34;//www.loc.gov/aba/publications/FreeLCGFT/&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;//www.loc.gov/aba/publications/FreeLCGFT/&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;network_development_and_marc_standards_office_library_of_congress_relator_2024&#34;&gt;
+        &lt;dt&gt;
+          
+
+          
+          (2024)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/CreativeWork&#34;
+      data-type=&#34;standard&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2024&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;
+    &lt;i&gt;Relator Code and Term List &amp;ndash; Term Sequence: MARC 21 Source Codes&lt;/i&gt;&lt;/span&gt;.
+  &lt;meta itemprop=&#34;contentLocation&#34;
+        content=&#34;Washington, D.C.&#34;&gt;&amp;#32;
+  &lt;span itemprop=&#34;publisher&#34; itemtype=&#34;http://schema.org/Organization&#34; itemscope=&#34;&#34;&gt;
+    &lt;span itemprop=&#34;name&#34;&gt;Library of Congress&lt;/span&gt;&lt;/span&gt;.&amp;#32;Retrieved from&amp;#32;
+  &lt;a href=&#34;https://www.loc.gov/marc/relators/relaterm.html&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://www.loc.gov/marc/relators/relaterm.html&lt;/a&gt;&lt;/span&gt;
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;paterson_iii_bridging_2023&#34;&gt;
+        &lt;dt&gt;
+          Paterson III,&amp;#32;
+          Mulligan,&amp;#32;
+          Lacy&amp;#32;&amp;amp;&amp;#32;Guardiola
+
+          
+          (2023)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/CreativeWork&#34;
+      data-type=&#34;paper-conference&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Paterson III&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Hugh J.&#34; /&gt;
+    H.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Mulligan&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Bret&#34; /&gt;
+    B.&lt;/span&gt;,&amp;#32;
+  &lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Lacy&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Anna&#34; /&gt;
+    A.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Guardiola&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Patricia&#34; /&gt;
+    P.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2023&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;
+    &lt;i&gt;Bridging Corpora: Creating Learner Pathways Across Texts&lt;/i&gt;&lt;/span&gt;.
+  &lt;meta itemprop=&#34;contentLocation&#34;
+        content=&#34;Vienna, Austria&#34;&gt;&amp;#32;
+  &lt;span itemprop=&#34;publisher&#34; itemtype=&#34;http://schema.org/Organization&#34; itemscope=&#34;&#34;&gt;
+    &lt;span itemprop=&#34;name&#34;&gt;NOVA CLUNL, Portugal&lt;/span&gt;&lt;/span&gt;.&amp;#32;Retrieved from&amp;#32;
+  &lt;a href=&#34;https://aclanthology.org/2023.ldk-1.63&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://aclanthology.org/2023.ldk-1.63&lt;/a&gt;&lt;/span&gt;
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;pinkster_oxford_2021&#34;&gt;
+        &lt;dt&gt;
+          Pinkster
+
+          
+          (2021)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Book&#34;
+      data-type=&#34;book&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Pinkster&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Harm&#34; /&gt;
+    H.&lt;/span&gt;&amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2021&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;
+    &lt;i&gt;The Oxford Latin Syntax: Volume II: The Complex Sentence and Discourse&lt;/i&gt;&lt;/span&gt;.
+  &lt;meta itemprop=&#34;locationCreated&#34;
+        value=&#34;Oxford, New York&#34;&gt;&amp;#32;
+  &lt;span itemprop=&#34;publisher&#34;
+             itemtype=&#34;http://schema.org/Organization&#34;
+             itemscope&gt;
+    &lt;span itemprop=&#34;name&#34;&gt;Oxford University Press&lt;/span&gt;&lt;/span&gt;.&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;sciarrino_cato_2011&#34;&gt;
+        &lt;dt&gt;
+          Sciarrino
+
+          
+          (2011)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Book&#34;
+      data-type=&#34;book&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Sciarrino&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Enrica&#34; /&gt;
+    E.&lt;/span&gt;&amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2011&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;
+    &lt;i&gt;Cato the Censor and the beginnings of Latin prose: from poetic translation to elite transcription&lt;/i&gt;&lt;/span&gt;.
+  &lt;meta itemprop=&#34;locationCreated&#34;
+        value=&#34;Columbus&#34;&gt;&amp;#32;
+  &lt;span itemprop=&#34;publisher&#34;
+             itemtype=&#34;http://schema.org/Organization&#34;
+             itemscope&gt;
+    &lt;span itemprop=&#34;name&#34;&gt;Ohio State University Press&lt;/span&gt;&lt;/span&gt;.&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;simons_building_2003-1&#34;&gt;
+        &lt;dt&gt;
+          Simons&amp;#32;&amp;amp;&amp;#32;Bird
+
+          
+          (2003)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Simons&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Gary F.&#34; /&gt;
+    G.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Bird&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Steven&#34; /&gt;
+    S.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2003&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;Building an Open Language Archives Community on the OAI foundation&lt;/span&gt;.&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;Library Hi Tech&lt;/span&gt;,&amp;#32;21(2)&lt;/i&gt;.&amp;#32;&lt;span itemprop=&#34;pagination&#34;&gt;210–218&lt;/span&gt;.
+  &lt;a href=&#34;https://doi.org/10.1108/07378830310479848&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://doi.org/10.1108/07378830310479848&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;simons_olac_2008-3&#34;&gt;
+        &lt;dt&gt;
+          Simons,&amp;#32;
+          Bird&amp;#32;&amp;amp;&amp;#32;Spanne
+
+          
+          (2008)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/CreativeWork&#34;
+      data-type=&#34;Informational Note&#34;&gt;
+  (N.A.).
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2008&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;
+    &lt;i&gt;OLAC Metadata Usage Guidelines&lt;/i&gt;&lt;/span&gt; (
+  &lt;span span itemprop=&#34;workExample&#34;&gt;2008-07-11&lt;/span&gt;
+  ).
+  &amp;#32;
+  &lt;span itemprop=&#34;publisher&#34; itemtype=&#34;http://schema.org/Organization&#34; itemscope=&#34;&#34;&gt;
+    &lt;span itemprop=&#34;name&#34;&gt;Open Language Archive Community&lt;/span&gt;&lt;/span&gt;.&amp;#32;Retrieved from&amp;#32;
+  &lt;a href=&#34;http://www.language-archives.org/NOTE/usage-20080711.html&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;http://www.language-archives.org/NOTE/usage-20080711.html&lt;/a&gt;&lt;/span&gt;
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+
+      &lt;div id=&#34;simons_open_2003-5&#34;&gt;
+        &lt;dt&gt;
+          Simons&amp;#32;&amp;amp;&amp;#32;Bird
+
+          
+          (2003)&lt;/dt&gt;
+
+        &lt;dd&gt;
+          
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;span itemscope
+      itemtype=&#34;https://schema.org/Article&#34;
+      data-type=&#34;article&#34;&gt;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Simons&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Gary F.&#34; /&gt;
+    G.&lt;/span&gt;&amp;#32;&amp;amp;&amp;#32;&lt;span itemprop=&#34;author&#34; itemscope itemtype=&#34;https://schema.org/Person&#34;&gt;&lt;span itemprop=&#34;familyName&#34;&gt;Bird&lt;/span&gt;,&amp;#32;
+    &lt;meta itemprop=&#34;givenName&#34; content=&#34;Steven&#34; /&gt;
+    S.&lt;/span&gt;
+  &amp;#32;
+    (&lt;span itemprop=&#34;datePublished&#34;&gt;2003&lt;/span&gt;).
+  &amp;#32;&lt;span itemprop=&#34;name&#34;&gt;The Open Language Archives Community: An Infrastructure for Distributed Archiving of Language Resources&lt;/span&gt;.&lt;i&gt;
+    &lt;span itemprop=&#34;about&#34;&gt;Literary and Linguistic Computing&lt;/span&gt;,&amp;#32;18(2)&lt;/i&gt;.&amp;#32;&lt;span itemprop=&#34;pagination&#34;&gt;117–128&lt;/span&gt;.
+  &lt;a href=&#34;https://doi.org/10.1093/llc/18.2.117&#34;
+     itemprop=&#34;identifier&#34;
+     itemtype=&#34;https://schema.org/URL&#34;&gt;https://doi.org/10.1093/llc/18.2.117&lt;/a&gt;&lt;/span&gt;
+
+
+
+
+&lt;/dd&gt;
+
+      &lt;/div&gt;
+  &lt;/dl&gt;
+&lt;/section&gt;
+
+
+
 </description>
     </item>
     
     <item>
       <title>Additional OLAC Collections</title>
       <link>https://hughandbecky.us/Hugh-CV/post/additional-olac-collections/</link>
-      <pubDate>Wed, 15 May 2024 14:35:45 -0700</pubDate>
+      <pubDate>Sat, 15 Jun 2024 14:35:45 -0700</pubDate>
       <guid>https://hughandbecky.us/Hugh-CV/post/additional-olac-collections/</guid>
       <description>&lt;p&gt;In 2022 I 
 &lt;a href=&#34;https://hughandbecky.us/Hugh-CV/publication/2022-where-have-all-the-collections-gone-analysis-of-olac-data-contributors-use-of-dcmitype-collection&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;published about the lack of DCMIType usage to indicate collection records within OLAC records&lt;/a&gt;. That publication didn&amp;rsquo;t look at the use of  &lt;code&gt;&amp;lt;dc:type&amp;gt;&amp;lt;/dc:type&amp;gt;&lt;/code&gt; in an unqualified way to indicate collections. The analysis of that original paper should be revisited, or amended in this light. Today I found a new-to-me and interesting method to discovering in a qantifiable way additional un-marked collection reocords. It seems that the OLAC provider from cocoon &lt;code&gt;crdo.vjf.cnrs.fr&lt;/code&gt; as not used the DCMIType declaration for collections but has used an undeclared type of &lt;code&gt;&amp;lt;dc:type&amp;gt;archives&amp;lt;/dc:type&amp;gt;&lt;/code&gt;. Archives are sets of artifacts and therefore meet the DCMIType definiition for collection. A quick search of the OLAC dataset &lt;code&gt;grep -i &#39;&amp;lt;dc:type&amp;gt;archives&amp;lt;/dc:type&amp;gt;&#39; ListRecords-20210718.xml | uniq -c&lt;/code&gt; indicates that there are 314 of these records. There were no records indicated for the terms &lt;em&gt;set&lt;/em&gt;, &lt;em&gt;collection&lt;/em&gt;, or &lt;em&gt;group&lt;/em&gt;. However, there were quite a few with the dc:type term &lt;em&gt;corpus&lt;/em&gt;&lt;/p&gt;
@@ -132,6 +1035,22 @@
     </item>
     
     <item>
+      <title>Publishing Taxonomies in Information Science</title>
+      <link>https://hughandbecky.us/Hugh-CV/post/publishing-taxonomies-in-information-science/</link>
+      <pubDate>Tue, 28 May 2024 14:35:45 -0700</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/post/publishing-taxonomies-in-information-science/</guid>
+      <description>&lt;p&gt;Several of my publications in Information Science have publisher-centric schemes for categorizing the topics of the would-be published work. I wonder if anyone has done a congurency or equivalency analysis of these publisher centeric schemes.&lt;/p&gt;
+&lt;p&gt;Several that I can think of right now are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The ALISE Research Taxonomy &lt;a href=&#34;https://www.alise.org/research-taxonomy-&#34;&gt;https://www.alise.org/research-taxonomy-&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;The IEEE Taxonomy &lt;a href=&#34;https://www.ieee.org/content/dam/ieee-org/ieee/web/org/pubs/ieee-taxonomy.pdf;&#34;&gt;https://www.ieee.org/content/dam/ieee-org/ieee/web/org/pubs/ieee-taxonomy.pdf;&lt;/a&gt; &lt;a href=&#34;https://www.ieee.org/publications/services/thesaurus-thank-you.html&#34;&gt;https://www.ieee.org/publications/services/thesaurus-thank-you.html&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;ACM Computing Classification System &lt;a href=&#34;https://dl.acm.org/ccs&#34;&gt;https://dl.acm.org/ccs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Library of Congress Subject Headings &lt;a href=&#34;https://id.loc.gov/authorities/subjects.html&#34;&gt;https://id.loc.gov/authorities/subjects.html&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Reflections on Writing</title>
       <link>https://hughandbecky.us/Hugh-CV/post/reflections-on-writing/</link>
       <pubDate>Wed, 15 May 2024 14:35:45 -0700</pubDate>
@@ -141,18 +1060,27 @@
 &lt;p&gt;What follows are some of the compositional tips I have learned along the way from other experienced writers. Along the way I have learned that writing is really about several skills coming together: composition, word choice, content, format, illustrations, and examples. None of the following have been the complete answer but now they inform me as I write. Sometimes people would tell me things about writing, but I wouldn’t understand what they were trying to communicate until five or ten years later.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;My undergraduate philosophy professor taught me an outline with points, counterpoints and counter-counterpoints. As an undergrad I appreciated this, but it wasn’t enough to build a great paper. I still needed a greater understanding of the whole picture of a “good composition”.&lt;/li&gt;
-&lt;li&gt;Cindy Parker told me I needed a proofreader. I do. It wasn’t until my second graduate degree that I was able to form a relationship with someone who volunteered to read my writing and offer suggestions. Now that person is a crucial part of my writing process.&lt;/li&gt;
-&lt;li&gt;Ken Olson taught me to lay hands on everything I reference and cite. He also pointedly told me to reference everything in the literature. I shouldn’t let my prejudice or theoretical persuasion preclude an investigation-of or desire-to reference some work.&lt;/li&gt;
-&lt;li&gt;Steven Paker, a UMass-Amherst graduate, boldly proclaimed in his class that if one didn&amp;rsquo;t agree with what was in the literature, one should publish against it. That is, be bold in one&amp;rsquo;s writing. Be oppositional! Call others out and show them with data why their suggestions have limits in their applications. Of course his area of research was optimality theory, specifically phonology, but the advice remained relevant more broadly.&lt;/li&gt;
-&lt;li&gt;Stephen Marlett taught me that my bibliography and references section is a social and political statement. It is a piece of social negotiation and pragmatics. It is the evidence of allegiances.&lt;/li&gt;
+&lt;li&gt;Cindy Parker told me I needed a proofreader. I do. It wasn’t until my second graduate degree that I was able to form a relationship with someone who volunteered to read my writing and offer suggestions. Now that person is a crucial part of my writing process (BTW: Cindy is not related to the Steven Parker on this list).&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://hughandbecky.us/Hugh-CV/author/kenneth-s-olson/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ken Olson&lt;/a&gt; taught me to lay hands on everything I reference and cite. He also pointedly told me to reference everything in the literature. I shouldn’t let my prejudice or theoretical persuasion preclude an investigation-of or desire-to reference some work.&lt;/li&gt;
+&lt;li&gt;Steven Paker, a UMass-Amherst graduate, boldly proclaimed in his class that if one didn&amp;rsquo;t agree with what was in the literature, one should publish against it. That is, be bold in one&amp;rsquo;s writing. Be oppositional! Call others out and show them with data why their suggestions have limits in their applications. Of course his area of research was optimality theory, specifically phonology, but the advice remains relevant more broadly.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://hughandbecky.us/Hugh-CV/author/steven-a.-marlett/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Stephen Marlett&lt;/a&gt; taught me that my bibliography and references section is a social and political statement. It is a piece of social negotiation and pragmatics. It is the evidence of allegiances.&lt;/li&gt;
 &lt;li&gt;Gary Simons taught me that you can write a paper which just points out a problem, however, one should write a paper, and the better paper, is one that presents a solution to a problem. It is one thing to attack. It’s another thing to replace.&lt;/li&gt;
-&lt;li&gt;Michael Ahland taught me the five-point outline. Prior to working with Michael I wasn’t sure what the parts were or how to assess the “whole” of a written work.&lt;/li&gt;
-&lt;li&gt;Diana Weber told me I didn’t read like other people read. This helped me better understand how I engage with text, composition, and opened me up to the possibility that others experience my composition in ways different from me.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://cla.csulb.edu/departments/linguistics/faculty-and-staff/dr-michael-ahland/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Michael Ahland&lt;/a&gt; taught me the five-point outline. Prior to working with Michael I wasn’t sure what the parts were or how to assess the “whole” of a written work. His instruction was life changing.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://www.capacitar.sil.org/personal/DianaWeberCV.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Diana Weber&lt;/a&gt; told me I didn’t read like other people read. This helped me better understand how I engage with text, composition, and opened me up to the possibility that others experience my composition in ways different from me.&lt;/li&gt;
 &lt;li&gt;Doris Payne taught me to define all my terms and critically consider what I accept as evidence. Defining my terms is not something that brings clarity to me, but rather brings clarity to my reader.&lt;/li&gt;
-&lt;li&gt;Keith Snider harped on removing unnecessary nominalizations and preposition phrases. Occasionally, I oblige. Long germanic relative clauses are still with me.&lt;/li&gt;
-&lt;li&gt;Andy Black challenged me in the tools I chose to use to compose and write. Now I use GoogleDocs to get short thoughts out fast with a wide blank page-like background. When needed, I then process them into LaTeX for formal publication or Markdown for storage or blogs. GoogleDocs also allows fast synchronous or asynchronous editing. I stay away from all forms of Microsoft products. Fonts have a big impact on my ability to read as I type. With the wrong font I can not compose as fast. Many times I find myself sketchnoting with an A5 size, unlined notebook and a 3B leaded pencil. Sketchnoting allows me to switch from outlining to drawing to graphing with ease. I bring these images into Figma for professional SVG creation. The outlines become the main points in my more developed writings. Andy’s tool XLingPaper was instrumental in allowing me to focus on specific portions of my text and also stick to and simultaneously stick to an outline format. I have come to learn that good writing sometimes means meta-writing. Or at least meta-outlining. It is where one writes the outline, the things to discuss, and then the reason why it is in the conversation or &amp;ldquo;discussion&amp;rdquo;. Finally, by using XLingPaper, I had to read my document twice, one time each in a different font. One in a code writer, and once in a stylized PDF.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://hughandbecky.us/Hugh-CV/author/keith-snider/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Keith Snider&lt;/a&gt; harped on removing unnecessary nominalizations and preposition phrases. Occasionally, I oblige. Long germanic relative clauses are still with me.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://hughandbecky.us/Hugh-CV/author/h.-andrew-black/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Andy Black&lt;/a&gt; challenged me in the tools I chose to use to compose and write. Now I use GoogleDocs to get short thoughts out fast with a wide blank page-like background. When needed, I then process them into LaTeX for formal publication or Markdown for storage or blogs. GoogleDocs also allows fast synchronous or asynchronous editing. I stay away from all forms of Microsoft products. Fonts have a big impact on my ability to read as I type. With the wrong font I can not compose as fast. Many times I find myself sketchnoting with an A5 size, unlined notebook and a 3B leaded pencil. Sketchnoting allows me to switch from outlining to drawing to graphing with ease. I bring these images into Figma for professional SVG creation. The outlines become the main points in my more developed writings. Andy’s tool XLingPaper was instrumental in allowing me to focus on specific portions of my text and also stick to and simultaneously stick to an outline format. I have come to learn that good writing sometimes means meta-writing. Or at least meta-outlining. It is where one writes the outline, the things to discuss, and then the reason why it is in the conversation or &amp;ldquo;discussion&amp;rdquo;. Finally, by using XLingPaper, I had to read my document twice, one time each in a different font. One in a code writer, and once in a stylized PDF.&lt;/li&gt;
 &lt;li&gt;Stephen Moitozo taught me that conferences are trade shows where what is on display and for trade are intellectual ideas. Truth matters less than the ability to trade and negotiate a deal. If one writes a paper that is just about the application of a process that paper has minimal impact. If one writes a paper presenting a tool that others can use that has a broad reach, especially if they are claiming that their methodology is better than other peoples methodology and those people can come to the author to negotiate a deal to use the methodology.&lt;/li&gt;
-&lt;li&gt;Alexandre François via “Phonotactics and the prestopped velar lateral of Hiw: resolving the ambiguity of a complex segment” and Alexis Michaud both inspire me in my writing via their clear style of writing which leads the reader along to their conclusions and simultaneously precludes any objections.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://en.wikipedia.org/wiki/Alexandre_Fran%C3%A7ois&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Alexandre François&lt;/a&gt; via 
+&lt;a href=&#34;https://doi.org/10.1017/S0952675710000205&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;“Phonotactics and the prestopped velar lateral of Hiw: resolving the ambiguity of a complex segment”&lt;/a&gt; and 
+&lt;a href=&#34;https://en.wikipedia.org/wiki/Alexis_Michaud&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Alexis Michaud&lt;/a&gt; both inspire me in my writing via their clear style of writing which leads the reader along to their conclusions and simultaneously precludes any objections.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -162,6 +1090,14 @@
       <link>https://hughandbecky.us/Hugh-CV/publication/2024-regulating-the-data-market-preprint/</link>
       <pubDate>Mon, 22 Apr 2024 17:00:12 -0700</pubDate>
       <guid>https://hughandbecky.us/Hugh-CV/publication/2024-regulating-the-data-market-preprint/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Regulating the Data Market: The Material Scope of American Consumer Data Privacy Law</title>
+      <link>https://hughandbecky.us/Hugh-CV/publication/2024-regulating-the-data-market/</link>
+      <pubDate>Mon, 22 Apr 2024 17:00:12 -0700</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/publication/2024-regulating-the-data-market/</guid>
       <description></description>
     </item>
     

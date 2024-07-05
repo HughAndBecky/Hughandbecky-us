@@ -5,7 +5,7 @@
     <link>https://hughandbecky.us/Hugh-CV/post/</link>
       <atom:link href="https://hughandbecky.us/Hugh-CV/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2024</copyright><lastBuildDate>Tue, 28 May 2024 14:35:45 -0700</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2024</copyright><lastBuildDate>Sat, 15 Jun 2024 14:35:45 -0700</lastBuildDate>
     <image>
       <url>https://hughandbecky.us/Hugh-CV/media/HughPaterson.jpg</url>
       <title>Posts</title>
@@ -13,25 +13,9 @@
     </image>
     
     <item>
-      <title>Publishing-Taxonomies-in-Information-Science</title>
-      <link>https://hughandbecky.us/Hugh-CV/post/publishing-taxonomies-in-information-science/</link>
-      <pubDate>Tue, 28 May 2024 14:35:45 -0700</pubDate>
-      <guid>https://hughandbecky.us/Hugh-CV/post/publishing-taxonomies-in-information-science/</guid>
-      <description>&lt;p&gt;Several of my publications in Information Science have publisher-centric schemes for categorizing the topics of the would-be published work. I wonder if anyone has done a congurency or equivalency analysis of these publisher centeric schemes.&lt;/p&gt;
-&lt;p&gt;Several that I can think of right now are:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;The ALISE Research Taxonomy &lt;a href=&#34;https://www.alise.org/research-taxonomy-&#34;&gt;https://www.alise.org/research-taxonomy-&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;The IEEE Taxonomy &lt;a href=&#34;https://www.ieee.org/content/dam/ieee-org/ieee/web/org/pubs/ieee-taxonomy.pdf;&#34;&gt;https://www.ieee.org/content/dam/ieee-org/ieee/web/org/pubs/ieee-taxonomy.pdf;&lt;/a&gt; &lt;a href=&#34;https://www.ieee.org/publications/services/thesaurus-thank-you.html&#34;&gt;https://www.ieee.org/publications/services/thesaurus-thank-you.html&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;ACM Computing Classification System &lt;a href=&#34;https://dl.acm.org/ccs&#34;&gt;https://dl.acm.org/ccs&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Library of Congress Subject Headings &lt;a href=&#34;https://id.loc.gov/authorities/subjects.html&#34;&gt;https://id.loc.gov/authorities/subjects.html&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Additional OLAC Collections</title>
       <link>https://hughandbecky.us/Hugh-CV/post/additional-olac-collections/</link>
-      <pubDate>Wed, 15 May 2024 14:35:45 -0700</pubDate>
+      <pubDate>Sat, 15 Jun 2024 14:35:45 -0700</pubDate>
       <guid>https://hughandbecky.us/Hugh-CV/post/additional-olac-collections/</guid>
       <description>&lt;p&gt;In 2022 I 
 &lt;a href=&#34;https://hughandbecky.us/Hugh-CV/publication/2022-where-have-all-the-collections-gone-analysis-of-olac-data-contributors-use-of-dcmitype-collection&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;published about the lack of DCMIType usage to indicate collection records within OLAC records&lt;/a&gt;. That publication didn&amp;rsquo;t look at the use of  &lt;code&gt;&amp;lt;dc:type&amp;gt;&amp;lt;/dc:type&amp;gt;&lt;/code&gt; in an unqualified way to indicate collections. The analysis of that original paper should be revisited, or amended in this light. Today I found a new-to-me and interesting method to discovering in a qantifiable way additional un-marked collection reocords. It seems that the OLAC provider from cocoon &lt;code&gt;crdo.vjf.cnrs.fr&lt;/code&gt; as not used the DCMIType declaration for collections but has used an undeclared type of &lt;code&gt;&amp;lt;dc:type&amp;gt;archives&amp;lt;/dc:type&amp;gt;&lt;/code&gt;. Archives are sets of artifacts and therefore meet the DCMIType definiition for collection. A quick search of the OLAC dataset &lt;code&gt;grep -i &#39;&amp;lt;dc:type&amp;gt;archives&amp;lt;/dc:type&amp;gt;&#39; ListRecords-20210718.xml | uniq -c&lt;/code&gt; indicates that there are 314 of these records. There were no records indicated for the terms &lt;em&gt;set&lt;/em&gt;, &lt;em&gt;collection&lt;/em&gt;, or &lt;em&gt;group&lt;/em&gt;. However, there were quite a few with the dc:type term &lt;em&gt;corpus&lt;/em&gt;&lt;/p&gt;
@@ -132,6 +116,22 @@
     </item>
     
     <item>
+      <title>Publishing Taxonomies in Information Science</title>
+      <link>https://hughandbecky.us/Hugh-CV/post/publishing-taxonomies-in-information-science/</link>
+      <pubDate>Tue, 28 May 2024 14:35:45 -0700</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/post/publishing-taxonomies-in-information-science/</guid>
+      <description>&lt;p&gt;Several of my publications in Information Science have publisher-centric schemes for categorizing the topics of the would-be published work. I wonder if anyone has done a congurency or equivalency analysis of these publisher centeric schemes.&lt;/p&gt;
+&lt;p&gt;Several that I can think of right now are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The ALISE Research Taxonomy &lt;a href=&#34;https://www.alise.org/research-taxonomy-&#34;&gt;https://www.alise.org/research-taxonomy-&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;The IEEE Taxonomy &lt;a href=&#34;https://www.ieee.org/content/dam/ieee-org/ieee/web/org/pubs/ieee-taxonomy.pdf;&#34;&gt;https://www.ieee.org/content/dam/ieee-org/ieee/web/org/pubs/ieee-taxonomy.pdf;&lt;/a&gt; &lt;a href=&#34;https://www.ieee.org/publications/services/thesaurus-thank-you.html&#34;&gt;https://www.ieee.org/publications/services/thesaurus-thank-you.html&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;ACM Computing Classification System &lt;a href=&#34;https://dl.acm.org/ccs&#34;&gt;https://dl.acm.org/ccs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Library of Congress Subject Headings &lt;a href=&#34;https://id.loc.gov/authorities/subjects.html&#34;&gt;https://id.loc.gov/authorities/subjects.html&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Reflections on Writing</title>
       <link>https://hughandbecky.us/Hugh-CV/post/reflections-on-writing/</link>
       <pubDate>Wed, 15 May 2024 14:35:45 -0700</pubDate>
@@ -141,18 +141,27 @@
 &lt;p&gt;What follows are some of the compositional tips I have learned along the way from other experienced writers. Along the way I have learned that writing is really about several skills coming together: composition, word choice, content, format, illustrations, and examples. None of the following have been the complete answer but now they inform me as I write. Sometimes people would tell me things about writing, but I wouldn’t understand what they were trying to communicate until five or ten years later.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;My undergraduate philosophy professor taught me an outline with points, counterpoints and counter-counterpoints. As an undergrad I appreciated this, but it wasn’t enough to build a great paper. I still needed a greater understanding of the whole picture of a “good composition”.&lt;/li&gt;
-&lt;li&gt;Cindy Parker told me I needed a proofreader. I do. It wasn’t until my second graduate degree that I was able to form a relationship with someone who volunteered to read my writing and offer suggestions. Now that person is a crucial part of my writing process.&lt;/li&gt;
-&lt;li&gt;Ken Olson taught me to lay hands on everything I reference and cite. He also pointedly told me to reference everything in the literature. I shouldn’t let my prejudice or theoretical persuasion preclude an investigation-of or desire-to reference some work.&lt;/li&gt;
-&lt;li&gt;Steven Paker, a UMass-Amherst graduate, boldly proclaimed in his class that if one didn&amp;rsquo;t agree with what was in the literature, one should publish against it. That is, be bold in one&amp;rsquo;s writing. Be oppositional! Call others out and show them with data why their suggestions have limits in their applications. Of course his area of research was optimality theory, specifically phonology, but the advice remained relevant more broadly.&lt;/li&gt;
-&lt;li&gt;Stephen Marlett taught me that my bibliography and references section is a social and political statement. It is a piece of social negotiation and pragmatics. It is the evidence of allegiances.&lt;/li&gt;
+&lt;li&gt;Cindy Parker told me I needed a proofreader. I do. It wasn’t until my second graduate degree that I was able to form a relationship with someone who volunteered to read my writing and offer suggestions. Now that person is a crucial part of my writing process (BTW: Cindy is not related to the Steven Parker on this list).&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://hughandbecky.us/Hugh-CV/author/kenneth-s-olson/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ken Olson&lt;/a&gt; taught me to lay hands on everything I reference and cite. He also pointedly told me to reference everything in the literature. I shouldn’t let my prejudice or theoretical persuasion preclude an investigation-of or desire-to reference some work.&lt;/li&gt;
+&lt;li&gt;Steven Paker, a UMass-Amherst graduate, boldly proclaimed in his class that if one didn&amp;rsquo;t agree with what was in the literature, one should publish against it. That is, be bold in one&amp;rsquo;s writing. Be oppositional! Call others out and show them with data why their suggestions have limits in their applications. Of course his area of research was optimality theory, specifically phonology, but the advice remains relevant more broadly.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://hughandbecky.us/Hugh-CV/author/steven-a.-marlett/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Stephen Marlett&lt;/a&gt; taught me that my bibliography and references section is a social and political statement. It is a piece of social negotiation and pragmatics. It is the evidence of allegiances.&lt;/li&gt;
 &lt;li&gt;Gary Simons taught me that you can write a paper which just points out a problem, however, one should write a paper, and the better paper, is one that presents a solution to a problem. It is one thing to attack. It’s another thing to replace.&lt;/li&gt;
-&lt;li&gt;Michael Ahland taught me the five-point outline. Prior to working with Michael I wasn’t sure what the parts were or how to assess the “whole” of a written work.&lt;/li&gt;
-&lt;li&gt;Diana Weber told me I didn’t read like other people read. This helped me better understand how I engage with text, composition, and opened me up to the possibility that others experience my composition in ways different from me.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://cla.csulb.edu/departments/linguistics/faculty-and-staff/dr-michael-ahland/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Michael Ahland&lt;/a&gt; taught me the five-point outline. Prior to working with Michael I wasn’t sure what the parts were or how to assess the “whole” of a written work. His instruction was life changing.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://www.capacitar.sil.org/personal/DianaWeberCV.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Diana Weber&lt;/a&gt; told me I didn’t read like other people read. This helped me better understand how I engage with text, composition, and opened me up to the possibility that others experience my composition in ways different from me.&lt;/li&gt;
 &lt;li&gt;Doris Payne taught me to define all my terms and critically consider what I accept as evidence. Defining my terms is not something that brings clarity to me, but rather brings clarity to my reader.&lt;/li&gt;
-&lt;li&gt;Keith Snider harped on removing unnecessary nominalizations and preposition phrases. Occasionally, I oblige. Long germanic relative clauses are still with me.&lt;/li&gt;
-&lt;li&gt;Andy Black challenged me in the tools I chose to use to compose and write. Now I use GoogleDocs to get short thoughts out fast with a wide blank page-like background. When needed, I then process them into LaTeX for formal publication or Markdown for storage or blogs. GoogleDocs also allows fast synchronous or asynchronous editing. I stay away from all forms of Microsoft products. Fonts have a big impact on my ability to read as I type. With the wrong font I can not compose as fast. Many times I find myself sketchnoting with an A5 size, unlined notebook and a 3B leaded pencil. Sketchnoting allows me to switch from outlining to drawing to graphing with ease. I bring these images into Figma for professional SVG creation. The outlines become the main points in my more developed writings. Andy’s tool XLingPaper was instrumental in allowing me to focus on specific portions of my text and also stick to and simultaneously stick to an outline format. I have come to learn that good writing sometimes means meta-writing. Or at least meta-outlining. It is where one writes the outline, the things to discuss, and then the reason why it is in the conversation or &amp;ldquo;discussion&amp;rdquo;. Finally, by using XLingPaper, I had to read my document twice, one time each in a different font. One in a code writer, and once in a stylized PDF.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://hughandbecky.us/Hugh-CV/author/keith-snider/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Keith Snider&lt;/a&gt; harped on removing unnecessary nominalizations and preposition phrases. Occasionally, I oblige. Long germanic relative clauses are still with me.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://hughandbecky.us/Hugh-CV/author/h.-andrew-black/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Andy Black&lt;/a&gt; challenged me in the tools I chose to use to compose and write. Now I use GoogleDocs to get short thoughts out fast with a wide blank page-like background. When needed, I then process them into LaTeX for formal publication or Markdown for storage or blogs. GoogleDocs also allows fast synchronous or asynchronous editing. I stay away from all forms of Microsoft products. Fonts have a big impact on my ability to read as I type. With the wrong font I can not compose as fast. Many times I find myself sketchnoting with an A5 size, unlined notebook and a 3B leaded pencil. Sketchnoting allows me to switch from outlining to drawing to graphing with ease. I bring these images into Figma for professional SVG creation. The outlines become the main points in my more developed writings. Andy’s tool XLingPaper was instrumental in allowing me to focus on specific portions of my text and also stick to and simultaneously stick to an outline format. I have come to learn that good writing sometimes means meta-writing. Or at least meta-outlining. It is where one writes the outline, the things to discuss, and then the reason why it is in the conversation or &amp;ldquo;discussion&amp;rdquo;. Finally, by using XLingPaper, I had to read my document twice, one time each in a different font. One in a code writer, and once in a stylized PDF.&lt;/li&gt;
 &lt;li&gt;Stephen Moitozo taught me that conferences are trade shows where what is on display and for trade are intellectual ideas. Truth matters less than the ability to trade and negotiate a deal. If one writes a paper that is just about the application of a process that paper has minimal impact. If one writes a paper presenting a tool that others can use that has a broad reach, especially if they are claiming that their methodology is better than other peoples methodology and those people can come to the author to negotiate a deal to use the methodology.&lt;/li&gt;
-&lt;li&gt;Alexandre François via “Phonotactics and the prestopped velar lateral of Hiw: resolving the ambiguity of a complex segment” and Alexis Michaud both inspire me in my writing via their clear style of writing which leads the reader along to their conclusions and simultaneously precludes any objections.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://en.wikipedia.org/wiki/Alexandre_Fran%C3%A7ois&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Alexandre François&lt;/a&gt; via 
+&lt;a href=&#34;https://doi.org/10.1017/S0952675710000205&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;“Phonotactics and the prestopped velar lateral of Hiw: resolving the ambiguity of a complex segment”&lt;/a&gt; and 
+&lt;a href=&#34;https://en.wikipedia.org/wiki/Alexis_Michaud&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Alexis Michaud&lt;/a&gt; both inspire me in my writing via their clear style of writing which leads the reader along to their conclusions and simultaneously precludes any objections.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>

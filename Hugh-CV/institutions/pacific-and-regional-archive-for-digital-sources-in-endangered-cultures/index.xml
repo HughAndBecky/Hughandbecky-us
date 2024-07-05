@@ -5,7 +5,7 @@
     <link>https://hughandbecky.us/Hugh-CV/institutions/pacific-and-regional-archive-for-digital-sources-in-endangered-cultures/</link>
       <atom:link href="https://hughandbecky.us/Hugh-CV/institutions/pacific-and-regional-archive-for-digital-sources-in-endangered-cultures/index.xml" rel="self" type="application/rss+xml" />
     <description>Pacific and Regional Archive for Digital Sources in Endangered Cultures</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2024</copyright><lastBuildDate>Wed, 15 May 2024 14:35:45 -0700</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2024</copyright><lastBuildDate>Sat, 15 Jun 2024 14:35:45 -0700</lastBuildDate>
     <image>
       <url>https://hughandbecky.us/Hugh-CV/media/HughPaterson.jpg</url>
       <title>Pacific and Regional Archive for Digital Sources in Endangered Cultures</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Additional OLAC Collections</title>
       <link>https://hughandbecky.us/Hugh-CV/post/additional-olac-collections/</link>
-      <pubDate>Wed, 15 May 2024 14:35:45 -0700</pubDate>
+      <pubDate>Sat, 15 Jun 2024 14:35:45 -0700</pubDate>
       <guid>https://hughandbecky.us/Hugh-CV/post/additional-olac-collections/</guid>
       <description>&lt;p&gt;In 2022 I 
 &lt;a href=&#34;https://hughandbecky.us/Hugh-CV/publication/2022-where-have-all-the-collections-gone-analysis-of-olac-data-contributors-use-of-dcmitype-collection&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;published about the lack of DCMIType usage to indicate collection records within OLAC records&lt;/a&gt;. That publication didn&amp;rsquo;t look at the use of  &lt;code&gt;&amp;lt;dc:type&amp;gt;&amp;lt;/dc:type&amp;gt;&lt;/code&gt; in an unqualified way to indicate collections. The analysis of that original paper should be revisited, or amended in this light. Today I found a new-to-me and interesting method to discovering in a qantifiable way additional un-marked collection reocords. It seems that the OLAC provider from cocoon &lt;code&gt;crdo.vjf.cnrs.fr&lt;/code&gt; as not used the DCMIType declaration for collections but has used an undeclared type of &lt;code&gt;&amp;lt;dc:type&amp;gt;archives&amp;lt;/dc:type&amp;gt;&lt;/code&gt;. Archives are sets of artifacts and therefore meet the DCMIType definiition for collection. A quick search of the OLAC dataset &lt;code&gt;grep -i &#39;&amp;lt;dc:type&amp;gt;archives&amp;lt;/dc:type&amp;gt;&#39; ListRecords-20210718.xml | uniq -c&lt;/code&gt; indicates that there are 314 of these records. There were no records indicated for the terms &lt;em&gt;set&lt;/em&gt;, &lt;em&gt;collection&lt;/em&gt;, or &lt;em&gt;group&lt;/em&gt;. However, there were quite a few with the dc:type term &lt;em&gt;corpus&lt;/em&gt;&lt;/p&gt;
