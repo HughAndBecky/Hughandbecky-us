@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Oksana Zavalina | Hugh&#39;s Curriculum Vitae</title>
+    <link>https://hughandbecky.us/Hugh-CV/author/oksana-zavalina/</link>
+      <atom:link href="https://hughandbecky.us/Hugh-CV/author/oksana-zavalina/index.xml" rel="self" type="application/rss+xml" />
+    <description>Oksana Zavalina</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2024</copyright><lastBuildDate>Tue, 15 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://hughandbecky.us/Hugh-CV/media/HughPaterson.jpg</url>
+      <title>Oksana Zavalina</title>
+      <link>https://hughandbecky.us/Hugh-CV/author/oksana-zavalina/</link>
+    </image>
+    
+    <item>
+      <title>Community Memory and Language Archiving &amp; Curation Training</title>
+      <link>https://hughandbecky.us/Hugh-CV/project/2023-language-archiving-curriculum/</link>
+      <pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/project/2023-language-archiving-curriculum/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Developing graduate curriculum for digital language archive management</title>
+      <link>https://hughandbecky.us/Hugh-CV/talk/2024-alise/</link>
+      <pubDate>Sat, 19 Dec 2020 17:00:12 -0700</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/talk/2024-alise/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
