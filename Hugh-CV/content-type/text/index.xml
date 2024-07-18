@@ -1126,6 +1126,14 @@
     </item>
     
     <item>
+      <title>Developing Graduate Curriculum for Digital Language Archive Management</title>
+      <link>https://hughandbecky.us/Hugh-CV/talk/2024-alise/</link>
+      <pubDate>Tue, 19 Dec 2023 17:00:12 -0700</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/talk/2024-alise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Considering WEMI and the Digital Artifacts Around Language Documentation Transcripts</title>
       <link>https://hughandbecky.us/Hugh-CV/talk/2023-wemi-language-documentation-transcripts/</link>
       <pubDate>Wed, 08 Nov 2023 10:40:00 +0900</pubDate>
@@ -15496,14 +15504,6 @@ My suspicion though is that passing the PDF through GhostScript also removes som
 &lt;p&gt;In an earlier version of this workflow I was using standard size pages (A4, A3, etc.). Doing so required that I then cut the PDF so that the usable portion was able to usefully be scaled in XLingPaper. To do this I used 
 &lt;a href=&#34;https://pdfresizer.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;pdfresizer.com&lt;/a&gt; to reduce the physical dimensions of pdf pages. However this was not necessary to maintain because I was able to specify the dimensions I needed directly in &lt;code&gt;wkhtmltopdf&lt;/code&gt;.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Developing graduate curriculum for digital language archive management</title>
-      <link>https://hughandbecky.us/Hugh-CV/talk/2024-alise/</link>
-      <pubDate>Sat, 19 Dec 2020 17:00:12 -0700</pubDate>
-      <guid>https://hughandbecky.us/Hugh-CV/talk/2024-alise/</guid>
-      <description></description>
     </item>
     
     <item>
