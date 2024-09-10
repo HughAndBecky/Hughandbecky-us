@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ICHL | Hugh&#39;s Curriculum Vitae</title>
+    <link>https://hughandbecky.us/Hugh-CV/institutions/ichl/</link>
+      <atom:link href="https://hughandbecky.us/Hugh-CV/institutions/ichl/index.xml" rel="self" type="application/rss+xml" />
+    <description>ICHL</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2024</copyright><lastBuildDate>Sun, 01 Sep 2024 09:30:22 -0700</lastBuildDate>
+    <image>
+      <url>https://hughandbecky.us/Hugh-CV/media/HughPaterson.jpg</url>
+      <title>ICHL</title>
+      <link>https://hughandbecky.us/Hugh-CV/institutions/ichl/</link>
+    </image>
+    
+    <item>
+      <title>The associative construction and friends within Niger-Congo: When nouns unite</title>
+      <link>https://hughandbecky.us/Hugh-CV/project/2025-ichl27-historical-linguistic-data-structures/</link>
+      <pubDate>Sun, 01 Sep 2024 09:30:22 -0700</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/project/2025-ichl27-historical-linguistic-data-structures/</guid>
+      <description>&lt;h2 id=&#34;call-for-papers&#34;&gt;Call for Papers&lt;/h2&gt;
+&lt;p&gt;This workshop proposes to provide a forum to discuss the structures and models of information resources in historical-comparative linguistic research outputs through the integration of informatic models from library science and archivy. &lt;em&gt;We want to address pertinant issues impacting the indexing (for citation) and interoperability of datasets (for sustainability).&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;WS Title&lt;/strong&gt;: First workshop on Data Models, Citation, Access, and Re-usability impacting Historical Linguistic Datasets
+Workshop at ICHL27, Santiago de Chile, 18-22 August 2025&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Workshop Type&lt;/strong&gt;: in-person&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Organizers&lt;/strong&gt;: Hugh Paterson III &amp;amp; Oksana Zavalina&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Abstract Deadline&lt;/strong&gt;: October 18th&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Abstract Details&lt;/strong&gt;: 800 words excluding references.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Submission&lt;/strong&gt;: Email PDF of abstracts to both &lt;a href=&#34;mailto:i@hp3.me&#34;&gt;i@hp3.me&lt;/a&gt; and &lt;a href=&#34;mailto:oksana.zavalina@unt.edu&#34;&gt;oksana.zavalina@unt.edu&lt;/a&gt; with &lt;code&gt;[ICHL27 w8]&lt;/code&gt; in the subject line.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Note&lt;/strong&gt;: Workshops are in most cases restricted to 6 papers; all other papers, if accepted, will be given as part of the ICHL general sessions. Should there be sufficient interest for an extended workshop (up to 12 papers), we will lobby the local organizers to permit this format.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Workshop Website&lt;/strong&gt;: &lt;a href=&#34;https://hughandbecky.us/Hugh-CV/project/2025-ichl27-historical-linguistic-data-structures&#34;&gt;https://hughandbecky.us/Hugh-CV/project/2025-ichl27-historical-linguistic-data-structures&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Conference Website&lt;/strong&gt;: &lt;a href=&#34;https://ichl27santiago.cl&#34;&gt;https://ichl27santiago.cl&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;PDF of Confrence abstract&lt;/strong&gt;: 
+&lt;a href=&#34;Citation-Access-and-Reusability-in-Historical-Linguistic-Data-Sets.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Publication&lt;/strong&gt;: We are pursuing publication via edited volume post-workshop.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;goal--questions&#34;&gt;Goal &amp;amp; Questions&lt;/h2&gt;
+&lt;p&gt;The role of library models (e.g., IFLA-LRM: Riva, Le Bœuf, and Žumer 2017) and archival practice (e.g., lifecycle management: Higgins 2012) is under-explored in relation to the construction and reuse of Historical Linguistic Information Sources. This workshop proposes to provide a forum to discuss the structures and models of information resources in historical-comparative linguistic research outputs through the integration of informatic models from library science and archivy.&lt;/p&gt;
+&lt;p&gt;We invite papers describing the information models used for assembling large corpora (including wordlists) used in historical linguistics, highlighting assumptions for citation, referencing, segmentation, and reusability of the assembled collection of texts and their digital surrogates. We encourage papers which present typologies of use cases, categories of tracked information, provenance of data content, citability of aggregate content, and the identifiers-for and permanence-of user-generated datasets on research platforms.&lt;/p&gt;
+&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
+&lt;p&gt;Significant advances have been made in historical linguistics through the use of large compiled datasets (e.g., Kamholz et al. 2024; Tresoldi 2023; Arora et al. 2023; Dellert et al. 2020; Greenhill 2015; Segerer and Flavier 2013; Mielke 2008; Greenhill, Blust, and Gray 2008). While not precluding the contributions of single historical manuscripts and traditional manuscript consultation methods, the use of and creation of datasets (including corpora) has become the defacto way of generating new hypotheses (Wichmann and Saunders 2007; Steiner, Cysouw, and Stadler 2011; Segerer 2015). Datasets in historical linguistics generally do two things: (1) &lt;em&gt;record critical researcher-created information such as &lt;strong&gt;reconstructed forms&lt;/strong&gt;, &lt;strong&gt;cognacy judgments&lt;/strong&gt;, &lt;strong&gt;confidence levels&lt;/strong&gt;, along with &lt;strong&gt;contextual notes&lt;/strong&gt;;&lt;/em&gt; and (2) &lt;em&gt;contain foundational content from sources not created by the dataset compiler&lt;/em&gt;. Such source material often include historically published and unpublished resources including: &lt;strong&gt;maps&lt;/strong&gt; (Hessle and Kirk 2020), &lt;strong&gt;language specific lexicons&lt;/strong&gt; and &lt;strong&gt;published reconstructions&lt;/strong&gt; (Kamholz et al. 2024), &lt;strong&gt;wordlists&lt;/strong&gt; (Forkel et al. 2024; Segerer and Flavier 2013), &lt;strong&gt;transcriptions of manuscripts and texts&lt;/strong&gt; (Weber et al. 2023; Genee and Junker 2018; Kytö 2011), and even &lt;strong&gt;reconstructions by other scholars&lt;/strong&gt;, etc.&lt;/p&gt;
+&lt;p&gt;Interactional platform-tools such as RefLex (Segerer and Flavier 2013) or OUTOFPAPUA (Kamholz et al. 2024) allow users to create custom datasets based on specific selected resources available to the platform. They do this without requiring users to interact with the complete set of underlying resources and/or the platforms allow users to create new derivative aggregate collections (reconstructed forms and cognacy relations) independent of other platform users. Citing, referencing, and redistributing these custom datasets is challenging and impacts the verifiability of claims.&lt;/p&gt;
+&lt;p&gt;It is broadly accepted across linguistic research that scholarly work—including evidence— should be citable, accessable, and reusable (Bird and Simons 2003). Together these issues impact reproducibility, an important tenet in scholarship often overlooked in linguistics (Berez-Kroeker et al. 2018). However, it is also well acknowledged that the citation and reference of original source material for linguistic evidence is lacking across the field (Gawne et al. 2017). More specifically in historical-comparative linguistics, the context of citation and referencing of the evidentiary record along with current dataset assemblage and distribution practices generally do not support fine-grained or Work-oriented citation and referencing. This often means that specific and necessary details in comparative linguistics are not retrievable. Therefore, the data models embedded within historical comparative datasets become all the more important for the reproducibility of work and the testing, verification, and refinement of hypotheses (Bakro-Nagy 2010).&lt;/p&gt;
+&lt;p&gt;With the exception of leading work around Cross-Linguistic Data Formats (CLDF) use with historical-comparative data (Forkel et al. 2018; Forkel, Swanson, and Moran 2024) and approaches using linked data in linguistics (Kesäniemi et al. 2018; Tittel, Gillis-Webber, and Nannini 2020), the literature has been silent about the storage formats for historical-comparative data. Undiscussed are the information categories represented in historical comparative linguistic datasets. The informatic arrangement and description of compiled datasets has generally been ad-hoc and served the needs of individually-funded projects. This has resulted in a proliferation of divergent data categories mitigating against ease-of-reuse.&lt;/p&gt;
+&lt;p&gt;We set out to ignite discussion around compilations of manuscripts, wordlists, and other derivative resources which have become mainstream tools in hypothesis generation related to the language evolution. We explore the heretofore unapproached contribution that models such as Work-Expression-Manifestation-Item (WEMI), illustrated in figure 1, from library and information science (Coyle 2023; Riva, Le Bœuf, and Žumer 2017; IFLA, 1998) can offer those who compile, and cite/reference aggregate linguistic resources. Specifically, clarifying linking relationships between the literature and datasets, including dataset portions.&lt;/p&gt;
+&lt;p&gt;We invite papers describing the information models used for assembling large corpora (including wordlists) used in historical linguistics, highlighting assumptions for citation, referencing, segmentation, and reusability of the assembled collection of texts and their digital surrogates. We encourage papers which present typologies of use cases, categories of tracked information, provenance of data content, citability of aggregate content, and the identifiers-for and permanence-of user-generated datasets on research platforms.&lt;/p&gt;
+
+
+
+  
+  
+  
+
+&lt;figure id=&#34;figure-figure-1-the-basic-wemi-model&#34;itemscope itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/project/2025-ichl27-historical-linguistic-data-structures/WEMI_hu72c0e727346b366756927d8b8c8b9c92_41408_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Figure 1. The basic WEMI model.&#34;&gt;
+
+  &lt;img data-src=&#34;https://hughandbecky.us/Hugh-CV/Hugh-CV/project/2025-ichl27-historical-linguistic-data-structures/WEMI_hu72c0e727346b366756927d8b8c8b9c92_41408_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;Figure 1. The basic WEMI model.&#34; width=&#34;1171&#34; height=&#34;541&#34; itemprop=&#34;contentUrl&#34;&gt;
+&lt;/a&gt;
+  
+  &lt;figcaption&gt;
+    &lt;p&gt;Figure 1. The basic WEMI model.
+      
+&lt;span class=&#34;img-attribution&#34;&gt;Credit: &lt;a href=&#34;https://hughandbecky.us/Hugh-CV&#34;&gt; Hugh Paterson III&lt;span itemprop=&#34;creator&#34; itemtype=&#34;https://schema.org/Person&#34; itemscope&gt;
+        &lt;meta itemprop=&#34;name&#34; content=&#34;Hugh Paterson III&#34; /&gt;
+      &lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+  &lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
+&lt;p&gt;Arora, Aryaman, Adam Farris, Samopriya Basu, and Suresh Kolichala. 2023. “Jambu: A Historical Linguistic Database for South Asian Languages.” arXiv. &lt;a href=&#34;https://doi.org/10.48550/arXiv.2306.02514&#34;&gt;https://doi.org/10.48550/arXiv.2306.02514&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Bakro-Nagy, Marianne. 2010. “Data in Historical Linguistics: On Utterances, Sources, and Reliability.” &lt;em&gt;Sprachtheorie Und Germanistische Linguistik&lt;/em&gt; 20.2: 133-195., January. &lt;a href=&#34;https://www.academia.edu/3629841/Data_in_historical_linguistics_On_utterances_sources_and_reliability&#34;&gt;https://www.academia.edu/3629841/Data_in_historical_linguistics_On_utterances_sources_and_reliability&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Berez-Kroeker, Andrea L., Lauren Gawne, Susan Smythe Kung, Barbara F. Kelly, Tyler Heston, Gary Holton, Peter Pulsifer, et al. 2018. “Reproducible Research in Linguistics: A Position Statement on Data Citation and Attribution in Our Field.” &lt;em&gt;Linguistics&lt;/em&gt; 56 (1): 1–18. &lt;a href=&#34;https://doi.org/10.1515/ling-2017-0032&#34;&gt;https://doi.org/10.1515/ling-2017-0032&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Bird, Steven, and Gary F. Simons. 2003. “Seven Dimensions of Portability for Language Documentation and Description.” &lt;em&gt;Language&lt;/em&gt; 79 (3): 557–82. &lt;a href=&#34;https://doi.org/10.1353/lan.2003.0149&#34;&gt;https://doi.org/10.1353/lan.2003.0149&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Coyle, Karen. 2023. “openWEMI.” In &lt;em&gt;Proceedings of the International Conference on Dublin Core and Metadata Applications&lt;/em&gt;. Dublin, Ohio: Dublin Core Metadata Initiative. &lt;a href=&#34;https://doi.org/10.23106/DCMI.953115290&#34;&gt;https://doi.org/10.23106/DCMI.953115290&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Dellert, Johannes, Thora Daneyko, Alla Münch, Alina Ladygina, Armin Buch, Natalie Clarius, Ilja Grigorjew, et al. 2020. “NorthEuraLex: A Wide-Coverage Lexical Database of Northern Eurasia.” &lt;em&gt;Language Resources and Evaluation&lt;/em&gt; 54 (1): 273–301. &lt;a href=&#34;https://doi.org/10.1007/s10579-019-09480-6&#34;&gt;https://doi.org/10.1007/s10579-019-09480-6&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Forkel, Robert, Johann-Mattis List, Simon J. Greenhill, Christoph Rzymski, Sebastian Bank, Michael Cysouw, Harald Hammarström, Martin Haspelmath, Gereon A. Kaiping, and Russell D. Gray. 2018. “Cross-Linguistic Data Formats, Advancing Data Sharing and Re-Use in Comparative Linguistics.” &lt;em&gt;Scientific Data&lt;/em&gt; 5 (1): 180205. &lt;a href=&#34;https://doi.org/10.1038/sdata.2018.205&#34;&gt;https://doi.org/10.1038/sdata.2018.205&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Forkel, Robert, Johann-Mattis List, Christoph Rzymski, and Guillaume Segerer. 2024. “Linguistic Survey of India and Polyglotta Africana: Two Retrostandardized Digital Editions of Large Historical Collections of Multilingual Wordlists.” In _Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024), edited by Nicoletta Calzolari, Min-Yen Kan, Veronique Hoste, Alessandro Lenci, Sakriani Sakti, and Nianwen Xue, 10578–83. Torino, Italia: ELRA and ICCL. &lt;a href=&#34;https://aclanthology.org/2024.lrec-main.925&#34;&gt;https://aclanthology.org/2024.lrec-main.925&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Forkel, Robert, Daniel G. Swanson, and Steven Moran. 2024. “Converting Legacy Data to CLDF: A FAIR Exit Strategy for Linguistic Web Apps.” In Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024), edited by Nicoletta Calzolari, Min-Yen Kan, Veronique Hoste, Alessandro Lenci, Sakriani Sakti, and Nianwen Xue, 3978–82. Torino, Italia: ELRA and ICCL. &lt;a href=&#34;https://aclanthology.org/2024.lrec-main.353&#34;&gt;https://aclanthology.org/2024.lrec-main.353&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Gawne, Lauren, Barbara F. Kelley, Andrea L. Berez-Kroeker, and Tyler Heston. 2017. “Putting Practice into Words: The State of Data and Methods Transparency in Grammatical Descriptions.” &lt;em&gt;Language Documentation &amp;amp; Description&lt;/em&gt; 11:157–89. &lt;a href=&#34;http://hdl.handle.net/10125/24731&#34;&gt;http://hdl.handle.net/10125/24731&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Genee, Inge, and Marie-Odile Junker. 2018. “The Blackfoot Language Resources and Digital Dictionary Project: Creating Integrated Web Resources for Language Documentation and Revitalization.” &lt;em&gt;Language Documentation &amp;amp; Conservation&lt;/em&gt; 12:274–314. &lt;a href=&#34;http://hdl.handle.net/10125/24770&#34;&gt;http://hdl.handle.net/10125/24770&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Greenhill, Simon J. 2015. “TransNewGuinea.Org: An Online Database of New Guinea Languages.” PLOS ONE 10 (10): e0141563. &lt;a href=&#34;https://doi.org/10.1371/journal.pone.0141563&#34;&gt;https://doi.org/10.1371/journal.pone.0141563&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Greenhill, Simon J., Robert Blust, and Russell D. Gray. 2008. “The Austronesian Basic Vocabulary Database: From Bioinformatics to Lexomics.” &lt;em&gt;Evolutionary Bioinformatics&lt;/em&gt; 4 (January):EBO.S893. &lt;a href=&#34;https://doi.org/10.4137/EBO.S893&#34;&gt;https://doi.org/10.4137/EBO.S893&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Hessle, Christian, and John Kirk. 2020. “Digitising Collections of Historical Linguistic Data: The Example of The Linguistic Atlas of Scotland.” &lt;em&gt;Journal of Data Mining &amp;amp; Digital Humanities Special issue on Visualisations in Historical Linguistics&lt;/em&gt;. &lt;a href=&#34;https://doi.org/10.46298/jdmdh.5611&#34;&gt;https://doi.org/10.46298/jdmdh.5611&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Higgins, Sarah. 2012. “The Lifecycle of Data Managment.” In &lt;em&gt;Managing Research Data&lt;/em&gt;, edited by Graham Pryor, 17–46. London, UK: Facet Publishing.&lt;/p&gt;
+&lt;p&gt;IFLA Study Group on the Functional Requirements for Bibliographic Records and Plassard, Marie-France. 1998. “Functional Requirements for Bibliographic Records: Final Report.”  2nd ed. [UBCIM Publications, New Series] IFLA Series on Bibliographic Control 19. Munich, Germany: K.G. Saur. &lt;a href=&#34;http://www.ifla.org/VII/s13/frbr&#34;&gt;http://www.ifla.org/VII/s13/frbr&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Kamholz, David, Anne van Schie, Allahverdi Verdizade, Maria Zielenbach, and Antoinette Schapper. 2024. “OUTOFPAPUA.” Database. 2024. &lt;a href=&#34;https://outofpapua.com&#34;&gt;https://outofpapua.com&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Kesäniemi, Joonas, Turo Vartiainen, Tanja Säily, and Terttu Nevalainen. 2018. “Exploring Meta-Analysis for Historical Corpus Linguistics Based on Linked Data.” &lt;em&gt;Journal of Research Design and Statistics in Linguistics and Communication Science&lt;/em&gt; 5 (1–2): 4–47. &lt;a href=&#34;https://doi.org/10.1558/jrds.36709&#34;&gt;https://doi.org/10.1558/jrds.36709&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Kytö, Merja. 2011. “Corpora and Historical Linguistics.” Revista Brasileira de Linguística Aplicada 11 (2): 417–57. &lt;a href=&#34;https://doi.org/10.1590/S1984-63982011000200007&#34;&gt;https://doi.org/10.1590/S1984-63982011000200007&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Mielke, Jeff. 2008. The Emergence of Distinctive Features. Oxford, England: Oxford University Press.&lt;/p&gt;
+&lt;p&gt;Riva, Pat, Patrick Le Bœuf, and Maja Žumer, eds. 2017. IFLA Library Reference Model: A Conceptual Model for Bibliographic Information. December 2017. Den Haag, Netherlands: International Federation of Library Associations and Institutions (IFLA). &lt;a href=&#34;https://www.ifla.org/publications/node/11412&#34;&gt;https://www.ifla.org/publications/node/11412&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Segerer, Guillaume. 2015. “How Databases Shape Research: Labial-Velars Distribution in Africa.” In 8th World Congress of African Linguistics (WOCAL8). Kyoto, Japan. &lt;a href=&#34;https://inria.hal.science/halshs-01251122&#34;&gt;https://inria.hal.science/halshs-01251122&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Segerer, Guillaume, and Sébastien Flavier. 2013. “The RefLex Project: Documenting and Exploring Lexical Resources in Africa.” Oral Presentation presented at the Research, records and responsibility: Ten years of the Pacific and Regional Archive for Digital Sources in Endangered Cultures, Sydney, Australia. &lt;a href=&#34;http://hdl.handle.net/2123/9854&#34;&gt;http://hdl.handle.net/2123/9854&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Steiner, Lydia, Michael Cysouw, and Peter Stadler. 2011. “A Pipeline for Computational Historical Linguistics,” January. &lt;a href=&#34;https://doi.org/10.1163/221058211X570358&#34;&gt;https://doi.org/10.1163/221058211X570358&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Tittel, Sabine, Frances Gillis-Webber, and Alessandro A. Nannini. 2020. “Towards an Ontology Based on Hallig-Wartburg’s Begriffssystem for Historical Linguistic Linked Data.” In &lt;em&gt;Proceedings of the 7th Workshop on Linked Data in Linguistics (LDL-2020)&lt;/em&gt;, edited by Maxim Ionov, John P. McCrae, Christian Chiarcos, Thierry Declerck, Julia Bosque-Gil, and Jorge Gracia, 1–10. Marseille, France: European Language Resources Association. &lt;a href=&#34;https://aclanthology.org/2020.ldl-1.1&#34;&gt;https://aclanthology.org/2020.ldl-1.1&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Tresoldi, Tiago. 2023. “A Global Lexical Database (GLED) for Computational Historical Linguistics.” Journal of Open Humanities Data 9 (1): Article 2. &lt;a href=&#34;https://doi.org/10.5334/johd.96&#34;&gt;https://doi.org/10.5334/johd.96&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Weber, Natalie, Tyler Brown, Joshua Celli, McKenzie Denham, Hailey Dykstra, Rodrigo Hernandez-Merlin, Evan Hochstein, et al. 2023. “Blackfoot Words: A Database of Blackfoot Lexical Forms.” Language Resources and Evaluation 57 (3): 1207–62. &lt;a href=&#34;https://doi.org/10.1007/s10579-022-09631-2&#34;&gt;https://doi.org/10.1007/s10579-022-09631-2&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Wichmann, Søren, and Arpiar Saunders. 2007. “How to Use Typological Databases in Historical Linguistic Research.” Diachronica 24 (2): 373–404. &lt;a href=&#34;https://doi.org/10.1075/dia.24.2.06wic&#34;&gt;https://doi.org/10.1075/dia.24.2.06wic&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The associative construction and friends within Niger-Congo: When nouns unite</title>
+      <link>https://hughandbecky.us/Hugh-CV/project/2025-ichl27-workshop-associative-construction/</link>
+      <pubDate>Sun, 01 Sep 2024 09:30:22 -0700</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/project/2025-ichl27-workshop-associative-construction/</guid>
+      <description>&lt;h2 id=&#34;call-for-papers&#34;&gt;Call for Papers&lt;/h2&gt;
+&lt;p&gt;The proposed workshop welcomes studies which illustrate the associative construction from any Niger-Congo language, from a historical-comparative or internal-reconstruction perspective. Of particular interest are those studies which discuss the evolution of forms or functions related to noun-noun constructions from Gur, Adamawa, Dogon, Ubangi, and other purported Niger-Congo branches with constructions parallel to identified associative constructions in other branches.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;WS Title&lt;/strong&gt;: The associative construction and friends within Niger-Congo: When nouns unite
+Workshop at ICHL27, Santiago de Chile, 18-22 August 2025&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Workshop Type&lt;/strong&gt;: in-person&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Organizers&lt;/strong&gt;: Rebecca Paterson &amp;amp; Hugh Paterson III&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Abstract Deadline&lt;/strong&gt;: October 18th&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Abstract Details&lt;/strong&gt;: 800 words excluding references.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Submission&lt;/strong&gt;: Email PDF of abstracts to both &lt;a href=&#34;mailto:r.paterson@princeton.edu&#34;&gt;r.paterson@princeton.edu&lt;/a&gt; and &lt;a href=&#34;mailto:i@hp3.me&#34;&gt;i@hp3.me&lt;/a&gt; with &lt;code&gt;[ICHL27 w5]&lt;/code&gt; in the subject line.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Note&lt;/strong&gt;: Workshops are in most cases restricted to 6 papers; all other papers, if accepted, will be given as part of the ICHL general sessions. Should there be sufficient interest for an extended workshop (up to 12 papers), we will lobby the local organizers to permit this format.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Workshop Website&lt;/strong&gt;: &lt;a href=&#34;https://hughandbecky.us/Becky-CV/project/ichl27-workshop-associative-construction&#34;&gt;https://hughandbecky.us/Becky-CV/project/ichl27-workshop-associative-construction&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Conference Website&lt;/strong&gt;: &lt;a href=&#34;https://ichl27santiago.cl&#34;&gt;https://ichl27santiago.cl&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;PDF of Confrence abstract&lt;/strong&gt;: 
+&lt;a href=&#34;W5-The-associative-construction-and-friends-within-Niger-Congo-When-nouns-unite.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Publication&lt;/strong&gt;: We are pursuing publication via edited volume post-workshop.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;goal--questions&#34;&gt;Goal &amp;amp; Questions&lt;/h2&gt;
+&lt;p&gt;The [N Assoc N] construction sits at the apex of phonological, syntactic, and semantic evolution. The evolution of semantic uses (Evans 2012: 201) may affect clauses on different evolutionary trajectories from morpho-phonological sound changes. Therefore, the rather productive and promiscuous associative construction can become involved in independent evolutionary trajectories, e.g., phonological sound changes and semantic uses. The proposed workshop welcomes studies which illustrate the associative construction from any Niger-Congo language, from a historical-comparative or internal-reconstruction perspective. Of particular interest are those studies which discuss the evolution of forms or functions related to noun-noun constructions from Gur, Adamawa, Dogon, Ubangi, and other purported Niger-Congo branches with constructions parallel to identified associative constructions in other branches.&lt;/p&gt;
+&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
+&lt;p&gt;The noun phrase is highly important to communication and is significant within historical-comparative work (e.g., wordlists). Noun phrase internal constituency and order is correlated with discourse pragmatics and sentence-level syntax in African languages (e.g., evolutionary syntax). We propose a workshop discussing and exploring the evolution of the range and forms of the associative construction both within and beyond the noun phrase.&lt;/p&gt;
+&lt;p&gt;Across Niger-Congo, the common Noun-Noun construction (also known as the associative construction per Welmers, 1963; a.k.a., connective, e.g., Meeussen 1967;  connexive, e.g., Schadeberg 1995:176, and genitive, e.g., Benson 2020) has different interpretive meanings and invokes a variety of morpho-phonological forms. These forms in turn have various information-structure implications and communicative impacts. The associative construction has been discussed for certain sub-branches of Niger-Congo (e.g., Bantu, see Van de Velde 2013). The full range of functions of Welmers’ associative construction is little explored synchronically or diachronically.&lt;/p&gt;
+&lt;p&gt;While the syntax of the structure is consistently [N Assoc N], variations on the form of the associative marker itself are diverse as seen in examples 1a-e where the form can take the shape of a low vowel, a low tone, or in some languages a high tone. The canonical form for Bantu is proposed as AG-a; that is, a root -a which is preceded by a noun class agreement prefix (Meeussen 1967), and later Van de Velde (2013: 219). The exact morpho-phonological shape of the construction varies from language to language.&lt;/p&gt;
+&lt;p&gt;(1)&lt;/p&gt;
+&lt;p&gt;a. Kagulu [kki] (Bantu; Tanzania; Petzell 2008: 86, as cited in Van de Velde 2013: 217)
+m-eji 		g-a 	 	mu-nyu
+6-water 	AG6-CON 	3-salt
+‘salt water’&lt;/p&gt;
+&lt;p&gt;b. Swahili [swa] (Bantu; Welmers 1963: 433)
+maji 		y-a 		chumvi
+{water		AG-ASSOC	salt	}
+‘salt water (water associated with salt)’&lt;/p&gt;
+&lt;p&gt;c. ut-Ma’in [gel] (Kainji; Nigeria; Paterson 2019: 264)
+swā  	d-	  ̀ 	=u-rwág
+nose	AG5-ASSOC	=C7-elephant
+‘elephant trunk’ (ɘ̄r-swā ‘C5-nose’;  ū-rwág ‘C7-elephant’)&lt;/p&gt;
+&lt;p&gt;d. Kwakum [kwu] (Bantu; Cameroon; Louagie et al. 2023)
+ndètɛ̀ 	´	-kɛ̀ɛ̀
+big 	CON	-fish
+‘the big fish’ (~ the being big/bigness of the fish)&lt;/p&gt;
+&lt;p&gt;e. Igbo [ibo] (Kwa; Nigeria; Welmers &amp;amp; Welmers 1969: 316)
+ímé 	ꜜíkó
+inside	cup
+‘inside of a cup’ (ímé ‘inside’; ìkó ‘cup’; ASSOC conveyed by tonal downstep)&lt;/p&gt;
+&lt;p&gt;Within the noun phrase, various semantic relationships or functions between the nouns are described for the associative construction including: possessive (example 3), part-whole (specific-general) (example 1-c.), material-composition (thing-compositional material) (example 2-a), person-place (person from a place), place of use, and time of use. At the clause level, these same constructions can convey semantics related to method, utility (material), location, time, and cause.&lt;/p&gt;
+&lt;p&gt;(2) Swahili [swa] (Bantu; Welmers 1963: 433)
+material: 	nyumba z-a mawe
+‘houses made of stone’
+material: 	alikifanya kw-a mti
+‘he made it out of wood’
+(3) Mumuye [mzm] (Adamawa; Shimizu 1983, as in Cahill 2000: 37)
+kìn	+	kpàǹtī	–&amp;gt; 	kìń kpàǹtī
+chicken 	chief		‘chief’s chicken’&lt;/p&gt;
+&lt;h2 id=&#34;confirmed-speakers&#34;&gt;Confirmed Speakers&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;tbd&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
+&lt;p&gt;Benson, Peace. 2020. “A Description of Dzә (Jenjo) Nouns and Noun Phrases, an Adamawa Language of Northeastern Nigeria.” Asian and African Studies (Publication of Saint Petersburg State University) 12 (4): 490–504. &lt;a href=&#34;https://doi.org/10.21638/spbu13.2020.402&#34;&gt;https://doi.org/10.21638/spbu13.2020.402&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Cahill, Michael. 2000. “Tonal Associative Morphemes in Optimality Theory.” VARIA: Working Papers in Linguistics 53: 31–70. &lt;a href=&#34;https://linguistics.osu.edu/research/pubs/papers/archive&#34;&gt;https://linguistics.osu.edu/research/pubs/papers/archive&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Evans, V. 2010. “Evolution of Semantics.” In Concise Encyclopedia of Philosophy of Language and Linguistics, edited by Alex Barber and Robert J. Stainton, 196–204. Oxford; Boston: Elsevier.&lt;/p&gt;
+&lt;p&gt;Louagie, Dana, Elisabeth Njantcho Kouagang, and Mark Van de Velde. 2023. “Kwakum Nominal Expressions: Constructional Exuberance.” Presented at the 56th Annual Meeting of the Societas Linguistica Europaea, Athens, Greece.&lt;/p&gt;
+&lt;p&gt;Meeussen, Achille Emile. 1967. “Bantu Grammatical Reconstructions.” Africana Linguistica 3 (1): 79–121. &lt;a href=&#34;https://doi.org/10.3406/aflin.1967.873&#34;&gt;https://doi.org/10.3406/aflin.1967.873&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Paterson, Rebecca Dow Smith. 2019. “Nominalization and Predication in U̱t-Maꞌin.” Doctoral dissertation, Eugene, Oregon: University of Oregon. Scholarsbank - University of Oregon. &lt;a href=&#34;https://scholarsbank.uoregon.edu/xmlui/handle/1794/25259&#34;&gt;https://scholarsbank.uoregon.edu/xmlui/handle/1794/25259&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Shimizu, Kiyoshi. 1983. The Zing Dialect of Mumuye: A Descriptive Grammar with a Mumuye-English Dictionary and an English-Mumuye Index. Hamburg: Helmut Buske.&lt;/p&gt;
+&lt;p&gt;Van De Velde, Mark. 2013. “The Bantu Connective Construction.” In The Genitive, edited by Anne Carlier and Jean-Christophe Verstraete, 217–52. Case and Grammatical Relations Across Languages 5. Amsterdam: John Benjamins Publishing Company. &lt;a href=&#34;https://doi.org/10.1075/cagral.5.08vel&#34;&gt;https://doi.org/10.1075/cagral.5.08vel&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Welmers, William E. 1963. “Associative a and ka in Niger-Congo.” Language 39 (3): 432–47. &lt;a href=&#34;https://doi.org/10.2307/411125&#34;&gt;https://doi.org/10.2307/411125&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Welmers, William E., and Beatrice F. Welmers. 1969. “Noun Modifiers in Igbo.” International Journal of American Linguistics 35 (4): 315–22. &lt;a href=&#34;https://doi.org/10.1086/465076&#34;&gt;https://doi.org/10.1086/465076&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
