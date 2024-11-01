@@ -302,9 +302,9 @@
 <meta name="DC.Subject" content="dc:type">
 <meta name="DC.Subject" content="DCMIType">
 <meta name="DC.Subject" content="">
-<meta name="DC.Subject" content="olac_dt_"><meta name="DC.Description" content="This posts highlighs some ways to find hidden collection records in the OLAC data set.">
-<meta name="dcterms.abstract" content="This posts highlighs some ways to find hidden collection records in the OLAC data set.">
-<meta name="eprints.abstract" content="This posts highlighs some ways to find hidden collection records in the OLAC data set."><meta name="dcterms.language" content="ISO639-3:eng">
+<meta name="DC.Subject" content="olac_dt_"><meta name="DC.Description" content="This posts highlights some ways to find hidden collection records in the OLAC data set.">
+<meta name="dcterms.abstract" content="This posts highlights some ways to find hidden collection records in the OLAC data set.">
+<meta name="eprints.abstract" content="This posts highlights some ways to find hidden collection records in the OLAC data set."><meta name="dcterms.language" content="ISO639-3:eng">
 
 <meta name="eprints.languages_3char" content="eng">
 <meta name="dcterms.issued" content="2024-06-15">
@@ -819,7 +819,7 @@
 <div class="article-container">
 
     <div class="article-style"><p>In 2022 I 
-<a href="https://hughandbecky.us/Hugh-CV/publication/2022-where-have-all-the-collections-gone-analysis-of-olac-data-contributors-use-of-dcmitype-collection" target="_blank" rel="noopener">published about the lack of DCMIType usage to indicate collection records within OLAC records</a>. That publication didn&rsquo;t look at the use of  <code>&lt;dc:type&gt;&lt;/dc:type&gt;</code> in an unqualified way to indicate collections. The analysis of that original paper should be revisited, or amended in this light. Today I found a new-to-me and interesting method to discovering in a qantifiable way additional un-marked collection reocords. It seems that the OLAC provider from cocoon <code>crdo.vjf.cnrs.fr</code> as not used the DCMIType declaration for collections but has used an undeclared type of <code>&lt;dc:type&gt;archives&lt;/dc:type&gt;</code>. Archives are sets of artifacts and therefore meet the DCMIType definiition for collection. A quick search of the OLAC dataset <code>grep -i '&lt;dc:type&gt;archives&lt;/dc:type&gt;' ListRecords-20210718.xml | uniq -c</code> indicates that there are 314 of these records. There were no records indicated for the terms <em>set</em>, <em>collection</em>, or <em>group</em>. However, there were quite a few with the dc:type term <em>corpus</em></p>
+<a href="https://hughandbecky.us/Hugh-CV/publication/2022-where-have-all-the-collections-gone-analysis-of-olac-data-contributors-use-of-dcmitype-collection" target="_blank" rel="noopener">published about the lack of DCMIType usage to indicate collection records within OLAC records</a>. That publication didn&rsquo;t look at the use of  <code>&lt;dc:type&gt;&lt;/dc:type&gt;</code> in an unqualified way to indicate collections. The analysis of that original paper should be revisited, or amended in this light. Today I found a new-to-me and interesting method to discovering in a quantifiable way additional un-marked collection records. It seems that the OLAC provider from cocoon <code>crdo.vjf.cnrs.fr</code> as not used the DCMIType declaration for collections but has used an undeclared type of <code>&lt;dc:type&gt;archives&lt;/dc:type&gt;</code>. Archives are sets of artifacts and therefore meet the DCMIType definition for collection. A quick search of the OLAC dataset <code>grep -i '&lt;dc:type&gt;archives&lt;/dc:type&gt;' ListRecords-20210718.xml | uniq -c</code> indicates that there are 314 of these records. There were no records indicated for the terms <em>set</em>, <em>collection</em>, or <em>group</em>. However, there were quite a few with the dc:type term <em>corpus</em></p>
 <table>
 <thead>
 <tr>
@@ -912,7 +912,7 @@
 	&lt;/metadata&gt;
 &lt;/record&gt;
 </code></pre>
-<p>A second point of interest might be to look at the usage of the tableOfContents element usage especially by PARADISEC, as a taset indication of a collection record.</p>
+<p>A second point of interest might be to look at the usage of the tableOfContents element usage especially by PARADISEC, as a dataset indication of a collection record.</p>
 </div>
 
 
