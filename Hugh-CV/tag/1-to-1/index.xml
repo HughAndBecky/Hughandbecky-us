@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1-to-1 | Hugh&#39;s Curriculum Vitae</title>
+    <link>https://hughandbecky.us/Hugh-CV/tag/1-to-1/</link>
+      <atom:link href="https://hughandbecky.us/Hugh-CV/tag/1-to-1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1-to-1</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2025</copyright><lastBuildDate>Thu, 06 Mar 2025 10:40:00 +0900</lastBuildDate>
+    <image>
+      <url>https://hughandbecky.us/Hugh-CV/media/HughPaterson.jpg</url>
+      <title>1-to-1</title>
+      <link>https://hughandbecky.us/Hugh-CV/tag/1-to-1/</link>
+    </image>
+    
+    <item>
+      <title>Applying Library Science Models to the Arrangement of Language Collections</title>
+      <link>https://hughandbecky.us/Hugh-CV/talk/2025-applying-library-science-models-to-the-arrangement-of-language-collections/</link>
+      <pubDate>Thu, 06 Mar 2025 10:40:00 +0900</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/talk/2025-applying-library-science-models-to-the-arrangement-of-language-collections/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

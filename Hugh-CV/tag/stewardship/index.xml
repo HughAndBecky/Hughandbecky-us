@@ -5,7 +5,7 @@
     <link>https://hughandbecky.us/Hugh-CV/tag/stewardship/</link>
       <atom:link href="https://hughandbecky.us/Hugh-CV/tag/stewardship/index.xml" rel="self" type="application/rss+xml" />
     <description>Stewardship</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2025</copyright><lastBuildDate>Tue, 03 Sep 2024 10:40:00 +0900</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2025</copyright><lastBuildDate>Thu, 06 Mar 2025 10:40:00 +0900</lastBuildDate>
     <image>
       <url>https://hughandbecky.us/Hugh-CV/media/HughPaterson.jpg</url>
       <title>Stewardship</title>
@@ -13,11 +13,26 @@
     </image>
     
     <item>
+      <title>Applying Library Science Models to the Arrangement of Language Collections</title>
+      <link>https://hughandbecky.us/Hugh-CV/talk/2025-applying-library-science-models-to-the-arrangement-of-language-collections/</link>
+      <pubDate>Thu, 06 Mar 2025 10:40:00 +0900</pubDate>
+      <guid>https://hughandbecky.us/Hugh-CV/talk/2025-applying-library-science-models-to-the-arrangement-of-language-collections/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Training, Archivists, and Language Collections</title>
       <link>https://hughandbecky.us/Hugh-CV/talk/2024-training-archivists-and-language-collections/</link>
       <pubDate>Tue, 03 Sep 2024 10:40:00 +0900</pubDate>
       <guid>https://hughandbecky.us/Hugh-CV/talk/2024-training-archivists-and-language-collections/</guid>
-      <description></description>
+      <description>&lt;div id=&#34;watch&#34;&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/GevhnoGcG50&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+</description>
     </item>
     
   </channel>
