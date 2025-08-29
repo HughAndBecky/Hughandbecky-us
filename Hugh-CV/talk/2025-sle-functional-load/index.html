@@ -1,0 +1,2537 @@
+<!DOCTYPE html><html lang="en-us" >
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Source Themes Academic 4.8.0"><meta name="author" content="Hugh Paterson III"><meta name="description" content="What do we actually need to count, when we count the funtional load of tone?">
+  <link rel="alternate" hreflang="en-us" href="https://hughandbecky.us/Hugh-CV/talk/2025-sle-functional-load/">
+
+
+
+
+
+
+
+  
+
+
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <meta name="theme-color" content="#456587"><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.9.0/css/academicons.min.css" integrity="sha512-W4yqoT1+8NLkinBLBZko+dFB2ZbHsYLDdr50VElllRcNt2Q4/GSs6u71UHKxB7S6JEMCp5Ve4xjh3eGQl/HRvg==" crossorigin="anonymous"><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css" integrity="sha256-FMvZuGapsJLjouA6k7Eo2lusoAX9i0ShlWFG6qt7SLc=" crossorigin="anonymous"><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous">
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/leaflet.min.css" integrity="sha512-1xoFisiGdy9nvho8EgXuXvnpR5GAMSjFwp40gSRE3NwdUdIMIKuPa7bqoUhLD0O/5tPNhteAsE5XyyMi5reQVA==" crossorigin="anonymous">
+    
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/lazysizes/5.2.2/lazysizes.min.js" integrity="sha512-TmDwFLhg3UA4ZG0Eb4MIyT1O1Mb+Oww5kFG0uHqXsdbyZz9DcvYQhKpGgNkamAI6h2lGGZq2X8ftOJvF/XjTUg==" crossorigin="anonymous" async></script>
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+        
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+      
+  
+  
+    
+      
+      
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:400,700%7CRoboto+Mono%7CCharis+SIL&display=swap">
+    
+  
+
+  
+  
+  
+  
+  <link rel="stylesheet" href="/Hugh-CV/css/academic.css">
+
+  
+
+
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-31042070-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-31042070-2', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
+  
+
+
+  <link rel="manifest" href="/Hugh-CV/index.webmanifest">
+  <link rel="icon" type="image/png" href="/Hugh-CV/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_32x32_fill_lanczos_center_2.png">
+  <link rel="apple-touch-icon" type="image/png" href="/Hugh-CV/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_192x192_fill_lanczos_center_2.png">
+
+  <link rel="canonical" href="https://hughandbecky.us/Hugh-CV/talk/2025-sle-functional-load/">
+
+  
+  
+  
+  
+  
+  
+    
+  
+  <meta property="twitter:card" content="summary_large_image">
+  
+  <meta property="twitter:site" content="@thejourneyler">
+  <meta property="twitter:creator" content="@thejourneyler">
+  
+  <meta property="og:site_name" content="Hugh&#39;s Curriculum Vitae">
+  <meta property="og:url" content="https://hughandbecky.us/Hugh-CV/talk/2025-sle-functional-load/">
+  <meta property="og:title" content="Measuring the Functional Load of Tonal Melodies | Hugh&#39;s Curriculum Vitae">
+  <meta property="og:description" content="What do we actually need to count, when we count the funtional load of tone?"><meta property="og:image" content="https://hughandbecky.us/Hugh-CV/media/HughPaterson.jpg">
+  <meta property="twitter:image" content="https://hughandbecky.us/Hugh-CV/media/HughPaterson.jpg"><meta property="og:locale" content="en-us"><meta property="article:published_time" content="2025-08-26T17:00:12-07:00"><meta property="article:modified_time" content="2025-08-26T10:40:00&#43;01:00">
+
+
+
+  
+    
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Event",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://hughandbecky.us/Hugh-CV/talk/2025-sle-functional-load/"
+  },
+  "name": "Measuring the Functional Load of Tonal Melodies",
+  
+  "location": {
+    "@type": "Place",
+    "name": "Bordeaux, France"
+  },
+  
+  
+  "startDate": "2025-08-26T10:40:00+01:00",
+  
+  
+  "performer": {
+    "@type": "Person",
+    "name": "Hugh Paterson III"
+  },
+  
+  "description": "What do we actually need to count, when we count the funtional load of tone?"
+}
+</script>
+
+  
+
+  
+
+
+
+
+
+
+<link rel="stylesheet" type="text/css" href="/Hugh-CV/css/custom.css" />
+
+<link rel="stylesheet" type="text/css" href="/Hugh-CV/css/hugo-cite.css" />
+
+
+<meta name="pinterest" content="nopin">
+
+
+<meta name="keywords" content="Tone, Functional Load, Orthography, Phonology, Cognitive Load">
+
+
+<link rel="schema.dc" href="http://purl.org/dc/elements/1.1/">
+
+<link rel="schema.DCTERMS" href="http://purl.org/dc/terms/">
+
+<meta name="DC.Title" content="Measuring the Functional Load of Tonal Melodies">
+<meta name="citation_title" content="Measuring the Functional Load of Tonal Melodies">
+<meta name="eprints.title" content="Measuring the Functional Load of Tonal Melodies">
+<meta name="dcterms.title" content="Measuring the Functional Load of Tonal Melodies">
+<meta name="DC.Creator" content="admin">
+<meta name="citation_author" content="admin">
+<meta name="DC.Subject" content="Tone">
+<meta name="DC.Subject" content="Functional Load">
+<meta name="DC.Subject" content="Orthography">
+<meta name="DC.Subject" content="Phonology">
+<meta name="DC.Subject" content="Cognitive Load">
+<meta name="DC.Subject" content="phonology">
+<meta name="DC.Subject" content="writing_systems">
+<meta name="DC.Subject" content="olac_ls_phonology">
+<meta name="DC.Subject" content="olac_ls_writing-systems">
+<meta name="DC.Description" content="The computation of functional load has been debated. We present a method which addresses the computation of the functional load of tonal oppositions by viewing tone as non-concatenative (non-linear) oppositions–tonal melodies (e.g., Snider 1990a, 1992). Current approaches (e.g., Oh 2013; Hall et al. 2022) classify combinatory attenuations as series of singleton attenuations, failing to accurately reflect oppositions. An accurate assessment of functional load must do two things: Account for oppositions between sets of pitch heights across the domain to which the set attaches—account for non-linear distinctions. Account for variations between underlying tonal melodies and their surface forms when changes represent a meaningful distinction—include morphological options in computational algorithms.Promoted by Prague school linguists, the functional load hypothesis suggests that phoneme stability and consequential sound system stability (or inversely, sound system shifts) are the result of the relative importance (frequency) of phonological oppositions (Catford, 1988). Quantifying functional load, especially for tone, has been more challenging with suggestions from linear segmental (structuralist) approaches proposed by Greenberg (1959), Hackett (1966, 1967), Wang (1967b), Surendran (2003), and Surendran and Niyogi (2006). In addition to proposed impacts on language evolution, functional load remains a relevant concept among scholars involved with orthography development. They often justify orthography decisions for representing tone on the basis of perceived functional load, generally analyzing contrasts from a linear approach (Koffi 2014; Priestly 1992; Roberts 2009). This stands in contrast to the well-argued phonological importance of tonal melodies and their role in creating meaningful oppositions (Snider 1990a, 1990b, 1992). Defining the contrastive units involving pitch in communication has been elusive. The context of conducting tonal analysis is often construed as the necessity to distinguish between underlying-forms and surface-forms (Snider 2014) or which set of phonological features support a given pitch within a larger set of phonological units and pitch height contrasts (among others: Anderson 1978; Fromkin 1972; Wang 1967a, Snider 1988, McPherson 2016). Much like text input processes in computing, the analytical methods for calculating functional load have assumed linearity in segments, computing pitch either in conjunction with specific segmental carriers or independent as its own segment (in addition to the carrier). In contrast, tone (Snider 1999, 2014; Yip 1993, 2002) as well as other segments in morphological constructs, e.g., segmental non-concatenative morphology (Davis &amp;amp; Tsujimura 2018), has been convincingly argued to operate in non-linear ways as both part of the base lexical unit and as part of a templatic morphological paradigm applied during post-lexical processes, where morpho-phonological processes still allow pitch heights to change. This further highlights the need for clarity when calculating functional load–is the calculation being conducted upon lexemes prior-to or after a morphological process has transpired? A non-linear view suggests that in both cases the contrast developed is not with specific other pitch segments (or their carriers) but is better analysed as a set of segments acting together indicating meaning, contrasting with other sets of indicators within a given domain (e.g., verbs, nouns, etc.). A more accurate approach to computing functional load must include the comparison of all phonological units.">
+<meta name="dcterms.abstract" content="The computation of functional load has been debated. We present a method which addresses the computation of the functional load of tonal oppositions by viewing tone as non-concatenative (non-linear) oppositions–tonal melodies (e.g., Snider 1990a, 1992). Current approaches (e.g., Oh 2013; Hall et al. 2022) classify combinatory attenuations as series of singleton attenuations, failing to accurately reflect oppositions. An accurate assessment of functional load must do two things: Account for oppositions between sets of pitch heights across the domain to which the set attaches—account for non-linear distinctions. Account for variations between underlying tonal melodies and their surface forms when changes represent a meaningful distinction—include morphological options in computational algorithms.Promoted by Prague school linguists, the functional load hypothesis suggests that phoneme stability and consequential sound system stability (or inversely, sound system shifts) are the result of the relative importance (frequency) of phonological oppositions (Catford, 1988). Quantifying functional load, especially for tone, has been more challenging with suggestions from linear segmental (structuralist) approaches proposed by Greenberg (1959), Hackett (1966, 1967), Wang (1967b), Surendran (2003), and Surendran and Niyogi (2006). In addition to proposed impacts on language evolution, functional load remains a relevant concept among scholars involved with orthography development. They often justify orthography decisions for representing tone on the basis of perceived functional load, generally analyzing contrasts from a linear approach (Koffi 2014; Priestly 1992; Roberts 2009). This stands in contrast to the well-argued phonological importance of tonal melodies and their role in creating meaningful oppositions (Snider 1990a, 1990b, 1992). Defining the contrastive units involving pitch in communication has been elusive. The context of conducting tonal analysis is often construed as the necessity to distinguish between underlying-forms and surface-forms (Snider 2014) or which set of phonological features support a given pitch within a larger set of phonological units and pitch height contrasts (among others: Anderson 1978; Fromkin 1972; Wang 1967a, Snider 1988, McPherson 2016). Much like text input processes in computing, the analytical methods for calculating functional load have assumed linearity in segments, computing pitch either in conjunction with specific segmental carriers or independent as its own segment (in addition to the carrier). In contrast, tone (Snider 1999, 2014; Yip 1993, 2002) as well as other segments in morphological constructs, e.g., segmental non-concatenative morphology (Davis &amp;amp; Tsujimura 2018), has been convincingly argued to operate in non-linear ways as both part of the base lexical unit and as part of a templatic morphological paradigm applied during post-lexical processes, where morpho-phonological processes still allow pitch heights to change. This further highlights the need for clarity when calculating functional load–is the calculation being conducted upon lexemes prior-to or after a morphological process has transpired? A non-linear view suggests that in both cases the contrast developed is not with specific other pitch segments (or their carriers) but is better analysed as a set of segments acting together indicating meaning, contrasting with other sets of indicators within a given domain (e.g., verbs, nouns, etc.). A more accurate approach to computing functional load must include the comparison of all phonological units.">
+<meta name="eprints.abstract" content="The computation of functional load has been debated. We present a method which addresses the computation of the functional load of tonal oppositions by viewing tone as non-concatenative (non-linear) oppositions–tonal melodies (e.g., Snider 1990a, 1992). Current approaches (e.g., Oh 2013; Hall et al. 2022) classify combinatory attenuations as series of singleton attenuations, failing to accurately reflect oppositions. An accurate assessment of functional load must do two things: Account for oppositions between sets of pitch heights across the domain to which the set attaches—account for non-linear distinctions. Account for variations between underlying tonal melodies and their surface forms when changes represent a meaningful distinction—include morphological options in computational algorithms.Promoted by Prague school linguists, the functional load hypothesis suggests that phoneme stability and consequential sound system stability (or inversely, sound system shifts) are the result of the relative importance (frequency) of phonological oppositions (Catford, 1988). Quantifying functional load, especially for tone, has been more challenging with suggestions from linear segmental (structuralist) approaches proposed by Greenberg (1959), Hackett (1966, 1967), Wang (1967b), Surendran (2003), and Surendran and Niyogi (2006). In addition to proposed impacts on language evolution, functional load remains a relevant concept among scholars involved with orthography development. They often justify orthography decisions for representing tone on the basis of perceived functional load, generally analyzing contrasts from a linear approach (Koffi 2014; Priestly 1992; Roberts 2009). This stands in contrast to the well-argued phonological importance of tonal melodies and their role in creating meaningful oppositions (Snider 1990a, 1990b, 1992). Defining the contrastive units involving pitch in communication has been elusive. The context of conducting tonal analysis is often construed as the necessity to distinguish between underlying-forms and surface-forms (Snider 2014) or which set of phonological features support a given pitch within a larger set of phonological units and pitch height contrasts (among others: Anderson 1978; Fromkin 1972; Wang 1967a, Snider 1988, McPherson 2016). Much like text input processes in computing, the analytical methods for calculating functional load have assumed linearity in segments, computing pitch either in conjunction with specific segmental carriers or independent as its own segment (in addition to the carrier). In contrast, tone (Snider 1999, 2014; Yip 1993, 2002) as well as other segments in morphological constructs, e.g., segmental non-concatenative morphology (Davis &amp;amp; Tsujimura 2018), has been convincingly argued to operate in non-linear ways as both part of the base lexical unit and as part of a templatic morphological paradigm applied during post-lexical processes, where morpho-phonological processes still allow pitch heights to change. This further highlights the need for clarity when calculating functional load–is the calculation being conducted upon lexemes prior-to or after a morphological process has transpired? A non-linear view suggests that in both cases the contrast developed is not with specific other pitch segments (or their carriers) but is better analysed as a set of segments acting together indicating meaning, contrasting with other sets of indicators within a given domain (e.g., verbs, nouns, etc.). A more accurate approach to computing functional load must include the comparison of all phonological units.">
+<meta name="dcterms.bibliographicCitation" content="Paterson Ⅲ, Hugh. 2025. Measuring the Functional Load of Tonal Melodies. Paper presented at the 58th Annual Meeting of the Societas Linguistica Europaea In the workshop: Unifying the comparative analysis of tonal systems (WS24). Université Bordeaux Montaigne, Bordeaux, France. August 27th.">
+<meta name="eprints.citation" content="Paterson Ⅲ, Hugh. 2025. Measuring the Functional Load of Tonal Melodies. Paper presented at the 58th Annual Meeting of the Societas Linguistica Europaea In the workshop: Unifying the comparative analysis of tonal systems (WS24). Université Bordeaux Montaigne, Bordeaux, France. August 27th."><meta name="dcterms.language" content="ISO639-3:eng">
+
+<meta name="eprints.languages_3char" content="eng">
+<meta name="dcterms.issued" content="2025-08-26">
+<meta name="DC.Date" content="2025-08-26">
+<meta name="citation_publication_date" content="2025">
+
+
+<meta name="DC.Rights" content="Copyright 2025">
+<meta name="citation_online_date" content="2025/08/26">
+
+<meta name="citation_keywords" content="Tone, Functional Load, Orthography, Phonology, Cognitive Load">
+
+
+
+
+
+
+  
+<meta name="DC.Type" content="Event">
+<title>Measuring the Functional Load of Tonal Melodies | Hugh&#39;s Curriculum Vitae</title>
+</head>
+
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class=" ">
+
+  
+  
+  
+  
+    <script>const isSiteThemeDark = false;</script>
+  
+  
+  <script src="/Hugh-CV/js/load-theme.js"></script>
+
+  <aside class="search-results" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control">
+        
+      </div>
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+  
+
+
+
+
+<nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main" itemscope itemtype="https://schema.org/SiteNavigationElement">
+  <div class="container">
+
+    
+    <div class="d-none d-lg-inline-flex">
+      <a class="navbar-brand" href="/Hugh-CV/"><img src="/Hugh-CV/images/logo.svg" alt="Hugh&#39;s Curriculum Vitae"></a>
+    </div>
+    
+
+    
+    <button type="button" class="navbar-toggler" data-toggle="collapse"
+            data-target="#navbar-content" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+    <span><i class="fas fa-bars"></i></span>
+    </button>
+    
+
+    
+    <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+      <a class="navbar-brand" href="/Hugh-CV/"><img src="/Hugh-CV/images/logo.svg" alt="Hugh&#39;s Curriculum Vitae"></a>
+    </div>
+    
+
+    
+    
+    <div class="navbar-collapse main-menu-item collapse justify-content-end" id="navbar-content">
+
+      
+      <ul class="navbar-nav d-md-inline-flex" itemscope itemtype="https://schema.org/ItemList">
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          <li class="nav-item" itemprop="itemListElement">
+          <a class="nav-link " href="/Hugh-CV/#about"><span>Home</span></a>
+        </li>
+
+        
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          <li class="nav-item" itemprop="itemListElement">
+          <a class="nav-link " href="/Hugh-CV/#featured"><span>Publications</span></a>
+        </li>
+
+        
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          <li class="nav-item" itemprop="itemListElement">
+          <a class="nav-link " href="/Hugh-CV/#talks"><span>Talks</span></a>
+        </li>
+
+        
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          <li class="nav-item" itemprop="itemListElement">
+          <a class="nav-link " href="/Hugh-CV/#projects"><span>Projects</span></a>
+        </li>
+
+        
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          <li class="nav-item" itemprop="itemListElement">
+          <a class="nav-link " href="/Hugh-CV/#teaching"><span>Teaching</span></a>
+        </li>
+
+        
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          <li class="nav-item" itemprop="itemListElement">
+          <a class="nav-link " href="/Hugh-CV/#experience"><span>Experience</span></a>
+        </li>
+
+        
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          <li class="nav-item" itemprop="itemListElement">
+          <a class="nav-link " href="/Hugh-CV/#posts"><span>Notes</span></a>
+        </li>
+
+        
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          <li class="nav-item" itemprop="itemListElement">
+          <a class="nav-link " href="/Hugh-CV/#contact"><span>Contact</span></a>
+        </li>
+
+        
+        
+
+      
+
+        
+      </ul>
+    </div>
+
+    <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+      
+      <li class="nav-item" itemprop="itemListElement">
+        <a class="nav-link js-search" href="#" aria-label="Search"><i class="fas fa-search" aria-hidden="true"></i></a>
+      </li>
+      
+
+      
+      
+
+      
+
+    </ul>
+
+  </div>
+</nav>
+
+
+
+  <div class="pub">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+  
+  
+<div class="article-container pt-3">
+  <h1>Measuring the Functional Load of Tonal Melodies</h1>
+
+  
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+  
+  <span ><a href="/Hugh-CV/author/hugh-paterson-iii/">Hugh Paterson III</a></span>
+  </div>
+  
+  
+
+  
+
+  
+
+  
+
+  
+  
+  
+
+  
+  
+  <span class="middot-divider"></span>
+  <span class="article-categories">
+    <i class="fas fa-folder mr-1"></i><a href="/Hugh-CV/category/peer-reviewed/">Peer Reviewed</a>, <a href="/Hugh-CV/category/conference/">Conference</a></span>
+  
+
+</div>
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+  
+  <a class="btn btn-outline-primary my-1 mr-1" href="/Hugh-CV/project/2014-typing-experience/">
+    Project
+  </a>
+  
+
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1" href="https://docs.google.com/presentation/d/1uix7yQa2hv9M9tODvImcCrvsumsBA0bMkSjUwPep5h4/edit?usp=sharing" target="_blank" rel="noopener">
+  Slides
+</a>
+
+
+
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+    
+      
+    
+  
+  <a class="btn btn-outline-primary my-1 mr-1" href="/Hugh-CV/talk/2025-sle-functional-load/#listen" >
+    <i class="fas fa-headphones-alt mr-1"></i>
+    Listen
+  </a>
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+    
+      
+    
+  
+  <a class="btn btn-outline-primary my-1 mr-1" href="/Hugh-CV/talk/2025-sle-functional-load/Paterson_SLE_2025_Functional_Load_Abstract.pdf" >
+    <i class="far fa-sticky-note mr-1"></i>
+    Abstract
+  </a>
+
+
+</div>
+
+
+  
+</div>
+
+
+
+  <div class="article-container">
+
+    
+      <h3>Abstract</h3>
+      <p class="pub-abstract">The computation of functional load has been debated. We present a method which addresses the computation of the functional load of tonal oppositions by viewing tone as non-concatenative (non-linear) oppositions–tonal melodies (e.g., Snider 1990a, 1992). Current approaches (e.g., Oh 2013; Hall et al. 2022) classify combinatory attenuations as series of singleton attenuations, failing to accurately reflect oppositions. An accurate assessment of functional load must do two things:<ol> <li>Account for oppositions between sets of pitch heights across the domain to which the set attaches—account for non-linear distinctions. </li><li>Account for variations between underlying tonal melodies and their surface forms when changes represent a meaningful distinction—include morphological options in computational algorithms.</ol>Promoted by Prague school linguists, the functional load hypothesis suggests that phoneme stability and consequential sound system stability (or inversely, sound system shifts) are the result of the relative importance (frequency) of phonological oppositions (Catford, 1988). Quantifying functional load, especially for tone, has been more challenging with suggestions from linear segmental (structuralist) approaches proposed by Greenberg (1959), Hackett (1966, 1967), Wang (1967b), Surendran (2003), and Surendran and Niyogi (2006). In addition to proposed impacts on language evolution, functional load remains a relevant concept among scholars involved with orthography development. They often justify orthography decisions for representing tone on the basis of perceived functional load, generally analyzing contrasts from a linear approach (Koffi 2014; Priestly 1992; Roberts 2009). This stands in contrast to the well-argued phonological importance of tonal melodies and their role in creating meaningful oppositions (Snider 1990a, 1990b, 1992). <br><br>Defining the contrastive units involving pitch in communication has been elusive. The context of conducting tonal analysis is often construed as the necessity to distinguish between underlying-forms and surface-forms (Snider 2014) or which set of phonological features support a given pitch within a larger set of phonological units and pitch height contrasts (among others: Anderson 1978; Fromkin 1972; Wang 1967a, Snider 1988, McPherson 2016). Much like text input processes in computing, the analytical methods for calculating functional load have assumed linearity in segments, computing pitch either in conjunction with specific segmental carriers or independent as its own segment (in addition to the carrier). In contrast, tone (Snider 1999, 2014; Yip 1993, 2002) as well as other segments in morphological constructs, e.g., segmental non-concatenative morphology (Davis &amp; Tsujimura 2018), has been convincingly argued to operate in non-linear ways as both part of the base lexical unit and as part of a templatic morphological paradigm applied during post-lexical processes, where morpho-phonological processes still allow pitch heights to change. This further highlights the need for clarity when calculating functional load–is the calculation being conducted upon lexemes prior-to or after a morphological process has transpired? A non-linear view suggests that in both cases the contrast developed is not with specific other pitch segments (or their carriers) but is better analysed as a set of segments acting together indicating meaning, contrasting with other sets of indicators within a given domain (e.g., verbs, nouns, etc.). A more accurate approach to computing functional load must include the comparison of all phonological units.</p>
+    
+
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Date</div>
+          <div class="col-12 col-md-9">
+            26 Aug, 2025 10:40
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Event</div>
+          <div class="col-12 col-md-9">
+            <a href="https://www.dublincore.org/conferences/2023" target="_blank" rel="noopener">
+            58th Annual Meeting of the Societas Linguistica Europaea
+            </a>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Location</div>
+          <div class="col-12 col-md-9">Bordeaux, France</div>
+          
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    <div class="space-below"></div>
+
+    <div class="article-style">
+      <div id="listen">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <audio controls id="listen">
+    <source src="sel2025.mp3" type="audio/mpeg">
+  </audio>
+
+
+</div>
+<h2 id="abstract-bibliography">Abstract Bibliography</h2>
+
+
+
+
+
+
+
+
+
+
+
+<section class="hugo-cite-bibliography">
+  <dl>
+    
+
+      <div id="anderson_tone_1978">
+        <dt>
+          Anderson
+
+          
+          (1978)</dt>
+
+        <dd>
+          
+
+
+
+
+
+
+
+
+
+
+
+
+<span itemscope
+      itemtype="https://schema.org/Chapter"
+      data-type="chapter">
+  <span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Anderson</span>,&#32;
+    <meta itemprop="givenName" content="Stephen R." />
+    S.</span>
+  &#32;
+    (<span itemprop="datePublished">1978</span>).
+  &#32;<span itemprop="name">Tone Features</span>.&#32;In&#32;<span itemprop="editor" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Fromkin</span>,&#32;
+    <meta itemprop="givenName" content="Victoria A." />
+    V.</span> (Eds.),&#32;<span itemprop="about">
+    <i>Tone</i></span>.&#32;(<span>pp.&#32;133–175</span>).
+  &#32;<span itemprop="publisher"
+               itemtype="http://schema.org/Organization"
+               itemscope="">
+      <span itemprop="name">Academic Press</span></span>.
+  <a href="https://doi.org/10.1016/B978-0-12-267350-4.50010-8"
+     itemprop="identifier"
+     itemtype="https://schema.org/URL">https://doi.org/10.1016/B978-0-12-267350-4.50010-8</a></span>
+
+
+
+
+</dd>
+
+      </div>
+
+      <div id="booij_arabic_2018-1">
+        <dt>
+          Davis&#32;&amp;&#32;Tsujimura
+
+          
+          (2018)</dt>
+
+        <dd>
+          
+
+
+
+
+
+
+
+
+
+
+
+
+<span itemscope
+      itemtype="https://schema.org/Chapter"
+      data-type="chapter">
+  <span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Davis</span>,&#32;
+    <meta itemprop="givenName" content="Stuart" />
+    S.</span>&#32;&amp;&#32;<span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Tsujimura</span>,&#32;
+    <meta itemprop="givenName" content="Natsuko" />
+    N.</span>
+  &#32;
+    (<span itemprop="datePublished">2018</span>).
+  &#32;<span itemprop="name">Arabic Nonconcatenative Morphology in Construction Morphology</span>.&#32;In&#32;<span itemprop="editor" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Booij</span>,&#32;
+    <meta itemprop="givenName" content="Geert" />
+    G.</span> (Eds.),&#32;<span itemprop="about">
+    <i>The Construction of Words</i></span>.&#32;(<span>pp.&#32;315–339</span>).
+  <meta itemprop="contentLocation"
+        value="Cham">&#32;<span itemprop="publisher"
+               itemtype="http://schema.org/Organization"
+               itemscope="">
+      <span itemprop="name">Springer International Publishing</span></span>.
+  <a href="https://doi.org/10.1007/978-3-319-74394-3_12"
+     itemprop="identifier"
+     itemtype="https://schema.org/URL">https://doi.org/10.1007/978-3-319-74394-3_12</a></span>
+
+
+
+
+</dd>
+
+      </div>
+
+      <div id="corriente_functional_1971-1">
+        <dt>
+          Corriente
+
+          
+          (1971)</dt>
+
+        <dd>
+          
+
+
+
+
+
+
+
+
+
+
+
+
+<span itemscope
+      itemtype="https://schema.org/Article"
+      data-type="article"><span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Corriente</span>,&#32;
+    <meta itemprop="givenName" content="Federico C." />
+    F.</span>
+  &#32;
+    (<span itemprop="datePublished">1971</span>).
+  &#32;<span itemprop="name">On the Functional Yield of Some Synthetic Devices in Arabic and Semitic Morphology</span>.<i>
+    <span itemprop="about">The Jewish Quarterly Review</span>,&#32;62(1)</i>.&#32;<span itemprop="pagination">20–50</span>.
+  <a href="https://doi.org/10.2307/1453861"
+     itemprop="identifier"
+     itemtype="https://schema.org/URL">https://doi.org/10.2307/1453861</a></span>
+
+
+
+
+</dd>
+
+      </div>
+
+      <div id="fromkin_tone_1972">
+        <dt>
+          Fromkin
+
+          
+          (1972)</dt>
+
+        <dd>
+          
+
+
+
+
+
+
+
+
+
+
+
+
+<span itemscope
+      itemtype="https://schema.org/Article"
+      data-type="article"><span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Fromkin</span>,&#32;
+    <meta itemprop="givenName" content="Victoria A." />
+    V.</span>
+  &#32;
+    (<span itemprop="datePublished">1972</span>).
+  &#32;<span itemprop="name">Tone Features and Tone Rules</span>.<i>
+    <span itemprop="about">Studies in African Linguistics</span>,&#32;3(1)</i>.&#32;<span itemprop="pagination">47–76</span>.
+  <a href="https://doi.org/10.32473/sal.v3i1.107636"
+     itemprop="identifier"
+     itemtype="https://schema.org/URL">https://doi.org/10.32473/sal.v3i1.107636</a></span>
+
+
+
+
+</dd>
+
+      </div>
+
+      <div id="greenberg_method_1959-2">
+        <dt>
+          Greenberg
+
+          
+          (1959)</dt>
+
+        <dd>
+          
+
+
+
+
+
+
+
+
+
+
+
+
+<span itemscope
+      itemtype="https://schema.org/Chapter"
+      data-type="chapter">
+  <span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Greenberg</span>,&#32;
+    <meta itemprop="givenName" content="Joseph" />
+    J.</span>
+  &#32;
+    (<span itemprop="datePublished">1959</span>).
+  &#32;<span itemprop="name">A method of measuring functional yield as applied to tone in African languages</span>.&#32;In<span itemprop="about">
+    <i>Georgetown University Round Table on Languages and Linguistics</i></span>.&#32;(<span>pp.&#32;7–16</span>).
+  <meta itemprop="contentLocation"
+        value="Washington, D.C.">&#32;<span itemprop="publisher"
+               itemtype="http://schema.org/Organization"
+               itemscope="">
+      <span itemprop="name">Georgetown University Press</span></span>.</span>
+
+
+
+
+</dd>
+
+      </div>
+
+      <div id="hall_phonological_2022">
+        <dt>
+          Hall,&#32;
+          Allen,&#32;
+          Coates,&#32;
+          Fry,&#32;
+          Huang,&#32;
+          Johnson,&#32;
+          Lo,&#32;
+          Mackie,&#32;
+          McAuliffe&#32;&amp;&#32;Nam
+
+          
+          (2022)</dt>
+
+        <dd>
+          
+
+
+
+
+
+
+
+
+
+
+
+
+<span itemscope
+      itemtype="https://schema.org/CreativeWork"
+      data-type="software"><span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Hall</span>,&#32;
+    <meta itemprop="givenName" content="Kathleen Currie" />
+    K.</span>,&#32;
+  <span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Allen</span>,&#32;
+    <meta itemprop="givenName" content="Blake" />
+    B.</span>,&#32;
+  <span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Coates</span>,&#32;
+    <meta itemprop="givenName" content="Edith" />
+    E.</span>,&#32;
+  <span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Fry</span>,&#32;
+    <meta itemprop="givenName" content="Michael" />
+    M.</span>,&#32;
+  <span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Huang</span>,&#32;
+    <meta itemprop="givenName" content="Serena" />
+    S.</span>,&#32;
+  <span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Johnson</span>,&#32;
+    <meta itemprop="givenName" content="Khia" />
+    K.</span>,&#32;
+  <span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Lo</span>,&#32;
+    <meta itemprop="givenName" content="Roger" />
+    R.</span>,&#32;
+  <span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Mackie</span>,&#32;
+    <meta itemprop="givenName" content="Scott" />
+    S.</span>,&#32;
+  <span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">McAuliffe</span>,&#32;
+    <meta itemprop="givenName" content="Michael" />
+    M.</span>&#32;&amp;&#32;<span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Nam</span>,&#32;
+    <meta itemprop="givenName" content="Stanley" />
+    S.</span>
+  &#32;
+    (<span itemprop="datePublished">2022</span>).
+  &#32;<span itemprop="name">
+    <i>Phonological CorpusTools</i></span>.
+  &#32;Retrieved from&#32;
+  <a href="https://phonologicalcorpustools.github.io/CorpusTools"
+     itemprop="identifier"
+     itemtype="https://schema.org/URL">https://phonologicalcorpustools.github.io/CorpusTools</a></span>
+
+</dd>
+
+      </div>
+
+      <div id="hockett_quantification_1967-2">
+        <dt>
+          Hockett
+
+          
+          (1967)</dt>
+
+        <dd>
+          
+
+
+
+
+
+
+
+
+
+
+
+
+<span itemscope
+      itemtype="https://schema.org/Article"
+      data-type="article"><span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Hockett</span>,&#32;
+    <meta itemprop="givenName" content="Charles F" />
+    C.</span>
+  &#32;
+    (<span itemprop="datePublished">1967</span>).
+  &#32;<span itemprop="name">The Quantification of Functional Load</span>.<i>
+    <span itemprop="about">WORD</span>,&#32;23(1-3)</i>.&#32;<span itemprop="pagination">300–320</span>.
+  <a href="https://doi.org/10.1080/00437956.1967.11435484"
+     itemprop="identifier"
+     itemtype="https://schema.org/URL">https://doi.org/10.1080/00437956.1967.11435484</a></span>
+
+
+
+
+</dd>
+
+      </div>
+
+      <div id="hulst_towards_1988">
+        <dt>
+          Snider
+
+          
+          (1988)</dt>
+
+        <dd>
+          
+
+
+
+
+
+
+
+
+
+
+
+
+<span itemscope
+      itemtype="https://schema.org/Chapter"
+      data-type="chapter">
+  <span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Snider</span>,&#32;
+    <meta itemprop="givenName" content="Keith L." />
+    K.</span>
+  &#32;
+    (<span itemprop="datePublished">1988</span>).
+  &#32;<span itemprop="name">Towards the Representation of Tone: A Three-Dimensional Approach</span>.&#32;In&#32;<span itemprop="editor" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Hulst</span>,&#32;
+    <meta itemprop="givenName" content="Harry Van Der" />
+    H.</span>&#32;&amp;&#32;<span itemprop="editor" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Smith</span>,&#32;
+    <meta itemprop="givenName" content="Norval" />
+    N.</span> (Eds.),&#32;<span itemprop="about">
+    <i>Features, Segmental Structure and Harmony Processes</i></span>.&#32;(<span>pp.&#32;237–268</span>).
+  <meta itemprop="contentLocation"
+        value="Berlin, Boston">&#32;<span itemprop="publisher"
+               itemtype="http://schema.org/Organization"
+               itemscope="">
+      <span itemprop="name">De Gruyter</span></span>.
+  <a href="https://doi.org/10.1515/9783110875812-009"
+     itemprop="identifier"
+     itemtype="https://schema.org/URL">https://doi.org/10.1515/9783110875812-009</a></span>
+
+
+
+
+</dd>
+
+      </div>
+
+      <div id="king_measure_1967-2">
+        <dt>
+          King
+
+          
+          (1967)</dt>
+
+        <dd>
+          
+
+
+
+
+
+
+
+
+
+
+
+
+<span itemscope
+      itemtype="https://schema.org/Article"
+      data-type="article"><span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">King</span>,&#32;
+    <meta itemprop="givenName" content="Robert D." />
+    R.</span>
+  &#32;
+    (<span itemprop="datePublished">1967</span>).
+  &#32;<span itemprop="name">A Measure for Functional Load</span>.<i>
+    <span itemprop="about">Studia Linguistica</span>,&#32;21(1)</i>.&#32;<span itemprop="pagination">1–14</span>.
+  <a href="https://doi.org/10.1111/j.1467-9582.1967.tb00545.x"
+     itemprop="identifier"
+     itemtype="https://schema.org/URL">https://doi.org/10.1111/j.1467-9582.1967.tb00545.x</a></span>
+
+
+
+
+</dd>
+
+      </div>
+
+      <div id="koffi_towards_2014-1">
+        <dt>
+          Koffi
+
+          
+          (2014)</dt>
+
+        <dd>
+          
+
+
+
+
+
+
+
+
+
+
+
+
+<span itemscope
+      itemtype="https://schema.org/Article"
+      data-type="article"><span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Koffi</span>,&#32;
+    <meta itemprop="givenName" content="Ettien N" />
+    E.</span>
+  &#32;
+    (<span itemprop="datePublished">2014</span>).
+  &#32;<span itemprop="name">Towards an Optimal Representation of Tones in the Orthographies of African Languages</span>.<i>
+    <span itemprop="about">Linguistic Portfolios</span>,&#32;3(1)</i>.&#32;<span itemprop="pagination">163–190</span>.&#32;Retrieved from&#32;
+  <a href="http://repository.stcloudstate.edu/stcloud_ling/vol3/iss1/12"
+     itemprop="identifier"
+     itemtype="https://schema.org/URL">http://repository.stcloudstate.edu/stcloud_ling/vol3/iss1/12</a></span>
+
+
+
+
+</dd>
+
+      </div>
+
+      <div id="mcpherson_tone_2017-2">
+        <dt>
+          McPherson
+
+          
+          (2017)</dt>
+
+        <dd>
+          
+
+
+
+
+
+
+
+
+
+
+
+
+<span itemscope
+      itemtype="https://schema.org/Chapter"
+      data-type="chapter">
+  <span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">McPherson</span>,&#32;
+    <meta itemprop="givenName" content="Laura" />
+    L.</span>
+  &#32;
+    (<span itemprop="datePublished">2017</span>).
+  &#32;<span itemprop="name">Tone features revisited Evidence from Seenku</span>.&#32;In&#32;<span itemprop="editor" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Payne</span>,&#32;
+    <meta itemprop="givenName" content="Doris L" />
+    D.</span>,&#32;
+  <span itemprop="editor" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Pacchiarotti</span>,&#32;
+    <meta itemprop="givenName" content="Sara" />
+    S.</span>&#32;&amp;&#32;<span itemprop="editor" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Bosire</span>,&#32;
+    <meta itemprop="givenName" content="Mokaya" />
+    M.</span> (Eds.),&#32;<span itemprop="about">
+    <i>Diversity in African languages</i></span>.&#32;(<span>pp.&#32;5–22</span>).
+  <meta itemprop="contentLocation"
+        value="Berlin">&#32;<span itemprop="publisher"
+               itemtype="http://schema.org/Organization"
+               itemscope="">
+      <span itemprop="name">Language Science Press</span></span>.
+  <a href="https://doi.org/10.17169/langsci.b121.282"
+     itemprop="identifier"
+     itemtype="https://schema.org/URL">https://doi.org/10.17169/langsci.b121.282</a></span>
+
+
+
+
+</dd>
+
+      </div>
+
+      <div id="oh_cross-language_2013-2">
+        <dt>
+          Oh,&#32;
+          Pellegrino,&#32;
+          Coupé&#32;&amp;&#32;Marsico
+
+          
+          (2013)</dt>
+
+        <dd>
+          
+
+
+
+
+
+
+
+
+
+
+
+
+<span itemscope
+      itemtype="https://schema.org/Article"
+      data-type="article"><span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Oh</span>,&#32;
+    <meta itemprop="givenName" content="Y.M." />
+    Y.</span>,&#32;
+  <span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Pellegrino</span>,&#32;
+    <meta itemprop="givenName" content="F." />
+    F.</span>,&#32;
+  <span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Coupé</span>,&#32;
+    <meta itemprop="givenName" content="Christophe" />
+    C.</span>&#32;&amp;&#32;<span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Marsico</span>,&#32;
+    <meta itemprop="givenName" content="Egidio" />
+    E.</span>
+  &#32;
+    (<span itemprop="datePublished">2013</span>).
+  &#32;<span itemprop="name">Cross-language comparison of functional load for vowels, consonants, and tones</span>.<i>
+    <span itemprop="about">Proceedings of the Annual Conference of the International Speech Communication Association, INTERSPEECH</span></i>.&#32;<span itemprop="pagination">3032–3036</span>.</span>
+
+
+
+
+</dd>
+
+      </div>
+
+      <div id="priestly_problems_1992-1">
+        <dt>
+          Priestly
+
+          
+          (1992)</dt>
+
+        <dd>
+          
+
+
+
+
+
+
+
+
+
+
+
+
+<span itemscope
+      itemtype="https://schema.org/Article"
+      data-type="article"><span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Priestly</span>,&#32;
+    <meta itemprop="givenName" content="Tom M.S." />
+    T.</span>
+  &#32;
+    (<span itemprop="datePublished">1992</span>).
+  &#32;<span itemprop="name">Problems in the Creation of an Orthography: Functional Load, Interference, and Political Preferences</span>.<i>
+    <span itemprop="about">The Slavic and East European Journal</span>,&#32;36(3)</i>.&#32;<span itemprop="pagination">302</span>.
+  <a href="https://doi.org/10.2307/308584"
+     itemprop="identifier"
+     itemtype="https://schema.org/URL">https://doi.org/10.2307/308584</a></span>
+
+
+
+
+</dd>
+
+      </div>
+
+      <div id="roberts_visual_2009-1">
+        <dt>
+          Roberts
+
+          
+          (2009)</dt>
+
+        <dd>
+          
+
+
+
+
+
+
+
+
+
+
+
+
+<span itemscope
+      itemtype="https://schema.org/Article"
+      data-type="article"><span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Roberts</span>,&#32;
+    <meta itemprop="givenName" content="David" />
+    D.</span>
+  &#32;
+    (<span itemprop="datePublished">2009</span>).
+  &#32;<span itemprop="name">Visual Crowding and the tone orthography of African languages</span>.<i>
+    <span itemprop="about">Written Language &amp; Literacy</span>,&#32;12</i>.&#32;<span itemprop="pagination">140–155</span>.
+  <a href="https://doi.org/10.1075/wll.12.1.07rob"
+     itemprop="identifier"
+     itemtype="https://schema.org/URL">https://doi.org/10.1075/wll.12.1.07rob</a></span>
+
+
+
+
+</dd>
+
+      </div>
+
+      <div id="snider_establishing_2014-1">
+        <dt>
+          Snider
+
+          
+          (2014)</dt>
+
+        <dd>
+          
+
+
+
+
+
+
+
+
+
+
+
+
+<span itemscope
+      itemtype="https://schema.org/Article"
+      data-type="article"><span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Snider</span>,&#32;
+    <meta itemprop="givenName" content="Keith" />
+    K.</span>
+  &#32;
+    (<span itemprop="datePublished">2014</span>).
+  &#32;<span itemprop="name">On Establishing Underlying Tonal Contrast</span>.<i>
+    <span itemprop="about">Language Documentation &amp; Conservation</span>,&#32;8</i>.&#32;<span itemprop="pagination">707–731</span>.&#32;Retrieved from&#32;
+  <a href="http://hdl.handle.net/10125/24622"
+     itemprop="identifier"
+     itemtype="https://schema.org/URL">http://hdl.handle.net/10125/24622</a></span>
+
+
+
+
+</dd>
+
+      </div>
+
+      <div id="snider_geometry_1999-2">
+        <dt>
+          Snider
+
+          
+          (1999)</dt>
+
+        <dd>
+          
+
+
+
+
+
+
+
+
+
+
+
+
+<span itemscope
+      itemtype="https://schema.org/Book"
+      data-type="book"><span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Snider</span>,&#32;
+    <meta itemprop="givenName" content="Keith L." />
+    K.</span>&#32;
+    (<span itemprop="datePublished">1999</span>).
+  &#32;<span itemprop="name">
+    <i>The geometry and features of tone</i></span>.
+  <meta itemprop="locationCreated"
+        value="Dallas, Texas">&#32;
+  <span itemprop="publisher"
+             itemtype="http://schema.org/Organization"
+             itemscope>
+    <span itemprop="name">Summer Institute of Linguistics and The University of Texas at Arlington</span></span>.</span>
+
+
+
+
+</dd>
+
+      </div>
+
+      <div id="snider_grammatical_1992">
+        <dt>
+          Snider
+
+          
+          (1992)</dt>
+
+        <dd>
+          
+
+
+
+
+
+
+
+
+
+
+
+
+<span itemscope
+      itemtype="https://schema.org/Article"
+      data-type="article"><span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Snider</span>,&#32;
+    <meta itemprop="givenName" content="Keith L." />
+    K.</span>
+  &#32;
+    (<span itemprop="datePublished">1992</span>).
+  &#32;<span itemprop="name">&ldquo;‘Grammatical Tone&rdquo; and Orthography</span>.<i>
+    <span itemprop="about">Notes on Literacy</span>,&#32;18(4)</i>.&#32;<span itemprop="pagination">25–30</span>.</span>
+
+
+
+
+</dd>
+
+      </div>
+
+      <div id="snider_tonal_1990">
+        <dt>
+          Snider
+
+          
+          (1990)</dt>
+
+        <dd>
+          
+
+
+
+
+
+
+
+
+
+
+
+
+<span itemscope
+      itemtype="https://schema.org/Article"
+      data-type="article"><span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Snider</span>,&#32;
+    <meta itemprop="givenName" content="Keith L." />
+    K.</span>
+  &#32;
+    (<span itemprop="datePublished">1990</span>).
+  &#32;<span itemprop="name">Tonal Upstep in Krachi: Evidence for a Register Tier</span>.<i>
+    <span itemprop="about">Language</span>,&#32;66(3)</i>.&#32;<span itemprop="pagination">453–474</span>.
+  <a href="https://doi.org/10.2307/414608"
+     itemprop="identifier"
+     itemtype="https://schema.org/URL">https://doi.org/10.2307/414608</a></span>
+
+
+
+
+</dd>
+
+      </div>
+
+      <div id="snider_tone_1990-1">
+        <dt>
+          Snider
+
+          
+          (1990)</dt>
+
+        <dd>
+          
+
+
+
+
+
+
+
+
+
+
+
+
+<span itemscope
+      itemtype="https://schema.org/Article"
+      data-type="article"><span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Snider</span>,&#32;
+    <meta itemprop="givenName" content="Keith L." />
+    K.</span>
+  &#32;
+    (<span itemprop="datePublished">1990</span>).
+  &#32;<span itemprop="name">Tone in Proto‐Guang nouns∗</span>.<i>
+    <span itemprop="about">African Languages and Cultures</span>,&#32;3</i>.&#32;<span itemprop="pagination">87–105</span>.
+  <a href="https://doi.org/10.1080/09544169008717712"
+     itemprop="identifier"
+     itemtype="https://schema.org/URL">https://doi.org/10.1080/09544169008717712</a></span>
+
+
+
+
+</dd>
+
+      </div>
+
+      <div id="surendran_functional_2003-1">
+        <dt>
+          Surendran
+
+          
+          (2003)</dt>
+
+        <dd>
+          
+
+
+
+
+
+
+
+
+
+
+
+
+<span itemscope
+      itemtype="https://schema.org/Thesis"
+      data-type="thesis"><span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Surendran</span>,&#32;
+    <meta itemprop="givenName" content="Dinoj" />
+    D.</span>
+  &#32;
+    (<span itemprop="datePublished">2003</span>).
+  &#32;<span itemprop="name">
+    <i>The Functional Load of Phonological Contrasts</i>
+  </span><span itemprop="inSupportOf">&nbsp;(M.S. in Computer Science)</span>.&nbsp;
+<meta itemprop="contentLocation"
+        value="Chicago, Illinois">&#32;
+  <span itemprop="publisher"
+             itemtype="http://schema.org/EducationalOrganization"
+             itemscope>
+    <span itemprop="name">University of Chicago</span>, &#32; <span itemprop="location">Chicago, Illinois</span></span>.</span>
+
+
+
+
+
+</dd>
+
+      </div>
+
+      <div id="surendran_quantifying_2006-3">
+        <dt>
+          Surendran&#32;&amp;&#32;Niyogi
+
+          
+          (2006)</dt>
+
+        <dd>
+          
+
+
+
+
+
+
+
+
+
+
+
+
+<span itemscope
+      itemtype="https://schema.org/Chapter"
+      data-type="chapter">
+  <span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Surendran</span>,&#32;
+    <meta itemprop="givenName" content="Dinoj" />
+    D.</span>&#32;&amp;&#32;<span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Niyogi</span>,&#32;
+    <meta itemprop="givenName" content="Partha" />
+    P.</span>
+  &#32;
+    (<span itemprop="datePublished">2006</span>).
+  &#32;<span itemprop="name">Quantifying the functional load of phonemic oppositions, distinctive features, and suprasegmentals</span>.&#32;In&#32;<span itemprop="editor" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Nedergaard Thomsen</span>,&#32;
+    <meta itemprop="givenName" content="Ole" />
+    O.</span> (Eds.),&#32;<span itemprop="about">
+    <i>Current Issues in Linguistic Theory</i></span>.&#32;(<span>pp.&#32;43–58</span>).
+  <meta itemprop="contentLocation"
+        value="Amsterdam">&#32;<span itemprop="publisher"
+               itemtype="http://schema.org/Organization"
+               itemscope="">
+      <span itemprop="name">John Benjamins Publishing Company</span></span>.
+  <a href="https://doi.org/10.1075/cilt.279.05sur"
+     itemprop="identifier"
+     itemtype="https://schema.org/URL">https://doi.org/10.1075/cilt.279.05sur</a></span>
+
+
+
+
+</dd>
+
+      </div>
+
+      <div id="tobin_functional_1988-1">
+        <dt>
+          Catford
+
+          
+          (1988)</dt>
+
+        <dd>
+          
+
+
+
+
+
+
+
+
+
+
+
+
+<span itemscope
+      itemtype="https://schema.org/Chapter"
+      data-type="chapter">
+  <span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Catford</span>,&#32;
+    <meta itemprop="givenName" content="John C." />
+    J.</span>
+  &#32;
+    (<span itemprop="datePublished">1988</span>).
+  &#32;<span itemprop="name">Functional load and diachronic phonology</span>.&#32;In&#32;<span itemprop="editor" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Tobin</span>,&#32;
+    <meta itemprop="givenName" content="Yishai" />
+    Y.</span> (Eds.),&#32;<span itemprop="about">
+    <i>The Prague School and Its Legacy</i></span>.&#32;(<span>pp.&#32;3–20</span>).
+  <meta itemprop="contentLocation"
+        value="Amsterdam">&#32;<span itemprop="publisher"
+               itemtype="http://schema.org/Organization"
+               itemscope="">
+      <span itemprop="name">John Benjamins Publishing Company</span></span>.
+  <a href="https://doi.org/10.1075/llsee.27.04cat"
+     itemprop="identifier"
+     itemtype="https://schema.org/URL">https://doi.org/10.1075/llsee.27.04cat</a></span>
+
+
+
+
+</dd>
+
+      </div>
+
+      <div id="wang_measurement_1967-2">
+        <dt>
+          Wang
+
+          
+          (1967)</dt>
+
+        <dd>
+          
+
+
+
+
+
+
+
+
+
+
+
+
+<span itemscope
+      itemtype="https://schema.org/Article"
+      data-type="article"><span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Wang</span>,&#32;
+    <meta itemprop="givenName" content="William S-Y." />
+    W.</span>
+  &#32;
+    (<span itemprop="datePublished">1967</span>).
+  &#32;<span itemprop="name">The Measurement of Functional Load</span>.<i>
+    <span itemprop="about">Phonetica</span>,&#32;16</i>.&#32;<span itemprop="pagination">36–54</span>.
+  <a href="https://doi.org/10.1159/000258556"
+     itemprop="identifier"
+     itemtype="https://schema.org/URL">https://doi.org/10.1159/000258556</a></span>
+
+
+
+
+</dd>
+
+      </div>
+
+      <div id="wang_phonological_1967-2">
+        <dt>
+          Wang
+
+          
+          (1967)</dt>
+
+        <dd>
+          
+
+
+
+
+
+
+
+
+
+
+
+
+<span itemscope
+      itemtype="https://schema.org/Article"
+      data-type="article"><span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Wang</span>,&#32;
+    <meta itemprop="givenName" content="William S-Y." />
+    W.</span>
+  &#32;
+    (<span itemprop="datePublished">1967</span>).
+  &#32;<span itemprop="name">Phonological Features of Tone</span>.<i>
+    <span itemprop="about">International Journal of American Linguistics</span>,&#32;33(2)</i>.&#32;<span itemprop="pagination">93–105</span>.
+  <a href="https://doi.org/10.1086/464946"
+     itemprop="identifier"
+     itemtype="https://schema.org/URL">https://doi.org/10.1086/464946</a></span>
+
+
+
+
+</dd>
+
+      </div>
+
+      <div id="yip_tonal_1993-2">
+        <dt>
+          Yip
+
+          
+          (1993)</dt>
+
+        <dd>
+          
+
+
+
+
+
+
+
+
+
+
+
+
+<span itemscope
+      itemtype="https://schema.org/Chapter"
+      data-type="chapter">
+  <span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Yip</span>,&#32;
+    <meta itemprop="givenName" content="Moira" />
+    M.</span>
+  &#32;
+    (<span itemprop="datePublished">1993</span>).
+  &#32;<span itemprop="name">Tonal register in East Asian languages</span>.&#32;In&#32;<span itemprop="editor" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Hulst</span>,&#32;
+    <meta itemprop="givenName" content="Harry" />
+    H.</span>,&#32;
+  <span itemprop="editor" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Snider</span>,&#32;
+    <meta itemprop="givenName" content="Keith L." />
+    K.</span>&#32;&amp;&#32;<span itemprop="editor" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Hulst</span>,&#32;
+    <meta itemprop="givenName" content="Harry" />
+    H.</span> (Eds.),&#32;<span itemprop="about">
+    <i>The Phonology of tone : the representation of tonal register</i></span>.&#32;(<span>pp.&#32;245–268</span>).
+  <meta itemprop="contentLocation"
+        value="Berlin and New York">&#32;<span itemprop="publisher"
+               itemtype="http://schema.org/Organization"
+               itemscope="">
+      <span itemprop="name">Mouton de Gruyter</span></span>.</span>
+
+
+
+
+</dd>
+
+      </div>
+
+      <div id="yip_tone_2002-2">
+        <dt>
+          Yip
+
+          
+          (2002)</dt>
+
+        <dd>
+          
+
+
+
+
+
+
+
+
+
+
+
+
+<span itemscope
+      itemtype="https://schema.org/Book"
+      data-type="book"><span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="familyName">Yip</span>,&#32;
+    <meta itemprop="givenName" content="Moira" />
+    M.</span>&#32;
+    (<span itemprop="datePublished">2002</span>).
+  &#32;<span itemprop="name">
+    <i>Tone</i></span>.
+  <meta itemprop="locationCreated"
+        value="Cambridge; New York">&#32;
+  <span itemprop="publisher"
+             itemtype="http://schema.org/Organization"
+             itemscope>
+    <span itemprop="name">Cambridge University Press</span></span>.</span>
+
+
+
+
+</dd>
+
+      </div>
+  </dl>
+</section>
+
+
+
+
+    </div>
+
+    
+
+
+
+
+
+  
+    <span><em>Tags</em>:</span>    
+
+<span class="article-tags">
+  
+  <a class="badge badge-light" href="/Hugh-CV/tag/tone/">Tone</a>
+  
+  <a class="badge badge-light" href="/Hugh-CV/tag/functional-load/">Functional Load</a>
+  
+  <a class="badge badge-light" href="/Hugh-CV/tag/orthography/">Orthography</a>
+  
+  <a class="badge badge-light" href="/Hugh-CV/tag/phonology/">Phonology</a>
+  
+  <a class="badge badge-light" href="/Hugh-CV/tag/cognitive-load/">Cognitive Load</a>
+  
+</span>
+
+
+  
+
+
+
+  
+    <br><span><em>Categories</em>:</span>   
+
+<span class="article-tags">
+  
+  <a class="badge badge-light" href="/Hugh-CV/category/peer-reviewed/">Peer Reviewed</a>
+  
+  <a class="badge badge-light" href="/Hugh-CV/category/conference/">Conference</a>
+  
+</span>
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    <br><span><em>Content Mediums</em>:</span>   
+
+<span class="article-tags">
+  
+  <a class="badge badge-light" href="/Hugh-CV/content-type/sound/">Sound</a>
+  
+  <a class="badge badge-light" href="/Hugh-CV/content-type/text/">Text</a>
+  
+  <a class="badge badge-light" href="/Hugh-CV/content-type/event/">Event</a>
+  
+</span>
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    
+
+
+
+
+
+  
+    
+    
+    
+      
+    
+    
+    
+    <div class="media author-card content-widget-hr">
+      
+        
+        <img class="avatar mr-3 avatar-circle" src="/Hugh-CV/author/hugh-paterson-iii/avatar_huf06207d43952fcec4f010d643d581cb5_33859_270x270_fill_q90_lanczos_center.jpg" alt="Hugh Paterson III">
+      
+
+      <div class="media-body">
+        <h5 class="card-title"><a href="https://hughandbecky.us/Hugh-CV/">Hugh Paterson III</a></h5>
+        <h6 class="card-subtitle">Collaborative Scholar</h6>
+        <p class="card-text">I specialize in bespoke research at the intersection of <em>Linguistics</em>, <em>Law</em>, <em>Languages</em>, and <em>Technology</em>; specifically <em>utility</em> and <em>life-cycle management</em> for information products in these spaces.</p>
+        <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="//scholar.google.com/citations?user=b3KeFqkAAAAJ"  itemprop="sameAs">
+        <i class="ai ai-google-scholar"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="//github.com/HughP"  itemprop="sameAs">
+        <i class="fab fa-github"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="//twitter.com/thejourneyler"  itemprop="sameAs">
+        <i class="fab fa-twitter"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://orcid.org/0000-0002-5502-4865" target="_blank" rel="noopener" itemprop="sameAs">
+        <i class="fab fa-orcid"></i>
+      </a>
+    </li>
+  
+</ul>
+
+      </div>
+    </div>
+  
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  <div class="article-widget content-widget-hr">
+    <h3>Related</h3>
+    <ul>
+      
+      <li><a href="/Hugh-CV/talk/2023-ichl26/">Proto-Malayo-Polynesian: Some Phonetic Evidence for *l</a>&nbsp;&nbsp;<span class="badge badge-light" style="font-size: 0.6em; vertical-align: middle;">talk</span></li>
+      
+      <li><a href="/Hugh-CV/talk/2015-icphs-tone-presentation/">Phonetic Transcription of Tone in the IPA</a>&nbsp;&nbsp;<span class="badge badge-light" style="font-size: 0.6em; vertical-align: middle;">talk</span></li>
+      
+      <li><a href="/Hugh-CV/talk/2024-alise/">Developing Graduate Curriculum for Digital Language Archive Management</a>&nbsp;&nbsp;<span class="badge badge-light" style="font-size: 0.6em; vertical-align: middle;">talk</span></li>
+      
+      <li><a href="/Hugh-CV/talk/2021-from-cv-to-olac/">From CV to OLAC</a>&nbsp;&nbsp;<span class="badge badge-light" style="font-size: 0.6em; vertical-align: middle;">talk</span></li>
+      
+      <li><a href="/Hugh-CV/talk/2023-supporting-diversity-through-a-typology-of-data-providers-what-is-an-archive/">Supporting Diversity Through a Typology of Data Providers: What is an Archive?</a>&nbsp;&nbsp;<span class="badge badge-light" style="font-size: 0.6em; vertical-align: middle;">talk</span></li>
+      
+    </ul>
+  </div>
+  
+
+
+
+
+
+  </div>
+</div>
+
+      
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js" integrity="sha256-yt2kYMy0w8AbtF89WXb2P1rfjcP/HTHLT7097U8Y5b8=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/instant.page/5.1.0/instantpage.min.js" integrity="sha512-1+qUtKoh9XZW7j+6LhRMAyOrgSQKenQ4mluTR+cvxXjP1Z54RxZuzstR/H9kgPXQsVB8IW7DMDFUJpzLjvhGSQ==" crossorigin="anonymous"></script>
+
+      
+
+      
+
+    
+
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/leaflet.min.js" integrity="sha512-SeiQaaDh73yrb56sTW/RgVdi/mMqNeM2oBwubFHagc5BkixSpP1fvqF47mKzPGWYSSy4RwbBunrJBQ4Co8fRWA==" crossorigin="anonymous"></script>
+    
+
+    
+    
+    <script>const code_highlighting = false;</script>
+    
+
+    
+    
+    
+    
+    
+    
+    <script>
+      const search_config = {"indexURI":"/Hugh-CV/index.json","minLength":1,"threshold":0.3};
+      const i18n = {"no_results":"No results found","placeholder":"Search...","results":"results found"};
+      const content_type = {
+        'post': "Marginalia",
+        'project': "Projects",
+        'publication' : "Publications",
+        'talk' : "Talks",
+        'slides' : "Slides"
+        };
+    </script>
+    
+
+    
+    
+
+    
+    
+    <script id="search-hit-fuse-template" type="text/x-template">
+      <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{ snippet }}</p>
+        </div>
+      </div>
+      </div>
+    </script>
+    
+
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+    
+
+    
+    
+
+    
+    
+
+    
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+    
+    
+    <script src="/Hugh-CV/js/academic.min.3b2b658c61ebd725bd5fc606c89fe44c.js"></script>
+
+    
+
+
+
+
+
+
+  
+  
+  <div class="container">
+    <footer class="site-footer" itemscope itemtype="https://schema.org/WPFooter">
+  
+  <p class="powered-by">
+    
+      <a href="/Hugh-CV/privacy-policy/">Privacy Policy</a>
+    
+    
+  </p>
+  
+
+  <p class="powered-by" itemprop="copyrightNotice">
+    Hugh Paterson III © 2025
+  </p>
+
+  
+  
+
+
+
+
+
+
+  <p class="powered-by">
+    
+
+    
+    <span class="float-right" aria-hidden="true">
+      <a href="#" class="back-to-top">
+        <span class="button_icon">
+          <i class="fas fa-chevron-up fa-2x"></i>
+        </span>
+      </a>
+    </span>
+    
+  </p>
+</footer>
+
+  </div>
+  
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>
