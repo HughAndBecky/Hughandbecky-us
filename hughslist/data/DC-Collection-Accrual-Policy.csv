@@ -1,0 +1,5 @@
+Name,PURL,cURI,Definition,cURI2,URI2
+Partial,http://purl.org/cld/accpol/partial,accpol:partial,"A policy that items are actively sought for addition to a specific part of the collection.",rdacap:1004,http://rdaregistry.info/termList/RDACollectionAccrualPolicy/1004
+Active,http://purl.org/cld/accpol/active,accpol:active,"A policy that items are actively sought for addition to the collection.",rdacap:1003,http://rdaregistry.info/termList/RDACollectionAccrualPolicy/1003
+Passive,http://purl.org/cld/accpol/passive,accpol:passive,"A policy that items are added to the collection only in response to the initiative of an external agent.",rdacap:1002,http://rdaregistry.info/termList/RDACollectionAccrualPolicy/1002
+Closed,http://purl.org/cld/accpol/closed,accpol:closed,"A policy that items are no longer added to the collection.",rdacap:1001,http://rdaregistry.info/termList/RDACollectionAccrualPolicy/1001

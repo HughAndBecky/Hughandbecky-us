@@ -1,0 +1,18 @@
+label,term,purl,definition
+Triennial,triennial,http://purl.org/cld/freq/triennial,The event occurs every three years.
+Biennial,biennial,http://purl.org/cld/freq/biennial,The event occurs every two years.
+Annual,annual,http://purl.org/cld/freq/annual,The event occurs once a year.
+Semiannual,semiannual,http://purl.org/cld/freq/semiannual,The event occurs twice a year.
+Three times a year,threeTimesAYear,http://purl.org/cld/freq/threeTimesAYear,The event occurs three times a year.
+Quarterly,quarterly,http://purl.org/cld/freq/quarterly,The event occurs every three months.
+Bimonthly,bimonthly,http://purl.org/cld/freq/bimonthly,The event occurs every two months.
+Monthly,monthly,http://purl.org/cld/freq/monthly,The event occurs once a month.
+Semimonthly,semimonthly,http://purl.org/cld/freq/semimonthly,The event occurs twice a month.
+Biweekly,biweekly,http://purl.org/cld/freq/biweekly,The event occurs every two weeks.
+Three times a month,threeTimesAMonth,http://purl.org/cld/freq/threeTimesAMonth,The event occurs three times a month.
+Weekly,weekly,http://purl.org/cld/freq/weekly,The event occurs once a week.
+Semiweekly,semiweekly,http://purl.org/cld/freq/semiweekly,The event occurs twice a week.
+Three times a week,threeTimesAWeek,http://purl.org/cld/freq/threeTimesAWeek,The event occurs three times a week.
+Daily,daily,http://purl.org/cld/freq/daily,The event occurs once a day.
+Continuous,continuous,http://purl.org/cld/freq/continuous,The event repeats without interruption.
+Irregular,irregular,http://purl.org/cld/freq/irregular,The event occurs at uneven intervals.

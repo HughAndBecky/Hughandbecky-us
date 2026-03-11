@@ -1,0 +1,78 @@
+Service Model,Archival Function,URI
+Personal Assistance,Selection,https://olac.at/collectionService/personal-assistance_selection
+Personal Assistance,Acquisition,https://olac.at/collectionService/personal-assistance_acquisition
+Personal Assistance,Arrangement,https://olac.at/collectionService/personal-assistance_arrangement
+Personal Assistance,Description,https://olac.at/collectionService/personal-assistance_description
+Personal Assistance,Reference Service,https://olac.at/collectionService/personal-assistance_reference-service
+Personal Assistance,Access,https://olac.at/collectionService/personal-assistance_access
+Personal Assistance,Preservation,https://olac.at/collectionService/personal-assistance_preservation
+Personal Assistance,Protection,https://olac.at/collectionService/personal-assistance_protection
+Personal Assistance,Outreach,https://olac.at/collectionService/personal-assistance_outreach
+Personal Assistance,Advocacy,https://olac.at/collectionService/personal-assistance_advocacy
+Personal Assistance,Managing Archival Programs,https://olac.at/collectionService/personal-assistance_managing-archival-programs
+Personal Assistance,Professional Legal Ethical Responsibilities,https://olac.at/collectionService/personal-assistance_professional-legal-ethical-responsibilities
+
+Dedicated Personal Assistance,Selection,https://olac.at/collectionService/dedicated-personal-assistance_selection
+Dedicated Personal Assistance,Acquisition,https://olac.at/collectionService/dedicated-personal-assistance_acquisition
+Dedicated Personal Assistance,Arrangement,https://olac.at/collectionService/dedicated-personal-assistance_arrangement
+Dedicated Personal Assistance,Description,https://olac.at/collectionService/dedicated-personal-assistance_description
+Dedicated Personal Assistance,Reference Service,https://olac.at/collectionService/dedicated-personal-assistance_reference-service
+Dedicated Personal Assistance,Access,https://olac.at/collectionService/dedicated-personal-assistance_access
+Dedicated Personal Assistance,Preservation,https://olac.at/collectionService/dedicated-personal-assistance_preservation
+Dedicated Personal Assistance,Protection,https://olac.at/collectionService/dedicated-personal-assistance_protection
+Dedicated Personal Assistance,Outreach,https://olac.at/collectionService/dedicated-personal-assistance_outreach
+Dedicated Personal Assistance,Advocacy,https://olac.at/collectionService/dedicated-personal-assistance_advocacy
+Dedicated Personal Assistance,Managing Archival Programs,https://olac.at/collectionService/dedicated-personal-assistance_managing-archival-programs
+Dedicated Personal Assistance,Professional Legal Ethical Responsibilities,https://olac.at/collectionService/dedicated-personal-assistance_professional-legal-ethical-responsibilities
+
+Self-Service,Selection,https://olac.at/collectionService/self-service_selection
+Self-Service,Acquisition,https://olac.at/collectionService/self-service_acquisition
+Self-Service,Arrangement,https://olac.at/collectionService/self-service_arrangement
+Self-Service,Description,https://olac.at/collectionService/self-service_description
+Self-Service,Reference Service,https://olac.at/collectionService/self-service_reference-service
+Self-Service,Access,https://olac.at/collectionService/self-service_access
+Self-Service,Preservation,https://olac.at/collectionService/self-service_preservation
+Self-Service,Protection,https://olac.at/collectionService/self-service_protection
+Self-Service,Outreach,https://olac.at/collectionService/self-service_outreach
+Self-Service,Advocacy,https://olac.at/collectionService/self-service_advocacy
+Self-Service,Managing Archival Programs,https://olac.at/collectionService/self-service_managing-archival-programs
+Self-Service,Professional Legal Ethical Responsibilities,https://olac.at/collectionService/self-service_professional-legal-ethical-responsibilities
+
+Automated Services,Selection,https://olac.at/collectionService/automated-services_selection
+Automated Services,Acquisition,https://olac.at/collectionService/automated-services_acquisition
+Automated Services,Arrangement,https://olac.at/collectionService/automated-services_arrangement
+Automated Services,Description,https://olac.at/collectionService/automated-services_description
+Automated Services,Reference Service,https://olac.at/collectionService/automated-services_reference-service
+Automated Services,Access,https://olac.at/collectionService/automated-services_access
+Automated Services,Preservation,https://olac.at/collectionService/automated-services_preservation
+Automated Services,Protection,https://olac.at/collectionService/automated-services_protection
+Automated Services,Outreach,https://olac.at/collectionService/automated-services_outreach
+Automated Services,Advocacy,https://olac.at/collectionService/automated-services_advocacy
+Automated Services,Managing Archival Programs,https://olac.at/collectionService/automated-services_managing-archival-programs
+Automated Services,Professional Legal Ethical Responsibilities,https://olac.at/collectionService/automated-services_professional-legal-ethical-responsibilities
+
+Communities,Selection,https://olac.at/collectionService/communities_selection
+Communities,Acquisition,https://olac.at/collectionService/communities_acquisition
+Communities,Arrangement,https://olac.at/collectionService/communities_arrangement
+Communities,Description,https://olac.at/collectionService/communities_description
+Communities,Reference Service,https://olac.at/collectionService/communities_reference-service
+Communities,Access,https://olac.at/collectionService/communities_access
+Communities,Preservation,https://olac.at/collectionService/communities_preservation
+Communities,Protection,https://olac.at/collectionService/communities_protection
+Communities,Outreach,https://olac.at/collectionService/communities_outreach
+Communities,Advocacy,https://olac.at/collectionService/communities_advocacy
+Communities,Managing Archival Programs,https://olac.at/collectionService/communities_managing-archival-programs
+Communities,Professional Legal Ethical Responsibilities,https://olac.at/collectionService/communities_professional-legal-ethical-responsibilities
+
+Co-Creation,Selection,https://olac.at/collectionService/co-creation_selection
+Co-Creation,Acquisition,https://olac.at/collectionService/co-creation_acquisition
+Co-Creation,Arrangement,https://olac.at/collectionService/co-creation_arrangement
+Co-Creation,Description,https://olac.at/collectionService/co-creation_description
+Co-Creation,Reference Service,https://olac.at/collectionService/co-creation_reference-service
+Co-Creation,Access,https://olac.at/collectionService/co-creation_access
+Co-Creation,Preservation,https://olac.at/collectionService/co-creation_preservation
+Co-Creation,Protection,https://olac.at/collectionService/co-creation_protection
+Co-Creation,Outreach,https://olac.at/collectionService/co-creation_outreach
+Co-Creation,Advocacy,https://olac.at/collectionService/co-creation_advocacy
+Co-Creation,Managing Archival Programs,https://olac.at/collectionService/co-creation_managing-archival-programs
+Co-Creation,Professional Legal Ethical Responsibilities,https://olac.at/collectionService/co-creation_professional-legal-ethical-responsibilities

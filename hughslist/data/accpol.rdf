@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rdf:RDF [
+  <!ENTITY rdf 'http://www.w3.org/1999/02/22-rdf-syntax-ns#'>
+  <!ENTITY rdfs 'http://www.w3.org/2000/01/rdf-schema#'>
+  <!ENTITY dcam 'http://purl.org/dc/dcam/'>
+  <!ENTITY xsd 'http://www.w3.org/2001/XMLSchema#'>
+  <!ENTITY dc 'http://purl.org/dc/elements/1.1/'>
+  <!ENTITY dcterms 'http://purl.org/dc/terms/'>
+  <!ENTITY dcmitype 'http://purl.org/dc/dcmitype/'>
+  <!ENTITY skos 'http://www.w3.org/2004/02/skos/core#'>
+  <!ENTITY cld 'http://purl.org/cld/terms/'>
+  <!ENTITY cdtype 'http://purl.org/cld/cdtype/'>
+  <!ENTITY freq 'http://purl.org/cld/freq/'>
+  <!ENTITY accmeth 'http://purl.org/cld/accmeth/'>
+  <!ENTITY accpol 'http://purl.org/cld/accpol/'>
+]>
+<rdf:RDF xmlns:rdf="&rdf;"
+	xmlns:rdfs="&rdfs;"
+	xmlns:dcam="&dcam;"
+	xmlns:dc="&dc;"
+	xmlns:dcterms="&dcterms;"
+	xmlns:dcmitype="&dcmitype;"
+	xmlns:skos="&skos;"
+	xmlns:cld="&cld;"
+	xmlns:cdtype="&cdtype;"
+	xmlns:freq="&freq;"
+	xmlns:accmeth="&accmeth;"
+	xmlns:accpol="&accpol;"
+>
+
+
+<rdf:Description rdf:about="&accpol;">
+	<dcterms:title xml:lang="en">The Collection Description Accrual Policy Namespace</dcterms:title>
+	<dcterms:creator rdfs:label="Dublin Core Collection Description Task Group" />
+	<dcterms:modified rdf:datatype="&dcterms;W3CDTF">2013-05-10</dcterms:modified>
+</rdf:Description>
+
+<skos:Concept rdf:about="&accpol;closed">
+	<rdfs:label xml:lang="en">Closed</rdfs:label>
+	<skos:prefLabel xml:lang="en">Closed</skos:prefLabel>
+	<rdfs:comment xml:lang="en">A policy that items are no longer added to the collection.</rdfs:comment>
+	<rdfs:isDefinedBy rdf:resource="&accpol;" />
+	<skos:inScheme rdf:resource="&cld;AccrualPolicy" />
+	<dcam:memberOf rdf:resource="&cld;AccrualPolicy" />
+</skos:Concept>
+
+<skos:Concept rdf:about="&accpol;passive">
+	<rdfs:label xml:lang="en">Passive</rdfs:label>
+	<skos:prefLabel xml:lang="en">Passive</skos:prefLabel>
+	<rdfs:comment xml:lang="en">A policy that items are added to the collection only in response to the initiative of an external agent.</rdfs:comment>
+	<rdfs:isDefinedBy rdf:resource="&accpol;" />
+	<skos:inScheme rdf:resource="&cld;AccrualPolicy" />
+	<dcam:memberOf rdf:resource="&cld;AccrualPolicy" />
+</skos:Concept>
+
+<skos:Concept rdf:about="&accpol;active">
+	<rdfs:label xml:lang="en">Active</rdfs:label>
+	<skos:prefLabel xml:lang="en">Active</skos:prefLabel>
+	<rdfs:comment xml:lang="en">A policy that items are actively sought for addition to the collection.</rdfs:comment>
+	<rdfs:isDefinedBy rdf:resource="&accpol;" />
+	<skos:inScheme rdf:resource="&cld;AccrualPolicy" />
+	<dcam:memberOf rdf:resource="&cld;AccrualPolicy" />
+</skos:Concept>
+
+<skos:Concept rdf:about="&accpol;partial">
+	<rdfs:label xml:lang="en">Partial</rdfs:label>
+	<skos:prefLabel xml:lang="en">Partial</skos:prefLabel>
+	<rdfs:comment xml:lang="en">A policy that items are actively sought for addition to a specific part of the collection.</rdfs:comment>
+	<rdfs:isDefinedBy rdf:resource="&accpol;" />
+	<skos:inScheme rdf:resource="&cld;AccrualPolicy" />
+	<dcam:memberOf rdf:resource="&cld;AccrualPolicy" />
+</skos:Concept>
+
+
+</rdf:RDF>

@@ -1,0 +1,13 @@
+id,uri,label,definition
+Collection,http://purl.org/dc/dcmitype/Collection,Collection,"An aggregation of resources."
+Dataset,http://purl.org/dc/dcmitype/Dataset,Dataset,"Data encoded in a defined structure."
+Event,http://purl.org/dc/dcmitype/Event,Event,"A non-persistent, time-based occurrence."
+Image,http://purl.org/dc/dcmitype/Image,Image,"A visual representation other than text."
+InteractiveResource,http://purl.org/dc/dcmitype/InteractiveResource,Interactive Resource,"A resource requiring interaction from the user to be understood, executed, or experienced."
+MovingImage,http://purl.org/dc/dcmitype/MovingImage,Moving Image,"A series of visual representations imparting an impression of motion."
+PhysicalObject,http://purl.org/dc/dcmitype/PhysicalObject,Physical Object,"An inanimate, three-dimensional object or substance."
+Service,http://purl.org/dc/dcmitype/Service,Service,"A system that provides one or more functions."
+Software,http://purl.org/dc/dcmitype/Software,Software,"A computer program in source or compiled form."
+Sound,http://purl.org/dc/dcmitype/Sound,Sound,"A resource primarily intended to be heard."
+StillImage,http://purl.org/dc/dcmitype/StillImage,Still Image,"A static visual representation."
+Text,http://purl.org/dc/dcmitype/Text,Text,"A resource consisting primarily of words for reading."
