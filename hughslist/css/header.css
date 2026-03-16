@@ -1,0 +1,54 @@
+/* ---------------- HEADER ---------------- */
+.app-header {
+  width: 100%;
+  background-color: #003366; /* Hughslist header color */
+  color: #333;
+  padding: 12px 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  box-sizing: border-box;
+  border-bottom: 1px solid #c7ccd3; /* subtle Hughslist-style divider */
+}
+
+.app-header h1 {
+  margin: 0;
+  font-size: 1.4rem;
+  font-weight: 600;
+  color: #ffffff; /* matches Hughslist */
+}
+
+/* Right-side controls: language selector + login button */
+.header-controls {
+  display: flex;
+  align-items: center;
+  gap: 16px; /* keeps them on one line */
+}
+
+/* Language selector block */
+.header-lang label {
+  margin-right: 8px;
+  font-weight: 500;
+  color: #fff;
+}
+
+.header-lang select {
+  padding: 4px 6px;
+  font-size: 0.95rem;
+}
+
+/* Login button */
+#login-button {
+  padding: 6px 14px;
+  background: #4a6fa5; /* Hughslist blue */
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 0.95rem;
+  font-weight: 500;
+}
+
+#login-button:hover {
+  background: #3a5a87;
+}

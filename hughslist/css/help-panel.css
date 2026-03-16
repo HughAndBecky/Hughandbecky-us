@@ -1,0 +1,156 @@
+/* Right side: 1/3 width — now applied to the container */
+    /* ---------------------------------------------
+   RIGHT-HAND HELP COLUMN (COLLAPSIBLE)
+   --------------------------------------------- */
+
+    /* The flex item in the layout */
+    #help-container {
+      width: 380px;
+      /* OPEN WIDTH — adjust as needed */
+      flex-shrink: 0;
+      /* Prevents squeezing when open */
+      display: flex;
+      flex-direction: row;
+      position: relative;
+      overflow: visible;
+      align-self: stretch;
+      /* Ensures toggle button is visible */
+    }
+
+    /* The actual help panel */
+    #help-panel {
+      width: 100%;
+      /* Fills the container */
+      background: #f7f9fa;
+      /* Gray background now applied here */
+      border-left: 2px solid #ddd;
+      padding: 15px;
+      box-sizing: border-box;
+      transition: width 0.25s ease, padding 0.25s ease;
+      overflow: hidden;
+      height: auto;
+    }
+
+    /* Collapsed state — container shrinks to toggle button width */
+    #help-container.collapsed {
+      width: 28px;
+      /* Width of the toggle button */
+    }
+
+    /* Collapsed panel — fully hidden */
+    #help-container.collapsed #help-panel {
+      width: 0;
+      padding: 0;
+      border-left: none;
+    }
+
+    /* Toggle button */
+    #help-toggle {
+      position: absolute;
+      left: -20px;
+      /* Sits just outside the panel */
+      top: 20px;
+      width: 28px;
+      height: 28px;
+      border-radius: 50%;
+      border: 1px solid #666;
+      background: white;
+      cursor: pointer;
+      font-weight: bold;
+      font-size: 16px;
+      line-height: 26px;
+      text-align: center;
+      transition: background 0.2s ease;
+    }
+
+    #help-toggle:hover {
+      background: #eee;
+    }
+
+#help-content-hover {
+  background: #e9d8fd; /* or whichever you choose */
+  padding: 0.5rem 0.75rem;
+  border-radius: 4px;
+  margin-top: 0.5rem;
+}
+
+#help-content-hover:empty {
+  display: none;
+}
+
+
+    /* Help panel heading */
+    .help-column h2 {
+      margin-top: 0;
+      font-size: 1.2rem;
+      border-bottom: 1px solid #ccc;
+      padding-bottom: 6px;
+    }
+
+
+.dcmi-help-block {
+  margin-bottom: 0.5rem;
+  line-height: 1.4;
+}
+
+.dcmi-help-title {
+  margin-bottom: 0.25rem;
+  line-height: 1.3;
+}
+
+/* Prefix stays semibold */
+.dcmi-help-prefix {
+  font-weight: 600;
+}
+
+/* Label is bold+italic via HTML tags — no CSS needed */
+
+.dcmi-help-definition {
+  font-style: italic;
+  margin-bottom: 0.25rem;
+}
+.dcmi-help-comment {
+  margin-top: 0.35rem;
+  font-size: 0.95em;
+  color: #333;
+  line-height: 1.35;
+}
+
+.dcmi-help-link a {
+  color: #005a9c;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.dcmi-help-link a:hover {
+  text-decoration: underline;
+}
+
+.external-icon {
+  font-size: 0.85em;
+  margin-left: 0.2em;
+}
+
+
+.dcmi-help-papers {
+  margin-top: 0.75rem;
+}
+
+.dcmi-help-subtitle {
+  font-weight: 600;
+  margin-bottom: 0.25rem;
+}
+
+.csl-entry {
+  margin-bottom: 0.35rem;
+  line-height: 1.35;
+}
+
+.csl-entry a {
+  color: #005a9c;
+  text-decoration: none;
+}
+
+.csl-entry a:hover {
+  text-decoration: underline;
+}

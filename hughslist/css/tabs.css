@@ -1,0 +1,27 @@
+/* ---------------- accession process tabs ---------------- */
+.tabs {
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+.tab-button {
+  padding: 8px 14px;
+  margin-right: 4px;
+  cursor: pointer;
+  border: 1px solid #444;
+  background: #eee;
+}
+
+.tab-button.active {
+  background: #ccc;
+  font-weight: bold;
+}
+
+.tab-panel {
+  display: none;
+  margin-top: 15px;
+}
+
+.tab-panel.active {
+  display: block;
+}

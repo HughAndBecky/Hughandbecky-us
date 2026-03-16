@@ -1,0 +1,86 @@
+/* ============================================
+   DCMI TYPE CHOOSER — NAMESPACED CSS
+   ============================================ */
+
+    #dcmi-chooser {
+      font-family: sans-serif;
+      margin-bottom: 2rem;
+      max-width: 1100px;
+    }
+
+    /* --- TOP TYPE BOARD --- */
+    #dcmi-chooser #typeBoardContainer {
+      margin-bottom: 1.5rem;
+    }
+
+    #dcmi-chooser #typeBoard {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.5rem;
+    }
+
+    #dcmi-chooser .type-box {
+      display: inline-block;
+      padding: 0.4em 0.7em;
+      border: 1px solid #aaa;
+      border-radius: 20px;
+      background: #fafafa;
+      transition: opacity 0.2s, background 0.2s;
+      white-space: nowrap;
+    }
+
+    #dcmi-chooser .type-box.eliminated {
+      opacity: 0.25;
+    }
+
+    #dcmi-chooser .type-box.selected {
+      background: #d0f0d0;
+      border-color: #4a8;
+    }
+
+    /* --- CHOOSER LAYOUT --- */
+    #dcmi-chooser #chooser-container {
+      max-width: 900px;
+    }
+
+    #dcmi-chooser #question {
+      font-size: 1.3em;
+      margin: 1em 0;
+    }
+
+    #dcmi-chooser #buttons button {
+      display: block;
+      width: 100%;
+      margin: 0.3em 0;
+      padding: 0.6em;
+      font-size: 1em;
+    }
+
+    #dcmi-chooser #help {
+      margin-top: 1em;
+      color: #555;
+      min-height: 3em;
+    }
+
+    #dcmi-chooser #nav {
+      margin-top: 1.5em;
+      display: flex;
+      gap: 1em;
+    }
+
+    #dcmi-chooser #nav button {
+      flex: 1;
+      padding: 0.6em;
+    }
+
+    #dcmi-chooser #result {
+      margin-top: 1.5em;
+      font-weight: bold;
+      font-size: 1.2em;
+    }
+
+    #dcmi-chooser #breadcrumbs {
+      font-size: 0.9em;
+      color: #666;
+      margin-bottom: 0.5em;
+    }

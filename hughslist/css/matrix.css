@@ -1,0 +1,39 @@
+    /* ---------------- Matrix ---------------- */
+
+    .matrix-scroll {
+      overflow-x: auto;
+      width: 100%;
+    }
+    
+    table {
+      border-collapse: collapse;
+      margin-top: 20px;
+    }
+
+    th,
+    td {
+      border: 1px solid #444;
+      padding: 6px;
+      text-align: center;
+    }
+
+    button {
+      padding: 4px 8px;
+      cursor: pointer;
+    }
+
+    /* Active cell */
+    button.active {
+      background-color: #4caf50;
+      color: white;
+    }
+
+    /* Row highlight */
+    button.row-active {
+      background-color: #c8e6c9;
+    }
+
+    /* Column highlight */
+    button.col-active {
+      background-color: #bbdefb;
+    }
