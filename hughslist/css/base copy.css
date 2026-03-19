@@ -1,0 +1,183 @@
+/* ============================================================
+   XML OUTPUT WRAPPER
+   ============================================================ */
+
+#xml-output-wrapper {
+  position: relative;
+  width: 100%;
+  margin-top: 20px;
+}
+
+/* ============================================================
+   XML OUTPUT BOX (<pre id="output">)
+   ============================================================ */
+
+#output {
+  width: 100%;
+  min-height: 300px;       /* same as textarea */
+  max-height: 600px;       /* prevents runaway growth */
+  overflow: auto;          /* scroll when needed */
+  padding: 12px;
+  background: #fafafa;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;  /* consistent sizing */
+  white-space: pre-wrap;   /* wrap long lines */
+  word-break: break-word;  /* prevent layout break */
+  position: relative;      /* needed for placeholder */
+  resize: vertical;        /* allow manual resizing */
+  font-family: Consolas, monospace;
+}
+
+/* Prism-highlighted XML inside <code> */
+#output code {
+  display: block;
+  font-family: Consolas, monospace;
+  font-size: 0.9rem;
+  line-height: 1.4;
+  color: #666; /* default medium gray */
+}
+
+/* ============================================================
+   PLACEHOLDER
+   ============================================================ */
+
+#output-placeholder {
+  position: absolute;
+  top: 12px;
+  left: 12px;
+  color: #999;
+  font-style: italic;
+  pointer-events: none;
+  user-select: none;
+  font-family: Consolas, monospace;
+}
+
+/* ============================================================
+   PRISM CUSTOM THEME — Hughslist XML Rules
+   ============================================================ */
+
+/* Default text inside <pre><code> */
+pre.language-xml,
+code.language-xml {
+  color: #666; /* medium gray baseline */
+  font-family: Consolas, monospace;
+  font-size: 0.9rem;
+  line-height: 1.4;
+}
+
+/* Namespace prefix (dcterms:, dc:, iso639:, etc.) */
+.token.namespace {
+  color: #888 !important;   /* light gray */
+  opacity: 1 !important;    /* override Prism dimming */
+  font-weight: normal !important;
+}
+
+/* Local name (alternative, title, creator, etc.) */
+.token.tag {
+  color: #000 !important;   /* black */
+  font-weight: normal !important;
+}
+
+/* Angle brackets */
+.token.punctuation {
+  color: #444 !important;   /* darker gray */
+}
+
+/* Attribute names */
+.token.attr-name {
+  color: #000 !important;
+  font-weight: normal !important;
+}
+
+/* Attribute values */
+.token.attr-value,
+.token.string {
+  color: #000 !important;
+  font-weight: bold !important;
+}
+
+/* Values inside elements: black bold */
+.token.text {
+  color: #000 !important;
+  font-weight: bold !important;
+}
+
+/* Fallback: any bare text node inside the XML block */
+#output code {
+  color: #000;
+  font-weight: bold;
+}
+
+/* But tags themselves must NOT be bold */
+#output code .token.tag,
+#output code .token.namespace,
+#output code .token.punctuation {
+  font-weight: normal !important;
+}
+
+/* OAI envelope tags override everything */
+.token.namespace.oai,
+.token.tag.oai {
+  color: #4b3cc4 !important; /* purple/blue */
+  font-weight: bold !important;
+}
+
+/* ============================================================
+   ERROR MESSAGES
+   ============================================================ */
+
+#error {
+  color: red;
+  margin-top: 10px;
+}
+
+/* ============================================================
+   BUTTONS
+   ============================================================ */
+
+.danger-btn {
+  background-color: #d9534f; /* Bootstrap-style red */
+  color: white;
+  border: none;
+  padding: 6px 12px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.danger-btn:hover {
+  background-color: #c9302c;
+}
+
+.success-btn {
+  background-color: #5cb85c; /* Bootstrap-style green */
+  color: white;
+  border: none;
+  padding: 6px 12px;
+  border-radius: 4px;
+  cursor: pointer;
+  margin-left: 10px;
+}
+
+.success-btn:hover {
+  background-color: #449d44;
+}
+
+/* ============================================================
+   MATRIX CONTROLS
+   ============================================================ */
+
+#matrix-controls {
+  display: flex;
+  justify-content: space-between;
+}
+
+/* ============================================================
+   XML WARNING TEXT
+   ============================================================ */
+
+.xml-warning {
+  color: red;
+  font-size: 0.85em;
+  margin-top: 3px;
+}

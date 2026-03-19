@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>OLAC Record: {{TITLE}}</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <style>
+    :root {
+      --accent: #00004a;
+      --border: #ddd;
+      --bg-soft: #f7f7f9;
+      --online-bg: #ddffdd;
+      --online-border: #aaeeaa;
+      --online-text: #055500;
+    }
+
+    body {
+      margin: 0;
+      font-family: system-ui, sans-serif;
+      color: #222;
+    }
+
+    header {
+      display: flex;
+      align-items: center;
+      gap: 1rem;
+      padding: 1rem 1.5rem;
+      border-bottom: 1px solid var(--border);
+    }
+
+    header img {
+      height: 60px;
+    }
+
+    header h1 {
+      margin: 0;
+      font-size: 1.8rem;
+      color: var(--accent);
+    }
+
+    header .oai-id {
+      font-size: 1rem;
+      color: #555;
+    }
+
+    main {
+      max-width: 900px;
+      margin: 0 auto;
+      padding: 1.5rem;
+    }
+
+    section {
+      margin-top: 2rem;
+    }
+
+    section h2 {
+      margin-bottom: 0.5rem;
+      font-size: 1.4rem;
+      border-bottom: 1px solid var(--border);
+      padding-bottom: 0.25rem;
+    }
+
+    .online-indicator {
+      display: inline-block;
+      font-size: 0.7rem;
+      font-weight: 600;
+      color: var(--online-text);
+      background: var(--online-bg);
+      border: 1px solid var(--online-border);
+      padding: 0.1rem 0.35rem;
+      border-radius: 3px;
+      margin-right: 0.4rem;
+    }
+
+    dl {
+      display: grid;
+      grid-template-columns: 200px 1fr;
+      row-gap: 0.4rem;
+      column-gap: 1rem;
+    }
+
+    dt {
+      font-weight: 600;
+      color: #333;
+    }
+
+    dd {
+      margin: 0;
+    }
+
+    footer {
+      margin-top: 3rem;
+      padding: 1rem 1.5rem;
+      border-top: 1px solid var(--border);
+      font-size: 0.9rem;
+      color: #555;
+    }
+  </style>
+</head>
+
+<body>
+
+<header>
+  <a href="/"><img src="/images/olac100.gif" alt="OLAC Logo"></a>
+  <div>
+    <h1>OLAC Record</h1>
+    <div class="oai-id">{{OAI_IDENTIFIER}}</div>
+  </div>
+</header>
+
+<main>
+
+  <!-- Title & Citation -->
+  <section>
+    <h2>Title & Citation</h2>
+    <p><strong>{{TITLE}}</strong></p>
+    <p>{{CITATION}}</p>
+  </section>
+
+  <!-- Key Metadata Summary -->
+  <section>
+    <h2>Summary</h2>
+    <dl>
+      <dt>Language</dt><dd>{{LANGUAGE}} ({{LANGCODE}})</dd>
+      <dt>Type</dt><dd>{{TYPE}}</dd>
+      <dt>Publisher</dt><dd>{{PUBLISHER}}</dd>
+      <dt>Date</dt><dd>{{DATE}}</dd>
+      <dt>Coverage</dt><dd>{{COVERAGE}}</dd>
+      <dt>Extent</dt><dd>{{EXTENT}}</dd>
+      <dt>Online</dt><dd><a href="{{URI}}">{{URI}}</a></dd>
+    </dl>
+  </section>
+
+  <!-- Full Metadata -->
+  <section>
+    <h2>Full Metadata</h2>
+    <dl>
+      {{#METADATA}}
+      <dt>{{LABEL}}</dt>
+      <dd>{{VALUE}}</dd>
+      {{/METADATA}}
+    </dl>
+  </section>
+
+  <!-- OLAC Info -->
+  <section>
+    <h2>OLAC Info</h2>
+    <dl>
+      <dt>Archive</dt><dd>{{ARCHIVE_NAME}}</dd>
+      <dt>Description</dt><dd><a href="{{ARCHIVE_URL}}">{{ARCHIVE_URL}}</a></dd>
+      <dt>GetRecord (OLAC)</dt><dd><a href="{{OLAC_GETRECORD}}">OLAC format</a></dd>
+      <dt>Pre-generated XML</dt><dd><a href="{{STATIC_XML}}">XML file</a></dd>
+    </dl>
+  </section>
+
+  <!-- OAI Info -->
+  <section>
+    <h2>OAI Info</h2>
+    <dl>
+      <dt>OAI Identifier</dt><dd>{{OAI_IDENTIFIER}}</dd>
+      <dt>Datestamp</dt><dd>{{DATESTAMP}}</dd>
+      <dt>GetRecord (oai_dc)</dt><dd><a href="{{OAIDC_GETRECORD}}">oai_dc format</a></dd>
+    </dl>
+  </section>
+
+  <!-- Search Info -->
+  <section>
+    <h2>Search Info</h2>
+    <dl>
+      <dt>Terms</dt><dd>{{SEARCH_TERMS}}</dd>
+    </dl>
+  </section>
+
+  <!-- Inferred Metadata -->
+  <section>
+    <h2>Inferred Metadata</h2>
+    <dl>
+      <dt>Country</dt><dd>{{COUNTRY}}</dd>
+      <dt>Area</dt><dd>{{AREA}}</dd>
+    </dl>
+  </section>
+
+</main>
+
+<footer>
+  {{PAGE_URL}}<br>
+  Up-to-date as of: {{TIMESTAMP}}
+</footer>
+
+</body>
+</html>

@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Search – Hugh’s List</title>
+  <link rel="stylesheet" href="/css/base.css">
+  <link rel="stylesheet" href="/css/search.css">
+  <link rel="stylesheet" href="/css/header.css">
+  <link rel="stylesheet" href="/css/layout.css">
+</head>
+
+<body>
+
+  <!-- Header loaded by main.js -->
+  <div id="header-container"></div>
+
+  <main id="content">
+
+    <!-- Search Cards -->
+    <section id="search-cards-container">
+      <section class="search-cards" vocab="https://schema.org/" typeof="WebPage">
+
+        <div class="card-grid">
+
+          <!-- LANGUAGE CARD -->
+          <article class="card search-card" typeof="SearchAction" resource="#searchByLanguage">
+            <h2 property="name" data-i18n="search.language.title">Search by Language</h2>
+            <p class="subtitle" data-i18n="search.language.subtitle">
+              Explore resources organized by language
+            </p>
+            <p class="microcopy" data-i18n="search.language.microcopy">
+              Browse all records through the filters for specific languages.
+            </p>
+            <button class="card-trigger" property="target" data-facet="language" data-i18n="search.language.button">
+              Browse by Language
+            </button>
+          </article>
+
+          <!-- SUBJECT CARD -->
+          <article class="card search-card" typeof="SearchAction" resource="#searchBySubject">
+            <h2 property="name" data-i18n="search.subject.title">Search by Subject</h2>
+            <p class="subtitle" data-i18n="search.subject.subtitle">
+              Discover materials by linguistic topic
+            </p>
+            <p class="microcopy" data-i18n="search.subject.microcopy">
+              Uses the curated Hugh’s List subject vocabulary.
+            </p>
+            <button class="card-trigger" property="target" data-facet="subject" data-i18n="search.subject.button">
+              Browse Subjects
+            </button>
+          </article>
+
+          <!-- DATE CARD -->
+          <article class="card search-card" typeof="SearchAction" resource="#searchByDate">
+            <h2 property="name" data-i18n="search.date.title">Search by Date</h2>
+            <p class="subtitle" data-i18n="search.date.subtitle">
+              Find resources by creation or publication year
+            </p>
+            <p class="microcopy" data-i18n="search.date.microcopy">
+              Filter by year ranges, decades, or specific dates.
+            </p>
+            <button class="card-trigger" property="target" data-facet="date" data-i18n="search.date.button">
+              Browse by Date
+            </button>
+          </article>
+
+        </div>
+      </section>
+    </section>
+
+    <!-- Revealable Search Zone -->
+    <section id="search-zone" hidden aria-hidden="true">
+      <section typeof="SearchAction" resource="#activeSearch">
+        <h2 data-i18n="search.zone.title">Search</h2>
+
+        <form id="search-form">
+
+          <!-- Only shown when facet = date -->
+          <div id="timeline-container" hidden>
+            <label data-i18n="search.date.timeline.label">
+              Select a year range
+            </label>
+            <div class="dual-slider">
+              <input type="range" id="timeline-start" min="1800" max="2025" value="1900">
+              <input type="range" id="timeline-end" min="1800" max="2025" value="2000">
+            </div>
+            <div id="timeline-display">
+              <span id="timeline-start-value">1900</span>
+              <span>–</span>
+              <span id="timeline-end-value">2000</span>
+            </div>
+          </div>
+
+
+
+          <!-- Other facets still use the text input -->
+          <div id="text-search-container">
+            <label for="search-input" data-i18n="search.zone.label">
+              Enter your search
+            </label>
+
+            <input id="search-input" name="q" type="text" property="query"
+              data-i18n-placeholder="search.zone.placeholder" placeholder="Type to search…">
+          </div>
+
+          <input type="hidden" id="facet-input" name="facet" value="">
+        </form>
+      </section>
+
+    </section>
+
+  </main>
+
+  <div id="footer-container"></div>
+
+  <script type="module" src="/js/main.js"></script>
+</body>
+
+</html>

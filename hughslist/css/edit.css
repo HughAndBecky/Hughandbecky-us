@@ -1,0 +1,25 @@
+.edit-container {
+    max-width: 900px;
+    margin: 2rem auto;
+    padding: 1rem;
+}
+
+.import-box textarea {
+    width: 100%;
+    font-size: 1rem;
+}
+
+.editor-section {
+    margin-top: 2rem;
+}
+
+.editor-section input,
+.editor-section textarea {
+    width: 100%;
+    font-size: 1rem;
+    padding: 0.5rem;
+}
+
+.editor-actions {
+    margin-top: 3rem;
+}

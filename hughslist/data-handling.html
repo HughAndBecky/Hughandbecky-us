@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title data-i18n="dataflow.title">Data Flow & Privacy</title>
+    <link rel="stylesheet" href="css/base.css">
+    <link rel="stylesheet" href="css/layout.css">
+    <link rel="stylesheet" href="css/help-panel.css">
+    <link rel="stylesheet" href="css/header.css">
+</head>
+
+<body>
+    <div id="header-container"></div>
+
+    <div class="layout">
+        <div class="main-column">
+            <main aria-labelledby="page-title">
+                <h1 id="page-title" data-i18n="dataflow.title">Data Flow & Privacy</h1>
+
+                <!-- 2. Data You Enter -->
+                <section aria-labelledby="data-you-enter">
+                    <h2 id="data-you-enter" data-i18n="dataflow.enter.heading">Data you enter</h2>
+                    <p data-i18n="dataflow.enter.p1">
+                        This application works with descriptive information that you type, paste, or import into on‑screen forms. When you choose to use external lookups or imports, the returned metadata is displayed in the browser and can be edited before you generate any output.
+                    </p>
+                </section>
+
+                <!-- 3. Data That Stays in Your Browser -->
+                <section aria-labelledby="data-stays-local">
+                    <h2 id="data-stays-local" data-i18n="dataflow.local.heading">Data that stays in your browser</h2>
+                    <p data-i18n="dataflow.local.p1">
+                        All metadata you enter or edit remains in your browser while you are using the application. The application does not create user accounts, maintain server‑side sessions, or store your records on a backend service (at this time). An ORCID login is required to access certain features, but this authentication process is handled entirely by ORCID and does not involve the application receiving or storing any of your credentials. 
+                    </p>
+                </section>
+
+                <!-- 4. Data That Never Leaves Your Browser -->
+                <section aria-labelledby="data-never-leaves">
+                    <h2 id="data-never-leaves" data-i18n="dataflow.never.heading">Data that never leaves your browser</h2>
+                    <p data-i18n="dataflow.never.p1">
+                        The application does not send your draft records, file contents, or generated XML to any third party service.
+                    </p>
+                </section>
+
+                <!-- 5. When Data Does Leave the Browser -->
+                <section aria-labelledby="when-data-leaves">
+                    <h2 id="when-data-leaves" data-i18n="dataflow.leaves.heading">When data does leave the browser</h2>
+                    <p data-i18n="dataflow.leaves.p1">
+                        Data leaves your browser only when you initiate an action that requires contacting an external service. The common case is when an identifier is sent to a lookup service to retrieve metadata. In this case, only the identifier (e.g., an ISBN or OCLC number) is transmitted, and the returned metadata is displayed for your review and editing.
+                    </p>
+                    <p data-i18n="dataflow.leaves.p2">
+                        Only the minimal query information needed to complete the request is sent. Draft records are never transmitted. At a future time Hugh's List may offer optional features that allow you to save or share your records, but these features will be designed with open access in mind.
+                    </p>
+                </section>
+
+                <!-- 6. How Processing Happens -->
+                <section aria-labelledby="how-processing-happens">
+                    <h2 id="how-processing-happens" data-i18n="dataflow.processing.heading">Data Processing</h2>
+                    <p data-i18n="dataflow.processing.p1">
+                        Processing of the information you enter takes place within your browser. No server‑side computation is required to build or validate your records. All transformations occur locally on your device.
+                    </p>
+                </section>
+
+                <!-- 7. Local Storage and Cookies -->
+                <section aria-labelledby="local-storage">
+                    <h2 id="local-storage" data-i18n="dataflow.storage.heading">Local storage and cookies</h2>
+                    <p data-i18n="dataflow.storage.p1">
+                        Hugh's List does not use cookies or local storage to save your data. Your records are stored only in memory while you are using the application.
+                    </p>
+                </section>
+            </main>
+        </div>
+
+        <div class="side-column">
+            <div id="help-panel-container"></div>
+        </div>
+    </div>
+
+    <div id="footer-container"></div>
+    <script type="module" src="js/main.js"></script>
+</body>
+</html>

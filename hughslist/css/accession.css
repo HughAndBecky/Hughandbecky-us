@@ -1,0 +1,65 @@
+ .title-row {
+      display: flex;
+      gap: 20px;
+      align-items: flex-end;
+      margin-bottom: 20px;
+      background: #f8f8f8;
+      /* ← add this */
+      padding: 10px;
+      /* ← and this */
+      border-radius: 4px;
+      /* ← and this */
+    }
+
+    .title-field {
+      flex: 1;
+    }
+
+    .lang-field {
+      width: 140px;
+      /* matches your existing inline width */
+    }
+
+    .accession-row {
+      display: flex;
+      gap: 20px;
+      margin-bottom: 20px;
+      background: #f8f8f8;
+      padding: 10px;
+      border-radius: 4px;
+    }
+
+    .accession-field {
+      flex: 1;
+    }
+
+    .accession-field input,
+    .accession-field select {
+      width: 100%;
+    }
+
+    .alt-title-block {
+      margin-bottom: 15px;
+      padding: 10px;
+      background: #f8f8f8;
+      border-radius: 4px;
+    }
+
+    .remove-alt-title {
+      margin-top: 8px;
+      background: #c0392b;
+      color: white;
+      border: none;
+      padding: 4px 8px;
+      cursor: pointer;
+    }
+
+    .add-button {
+      margin-top: 10px;
+      padding: 6px 10px;
+    }
+
+
+
+
+  

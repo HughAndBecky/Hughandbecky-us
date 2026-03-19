@@ -1,48 +1,48 @@
-    /* ---------------- LAYOUT ---------------- */
-    html,
-    body {
-        height: 100%;
-    }
+/* ---------------- LAYOUT ---------------- */
 
-    body {
-        margin: 0;
-        display: flex;
-        flex-direction: column;
-    }
+/* Ensure the page always fills the viewport */
+html, body {
+    margin: 0;
+    padding: 0;
+    min-height: 100vh;   /* critical fix */
+}
 
-    .layout {
-        display: flex;
-        flex-direction: row;
-        flex-wrap: nowrap;
-        gap: 20px;
-        margin-top: 20px;
-        display: flex;
-        align-items: stretch;
-        flex: 1;
-        /* fill remaining space under header */
-        min-height: 0;
-        /* allow proper flex sizing */
+/* Body is a vertical flex container */
+body {
+    display: flex;
+    flex-direction: column;
+    background: #fff;
+}
 
-    }
+/* Main layout area (tabs + forms + help panel) */
+.layout {
+    flex: 1;                     /* fills all remaining space */
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    gap: 20px;
+    margin-top: 20px;
+    align-items: stretch;
 
+    /* Prevent collapsing and allow content to push footer down */
+    min-height: 0;               /* allows children to scroll instead of overflow */
+}
 
-    /* Left side: 2/3 width */
-    .main-column {
-        flex: 2;
-        min-width: 0;
-        padding-left: 1.5rem;
-        /* prevents overflow */
-    }
+/* Left side: main content area */
+.main-column {
+    flex: 2;
+    min-width: 0;                /* prevents overflow */
+    padding-left: 1.5rem;
+}
 
-    #site-footer {
-        padding: 12px 20px;
-        background: #f0f2f4;
-        border-top: 1px solid #ccc;
-        font-size: 0.9rem;
-        color: #444;
-        flex-shrink: 0;
-        /* prevents it from collapsing */
-        text-align: center;
-
-    }
-
+/* Footer always sits BELOW content, never overlaps */
+#site-footer {
+    margin-top: auto;            /* pushes footer to bottom of page */
+    padding: 12px 20px;
+    background: #f0f2f4;
+    border-top: 1px solid #ccc;
+    font-size: 0.9rem;
+    color: #444;
+    flex-shrink: 0;              /* footer never collapses */
+    text-align: center;
+}

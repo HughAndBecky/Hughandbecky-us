@@ -1,0 +1,301 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <title>OLAC Record Creator</title>
+  <link rel="stylesheet" href="css/base.css">
+  <link rel="stylesheet" href="css/layout.css">
+  <link rel="stylesheet" href="css/tabs.css">
+  <link rel="stylesheet" href="css/dcmi-chooser.css">
+  <link rel="stylesheet" href="css/help-panel.css">
+  <link rel="stylesheet" href="css/matrix.css">
+  <link rel="stylesheet" href="css/accession.css">
+  <link rel="stylesheet" href="css/header.css">
+<link rel="stylesheet" href="css/prism.css">
+<script src="js/prism/prism.js"></script>
+<script src="js/prism/prism-markup.min.js"></script>
+
+
+</head>
+
+<body>
+  <div id="header-container"></div>
+
+  <div class="layout">
+    <div class="main-column">
+      <!-- ============================
+     DCMI TYPE CHOOSER (NEW)
+     ============================ -->
+
+      <div id="dcmi-chooser">
+
+        <!-- TOP TYPE BOARD -->
+        <div id="typeBoardContainer">
+          <h3>What type of resource are you describing?</h3>
+          <div id="typeBoard"></div>
+        </div>
+
+        <!-- CHOOSER -->
+        <div id="chooser-container">
+          <div id="breadcrumbs"></div>
+          <div id="question"></div>
+          <div id="buttons"></div>
+          <div id="help"></div>
+
+          <div id="nav">
+            <button id="backBtn">Back</button>
+            <button id="resetBtn">Start Over</button>
+          </div>
+
+          <div id="result"></div>
+        </div>
+      </div>
+
+      <!-- ============================
+     COLLECTION TABS (SHOW ONLY
+     WHEN TYPE = "Collection")
+     ============================ -->
+      <div id="editor-content" hidden>
+        <div id="collection-tabs" hidden>
+          <div class="tabs">
+            <button class="tab-button" data-tab="tab-accession" data-i18n="tab.accession">Accession</button>
+            <button class="tab-button active" data-tab="tab-title" data-i18n="tab.titles">Titles</button>
+            <button class="tab-button" data-tab="tab-description" data-i18n="tab.description">Description</button>
+            <button class="tab-button" data-tab="tab-type" data-i18n="tab.type">Collection Format</button>
+            <button class="tab-button" data-tab="tab-matrix" data-i18n="tab.matrix">Stewardship Context</button>
+          </div>
+        </div>
+
+        <div id="tab-title" class="tab-panel active">
+          <!-- <h2 data-i18n="header.titles">OLAC Titles</h2>-->
+          <h3 data-i18n="section.collection_title">Collection Title</h3>
+
+          <div id="collection-title-section" class="title-row">
+
+            <div class="title-field">
+              <label for="collection-title" data-i18n="label.title">Title</label>
+              <input id="collection-title" type="text" data-i18n-placeholder="placeholder.title"
+                placeholder="Enter the main title">
+            </div>
+
+            <div class="lang-field">
+              <label for="collection-title-lang" data-i18n="label.title_lang">Language</label>
+              <input id="collection-title-lang" type="text" data-i18n-placeholder="placeholder.title_lang"
+                placeholder="en">
+            </div>
+
+          </div>
+
+          <h3 data-i18n="label.alt_title_section">Alternative Titles</h3>
+
+          <div id="alt-title-container"></div>
+
+          <button id="add-alt-title" type="button" class="add-button" data-i18n="button.add_alt_title">
+            Add another alternative title
+          </button>
+
+          <template id="alt-title-template">
+            <div class="alt-title-block" data-help-key="help.alt_title">
+
+              <label data-i18n="label.alt_title">Alternative Title</label>
+              <input type="text" class="alt-title-input" data-i18n-placeholder="placeholder.alt_title"
+                placeholder="Enter an alternative title">
+
+              <label data-i18n="label.alt_title_lang">Language</label>
+              <input type="text" class="alt-title-lang-input" data-i18n-placeholder="placeholder.alt_title_lang"
+                placeholder="es">
+
+              <button type="button" class="remove-alt-title" data-i18n="button.remove_alt_title">
+                Remove
+              </button>
+
+              <hr>
+            </div>
+          </template>
+
+        </div>
+
+        <div id="tab-description" class="tab-panel">
+          <h2 data-i18n="header.description">OLAC Description</h2>
+
+          <h3 data-i18n="section.collection_description">Collection Description</h3>
+
+          <div id="collection-description-section" style="margin-bottom:20px;">
+
+            <label for="collection-description" data-i18n="label.description">Description</label>
+            <textarea id="collection-description" style="width:100%; height:80px;"
+              data-i18n-placeholder="placeholder.description" placeholder="Describe the collection"></textarea>
+
+            <label for="collection-description-lang" data-i18n="label.description_lang">Language</label>
+            <input id="collection-description-lang" type="text" style="width:120px;"
+              data-i18n-placeholder="placeholder.description_lang" placeholder="en-US">
+
+            <label for="collection-provenance" style="margin-top:15px;" data-i18n="label.provenance_literal">Provenance
+              (literal)</label>
+            <textarea id="collection-provenance" style="width:100%; height:80px;"
+              data-i18n-placeholder="placeholder.provenance_literal"
+              placeholder="Explain the history or origin"></textarea>
+
+            <label for="collection-provenance-lang" data-i18n="label.provenance_literal_lang">Language</label>
+            <input id="collection-provenance-lang" type="text" style="width:120px;"
+              data-i18n-placeholder="placeholder.provenance_literal_lang" placeholder="en-US">
+
+            <label for="collection-provenance-uri" style="margin-top:15px;" data-i18n="label.provenance_uri">Provenance
+              (URI)</label>
+            <input id="collection-provenance-uri" type="text" style="width:100%;"
+              data-i18n-placeholder="placeholder.provenance_uri" placeholder="https://example.org/provenance">
+
+            <label for="collection-abstract" style="margin-top:15px;" data-i18n="label.abstract">Abstract</label>
+            <textarea id="collection-abstract" style="width:100%; height:80px;"
+              data-i18n-placeholder="placeholder.abstract" placeholder="50 words or less about the journal."></textarea>
+
+            <label for="collection-abstract-lang" data-i18n="label.abstract_lang">Language</label>
+            <input id="collection-abstract-lang" type="text" style="width:120px;"
+              data-i18n-placeholder="placeholder.abstract_lang" placeholder="en-US">
+
+          </div>
+        </div>
+
+        <div id="tab-type" class="tab-panel">
+          <h2 data-i18n="header.type">Collection Type</h2>
+          <p data-i18n="help.type_block">This record will be treated as a Collection in DC and DCTERMS.</p>
+        </div>
+
+        <div id="tab-accession" class="tab-panel">
+          <h2 data-i18n="header.accession">Accession</h2>
+          <h2 data-i18n="header.accession">Accession</h2>
+
+          <!-- ---------------- DATES ---------------- -->
+          <h3 data-i18n="section.accession_dates">Accession Dates</h3>
+
+          <div class="accession-row">
+            <div class="accession-field">
+              <label for="accession-created" data-i18n="label.created">Created Date</label>
+              <input id="accession-created" type="date">
+            </div>
+
+            <div class="accession-field">
+              <label for="accession-modified" data-i18n="label.modified">Modified Date</label>
+              <input id="accession-modified" type="date">
+            </div>
+          </div>
+
+          <!-- ---------------- ACCRUAL FIELDS ---------------- -->
+          <h3 data-i18n="section.accrual">Accrual Information</h3>
+
+          <div class="accession-row">
+            <div class="accession-field">
+              <label for="accrual-method" data-i18n="label.accrual_method">Accrual Method</label>
+              <select id="accrual-method"></select>
+            </div>
+
+            <div class="accession-field">
+              <label for="accrual-periodicity" data-i18n="label.accrual_periodicity">Accrual Periodicity</label>
+              <select id="accrual-periodicity"></select>
+            </div>
+
+            <div class="accession-field">
+              <label for="accrual-policy" data-i18n="label.accrual_policy">Accrual Policy</label>
+              <select id="accrual-policy"></select>
+            </div>
+          </div>
+
+          <!-- ---------------- ROLES ---------------- -->
+          <h3 data-i18n="section.roles">Roles</h3>
+
+          <div class="accession-row">
+            <div class="accession-field">
+              <label for="accession-role" data-i18n="label.role">Role</label>
+              <select id="accession-role"></select>
+            </div>
+
+            <div class="accession-field">
+              <label for="accession-role-name" data-i18n="label.role_name">Name</label>
+              <input id="accession-role-name" type="text" placeholder="Person or organization">
+            </div>
+          </div>
+
+          <!-- ---------------- MEDIATOR / URI CHOICE ---------------- -->
+          <h3 data-i18n="section.mediator">Mediator</h3>
+
+          <div class="accession-row">
+            <div class="accession-field">
+              <label for="mediator-type" data-i18n="label.mediator_choice">
+                Mediator Type
+              </label>
+              <select id="mediator-type">
+                <option value="literal">Literal (xml:lang)</option>
+                <option value="uri">URI (xsi:type="dcterms:URI")</option>
+              </select>
+            </div>
+
+          </div>
+
+          <div class="accession-field">
+            <label for="mediator-value" data-i18n="label.mediator_value">Value</label>
+            <input id="mediator-value" type="text" placeholder="Literal or URI">
+          </div>
+
+          <div class="accession-field" id="mediator-lang-field">
+            <label for="mediator-lang" data-i18n="label.lang">Language</label>
+            <input id="mediator-lang" type="text" placeholder="en">
+          </div>
+        </div>
+
+        <!-- ---------------- RELATION (Accession Record) ---------------- -->
+        <h3 data-i18n="section.accession_record">Accession Record</h3>
+
+        <div class="accession-row">
+          <div class="accession-field">
+            <label for="accession-relation" data-i18n="label.relation_uri">Relation (URI)</label>
+            <input id="accession-relation" type="text" placeholder="https://example.org/accession-record">
+          </div>
+        </div>
+      </div>
+      <div id="tab-matrix" class="tab-panel">
+        <h2 data-i18n="header.matrix">Select Service Relationships</h2>
+
+        <div id="error"></div>
+        <div class="matrix-scroll">
+          <table id="matrix"></table>
+        </div>
+      </div>
+      <div id="utilities" style="margin-top:20px;">
+        <button id="clearAll" class="danger-btn" data-i18n="button.clear_all">Clear All</button>
+        <button id="copyXML" style="margin-left:10px;" data-i18n="button.copy_xml">Copy XML</button>
+        <label style="margin-left:15px; font-size:0.9rem;">
+          <input type="checkbox" id="wrap-oai">
+          Wrap in OAI‑PMH context
+        </label>
+        <button id="submitRecord" class="success-btn" data-i18n="button.submit_record">Submit</button>
+      </div>
+<div id="xml-output-wrapper">
+  <pre id="output" class="language-xml">
+    <code></code>
+    <div id="output-placeholder" data-i18n="placeholder.xml_output">
+      XML output appears here…
+    </div>
+  </pre>
+</div>
+
+    </div><!--Close of main column -->
+    <div id="help-container">
+      <aside class="help-column" id="help-panel">
+        <h2>Help</h2>
+        <div id="help-content">
+          <div id="help-content-persistent"></div>
+          <div id="help-content-hover"></div>
+        </div>
+      </aside>
+      <button id="help-toggle" aria-expanded="true" title="Toggle help">
+        ?
+      </button>
+    </div><!--Close of help container-->
+  </div><!--Close of layout-->
+  <div id="footer-container"></div>
+  <script type="module" src="js/main.js"></script>
+
+</body>
+
+</html>

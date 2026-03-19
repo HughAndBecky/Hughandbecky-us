@@ -1,0 +1,57 @@
+  <header class="app-header">
+<h1>
+  <a href="/" data-i18n="app.title_link">Hugh’s List</a>
+  <span data-i18n="app.title_suffix"> — OLAC Record Creator</span>
+</h1>
+
+
+<nav class="header-actions"
+     vocab="https://schema.org/"
+     typeof="SiteNavigationElement">
+
+  <a class="action"
+     href="/create.html"
+     property="url"
+     data-i18n="nav.create"
+     data-i18n-hover="nav.create_hover">
+  </a>
+
+  <a class="action"
+     href="/search.html"
+     property="url"
+     data-i18n="nav.search"
+     data-i18n-hover="nav.search_hover">
+  </a>
+
+  <a class="action"
+     href="/edit.html"
+     property="url"
+     data-i18n="nav.edit"
+     data-i18n-hover="nav.edit_hover">
+  </a>
+
+</nav>
+
+
+<div class="header-controls"
+     vocab="https://schema.org/">
+
+  <!-- Language Selector -->
+  <div class="header-lang">
+    <label for="lang-select"
+           data-i18n="label.interface_language">
+      Interface Language:
+    </label>
+    <select id="lang-select"></select>
+  </div>
+
+  <!-- Login Button -->
+  <button id="login-button"
+          typeof="LoginAction"
+          property="potentialAction"
+          data-i18n="button.login">
+  </button>
+
+</div>
+
+</header>

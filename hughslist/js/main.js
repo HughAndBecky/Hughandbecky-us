@@ -12,85 +12,144 @@ import { initializeHistory } from "./ux/history.js";
 // DCMIType chooser (async)
 import { initDCMIChooser } from "./ui/dcmi-chooser.js";
 
-// NEW — Interface Language Selector
+// Accession module
+import { initAccessionUI } from "./logic/accession.js";
+
+// Interface Language Selector
 import { initUILanguageSelector } from "./ui/ui-language-selector.js";
 
-// NEW — OAI wrapper module
+// OAI wrapper module
 import { wrapRecordInOAI } from "./logic/oai-wrapper.js";
 
+// Dynamic XML updater
+import { attachDynamicXML } from "./ui/dynamic-xml.js";
+
+// XML builder
+import { buildXML } from "./logic/build-xml.js";
+
+// Header + Footer loaders
+import { loadHeader } from "./ui/header-loader.js";
+import { loadFooter } from "./ui/footer-loader.js";
+
+// 🔹 NEW: Search cards module
+import { initSearchCards } from "./ui/search-cards.js";
+
+
+// ------------------------------------------------------------
+// PAGE-TYPE DETECTION
+// ------------------------------------------------------------
+
+// Editor pages contain #editor-content.
+function isEditorPage() {
+  return document.getElementById("editor-content") !== null;
+}
+
+// Search page contains #search-cards-container.
+function isSearchPage() {
+  return document.getElementById("search-cards-container") !== null;
+}
+
+
+// ------------------------------------------------------------
+// SINGLE DOMContentLoaded — clean architecture
+// ------------------------------------------------------------
 document.addEventListener("DOMContentLoaded", async () => {
 
   // -----------------------------------------
-  // Initialize UI modules
+  // 1. Load header and footer on ALL pages
+  // -----------------------------------------
+  await loadHeader();
+  await loadFooter();
+
+  // -----------------------------------------
+  // 2. Initialize language selector on ALL pages
+  // -----------------------------------------
+  initUILanguageSelector();
+
+  // -----------------------------------------
+  // 3. SEARCH PAGE INITIALIZATION
+  // -----------------------------------------
+  if (isSearchPage()) {
+    initSearchCards();
+    return; // Stop — do NOT load editor modules
+  }
+
+  // -----------------------------------------
+  // 4. If this is NOT an editor page, stop here.
+  // -----------------------------------------
+  if (!isEditorPage()) {
+    return; // Safe exit — header/footer/lang are loaded
+  }
+
+  // -----------------------------------------
+  // 5. Wire dynamic XML updater (editor only)
+  // -----------------------------------------
+  attachDynamicXML();
+
+  // -----------------------------------------
+  // 6. Initialize UI modules (editor only)
   // -----------------------------------------
   initTabs();
   initValidation();
   initHelpPanel();
-  initUILanguageSelector();   // NEW
 
   // -----------------------------------------
-  // Initialize form logic modules
+  // 7. Initialize form logic modules (editor only)
   // -----------------------------------------
   initTitleSection();
   initDescriptionSection();
   initMatrix();
+  initAccessionUI();
 
   // -----------------------------------------
-  // Initialize the DCMIType chooser (async)
+  // 8. Initialize the DCMIType chooser (async)
   // -----------------------------------------
   await initDCMIChooser();
 
   // -----------------------------------------
-  // Initialize history AFTER chooser is ready
+  // 9. Initialize history AFTER chooser is ready
   // -----------------------------------------
   initializeHistory();
 
   // -----------------------------------------
-  // Handle DCMIType selection event
+  // 10. Handle DCMIType selection event
   // -----------------------------------------
   document.addEventListener("dcmiTypeSelected", (e) => {
     const type = e.detail.type;
 
-    // Hide chooser
     const chooser = document.getElementById("dcmi-chooser");
     if (chooser) chooser.hidden = true;
 
-    // Show editor
     const editor = document.getElementById("editor-content");
     if (editor) editor.hidden = false;
 
-    // Show/hide Collection tabs
     const collectionTabs = document.getElementById("collection-tabs");
     if (collectionTabs) {
       collectionTabs.hidden = (type !== "Collection");
     }
-
-    // (Later: add other DCMIType-specific tab sets here)
   });
 
   // -----------------------------------------
-  // COPY XML — with optional OAI wrapping
+  // 11. COPY XML — with optional OAI wrapping
   // -----------------------------------------
   const copyBtn = document.getElementById("copyXML");
   const wrapBox = document.getElementById("wrap-oai");
 
-  copyBtn.addEventListener("click", () => {
-    let xml = document.getElementById("output").value;
-    const wrap = wrapBox.checked;
+  if (copyBtn) {
+    copyBtn.addEventListener("click", () => {
+      const { xml } = buildXML();
+      const wrap = wrapBox?.checked;
 
-    if (wrap) {
-      // Split into individual records if needed
-      // Adjust delimiter if your builder uses a different one
-      const records = xml.split("<!-- RECORD BREAK -->");
+      let out = xml;
 
-      const wrapped = records.map(r =>
-        wrapRecordInOAI(r.trim())
-      );
+      if (wrap) {
+        const records = xml.split("<!-- RECORD BREAK -->");
+        const wrapped = records.map((r) => wrapRecordInOAI(r.trim()));
+        out = wrapped.join("\n\n");
+      }
 
-      xml = wrapped.join("\n\n");
-    }
-
-    navigator.clipboard.writeText(xml);
-  });
+      navigator.clipboard.writeText(out);
+    });
+  }
 
 });

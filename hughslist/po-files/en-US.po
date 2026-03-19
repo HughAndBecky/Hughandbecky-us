@@ -1,0 +1,323 @@
+# English translations for Hughslist
+
+msgid ""
+msgstr ""
+"Language: en\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+# =================================================================
+#  APPLICATION
+# =================================================================
+
+msgid "app.title"
+msgstr "OLAC Record Creator"
+
+# =================================================================
+#  HEADER
+# =================================================================
+
+msgid "nav.edit"
+msgstr "Edit"
+
+msgid "nav.edit_hover"
+msgstr "Edit existing records"
+
+msgid "nav.search"
+msgstr "Search"
+
+msgid "nav.search_hover"
+msgstr "Search the repository"
+
+msgid "nav.create"
+msgstr "Create"
+
+msgid "nav.create_hover"
+msgstr "Create a new record"
+
+msgid "label.interface_language"
+msgstr "Interface Language:"
+
+msgid "button.login"
+msgstr "Login"
+
+# =================================================================
+#  FOOTER
+# =================================================================
+
+msgid "footer.copyright"
+msgstr "© 2026 Hugh Paterson III · Built for catalogers with care"
+
+msgid "footer.data_handling"
+msgstr "Data Handling"
+
+msgid "footer.about"
+msgstr "About"
+
+# =================================================================
+#  HELP PANEL
+# =================================================================
+
+msgid "header.help"
+msgstr "Help"
+
+msgid "button.toggle_help"
+msgstr "Toggle help"
+
+msgid "symbol.help_icon"
+msgstr "?"
+
+# =================================================================
+#  DCMI TYPE CHOOSER
+# =================================================================
+
+msgid "chooser.prompt"
+msgstr "What type of resource are you describing?"
+
+msgid "button.back"
+msgstr "Back"
+
+msgid "button.start_over"
+msgstr "Start Over"
+
+# =================================================================
+#  COLLECTION EDITOR — TABS
+# =================================================================
+
+msgid "tab.accession"
+msgstr "Accession"
+
+msgid "tab.titles"
+msgstr "Titles"
+
+msgid "tab.description"
+msgstr "Description"
+
+msgid "tab.collection_format"
+msgstr "Collection Format"
+
+msgid "tab.stewardship_context"
+msgstr "Stewardship Context"
+
+# =================================================================
+#  COLLECTION EDITOR — TITLES
+# =================================================================
+
+msgid "section.collection_title"
+msgstr "Collection Title"
+
+msgid "label.title"
+msgstr "Title"
+
+msgid "placeholder.title"
+msgstr "Enter the main title"
+
+msgid "label.title_lang"
+msgstr "Language"
+
+msgid "placeholder.title_lang"
+msgstr "en"
+
+msgid "label.alt_title_section"
+msgstr "Alternative Titles"
+
+msgid "button.add_alt_title"
+msgstr "Add another alternative title"
+
+msgid "label.alt_title"
+msgstr "Alternative Title"
+
+msgid "placeholder.alt_title"
+msgstr "Enter an alternative title"
+
+msgid "label.alt_title_lang"
+msgstr "Language"
+
+msgid "placeholder.alt_title_lang"
+msgstr "es"
+
+msgid "button.remove_alt_title"
+msgstr "Remove"
+
+# =================================================================
+#  COLLECTION EDITOR — DESCRIPTION
+# =================================================================
+
+msgid "section.collection_description"
+msgstr "Collection Description"
+
+msgid "label.description"
+msgstr "Description"
+
+msgid "placeholder.description"
+msgstr "Describe the collection"
+
+msgid "label.description_lang"
+msgstr "Language"
+
+msgid "placeholder.description_lang"
+msgstr "en-US"
+
+msgid "label.provenance_literal"
+msgstr "Provenance (literal)"
+
+msgid "placeholder.provenance_literal"
+msgstr "Explain the history or origin"
+
+msgid "label.provenance_literal_lang"
+msgstr "Language"
+
+msgid "placeholder.provenance_literal_lang"
+msgstr "en-US"
+
+msgid "label.provenance_uri"
+msgstr "Provenance (URI)"
+
+msgid "placeholder.provenance_uri"
+msgstr "https://example.org/provenance"
+
+msgid "label.abstract"
+msgstr "Abstract"
+
+msgid "placeholder.abstract"
+msgstr "50 words or less about the journal."
+
+msgid "label.abstract_lang"
+msgstr "Language"
+
+msgid "placeholder.abstract_lang"
+msgstr "en-US"
+
+# =================================================================
+#  COLLECTION EDITOR — TYPE
+# =================================================================
+
+msgid "header.type"
+msgstr "Collection Type"
+
+msgid "help.type_block"
+msgstr "This record will be treated as a Collection in DC and DCTERMS."
+
+# =================================================================
+#  COLLECTION EDITOR — ACCESSION
+# =================================================================
+
+msgid "header.accession"
+msgstr "Accession"
+
+msgid "section.accession_dates"
+msgstr "Accession Dates"
+
+msgid "label.created"
+msgstr "Created Date"
+
+msgid "label.modified"
+msgstr "Modified Date"
+
+msgid "section.accrual"
+msgstr "Accrual Information"
+
+msgid "label.accrual_method"
+msgstr "Accrual Method"
+
+msgid "label.accrual_periodicity"
+msgstr "Accrual Periodicity"
+
+msgid "label.accrual_policy"
+msgstr "Accrual Policy"
+
+msgid "section.roles"
+msgstr "Roles"
+
+msgid "label.role"
+msgstr "Role"
+
+msgid "label.role_name"
+msgstr "Name"
+
+msgid "section.mediator"
+msgstr "Mediator"
+
+msgid "label.mediator_choice"
+msgstr "Mediator Type"
+
+msgid "label.mediator_value"
+msgstr "Value"
+
+msgid "label.lang"
+msgstr "Language"
+
+msgid "section.accession_record"
+msgstr "Accession Record"
+
+msgid "label.relation_uri"
+msgstr "Relation (URI)"
+
+# =================================================================
+#  COLLECTION EDITOR — MATRIX
+# =================================================================
+
+msgid "header.matrix"
+msgstr "Select Service Relationships"
+
+# =================================================================
+#  XML OUTPUT BOX
+# =================================================================
+
+msgid "button.clear_all"
+msgstr "Clear All"
+
+msgid "button.copy_xml"
+msgstr "Copy XML"
+
+msgid "label.wrap_oai"
+msgstr "Wrap in OAI‑PMH context"
+
+msgid "placeholder.xml_output"
+msgstr "XML output appears here..."
+
+# =================================================================
+#  XML VALIDATION
+# =================================================================
+
+msgid "validation.illegal_chars"
+msgstr "Contains illegal XML control characters."
+
+msgid "validation.angle_brackets"
+msgstr "Angle brackets < > are not allowed in XML text content."
+
+msgid "validation.ampersand"
+msgstr "Ampersands must be escaped as &amp;."
+
+
+
+# =================================================================
+#  DCMI TYPE CHOOSER — UI STRINGS
+# =================================================================
+
+msgid "csl.link_label"
+msgstr "Link"
+
+msgid "dcmitype.chooser.help.related_research"
+msgstr "Related Research"
+
+msgid "dcmitype.chooser.help.formal_definition"
+msgstr "Formal Dublin Core Definition"
+
+msgid "dcmitype.chooser.help.source_label"
+msgstr "Source"
+
+msgid "dcmitype.chooser.result_label"
+msgstr "Result:"
+
+msgid "dcmitype.chooser.selected_type"
+msgstr "Selected DCMIType: {label}"
+
+# =================================================================
+#  MATRIX UI
+# =================================================================
+
+msgid "matrix.select_button"
+msgstr "Select"
+
+msgid "matrix.error.load_failed"
+msgstr "Could not load matrix.csv — the form cannot be built."

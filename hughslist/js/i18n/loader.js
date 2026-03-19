@@ -7,7 +7,7 @@ export const getTranslations = () => translations;
 
 export async function loadLanguage(lang) {
   try {
-    const response = await fetch(`${lang}.po`);
+    const response = await fetch(`/po-files/${lang}.po`);
     if (!response.ok) {
       translations = {};
       applyTranslations(translations);

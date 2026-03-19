@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title data-i18n="about.title">About This Application</title>
+
+    <link rel="stylesheet" href="css/base.css">
+    <link rel="stylesheet" href="css/layout.css">
+    <link rel="stylesheet" href="css/tabs.css">
+    <link rel="stylesheet" href="css/dcmi-chooser.css">
+    <link rel="stylesheet" href="css/help-panel.css">
+    <link rel="stylesheet" href="css/matrix.css">
+    <link rel="stylesheet" href="css/accession.css">
+    <link rel="stylesheet" href="css/header.css">
+</head>
+
+<body>
+    <div id="header-container"></div>
+    <div class="layout">
+        <div class="main-column">
+            <main aria-labelledby="page-title">
+                <h1 id="page-title" data-i18n="about.title">About Hugh's List</h1>
+
+                <!-- History -->
+                <section aria-labelledby="about-history">
+                    <h2 id="about-history" data-i18n="about.history.heading">History</h2>
+
+                    <p data-i18n="about.history.p1">
+                        In the early 2000s, linguists and specialists working with language resources recognized the
+                        need for reliable ways to describe and share information about their collections. The Open Language
+                        Archives Community (OLAC) emerged to address this need by coordinating standards and aggregating metadata
+                        from participating archives.
+                    </p>
+
+                    <p data-i18n="about.history.p2">
+                        For a brief period, a form hosted through the LINGUIST List allowed individuals to contribute
+                        records directly. When that option ended, record creation largely remained the responsibility of major
+                        archives, even though many researchers, community members, and other stakeholders continued to hold
+                        valuable knowledge about language resources that was not represented in institutional collections.
+                    </p>
+
+                    <p data-i18n="about.history.p3">
+                        The need for accessible, high‑quality metadata has only increased as search engines and
+                        discovery tools rely more heavily on structured information. The OLAC Record Creator was developed to support
+                        this ongoing need by providing a user‑friendly way for individuals to prepare descriptive metadata
+                        records that can participate in broader discovery ecosystems.
+                    </p>
+                </section>
+
+
+                <!-- Purpose -->
+                <section aria-labelledby="about-purpose">
+                    <h2 id="about-purpose" data-i18n="about.purpose.heading">Purpose</h2>
+                    <p data-i18n="about.purpose.p1">
+                        This application provides a way for individuals to prepare and submit descriptive metadata
+                        records for language-related resources. It is focused on OLAC compatable records, which are also more broadly compatible with the Dublin Core metadata standard. The application is designed to be user‑friendly and accessible, even for those without technical expertise in metadata standards.
+                    </p>
+                </section>
+
+                <!-- Technology -->
+                <section aria-labelledby="about-technology">
+                    <h2 id="about-technology" data-i18n="about.technology.heading">Technology</h2>
+                    <p data-i18n="about.technology.p1">
+                        The application performs processing in the browser and incorporates freely accessible data.
+                    </p>
+                    <p data-i18n="about.technology.p2">
+                        The code base is not open source, but the data produced is Open Data.
+                    </p>
+                </section>
+
+                <!-- Authors -->
+                <section aria-labelledby="about-authors">
+                    <h2 id="about-authors" data-i18n="about.authors.heading">Contributors</h2>
+                    <p data-i18n="about.authors.p1"> Hugh's List was developed by Hugh Paterson III. For more information about Hugh's background and work, please visit his online <a href="https://hughandbecky.us/Hugh-CV" data-i18n="about.authors.link">profile</a>.
+                    </p>
+                </section>
+
+                <!-- Data Storage -->
+                <section aria-labelledby="about-storage">
+                    <h2 id="about-storage" data-i18n="about.storage.heading">Data Storage</h2>
+                    <p data-i18n="about.storage.p1">
+                        The data submitted through this application to Hugh's List is Open Data. You can also use the
+                        forms and not submit the data to Hugh's List.
+                    </p>
+                    <p data-i18n="about.storage.p2">
+                        Resource metadata is persisted through Zenodo as a bulk download. It is made accessible via
+                        OAI-PMH.
+                    </p>
+                </section>
+            </main>
+        </div>
+
+        <div class="side-column">
+            <div id="help-panel-container"></div>
+        </div>
+    </div>
+
+    <div id="footer-container"></div>
+    <script type="module" src="js/main.js"></script>
+</body>
+
+</html>

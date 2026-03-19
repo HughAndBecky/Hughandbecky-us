@@ -1,0 +1,504 @@
+# ================================================================
+#  APPLICATION
+# ================================================================
+
+#. Main application title shown in the header
+msgid "app.title"
+msgstr ""
+
+# ================================================================
+#  HEADER
+# ================================================================
+
+#. Navigation action: Edit existing records
+msgid "nav.edit"
+msgstr ""
+
+#. Hover text for Edit action
+msgid "nav.edit_hover"
+msgstr ""
+
+#. Navigation action: Search records
+msgid "nav.search"
+msgstr ""
+
+#. Hover text for Search action
+msgid "nav.search_hover"
+msgstr ""
+
+#. Navigation action: Create a new record
+msgid "nav.create"
+msgstr ""
+
+#. Hover text for Create action
+msgid "nav.create_hover"
+msgstr ""
+
+#. Label for the interface language selector
+msgid "label.interface_language"
+msgstr ""
+
+#. Login button in header
+msgid "button.login"
+msgstr ""
+
+# ================================================================
+#  FOOTER
+# ================================================================
+
+#. Footer copyright line
+msgid "footer.copyright"
+msgstr ""
+
+#. Link to Data Handling page
+msgid "footer.data_handling"
+msgstr ""
+
+#. Link to About page
+msgid "footer.about"
+msgstr ""
+
+# ================================================================
+#  HELP PANEL
+# ================================================================
+
+#. Header label for the help panel
+msgid "header.help"
+msgstr ""
+
+#. Tooltip/title for the help toggle button
+msgid "button.toggle_help"
+msgstr ""
+
+#. Symbol used on the help toggle button
+msgid "symbol.help_icon"
+msgstr ""
+
+# ================================================================
+#  DCMI TYPE CHOOSER
+# ================================================================
+
+#. Prompt shown above the DCMI type board
+msgid "chooser.prompt"
+msgstr ""
+
+#. Back button in the chooser navigation
+msgid "button.back"
+msgstr ""
+
+#. Reset button in the chooser navigation
+msgid "button.start_over"
+msgstr ""
+
+# ================================================================
+#  COLLECTION EDITOR — TABS
+# ================================================================
+
+#. Tab: Accession
+msgid "tab.accession"
+msgstr ""
+
+#. Tab: Titles
+msgid "tab.titles"
+msgstr ""
+
+#. Tab: Description
+msgid "tab.description"
+msgstr ""
+
+#. Tab: Collection Format
+msgid "tab.collection_format"
+msgstr ""
+
+#. Tab: Stewardship Context
+msgid "tab.stewardship_context"
+msgstr ""
+
+# ================================================================
+#  COLLECTION EDITOR — TITLES
+# ================================================================
+
+#. Section header for collection title
+msgid "section.collection_title"
+msgstr ""
+
+#. Label for main title field
+msgid "label.title"
+msgstr ""
+
+#. Placeholder for main title field
+msgid "placeholder.title"
+msgstr ""
+
+#. Label for title language field
+msgid "label.title_lang"
+msgstr ""
+
+#. Placeholder for title language field
+msgid "placeholder.title_lang"
+msgstr ""
+
+#. Section header for alternative titles
+msgid "label.alt_title_section"
+msgstr ""
+
+#. Button to add an alternative title
+msgid "button.add_alt_title"
+msgstr ""
+
+#. Label for alternative title field
+msgid "label.alt_title"
+msgstr ""
+
+#. Placeholder for alternative title field
+msgid "placeholder.alt_title"
+msgstr ""
+
+#. Label for alternative title language field
+msgid "label.alt_title_lang"
+msgstr ""
+
+#. Placeholder for alternative title language field
+msgid "placeholder.alt_title_lang"
+msgstr ""
+
+#. Button to remove an alternative title block
+msgid "button.remove_alt_title"
+msgstr ""
+
+# ================================================================
+#  COLLECTION EDITOR — DESCRIPTION
+# ================================================================
+
+#. Section header for description
+msgid "section.collection_description"
+msgstr ""
+
+#. Label for description field
+msgid "label.description"
+msgstr ""
+
+#. Placeholder for description field
+msgid "placeholder.description"
+msgstr ""
+
+#. Label for description language field
+msgid "label.description_lang"
+msgstr ""
+
+#. Placeholder for description language field
+msgid "placeholder.description_lang"
+msgstr ""
+
+#. Label for provenance (literal)
+msgid "label.provenance_literal"
+msgstr ""
+
+#. Placeholder for provenance literal
+msgid "placeholder.provenance_literal"
+msgstr ""
+
+#. Label for provenance literal language
+msgid "label.provenance_literal_lang"
+msgstr ""
+
+#. Placeholder for provenance literal language
+msgid "placeholder.provenance_literal_lang"
+msgstr ""
+
+#. Label for provenance URI
+msgid "label.provenance_uri"
+msgstr ""
+
+#. Placeholder for provenance URI
+msgid "placeholder.provenance_uri"
+msgstr ""
+
+#. Label for abstract
+msgid "label.abstract"
+msgstr ""
+
+#. Placeholder for abstract
+msgid "placeholder.abstract"
+msgstr ""
+
+#. Label for abstract language
+msgid "label.abstract_lang"
+msgstr ""
+
+#. Placeholder for abstract language
+msgid "placeholder.abstract_lang"
+msgstr ""
+
+# ================================================================
+#  COLLECTION EDITOR — TYPE
+# ================================================================
+
+#. Header for collection type tab
+msgid "header.type"
+msgstr ""
+
+#. Help text explaining collection type
+msgid "help.type_block"
+msgstr ""
+
+# ================================================================
+#  COLLECTION EDITOR — ACCESSION
+# ================================================================
+
+#. Header for accession tab
+msgid "header.accession"
+msgstr ""
+
+#. Section header for accession dates
+msgid "section.accession_dates"
+msgstr ""
+
+#. Label for created date
+msgid "label.created"
+msgstr ""
+
+#. Label for modified date
+msgid "label.modified"
+msgstr ""
+
+#. Section header for accrual information
+msgid "section.accrual"
+msgstr ""
+
+#. Label for accrual method
+msgid "label.accrual_method"
+msgstr ""
+
+#. Label for accrual periodicity
+msgid "label.accrual_periodicity"
+msgstr ""
+
+#. Label for accrual policy
+msgid "label.accrual_policy"
+msgstr ""
+
+#. Section header for roles
+msgid "section.roles"
+msgstr ""
+
+#. Label for role
+msgid "label.role"
+msgstr ""
+
+#. Label for role name
+msgid "label.role_name"
+msgstr ""
+
+#. Section header for mediator
+msgid "section.mediator"
+msgstr ""
+
+#. Label for mediator type choice
+msgid "label.mediator_choice"
+msgstr ""
+
+#. Label for mediator value
+msgid "label.mediator_value"
+msgstr ""
+
+#. Label for language field
+msgid "label.lang"
+msgstr ""
+
+#. Section header for accession record
+msgid "section.accession_record"
+msgstr ""
+
+#. Label for relation URI
+msgid "label.relation_uri"
+msgstr ""
+
+# ================================================================
+#  COLLECTION EDITOR — MATRIX
+# ================================================================
+
+#. Header for service relationship matrix
+msgid "header.matrix"
+msgstr ""
+
+# ================================================================
+#  XML OUTPUT BOX
+# ================================================================
+
+#. Button to clear all fields
+msgid "button.clear_all"
+msgstr ""
+
+#. Button to copy XML output
+msgid "button.copy_xml"
+msgstr ""
+
+#. Label for OAI-PMH wrapping checkbox
+msgid "label.wrap_oai"
+msgstr ""
+
+#. Placeholder for XML output textarea
+msgid "placeholder.xml_output"
+msgstr ""
+
+# =================================================================
+#  XML VALIDATION
+# =================================================================
+
+#. Validation error: XML contains illegal control characters
+msgid "validation.illegal_chars"
+msgstr ""
+
+#. Validation error: Angle brackets < > are not allowed in XML text content
+msgid "validation.angle_brackets"
+msgstr ""
+
+#. Validation error: Ampersands must be escaped as &amp;
+msgid "validation.ampersand"
+msgstr ""
+
+
+# =================================================================
+#  DCMI TYPE CHOOSER — QUESTIONS
+# =================================================================
+
+#. Chooser question: Is the resource composed of sub-resources?
+msgid "dcmitype.chooser.q.subresources"
+msgstr ""
+
+#. Chooser question: Is the resource primarily textual?
+msgid "dcmitype.chooser.q.textual"
+msgstr ""
+
+#. Chooser question: Is the resource primarily visual?
+msgid "dcmitype.chooser.q.visual"
+msgstr ""
+
+#. Chooser question: Does the work have a timeline or chronological nature?
+msgid "dcmitype.chooser.q.timeline"
+msgstr ""
+
+#. Chooser question: Is the content arranged in a table-like structure?
+msgid "dcmitype.chooser.q.tablelike"
+msgstr ""
+
+#. Chooser question: Is the resource composed of code that runs on a machine?
+msgid "dcmitype.chooser.q.code"
+msgstr ""
+
+#. Chooser question: Is the resource primarily audible?
+msgid "dcmitype.chooser.q.audible"
+msgstr ""
+
+#. Chooser question: Does the resource have physical characteristics?
+msgid "dcmitype.chooser.q.physical"
+msgstr ""
+
+#. Chooser question: Is the resource time-oriented with a start and stop point?
+msgid "dcmitype.chooser.q.timeoriented"
+msgstr ""
+
+#. Chooser question: Does the resource repeatedly act upon different information resources?
+msgid "dcmitype.chooser.q.repeatedaction"
+msgstr ""
+
+# =================================================================
+#  DCMI TYPE CHOOSER — NODE LABELS
+# =================================================================
+
+#. Node label: Start
+msgid "dcmitype.chooser.label.start"
+msgstr ""
+
+#. Node label: Textual?
+msgid "dcmitype.chooser.label.textual"
+msgstr ""
+
+#. Node label: Visual?
+msgid "dcmitype.chooser.label.visual"
+msgstr ""
+
+#. Node label: Timeline?
+msgid "dcmitype.chooser.label.timeline"
+msgstr ""
+
+#. Node label: Table-like?
+msgid "dcmitype.chooser.label.tablelike"
+msgstr ""
+
+#. Node label: Code?
+msgid "dcmitype.chooser.label.code"
+msgstr ""
+
+#. Node label: Audible?
+msgid "dcmitype.chooser.label.audible"
+msgstr ""
+
+#. Node label: Physical?
+msgid "dcmitype.chooser.label.physical"
+msgstr ""
+
+#. Node label: Time-oriented?
+msgid "dcmitype.chooser.label.timeoriented"
+msgstr ""
+
+#. Node label: Repeated action?
+msgid "dcmitype.chooser.label.repeatedaction"
+msgstr ""
+
+# =================================================================
+#  DCMI TYPE CHOOSER — BUTTON LABELS
+# =================================================================
+
+#. Choice button: Yes
+msgid "dcmitype.chooser.choice.yes"
+msgstr ""
+
+#. Choice button: No
+msgid "dcmitype.chooser.choice.no"
+msgstr ""
+
+#. Choice button: Uncertain
+msgid "dcmitype.chooser.choice.uncertain"
+msgstr ""
+
+# =================================================================
+#  DCMI TYPE CHOOSER — UI STRINGS
+# =================================================================
+
+#. Label for generic CSL link in related research entries
+msgid "csl.link_label"
+msgstr ""
+
+#. Subtitle above related research list in DCMIType help
+msgid "dcmitype.chooser.help.related_research"
+msgstr ""
+
+#. Prefix label shown above the formal DCMI definition
+msgid "dcmitype.chooser.help.formal_definition"
+msgstr ""
+
+#. Label for the link to the DCMIType source page
+msgid "dcmitype.chooser.help.source_label"
+msgstr ""
+
+#. Label shown when a final DCMIType result is reached
+msgid "dcmitype.chooser.result_label"
+msgstr ""
+
+#. Fallback help text when a DCMIType is selected (use {label} placeholder)
+msgid "dcmitype.chooser.selected_type"
+msgstr ""
+
+# =================================================================
+#  MATRIX UI
+# =================================================================
+
+#. Label for the button inside each matrix cell that selects a URI
+msgid "matrix.select_button"
+msgstr ""
+
+#. Error message shown when matrix.csv cannot be loaded
+msgid "matrix.error.load_failed"
+msgstr ""

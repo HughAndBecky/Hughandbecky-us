@@ -1,10 +1,306 @@
-    textarea {
-      width: 100%;
-      height: 200px;
-      margin-top: 20px;
-    }
+/* ============================================================
+   XML OUTPUT WRAPPER
+   ============================================================ */
 
-    #error {
-      color: red;
-      margin-top: 10px;
-    }
+#xml-output-wrapper {
+  position: relative;
+  width: 100%;
+  margin-top: 20px;
+}
+
+/* ============================================================
+   XML OUTPUT BOX (<pre id="output">)
+   ============================================================ */
+
+#output {
+  width: 100%;
+  min-height: 300px;
+  max-height: 600px;
+  overflow: auto;
+  padding: 12px;
+  background: #fafafa;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  white-space: pre-wrap;
+  word-break: break-word;
+  position: relative;
+  resize: vertical;
+  font-family: Consolas, monospace;
+}
+
+/* Prism-highlighted XML inside <code> */
+#output code {
+  display: block;
+  font-family: Consolas, monospace;
+  font-size: 0.9rem;
+  line-height: 1.4;
+  color: #666; /* baseline */
+}
+
+/* ============================================================
+   PLACEHOLDER
+   ============================================================ */
+
+#output-placeholder {
+  position: absolute;
+  top: 12px;
+  left: 12px;
+  color: #999;
+  font-style: italic;
+  pointer-events: none;
+  user-select: none;
+  font-family: Consolas, monospace;
+}
+
+/* ============================================================
+   PRISM CUSTOM THEME — Hughslist XML Rules
+   ============================================================ */
+
+/* Default text inside <pre><code> */
+pre.language-xml,
+code.language-xml {
+  color: #666;
+  font-family: Consolas, monospace;
+  font-size: 0.9rem;
+  line-height: 1.4;
+}
+
+/* ------------------------------------------------------------
+   Namespace prefix (generic)
+   ------------------------------------------------------------ */
+.token.namespace {
+  color: #888 !important;   /* light gray */
+  opacity: 1 !important;
+  font-weight: normal !important;
+}
+
+/* ------------------------------------------------------------
+   Local name (generic)
+   ------------------------------------------------------------ */
+.token.tag {
+  color: #000 !important;   /* black */
+  font-weight: normal !important;
+}
+
+/* Angle brackets */
+.token.punctuation {
+  color: #444 !important;
+}
+
+/* Attribute names */
+.token.attr-name {
+  color: #000 !important;
+  font-weight: normal !important;
+}
+
+/* Attribute values */
+.token.attr-value,
+.token.string {
+  color: #000 !important;
+  font-weight: normal !important;
+}
+
+.token.attr-value.generic-value {
+  color: #000;
+  font-weight: normal;
+}
+
+/* ------------------------------------------------------------
+   Values inside elements (generic)
+   ------------------------------------------------------------ */
+.token.text {
+  color: #4b3cc4 !important;
+  font-weight: normal !important;
+}
+
+/* Fallback for bare text nodes */
+#output code {
+  color: #000;
+  font-weight: normal !important;
+}
+
+/* Tags themselves must NOT be bold */
+#output code .token.tag,
+#output code .token.namespace,
+#output code .token.punctuation {
+  font-weight: normal !important;
+}
+
+/* ============================================================
+   NAMESPACE-SPECIFIC RULES
+   ============================================================ */
+
+/* dc: and dcterms: — prefix gray, local name black */
+.token.namespace.dcns {
+  color: #888 !important;
+}
+.token.tag.dcns {
+  color: #000 !important;
+}
+.token.attr-value.dcns-value {
+  color: #000;
+  font-weight: bold;
+}
+/* Gray punctuation ONLY for dc/dcterms */
+.token.punctuation.dcns-punct {
+  color: #888 !important;
+  font-weight: normal !important;
+}
+
+
+/* oai: — prefix + local name purple */
+.token.namespace.oai,
+.token.tag.oai {
+  color: #4b3cc4 !important;
+  font-weight: normal !important;
+}
+
+/* oai values — purple bold */
+.token.text.oai-value {
+  color: #4b3cc4 !important;
+  font-weight: normal !important;
+}
+.token.attr-value.oai-value {
+  color: #4b3cc4;
+  font-weight: bold;
+}
+/* Purple punctuation ONLY for oai namespace */
+.token.punctuation.oai-punct {
+  color: #4b3cc4 !important;
+  font-weight: normal !important;
+}
+
+
+/* ============================================================
+   ERROR MESSAGES
+   ============================================================ */
+
+#error {
+  color: red;
+  margin-top: 10px;
+}
+
+/* ============================================================
+   BUTTONS
+   ============================================================ */
+
+.danger-btn {
+  background-color: #d9534f;
+  color: white;
+  border: none;
+  padding: 6px 12px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.danger-btn:hover {
+  background-color: #c9302c;
+}
+
+.success-btn {
+  background-color: #5cb85c;
+  color: white;
+  border: none;
+  padding: 6px 12px;
+  border-radius: 4px;
+  cursor: pointer;
+  margin-left: 10px;
+}
+
+.success-btn:hover {
+  background-color: #449d44;
+}
+
+/* ============================================================
+   MATRIX CONTROLS
+   ============================================================ */
+
+#matrix-controls {
+  display: flex;
+  justify-content: space-between;
+}
+
+/* ============================================================
+   XML WARNING TEXT
+   ============================================================ */
+
+.xml-warning {
+  color: red;
+  font-size: 0.85em;
+  margin-top: 3px;
+}
+
+/* ============================================================
+   GLOBAL CARD GRID
+   ============================================================ */
+
+.card-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 1.5rem;
+  margin-top: 2rem;
+}
+
+/* ============================================================
+   GLOBAL CARD COMPONENT
+   ============================================================ */
+
+.card {
+  background: #fff;
+  border-radius: 8px;
+  padding: 1.5rem;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  text-align: left;
+  border: 1px solid #ddd;
+  transition: box-shadow 0.2s ease, transform 0.2s ease;
+}
+
+.card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 16px rgba(0,0,0,0.15);
+}
+
+.card h2,
+.card h3 {
+  margin-top: 0;
+}
+
+.card .subtitle {
+  margin: 0 0 0.5rem 0;
+  font-weight: 500;
+  color: #555;
+}
+
+.card .microcopy {
+  margin: 0 0 1rem 0;
+  font-size: 0.9rem;
+  color: #666;
+}
+
+.card button,
+.card .button,
+.card .card-trigger {
+  display: inline-block;
+  padding: 0.75rem 1.5rem;
+  background: #005bbb;
+  color: #fff;
+  border-radius: 6px;
+  text-decoration: none;
+  font-weight: 600;
+  border: none;
+  cursor: pointer;
+}
+
+.card button:hover,
+.card .button:hover,
+.card .card-trigger:hover {
+  background: #004aa3;
+}
+
+/* Center buttons inside cards */
+.card .card-trigger {
+  display: block;
+  margin: 1rem auto 0 auto; /* top margin + centered */
+  text-align: center;
+}

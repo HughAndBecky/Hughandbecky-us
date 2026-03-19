@@ -1,69 +1,87 @@
+// logic/title.js
 import { sanitizeXML } from "../xml/sanitize.js";
 import { attachValidation } from "../ui/validation-attach.js";
 import { getTranslations } from "../i18n/loader.js";
 
 /* -------------------------------------------------------
-   MAIN TITLE + ALT TITLE XML BUILDERS
+   XML BUILDERS (pure functions)
 ------------------------------------------------------- */
 
 function makeMainTitle(value, lang) {
   if (!value) return "";
   const isURI = value.startsWith("http://") || value.startsWith("https://");
+
   if (isURI) {
-    return `<dcterms:title xsi:type="dcterms:URI">${sanitizeXML(value)}</dcterms:title>\n`;
+    return `<dcterms:title xsi:type="dcterms:URI">${sanitizeXML(value)}</dcterms:title>`;
   }
+
   const langAttr = lang ? ` xml:lang="${lang}"` : "";
-  return `<dc:title${langAttr}>${sanitizeXML(value)}</dc:title>\n`;
+  return `<dc:title${langAttr}>${sanitizeXML(value)}</dc:title>`;
 }
 
 function makeAltTitle(value, lang) {
   if (!value) return "";
   const isURI = value.startsWith("http://") || value.startsWith("https://");
+
   if (isURI) {
-    return `<dcterms:alternative xsi:type="dcterms:URI">${sanitizeXML(value)}</dcterms:alternative>\n`;
+    return `<dcterms:alternative xsi:type="dcterms:URI">${sanitizeXML(value)}</dcterms:alternative>`;
   }
+
   const langAttr = lang ? ` xml:lang="${lang}"` : "";
-  return `<dcterms:alternative${langAttr}>${sanitizeXML(value)}</dcterms:alternative>\n`;
+  return `<dcterms:alternative${langAttr}>${sanitizeXML(value)}</dcterms:alternative>`;
 }
 
 /* -------------------------------------------------------
-   UPDATE XML OUTPUT
+   NEW ARCHITECTURE: getTitleXMLValues()
+   (NO DOM mutation, NO XML writing)
 ------------------------------------------------------- */
 
-export function updateTitleInOutput() {
-  const output = document.getElementById("output");
+export function getTitleXMLValues() {
+  const get = id => document.getElementById(id)?.value.trim() || "";
 
-  // Remove existing title + alt-title lines
-  const lines = output.value.split("\n").filter(l =>
-    !l.startsWith("<dc:title") &&
-    !l.startsWith("<dcterms:title") &&
-    !l.startsWith("<dcterms:alternative")
-  );
+  const mainTitle = get("collection-title");
+  const mainLang = get("collection-title-lang");
+
+  const altTitles = [...document.querySelectorAll(".alt-title-block")].map(block => ({
+    value: block.querySelector(".alt-title-input")?.value.trim() || "",
+    lang: block.querySelector(".alt-title-lang-input")?.value.trim() || ""
+  }));
+
+  return {
+    title: mainTitle,
+    titleLang: mainLang,
+    altTitles
+  };
+}
+
+/* -------------------------------------------------------
+   NEW ARCHITECTURE: titleToXML(values)
+   (pure, deterministic)
+------------------------------------------------------- */
+
+export function titleToXML(values) {
+  const xml = [];
 
   // Main title
-  const title = document.getElementById("collection-title").value.trim();
-  const titleLang = document.getElementById("collection-title-lang").value.trim();
-
-  let xml = makeMainTitle(title, titleLang);
-
-  // Alternative titles (repeatable)
-  const blocks = document.querySelectorAll(".alt-title-block");
-  blocks.forEach(block => {
-    const val = block.querySelector(".alt-title-input").value.trim();
-    const lang = block.querySelector(".alt-title-lang-input").value.trim();
-    xml += makeAltTitle(val, lang);
-  });
-
-  // Rebuild output
-  output.value = lines.join("\n").trim();
-  if (xml.trim().length > 0) {
-    output.value += (output.value ? "\n" : "") + xml;
+  if (values.title) {
+    xml.push(makeMainTitle(values.title, values.titleLang));
   }
+
+  // Alternative titles
+  if (values.altTitles && values.altTitles.length > 0) {
+    values.altTitles.forEach(t => {
+      if (t.value) xml.push(makeAltTitle(t.value, t.lang));
+    });
+  }
+
+  return xml.join("\n");
 }
 
 /* -------------------------------------------------------
-   REPEATABLE ALT TITLE BLOCKS
+   UI: Repeatable Alternative Title Blocks (semantic IDs)
 ------------------------------------------------------- */
+
+let altTitleIndex = 0;
 
 function addAltTitleBlock() {
   const container = document.getElementById("alt-title-container");
@@ -72,62 +90,70 @@ function addAltTitleBlock() {
   const clone = template.content.cloneNode(true);
   const block = clone.querySelector(".alt-title-block");
 
-  // Attach remove handler
-  const removeBtn = block.querySelector(".remove-alt-title");
-  removeBtn.addEventListener("click", () => {
-    block.remove();
-    updateTitleInOutput();
-  });
+  const index = altTitleIndex++;
 
-  // Attach validation + update handlers
+  // ------------------------------
+  // Title input + label
+  // ------------------------------
   const titleInput = block.querySelector(".alt-title-input");
+  const titleLabel = block.querySelector("label[data-i18n='label.alt_title']");
+  const titleId = `alt-title-${index}`;
+
+  titleInput.id = titleId;
+  titleLabel.setAttribute("for", titleId);
+
+  // ------------------------------
+  // Language input + label
+  // ------------------------------
   const langInput = block.querySelector(".alt-title-lang-input");
+  const langLabel = block.querySelector("label[data-i18n='label.alt_title_lang']");
+  const langId = `alt-title-lang-${index}`;
 
-  attachValidationToField(titleInput);
-  attachValidationToField(langInput);
+  langInput.id = langId;
+  langLabel.setAttribute("for", langId);
 
-  titleInput.addEventListener("input", updateTitleInOutput);
-  langInput.addEventListener("input", updateTitleInOutput);
+  // ------------------------------
+  // Validation hooks
+  // ------------------------------
+  attachValidation(titleId);
+  attachValidation(langId);
 
-  // Help system hook (if you add one later)
+  // ------------------------------
+  // Remove button
+  // ------------------------------
+  const removeBtn = block.querySelector(".remove-alt-title");
+  removeBtn.addEventListener("click", () => block.remove());
+
+  // ------------------------------
+  // Help system
+  // ------------------------------
   block.addEventListener("focusin", () => {
     const helpKey = block.dataset.helpKey;
     const translations = getTranslations();
-    const helpText = translations[helpKey] || "Alternative titles are additional names for the collection.";
+    const helpText =
+      translations[helpKey] ||
+      "Alternative titles are additional names for the collection.";
     document.getElementById("help-content").textContent = helpText;
   });
 
   container.appendChild(clone);
 }
 
-function attachValidationToField(input) {
-  // attachValidation expects an ID, so we wrap it
-  // by giving the element a temporary unique ID
-  const uid = "alt-" + Math.random().toString(36).slice(2);
-  input.id = uid;
-  attachValidation(uid);
-}
 
 /* -------------------------------------------------------
-   INITIALIZATION
+   UI INITIALIZATION
 ------------------------------------------------------- */
 
 export function initTitleSection() {
   // Main title listeners
-  [
-    "collection-title",
-    "collection-title-lang"
-  ].forEach(id => {
+  ["collection-title", "collection-title-lang"].forEach(id => {
     const el = document.getElementById(id);
-    if (el) el.addEventListener("input", updateTitleInOutput);
+    if (el) el.addEventListener("input", () => {});
   });
 
   // Add button for alternative titles
   const addBtn = document.getElementById("add-alt-title");
-  addBtn.addEventListener("click", () => {
-    addAltTitleBlock();
-    updateTitleInOutput();
-  });
+  addBtn.addEventListener("click", () => addAltTitleBlock());
 
   // Start with one empty alt-title block
   addAltTitleBlock();

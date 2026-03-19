@@ -1,0 +1,42 @@
+/* ============================================================
+   HOME PAGE LAYOUT
+   ============================================================ */
+
+.home-main {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 2rem 1rem;
+  text-align: center;
+}
+
+.home-screenshot {
+  margin: 2rem auto;
+  max-width: 600px;
+}
+
+.home-screenshot img {
+  width: 100%;
+  border-radius: 8px;
+  box-shadow: 0 4px 16px rgba(0,0,0,0.15);
+}
+
+.home-actions {
+  margin: 2rem 0;
+}
+
+.home-button {
+  display: inline-block;
+  padding: 0.75rem 1.5rem;
+  background: #005bbb;
+  color: #fff;
+  border-radius: 6px;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.home-link {
+  display: block;
+  margin-top: 0.75rem;
+  text-decoration: none;
+  color: #005bbb;
+}

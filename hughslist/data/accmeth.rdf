@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rdf:RDF [
+  <!ENTITY rdf 'http://www.w3.org/1999/02/22-rdf-syntax-ns#'>
+  <!ENTITY rdfs 'http://www.w3.org/2000/01/rdf-schema#'>
+  <!ENTITY dcrdf 'http://purl.org/dc/rdf/'>
+  <!ENTITY xsd 'http://www.w3.org/2001/XMLSchema#'>
+  <!ENTITY dc 'http://purl.org/dc/elements/1.1/'>
+  <!ENTITY dcterms 'http://purl.org/dc/terms/'>
+  <!ENTITY dcmitype 'http://purl.org/dc/dcmitype/'>
+  <!ENTITY cld 'http://purl.org/cld/terms/'>
+  <!ENTITY cdtype 'http://purl.org/cld/cdtype/'>
+  <!ENTITY freq 'http://purl.org/cld/freq/'>
+  <!ENTITY accmeth 'http://purl.org/cld/accmeth/'>
+  <!ENTITY accpol 'http://purl.org/cld/accpol/'>
+]>
+<rdf:RDF xmlns:rdf="&rdf;"
+	xmlns:rdfs="&rdfs;"
+	xmlns:dcrdf="&dcrdf;"
+	xmlns:dc="&dc;"
+	xmlns:dcterms="&dcterms;"
+	xmlns:dcmitype="&dcmitype;"
+	xmlns:cld="&cld;"
+	xmlns:cdtype="&dcmitype;"
+	xmlns:freq="&freq;"
+	xmlns:accmeth="&accmeth;"
+	xmlns:accpol="&accpol;"
+>
+
+
+<rdf:Description rdf:about="&accmeth;">
+	<dc:title dcrdf:valueString="The Collection Description Access Method Namespace" />
+	<dc:creator dcrdf:valueString="Dublin Core Collection Description Task Group" />
+	<dcterms:issued>
+		<rdf:Description>
+			<dcrdf:valueString rdf:datatype="&dcterms;W3CDTF">2007-03-09</dcrdf:valueString>
+		</rdf:Description>
+	</dcterms:issued>
+</rdf:Description>
+
+<!-- What is the type of this resource? -->
+<rdf:Description rdf:about="&accmeth;deposit">
+	<rdfs:label xml:lang="en">Deposit</rdfs:label>
+	<rdfs:comment xml:lang="en">The permanent addition of items to the collection, where the transfer of ownership is conditional on certain requirements or restrictions, but without financial payment or reciprocal transfer of items.</rdfs:comment>
+	<rdfs:isDefinedBy rdf:resource="&accmeth;" />
+	<!-- What is the relationship between this resource and the VES? -->
+	<dcrdf:isMemberOf rdf:resource="&cld;AccessMethod" />
+</rdf:Description>
+
+<!-- What is the type of this resource? -->
+<rdf:Description rdf:about="&accmeth;donation">
+	<rdfs:label xml:lang="en">Donation</rdfs:label>
+	<rdfs:comment xml:lang="en">The permanent addition of items to the collection through the transfer of ownership, without financial payment.</rdfs:comment>
+	<rdfs:isDefinedBy rdf:resource="&accmeth;" />
+	<!-- What is the relationship between this resource and the VES? -->
+	<dcrdf:isMemberOf rdf:resource="&cld;AccessMethod" />
+</rdf:Description>
+
+<!-- What is the type of this resource? -->
+<rdf:Description rdf:about="&accmeth;purchase">
+	<rdfs:label xml:lang="en">Purchase</rdfs:label>
+	<rdfs:comment xml:lang="en">The permanent addition of items to the collection through the transfer of ownership, accompanied by one or more financial payments.</rdfs:comment>
+	<rdfs:isDefinedBy rdf:resource="&accmeth;" />
+	<!-- What is the relationship between this resource and the VES? -->
+	<dcrdf:isMemberOf rdf:resource="&cld;AccessMethod" />
+</rdf:Description>
+
+<!-- What is the type of this resource? -->
+<rdf:Description rdf:about="&accmeth;loan">
+	<rdfs:label xml:lang="en">Loan</rdfs:label>
+	<rdfs:comment xml:lang="en">The temporary addition of items to the collection with no transfer of ownership, without financial payment.</rdfs:comment>
+	<rdfs:isDefinedBy rdf:resource="&accmeth;" />
+	<!-- What is the relationship between this resource and the VES? -->
+	<dcrdf:isMemberOf rdf:resource="&cld;AccessMethod" />
+</rdf:Description>
+
+<!-- What is the type of this resource? -->
+<rdf:Description rdf:about="&accmeth;license">
+	<rdfs:label xml:lang="en">License</rdfs:label>
+	<rdfs:comment xml:lang="en">The temporary addition of items to the collection with no transfer of ownership, accompanied by one or more financial payments.</rdfs:comment>
+	<rdfs:isDefinedBy rdf:resource="&accmeth;" />
+	<!-- What is the relationship between this resource and the VES? -->
+	<dcrdf:isMemberOf rdf:resource="&cld;AccessMethod" />
+</rdf:Description>
+
+<!-- What is the type of this resource? -->
+<rdf:Description rdf:about="&accmeth;itemCreation">
+	<rdfs:label xml:lang="en">Item Creation</rdfs:label>
+	<rdfs:comment xml:lang="en">The permanent addition of items to the collection as a result of item creation by the owner of the collection.</rdfs:comment>
+	<rdfs:isDefinedBy rdf:resource="&accmeth;" />
+	<!-- What is the relationship between this resource and the VES? -->
+	<dcrdf:isMemberOf rdf:resource="&cld;AccessMethod" />
+</rdf:Description>
+
+
+</rdf:RDF>

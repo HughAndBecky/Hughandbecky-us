@@ -1,50 +1,72 @@
+// logic/description.js
+// logic/description.js
+// Modernized Description module — UI-only + pure XML builder
+
 import { sanitizeXML } from "../xml/sanitize.js";
+import { attachValidation } from "../ui/validation-attach.js";
+import { getTranslations } from "../i18n/loader.js";
 
-function makeLiteral(tag, value, lang) {
-  if (!value) return "";
-  const langAttr = lang ? ` xml:lang="${lang}"` : "";
-  return `<dcterms:${tag}${langAttr}>${sanitizeXML(value)}</dcterms:${tag}>\n`;
+/* -------------------------------------------------------
+   1. VALUE EXTRACTION (pure, no DOM mutation)
+------------------------------------------------------- */
+
+export function getDescriptionXMLValues() {
+  const get = id => document.getElementById(id)?.value.trim() || "";
+
+  return {
+    description:     get("collection-description"),
+    descriptionLang: get("collection-description-lang"),
+
+    provenance:      get("collection-provenance"),
+    provenanceLang:  get("collection-provenance-lang"),
+
+    provenanceURI:   get("collection-provenance-uri"),
+
+    abstract:        get("collection-abstract"),
+    abstractLang:    get("collection-abstract-lang")
+  };
 }
 
-function makeURI(tag, value) {
-  if (!value) return "";
-  return `<dcterms:${tag} xsi:type="dcterms:URI">${sanitizeXML(value)}</dcterms:${tag}>\n`;
-}
+/* -------------------------------------------------------
+   2. XML BUILDER (pure, deterministic)
+------------------------------------------------------- */
 
-export function updateDescriptionFields() {
-  const desc = document.getElementById('collection-description').value.trim();
-  const descLang = document.getElementById('collection-description-lang').value.trim();
+export function descriptionToXML(values) {
+  const xml = [];
 
-  const prov = document.getElementById('collection-provenance').value.trim();
-  const provLang = document.getElementById('collection-provenance-lang').value.trim();
-
-  const provURI = document.getElementById('collection-provenance-uri').value.trim();
-
-  const abs = document.getElementById('collection-abstract').value.trim();
-  const absLang = document.getElementById('collection-abstract-lang').value.trim();
-
-  const output = document.getElementById('output');
-
-  const lines = output.value.split("\n").filter(l =>
-    !l.startsWith("<dcterms:description") &&
-    !l.startsWith("<dcterms:provenance") &&
-    !l.startsWith("<dcterms:abstract")
-  );
-
-  const xml =
-    makeLiteral("description", desc, descLang) +
-    makeLiteral("provenance", prov, provLang) +
-    makeURI("provenance", provURI) +
-    makeLiteral("abstract", abs, absLang);
-
-  output.value = lines.join("\n").trim();
-  if (xml.trim().length > 0) {
-    output.value += (output.value ? "\n" : "") + xml;
+  if (values.description) {
+    xml.push(
+      `<dcterms:description xml:lang="${values.descriptionLang || "en"}">${sanitizeXML(values.description)}</dcterms:description>`
+    );
   }
+
+  if (values.provenance) {
+    xml.push(
+      `<dcterms:provenance xml:lang="${values.provenanceLang || "en"}">${sanitizeXML(values.provenance)}</dcterms:provenance>`
+    );
+  }
+
+  if (values.provenanceURI) {
+    xml.push(
+      `<dcterms:provenance xsi:type="dcterms:URI">${sanitizeXML(values.provenanceURI)}</dcterms:provenance>`
+    );
+  }
+
+  if (values.abstract) {
+    xml.push(
+      `<dcterms:abstract xml:lang="${values.abstractLang || "en"}">${sanitizeXML(values.abstract)}</dcterms:abstract>`
+    );
+  }
+
+  return xml.join("\n");
 }
+
+/* -------------------------------------------------------
+   3. UI INITIALIZATION (no XML writing)
+------------------------------------------------------- */
 
 export function initDescriptionSection() {
-  [
+  const fields = [
     "collection-description",
     "collection-description-lang",
     "collection-provenance",
@@ -52,8 +74,27 @@ export function initDescriptionSection() {
     "collection-provenance-uri",
     "collection-abstract",
     "collection-abstract-lang"
-  ].forEach(id => {
+  ];
+
+  // Attach validation + input listeners
+  fields.forEach(id => {
     const el = document.getElementById(id);
-    if (el) el.addEventListener("input", updateDescriptionFields);
+    if (!el) return;
+
+    attachValidation(id);
+
+    el.addEventListener("input", () => {
+      // No XML writing here — build-xml.js handles dynamic updates
+    });
+
+    // Help system hook
+    el.addEventListener("focusin", () => {
+      const translations = getTranslations();
+      const helpKey = el.dataset.helpKey;
+      const helpText =
+        translations[helpKey] ||
+        "Provide descriptive information about the collection.";
+      document.getElementById("help-content").textContent = helpText;
+    });
   });
 }

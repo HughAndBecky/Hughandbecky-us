@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Edit Record — Hugh’s List</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+      <link rel="stylesheet" href="css/base.css">
+  <link rel="stylesheet" href="css/layout.css">
+  <link rel="stylesheet" href="css/tabs.css">
+  <link rel="stylesheet" href="css/dcmi-chooser.css">
+  <link rel="stylesheet" href="css/help-panel.css">
+  <link rel="stylesheet" href="css/matrix.css">
+  <link rel="stylesheet" href="css/accession.css">
+  <link rel="stylesheet" href="css/header.css">
+  <link rel="stylesheet" href="css/edit.css">
+</head>
+
+<body>
+
+  <div id="header-container"></div>
+
+
+<main class="edit-container">
+
+    <!-- Import Box -->
+    <section class="import-box">
+        <h2>Import Metadata</h2>
+
+        <p>Paste a DOI, URL, OLAC link, or OAI‑PMH request:</p>
+
+        <textarea id="import-input" placeholder="Paste DOI or URL here…" rows="3"></textarea>
+
+        <button id="import-button">Detect & Import</button>
+
+        <div id="import-status" class="import-status"></div>
+    </section>
+
+
+    <!-- Editor UI -->
+    <section class="editor-sections">
+
+        <!-- Title Section -->
+        <div class="editor-section" id="title-section">
+            <h3>Title</h3>
+            <input type="text" id="title-input" placeholder="Title">
+        </div>
+
+        <!-- Creators Section -->
+        <div class="editor-section" id="creators-section">
+            <h3>Creators</h3>
+            <div id="creators-list"></div>
+            <button id="add-creator">Add Creator</button>
+        </div>
+
+        <!-- Description Section -->
+        <div class="editor-section" id="description-section">
+            <h3>Description</h3>
+            <textarea id="description-input" rows="4"></textarea>
+        </div>
+
+        <!-- Identifiers Section -->
+        <div class="editor-section" id="identifiers-section">
+            <h3>Identifiers</h3>
+            <div id="identifier-list"></div>
+            <button id="add-identifier">Add Identifier</button>
+        </div>
+
+        <!-- Languages Section -->
+        <div class="editor-section" id="languages-section">
+            <h3>Languages</h3>
+            <div id="language-list"></div>
+            <button id="add-language">Add Language</button>
+        </div>
+
+        <!-- Resource Type Section -->
+        <div class="editor-section" id="type-section">
+            <h3>Resource Type</h3>
+            <input type="text" id="type-input" placeholder="Text, Sound, Dataset…">
+        </div>
+
+        <!-- Save -->
+        <div class="editor-actions">
+            <button id="save-record">Save Record</button>
+        </div>
+
+    </section>
+
+</main>
+    <div id="footer-container"></div>
+    <script type="module" src="js/main.js"></script>
+<script type="module" src="js/edit-import.js"></script>
+<script type="module" src="js/edit-builder.js"></script>
+
+</body>
+</html>

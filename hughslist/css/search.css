@@ -1,0 +1,159 @@
+/* ============================================================
+   SEARCH PAGE WRAPPER
+   ============================================================ */
+
+.search-cards {
+  max-width: 900px;
+  margin: 2rem auto;
+  padding: 0 1rem;
+}
+
+.search-cards .card-grid {
+  margin-top: 2rem;
+}
+
+/* Center card buttons */
+.card .card-trigger {
+  display: block;
+  margin: 1rem auto 0 auto;
+  text-align: center;
+}
+
+
+/* ============================================================
+   SEARCH ZONE (Revealable)
+   ============================================================ */
+
+#search-zone {
+  max-width: 900px;
+  margin: 2rem auto;
+  padding: 1rem;
+  opacity: 0;
+  transform: translateY(8px);
+  transition: opacity 0.25s ease, transform 0.25s ease;
+}
+
+#search-zone[aria-hidden="false"] {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+
+/* ============================================================
+   TEXT SEARCH MODE
+   ============================================================ */
+
+#search-form {
+  text-align: center;
+}
+
+#search-input {
+  width: 100%;
+  max-width: 500px;
+  margin: 0 auto;
+  padding: 0.75rem;
+  font-size: 1rem;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+}
+
+
+/* ============================================================
+   TIMELINE MODE — Dual‑Handle Slider (Single Track)
+   ============================================================ */
+
+#timeline-container {
+  text-align: center;
+  margin-top: 1rem;
+}
+
+/* Wrapper for the dual slider */
+.dual-slider {
+  position: relative;
+  width: 100%;
+  max-width: 600px;
+  margin: 1.5rem auto;
+}
+
+
+/* Single shared track */
+.dual-slider::before {
+  content: "";
+  position: absolute;
+  top: 50%;
+  left: 0;
+  width: 100%;
+  height: 6px;
+  background: #ddd;
+  border-radius: 3px;
+  transform: translateY(-50%);
+}
+
+/* Overlapping sliders: same line, no vertical stacking */
+.dual-slider input[type="range"] {
+  -webkit-appearance: none;
+  appearance: none;
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  background: none;
+  pointer-events: none; /* only thumbs will be interactive */
+}
+
+/* Hide each slider's own track */
+.dual-slider input[type="range"]::-webkit-slider-runnable-track {
+  background: transparent;
+}
+
+.dual-slider input[type="range"]::-moz-range-track {
+  background: transparent;
+}
+
+/* Thumb styling */
+.dual-slider input[type="range"]::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  height: 18px;
+  width: 18px;
+  border-radius: 50%;
+  background: #005bbb;
+  cursor: pointer;
+  pointer-events: auto;
+  position: relative;
+  z-index: 2;
+  margin-top: -6px;
+}
+
+.dual-slider input[type="range"]::-moz-range-thumb {
+  height: 18px;
+  width: 18px;
+  border-radius: 50%;
+  background: #005bbb;
+  cursor: pointer;
+  pointer-events: auto;
+  position: relative;
+  z-index: 2;
+}
+
+/* Display of selected range */
+#timeline-display {
+  font-size: 1.25rem;
+  font-weight: 600;
+  margin-top: 3rem;
+}
+
+/* Active selected range bar */
+.dual-slider::after {
+  content: "";
+  position: absolute;
+  top: 50%;
+  height: 6px;
+  background: #005bbb; /* same as knobs */
+  border-radius: 3px;
+  transform: translateY(-50%);
+  z-index: 1;
+
+  /* These get updated by JS */
+  left: var(--range-start, 0%);
+  right: calc(100% - var(--range-end, 100%));
+}
+
