@@ -124,12 +124,45 @@
     }
   }
   
+  // Save filter selections to localStorage
+  function saveFilters() {
+    const filters = {
+      fruit: document.getElementById('filter-fruit')?.value || '',
+      genre: document.getElementById('filter-genre')?.value || '',
+      alcohol: document.getElementById('filter-alcohol')?.value || '',
+      size: document.getElementById('filter-size')?.value || ''
+    };
+    localStorage.setItem('katja-jam-filters', JSON.stringify(filters));
+  }
+  
+  // Load filter selections from localStorage
+  function loadSavedFilters() {
+    try {
+      const saved = localStorage.getItem('katja-jam-filters');
+      if (saved) {
+        const filters = JSON.parse(saved);
+        if (document.getElementById('filter-fruit')) document.getElementById('filter-fruit').value = filters.fruit || '';
+        if (document.getElementById('filter-genre')) document.getElementById('filter-genre').value = filters.genre || '';
+        if (document.getElementById('filter-alcohol')) document.getElementById('filter-alcohol').value = filters.alcohol || '';
+        if (document.getElementById('filter-size')) document.getElementById('filter-size').value = filters.size || '';
+        console.log('Loaded saved filters:', filters);
+        return true;
+      }
+    } catch (e) {
+      console.error('Error loading saved filters:', e);
+    }
+    return false;
+  }
+  
   // Filter products based on selected criteria
   function filterProducts() {
     const fruitFilter = document.getElementById('filter-fruit')?.value || '';
     const genreFilter = document.getElementById('filter-genre')?.value || '';
     const alcoholFilter = document.getElementById('filter-alcohol')?.value || '';
     const sizeFilter = document.getElementById('filter-size')?.value || '';
+    
+    // Save current filter selection
+    saveFilters();
     
     const filtered = {};
     let totalCount = 0;
@@ -152,7 +185,11 @@
     // Update results count
     const resultsEl = document.getElementById('filter-results');
     if (resultsEl) {
-      resultsEl.textContent = `Showing ${totalCount} of ${Object.keys(allProducts).length} products`;
+      if (totalCount === 0) {
+        resultsEl.innerHTML = '<strong style="color: #dc3545;">No products match your filters</strong>';
+      } else {
+        resultsEl.textContent = `Showing ${totalCount} of ${Object.keys(allProducts).length} products`;
+      }
     }
     
     displayInventory(filtered);
@@ -164,6 +201,7 @@
     document.getElementById('filter-genre').value = '';
     document.getElementById('filter-alcohol').value = '';
     document.getElementById('filter-size').value = '';
+    localStorage.removeItem('katja-jam-filters'); // Clear saved filters
     filterProducts();
   }
   
@@ -183,6 +221,32 @@
     if (!container) return;
     
     container.innerHTML = '';
+    
+    // Check if no products match the filters
+    if (Object.keys(products).length === 0) {
+      container.innerHTML = `
+        <div class="col-12">
+          <div class="alert alert-info" style="text-align: center; padding: 30px; margin: 20px 0;">
+            <i class="fas fa-search fa-3x" style="color: #17a2b8; margin-bottom: 15px;"></i>
+            <h4 style="margin-bottom: 15px;">No Products Match Your Filters</h4>
+            <p style="margin-bottom: 20px;">
+              We couldn't find any products that match your current filter selection.
+            </p>
+            <p style="margin-bottom: 20px;">
+              <strong>Try:</strong><br>
+              • Resetting your filters using the button above<br>
+              • Selecting fewer filter criteria<br>
+              • Choosing different combinations
+            </p>
+            <p style="margin-top: 20px; color: #666;">
+              <em>Tip: "Custom" flavors are special orders that may not be in our regular inventory. 
+              If you're looking for a custom flavor, please <a href="#contact">contact us</a> directly!</em>
+            </p>
+          </div>
+        </div>
+      `;
+      return;
+    }
     
     Object.entries(products).forEach(([name, product]) => {
       const inStock = product.totalJars > 0;
@@ -275,7 +339,10 @@
           reset: !!resetBtn
         });
         
-        // Display all products initially
+        // Load saved filter selections
+        loadSavedFilters();
+        
+        // Display products with current filter selection (or all if no saved filters)
         filterProducts();
       })
       .catch(error => {
