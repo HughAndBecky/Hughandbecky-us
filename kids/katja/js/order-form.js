@@ -7,7 +7,7 @@ let inventoryData = {};
 let cart = [];
 
 // Google Apps Script Web App URL (you'll need to create this)
-const APPS_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbwS4y6cor3s09llqAwPbb_IfWGHLTLkJ4R2axguZdfFxEo4YDr8WdMM8G5ZoAwOoiKb/exec';
+const APPS_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycby1XY6iUOrell3iX4FVZi5puZSCeb1bCcWlaAotgT4edi9nrv1GhErpJl5Zob7ESR8Z/exec';
 
 // Pricing for jar sizes
 const PRICING = {
@@ -22,6 +22,63 @@ const PRICING = {
 };
 
 /**
+ * Track event in Google Analytics (if available)
+ */
+function trackEvent(category, action, label, value) {
+    if (typeof gtag !== 'undefined') {
+        gtag('event', action, {
+            'event_category': category,
+            'event_label': label,
+            'value': value
+        });
+        console.log('GA Event:', category, action, label, value);
+    }
+}
+
+/**
+ * Save cart to localStorage
+ */
+function saveCart() {
+    try {
+        localStorage.setItem('katja-jam-cart', JSON.stringify(cart));
+        console.log('Cart saved to localStorage');
+    } catch (e) {
+        console.error('Error saving cart:', e);
+    }
+}
+
+/**
+ * Load cart from localStorage
+ */
+function loadCart() {
+    try {
+        const saved = localStorage.getItem('katja-jam-cart');
+        if (saved) {
+            cart = JSON.parse(saved);
+            console.log('Cart loaded from localStorage:', cart.length, 'items');
+            updateCartDisplay();
+            return true;
+        }
+    } catch (e) {
+        console.error('Error loading cart:', e);
+    }
+    return false;
+}
+
+/**
+ * Clear cart from memory and localStorage
+ */
+function clearCartStorage() {
+    cart = [];
+    try {
+        localStorage.removeItem('katja-jam-cart');
+        console.log('Cart cleared from localStorage');
+    } catch (e) {
+        console.error('Error clearing cart:', e);
+    }
+}
+
+/**
  * Load inventory from spreadsheet
  */
 async function loadInventoryForOrders() {
@@ -32,6 +89,9 @@ async function loadInventoryForOrders() {
         
         inventoryData = aggregateStock(data);
         renderOrderForm();
+        
+        // Load saved cart from localStorage
+        loadCart();
     } catch (error) {
         console.error('Error loading inventory:', error);
         document.getElementById('order-form-container').innerHTML = 
@@ -158,6 +218,9 @@ function renderOrderForm() {
                         <button class="btn btn-sm btn-primary mt-2" onclick="addToCart('${key}')" aria-label="Add ${product.name} to cart">
                             <i class="fas fa-cart-plus" aria-hidden="true"></i> Add to Cart
                         </button>
+                        <a href="#cart-section" class="btn btn-sm btn-outline-success mt-2 ml-2 jump-to-cart-btn" style="display: none;" onclick="trackEvent('Ecommerce', 'view_cart', 'Jump to cart button', 0)">
+                            <i class="fas fa-shopping-cart" aria-hidden="true"></i> View Cart
+                        </a>
                         <div id="feedback-${key}" class="cart-feedback mt-2" role="status" aria-live="polite"></div>
                     </div>
                 </div>
@@ -183,6 +246,9 @@ function renderOrderForm() {
                     <button class="btn btn-primary" onclick="addFullBatchToCart()" aria-label="Add full batch to cart">
                         <i class="fas fa-cart-plus"></i> Add to Cart
                     </button>
+                    <a href="#cart-section" class="btn btn-outline-success ml-2 jump-to-cart-btn" style="display: none;" onclick="trackEvent('Ecommerce', 'view_cart', 'Jump to cart button', 0)">
+                        <i class="fas fa-shopping-cart"></i> View Cart
+                    </a>
                     <div id="feedback-full-batch" class="cart-feedback mt-2" role="status" aria-live="polite"></div>
                 </div>
             </div>
@@ -244,15 +310,59 @@ function renderOrderForm() {
                     </select>
                     <small id="delivery-help" class="text-muted">Standard shipping not available. Local delivery area only.</small>
                 </div>
-                <div class="form-group">
-                    <label for="delivery-address">Delivery Address (if applicable)</label>
-                    <textarea class="form-control" 
-                              id="delivery-address" 
-                              name="street-address"
-                              autocomplete="street-address"
-                              rows="3" 
-                              placeholder="Street address, city, state, ZIP" 
-                              aria-describedby="address-help"></textarea>
+                <div id="address-fields" class="form-group">
+                    <label>Delivery Address (if applicable)</label>
+                    <div class="row">
+                        <div class="col-12 mb-2">
+                            <input type="text" 
+                                   class="form-control" 
+                                   id="address-line1" 
+                                   name="address-line1"
+                                   autocomplete="address-line1"
+                                   placeholder="Street address"
+                                   aria-label="Street address line 1">
+                        </div>
+                        <div class="col-12 mb-2">
+                            <input type="text" 
+                                   class="form-control" 
+                                   id="address-line2" 
+                                   name="address-line2"
+                                   autocomplete="address-line2"
+                                   placeholder="Apt, suite, unit, building, floor, etc. (optional)"
+                                   aria-label="Street address line 2">
+                        </div>
+                        <div class="col-md-6 mb-2">
+                            <input type="text" 
+                                   class="form-control" 
+                                   id="address-city" 
+                                   name="address-level2"
+                                   autocomplete="address-level2"
+                                   placeholder="City"
+                                   aria-label="City">
+                        </div>
+                        <div class="col-md-3 mb-2">
+                            <input type="text" 
+                                   class="form-control" 
+                                   id="address-state" 
+                                   name="address-level1"
+                                   autocomplete="address-level1"
+                                   placeholder="State"
+                                   aria-label="State"
+                                   maxlength="2"
+                                   style="text-transform: uppercase;">
+                        </div>
+                        <div class="col-md-3 mb-2">
+                            <input type="text" 
+                                   class="form-control" 
+                                   id="address-zip" 
+                                   name="postal-code"
+                                   autocomplete="postal-code"
+                                   placeholder="ZIP"
+                                   aria-label="ZIP code"
+                                   pattern="[0-9]{5}(-[0-9]{4})?"
+                                   maxlength="10">
+                        </div>
+                    </div>
                     <small id="address-help" class="form-text text-muted">Enter your full address if you selected local delivery or special shipping</small>
                 </div>
                 <div class="form-group">
@@ -294,7 +404,7 @@ function renderOrderForm() {
                     <li>Venmo: <strong><a href="https://venmo.com/u/Hugh-Paterson" target="_blank" rel="noopener noreferrer">@Hugh-Paterson</a></strong></li>
                 </ul>
                 <div style="text-align: center; margin-top: 1rem;">
-                    <img src="/kids/katja/media/venmo/hughpatersonvenmo-origional.png" alt="Venmo QR Code" style="max-width: 200px; border: 1px solid #ddd; border-radius: 8px; padding: 10px; background: white;">
+                    <img src="/kids/katja/media/venmo/hughpatersonvenmo.png" alt="Venmo QR Code" style="max-width: 200px; border: 1px solid #ddd; border-radius: 8px; padding: 10px; background: white;">
                     <p style="font-size: 0.85em; color: #666; margin-top: 0.5rem;">Scan to pay with Venmo</p>
                 </div>
             </div>
@@ -325,6 +435,13 @@ function renderOrderForm() {
     const deliveryMethodDropdown = document.getElementById('delivery-method');
     if (deliveryMethodDropdown) {
         deliveryMethodDropdown.addEventListener('change', function() {
+            const method = this.value;
+            
+            // Track delivery method selection
+            if (method) {
+                trackEvent('Ecommerce', 'select_delivery_method', method, 0);
+            }
+            
             if (cart.length > 0) {
                 updateCartPriceDisplay();
             }
@@ -396,6 +513,11 @@ function addFullBatchToCart() {
         quantity: 1,
         maxStock: 999
     });
+    
+    // Track GA event
+    trackEvent('Ecommerce', 'add_to_cart', 'Full Batch', 65.00);
+    
+    saveCart(); // Save to localStorage
     updateCartDisplay();
     showFeedback('full-batch', 'Added to cart!', 'success');
 }
@@ -435,6 +557,10 @@ function addToCart(productKey) {
     }
     
     if (itemsAdded) {
+        // Track GA event
+        trackEvent('Ecommerce', 'add_to_cart', product.name, 0);
+        
+        saveCart(); // Save to localStorage
         updateCartDisplay();
         showFeedback(productKey, 'Added to cart!', 'success');
     } else {
@@ -446,10 +572,17 @@ function addToCart(productKey) {
  * Update cart display
  */
 function updateCartDisplay() {
+    const jumpToCartButtons = document.querySelectorAll('.jump-to-cart-btn');
+    
     if (cart.length === 0) {
         document.getElementById('cart-section').style.display = 'none';
+        // Hide all "Jump to Cart" buttons when cart is empty
+        jumpToCartButtons.forEach(btn => btn.style.display = 'none');
         return;
     }
+    
+    // Show all "Jump to Cart" buttons when cart has items
+    jumpToCartButtons.forEach(btn => btn.style.display = 'inline-block');
     
     document.getElementById('cart-section').style.display = 'block';
     
@@ -512,7 +645,15 @@ function updateCartPriceDisplay(subtotal) {
  * Remove item from cart
  */
 function removeFromCart(index) {
+    const item = cart[index];
+    
+    // Track GA event
+    if (item) {
+        trackEvent('Ecommerce', 'remove_from_cart', item.name, 0);
+    }
+    
     cart.splice(index, 1);
+    saveCart(); // Save to localStorage
     updateCartDisplay();
 }
 
@@ -521,7 +662,10 @@ function removeFromCart(index) {
  */
 function clearCart() {
     if (confirm('Clear entire cart?')) {
-        cart = [];
+        // Track GA event
+        trackEvent('Ecommerce', 'clear_cart', 'User cleared cart', cart.length);
+        
+        clearCartStorage(); // Clear from localStorage
         updateCartDisplay();
     }
 }
@@ -545,6 +689,29 @@ function isValidPhone(phone) {
 }
 
 /**
+ * Get formatted delivery address from separate fields
+ */
+function getFormattedAddress() {
+    const line1 = document.getElementById('address-line1')?.value.trim() || '';
+    const line2 = document.getElementById('address-line2')?.value.trim() || '';
+    const city = document.getElementById('address-city')?.value.trim() || '';
+    const state = document.getElementById('address-state')?.value.trim().toUpperCase() || '';
+    const zip = document.getElementById('address-zip')?.value.trim() || '';
+    
+    if (!line1 && !city && !state && !zip) {
+        return ''; // No address provided
+    }
+    
+    let address = line1;
+    if (line2) address += '\n' + line2;
+    if (city || state || zip) {
+        address += '\n' + [city, state, zip].filter(p => p).join(', ');
+    }
+    
+    return address;
+}
+
+/**
  * Submit order to Google Apps Script backend
  */
 async function submitOrder(e) {
@@ -554,6 +721,9 @@ async function submitOrder(e) {
         alert('Your cart is empty!');
         return;
     }
+    
+    // Track checkout attempt
+    trackEvent('Ecommerce', 'begin_checkout', 'User clicked submit order', cart.length);
     
     // Validate email
     const email = document.getElementById('customer-email').value;
@@ -586,7 +756,7 @@ async function submitOrder(e) {
     if (deliveryFee > 0) {
         orderItems.push({
             productKey: 'delivery-fee',
-            name: 'Delivery Fee (Eugene area)',
+            name: 'Delivery Fee (Eugene, Oregon area)',
             size: 'Service',
             quantity: 1
         });
@@ -599,7 +769,7 @@ async function submitOrder(e) {
             email: email,
             phone: document.getElementById('customer-phone').value,
             fulfillmentMethod: document.getElementById('delivery-method').value,
-            deliveryAddress: document.getElementById('delivery-address').value,
+            deliveryAddress: getFormattedAddress(),
             notes: document.getElementById('order-notes').value
         },
         items: orderItems,
@@ -618,6 +788,14 @@ async function submitOrder(e) {
         const result = await response.json();
         
         if (result.success) {
+            // Track successful purchase in GA
+            trackEvent('Ecommerce', 'purchase', result.orderId, total);
+            
+            // Track individual items purchased
+            cart.forEach(item => {
+                trackEvent('Ecommerce', 'purchase_item', `${item.name} (${item.size})`, item.quantity);
+            });
+            
             // Show confirmation
             document.getElementById('order-id').textContent = result.orderId;
             document.getElementById('order-total').textContent = total.toFixed(2);
@@ -638,8 +816,8 @@ async function submitOrder(e) {
             // Scroll confirmation into view
             confirmationElement.scrollIntoView({ behavior: 'smooth', block: 'center' });
             
-            // Clear cart
-            cart = [];
+            // Clear cart from memory and localStorage
+            clearCartStorage();
             
             // DON'T reload inventory - confirmation screen is showing
             // User can refresh page manually if they want to place another order
