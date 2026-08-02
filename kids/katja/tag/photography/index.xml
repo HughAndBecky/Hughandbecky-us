@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Photography | Katja Patersonová</title>
+    <link>https://hughandbecky.us/kids/katja/tag/photography/</link>
+      <atom:link href="https://hughandbecky.us/kids/katja/tag/photography/index.xml" rel="self" type="application/rss+xml" />
+    <description>Photography</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2026</copyright><lastBuildDate>Wed, 21 Oct 2020 17:57:00 +0000</lastBuildDate>
+    <image>
+      <url>https://hughandbecky.us/kids/katja/images/logo.svg</url>
+      <title>Photography</title>
+      <link>https://hughandbecky.us/kids/katja/tag/photography/</link>
+    </image>
+    
+    <item>
+      <title>Modeling at Nîmes</title>
+      <link>https://hughandbecky.us/kids/katja/post/modeling-at-nimes/</link>
+      <pubDate>Wed, 21 Oct 2020 17:57:00 +0000</pubDate>
+      <guid>https://hughandbecky.us/kids/katja/post/modeling-at-nimes/</guid>
+      <description>&lt;figure&gt;
+  &lt;img src=&#34;img_5279.jpg&#34; alt=&#34;Subject&#34; /&gt;
+  &lt;figcaption&gt;Subject&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+  &lt;img src=&#34;img_5278.jpg&#34; alt=&#34;Photographer&#34; /&gt;
+  &lt;figcaption&gt;Photographer&lt;/figcaption&gt;
+&lt;/figure&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

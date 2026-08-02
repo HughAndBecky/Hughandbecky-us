@@ -1,0 +1,135 @@
+/* Order Form Styles */
+
+.order-product-card {
+    border: 1px solid #e0e0e0;
+    transition: box-shadow 0.3s ease;
+    text-align: center; /* Center on mobile */
+}
+
+/* Left-align content on larger screens */
+@media (min-width: 768px) {
+    .order-product-card {
+        text-align: left;
+    }
+}
+
+.order-product-card:hover {
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+.order-product-card .card-title {
+    color: #333;
+    font-size: 1.1rem;
+    font-weight: 600;
+    margin-bottom: 0.5rem;
+}
+
+.size-selection {
+    margin-top: 1rem;
+}
+
+.size-selection .form-control-sm {
+    height: calc(1.5em + 0.5rem + 2px);
+    font-size: 16px; /* Prevents zoom on iOS */
+    min-height: 44px; /* Apple recommended touch target size */
+}
+
+/* Better touch targets for mobile */
+.order-product-card .btn {
+    min-height: 44px; /* Apple recommended touch target size */
+    padding: 12px 20px;
+    font-size: 16px;
+}
+
+/* Larger input fields on mobile */
+@media (max-width: 768px) {
+    .size-selection .form-control-sm {
+        font-size: 16px; /* Prevents zoom on iOS */
+        min-height: 48px; /* Android recommended touch target size */
+        padding: 12px;
+    }
+    
+    .order-product-card .btn {
+        width: 100%;
+        margin-top: 1rem;
+    }
+}
+
+#cart-section {
+    background: #f8f9fa;
+    padding: 2rem;
+    border-radius: 8px;
+    margin-top: 2rem;
+}
+
+#cart-section h3 {
+    color: #333;
+    margin-bottom: 1.5rem;
+}
+
+#cart-items table {
+    background: white;
+    border-radius: 4px;
+}
+
+#customer-form .form-group {
+    margin-bottom: 1rem;
+}
+
+#customer-form label {
+    font-weight: 600;
+    color: #555;
+    margin-bottom: 0.5rem;
+}
+
+#order-confirmation {
+    font-size: 1.1rem;
+}
+
+#order-confirmation h4 {
+    color: #28a745;
+}
+
+.btn-lg {
+    margin-right: 1rem;
+    margin-top: 1rem;
+}
+
+/* Cart Feedback Messages */
+.cart-feedback {
+    font-size: 0.7rem;
+    font-weight: 600;
+    padding: 0.5rem 1rem;
+    border-radius: 4px;
+    opacity: 0;
+    transform: translateY(-10px);
+    transition: all 0.3s ease;
+    text-align: center;
+}
+
+.cart-feedback-show {
+    opacity: 1;
+    transform: translateY(0);
+}
+
+.cart-feedback-success {
+    color: #155724;
+    background-color: #d4edda;
+    border: 1px solid #c3e6cb;
+}
+
+.cart-feedback-error {
+    color: #721c24;
+    background-color: #f8d7da;
+    border: 1px solid #f5c6cb;
+}
+
+/* Ensure visibility on large screens */
+@media (min-width: 768px) {
+    .cart-feedback {
+        min-height: 44px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+}

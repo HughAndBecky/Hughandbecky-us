@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Katja Patersonová</title>
+    <link>https://hughandbecky.us/kids/katja/authors/</link>
+      <atom:link href="https://hughandbecky.us/kids/katja/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2026</copyright><lastBuildDate>Tue, 15 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://hughandbecky.us/kids/katja/images/logo.svg</url>
+      <title>Authors</title>
+      <link>https://hughandbecky.us/kids/katja/authors/</link>
+    </image>
+    
+  </channel>
+</rss>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cities | Katja Patersonová</title>
+    <link>https://hughandbecky.us/kids/katja/cities/</link>
+      <atom:link href="https://hughandbecky.us/kids/katja/cities/index.xml" rel="self" type="application/rss+xml" />
+    <description>Cities</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hugh Paterson III © 2026</copyright>
+    <image>
+      <url>https://hughandbecky.us/kids/katja/images/logo.svg</url>
+      <title>Cities</title>
+      <link>https://hughandbecky.us/kids/katja/cities/</link>
+    </image>
+    
+  </channel>
+</rss>
