@@ -1,7 +1,7 @@
-Becky-CV/author/kids/katja/oai.xml
-Becky-CV/kids/katja/oai.xml
+Becky-CV/author/*/oai.xml
+Becky-CV/*/oai.xml
 !Becky-CV/olac/oai.xml
-Becky-CV/kids/katja/kids/katja/oai.xml
+Becky-CV/*/*/oai.xml
 Becky-CV/oai.xml
 Hugh-CV/post/Drafts-First-Order/
 
