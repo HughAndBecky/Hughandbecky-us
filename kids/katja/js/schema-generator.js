@@ -293,6 +293,12 @@ function injectSchemaMarkup(productsByCategory) {
   document.head.appendChild(itemListScript);
   document.head.appendChild(offerCatalogScript);
   
+  // Remove static fallback schema now that we have dynamic data
+  const staticSchema = document.getElementById('static-product-groups');
+  if (staticSchema) {
+    staticSchema.remove();
+  }
+  
   // Create Katja's Person schema with dynamic makesOffer
   const hasInStockProducts = Object.values(productsByCategory)
     .flat()
