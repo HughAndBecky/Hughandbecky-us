@@ -293,8 +293,62 @@ function injectSchemaMarkup(productsByCategory) {
   document.head.appendChild(itemListScript);
   document.head.appendChild(offerCatalogScript);
   
+  // Create Katja's Person schema with dynamic makesOffer
+  const hasInStockProducts = Object.values(productsByCategory)
+    .flat()
+    .some(product => {
+      if (product.offers['@type'] === 'AggregateOffer') {
+        return product.offers.availability === 'https://schema.org/InStock';
+      } else if (product.offers['@type'] === 'Offer') {
+        return product.offers.availability === 'https://schema.org/InStock';
+      }
+      return false;
+    });
+  
+  const katjaPersonSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'Person',
+    'name': 'Katja Patersonová',
+    'url': 'https://hughandbecky.us/kids/katja/',
+    'image': 'https://hughandbecky.us/kids/katja/author/katja-patersonova/avatar_hudf6be4360c3345c61aabf53e6f6a0f23_108409_270x270_fill_q90_lanczos_center.JPG',
+    'jobTitle': 'Artisan Jam Maker',
+    'parent': [
+      {
+        '@type': 'Person',
+        'name': 'Hugh Paterson III',
+        'url': 'https://hughandbecky.us/Hugh-CV/'
+      },
+      {
+        '@type': 'Person',
+        'name': 'Rebecca Paterson',
+        'url': 'https://hughandbecky.us/Becky-CV/'
+      }
+    ],
+    'makesOffer': {
+      '@type': 'AggregateOffer',
+      'name': 'Artisan Fruit Spreads',
+      'description': 'Small batch jams, jellies, and fruit butters',
+      'lowPrice': Math.min(...Object.values(JAR_PRICES)).toFixed(2),
+      'highPrice': Math.max(...Object.values(JAR_PRICES)).toFixed(2),
+      'priceCurrency': 'USD',
+      'availability': hasInStockProducts ? 'https://schema.org/InStock' : 'https://schema.org/OutOfStock',
+      'url': 'https://hughandbecky.us/kids/katja/can-do-it/',
+      'seller': {
+        '@type': 'LocalBusiness',
+        'name': 'Can Do It - Small Batch Spreads'
+      }
+    }
+  };
+  
+  // Find and populate the Katja person schema placeholder
+  const katjaPersonScript = document.getElementById('katja-person-schema');
+  if (katjaPersonScript) {
+    katjaPersonScript.textContent = JSON.stringify(katjaPersonSchema, null, 2);
+  }
+  
   const totalProducts = Object.values(productsByCategory).reduce((sum, arr) => sum + arr.length, 0);
   console.log(`Schema.org markup injected: ${productGroups.length} ProductGroups (OfferCatalog + ItemList) with ${totalProducts} total products`);
+  console.log(`Katja's makesOffer availability: ${hasInStockProducts ? 'InStock' : 'OutOfStock'}`);
 }
 
 async function generateSchema() {
