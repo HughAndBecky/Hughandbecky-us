@@ -294,7 +294,7 @@ function renderOrderForm() {
                     <li>Venmo: <strong><a href="https://venmo.com/u/Hugh-Paterson" target="_blank" rel="noopener noreferrer">@Hugh-Paterson</a></strong></li>
                 </ul>
                 <div style="text-align: center; margin-top: 1rem;">
-                    <img src="/media/venmo/hughpatersonvenmo.png" alt="Venmo QR Code" style="max-width: 200px; border: 1px solid #ddd; border-radius: 8px; padding: 10px; background: white;">
+                    <img src="/kids/katja/media/venmo/hughpatersonvenmo-origional.png" alt="Venmo QR Code" style="max-width: 200px; border: 1px solid #ddd; border-radius: 8px; padding: 10px; background: white;">
                     <p style="font-size: 0.85em; color: #666; margin-top: 0.5rem;">Scan to pay with Venmo</p>
                 </div>
             </div>
