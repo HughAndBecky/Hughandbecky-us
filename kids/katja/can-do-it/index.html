@@ -445,43 +445,7 @@
 
     
   </section>
-
-  
-  
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-  
-
-  
-
-  
-  
-
-  
-  
-  
-
-  
-  
-  
-  
-  
-
-  
-  
-
-  
-
-  <section id="schema" class="home-section wg-blank   "  >
+<section id="schema" class="home-section wg-blank   d-none" style="padding: 0 0 0 0;" >
     <div class="container">
       
 
@@ -491,7 +455,7 @@
     <div class="col-lg-12">
       
       
-      <!-- Static business information -->
+      <!-- Business information with owner/founder and products -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -499,9 +463,14 @@
   "name": "Can Do It - Small Batch Spreads",
   "description": "Small batch artisan fruit spreads made with charcuterie, breakfast, and PB&J sandwiches in mind",
   "url": "https://hughandbecky.us/kids/katja/can-do-it/",
-  "telephone": "+15555551234",
   "email": "katjasfruit.oxidize027@passmail.com",
   "priceRange": "$$",
+  "image": [
+    "https://hughandbecky.us/kids/katja/media/Jam-Photos/IMG_7126.jpg",
+    "https://hughandbecky.us/kids/katja/media/Jam-Photos/IMG_7098.jpg",
+    "https://hughandbecky.us/kids/katja/media/Jam-Photos/IMG_7032.jpg",
+    "https://hughandbecky.us/kids/katja/media/Jam-Photos/jar-sizes.jpg"
+  ],
   "address": {
     "@type": "PostalAddress",
     "addressLocality": "Eugene",
@@ -512,8 +481,140 @@
   "areaServed": {
     "@type": "GeoCircle",
     "description": "Local delivery area"
+  },
+  "founder": {
+    "@type": "Person",
+    "name": "Katja Patersonová",
+    "url": "https://hughandbecky.us/kids/katja/",
+    "image": "https://hughandbecky.us/kids/katja/author/katja-patersonova/avatar_hudf6be4360c3345c61aabf53e6f6a0f23_108409_270x270_fill_q90_lanczos_center.JPG",
+    "jobTitle": "Artisan Jam Maker",
+    "parent": [
+      {
+        "@type": "Person",
+        "name": "Hugh Paterson III",
+        "url": "https://hughandbecky.us/Hugh-CV/"
+      },
+      {
+        "@type": "Person",
+        "name": "Rebecca Paterson",
+        "url": "https://hughandbecky.us/Becky-CV/"
+      }
+    ]
+  },
+  "owner": {
+    "@type": "Person",
+    "name": "Katja Patersonová",
+    "url": "https://hughandbecky.us/kids/katja/",
+    "image": "https://hughandbecky.us/kids/katja/author/katja-patersonova/avatar_hudf6be4360c3345c61aabf53e6f6a0f23_108409_270x270_fill_q90_lanczos_center.JPG",
+    "parent": [
+      {
+        "@type": "Person",
+        "name": "Hugh Paterson III",
+        "url": "https://hughandbecky.us/Hugh-CV/"
+      },
+      {
+        "@type": "Person",
+        "name": "Rebecca Paterson",
+        "url": "https://hughandbecky.us/Becky-CV/"
+      }
+    ]
   }
 }
+</script>
+<!-- Katja's Person schema with dynamic makesOffer (replaced by schema-generator.js when inventory loads) -->
+<script type="application/ld+json" id="katja-person-schema">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Katja Patersonová",
+  "url": "https://hughandbecky.us/kids/katja/",
+  "image": "https://hughandbecky.us/kids/katja/author/katja-patersonova/avatar_hudf6be4360c3345c61aabf53e6f6a0f23_108409_270x270_fill_q90_lanczos_center.JPG",
+  "jobTitle": "Artisan Jam Maker",
+  "parent": [
+    {
+      "@type": "Person",
+      "name": "Hugh Paterson III",
+      "url": "https://hughandbecky.us/Hugh-CV/"
+    },
+    {
+      "@type": "Person",
+      "name": "Rebecca Paterson",
+      "url": "https://hughandbecky.us/Becky-CV/"
+    }
+  ],
+  "makesOffer": {
+    "@type": "AggregateOffer",
+    "name": "Artisan Fruit Spreads",
+    "description": "Small batch jams, jellies, and fruit butters",
+    "lowPrice": "6.00",
+    "highPrice": "15.00",
+    "priceCurrency": "USD",
+    "availability": "https://schema.org/InStock",
+    "url": "https://hughandbecky.us/kids/katja/can-do-it/",
+    "seller": {
+      "@type": "LocalBusiness",
+      "name": "Can Do It - Small Batch Spreads"
+    }
+  }
+}
+</script>
+<!-- Static ProductGroup schemas for validators (dynamically generated ones are added by JS) -->
+<script type="application/ld+json" id="static-product-groups">
+{
+  "@context": "https://schema.org",
+  "@type": "OfferCatalog",
+  "name": "Can Do It - Small Batch Spreads Catalog",
+  "description": "Complete catalog of artisan jams, jellies, and fruit butters available for purchase",
+  "url": "https://hughandbecky.us/kids/katja/can-do-it/",
+  "publisher": {
+    "@type": "LocalBusiness",
+    "name": "Can Do It - Small Batch Spreads",
+    "url": "https://hughandbecky.us/kids/katja/can-do-it/"
+  },
+  "itemListElement": [
+    {
+      "@type": "ProductGroup",
+      "name": "Artisan Jams",
+      "description": "Small batch artisan jams made from fresh fruit",
+      "url": "https://hughandbecky.us/kids/katja/can-do-it/#jams",
+      "sameAs": "https://www.wikidata.org/wiki/Q1269",
+      "brand": {
+        "@type": "Brand",
+        "name": "Can Do It"
+      }
+    },
+    {
+      "@type": "ProductGroup",
+      "name": "Artisan Jellies",
+      "description": "Small batch artisan jellies made from fresh fruit",
+      "url": "https://hughandbecky.us/kids/katja/can-do-it/#jellies",
+      "sameAs": "https://www.wikidata.org/wiki/Q20579575",
+      "brand": {
+        "@type": "Brand",
+        "name": "Can Do It"
+      }
+    },
+    {
+      "@type": "ProductGroup",
+      "name": "Artisan Fruit Butters",
+      "description": "Small batch artisan fruit butters",
+      "url": "https://hughandbecky.us/kids/katja/can-do-it/#butters",
+      "sameAs": "https://www.wikidata.org/wiki/Q259550",
+      "brand": {
+        "@type": "Brand",
+        "name": "Can Do It"
+      }
+    }
+  ]
+}
+</script>
+<!-- Load dynamic product schema generator -->
+<script src="/kids/katja/js/schema-generator.js"></script>
+<script>
+  // Initialize product schema generation on page load
+  if (typeof generateSchema === 'function') {
+    generateSchema();
+  }
 </script>
 
     </div>
@@ -522,43 +623,6 @@
 
     </div>
   </section>
-
-  
-  
-  
-
-  
-
-  
-    
-  
-
-  
-
-  
-
-  
-  
-
-  
-
-  
-  
-
-  
-  
-  
-
-  
-  
-  
-  
-  
-
-  
-  
-
-  
 
   <section id="hero" class="home-section wg-hero dark  " style="background-image: linear-gradient(#4A90E2, #2E5C8A);" >
     <div class="container">
