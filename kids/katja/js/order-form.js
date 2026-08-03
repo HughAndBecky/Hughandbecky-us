@@ -257,12 +257,12 @@ function renderOrderForm() {
         html += '</div>';
     
     html += `
-        <div id="cart-section" class="mt-4" style="display: none;">
+        <div id="cart-section" class="mt-4">
             <h3>Your Order</h3>
             <div id="cart-items" role="list" aria-label="Shopping cart items"></div>
             <div class="alert alert-info mt-3" role="status">
                 <div><strong>Subtotal:</strong> <span id="cart-subtotal" aria-live="polite">$0.00</span></div>
-                <div id="cart-delivery-fee-display" style="display: none;"><strong>Delivery Fee:</strong> <span id="cart-delivery-fee">$5.00</span></div>
+                <div id="cart-delivery-fee-display" style="display: none;"><strong>Delivery Fee (Eugene, Oregon):</strong> <span id="cart-delivery-fee">$5.00</span></div>
                 <div class="mt-2" style="font-size: 1.2em; border-top: 1px solid #ccc; padding-top: 8px;"><strong>Total:</strong> <span id="cart-total" aria-live="polite">$0.00</span></div>
             </div>
             
@@ -404,7 +404,7 @@ function renderOrderForm() {
                     <li>Venmo: <strong><a href="https://venmo.com/u/Hugh-Paterson" target="_blank" rel="noopener noreferrer">@Hugh-Paterson</a></strong></li>
                 </ul>
                 <div style="text-align: center; margin-top: 1rem;">
-                    <img src="/kids/katja/media/venmo/hughpatersonvenmo.png" alt="Venmo QR Code" style="max-width: 200px; border: 1px solid #ddd; border-radius: 8px; padding: 10px; background: white;">
+                    <img src="../media/venmo/hughpatersonvenmo.png" alt="Venmo QR Code" style="max-width: 200px; border: 1px solid #ddd; border-radius: 8px; padding: 10px; background: white;">
                     <p style="font-size: 0.85em; color: #666; margin-top: 0.5rem;">Scan to pay with Venmo</p>
                 </div>
             </div>
@@ -573,18 +573,24 @@ function addToCart(productKey) {
  */
 function updateCartDisplay() {
     const jumpToCartButtons = document.querySelectorAll('.jump-to-cart-btn');
+    const cartSection = document.getElementById('cart-section');
+    const cartItemsDiv = document.getElementById('cart-items');
+    
+    // Always show cart section so anchor links work
+    cartSection.style.display = 'block';
     
     if (cart.length === 0) {
-        document.getElementById('cart-section').style.display = 'none';
         // Hide all "Jump to Cart" buttons when cart is empty
         jumpToCartButtons.forEach(btn => btn.style.display = 'none');
+        // Show empty cart message
+        cartItemsDiv.innerHTML = '<div class="alert alert-secondary text-center"><i class="fas fa-shopping-cart"></i> Your cart is empty</div>';
+        // Update price display to zero
+        updateCartPriceDisplay(0);
         return;
     }
     
     // Show all "Jump to Cart" buttons when cart has items
     jumpToCartButtons.forEach(btn => btn.style.display = 'inline-block');
-    
-    document.getElementById('cart-section').style.display = 'block';
     
     let html = '<table class="table"><thead><tr><th>Product</th><th>Size</th><th>Quantity</th><th>Price</th><th>Action</th></tr></thead><tbody>';
     
@@ -607,7 +613,7 @@ function updateCartDisplay() {
     
     html += '</tbody></table>';
     
-    document.getElementById('cart-items').innerHTML = html;
+    cartItemsDiv.innerHTML = html;
     
     // Update price display
     updateCartPriceDisplay(subtotal);
@@ -803,7 +809,7 @@ async function submitOrder(e) {
             // Show delivery fee if applicable
             const deliveryFeeElement = document.getElementById('delivery-fee-display');
             if (deliveryFee > 0) {
-                deliveryFeeElement.textContent = `Subtotal: $${subtotal.toFixed(2)} + Delivery Fee: $${deliveryFee.toFixed(2)}`;
+                deliveryFeeElement.textContent = `Subtotal: $${subtotal.toFixed(2)} + Delivery Fee (Eugene, Oregon): $${deliveryFee.toFixed(2)}`;
                 deliveryFeeElement.style.display = 'block';
             } else {
                 deliveryFeeElement.style.display = 'none';
