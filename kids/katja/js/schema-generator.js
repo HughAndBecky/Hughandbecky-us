@@ -31,8 +31,8 @@ function getBaseIngredients(fruit, productGenre, alcoholFlavoring) {
   // Standard jam/jelly ingredients
   ingredients.push('Sugar', 'Pectin', 'Lemon Juice');
   
-  // Add alcohol flavoring if present
-  if (alcoholFlavoring && alcoholFlavoring.trim() !== '') {
+  // Add alcohol flavoring if present (exclude "None" and "*None*")
+  if (alcoholFlavoring && alcoholFlavoring.trim() !== '' && alcoholFlavoring.toLowerCase() !== 'none' && alcoholFlavoring !== '*None*') {
     ingredients.push(alcoholFlavoring);
   }
   
@@ -81,7 +81,7 @@ function generateProductSchema(rows) {
     
     // Build product name
     let productName = fruit;
-    if (alcoholFlavoring && alcoholFlavoring.trim() !== '') {
+    if (alcoholFlavoring && alcoholFlavoring.trim() !== '' && alcoholFlavoring.toLowerCase() !== 'none' && alcoholFlavoring !== '*None*') {
       productName += ` ${alcoholFlavoring}`;
     }
     productName += ` ${productGenre}`;
