@@ -240,7 +240,7 @@
             </p>
             <p style="margin-top: 20px; color: #666;">
               <em>Tip: "Custom" flavors are special orders that may not be in our regular inventory. 
-              If you're looking for a custom flavor, please <a href="#contact">contact us</a> directly!</em>
+              If you're looking for a custom flavor, please <a href="can-do-it/#contact">contact us</a> directly!</em>
             </p>
           </div>
         </div>

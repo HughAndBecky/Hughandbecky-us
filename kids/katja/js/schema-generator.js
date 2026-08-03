@@ -167,7 +167,7 @@ function generateProductSchema(rows) {
         '@type': 'Brand',
         'name': 'Can Do It'
       },
-      'recipeIngredient': ingredients,
+      'material': ingredients,
       'offers': offers.length > 1 ? {
         '@type': 'AggregateOffer',
         'offers': offers,
@@ -265,11 +265,6 @@ function injectSchemaMarkup(productsByCategory) {
     'name': 'Can Do It - Small Batch Spreads Catalog',
     'description': 'Complete catalog of artisan jams, jellies, and fruit butters available for purchase',
     'url': 'https://hughandbecky.us/kids/katja/can-do-it/',
-    'publisher': {
-      '@type': 'LocalBusiness',
-      'name': 'Can Do It - Small Batch Spreads',
-      'url': 'https://hughandbecky.us/kids/katja/can-do-it/'
-    },
     'itemListElement': productGroups.map((group, index) => ({
       '@type': 'ListItem',
       'position': index + 1,
@@ -317,6 +312,11 @@ function injectSchemaMarkup(productsByCategory) {
     'name': 'Katja Patersonová',
     'url': 'https://hughandbecky.us/kids/katja/',
     'image': 'https://hughandbecky.us/kids/katja/author/katja-patersonova/avatar_hudf6be4360c3345c61aabf53e6f6a0f23_108409_270x270_fill_q90_lanczos_center.JPG',
+    'sameAs': [
+      'https://swimstandards.com/swimmer/katja-paterson',
+      'https://hugh.thejourneyler.org/tag/katja-patersonova/',
+      'https://www.swimcloud.com/swimmer/3516125/'
+    ],
     'jobTitle': 'Artisan Jam Maker',
     'parent': [
       {
