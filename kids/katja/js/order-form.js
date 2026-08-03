@@ -7,7 +7,7 @@ let inventoryData = {};
 let cart = [];
 
 // Google Apps Script Web App URL (you'll need to create this)
-const APPS_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycby1XY6iUOrell3iX4FVZi5puZSCeb1bCcWlaAotgT4edi9nrv1GhErpJl5Zob7ESR8Z/exec';
+const APPS_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbyTXB2y-tndm3nVNiGtt2rZoPT4YvyqSvqwpdhAchgwGxHjjdmUnYKXOAkTL2gRYZWw/exec';
 
 // Pricing for jar sizes
 const PRICING = {
@@ -135,6 +135,7 @@ function aggregateStock(data) {
             products[productKey] = {
                 name: `${row['Fruit']} ${row['Product Genre']}`,
                 alcohol: row['Alcohol flavoring'] || '',
+                ingredients: row['Other Ingredients'] || '',
                 stock: {
                     '4oz': getStock(row, 'Stock 4oz', '4oz count'),
                     '8oz Wide': getStock(row, 'Stock 8oz Wide', '8oz wide count'),
@@ -181,7 +182,8 @@ function renderOrderForm() {
                 <div class="card order-product-card" role="article" aria-label="${product.name} product">
                     <div class="card-body">
                         <h5 class="card-title">${product.name}</h5>
-                        ${product.alcohol ? `<p class="text-muted small">${product.alcohol}</p>` : ''}
+                        ${product.alcohol && product.alcohol.toLowerCase() !== 'none' && product.alcohol !== '*None*' ? `<p class="text-muted small"><em>${product.alcohol}</em></p>` : ''}
+                        ${product.ingredients ? `<p class="text-muted small">${product.ingredients}</p>` : ''}
                         <div class="size-selection" role="group" aria-label="Select jar size and quantity">
         `;
         
@@ -232,16 +234,17 @@ function renderOrderForm() {
         <div class="col-md-6 mb-4" id="product-full-batch">
             <div class="card order-product-card" role="article" aria-label="Full Batch product">
                 <div class="card-body">
-                    <h5 class="card-title">Full Batch (~64oz)</h5>
-                    <p class="text-muted">A complete batch of any spread flavor</p>
+                    <h5 class="card-title">Full Batch</h5>
+                    <p class="text-muted">A complete batch of any spread flavor (~64oz)</p>
                     <div class="alert alert-info" role="status">
-                        <i class="fas fa-info-circle"></i> <strong>Starting at $65</strong> - Full batch orders require a custom quote based on your flavor selection and any special requests. Final price may vary.
+                        <i class="fas fa-info-circle"></i> <strong>Starting at $65 for ~64oz</strong> - Full batch orders require a custom quote based on your flavor selection and any special requests. Final price may vary.
                     </div>
                     <p class="mb-2"><strong>What you get:</strong></p>
                     <ul class="mb-3">
                         <li>Approximately 64oz of spread</li>
                         <li>Your choice of any available ingredients</li>
                         <li>Custom selection of jar sizes</li>
+                        <li>See the informational note above in the pricing section</li>
                     </ul>
                     <button class="btn btn-primary" onclick="addFullBatchToCart()" aria-label="Add full batch to cart">
                         <i class="fas fa-cart-plus"></i> Add to Cart
@@ -305,7 +308,7 @@ function renderOrderForm() {
                     <select class="form-control" id="delivery-method" aria-required="true" aria-describedby="delivery-help" required>
                         <option value="">-- Select --</option>
                         <option value="Pickup">Pickup (Free)</option>
-                        <option value="Delivery">Local Delivery ($5 Eugene area)</option>
+                        <option value="Delivery">Local Delivery ($5 Eugene, Oregon area)</option>
                         <option value="Special Shipping">Special Arrangement Shipping (Extra Cost - We'll Contact You)</option>
                     </select>
                     <small id="delivery-help" class="text-muted">Standard shipping not available. Local delivery area only.</small>
