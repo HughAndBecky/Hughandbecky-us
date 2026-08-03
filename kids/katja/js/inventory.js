@@ -256,14 +256,6 @@
       const productCard = document.createElement('div');
       productCard.className = `col-lg-3 col-md-4 col-sm-6 product-card ${stockClass}`;
       
-      // Build size breakdown
-      let sizeBreakdown = '';
-      Object.entries(product.inventory).forEach(([size, count]) => {
-        if (count > 0) {
-          sizeBreakdown += `<span class="size-count">${size}: ${count}</span> `;
-        }
-      });
-      
       productCard.innerHTML = `
         <div class="featurette-icon-container">
           <i class="fas fa-3x fa-jar ${stockClass}"></i>
@@ -272,13 +264,12 @@
           ${product.fruit} ${product.genre}
         </div>
         <p class="text-muted">
-          ${product.alcohol ? `<em>${product.alcohol}</em><br>` : ''}
+          ${product.alcohol && product.alcohol.toLowerCase() !== 'none' && product.alcohol !== '*None*' ? `<em>${product.alcohol}</em><br>` : ''}
           ${product.ingredients ? `${product.ingredients}<br>` : ''}
         </p>
         <div class="inventory-status">
           ${inStock ? 
-            `<strong class="text-success">In Stock</strong><br>
-             <small class="size-breakdown">${sizeBreakdown}</small>
+            `<strong class="text-success">In Stock</strong>
              <br><a href="#${productId}" class="btn btn-sm btn-primary" style="margin-top: 10px;">
                <i class="fas fa-shopping-cart"></i> Order Now
              </a>` : 

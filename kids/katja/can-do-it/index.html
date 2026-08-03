@@ -1996,11 +1996,11 @@ function closeCustomOrderModal() {
       <p style="text-align: center; color: #999;"><i class="fas fa-spinner fa-spin"></i> Loading past flavors...</p>
     </div>
     <p style="color: #666; margin-top: 1rem; font-size: 0.95rem;">
-      Each custom batch can be tailored to your taste preferences, dietary needs, and occasion!
+      Each custom batch can be tailored to taste preferences, dietary needs, and occasion!
     </p>
   </div>
   <p style="margin-bottom: 1.5rem; color: #666;">
-    Contact me to discuss custom batches, special flavors.
+    Email to discuss custom batches: special flavors, jar sizes, etc.
   </p>
   <div style="text-align: center;">
     <a href="mailto:katjasfruit.oxidize027@passmail.com" class="btn btn-lg" style="background: #28a745; color: white; padding: 12px 30px; text-decoration: none; border-radius: 6px; display: inline-block;">
@@ -2075,7 +2075,7 @@ function loadCustomBatchCapacityContact() {
       const stock10ozIndex = headers.findIndex(h => h === 'Stock 10oz');
       
       if (stock10ozIndex === -1) {
-        document.getElementById('batchCapacityCountContact').textContent = 'Custom batches available (contact for details)';
+        document.getElementById('batchCapacityCountContact').textContent = 'Custom batches available (Email with ideas).';
         return;
       }
       
@@ -2101,7 +2101,7 @@ function loadCustomBatchCapacityContact() {
     })
     .catch(error => {
       console.error('Error loading batch capacity:', error);
-      document.getElementById('batchCapacityCountContact').textContent = 'Contact for custom batch availability';
+      document.getElementById('batchCapacityCountContact').textContent = 'Contact for custom batch availability.';
     });
 }
 
@@ -2215,6 +2215,18 @@ if (document.readyState === 'loading') {
     <i class="fas fa-check-circle"></i> <span id="batchCapacityCount">Loading...</span>
   </p>
 </div>
+<div style="background: #fff9e6; padding: 15px; border-radius: 6px; margin: 20px 0; border-left: 4px solid #ffc107;">
+  <h4 style="color: #333 !important; margin-top: 0 !important; font-size: 18px !important; font-weight: bold !important; display: block !important;">
+    <i class="fas fa-info-circle"></i> Pricing & Customization
+  </h4>
+  <ul style="color: #555 !important; font-size: 15px !important; line-height: 1.6 !important; margin: 10px 0 0 0 !important; padding-left: 25px !important;">
+    <li style="margin-bottom: 8px !important;">Custom orders vary in price above $65</li>
+    <li style="margin-bottom: 8px !important;">Materials not in the kitchen incur a charge</li>
+    <li style="margin-bottom: 8px !important;">Local customers may choose to provide their own fruit and other ingredients</li>
+    <li style="margin-bottom: 8px !important;">Different scenarios and considerations impact final cost</li>
+    <li style="margin-bottom: 0 !important;"><strong>Custom batches require 1-2 weeks lead time</strong></li>
+  </ul>
+</div>
 <h4 style="color: #333 !important; margin-top: 25px !important; font-size: 18px !important; font-weight: bold !important; display: block !important;">Past Flavor Ideas:</h4>
 <p style="color: #555 !important; margin-bottom: 10px !important; font-size: 16px !important; display: block !important;">Here are some flavors I've made before that might inspire your custom order:</p>
 <div id="pastFlavorsModal" style="max-height: 200px; overflow-y: auto; padding: 15px; background: #f9f9f9; border-radius: 5px; margin-bottom: 15px;">
@@ -2299,7 +2311,7 @@ function loadCustomBatchCapacity() {
       const stock10ozIndex = headers.findIndex(h => h === 'Stock 10oz');
       
       if (stock10ozIndex === -1) {
-        document.getElementById('batchCapacityCount').textContent = 'Custom batches available (contact for details)';
+        document.getElementById('batchCapacityCount').textContent = 'Custom batches available (Email with ideas).';
         return;
       }
       
@@ -2323,7 +2335,7 @@ function loadCustomBatchCapacity() {
     })
     .catch(error => {
       console.error('Error loading batch capacity:', error);
-      document.getElementById('batchCapacityCount').textContent = 'Contact for custom batch availability';
+      document.getElementById('batchCapacityCount').textContent = 'Contact for custom batch availability.';
     });
 }
 
