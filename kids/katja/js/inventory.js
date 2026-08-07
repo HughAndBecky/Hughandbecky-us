@@ -19,7 +19,7 @@
     });
   }
   
-  // Aggregate inventory by product
+  // Aggregate inventory by product (each batch is separate)
   function aggregateInventory(data) {
     const products = {};
     
@@ -27,35 +27,29 @@
       const fruit = row['Fruit'] || '';
       const alcohol = row['Alcohol flavoring'] || '';
       const genre = row['Product Genre'] || '';
+      const batchId = row['BatchID'] || '';
       
-      // Create product key
-      const key = `${fruit} ${genre} (${alcohol})`.trim();
+      // Create unique key using BatchID
+      const key = `batch-${batchId}`;
       
-      if (!products[key]) {
-        products[key] = {
-          fruit: fruit,
-          genre: genre,
-          alcohol: alcohol,
-          ingredients: row['Other Ingredients'] || '',
-          inventory: {
-            '4oz': 0,
-            '8oz-wide': 0,
-            '8oz-regular': 0,
-            '10oz': 0,
-            '12oz': 0,
-            '16oz': 0
-          },
-          totalJars: 0
-        };
-      }
-      
-      // Add inventory counts
-      products[key].inventory['4oz'] += parseInt(row['4oz count']) || 0;
-      products[key].inventory['8oz-wide'] += parseInt(row['8oz wide count']) || 0;
-      products[key].inventory['8oz-regular'] += parseInt(row['8oz regular count']) || 0;
-
-      products[key].inventory['12oz'] += parseInt(row['12oz count']) || 0;
-      products[key].inventory['16oz'] += parseInt(row['16oz count']) || 0;
+      // Each batch is a separate product
+      products[key] = {
+        batchId: batchId,
+        fruit: fruit,
+        genre: genre,
+        alcohol: alcohol,
+        ingredients: row['Other Ingredients'] || '',
+        season: row['Season'] || '',
+        inventory: {
+          '4oz': parseInt(row['4oz count']) || 0,
+          '8oz-wide': parseInt(row['8oz wide count']) || 0,
+          '8oz-regular': parseInt(row['8oz regular count']) || 0,
+          '10oz': parseInt(row['10oz count']) || 0,
+          '12oz': parseInt(row['12oz count']) || 0,
+          '16oz': parseInt(row['16oz count']) || 0
+        },
+        totalJars: 0
+      };
       
       // Calculate total
       products[key].totalJars = Object.values(products[key].inventory).reduce((a, b) => a + b, 0);
@@ -251,7 +245,7 @@
     Object.entries(products).forEach(([name, product]) => {
       const inStock = product.totalJars > 0;
       const stockClass = inStock ? 'in-stock' : 'out-of-stock';
-      const productId = createProductId(product.fruit, product.genre);
+      const productId = createProductId(product.fruit, product.genre, product.batchId);
       
       const productCard = document.createElement('div');
       productCard.className = `col-lg-3 col-md-4 col-sm-6 product-card ${stockClass}`;
