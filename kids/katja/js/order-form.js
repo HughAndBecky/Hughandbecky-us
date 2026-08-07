@@ -7,7 +7,7 @@ let inventoryData = {};
 let cart = [];
 
 // Google Apps Script Web App URL (you'll need to create this)
-const APPS_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbwSqLnUmZK4sMDHE4IRFQz3jR8lw3YV3cnvtM0sAQb-R7qLHkhIdGRpcpbNkNKx2DS0/exec';
+const APPS_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbzCgZyuBcoPprWBsqwcc0gu0vNqrcuLlk3I-YP-Kv3WOzhMs7Jdfcby-uLYRdWE0eNk/exec';
 
 // Pricing for jar sizes
 const PRICING = {
