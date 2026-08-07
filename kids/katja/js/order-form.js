@@ -7,7 +7,7 @@ let inventoryData = {};
 let cart = [];
 
 // Google Apps Script Web App URL (you'll need to create this)
-const APPS_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbyTXB2y-tndm3nVNiGtt2rZoPT4YvyqSvqwpdhAchgwGxHjjdmUnYKXOAkTL2gRYZWw/exec';
+const APPS_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbwSqLnUmZK4sMDHE4IRFQz3jR8lw3YV3cnvtM0sAQb-R7qLHkhIdGRpcpbNkNKx2DS0/exec';
 
 // Pricing for jar sizes
 const PRICING = {
@@ -16,6 +16,8 @@ const PRICING = {
     '8oz Regular': 9.00,
     '12oz': 12.00,
     '16oz': 15.00,
+    '2x8oz': 16.00,  // Classic Duo set
+    '4x4oz': 24.00,  // Taster Flight sets
     '~64oz': 65.00,  // Full batch base price (may vary)
     'Customization': 0.00,  // Full Batch customization fee (TBD)
     'Service': 5.00   // Delivery fee
@@ -118,7 +120,7 @@ function parseTSV(tsv) {
 
 /**
  * Aggregate stock by product
- * Falls back to production columns if stock columns don't exist
+ * Each batch gets its own entry (uses BatchID to keep batches separate)
  */
 function aggregateStock(data) {
     const products = {};
@@ -129,13 +131,18 @@ function aggregateStock(data) {
     };
     
     data.forEach(row => {
-        const productKey = `${row['Fruit']}_${row['Product Genre']}_${row['Alcohol flavoring'] || 'none'}`;
+        // Use BatchID to keep different batches separate
+        // This is important for taster flights - each batch should count as a different variation
+        const batchId = row['BatchID'] || row['Batch ID'] || '';
+        const productKey = batchId || `${row['Fruit']}_${row['Product Genre']}_${row['Alcohol flavoring'] || 'none'}`;
         
         if (!products[productKey]) {
             products[productKey] = {
                 name: `${row['Fruit']} ${row['Product Genre']}`,
-                alcohol: row['Alcohol flavoring'] || '',
+                fruit: row['Fruit'],  // Store fruit separately for easier filtering
+                flavoring: row['Alcohol flavoring'] || '',
                 ingredients: row['Other Ingredients'] || '',
+                batchId: batchId,
                 stock: {
                     '4oz': getStock(row, 'Stock 4oz', '4oz count'),
                     '8oz Wide': getStock(row, 'Stock 8oz Wide', '8oz wide count'),
@@ -182,7 +189,7 @@ function renderOrderForm() {
                 <div class="card order-product-card" role="article" aria-label="${product.name} product">
                     <div class="card-body">
                         <h5 class="card-title">${product.name}</h5>
-                        ${product.alcohol && product.alcohol.toLowerCase() !== 'none' && product.alcohol !== '*None*' ? `<p class="text-muted small"><em>${product.alcohol}</em></p>` : ''}
+                        ${product.flavoring && product.flavoring.toLowerCase() !== 'none' && product.flavoring !== '*None*' ? `<p class="text-muted small"><em>${product.flavoring}</em></p>` : ''}
                         ${product.ingredients ? `<p class="text-muted small">${product.ingredients}</p>` : ''}
                         <div class="size-selection" role="group" aria-label="Select jar size and quantity">
         `;
@@ -229,7 +236,149 @@ function renderOrderForm() {
             </div>
         `;
     }
-        // Add static Full Batch card
+    
+    // Add static Sets cards
+    const tasterFruits = getAvailableFruitTasterFlights();
+    const tasterFlavorings = getAvailableFlavoringTasterFlights();
+    
+    html += `
+        <div class="col-md-6 mb-4" id="product-classic-duo">
+            <div class="card order-product-card" role="article" aria-label="Classic Duo Set">
+                <div class="card-body">
+                    <h5 class="card-title">Duo</h5>
+                    <p class="text-muted">Random pairing of two 8oz jars</p>
+                    <p class="badge badge-info">2 × 8oz - $16.00</p>
+                    <div class="form-group mb-2">
+                        <label for="classic-duo-quantity-order"><strong>Quantity:</strong></label>
+                        <input type="number" id="classic-duo-quantity-order" class="form-control form-control-sm" value="1" min="1" max="10" style="width: 80px;">
+                    </div>
+                    <button class="btn btn-primary" onclick="addClassicDuoToCartFromOrder()" aria-label="Add Classic Duo to cart">
+                        <i class="fas fa-cart-plus"></i> Add to Cart
+                    </button>
+                    <a href="#cart-section" class="btn btn-outline-success ml-2 jump-to-cart-btn" style="display: none;" onclick="trackEvent('Ecommerce', 'view_cart', 'Jump to cart button', 0)">
+                        <i class="fas fa-shopping-cart"></i> View Cart
+                    </a>
+                    <div id="feedback-classic-duo-order" class="cart-feedback mt-2" role="status" aria-live="polite"></div>
+                </div>
+            </div>
+        </div>
+    `;
+    
+    // Show Fruit Taster if available, otherwise show Random Taster Flight
+    if (tasterFruits.length > 0) {
+        html += `
+        <div class="col-md-6 mb-4" id="product-fruit-taster">
+            <div class="card order-product-card" role="article" aria-label="Fruit Taster Flight Set">
+                <div class="card-body">
+                    <h5 class="card-title">Fruit Taster Flight</h5>
+                    <p class="text-muted">Sample 4 different batches of the same fruit</p>
+                    <p class="badge badge-info">4 × 4oz - $24.00</p>
+                    <div class="form-group mb-2">
+                        <label for="fruit-taster-select-order"><strong>Select Fruit:</strong></label>
+                        <select id="fruit-taster-select-order" class="form-control form-control-sm">
+                            <option value="">-- Choose a fruit --</option>
+                        </select>
+                    </div>
+                    <div class="form-group mb-2">
+                        <label for="fruit-taster-quantity-order"><strong>Quantity:</strong></label>
+                        <input type="number" id="fruit-taster-quantity-order" class="form-control form-control-sm" value="1" min="1" max="10" style="width: 80px;">
+                    </div>
+                    <button class="btn btn-primary" onclick="addFruitTasterFlightToCartFromOrder()" aria-label="Add Fruit Taster Flight to cart">
+                        <i class="fas fa-cart-plus"></i> Add to Cart
+                    </button>
+                    <a href="#cart-section" class="btn btn-outline-success ml-2 jump-to-cart-btn" style="display: none;" onclick="trackEvent('Ecommerce', 'view_cart', 'Jump to cart button', 0)">
+                        <i class="fas fa-shopping-cart"></i> View Cart
+                    </a>
+                    <div id="feedback-fruit-taster-flight-order" class="cart-feedback mt-2" role="status" aria-live="polite"></div>
+                </div>
+            </div>
+        </div>
+        `;
+    } else {
+        // Fruit Taster out of stock - show Random Taster Flight instead
+        html += `
+        <div class="col-md-6 mb-4" id="product-random-taster-fruit">
+            <div class="card order-product-card" role="article" aria-label="Random Taster Flight Set">
+                <div class="card-body">
+                    <h5 class="card-title">Random Taster Flight</h5>
+                    <p class="text-muted">4 completely random 4oz jars - a surprise selection!</p>
+                    <p class="badge badge-info">4 × 4oz - $24.00</p>
+                    <div class="form-group mb-2">
+                        <label for="random-taster-quantity-order"><strong>Quantity:</strong></label>
+                        <input type="number" id="random-taster-quantity-order" class="form-control form-control-sm" value="1" min="1" max="10" style="width: 80px;">
+                    </div>
+                    <button class="btn btn-primary" onclick="addRandomTasterFlightToCartFromOrder()" aria-label="Add Random Taster Flight to cart">
+                        <i class="fas fa-cart-plus"></i> Add to Cart
+                    </button>
+                    <a href="#cart-section" class="btn btn-outline-success ml-2 jump-to-cart-btn" style="display: none;" onclick="trackEvent('Ecommerce', 'view_cart', 'Jump to cart button', 0)">
+                        <i class="fas fa-shopping-cart"></i> View Cart
+                    </a>
+                    <div id="feedback-random-taster-flight-order" class="cart-feedback mt-2" role="status" aria-live="polite"></div>
+                </div>
+            </div>
+        </div>
+        `;
+    }
+    
+    // Show Flavoring Taster if available, otherwise show Random Taster Flight (if not already shown)
+    if (tasterFlavorings.length > 0) {
+        html += `
+        <div class="col-md-6 mb-4" id="product-flavoring-taster">
+            <div class="card order-product-card" role="article" aria-label="Flavoring Taster Flight Set">
+                <div class="card-body">
+                    <h5 class="card-title">Flavoring Taster Flight</h5>
+                    <p class="text-muted">Sample 4 different batches with the same accent flavoring</p>
+                    <p class="badge badge-info">4 × 4oz - $24.00</p>
+                    <div class="form-group mb-2">
+                        <label for="flavoring-taster-select-order"><strong>Select Flavoring:</strong></label>
+                        <select id="flavoring-taster-select-order" class="form-control form-control-sm">
+                            <option value="">-- Choose a flavoring --</option>
+                        </select>
+                    </div>
+                    <div class="form-group mb-2">
+                        <label for="flavoring-taster-quantity-order"><strong>Quantity:</strong></label>
+                        <input type="number" id="flavoring-taster-quantity-order" class="form-control form-control-sm" value="1" min="1" max="10" style="width: 80px;">
+                    </div>
+                    <button class="btn btn-primary" onclick="addFlavoringTasterFlightToCartFromOrder()" aria-label="Add Flavoring Taster Flight to cart">
+                        <i class="fas fa-cart-plus"></i> Add to Cart
+                    </button>
+                    <a href="#cart-section" class="btn btn-outline-success ml-2 jump-to-cart-btn" style="display: none;" onclick="trackEvent('Ecommerce', 'view_cart', 'Jump to cart button', 0)">
+                        <i class="fas fa-shopping-cart"></i> View Cart
+                    </a>
+                    <div id="feedback-flavoring-taster-flight-order" class="cart-feedback mt-2" role="status" aria-live="polite"></div>
+                </div>
+            </div>
+        </div>
+        `;
+    } else if (tasterFruits.length > 0) {
+        // Flavoring Taster out of stock but Fruit Taster in stock - show Random Taster Flight
+        html += `
+        <div class="col-md-6 mb-4" id="product-random-taster-flavoring">
+            <div class="card order-product-card" role="article" aria-label="Random Taster Flight Set">
+                <div class="card-body">
+                    <h5 class="card-title">Random Taster Flight</h5>
+                    <p class="text-muted">4 completely random 4oz jars - a surprise selection!</p>
+                    <p class="badge badge-info">4 × 4oz - $24.00</p>
+                    <div class="form-group mb-2">
+                        <label for="random-taster-quantity-order"><strong>Quantity:</strong></label>
+                        <input type="number" id="random-taster-quantity-order" class="form-control form-control-sm" value="1" min="1" max="10" style="width: 80px;">
+                    </div>
+                    <button class="btn btn-primary" onclick="addRandomTasterFlightToCartFromOrder()" aria-label="Add Random Taster Flight to cart">
+                        <i class="fas fa-cart-plus"></i> Add to Cart
+                    </button>
+                    <a href="#cart-section" class="btn btn-outline-success ml-2 jump-to-cart-btn" style="display: none;" onclick="trackEvent('Ecommerce', 'view_cart', 'Jump to cart button', 0)">
+                        <i class="fas fa-shopping-cart"></i> View Cart
+                    </a>
+                    <div id="feedback-random-taster-flight-order" class="cart-feedback mt-2" role="status" aria-live="polite"></div>
+                </div>
+            </div>
+        </div>
+        `;
+    }
+    // Note: If both are out of stock, Random Taster is already shown in place of Fruit Taster
+
+    
+    // Add static Full Batch card
     html += `
         <div class="col-md-6 mb-4" id="product-full-batch">
             <div class="card order-product-card" role="article" aria-label="Full Batch product">
@@ -431,6 +580,168 @@ function renderOrderForm() {
     
     container.innerHTML = html;
     
+    // Populate Sets section dropdowns (if they exist)
+    const fruitSelectSets = document.getElementById('fruit-taster-select-sets');
+    if (fruitSelectSets) {
+        if (tasterFruits.length > 0) {
+            tasterFruits.forEach(fruit => {
+                const option = document.createElement('option');
+                option.value = fruit;
+                option.textContent = fruit;
+                fruitSelectSets.appendChild(option);
+            });
+        } else {
+            // Show out of stock message
+            const option = document.createElement('option');
+            option.value = '';
+            option.textContent = 'Out of Stock';
+            option.disabled = true;
+            fruitSelectSets.appendChild(option);
+            fruitSelectSets.disabled = true;
+            
+            // Hide the add to cart button and quantity input
+            const parentCard = fruitSelectSets.closest('.set-card');
+            if (parentCard) {
+                const fruitButton = parentCard.querySelector('button[onclick*="addFruitTasterFlightToCart"]');
+                if (fruitButton) {
+                    fruitButton.style.display = 'none';
+                }
+                const quantityInput = parentCard.querySelector('#fruit-taster-quantity');
+                if (quantityInput) {
+                    quantityInput.closest('.form-group').style.display = 'none';
+                }
+            }
+        }
+    }
+    
+    const flavoringSelectSets = document.getElementById('flavoring-taster-select-sets');
+    if (flavoringSelectSets) {
+        if (tasterFlavorings.length > 0) {
+            tasterFlavorings.forEach(flavoring => {
+                const option = document.createElement('option');
+                option.value = flavoring;
+                option.textContent = flavoring;
+                flavoringSelectSets.appendChild(option);
+            });
+        } else {
+            // Show out of stock message
+            const option = document.createElement('option');
+            option.value = '';
+            option.textContent = 'Out of Stock';
+            option.disabled = true;
+            flavoringSelectSets.appendChild(option);
+            flavoringSelectSets.disabled = true;
+            
+            // Hide the add to cart button and quantity input
+            const parentCard = flavoringSelectSets.closest('.set-card');
+            if (parentCard) {
+                const flavoringButton = parentCard.querySelector('button[onclick*="addFlavoringTasterFlightToCart"]');
+                if (flavoringButton) {
+                    flavoringButton.style.display = 'none';
+                }
+                const quantityInput = parentCard.querySelector('#flavoring-taster-quantity');
+                if (quantityInput) {
+                    quantityInput.closest('.form-group').style.display = 'none';
+                }
+            }
+        }
+    }
+    
+    // Check Classic Duo availability and hide button if out of stock
+    const classicDuoMax = getAvailableClassicDuoSets();
+    const classicDuoButton = document.querySelector('button[onclick*="addClassicDuoToCart"]');
+    if (classicDuoButton && classicDuoMax === 0) {
+        classicDuoButton.style.display = 'none';
+        const quantityInput = document.getElementById('classic-duo-quantity');
+        if (quantityInput) {
+            quantityInput.closest('.form-group').style.display = 'none';
+        }
+        // Add out of stock message
+        const parentCard = classicDuoButton.closest('.set-card');
+        if (parentCard) {
+            const outOfStockMsg = document.createElement('p');
+            outOfStockMsg.className = 'alert alert-warning';
+            outOfStockMsg.textContent = 'Out of Stock';
+            outOfStockMsg.style.fontSize = '0.9em';
+            outOfStockMsg.style.padding = '8px';
+            outOfStockMsg.style.marginBottom = '0';
+            parentCard.appendChild(outOfStockMsg);
+        }
+    }
+    
+    // Populate dropdowns for order section Sets cards
+    const fruitSelectOrder = document.getElementById('fruit-taster-select-order');
+    if (fruitSelectOrder) {
+        if (tasterFruits.length > 0) {
+            tasterFruits.forEach(fruit => {
+                const option = document.createElement('option');
+                option.value = fruit;
+                option.textContent = fruit;
+                fruitSelectOrder.appendChild(option);
+            });
+        } else {
+            const option = document.createElement('option');
+            option.value = '';
+            option.textContent = 'Out of Stock';
+            option.disabled = true;
+            fruitSelectOrder.appendChild(option);
+            fruitSelectOrder.disabled = true;
+            
+            const parentCard = fruitSelectOrder.closest('.card');
+            if (parentCard) {
+                const fruitButton = parentCard.querySelector('button[onclick*="addFruitTasterFlightToCartFromOrder"]');
+                if (fruitButton) fruitButton.style.display = 'none';
+                const quantityInput = parentCard.querySelector('#fruit-taster-quantity-order');
+                if (quantityInput) quantityInput.closest('.form-group').style.display = 'none';
+            }
+        }
+    }
+    
+    const flavoringSelectOrder = document.getElementById('flavoring-taster-select-order');
+    if (flavoringSelectOrder) {
+        if (tasterFlavorings.length > 0) {
+            tasterFlavorings.forEach(flavoring => {
+                const option = document.createElement('option');
+                option.value = flavoring;
+                option.textContent = flavoring;
+                flavoringSelectOrder.appendChild(option);
+            });
+        } else {
+            const option = document.createElement('option');
+            option.value = '';
+            option.textContent = 'Out of Stock';
+            option.disabled = true;
+            flavoringSelectOrder.appendChild(option);
+            flavoringSelectOrder.disabled = true;
+            
+            const parentCard = flavoringSelectOrder.closest('.card');
+            if (parentCard) {
+                const flavoringButton = parentCard.querySelector('button[onclick*="addFlavoringTasterFlightToCartFromOrder"]');
+                if (flavoringButton) flavoringButton.style.display = 'none';
+                const quantityInput = parentCard.querySelector('#flavoring-taster-quantity-order');
+                if (quantityInput) quantityInput.closest('.form-group').style.display = 'none';
+            }
+        }
+    }
+    
+    // Check Classic Duo availability for order section
+    const classicDuoButtonOrder = document.querySelector('button[onclick*="addClassicDuoToCartFromOrder"]');
+    if (classicDuoButtonOrder && classicDuoMax === 0) {
+        classicDuoButtonOrder.style.display = 'none';
+        const quantityInput = document.getElementById('classic-duo-quantity-order');
+        if (quantityInput) quantityInput.closest('.form-group').style.display = 'none';
+        const parentCard = classicDuoButtonOrder.closest('.card');
+        if (parentCard) {
+            const outOfStockMsg = document.createElement('p');
+            outOfStockMsg.className = 'alert alert-warning';
+            outOfStockMsg.textContent = 'Out of Stock';
+            outOfStockMsg.style.fontSize = '0.9em';
+            outOfStockMsg.style.padding = '8px';
+            outOfStockMsg.style.marginBottom = '0';
+            parentCard.appendChild(outOfStockMsg);
+        }
+    }
+    
     // Attach form submit handler
     document.getElementById('customer-form').addEventListener('submit', submitOrder);
     
@@ -497,6 +808,308 @@ function copyOrderId() {
 }
 
 /**
+ * Get list of fruits that have at least 4 different 4oz variations available
+ */
+function getAvailableFruitTasterFlights() {
+    const fruitCounts = {};
+    
+    Object.keys(inventoryData).forEach(productKey => {
+        const product = inventoryData[productKey];
+        const fruit = product.fruit;
+        
+        if (fruit && product.stock['4oz'] > 0) {
+            if (!fruitCounts[fruit]) {
+                fruitCounts[fruit] = 0;
+            }
+            fruitCounts[fruit]++;
+        }
+    });
+    
+    // Return fruits with at least 4 variations
+    return Object.keys(fruitCounts)
+        .filter(fruit => fruitCounts[fruit] >= 4)
+        .sort();
+}
+
+/**
+ * Get list of accent flavorings that have at least 4 different 4oz variations available
+ */
+function getAvailableFlavoringTasterFlights() {
+    const flavoringCounts = {};
+    
+    Object.keys(inventoryData).forEach(productKey => {
+        const product = inventoryData[productKey];
+        const flavoring = product.flavoring;
+        
+        if (flavoring && flavoring.trim() !== '' && product.stock['4oz'] > 0) {
+            if (!flavoringCounts[flavoring]) {
+                flavoringCounts[flavoring] = 0;
+            }
+            flavoringCounts[flavoring]++;
+        }
+    });
+    
+    // Return flavorings with at least 4 variations
+    return Object.keys(flavoringCounts)
+        .filter(flavoring => flavoringCounts[flavoring] >= 4)
+        .sort();
+}
+
+/**
+ * Calculate maximum Classic Duo sets available (2x 8oz)
+ * Returns the number of complete sets that can be made
+ */
+function getAvailableClassicDuoSets() {
+    let availableJars = [];
+    
+    Object.keys(inventoryData).forEach(productKey => {
+        const product = inventoryData[productKey];
+        const stock8ozWide = product.stock['8oz Wide'] || 0;
+        const stock8ozRegular = product.stock['8oz Regular'] || 0;
+        const total8oz = stock8ozWide + stock8ozRegular;
+        
+        if (total8oz > 0) {
+            availableJars.push(total8oz);
+        }
+    });
+    
+    // Sort descending to use highest stock items first
+    availableJars.sort((a, b) => b - a);
+    
+    // We need at least 2 different jars for a Duo
+    if (availableJars.length < 2) {
+        return 0;
+    }
+    
+    // Maximum sets = min of (sum of all jars / 2, or limited by variety)
+    const totalJars = availableJars.reduce((sum, count) => sum + count, 0);
+    const maxByQuantity = Math.floor(totalJars / 2);
+    
+    // Also limited by needing 2 different varieties
+    const maxByVariety = Math.min(availableJars[0], Math.floor(totalJars / 2));
+    
+    return Math.min(maxByQuantity, maxByVariety);
+}
+
+/**
+ * Calculate maximum Fruit Taster Flight sets available for a specific fruit (4x 4oz)
+ */
+function getAvailableFruitTasterFlightSets(fruit) {
+    if (!fruit) return 0;
+    
+    let variations = [];
+    
+    Object.keys(inventoryData).forEach(productKey => {
+        const product = inventoryData[productKey];
+        
+        // Use stored fruit property
+        if (product.fruit === fruit && product.stock['4oz'] > 0) {
+            variations.push(product.stock['4oz']);
+        }
+    });
+    
+    // Need at least 4 variations
+    if (variations.length < 4) {
+        return 0;
+    }
+    
+    // Sort descending
+    variations.sort((a, b) => b - a);
+    
+    // Maximum sets limited by the 4th most abundant variation
+    // (since we need 4 different jars per set)
+    return variations[3];
+}
+
+/**
+ * Calculate maximum Flavoring Taster Flight sets available for a specific flavoring (4x 4oz)
+ */
+function getAvailableFlavoringTasterFlightSets(flavoring) {
+    if (!flavoring) return 0;
+    
+    let variations = [];
+    
+    Object.keys(inventoryData).forEach(productKey => {
+        const product = inventoryData[productKey];
+        
+        if (product.flavoring === flavoring && product.stock['4oz'] > 0) {
+            variations.push(product.stock['4oz']);
+        }
+    });
+    
+    // Need at least 4 variations
+    if (variations.length < 4) {
+        return 0;
+    }
+    
+    // Sort descending
+    variations.sort((a, b) => b - a);
+    
+    // Maximum sets limited by the 4th most abundant variation
+    return variations[3];
+}
+
+/**
+ * Add Fruit Taster Flight to cart (4x 4oz of same fruit, different variations)
+ */
+function addFruitTasterFlightToCart() {
+    const selectElement = document.getElementById('fruit-taster-select-sets');
+    const selectedFruit = selectElement ? selectElement.value : '';
+    
+    if (!selectedFruit) {
+        showFeedback('fruit-taster-flight', 'Please select a fruit first', 'error');
+        return;
+    }
+    
+    const quantityInput = document.getElementById('fruit-taster-quantity');
+    const quantity = quantityInput ? parseInt(quantityInput.value) || 1 : 1;
+    
+    // Calculate max available sets for this fruit
+    const maxStock = getAvailableFruitTasterFlightSets(selectedFruit);
+    
+    if (maxStock === 0) {
+        showFeedback('fruit-taster-flight', 'This fruit flight is currently out of stock', 'error');
+        return;
+    }
+    
+    // Check if this exact flight is already in cart
+    const existingIndex = cart.findIndex(item => 
+        item.productKey === 'fruit-taster-flight' && item.fruitType === selectedFruit
+    );
+    
+    if (existingIndex >= 0) {
+        const newTotal = cart[existingIndex].quantity + quantity;
+        if (newTotal > maxStock) {
+            showFeedback('fruit-taster-flight', `Only ${maxStock} sets available`, 'error');
+            return;
+        }
+        cart[existingIndex].quantity = newTotal;
+    } else {
+        if (quantity > maxStock) {
+            showFeedback('fruit-taster-flight', `Only ${maxStock} sets available`, 'error');
+            return;
+        }
+        cart.push({
+            productKey: 'fruit-taster-flight',
+            name: `Fruit Taster Flight - ${selectedFruit}`,
+            size: '4x4oz',
+            quantity: quantity,
+            maxStock: maxStock,
+            fruitType: selectedFruit
+        });
+    }
+    
+    trackEvent('Ecommerce', 'add_to_cart', 'Fruit Taster Flight - ' + selectedFruit, 24.00 * quantity);
+    
+    saveCart();
+    updateCartDisplay();
+    showFeedback('fruit-taster-flight', `Added ${quantity} to cart!`, 'success');
+}
+
+/**
+ * Add Flavoring Taster Flight to cart (4x 4oz with same accent flavoring, different fruits)
+ */
+function addFlavoringTasterFlightToCart() {
+    const selectElement = document.getElementById('flavoring-taster-select-sets');
+    const selectedFlavoring = selectElement ? selectElement.value : '';
+    
+    if (!selectedFlavoring) {
+        showFeedback('flavoring-taster-flight', 'Please select a flavoring first', 'error');
+        return;
+    }
+    
+    const quantityInput = document.getElementById('flavoring-taster-quantity');
+    const quantity = quantityInput ? parseInt(quantityInput.value) || 1 : 1;
+    
+    // Calculate max available sets for this flavoring
+    const maxStock = getAvailableFlavoringTasterFlightSets(selectedFlavoring);
+    
+    if (maxStock === 0) {
+        showFeedback('flavoring-taster-flight', 'This flavoring flight is currently out of stock', 'error');
+        return;
+    }
+    
+    // Check if this exact flight is already in cart
+    const existingIndex = cart.findIndex(item => 
+        item.productKey === 'flavoring-taster-flight' && item.flavoringType === selectedFlavoring
+    );
+    
+    if (existingIndex >= 0) {
+        const newTotal = cart[existingIndex].quantity + quantity;
+        if (newTotal > maxStock) {
+            showFeedback('flavoring-taster-flight', `Only ${maxStock} sets available`, 'error');
+            return;
+        }
+        cart[existingIndex].quantity = newTotal;
+    } else {
+        if (quantity > maxStock) {
+            showFeedback('flavoring-taster-flight', `Only ${maxStock} sets available`, 'error');
+            return;
+        }
+        cart.push({
+            productKey: 'flavoring-taster-flight',
+            name: `Flavoring Taster Flight - ${selectedFlavoring}`,
+            size: '4x4oz',
+            quantity: quantity,
+            maxStock: maxStock,
+            flavoringType: selectedFlavoring
+        });
+    }
+    
+    trackEvent('Ecommerce', 'add_to_cart', 'Flavoring Taster Flight - ' + selectedFlavoring, 24.00 * quantity);
+    
+    saveCart();
+    updateCartDisplay();
+    showFeedback('flavoring-taster-flight', `Added ${quantity} to cart!`, 'success');
+}
+
+/**
+ * Add Classic Duo to cart (2x 8oz jars)
+ */
+function addClassicDuoToCart() {
+    const quantityInput = document.getElementById('classic-duo-quantity');
+    const quantity = quantityInput ? parseInt(quantityInput.value) || 1 : 1;
+    
+    // Calculate max available Classic Duo sets
+    const maxStock = getAvailableClassicDuoSets();
+    
+    if (maxStock === 0) {
+        showFeedback('classic-duo', 'Classic Duo is currently out of stock', 'error');
+        return;
+    }
+    
+    // Check if Classic Duo is already in cart
+    const existingIndex = cart.findIndex(item => item.productKey === 'classic-duo-set');
+    
+    if (existingIndex >= 0) {
+        const newTotal = cart[existingIndex].quantity + quantity;
+        if (newTotal > maxStock) {
+            showFeedback('classic-duo', `Only ${maxStock} sets available`, 'error');
+            return;
+        }
+        cart[existingIndex].quantity = newTotal;
+    } else {
+        if (quantity > maxStock) {
+            showFeedback('classic-duo', `Only ${maxStock} sets available`, 'error');
+            return;
+        }
+        cart.push({
+            productKey: 'classic-duo-set',
+            name: 'Classic Duo Set',
+            size: '2x8oz',
+            quantity: quantity,
+            maxStock: maxStock
+        });
+    }
+    
+    trackEvent('Ecommerce', 'add_to_cart', 'Classic Duo Set', 16.00 * quantity);
+    
+    saveCart();
+    updateCartDisplay();
+    showFeedback('classic-duo', `Added ${quantity} to cart!`, 'success');
+}
+
+/**
  * Add Full Batch to cart
  */
 function addFullBatchToCart() {
@@ -523,6 +1136,224 @@ function addFullBatchToCart() {
     saveCart(); // Save to localStorage
     updateCartDisplay();
     showFeedback('full-batch', 'Added to cart!', 'success');
+}
+
+/**
+ * Add Classic Duo to cart from order section
+ */
+function addClassicDuoToCartFromOrder() {
+    const quantityInput = document.getElementById('classic-duo-quantity-order');
+    const quantity = quantityInput ? parseInt(quantityInput.value) || 1 : 1;
+    
+    const maxStock = getAvailableClassicDuoSets();
+    
+    if (maxStock === 0) {
+        showFeedback('classic-duo-order', 'Classic Duo is currently out of stock', 'error');
+        return;
+    }
+    
+    const existingIndex = cart.findIndex(item => item.productKey === 'classic-duo-set');
+    
+    if (existingIndex >= 0) {
+        const newTotal = cart[existingIndex].quantity + quantity;
+        if (newTotal > maxStock) {
+            showFeedback('classic-duo-order', `Only ${maxStock} sets available`, 'error');
+            return;
+        }
+        cart[existingIndex].quantity = newTotal;
+    } else {
+        if (quantity > maxStock) {
+            showFeedback('classic-duo-order', `Only ${maxStock} sets available`, 'error');
+            return;
+        }
+        cart.push({
+            productKey: 'classic-duo-set',
+            name: 'Classic Duo Set',
+            size: '2x8oz',
+            quantity: quantity,
+            maxStock: maxStock
+        });
+    }
+    
+    trackEvent('Ecommerce', 'add_to_cart', 'Classic Duo Set', 16.00 * quantity);
+    
+    saveCart();
+    updateCartDisplay();
+    showFeedback('classic-duo-order', `Added ${quantity} to cart!`, 'success');
+}
+
+/**
+ * Add Fruit Taster Flight to cart from order section
+ */
+function addFruitTasterFlightToCartFromOrder() {
+    const selectElement = document.getElementById('fruit-taster-select-order');
+    const selectedFruit = selectElement ? selectElement.value : '';
+    
+    if (!selectedFruit) {
+        showFeedback('fruit-taster-flight-order', 'Please select a fruit first', 'error');
+        return;
+    }
+    
+    const quantityInput = document.getElementById('fruit-taster-quantity-order');
+    const quantity = quantityInput ? parseInt(quantityInput.value) || 1 : 1;
+    
+    const maxStock = getAvailableFruitTasterFlightSets(selectedFruit);
+    
+    if (maxStock === 0) {
+        showFeedback('fruit-taster-flight-order', 'This fruit flight is currently out of stock', 'error');
+        return;
+    }
+    
+    const existingIndex = cart.findIndex(item => 
+        item.productKey === 'fruit-taster-flight' && item.fruitType === selectedFruit
+    );
+    
+    if (existingIndex >= 0) {
+        const newTotal = cart[existingIndex].quantity + quantity;
+        if (newTotal > maxStock) {
+            showFeedback('fruit-taster-flight-order', `Only ${maxStock} sets available`, 'error');
+            return;
+        }
+        cart[existingIndex].quantity = newTotal;
+    } else {
+        if (quantity > maxStock) {
+            showFeedback('fruit-taster-flight-order', `Only ${maxStock} sets available`, 'error');
+            return;
+        }
+        cart.push({
+            productKey: 'fruit-taster-flight',
+            name: `Fruit Taster Flight - ${selectedFruit}`,
+            size: '4x4oz',
+            quantity: quantity,
+            maxStock: maxStock,
+            fruitType: selectedFruit
+        });
+    }
+    
+    trackEvent('Ecommerce', 'add_to_cart', 'Fruit Taster Flight - ' + selectedFruit, 24.00 * quantity);
+    
+    saveCart();
+    updateCartDisplay();
+    showFeedback('fruit-taster-flight-order', `Added ${quantity} to cart!`, 'success');
+}
+
+/**
+ * Add Flavoring Taster Flight to cart from order section
+ */
+function addFlavoringTasterFlightToCartFromOrder() {
+    const selectElement = document.getElementById('flavoring-taster-select-order');
+    const selectedFlavoring = selectElement ? selectElement.value : '';
+    
+    if (!selectedFlavoring) {
+        showFeedback('flavoring-taster-flight-order', 'Please select a flavoring first', 'error');
+        return;
+    }
+    
+    const quantityInput = document.getElementById('flavoring-taster-quantity-order');
+    const quantity = quantityInput ? parseInt(quantityInput.value) || 1 : 1;
+    
+    const maxStock = getAvailableFlavoringTasterFlightSets(selectedFlavoring);
+    
+    if (maxStock === 0) {
+        showFeedback('flavoring-taster-flight-order', 'This flavoring flight is currently out of stock', 'error');
+        return;
+    }
+    
+    const existingIndex = cart.findIndex(item => 
+        item.productKey === 'flavoring-taster-flight' && item.flavoringType === selectedFlavoring
+    );
+    
+    if (existingIndex >= 0) {
+        const newTotal = cart[existingIndex].quantity + quantity;
+        if (newTotal > maxStock) {
+            showFeedback('flavoring-taster-flight-order', `Only ${maxStock} sets available`, 'error');
+            return;
+        }
+        cart[existingIndex].quantity = newTotal;
+    } else {
+        if (quantity > maxStock) {
+            showFeedback('flavoring-taster-flight-order', `Only ${maxStock} sets available`, 'error');
+            return;
+        }
+        cart.push({
+            productKey: 'flavoring-taster-flight',
+            name: `Flavoring Taster Flight - ${selectedFlavoring}`,
+            size: '4x4oz',
+            quantity: quantity,
+            maxStock: maxStock,
+            flavoringType: selectedFlavoring
+        });
+    }
+    
+    trackEvent('Ecommerce', 'add_to_cart', 'Flavoring Taster Flight - ' + selectedFlavoring, 24.00 * quantity);
+    
+    saveCart();
+    updateCartDisplay();
+    showFeedback('flavoring-taster-flight-order', `Added ${quantity} to cart!`, 'success');
+}
+
+/**
+ * Calculate maximum Random Taster Flight sets available (4x 4oz completely random)
+ */
+function getAvailableRandomTasterFlightSets() {
+    let stockCounts = [];
+    
+    Object.keys(inventoryData).forEach(productKey => {
+        const product = inventoryData[productKey];
+        if (product.stock['4oz'] > 0) {
+            stockCounts.push(product.stock['4oz']);
+        }
+    });
+    
+    if (stockCounts.length < 4) return 0;
+    
+    // Sort to find the 4th most abundant (limiting factor)
+    stockCounts.sort((a, b) => b - a);
+    return stockCounts[3];
+}
+
+/**
+ * Add Random Taster Flight to cart from order section (4x 4oz completely random)
+ */
+function addRandomTasterFlightToCartFromOrder() {
+    const quantityInput = document.getElementById('random-taster-quantity-order');
+    const quantity = quantityInput ? parseInt(quantityInput.value) || 1 : 1;
+    
+    const maxStock = getAvailableRandomTasterFlightSets();
+    
+    if (maxStock === 0) {
+        showFeedback('random-taster-flight-order', 'Random Taster Flight is currently out of stock', 'error');
+        return;
+    }
+    
+    const existingIndex = cart.findIndex(item => item.productKey === 'random-taster-flight');
+    
+    if (existingIndex >= 0) {
+        const newTotal = cart[existingIndex].quantity + quantity;
+        if (newTotal > maxStock) {
+            showFeedback('random-taster-flight-order', `Only ${maxStock} sets available`, 'error');
+            return;
+        }
+        cart[existingIndex].quantity = newTotal;
+    } else {
+        if (quantity > maxStock) {
+            showFeedback('random-taster-flight-order', `Only ${maxStock} sets available`, 'error');
+            return;
+        }
+        cart.push({
+            productKey: 'random-taster-flight',
+            name: 'Random Taster Flight',
+            size: '4x4oz',
+            quantity: quantity,
+            maxStock: maxStock
+        });
+    }
+    
+    trackEvent('Ecommerce', 'add_to_cart', 'Random Taster Flight', 24.00 * quantity);
+    
+    saveCart();
+    updateCartDisplay();
+    showFeedback('random-taster-flight-order', `Added ${quantity} to cart!`, 'success');
 }
 
 /**
@@ -603,13 +1434,25 @@ function updateCartDisplay() {
         const itemTotal = price * item.quantity;
         subtotal += itemTotal;
         
+        // Determine max quantity based on item type
+        let maxQty = item.maxStock || 999;
+        
         html += `
             <tr>
                 <td>${item.name}</td>
                 <td>${item.size}</td>
-                <td>${item.quantity}</td>
+                <td>
+                    <input type="number" 
+                           class="form-control form-control-sm" 
+                           style="width: 80px; display: inline-block;" 
+                           value="${item.quantity}" 
+                           min="1" 
+                           max="${maxQty}" 
+                           onchange="updateCartQuantity(${index}, this.value)" 
+                           aria-label="Quantity for ${item.name}">
+                </td>
                 <td>$${itemTotal.toFixed(2)}</td>
-                <td><button class="btn btn-sm btn-danger" onclick="removeFromCart(${index})"><i class="fas fa-trash"></i></button></td>
+                <td><button class="btn btn-sm btn-danger" onclick="removeFromCart(${index})" aria-label="Remove ${item.name}"><i class="fas fa-trash"></i></button></td>
             </tr>
         `;
     });
@@ -648,6 +1491,27 @@ function updateCartPriceDisplay(subtotal) {
     } else {
         deliveryFeeDisplay.style.display = 'none';
     }
+}
+
+/**
+ * Update quantity of item in cart
+ */
+function updateCartQuantity(index, newQuantity) {
+    const qty = parseInt(newQuantity);
+    
+    if (isNaN(qty) || qty < 1) {
+        // Invalid quantity, reset to 1
+        cart[index].quantity = 1;
+    } else if (cart[index].maxStock && qty > cart[index].maxStock) {
+        // Exceeds max stock, cap at max
+        cart[index].quantity = cart[index].maxStock;
+    } else {
+        cart[index].quantity = qty;
+    }
+    
+    saveCart();
+    updateCartDisplay();
+    trackEvent('Ecommerce', 'update_cart_quantity', cart[index].name, qty);
 }
 
 /**
@@ -721,6 +1585,231 @@ function getFormattedAddress() {
 }
 
 /**
+ * Randomly select products for Classic Duo set (2x 8oz)
+ * Returns array of 2 different 8oz product items
+ */
+function expandClassicDuoSet(quantity) {
+    const available8oz = [];
+    
+    // Collect all available 8oz products
+    Object.keys(inventoryData).forEach(productKey => {
+        const product = inventoryData[productKey];
+        const stock8ozWide = product.stock['8oz Wide'] || 0;
+        const stock8ozRegular = product.stock['8oz Regular'] || 0;
+        
+        if (stock8ozWide > 0) {
+            available8oz.push({
+                productKey: productKey,
+                name: product.name,
+                size: '8oz Wide',
+                stock: stock8ozWide
+            });
+        }
+        if (stock8ozRegular > 0) {
+            available8oz.push({
+                productKey: productKey,
+                name: product.name,
+                size: '8oz Regular',
+                stock: stock8ozRegular
+            });
+        }
+    });
+    
+    // Shuffle array for randomness
+    for (let i = available8oz.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [available8oz[i], available8oz[j]] = [available8oz[j], available8oz[i]];
+    }
+    
+    // For each set, pick 2 different products
+    const expandedItems = [];
+    for (let set = 0; set < quantity; set++) {
+        // Pick first jar
+        if (available8oz.length > 0) {
+            expandedItems.push({
+                productKey: available8oz[0].productKey,
+                name: available8oz[0].name,
+                size: available8oz[0].size,
+                quantity: 1
+            });
+        }
+        // Pick second jar (different from first)
+        if (available8oz.length > 1) {
+            expandedItems.push({
+                productKey: available8oz[1].productKey,
+                name: available8oz[1].name,
+                size: available8oz[1].size,
+                quantity: 1
+            });
+        }
+    }
+    
+    return expandedItems;
+}
+
+/**
+ * Randomly select products for Fruit Taster Flight set (4x 4oz of same fruit)
+ * Returns array of 4 different 4oz product items
+ */
+function expandFruitTasterFlightSet(fruit, quantity) {
+    const available4oz = [];
+    
+    // Collect all available 4oz products for this fruit
+    Object.keys(inventoryData).forEach(productKey => {
+        const product = inventoryData[productKey];
+        
+        // Use stored fruit property
+        if (product.fruit === fruit && product.stock['4oz'] > 0) {
+            available4oz.push({
+                productKey: productKey,
+                name: product.name,
+                size: '4oz',
+                stock: product.stock['4oz']
+            });
+        }
+    });
+    
+    // Shuffle array for randomness
+    for (let i = available4oz.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [available4oz[i], available4oz[j]] = [available4oz[j], available4oz[i]];
+    }
+    
+    // For each set, pick 4 different products
+    const expandedItems = [];
+    for (let set = 0; set < quantity; set++) {
+        for (let i = 0; i < 4 && i < available4oz.length; i++) {
+            expandedItems.push({
+                productKey: available4oz[i].productKey,
+                name: available4oz[i].name,
+                size: available4oz[i].size,
+                quantity: 1
+            });
+        }
+    }
+    
+    return expandedItems;
+}
+
+/**
+ * Randomly select products for Flavoring Taster Flight set (4x 4oz with same flavoring)
+ * Returns array of 4 different 4oz product items
+ */
+function expandFlavoringTasterFlightSet(flavoring, quantity) {
+    const available4oz = [];
+    
+    // Collect all available 4oz products with this flavoring
+    Object.keys(inventoryData).forEach(productKey => {
+        const product = inventoryData[productKey];
+        
+        if (product.flavoring === flavoring && product.stock['4oz'] > 0) {
+            available4oz.push({
+                productKey: productKey,
+                name: product.name,
+                size: '4oz',
+                stock: product.stock['4oz']
+            });
+        }
+    });
+    
+    // Shuffle array for randomness
+    for (let i = available4oz.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [available4oz[i], available4oz[j]] = [available4oz[j], available4oz[i]];
+    }
+    
+    // For each set, pick 4 different products
+    const expandedItems = [];
+    for (let set = 0; set < quantity; set++) {
+        for (let i = 0; i < 4 && i < available4oz.length; i++) {
+            expandedItems.push({
+                productKey: available4oz[i].productKey,
+                name: available4oz[i].name,
+                size: available4oz[i].size,
+                quantity: 1
+            });
+        }
+    }
+    
+    return expandedItems;
+}
+
+/**
+ * Expand Random Taster Flight set into 4 completely random 4oz jars
+ */
+function expandRandomTasterFlightSet(quantity) {
+    const available4oz = [];
+    
+    // Collect all available 4oz products
+    Object.keys(inventoryData).forEach(productKey => {
+        const product = inventoryData[productKey];
+        
+        if (product.stock['4oz'] > 0) {
+            available4oz.push({
+                productKey: productKey,
+                name: product.name,
+                size: '4oz',
+                stock: product.stock['4oz']
+            });
+        }
+    });
+    
+    // Shuffle array for randomness
+    for (let i = available4oz.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [available4oz[i], available4oz[j]] = [available4oz[j], available4oz[i]];
+    }
+    
+    // For each set, pick 4 different products
+    const expandedItems = [];
+    for (let set = 0; set < quantity; set++) {
+        for (let i = 0; i < 4 && i < available4oz.length; i++) {
+            expandedItems.push({
+                productKey: available4oz[i].productKey,
+                name: available4oz[i].name,
+                size: available4oz[i].size,
+                quantity: 1
+            });
+        }
+    }
+    
+    return expandedItems;
+}
+
+/**
+ * Expand all set items in cart into individual products for order submission
+ * Returns a new array with sets replaced by actual products
+ */
+function expandSetsForOrder(cartItems) {
+    const expandedItems = [];
+    
+    cartItems.forEach(item => {
+        if (item.productKey === 'classic-duo-set') {
+            // Expand Classic Duo into 2 random 8oz jars
+            const duoItems = expandClassicDuoSet(item.quantity);
+            expandedItems.push(...duoItems);
+        } else if (item.productKey === 'fruit-taster-flight') {
+            // Expand Fruit Taster Flight into 4 random 4oz jars of the selected fruit
+            const flightItems = expandFruitTasterFlightSet(item.fruitType, item.quantity);
+            expandedItems.push(...flightItems);
+        } else if (item.productKey === 'flavoring-taster-flight') {
+            // Expand Flavoring Taster Flight into 4 random 4oz jars with the selected flavoring
+            const flightItems = expandFlavoringTasterFlightSet(item.flavoringType, item.quantity);
+            expandedItems.push(...flightItems);
+        } else if (item.productKey === 'random-taster-flight') {
+            // Expand Random Taster Flight into 4 completely random 4oz jars
+            const flightItems = expandRandomTasterFlightSet(item.quantity);
+            expandedItems.push(...flightItems);
+        } else {
+            // Regular item, keep as-is
+            expandedItems.push(item);
+        }
+    });
+    
+    return expandedItems;
+}
+
+/**
  * Submit order to Google Apps Script backend
  */
 async function submitOrder(e) {
@@ -760,8 +1849,11 @@ async function submitOrder(e) {
     const deliveryFee = document.getElementById('delivery-method').value === 'Delivery' ? 5.00 : 0;
     const total = subtotal + deliveryFee;
     
-    // Clone cart and add delivery fee as line item if applicable
-    const orderItems = [...cart];
+    // Expand sets into individual products for backend inventory management
+    const expandedCart = expandSetsForOrder(cart);
+    
+    // Clone expanded cart and add delivery fee as line item if applicable
+    const orderItems = [...expandedCart];
     if (deliveryFee > 0) {
         orderItems.push({
             productKey: 'delivery-fee',
