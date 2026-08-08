@@ -669,7 +669,7 @@ function renderOrderForm() {
                 </div>
                 <div class="form-group">
                     <label for="order-notes">Notes</label>
-                    <textarea class="form-control" id="order-notes" rows="3" aria-label="Order notes or special requests"></textarea>
+                    <textarea class="form-control" id="order-notes" rows="3" aria-label="Order notes or special requests" placeholder="Add special requests, flavor preferences, delivery instructions, dietary restrictions, etc."></textarea>
                 </div>
                 
                 <button type="submit" class="btn btn-success btn-lg" aria-label="Submit your order">
