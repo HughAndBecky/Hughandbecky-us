@@ -1381,6 +1381,7 @@ function addToCart(productKey) {
                     name: product.name,
                     size,
                     quantity,
+                    batchId: product.batchId || productKey,
                     maxStock: parseInt(input.dataset.max)
                 });
             }
@@ -1630,7 +1631,8 @@ function expandClassicDuoSet(quantity) {
                 productKey: available8oz[0].productKey,
                 name: available8oz[0].name,
                 size: available8oz[0].size,
-                quantity: 1
+                quantity: 1,
+                batchId: inventoryData[available8oz[0].productKey].batchId || available8oz[0].productKey
             });
         }
         // Pick second jar (different from first)
@@ -1639,7 +1641,8 @@ function expandClassicDuoSet(quantity) {
                 productKey: available8oz[1].productKey,
                 name: available8oz[1].name,
                 size: available8oz[1].size,
-                quantity: 1
+                quantity: 1,
+                batchId: inventoryData[available8oz[1].productKey].batchId || available8oz[1].productKey
             });
         }
     }
@@ -1683,7 +1686,8 @@ function expandFruitTasterFlightSet(fruit, quantity) {
                 productKey: available4oz[i].productKey,
                 name: available4oz[i].name,
                 size: available4oz[i].size,
-                quantity: 1
+                quantity: 1,
+                batchId: inventoryData[available4oz[i].productKey].batchId || available4oz[i].productKey
             });
         }
     }
@@ -1726,7 +1730,8 @@ function expandFlavoringTasterFlightSet(flavoring, quantity) {
                 productKey: available4oz[i].productKey,
                 name: available4oz[i].name,
                 size: available4oz[i].size,
-                quantity: 1
+                quantity: 1,
+                batchId: inventoryData[available4oz[i].productKey].batchId || available4oz[i].productKey
             });
         }
     }
@@ -1768,7 +1773,8 @@ function expandRandomTasterFlightSet(quantity) {
                 productKey: available4oz[i].productKey,
                 name: available4oz[i].name,
                 size: available4oz[i].size,
-                quantity: 1
+                quantity: 1,
+                batchId: inventoryData[available4oz[i].productKey].batchId || available4oz[i].productKey
             });
         }
     }
