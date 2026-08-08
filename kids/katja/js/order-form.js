@@ -2889,9 +2889,18 @@ function renderDecisionTreeStep() {
                     </p>
                 </div>
                 
-                <a href="mailto:katjasfruit.oxidize027@passmail.com" class="btn btn-lg btn-success mb-2">
-                    <i class="fas fa-envelope"></i> Email to Order Custom Batch
+                <button class="btn btn-lg btn-primary mb-2" onclick="addFullBatchToCart()" aria-label="Add full batch to cart">
+                    <i class="fas fa-cart-plus"></i> Add to Cart ($65 base price)
+                </button>
+                <br>
+                <a href="mailto:katjasfruit.oxidize027@passmail.com" class="btn btn-lg btn-outline-success mb-2">
+                    <i class="fas fa-envelope"></i> Email for Custom Quote
                 </a>
+                <br>
+                <a href="#cart-section" class="btn btn-lg btn-outline-success mb-2 jump-to-cart-btn" style="display: none;" onclick="trackEvent('Ecommerce', 'view_cart', 'Jump to cart button', 0)">
+                    <i class="fas fa-shopping-cart"></i> View Cart
+                </a>
+                <div id="feedback-full-batch-dt" class="cart-feedback mt-2" role="status" aria-live="polite"></div>
                 <br>
                 <button class="btn btn-lg btn-outline-primary" onclick="resetDecisionTree();">
                     <i class="fas fa-arrow-left"></i> Back to Main Menu
