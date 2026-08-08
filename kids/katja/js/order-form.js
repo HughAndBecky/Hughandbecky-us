@@ -94,6 +94,19 @@ async function loadInventoryForOrders() {
         
         // Load saved cart from localStorage
         loadCart();
+        
+        // Handle hash navigation from product links
+        handleHashNavigation();
+        
+        // Initialize decision tree history state
+        if (!window.location.hash.startsWith('#decision-tree-step-')) {
+            const historyState = {
+                decisionTree: true,
+                step: 0,
+                selections: {}
+            };
+            history.replaceState(historyState, '', window.location.href.split('#')[0] + '#decision-tree-step-0');
+        }
     } catch (error) {
         console.error('Error loading inventory:', error);
         document.getElementById('order-form-container').innerHTML = 
@@ -140,6 +153,7 @@ function aggregateStock(data) {
             products[productKey] = {
                 name: `${row['Fruit']} ${row['Product Genre']}`,
                 fruit: row['Fruit'],  // Store fruit separately for easier filtering
+                genre: row['Product Genre'] || '',  // Store genre (spread type) separately
                 flavoring: row['Alcohol flavoring'] || '',
                 ingredients: row['Other Ingredients'] || '',
                 batchId: batchId,
@@ -172,36 +186,166 @@ function createProductId(productName) {
 function renderOrderForm() {
     const container = document.getElementById('order-form-container');
     
-    let html = '<div class="row">';
+    let html = '';
     
-    for (const [key, product] of Object.entries(inventoryData)) {
-        // Skip Full Batch - it has its own static card
-        if (product.name && product.name.toLowerCase().includes('full batch')) continue;
-        
+    // Add Decision Tree UI (Experimental)
+    html += renderDecisionTree();
+    
+    // Add toggle button for view mode
+    html += `
+        <div class="text-center mb-4">
+            <button id="toggle-view-mode" class="btn btn-outline-primary" onclick="toggleViewMode()">
+                <i class="fas fa-th"></i> <span id="view-mode-text">Switch to Browse All View</span>
+            </button>
+        </div>
+    `;
+    
+    html += '<div id="browse-all-section" style="display: none;">';
+    
+    // Add Filter Controls
+    html += `
+        <div class="inventory-filters" style="margin-bottom: 30px;">
+            <div class="row">
+                <div class="col-md-9">
+                    <div class="row">
+                        <div class="col-md-4">
+                            <label for="filter-fruit-browse">Fruit:</label>
+                            <select id="filter-fruit-browse" class="form-control filter-select">
+                                <option value="">All Fruits</option>
+                            </select>
+                        </div>
+                        <div class="col-md-4">
+                            <label for="filter-genre-browse">Spread Type:</label>
+                            <select id="filter-genre-browse" class="form-control filter-select">
+                                <option value="">All Types</option>
+                            </select>
+                        </div>
+                        <div class="col-md-4">
+                            <label for="filter-alcohol-browse">Flavoring:</label>
+                            <select id="filter-alcohol-browse" class="form-control filter-select">
+                                <option value="">All Flavorings</option>
+                            </select>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-3">
+                    <label for="filter-size-browse">Jar Size:</label>
+                    <select id="filter-size-browse" class="form-control filter-select">
+                        <option value="">All Sizes</option>
+                        <option value="4oz">4oz</option>
+                        <option value="8oz-wide">8oz Wide</option>
+                        <option value="8oz-regular">8oz Regular</option>
+                        <option value="12oz">12oz</option>
+                        <option value="16oz">16oz</option>
+                    </select>
+                </div>
+            </div>
+            <div class="row" style="margin-top: 15px;">
+                <div class="col-12">
+                    <button id="reset-filters-browse" class="btn btn-sm btn-secondary" onclick="resetBrowseFilters()">
+                        <i class="fas fa-redo"></i> Reset Filters
+                    </button>
+                    <span id="filter-results-browse" class="ml-3 text-muted"></span>
+                </div>
+            </div>
+        </div>
+    `;
+    
+    html += '<div class="row" id="browse-products-container">';
+    
+    // Sort products: by fruit, then pure (no flavoring/ingredients), then by flavoring, then by ingredients
+    const sortedProducts = Object.entries(inventoryData)
+        .filter(([key, product]) => {
+            // Skip Full Batch - it has its own static card
+            if (product.name && product.name.toLowerCase().includes('full batch')) return false;
+            // Include all other products (both in-stock and out-of-stock)
+            return true;
+        })
+        .sort(([keyA, productA], [keyB, productB]) => {
+            // First sort by fruit name
+            const fruitCompare = (productA.fruit || '').localeCompare(productB.fruit || '');
+            if (fruitCompare !== 0) return fruitCompare;
+            
+            // Normalize flavoring (treat empty, 'none', '*None*' as no flavoring)
+            const hasFlavoringA = productA.flavoring && 
+                                  productA.flavoring.trim() !== '' && 
+                                  productA.flavoring.toLowerCase() !== 'none' && 
+                                  productA.flavoring !== '*None*';
+            const hasFlavoringB = productB.flavoring && 
+                                  productB.flavoring.trim() !== '' && 
+                                  productB.flavoring.toLowerCase() !== 'none' && 
+                                  productB.flavoring !== '*None*';
+            
+            const hasIngredientsA = productA.ingredients && productA.ingredients.trim() !== '';
+            const hasIngredientsB = productB.ingredients && productB.ingredients.trim() !== '';
+            
+            // Categorize products
+            // Category 0: Pure (no flavoring, no ingredients)
+            // Category 1: Ingredients only (no flavoring, has ingredients)
+            // Category 2: Has flavoring
+            const categoryA = !hasFlavoringA && !hasIngredientsA ? 0 :
+                             !hasFlavoringA && hasIngredientsA ? 1 : 2;
+            const categoryB = !hasFlavoringB && !hasIngredientsB ? 0 :
+                             !hasFlavoringB && hasIngredientsB ? 1 : 2;
+            
+            if (categoryA !== categoryB) return categoryA - categoryB;
+            
+            // Within same category, sort by flavoring (if has flavoring)
+            if (categoryA === 2) {
+                const flavoringCompare = (productA.flavoring || '').localeCompare(productB.flavoring || '');
+                if (flavoringCompare !== 0) return flavoringCompare;
+            }
+            
+            // Finally sort by ingredients
+            return (productA.ingredients || '').localeCompare(productB.ingredients || '');
+        });
+    
+    for (const [key, product] of sortedProducts) {
         const hasStock = Object.values(product.stock).some(qty => qty > 0);
-        
-        if (!hasStock) continue; // Skip out-of-stock items
-        
         const productId = createProductId(product.name);
+        const availableSizes = Object.entries(product.stock)
+            .filter(([size, qty]) => qty > 0)
+            .map(([size]) => size)
+            .join(',');
+        
+        const stockClass = hasStock ? 'in-stock' : 'out-of-stock';
         
         html += `
-            <div class="col-md-6 mb-4" id="${productId}">
-                <div class="card order-product-card" role="article" aria-label="${product.name} product">
+            <div class="col-md-6 mb-4" id="${productId}"
+                 data-fruit="${product.fruit || ''}"
+                 data-genre="${product.genre || ''}"
+                 data-flavoring="${product.flavoring || ''}"
+                 data-ingredients="${product.ingredients || ''}"
+                 data-sizes="${availableSizes}"
+                 data-stock-status="${stockClass}">
+                <div class="card order-product-card ${!hasStock ? 'border-secondary' : ''}" role="article" aria-label="${product.name} product"${!hasStock ? ' style="opacity: 0.6;"' : ''}>
                     <div class="card-body">
-                        <h5 class="card-title">${product.name}</h5>
+                        <h5 class="card-title">${product.name}${!hasStock ? ' <span class="badge badge-secondary ml-2">Out of Stock</span>' : ''}</h5>
                         ${product.flavoring && product.flavoring.toLowerCase() !== 'none' && product.flavoring !== '*None*' ? `<p class="text-muted small"><em>${product.flavoring}</em></p>` : ''}
                         ${product.ingredients ? `<p class="text-muted small">${product.ingredients}</p>` : ''}
+        `;
+        
+        if (!hasStock) {
+            // Out of stock - show message instead of size selection
+            html += `
+                        <div class="alert alert-danger" role="status">
+                            <i class="fas fa-exclamation-triangle"></i> <strong>Out of Stock</strong>
+                        </div>
+            `;
+        } else {
+            // In stock - show size selection
+            html += `
                         <div class="size-selection" role="group" aria-label="Select jar size and quantity">
         `;
         
-        // Add size options
-        for (const [size, qty] of Object.entries(product.stock)) {
-            if (qty > 0) {
-                html += `
-                    <div class="form-group row align-items-center mb-2">
-                        <label class="col-sm-3 col-form-label" for="${key}_${size}">${size}</label>
-                        <div class="col-sm-5">
-                            <input type="number" 
+            // Add size options for in-stock items
+            for (const [size, qty] of Object.entries(product.stock)) {
+                if (qty > 0) {
+                    html += `
+                        <div class="form-group row align-items-center mb-2">
+                            <label class="col-sm-3 col-form-label" for="${key}_${size}">${size}</label>
+                            <div class="col-sm-5">
+                                <input type="number" 
                                    class="form-control form-control-sm" 
                                    id="${key}_${size}"
                                    min="0" 
@@ -217,20 +361,25 @@ function renderOrderForm() {
                         <div class="col-sm-4">
                             <small id="${key}_${size}_stock" class="text-success">${qty} available</small>
                         </div>
-                    </div>
-                `;
+                        </div>
+                    `;
+                }
             }
+            
+            // Close size-selection and add buttons for in-stock items
+            html += `
+                            </div>
+                            <button class="btn btn-sm btn-primary mt-2" onclick="addToCart('${key}')" aria-label="Add ${product.name} to cart">
+                                <i class="fas fa-cart-plus" aria-hidden="true"></i> Add to Cart
+                            </button>
+                            <a href="#cart-section" class="btn btn-sm btn-outline-success mt-2 ml-2 jump-to-cart-btn" style="display: none;" onclick="trackEvent('Ecommerce', 'view_cart', 'Jump to cart button', 0)">
+                                <i class="fas fa-shopping-cart" aria-hidden="true"></i> View Cart
+                            </a>
+                            <div id="feedback-${key}" class="cart-feedback mt-2" role="status" aria-live="polite"></div>
+            `;
         }
         
         html += `
-                        </div>
-                        <button class="btn btn-sm btn-primary mt-2" onclick="addToCart('${key}')" aria-label="Add ${product.name} to cart">
-                            <i class="fas fa-cart-plus" aria-hidden="true"></i> Add to Cart
-                        </button>
-                        <a href="#cart-section" class="btn btn-sm btn-outline-success mt-2 ml-2 jump-to-cart-btn" style="display: none;" onclick="trackEvent('Ecommerce', 'view_cart', 'Jump to cart button', 0)">
-                            <i class="fas fa-shopping-cart" aria-hidden="true"></i> View Cart
-                        </a>
-                        <div id="feedback-${key}" class="cart-feedback mt-2" role="status" aria-live="polite"></div>
                     </div>
                 </div>
             </div>
@@ -242,7 +391,7 @@ function renderOrderForm() {
     const tasterFlavorings = getAvailableFlavoringTasterFlights();
     
     html += `
-        <div class="col-md-6 mb-4" id="product-classic-duo">
+        <div class="col-md-6 mb-4" id="product-classic-duo" data-static-card="true" data-card-sizes="8oz-wide,8oz-regular">
             <div class="card order-product-card" role="article" aria-label="Classic Duo Set">
                 <div class="card-body">
                     <h5 class="card-title">Duo</h5>
@@ -267,7 +416,7 @@ function renderOrderForm() {
     // Show Fruit Taster if available, otherwise show Random Taster Flight
     if (tasterFruits.length > 0) {
         html += `
-        <div class="col-md-6 mb-4" id="product-fruit-taster">
+        <div class="col-md-6 mb-4" id="product-fruit-taster" data-static-card="true" data-card-sizes="4oz">
             <div class="card order-product-card" role="article" aria-label="Fruit Taster Flight Set">
                 <div class="card-body">
                     <h5 class="card-title">Fruit Taster Flight</h5>
@@ -297,7 +446,7 @@ function renderOrderForm() {
     } else {
         // Fruit Taster out of stock - show Random Taster Flight instead
         html += `
-        <div class="col-md-6 mb-4" id="product-random-taster-fruit">
+        <div class="col-md-6 mb-4" id="product-random-taster-fruit" data-static-card="true" data-card-sizes="4oz">
             <div class="card order-product-card" role="article" aria-label="Random Taster Flight Set">
                 <div class="card-body">
                     <h5 class="card-title">Random Taster Flight</h5>
@@ -323,7 +472,7 @@ function renderOrderForm() {
     // Show Flavoring Taster if available, otherwise show Random Taster Flight (if not already shown)
     if (tasterFlavorings.length > 0) {
         html += `
-        <div class="col-md-6 mb-4" id="product-flavoring-taster">
+        <div class="col-md-6 mb-4" id="product-flavoring-taster" data-static-card="true" data-card-sizes="4oz">
             <div class="card order-product-card" role="article" aria-label="Flavoring Taster Flight Set">
                 <div class="card-body">
                     <h5 class="card-title">Flavoring Taster Flight</h5>
@@ -353,7 +502,7 @@ function renderOrderForm() {
     } else if (tasterFruits.length > 0) {
         // Flavoring Taster out of stock but Fruit Taster in stock - show Random Taster Flight
         html += `
-        <div class="col-md-6 mb-4" id="product-random-taster-flavoring">
+        <div class="col-md-6 mb-4" id="product-random-taster-flavoring" data-static-card="true" data-card-sizes="4oz">
             <div class="card order-product-card" role="article" aria-label="Random Taster Flight Set">
                 <div class="card-body">
                     <h5 class="card-title">Random Taster Flight</h5>
@@ -380,7 +529,7 @@ function renderOrderForm() {
     
     // Add static Full Batch card
     html += `
-        <div class="col-md-6 mb-4" id="product-full-batch">
+        <div class="col-md-6 mb-4" id="product-full-batch" data-static-card="true" data-card-sizes="all">
             <div class="card order-product-card" role="article" aria-label="Full Batch product">
                 <div class="card-body">
                     <h5 class="card-title">Full Batch</h5>
@@ -406,7 +555,8 @@ function renderOrderForm() {
             </div>
         </div>
     `;
-        html += '</div>';
+        html += '</div>'; // Close browse-products-container row
+        html += '</div>'; // Close browse-all-section
     
     html += `
         <div id="cart-section" class="mt-4">
@@ -761,6 +911,9 @@ function renderOrderForm() {
             }
         });
     }
+    
+    // Initialize browse-all filters
+    initializeBrowseFilters();
 }
 
 /**
@@ -805,6 +958,211 @@ function copyOrderId() {
         console.error('Failed to copy:', err);
         alert('Order ID: ' + orderId);
     });
+}
+
+/**
+ * Initialize and populate browse-all filters
+ */
+function initializeBrowseFilters() {
+    // Populate fruit filter
+    const fruitFilter = document.getElementById('filter-fruit-browse');
+    if (fruitFilter) {
+        const fruits = [...new Set(Object.values(inventoryData)
+            .map(p => p.fruit)
+            .filter(f => f && f.toLowerCase() !== 'custom'))].sort();
+        
+        fruits.forEach(fruit => {
+            const option = document.createElement('option');
+            option.value = fruit;
+            option.textContent = fruit;
+            fruitFilter.appendChild(option);
+        });
+        
+        fruitFilter.addEventListener('change', applyBrowseFilters);
+    }
+    
+    // Populate genre (spread type) filter
+    const genreFilter = document.getElementById('filter-genre-browse');
+    if (genreFilter) {
+        const genres = [...new Set(Object.values(inventoryData)
+            .map(p => p.genre)
+            .filter(g => g && g.trim() !== ''))].sort();
+        
+        genres.forEach(genre => {
+            const option = document.createElement('option');
+            option.value = genre;
+            option.textContent = genre;
+            genreFilter.appendChild(option);
+        });
+        
+        genreFilter.addEventListener('change', applyBrowseFilters);
+    }
+    
+    // Populate flavoring (alcohol) filter
+    const alcoholFilter = document.getElementById('filter-alcohol-browse');
+    if (alcoholFilter) {
+        const alcohols = [...new Set(Object.values(inventoryData)
+            .map(p => p.flavoring)
+            .filter(f => f && f.trim() !== '' && f.toLowerCase() !== 'none' && f !== '*None*'))].sort();
+        
+        const noneOption = document.createElement('option');
+        noneOption.value = 'none';
+        noneOption.textContent = 'No Flavoring';
+        alcoholFilter.appendChild(noneOption);
+        
+        alcohols.forEach(alcohol => {
+            const option = document.createElement('option');
+            option.value = alcohol;
+            option.textContent = alcohol;
+            alcoholFilter.appendChild(option);
+        });
+        
+        alcoholFilter.addEventListener('change', applyBrowseFilters);
+    }
+    
+    // Add listener to size filter
+    const sizeFilter = document.getElementById('filter-size-browse');
+    if (sizeFilter) {
+        sizeFilter.addEventListener('change', applyBrowseFilters);
+    }
+}
+
+/**
+ * Apply browse-all filters
+ */
+function applyBrowseFilters() {
+    const fruitFilter = document.getElementById('filter-fruit-browse')?.value || '';
+    const genreFilter = document.getElementById('filter-genre-browse')?.value || '';
+    const alcoholFilter = document.getElementById('filter-alcohol-browse')?.value || '';
+    const sizeFilter = document.getElementById('filter-size-browse')?.value || '';
+    
+    const productCards = document.querySelectorAll('#browse-products-container .col-md-6');
+    let visibleCount = 0;
+    let visibleInStockCount = 0; // Count in-stock products that match filters
+    
+    // First pass: filter regular product cards and count visible in-stock items
+    productCards.forEach(card => {
+        const productData = card.dataset;
+        
+        // Skip static cards in first pass
+        if (productData.staticCard === 'true') {
+            return;
+        }
+        
+        let show = true;
+        
+        // Regular product cards - apply all filters
+        // Fruit filter
+        if (fruitFilter && productData.fruit !== fruitFilter) {
+            show = false;
+        }
+        
+        // Genre (Spread Type) filter
+        if (genreFilter && productData.genre !== genreFilter) {
+            show = false;
+        }
+        
+        // Flavoring (Alcohol) filter
+        if (alcoholFilter) {
+            if (alcoholFilter === 'none') {
+                const hasFlavoring = productData.flavoring && 
+                                    productData.flavoring.trim() !== '' && 
+                                    productData.flavoring.toLowerCase() !== 'none';
+                if (hasFlavoring) show = false;
+            } else if (productData.flavoring !== alcoholFilter) {
+                show = false;
+            }
+        }
+        
+        // Size filter (check if product has that size in stock)
+        if (sizeFilter) {
+            if (!productData.sizes || productData.sizes === '') {
+                // No sizes available (out of stock)
+                show = false;
+            } else {
+                const sizes = productData.sizes.split(',');
+                if (!sizes.includes(sizeFilter)) {
+                    show = false;
+                }
+            }
+        }
+        
+        card.style.display = show ? '' : 'none';
+        if (show) {
+            visibleCount++;
+            // Count in-stock products (exclude out-of-stock)
+            if (productData.stockStatus !== 'out-of-stock') {
+                visibleInStockCount++;
+            }
+        }
+    });
+    
+    // Second pass: filter static cards based on size AND whether there are in-stock products available
+    productCards.forEach(card => {
+        const productData = card.dataset;
+        
+        // Only process static cards in second pass
+        if (productData.staticCard !== 'true') {
+            return;
+        }
+        
+        let show = true;
+        
+        // Check if this is the Full Batch card
+        const isFullBatch = card.id === 'product-full-batch';
+        
+        // Hide Classic Duo and Taster Flights if no in-stock products are visible
+        // (Can't make a Duo or Taster Flight if nothing is available)
+        // But keep Full Batch visible since it's a custom order (always available)
+        if (!isFullBatch && visibleInStockCount === 0) {
+            show = false;
+        }
+        
+        // Hide Classic Duo and Taster Flights when fruit/genre/flavoring filters are active
+        // (they're random selections, not specific to filtered items)
+        // But keep Full Batch visible since it's a custom order
+        if (!isFullBatch && (fruitFilter || genreFilter || alcoholFilter)) {
+            show = false;
+        }
+        
+        // Filter by size if specified
+        if (show && sizeFilter && productData.cardSizes) {
+            const cardSizes = productData.cardSizes.split(',');
+            // Show if card supports this size or supports 'all' sizes
+            if (productData.cardSizes !== 'all' && !cardSizes.includes(sizeFilter)) {
+                show = false;
+            }
+        }
+        
+        card.style.display = show ? '' : 'none';
+        if (show) visibleCount++;
+    });
+    
+    // Update results count
+    const resultsSpan = document.getElementById('filter-results-browse');
+    if (resultsSpan) {
+        resultsSpan.textContent = `Showing ${visibleCount} product${visibleCount !== 1 ? 's' : ''}`;
+    }
+}
+
+/**
+ * Reset browse-all filters
+ */
+function resetBrowseFilters() {
+    document.getElementById('filter-fruit-browse').value = '';
+    document.getElementById('filter-genre-browse').value = '';
+    document.getElementById('filter-alcohol-browse').value = '';
+    document.getElementById('filter-size-browse').value = '';
+    
+    const productCards = document.querySelectorAll('#browse-products-container .col-md-6');
+    productCards.forEach(card => {
+        card.style.display = '';
+    });
+    
+    const resultsSpan = document.getElementById('filter-results-browse');
+    if (resultsSpan) {
+        resultsSpan.textContent = `Showing ${productCards.length} product${productCards.length !== 1 ? 's' : ''}`;
+    }
 }
 
 /**
@@ -1936,6 +2294,1236 @@ async function submitOrder(e) {
         alert('Error submitting order. Please try again or contact us directly.');
     }
 }
+
+// Decision Tree State
+let decisionTreeState = {
+    step: 0,
+    selections: {}
+};
+
+/**
+ * Render Decision Tree UI (Experimental)
+ */
+function renderDecisionTree() {
+    let html = `
+        <style>
+            .btn-orange {
+                background-color: #ff8c00;
+                border-color: #ff8c00;
+                color: white;
+            }
+            .btn-orange:hover {
+                background-color: #e67e00;
+                border-color: #cc7000;
+                color: white;
+            }
+            .btn-orange:focus,
+            .btn-orange:active {
+                background-color: #cc7000;
+                border-color: #b36300;
+                color: white;
+            }
+            .btn-orange:disabled {
+                background-color: #cccccc;
+                border-color: #999999;
+                color: #666666;
+                opacity: 0.6;
+                cursor: not-allowed;
+            }
+        </style>
+        <div id="decision-tree-section" style="display: block;">
+            <div class="card mb-4" style="border: 2px solid #007bff;">
+                <div class="card-header bg-primary" style="background-color: #007bff; color: white;">
+                    <h4 class="mb-0" style="color: white;">
+                        <i class="fas fa-route"></i> Selection Guide
+                    </h4>
+                    <small style="color: white;">Find the perfect spread!</small>
+                </div>
+                <div class="card-body" id="decision-tree-content">
+                    ${renderDecisionTreeStep()}
+                </div>
+            </div>
+        </div>
+    `;
+    return html;
+}
+
+/**
+ * Generate breadcrumb trail for decision tree
+ */
+function renderBreadcrumb() {
+    const { type, fruit, variation, genre, ingredients, flavoring, setType, tasterType } = decisionTreeState.selections;
+    const crumbs = [];
+    
+    if (type) {
+        const typeLabel = type === 'individual' ? 'Individual' : type === 'set' ? 'Random Set' : 'Custom Batch';
+        crumbs.push({ label: typeLabel, step: 0, key: 'type' });
+    }
+    
+    if (fruit) {
+        crumbs.push({ label: fruit, step: 1, key: 'fruit' });
+    }
+    
+    if (variation) {
+        const varLabel = variation === 'pure' ? 'Pure Fruit' : variation === 'ingredients' ? 'With Ingredients' : 'With Flavoring';
+        crumbs.push({ label: varLabel, step: 2, key: 'variation' });
+    }
+    
+    if (genre) {
+        crumbs.push({ label: genre, step: 3, key: 'genre' });
+    }
+    
+    if (ingredients) {
+        crumbs.push({ label: ingredients, step: 4, key: 'ingredients' });
+    }
+    
+    if (flavoring) {
+        crumbs.push({ label: flavoring, step: 4, key: 'flavoring' });
+    }
+    
+    if (setType) {
+        const setLabel = setType === 'duo' ? 'Classic Duo' : 'Taster Flight';
+        crumbs.push({ label: setLabel, step: 1, key: 'setType' });
+    }
+    
+    if (tasterType) {
+        const tasterLabel = tasterType === 'fruit' ? 'Fruit Taster' : tasterType === 'flavoring' ? 'Flavoring Taster' : 'Random Taster';
+        crumbs.push({ label: tasterLabel, step: 2, key: 'tasterType' });
+    }
+    
+    if (crumbs.length === 0) return '';
+    
+    return `
+        <div class="mb-3" style="display: flex; align-items: center; gap: 10px; flex-wrap: wrap;">
+            <button class="btn btn-outline-secondary btn-sm" onclick="goBackDecisionTree()">
+                <i class="fas fa-arrow-left"></i> Back
+            </button>
+            <div style="color: #6c757d; font-size: 0.9rem;">
+                ${crumbs.map((crumb, index) => `
+                    <a href="#" onclick="jumpToBreadcrumbStep('${crumb.key}'); return false;" 
+                       style="color: #007bff; text-decoration: none;"
+                       onmouseover="this.style.textDecoration='underline'"
+                       onmouseout="this.style.textDecoration='none'">
+                        ${crumb.label}
+                    </a>${index < crumbs.length - 1 ? ' <span style="color: #6c757d; margin: 0 5px;">›</span>' : ''}
+                `).join('')}
+            </div>
+        </div>
+    `;
+}
+
+/**
+ * Jump to a specific step in the breadcrumb trail
+ */
+function jumpToBreadcrumbStep(key) {
+    const { type, fruit, variation, genre, ingredients, flavoring, setType, tasterType } = decisionTreeState.selections;
+    
+    // Determine which step to jump to and what to clear
+    if (key === 'type') {
+        decisionTreeState.step = 0;
+        decisionTreeState.selections = {};
+    } else if (key === 'fruit') {
+        decisionTreeState.step = 1;
+        delete decisionTreeState.selections.variation;
+        delete decisionTreeState.selections.genre;
+        delete decisionTreeState.selections.ingredients;
+        delete decisionTreeState.selections.flavoring;
+    } else if (key === 'variation') {
+        decisionTreeState.step = 2;
+        delete decisionTreeState.selections.genre;
+        delete decisionTreeState.selections.ingredients;
+        delete decisionTreeState.selections.flavoring;
+    } else if (key === 'genre') {
+        decisionTreeState.step = 3;
+        delete decisionTreeState.selections.ingredients;
+        delete decisionTreeState.selections.flavoring;
+    } else if (key === 'ingredients' || key === 'flavoring') {
+        // Jump back to the step where we select ingredients/flavoring
+        if (genre) {
+            decisionTreeState.step = 4;
+        } else {
+            decisionTreeState.step = 3;
+        }
+        delete decisionTreeState.selections.ingredients;
+        delete decisionTreeState.selections.flavoring;
+    } else if (key === 'setType') {
+        decisionTreeState.step = 1;
+        delete decisionTreeState.selections.tasterType;
+    } else if (key === 'tasterType') {
+        decisionTreeState.step = 2;
+    }
+    
+    // Update browser history
+    const historyState = {
+        decisionTree: true,
+        step: decisionTreeState.step,
+        selections: {...decisionTreeState.selections}
+    };
+    history.pushState(historyState, '', window.location.href.split('#')[0] + '#decision-tree-step-' + decisionTreeState.step);
+    
+    updateDecisionTreeDisplay();
+}
+
+/**
+ * Render current step of decision tree
+ */
+function renderDecisionTreeStep() {
+    const step = decisionTreeState.step;
+    
+    if (step === 0) {
+        // Step 0: What are you looking for?
+        return `
+            <h5 class="mb-3">Choose</h5>
+            <div class="row">
+                <div class="col-md-4 mb-3">
+                    <button class="btn btn-lg btn-outline-primary w-100 h-100" onclick="selectDecisionTreeOption('type', 'individual')" style="min-height: 120px;">
+                        <i class="fas fa-jar fa-2x d-block mb-2"></i>
+                        <strong>Individual Jars</strong>
+                        <br><small>Pick a specific flavor</small>
+                    </button>
+                </div>
+                <div class="col-md-4 mb-3">
+                    <button class="btn btn-lg btn-outline-primary w-100 h-100" onclick="selectDecisionTreeOption('type', 'set')" style="min-height: 120px;">
+                        <i class="fas fa-boxes fa-2x d-block mb-2"></i>
+                        <strong>Random Set</strong>
+                        <br><small>Duo or Taster Flight</small>
+                    </button>
+                </div>
+                <div class="col-md-4 mb-3">
+                    <button class="btn btn-lg btn-outline-primary w-100 h-100" onclick="selectDecisionTreeOption('type', 'bulk')" style="min-height: 120px;">
+                        <i class="fas fa-boxes-stacked fa-2x d-block mb-2"></i>
+                        <strong>Full Custom Batch</strong>
+                        <br><small>~64oz custom order</small>
+                    </button>
+                </div>
+            </div>
+        `;
+    } else if (step === 1 && decisionTreeState.selections.type === 'individual') {
+        // Step 1a: Choose fruit
+        const fruits = [...new Set(Object.values(inventoryData)
+            .filter(p => Object.values(p.stock).some(qty => qty > 0))
+            .map(p => p.fruit)
+            .filter(f => {
+                if (!f || f.trim() === '') return false;
+                const fruitLower = f.toLowerCase().trim();
+                // Exclude "custom" or anything containing "custom" (like "Custom Full Batch")
+                if (fruitLower === 'custom' || fruitLower.includes('custom')) return false;
+                return true;
+            }))].sort();
+        
+        return `
+            ${renderBreadcrumb()}
+            <h5 class="mb-3">Which fruit would you like?</h5>
+            <div class="row">
+                ${fruits.map(fruit => `
+                    <div class="col-md-3 col-sm-4 col-6 mb-3">
+                        <button class="btn btn-outline-primary w-100" onclick="selectDecisionTreeOption('fruit', '${fruit}')" style="min-height: 80px;">
+                            <strong>${fruit}</strong>
+                        </button>
+                    </div>
+                `).join('')}
+            </div>
+        `;
+    } else if (step === 2 && decisionTreeState.selections.type === 'individual') {
+        // Step 2a: Pure fruit, with ingredients, or with flavoring?
+        const fruit = decisionTreeState.selections.fruit;
+        
+        // Check what variations are available for this fruit
+        const hasPure = Object.values(inventoryData).some(p => 
+            p.fruit === fruit && 
+            (!p.ingredients || p.ingredients.trim() === '') &&
+            (!p.flavoring || p.flavoring.toLowerCase() === 'none' || p.flavoring === '*None*') &&
+            Object.values(p.stock).some(qty => qty > 0)
+        );
+        
+        const hasIngredients = Object.values(inventoryData).some(p => 
+            p.fruit === fruit && 
+            p.ingredients && p.ingredients.trim() !== '' &&
+            (!p.flavoring || p.flavoring.toLowerCase() === 'none' || p.flavoring === '*None*') &&
+            Object.values(p.stock).some(qty => qty > 0)
+        );
+        
+        const hasFlavoring = Object.values(inventoryData).some(p => 
+            p.fruit === fruit && 
+            p.flavoring && 
+            p.flavoring.trim() !== '' && 
+            p.flavoring.toLowerCase() !== 'none' && 
+            p.flavoring !== '*None*' &&
+            Object.values(p.stock).some(qty => qty > 0)
+        );
+        
+        // Get actual flavorings from inventory
+        const allFlavorings = [...new Set(Object.values(inventoryData)
+            .map(p => p.flavoring)
+            .filter(f => f && f.trim() !== '' && f.toLowerCase() !== 'none' && f !== '*None*')
+        )].sort();
+        const flavoringExamples = allFlavorings.slice(0, 3).join(', ') + (allFlavorings.length > 3 ? ', etc.' : '');
+        
+        return `
+            ${renderBreadcrumb()}
+            <h5 class="mb-3">How do you like your ${fruit} jam?</h5>
+            <div class="row">
+                <div class="col-md-4 mb-3">
+                    <button class="btn btn-lg btn-success w-100 h-100 text-white" 
+                            onclick="selectDecisionTreeOption('variation', 'pure')" 
+                            style="min-height: 120px;" 
+                            ${!hasPure ? 'disabled' : ''}>
+                        <i class="fas fa-leaf fa-2x d-block mb-2"></i>
+                        <strong>Pure Fruit</strong>
+                        <br><small>Just ${fruit}</small>
+                        ${!hasPure ? '<br><span class="badge badge-secondary" style="margin-top: 8px; display: inline-block;">Not Available</span>' : ''}
+                    </button>
+                </div>
+                <div class="col-md-4 mb-3">
+                    <button class="btn btn-lg btn-orange w-100 h-100" 
+                            onclick="selectDecisionTreeOption('variation', 'ingredients')" 
+                            style="min-height: 120px;" 
+                            ${!hasIngredients ? 'disabled' : ''}>
+                        <i class="fas fa-plus fa-2x d-block mb-2"></i>
+                        <strong>With Ingredients</strong>
+                        <br><small>Spices, herbs, etc. (no flavorings)</small>
+                        ${!hasIngredients ? '<br><span class="badge badge-secondary" style="margin-top: 8px; display: inline-block;">Not Available</span>' : ''}
+                    </button>
+                </div>
+                <div class="col-md-4 mb-3">
+                    <button class="btn btn-lg btn-info w-100 h-100 text-white" 
+                            onclick="selectDecisionTreeOption('variation', 'flavoring')" 
+                            style="min-height: 120px;" 
+                            ${!hasFlavoring ? 'disabled' : ''}>
+                        <i class="fas fa-cocktail fa-2x d-block mb-2"></i>
+                        <strong>With Flavoring</strong>
+                        <br><small>${flavoringExamples} (with or without ingredients)</small>
+                        ${!hasFlavoring ? '<br><span class="badge badge-secondary" style="margin-top: 8px; display: inline-block;">Not Available</span>' : ''}
+                    </button>
+                </div>
+            </div>
+        `;
+    } else if (step === 3 && decisionTreeState.selections.variation === 'pure') {
+        // Show pure fruit products and size selection
+        return renderFinalProductSelection();
+    } else if (step === 3 && decisionTreeState.selections.variation === 'ingredients') {
+        // Step 3b: Check if we need to ask about genre (spread type)
+        const fruit = decisionTreeState.selections.fruit;
+        const productsWithIngredients = Object.values(inventoryData)
+            .filter(p => p.fruit === fruit && 
+                        p.ingredients && p.ingredients.trim() !== '' &&
+                        (!p.flavoring || p.flavoring.trim() === '' || p.flavoring.toLowerCase() === 'none' || p.flavoring === '*None*') &&
+                        Object.values(p.stock).some(qty => qty > 0));
+        
+        const uniqueGenres = [...new Set(productsWithIngredients.map(p => p.genre).filter(g => g))].sort();
+        
+        // If multiple genres available, ask which type
+        if (uniqueGenres.length > 1) {
+            return `
+                ${renderBreadcrumb()}
+                <h5 class="mb-3">Which type of spread?</h5>
+                <div class="row">
+                    ${uniqueGenres.map(genre => `
+                        <div class="col-md-4 col-sm-6 mb-3">
+                            <button class="btn btn-orange w-100" onclick="selectDecisionTreeOption('genre', '${genre.replace(/'/g, "\\'")}')">
+                                <strong>${genre}</strong>
+                            </button>
+                        </div>
+                    `).join('')}
+                </div>
+            `;
+        } else {
+            // Only one genre, skip this step and store it automatically
+            if (uniqueGenres.length === 1) {
+                decisionTreeState.selections.genre = uniqueGenres[0];
+            }
+            // Move to ingredients selection
+            decisionTreeState.step = 4;
+            return renderDecisionTreeStep();
+        }
+    } else if (step === 3 && decisionTreeState.selections.variation === 'flavoring') {
+        // Step 3c: Check if we need to ask about genre (spread type)
+        const fruit = decisionTreeState.selections.fruit;
+        const productsWithFlavoring = Object.values(inventoryData)
+            .filter(p => p.fruit === fruit && 
+                        p.flavoring && 
+                        p.flavoring.trim() !== '' && 
+                        p.flavoring.toLowerCase() !== 'none' && 
+                        p.flavoring !== '*None*' &&
+                        Object.values(p.stock).some(qty => qty > 0));
+        
+        const uniqueGenres = [...new Set(productsWithFlavoring.map(p => p.genre).filter(g => g))].sort();
+        
+        // If multiple genres available, ask which type
+        if (uniqueGenres.length > 1) {
+            return `
+                ${renderBreadcrumb()}
+                <h5 class="mb-3">Which type of spread?</h5>
+                <div class="row">
+                    ${uniqueGenres.map(genre => `
+                        <div class="col-md-4 col-sm-6 mb-3">
+                            <button class="btn btn-info w-100 text-white" onclick="selectDecisionTreeOption('genre', '${genre.replace(/'/g, "\\'")}')">
+                                <strong>${genre}</strong>
+                            </button>
+                        </div>
+                    `).join('')}
+                </div>
+            `;
+        } else {
+            // Only one genre, skip this step and store it automatically
+            if (uniqueGenres.length === 1) {
+                decisionTreeState.selections.genre = uniqueGenres[0];
+            }
+            // Move to flavoring selection
+            decisionTreeState.step = 4;
+            return renderDecisionTreeStep();
+        }
+    } else if (step === 4 && decisionTreeState.selections.variation === 'ingredients') {
+        // Step 4b: Choose ingredients
+        const fruit = decisionTreeState.selections.fruit;
+        const genre = decisionTreeState.selections.genre;
+        const productsWithIngredients = Object.values(inventoryData)
+            .filter(p => p.fruit === fruit && 
+                        (genre ? p.genre === genre : true) &&
+                        p.ingredients && p.ingredients.trim() !== '' &&
+                        (!p.flavoring || p.flavoring.trim() === '' || p.flavoring.toLowerCase() === 'none' || p.flavoring === '*None*') &&
+                        Object.values(p.stock).some(qty => qty > 0));
+        
+        const uniqueIngredients = [...new Set(productsWithIngredients.map(p => p.ingredients))].sort();
+        
+        // If only one ingredient option, skip this step and auto-select it
+        if (uniqueIngredients.length === 1) {
+            decisionTreeState.selections.ingredients = uniqueIngredients[0];
+            decisionTreeState.step = 5;
+            return renderDecisionTreeStep();
+        }
+        
+        return `
+            ${renderBreadcrumb()}
+            <h5 class="mb-3">Choose your ${fruit}${genre ? ' ' + genre.toLowerCase() : ''} combination:</h5>
+            <div class="row">
+                ${uniqueIngredients.map(ing => `
+                    <div class="col-md-6 mb-3">
+                        <button class="btn btn-orange w-100 text-left" onclick="selectDecisionTreeOption('ingredients', '${ing.replace(/'/g, "\\'")}')">
+                            <strong>${fruit}${genre ? ' ' + genre : ''}</strong> with <em>${ing}</em>
+                        </button>
+                    </div>
+                `).join('')}
+            </div>
+        `;
+    } else if (step === 4 && decisionTreeState.selections.variation === 'flavoring') {
+        // Step 4c: Choose flavoring
+        const fruit = decisionTreeState.selections.fruit;
+        const genre = decisionTreeState.selections.genre;
+        const productsWithFlavoring = Object.values(inventoryData)
+            .filter(p => p.fruit === fruit && 
+                        (genre ? p.genre === genre : true) &&
+                        p.flavoring && 
+                        p.flavoring.trim() !== '' && 
+                        p.flavoring.toLowerCase() !== 'none' && 
+                        p.flavoring !== '*None*' &&
+                        Object.values(p.stock).some(qty => qty > 0));
+        
+        const uniqueFlavorings = [...new Set(productsWithFlavoring.map(p => p.flavoring))].sort();
+        
+        // If only one flavoring option, skip this step and auto-select it
+        if (uniqueFlavorings.length === 1) {
+            decisionTreeState.selections.flavoring = uniqueFlavorings[0];
+            decisionTreeState.step = 5;
+            return renderDecisionTreeStep();
+        }
+        
+        return `
+            ${renderBreadcrumb()}
+            <h5 class="mb-3">Choose your ${fruit}${genre ? ' ' + genre.toLowerCase() : ''} flavoring:</h5>
+            <div class="row">
+                ${uniqueFlavorings.map(flav => `
+                    <div class="col-md-4 col-sm-6 mb-3">
+                        <button class="btn btn-info w-100 text-white" onclick="selectDecisionTreeOption('flavoring', '${flav.replace(/'/g, "\\'")}')">
+                            <strong>${flav}</strong>
+                        </button>
+                    </div>
+                `).join('')}
+            </div>
+        `;
+    } else if (step === 5) {
+        // Show matching products with size selection
+        return renderFinalProductSelection();
+    } else if (step === 1 && decisionTreeState.selections.type === 'set') {
+        // Step 1b: Choose set type
+        return `
+            ${renderBreadcrumb()}
+            <h5 class="mb-3">Which type of set?</h5>
+            <div class="row">
+                <div class="col-md-6 mb-3">
+                    <button class="btn btn-lg btn-outline-primary w-100 h-100" onclick="selectDecisionTreeOption('setType', 'duo')" style="min-height: 140px;">
+                        <i class="fas fa-box-open fa-2x d-block mb-2"></i>
+                        <strong>Classic Duo</strong>
+                        <br><small>2 × 8oz jars</small>
+                        <br><span class="badge badge-info" style="margin-top: 10px; display: inline-block;">$16.00</span>
+                    </button>
+                </div>
+                <div class="col-md-6 mb-3">
+                    <button class="btn btn-lg btn-outline-primary w-100 h-100" onclick="selectDecisionTreeOption('setType', 'taster')" style="min-height: 140px;">
+                        <i class="fas fa-vials fa-2x d-block mb-2"></i>
+                        <strong>Taster Flight</strong>
+                        <br><small>4 × 4oz jars</small>
+                        <br><span class="badge badge-info" style="margin-top: 10px; display: inline-block;">$24.00</span>
+                    </button>
+                </div>
+            </div>
+        `;
+    } else if (step === 2 && decisionTreeState.selections.setType === 'taster') {
+        // Step 2b: Choose taster type
+        const fruitOptions = getAvailableFruitTasterFlights();
+        const flavoringOptions = getAvailableFlavoringTasterFlights();
+        
+        return `
+            ${renderBreadcrumb()}
+            <h5 class="mb-3">What kind of taster flight?</h5>
+            <div class="row">
+                ${fruitOptions.length > 0 ? `
+                <div class="col-md-4 mb-3">
+                    <button class="btn btn-lg btn-outline-success w-100 h-100" onclick="selectDecisionTreeOption('tasterType', 'fruit')" style="min-height: 120px;">
+                        <i class="fas fa-apple-alt fa-2x d-block mb-2"></i>
+                        <strong>By Fruit</strong>
+                        <br><small>Same fruit, different styles</small>
+                    </button>
+                </div>
+                ` : ''}
+                ${flavoringOptions.length > 0 ? `
+                <div class="col-md-4 mb-3">
+                    <button class="btn btn-lg btn-outline-warning w-100 h-100" onclick="selectDecisionTreeOption('tasterType', 'flavoring')" style="min-height: 120px;">
+                        <i class="fas fa-cocktail fa-2x d-block mb-2"></i>
+                        <strong>By Flavoring</strong>
+                        <br><small>Same spirit, different fruits</small>
+                    </button>
+                </div>
+                ` : ''}
+                <div class="col-md-4 mb-3">
+                    <button class="btn btn-lg btn-outline-primary w-100 h-100" onclick="selectRandomTasterFlight()" style="min-height: 120px;">
+                        <i class="fas fa-random fa-2x d-block mb-2"></i>
+                        <strong>Surprise Me!</strong>
+                        <br><small>4 random selections</small>
+                    </button>
+                </div>
+            </div>
+        `;
+    } else if (step === 2 && decisionTreeState.selections.setType === 'duo') {
+        // Classic Duo - add directly to cart
+        return `
+            ${renderBreadcrumb()}
+            <div class="text-center">
+                <i class="fas fa-box-open fa-4x text-primary mb-3"></i>
+                <h4>Classic Duo Set</h4>
+                <p class="lead">Random pairing of two 8oz jars</p>
+                <div class="alert alert-info">
+                    <strong>2 × 8oz jars - $16.00</strong>
+                </div>
+                <p>We'll select two delicious jams for you!</p>
+                <button class="btn btn-lg btn-success" onclick="addClassicDuoFromDecisionTree()">
+                    <i class="fas fa-cart-plus"></i> Add Classic Duo to Cart
+                </button>
+            </div>
+        `;
+    } else if (step === 3 && decisionTreeState.selections.tasterType === 'fruit') {
+        const fruits = getAvailableFruitTasterFlights();
+        return `
+            ${renderBreadcrumb()}
+            <h5 class="mb-3">Choose a fruit for your taster flight:</h5>
+            <div class="row">
+                ${fruits.map(fruit => `
+                    <div class="col-md-3 col-sm-4 col-6 mb-3">
+                        <button class="btn btn-outline-success w-100" onclick="selectFruitTasterFlight('${fruit}')" style="min-height: 80px;">
+                            <strong>${fruit}</strong>
+                        </button>
+                    </div>
+                `).join('')}
+            </div>
+        `;
+    } else if (step === 3 && decisionTreeState.selections.tasterType === 'flavoring') {
+        const flavorings = getAvailableFlavoringTasterFlights();
+        return `
+            ${renderBreadcrumb()}
+            <h5 class="mb-3">Choose a flavoring for your taster flight:</h5>
+            <div class="row">
+                ${flavorings.map(flavoring => `
+                    <div class="col-md-3 col-sm-4 col-6 mb-3">
+                        <button class="btn btn-info text-white w-100" onclick="selectFlavoringTasterFlight('${flavoring.replace(/'/g, "\\'")}')">
+                            <strong>${flavoring}</strong>
+                        </button>
+                    </div>
+                `).join('')}
+            </div>
+        `;
+    } else if (step === 1 && decisionTreeState.selections.type === 'bulk') {
+        // Full Batch info and add to cart
+        return `
+            ${renderBreadcrumb()}
+            <div class="text-center">
+                <i class="fas fa-flask fa-4x text-primary mb-3"></i>
+                <h4>Custom Batch Orders</h4>
+                <p class="lead">~64oz of your custom spread</p>
+                
+                <div id="customBatchCapacityDT" style="background: #e8f5e9; padding: 12px; border-radius: 6px; margin: 15px auto; text-align: center; border-left: 4px solid #4caf50; max-width: 500px;">
+                    <p style="color: #2e7d32; font-size: 16px; font-weight: bold; margin: 0;">
+                        <i class="fas fa-check-circle"></i> <span id="batchCapacityCountDT">Loading capacity...</span>
+                    </p>
+                </div>
+                
+                <div class="alert alert-info">
+                    <strong>Starting at $65</strong> - Custom quote required
+                </div>
+                
+                <ul class="text-left mb-4" style="max-width: 500px; margin-left: auto; margin-right: auto;">
+                    <li>Choose any flavor combination</li>
+                    <li>Select your jar sizes</li>
+                    <li>Perfect for events or gifts</li>
+                    <li>Requires 1-2 weeks lead time</li>
+                </ul>
+                
+                <div style="background: white; padding: 1.5rem; border-radius: 6px; margin: 1.5rem auto; max-width: 600px; border: 1px solid #ddd;">
+                    <h5 style="color: #ff6b6b; margin-top: 0;">
+                        <i class="fas fa-star"></i> Past Custom Flavors
+                    </h5>
+                    <div id="pastFlavorsDT" style="color: #555; line-height: 1.8; text-align: left;">
+                        <p style="text-align: center; color: #999;"><i class="fas fa-spinner fa-spin"></i> Loading past flavors...</p>
+                    </div>
+                    <p style="color: #666; margin-top: 1rem; font-size: 0.95rem;">
+                        Each custom batch can be tailored to taste preferences, dietary needs, and occasion!
+                    </p>
+                </div>
+                
+                <a href="mailto:katjasfruit.oxidize027@passmail.com" class="btn btn-lg btn-success mb-2">
+                    <i class="fas fa-envelope"></i> Email to Order Custom Batch
+                </a>
+                <br>
+                <button class="btn btn-lg btn-outline-primary" onclick="resetDecisionTree();">
+                    <i class="fas fa-arrow-left"></i> Back to Main Menu
+                </button>
+            </div>
+        `;
+    }
+    
+    return '<p>Loading...</p>';
+}
+
+/**
+ * Render final product selection with sizes
+ */
+function renderFinalProductSelection() {
+    const { fruit, variation, flavoring, ingredients, genre } = decisionTreeState.selections;
+    
+    // Find matching products
+    const matchingProducts = Object.entries(inventoryData).filter(([key, product]) => {
+        if (product.fruit !== fruit) return false;
+        if (!Object.values(product.stock).some(qty => qty > 0)) return false;
+        if (genre && product.genre !== genre) return false;
+        
+        if (variation === 'pure') {
+            const hasFlavoring = product.flavoring && 
+                                product.flavoring.trim() !== '' && 
+                                product.flavoring.toLowerCase() !== 'none' && 
+                                product.flavoring !== '*None*';
+            const hasIngredients = product.ingredients && product.ingredients.trim() !== '';
+            return !hasFlavoring && !hasIngredients;
+        } else if (variation === 'ingredients') {
+            const hasFlavoring = product.flavoring && 
+                                product.flavoring.trim() !== '' && 
+                                product.flavoring.toLowerCase() !== 'none' && 
+                                product.flavoring !== '*None*';
+            return product.ingredients === ingredients && !hasFlavoring;
+        } else if (variation === 'flavoring') {
+            return product.flavoring === flavoring;
+        }
+        return false;
+    });
+    
+    if (matchingProducts.length === 0) {
+        return `
+            ${renderBreadcrumb()}
+            <div class="alert alert-warning">
+                <i class="fas fa-exclamation-triangle"></i>
+                Sorry, no products match your selection. Please try a different combination.
+            </div>
+        `;
+    }
+    
+    let html = `
+        ${renderBreadcrumb()}
+        <h5 class="mb-3">Select your size:</h5>
+    `;
+    
+    matchingProducts.forEach(([key, product]) => {
+        html += `
+            <div class="card mb-3">
+                <div class="card-body">
+                    <h6 class="card-title">${product.name}</h6>
+                    ${product.flavoring && product.flavoring.toLowerCase() !== 'none' && product.flavoring !== '*None*' ? `<p class="text-muted small"><em>${product.flavoring}</em></p>` : ''}
+                    ${product.ingredients ? `<p class="text-muted small">${product.ingredients}</p>` : ''}
+                    
+                    <div class="row">
+        `;
+        
+        for (const [size, qty] of Object.entries(product.stock)) {
+            if (qty > 0) {
+                html += `
+                    <div class="col-md-6 mb-2">
+                        <div class="d-flex align-items-center justify-content-between">
+                            <span><strong>${size}</strong> (${qty} available)</span>
+                            <div class="input-group" style="max-width: 150px;">
+                                <input type="number" class="form-control form-control-sm" id="dt_${key}_${size}" min="0" max="${qty}" value="0" style="width: 60px;">
+                            </div>
+                        </div>
+                    </div>
+                `;
+            }
+        }
+        
+        html += `
+                    </div>
+                    <button class="btn btn-primary mt-2" onclick="addToCartFromDecisionTree('${key}')">
+                        <i class="fas fa-cart-plus"></i> Add to Cart
+                    </button>
+                </div>
+            </div>
+        `;
+    });
+    
+    return html;
+}
+
+/**
+ * Select option in decision tree
+ */
+function selectDecisionTreeOption(key, value) {
+    decisionTreeState.selections[key] = value;
+    decisionTreeState.step++;
+    
+    // Push state to browser history
+    const historyState = {
+        decisionTree: true,
+        step: decisionTreeState.step,
+        selections: {...decisionTreeState.selections}
+    };
+    history.pushState(historyState, '', window.location.href.split('#')[0] + '#decision-tree-step-' + decisionTreeState.step);
+    
+    updateDecisionTreeDisplay();
+}
+
+/**
+ * Go back in decision tree
+ */
+function goBackDecisionTree() {
+    decisionTreeState.step--;
+    
+    // Determine which selection to remove based on current state
+    if (decisionTreeState.selections.ingredients) {
+        // Check if ingredients step was auto-skipped (only one option)
+        const fruit = decisionTreeState.selections.fruit;
+        const genre = decisionTreeState.selections.genre;
+        const productsWithIngredients = Object.values(inventoryData)
+            .filter(p => p.fruit === fruit && 
+                        (genre ? p.genre === genre : true) &&
+                        p.ingredients && p.ingredients.trim() !== '' &&
+                        (!p.flavoring || p.flavoring.trim() === '' || p.flavoring.toLowerCase() === 'none' || p.flavoring === '*None*') &&
+                        Object.values(p.stock).some(qty => qty > 0));
+        const uniqueIngredients = [...new Set(productsWithIngredients.map(p => p.ingredients))];
+        
+        delete decisionTreeState.selections.ingredients;
+        
+        // If only one ingredient (auto-skipped), also skip back past it
+        if (uniqueIngredients.length <= 1) {
+            decisionTreeState.step--; // Go back one more step
+            // Now handle going back from genre step (if applicable)
+            if (decisionTreeState.selections.genre) {
+                const uniqueGenres = [...new Set(productsWithIngredients.map(p => p.genre).filter(g => g))];
+                delete decisionTreeState.selections.genre;
+                // If genre was also auto-skipped, go back one more step
+                if (uniqueGenres.length <= 1) {
+                    decisionTreeState.step--;
+                    delete decisionTreeState.selections.variation;
+                }
+            }
+        }
+    } else if (decisionTreeState.selections.flavoring) {
+        // Check if flavoring step was auto-skipped (only one option)
+        const fruit = decisionTreeState.selections.fruit;
+        const genre = decisionTreeState.selections.genre;
+        const productsWithFlavoring = Object.values(inventoryData)
+            .filter(p => p.fruit === fruit && 
+                        (genre ? p.genre === genre : true) &&
+                        p.flavoring && 
+                        p.flavoring.trim() !== '' && 
+                        p.flavoring.toLowerCase() !== 'none' && 
+                        p.flavoring !== '*None*' &&
+                        Object.values(p.stock).some(qty => qty > 0));
+        const uniqueFlavorings = [...new Set(productsWithFlavoring.map(p => p.flavoring))];
+        
+        delete decisionTreeState.selections.flavoring;
+        
+        // If only one flavoring (auto-skipped), also skip back past it
+        if (uniqueFlavorings.length <= 1) {
+            decisionTreeState.step--; // Go back one more step
+            // Now handle going back from genre step (if applicable)
+            if (decisionTreeState.selections.genre) {
+                const uniqueGenres = [...new Set(productsWithFlavoring.map(p => p.genre).filter(g => g))];
+                delete decisionTreeState.selections.genre;
+                // If genre was also auto-skipped, go back one more step
+                if (uniqueGenres.length <= 1) {
+                    decisionTreeState.step--;
+                    delete decisionTreeState.selections.variation;
+                }
+            }
+        }
+    } else if (decisionTreeState.selections.genre && 
+               (decisionTreeState.selections.variation === 'ingredients' || 
+                decisionTreeState.selections.variation === 'flavoring')) {
+        // Check if genre was auto-skipped (only one available)
+        // If so, skip past it and go back to variation selection
+        const fruit = decisionTreeState.selections.fruit;
+        const variation = decisionTreeState.selections.variation;
+        
+        let uniqueGenres = [];
+        if (variation === 'ingredients') {
+            const productsWithIngredients = Object.values(inventoryData)
+                .filter(p => p.fruit === fruit && 
+                            p.ingredients && p.ingredients.trim() !== '' &&
+                            (!p.flavoring || p.flavoring.trim() === '' || p.flavoring.toLowerCase() === 'none' || p.flavoring === '*None*') &&
+                            Object.values(p.stock).some(qty => qty > 0));
+            uniqueGenres = [...new Set(productsWithIngredients.map(p => p.genre).filter(g => g))];
+        } else if (variation === 'flavoring') {
+            const productsWithFlavoring = Object.values(inventoryData)
+                .filter(p => p.fruit === fruit && 
+                            p.flavoring && 
+                            p.flavoring.trim() !== '' && 
+                            p.flavoring.toLowerCase() !== 'none' && 
+                            p.flavoring !== '*None*' &&
+                            Object.values(p.stock).some(qty => qty > 0));
+            uniqueGenres = [...new Set(productsWithFlavoring.map(p => p.genre).filter(g => g))];
+        }
+        
+        delete decisionTreeState.selections.genre;
+        
+        // If only one genre (auto-skipped), also skip back past variation
+        if (uniqueGenres.length <= 1) {
+            decisionTreeState.step--; // Go back one more step
+            delete decisionTreeState.selections.variation;
+        }
+    } else if (decisionTreeState.selections.variation) {
+        delete decisionTreeState.selections.variation;
+    } else if (decisionTreeState.selections.fruit) {
+        delete decisionTreeState.selections.fruit;
+    } else if (decisionTreeState.selections.tasterType) {
+        delete decisionTreeState.selections.tasterType;
+    } else if (decisionTreeState.selections.setType) {
+        delete decisionTreeState.selections.setType;
+    } else if (decisionTreeState.selections.type) {
+        delete decisionTreeState.selections.type;
+    }
+    
+    // Update browser history
+    const historyState = {
+        decisionTree: true,
+        step: decisionTreeState.step,
+        selections: {...decisionTreeState.selections}
+    };
+    history.pushState(historyState, '', window.location.href.split('#')[0] + '#decision-tree-step-' + decisionTreeState.step);
+    
+    updateDecisionTreeDisplay();
+}
+
+/**
+ * Reset decision tree
+ */
+function resetDecisionTree() {
+    decisionTreeState = { step: 0, selections: {} };
+    
+    // Update browser history
+    const historyState = {
+        decisionTree: true,
+        step: 0,
+        selections: {}
+    };
+    history.pushState(historyState, '', window.location.href.split('#')[0] + '#decision-tree-step-0');
+    
+    updateDecisionTreeDisplay();
+}
+
+/**
+ * Update decision tree display
+ */
+function updateDecisionTreeDisplay() {
+    const content = document.getElementById('decision-tree-content');
+    if (content) {
+        content.innerHTML = renderDecisionTreeStep();
+        
+        // If we're on the bulk/custom batch step, load the dynamic content
+        if (decisionTreeState.step === 1 && decisionTreeState.selections.type === 'bulk') {
+            loadPastFlavorsForDecisionTree();
+            loadBatchCapacityForDecisionTree();
+        }
+    }
+}
+
+/**
+ * Load past flavors for decision tree display
+ */
+function loadPastFlavorsForDecisionTree() {
+    const PAST_FLAVORS_URL = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vRGeDZ9VZDliVXZoEUb36lxDC-6VkQSIXt4Q9_V4eswdnwbSJnOJF78Ox_SvYtebvuziOnYVlDOgSve/pub?gid=1217309880&single=true&output=tsv';
+    
+    fetch(PAST_FLAVORS_URL)
+        .then(response => response.text())
+        .then(data => {
+            const rows = data.split('\n');
+            const container = document.getElementById('pastFlavorsDT');
+            
+            if (!container) return;
+            
+            if (rows.length <= 1) {
+                container.innerHTML = '<p style="color: #999;">No past flavors available yet.</p>';
+                return;
+            }
+            
+            const flavors = rows.slice(1)
+                .map(row => row.trim())
+                .filter(row => row.length > 0)
+                .map(row => {
+                    const columns = row.split('\t');
+                    return columns.filter(col => col && col.length > 0).join(' - ');
+                })
+                .filter(flavor => flavor && flavor.length > 0);
+            
+            if (flavors.length === 0) {
+                container.innerHTML = '<p style="color: #999;">No past flavors available yet.</p>';
+                return;
+            }
+            
+            container.innerHTML = '<ul style="color: #555; line-height: 1.8;">' + 
+                flavors.map(flavor => '<li>' + flavor + '</li>').join('') + 
+                '</ul>';
+        })
+        .catch(error => {
+            console.error('Error loading past flavors:', error);
+            const container = document.getElementById('pastFlavorsDT');
+            if (container) {
+                container.innerHTML = '<p style="color: #999;">Unable to load past flavors at this time.</p>';
+            }
+        });
+}
+
+/**
+ * Load batch capacity for decision tree display
+ */
+function loadBatchCapacityForDecisionTree() {
+    const INVENTORY_URL = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vRGeDZ9VZDliVXZoEUb36lxDC-6VkQSIXt4Q9_V4eswdnwbSJnOJF78Ox_SvYtebvuziOnYVlDOgSve/pub?gid=1393831276&single=true&output=tsv';
+    
+    fetch(INVENTORY_URL)
+        .then(response => response.text())
+        .then(data => {
+            const lines = data.trim().split('\n');
+            const headers = lines[0].split('\t');
+            const stock10ozIndex = headers.findIndex(h => h === 'Stock 10oz');
+            
+            const countElement = document.getElementById('batchCapacityCountDT');
+            const containerElement = document.getElementById('customBatchCapacityDT');
+            
+            if (!countElement || !containerElement) return;
+            
+            if (stock10ozIndex === -1) {
+                countElement.textContent = 'Custom batches available (Email with ideas).';
+                return;
+            }
+            
+            let totalCapacity = 0;
+            for (let i = 1; i < lines.length; i++) {
+                const values = lines[i].split('\t');
+                const capacity = parseInt(values[stock10ozIndex]) || 0;
+                totalCapacity += capacity;
+            }
+            
+            if (totalCapacity > 0) {
+                countElement.textContent = `${totalCapacity} custom ${totalCapacity === 1 ? 'batch' : 'batches'} available this month`;
+            } else {
+                countElement.textContent = 'Custom batches currently full - contact to join waitlist';
+                containerElement.style.background = '#fff3e0';
+                containerElement.style.borderLeft = '4px solid #ff9800';
+                countElement.style.color = '#e65100';
+            }
+        })
+        .catch(error => {
+            console.error('Error loading batch capacity:', error);
+            const countElement = document.getElementById('batchCapacityCountDT');
+            if (countElement) {
+                countElement.textContent = 'Contact for custom batch availability.';
+            }
+        });
+}
+
+/**
+ * Add to cart from decision tree
+ */
+function addToCartFromDecisionTree(productKey) {
+    const product = inventoryData[productKey];
+    let itemsAdded = false;
+    
+    for (const [size, qty] of Object.entries(product.stock)) {
+        const input = document.getElementById(`dt_${productKey}_${size}`);
+        if (input && parseInt(input.value) > 0) {
+            const quantity = parseInt(input.value);
+            
+            const existingIndex = cart.findIndex(item => 
+                item.productKey === productKey && item.size === size
+            );
+            
+            if (existingIndex >= 0) {
+                cart[existingIndex].quantity += quantity;
+            } else {
+                cart.push({
+                    productKey,
+                    name: product.name,
+                    size,
+                    quantity,
+                    batchId: product.batchId || productKey,
+                    maxStock: qty
+                });
+            }
+            
+            input.value = 0;
+            itemsAdded = true;
+        }
+    }
+    
+    if (itemsAdded) {
+        trackEvent('Ecommerce', 'add_to_cart', product.name + ' (Decision Tree)', 0);
+        saveCart();
+        updateCartDisplay();
+        
+        // Show success message
+        const content = document.getElementById('decision-tree-content');
+        content.innerHTML = `
+            <div class="text-center py-5">
+                <i class="fas fa-check-circle fa-4x text-success mb-3"></i>
+                <h4>Added to Cart!</h4>
+                <p class="lead">${product.name}</p>
+                <button class="btn btn-primary mr-2" onclick="resetDecisionTree()">
+                    <i class="fas fa-plus"></i> Add Another Item
+                </button>
+                <a href="#cart-section" class="btn btn-success">
+                    <i class="fas fa-shopping-cart"></i> View Cart & Checkout
+                </a>
+            </div>
+        `;
+    }
+}
+
+/**
+ * Select fruit taster flight from decision tree
+ */
+function selectFruitTasterFlight(fruit) {
+    const maxStock = getAvailableFruitTasterFlightSets(fruit);
+    
+    cart.push({
+        productKey: 'fruit-taster-flight',
+        name: `Fruit Taster Flight - ${fruit}`,
+        size: '4x4oz',
+        quantity: 1,
+        maxStock: maxStock,
+        fruitType: fruit
+    });
+    
+    trackEvent('Ecommerce', 'add_to_cart', 'Fruit Taster Flight - ' + fruit + ' (Decision Tree)', 24.00);
+    saveCart();
+    updateCartDisplay();
+    
+    // Show success
+    const content = document.getElementById('decision-tree-content');
+    content.innerHTML = `
+        <div class="text-center py-5">
+            <i class="fas fa-check-circle fa-4x text-success mb-3"></i>
+            <h4>Added to Cart!</h4>
+            <p class="lead">Fruit Taster Flight - ${fruit}</p>
+            <p class="badge badge-info">4 × 4oz - $24.00</p>
+            <button class="btn btn-primary mr-2" onclick="resetDecisionTree()">
+                <i class="fas fa-plus"></i> Add Another Item
+            </button>
+            <a href="#cart-section" class="btn btn-success">
+                <i class="fas fa-shopping-cart"></i> View Cart & Checkout
+            </a>
+        </div>
+    `;
+}
+
+/**
+ * Select flavoring taster flight from decision tree
+ */
+function selectFlavoringTasterFlight(flavoring) {
+    const maxStock = getAvailableFlavoringTasterFlightSets(flavoring);
+    
+    cart.push({
+        productKey: 'flavoring-taster-flight',
+        name: `Flavoring Taster Flight - ${flavoring}`,
+        size: '4x4oz',
+        quantity: 1,
+        maxStock: maxStock,
+        flavoringType: flavoring
+    });
+    
+    trackEvent('Ecommerce', 'add_to_cart', 'Flavoring Taster Flight - ' + flavoring + ' (Decision Tree)', 24.00);
+    saveCart();
+    updateCartDisplay();
+    
+    // Show success
+    const content = document.getElementById('decision-tree-content');
+    content.innerHTML = `
+        <div class="text-center py-5">
+            <i class="fas fa-check-circle fa-4x text-success mb-3"></i>
+            <h4>Added to Cart!</h4>
+            <p class="lead">Flavoring Taster Flight - ${flavoring}</p>
+            <p class="badge badge-info">4 × 4oz - $24.00</p>
+            <button class="btn btn-primary mr-2" onclick="resetDecisionTree()">
+                <i class="fas fa-plus"></i> Add Another Item
+            </button>
+            <a href="#cart-section" class="btn btn-success">
+                <i class="fas fa-shopping-cart"></i> View Cart & Checkout
+            </a>
+        </div>
+    `;
+}
+
+/**
+ * Add Classic Duo from decision tree
+ */
+function addClassicDuoFromDecisionTree() {
+    const maxStock = getAvailableClassicDuoSets();
+    
+    cart.push({
+        productKey: 'classic-duo-set',
+        name: 'Classic Duo Set',
+        size: '2x8oz',
+        quantity: 1,
+        maxStock: maxStock
+    });
+    
+    trackEvent('Ecommerce', 'add_to_cart', 'Classic Duo Set (Decision Tree)', 16.00);
+    saveCart();
+    updateCartDisplay();
+    
+    // Show success
+    const content = document.getElementById('decision-tree-content');
+    content.innerHTML = `
+        <div class="text-center py-5">
+            <i class="fas fa-check-circle fa-4x text-success mb-3"></i>
+            <h4>Added to Cart!</h4>
+            <p class="lead">Classic Duo Set</p>
+            <p class="badge badge-info">2 × 8oz - $16.00</p>
+            <button class="btn btn-primary mr-2" onclick="resetDecisionTree()">
+                <i class="fas fa-plus"></i> Add Another Item
+            </button>
+            <a href="#cart-section" class="btn btn-success">
+                <i class="fas fa-shopping-cart"></i> View Cart & Checkout
+            </a>
+        </div>
+    `;
+}
+
+/**
+ * Add Random Taster Flight from decision tree
+ */
+function selectRandomTasterFlight() {
+    const maxStock = getAvailableRandomTasterFlightSets();
+    
+    cart.push({
+        productKey: 'random-taster-flight',
+        name: 'Random Taster Flight',
+        size: '4x4oz',
+        quantity: 1,
+        maxStock: maxStock
+    });
+    
+    trackEvent('Ecommerce', 'add_to_cart', 'Random Taster Flight (Decision Tree)', 24.00);
+    saveCart();
+    updateCartDisplay();
+    
+    // Show success
+    const content = document.getElementById('decision-tree-content');
+    content.innerHTML = `
+        <div class="text-center py-5">
+            <i class="fas fa-check-circle fa-4x text-success mb-3"></i>
+            <h4>Added to Cart!</h4>
+            <p class="lead">Random Taster Flight</p>
+            <p class="badge badge-info">4 × 4oz - $24.00</p>
+            <p class="text-muted">4 completely random 4oz jars - a surprise selection!</p>
+            <button class="btn btn-primary mr-2" onclick="resetDecisionTree()">
+                <i class="fas fa-plus"></i> Add Another Item
+            </button>
+            <a href="#cart-section" class="btn btn-success">
+                <i class="fas fa-shopping-cart"></i> View Cart & Checkout
+            </a>
+        </div>
+    `;
+}
+
+/**
+ * Toggle between decision tree and browse all views
+ */
+function toggleViewMode() {
+    const decisionTreeSection = document.getElementById('decision-tree-section');
+    const browseAllSection = document.getElementById('browse-all-section');
+    const toggleButton = document.getElementById('view-mode-text');
+    
+    if (decisionTreeSection.style.display === 'none') {
+        decisionTreeSection.style.display = 'block';
+        browseAllSection.style.display = 'none';
+        toggleButton.textContent = 'Switch to Browse All View';
+        trackEvent('UI', 'view_mode', 'Decision Tree', 0);
+    } else {
+        decisionTreeSection.style.display = 'none';
+        browseAllSection.style.display = 'block';
+        toggleButton.textContent = 'Switch to Guided Shopping';
+        trackEvent('UI', 'view_mode', 'Browse All', 0);
+    }
+}
+
+/**
+ * Handle hash navigation from product links
+ * Automatically switch to browse-all view if URL has a product hash
+ */
+function handleHashNavigation() {
+    if (window.location.hash && window.location.hash.startsWith('#')) {
+        const hash = window.location.hash.substring(1);
+        const targetElement = document.getElementById(hash);
+        
+        // If target exists and is in the browse-all section, switch to that view
+        if (targetElement) {
+            const browseAllSection = document.getElementById('browse-all-section');
+            const decisionTreeSection = document.getElementById('decision-tree-section');
+            const toggleButton = document.getElementById('view-mode-text');
+            
+            if (browseAllSection && browseAllSection.contains(targetElement)) {
+                // Switch to browse-all view
+                decisionTreeSection.style.display = 'none';
+                browseAllSection.style.display = 'block';
+                toggleButton.textContent = 'Switch to Guided Shopping';
+                
+                // Scroll to the target element after a short delay to ensure rendering
+                setTimeout(() => {
+                    targetElement.scrollIntoView({ behavior: 'smooth', block: 'center' });
+                }, 100);
+                
+                trackEvent('UI', 'hash_navigation', hash, 0);
+            }
+        }
+    }
+}
+
+// Listen for hash changes (when user clicks product links)
+window.addEventListener('hashchange', handleHashNavigation);
+
+// Listen for browser back/forward navigation
+window.addEventListener('popstate', function(event) {
+    if (event.state && event.state.decisionTree) {
+        // Restore decision tree state from history
+        decisionTreeState.step = event.state.step;
+        decisionTreeState.selections = {...event.state.selections};
+        updateDecisionTreeDisplay();
+    }
+});
 
 // Initialize on page load
 document.addEventListener('DOMContentLoaded', loadInventoryForOrders);
