@@ -70,7 +70,7 @@
       if (product.alcohol && product.alcohol.toLowerCase() !== 'none') alcohols.add(product.alcohol);
     });
     
-    console.log('Populating filters - Fruits:', fruits.size, 'Genres:', genres.size, 'Alcohols:', alcohols.size);
+    console.log('Populating filters - Fruits:', fruits.size, 'Genres:', genres.size, 'Flavorings:', alcohols.size);
     
     // Populate fruit filter
     const fruitSelect = document.getElementById('filter-fruit');
@@ -112,7 +112,7 @@
         option.textContent = alcohol;
         alcoholSelect.appendChild(option);
       });
-      console.log('Populated alcohol filter with', alcohols.size, 'options');
+      console.log('Populated flavoring filter with', alcohols.size, 'options');
     } else {
       console.error('filter-alcohol element not found!');
     }
@@ -123,7 +123,7 @@
     const filters = {
       fruit: document.getElementById('filter-fruit')?.value || '',
       genre: document.getElementById('filter-genre')?.value || '',
-      alcohol: document.getElementById('filter-alcohol')?.value || '',
+      flavoring: document.getElementById('filter-alcohol')?.value || '',
       size: document.getElementById('filter-size')?.value || ''
     };
     localStorage.setItem('katja-jam-filters', JSON.stringify(filters));
@@ -137,7 +137,7 @@
         const filters = JSON.parse(saved);
         if (document.getElementById('filter-fruit')) document.getElementById('filter-fruit').value = filters.fruit || '';
         if (document.getElementById('filter-genre')) document.getElementById('filter-genre').value = filters.genre || '';
-        if (document.getElementById('filter-alcohol')) document.getElementById('filter-alcohol').value = filters.alcohol || '';
+        if (document.getElementById('filter-alcohol')) document.getElementById('filter-alcohol').value = filters.flavoring || filters.alcohol || ''; // Support old 'alcohol' key
         if (document.getElementById('filter-size')) document.getElementById('filter-size').value = filters.size || '';
         console.log('Loaded saved filters:', filters);
         return true;
